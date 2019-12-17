@@ -94,17 +94,19 @@ public class ModUpdater{
             Log.info("&lcCreating mods.json file...");
             Jval array = Jval.read("[]");
             for(String name : outnames){
-                Jval gmeta = ghmeta.get(name);
-                Jval modj = output.get(name);
-                Jval obj = Jval.read("{}");
+                if(name != "Anuken/ExampleMod"){
+                    Jval gmeta = ghmeta.get(name);
+                    Jval modj = output.get(name);
+                    Jval obj = Jval.read("{}");
 
-                obj.add("repo", name);
-                obj.add("name", gmeta.get("name"));
-                obj.add("author", modj.getString("author", gmeta.get("owner").get("login").toString()));
-                obj.add("last_updated", gmeta.get("updated_at"));
-                obj.add("stars", gmeta.get("stargazers_count"));
-                obj.add("description", modj.getString("description", modj.getString("description", "<none>")));
-                array.asArray().add(obj);
+                    obj.add("repo", name);
+                    obj.add("name", gmeta.get("name"));
+                    obj.add("author", modj.getString("author", gmeta.get("owner").get("login").toString()));
+                    obj.add("last_updated", gmeta.get("updated_at"));
+                    obj.add("stars", gmeta.get("stargazers_count"));
+                    obj.add("description", modj.getString("description", modj.getString("description", "<none>")));
+                    array.asArray().add(obj);
+                }
             }
 
             new Fi("mods.json").writeString(array.toString(Jformat.formatted));
