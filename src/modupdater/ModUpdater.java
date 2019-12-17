@@ -12,8 +12,6 @@ import io.anuke.arc.util.async.*;
 import io.anuke.arc.util.serialization.*;
 import io.anuke.arc.util.serialization.Jval.*;
 
-import java.time.*;
-import java.time.format.*;
 import java.util.*;
 
 import static io.anuke.arc.collection.StringMap.of;
@@ -114,21 +112,25 @@ public class ModUpdater{
             Log.info("&lcCommitting files...");
 
             pexec("git", "add", "mods.json");
-            pexec("git", "commit", "-m", "[" + DateTimeFormatter.ofPattern("MM-dd-yyyy | HH:mm:ss").format(LocalDateTime.now()) + "] auto-update");
+            pexec("git", "commit", "-m", "[auto-update]");
             pexec("git", "push");
+
+            Log.info("&lcDone. Exiting.");
         });
     }
 
     void pexec(String... command){
         String res = OS.exec(command);
         if(!res.trim().replace("\n", "").isEmpty()){
-            Log.info("| &y " + res.replace("\n", "\n&lg| &y"));
+            String p = "| &y " + res.replace("\n", "\n&lg| &y").replace("| &y\n", "");
+            if(p.endsWith("| &y")) p = p.substring(0, p.length() - "| &y".length() - 4);
+            Log.info(p);
         }
     }
 
     void query(String url, @Nullable StringMap params, Cons<Jval> cons){
         Core.net.httpGet(api + url + (params == null ? "" : "?" + params.keys().toArray().map(entry -> Strings.encode(entry) + "=" + Strings.encode(params.get(entry))).toString("&")), response -> {
-            Log.info("&lcQuery. Status: {0}; Queries remaining: {1}/{2}", response.getStatus(), response.getHeader("X-RateLimit-Remaining"), response.getHeader("X-RateLimit-Limit"));
+            Log.info("&lcSending search query. Status: {0}; Queries remaining: {1}/{2}", response.getStatus(), response.getHeader("X-RateLimit-Remaining"), response.getHeader("X-RateLimit-Limit"));
             try{
                 cons.get(Jval.read(response.getResultAsString()));
             }catch(Throwable error){
