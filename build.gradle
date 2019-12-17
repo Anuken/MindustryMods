@@ -1,6 +1,7 @@
 apply plugin: "java"
 
 sourceCompatibility = 1.8
+sourceSets.main.java.srcDirs = ["src/"]
 
 repositories{
     mavenCentral()
@@ -8,7 +9,7 @@ repositories{
 }
 
 dependencies{
-    compileOnly "com.github.Anuken.Arc:arc-core:v101n"
+    compile project(":Arc:arc-core")
 }
 
 jar{
