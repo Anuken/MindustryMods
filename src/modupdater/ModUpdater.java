@@ -12,6 +12,8 @@ import io.anuke.arc.util.async.*;
 import io.anuke.arc.util.serialization.*;
 import io.anuke.arc.util.serialization.Jval.*;
 
+import java.time.*;
+import java.time.format.*;
 import java.util.*;
 
 import static io.anuke.arc.collection.StringMap.of;
@@ -108,8 +110,20 @@ public class ModUpdater{
             }
 
             new Fi("mods.json").writeString(array.toString(Jformat.formatted));
-            Log.info("&lcDone. Exiting.");
+
+            Log.info("&lcCommitting files...");
+
+            pexec("git", "add", "mods.json");
+            pexec("git", "commit", "-m", "[" + DateTimeFormatter.ofPattern("MM-dd-yyyy | HH:mm:ss").format(LocalDateTime.now()) + "] auto-update");
+            pexec("git", "push");
         });
+    }
+
+    void pexec(String... command){
+        String res = OS.exec(command);
+        if(!res.trim().replace("\n", "").isEmpty()){
+            Log.info("| &y " + res.replace("\n", "\n&lg| &y"));
+        }
     }
 
     void query(String url, @Nullable StringMap params, Cons<Jval> cons){
