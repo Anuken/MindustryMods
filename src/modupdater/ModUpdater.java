@@ -106,6 +106,8 @@ public class ModUpdater{
                     obj.add("stars", gmeta.get("stargazers_count"));
                     obj.add("description", modj.getString("description", modj.getString("description", "<none>")));
                     array.asArray().add(obj);
+                }else{
+                    Log.info("&lcRepo was Anuken/ExampleMod, ignoring");
                 }
             }
 
