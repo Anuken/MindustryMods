@@ -3,12 +3,16 @@ package modupdater;
 import io.anuke.arc.*;
 import io.anuke.arc.Net.*;
 import io.anuke.arc.collection.*;
+import io.anuke.arc.files.*;
 import io.anuke.arc.func.*;
 import io.anuke.arc.math.*;
 import io.anuke.arc.util.ArcAnnotate.*;
 import io.anuke.arc.util.*;
 import io.anuke.arc.util.async.*;
 import io.anuke.arc.util.serialization.*;
+import io.anuke.arc.util.serialization.Jval.*;
+
+import java.util.*;
 
 import static io.anuke.arc.collection.StringMap.of;
 
@@ -41,11 +45,15 @@ public class ModUpdater{
                 Log.info("\n&lcFound {0} mods via topic.", added.size);
             });
 
-            Array<String> names = result.get("items").asArray().map(val -> val.get("full_name").toString());
+            ObjectMap<String, Jval> output = new ObjectMap<>();
+            ObjectMap<String, Jval> ghmeta = new ObjectMap<>();
+            Array<String> names = result.get("items").asArray().map(val -> {
+                ghmeta.put(val.get("full_name").toString(), val);
+                return val.get("full_name").toString();
+            });
 
             Log.info("&lcTotal mods found: {0}\n", names.size);
 
-            ObjectMap<String, Jval> output = new ObjectMap<>();
             Cons<Throwable> logger = t -> Log.info("&lc |&lr" + Strings.getSimpleMessage(t));
             int index = 0;
             for(String name : names){
@@ -71,7 +79,7 @@ public class ModUpdater{
                 }
 
                 if(modjson[0] == null){
-                    Log.info("&lc| &lySkipping, no mod.{h}json found.");
+                    Log.info("&lc| &lySkipping, no meta found.");
                     continue;
                 }
 
@@ -80,6 +88,27 @@ public class ModUpdater{
             }
 
             Log.info("&lcFound {0} valid mods.", output.size);
+            Array<String> outnames = output.keys().toArray();
+            outnames.sort(Comparator.comparingInt(s -> -ghmeta.get(s).getInt("stargazers_count", 0)));
+
+            Log.info("&lcCreating mods.json file...");
+            Jval array = Jval.read("[]");
+            for(String name : outnames){
+                Jval gmeta = ghmeta.get(name);
+                Jval modj = output.get(name);
+                Jval obj = Jval.read("{}");
+
+                obj.add("repo", name);
+                obj.add("name", gmeta.get("name"));
+                obj.add("author", modj.getString("author", gmeta.get("owner").get("login").toString()));
+                obj.add("last_updated", gmeta.get("updated_at"));
+                obj.add("stars", gmeta.get("stargazers_count"));
+                obj.add("description", modj.getString("description", modj.getString("description", "<none>")));
+                array.asArray().add(obj);
+            }
+
+            new Fi("mods.json").writeString(array.toString(Jformat.formatted));
+            Log.info("&lcDone. Exiting.");
         });
     }
 
