@@ -1,20 +1,20 @@
 package modupdater;
 
-import io.anuke.arc.*;
-import io.anuke.arc.Net.*;
-import io.anuke.arc.collection.*;
-import io.anuke.arc.files.*;
-import io.anuke.arc.func.*;
-import io.anuke.arc.math.*;
-import io.anuke.arc.util.ArcAnnotate.*;
-import io.anuke.arc.util.*;
-import io.anuke.arc.util.async.*;
-import io.anuke.arc.util.serialization.*;
-import io.anuke.arc.util.serialization.Jval.*;
+import arc.*;
+import arc.Net.*;
+import arc.files.*;
+import arc.func.*;
+import arc.math.*;
+import arc.struct.*;
+import arc.util.ArcAnnotate.*;
+import arc.util.*;
+import arc.util.async.*;
+import arc.util.serialization.*;
+import arc.util.serialization.Jval.*;
 
 import java.util.*;
 
-import static io.anuke.arc.collection.StringMap.of;
+import static arc.struct.StringMap.of;
 
 public class ModUpdater{
     static final String api = "https://api.github.com";
@@ -51,6 +51,8 @@ public class ModUpdater{
                 ghmeta.put(val.get("full_name").toString(), val);
                 return val.get("full_name").toString();
             });
+
+            names.remove("Anuken/ExampleMod");
 
             Log.info("&lcTotal mods found: {0}\n", names.size);
 
