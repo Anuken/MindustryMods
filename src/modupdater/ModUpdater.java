@@ -103,7 +103,7 @@ public class ModUpdater{
                 obj.add("repo", name);
                 obj.add("name", gmeta.get("name"));
                 obj.add("author", modj.getString("author", gmeta.get("owner").get("login").toString()));
-                obj.add("last_updated", gmeta.get("updated_at"));
+                obj.add("lastUpdated", gmeta.get("updated_at"));
                 obj.add("stars", gmeta.get("stargazers_count"));
                 obj.add("description", modj.getString("description", modj.getString("description", "<none>")));
                 array.asArray().add(obj);
