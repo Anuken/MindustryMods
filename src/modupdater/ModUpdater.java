@@ -91,7 +91,7 @@ public class ModUpdater{
 
             Log.info("&lcFound {0} valid mods.", output.size);
             Array<String> outnames = output.keys().toArray();
-            outnames.sort(Comparator.comparingInt(s -> -ghmeta.get(s).getInt("stargazers_count", 0)));
+            outnames.sort(Structs.comps(Comparator.comparingInt(s -> -ghmeta.get(s).getInt("stargazers_count", 0)), Structs.comparing(s -> ghmeta.get(s).getString("pushed_at"))));
 
             Log.info("&lcCreating mods.json file...");
             Jval array = Jval.read("[]");
@@ -103,7 +103,7 @@ public class ModUpdater{
                 obj.add("repo", name);
                 obj.add("name", gmeta.get("name"));
                 obj.add("author", modj.getString("author", gmeta.get("owner").get("login").toString()));
-                obj.add("lastUpdated", gmeta.get("updated_at"));
+                obj.add("lastUpdated", gmeta.get("pushed_at"));
                 obj.add("stars", gmeta.get("stargazers_count"));
                 obj.add("description", modj.getString("description", modj.getString("description", "<none>")));
                 array.asArray().add(obj);
