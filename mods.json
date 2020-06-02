@@ -672,14 +672,6 @@
     "description": "Adds [#ff9800]bronze[] to the game, made from [#ff9800]tin[] and copper."
   },
   {
-    "repo": "DeltaNedas/dev-mode",
-    "name": "dev-mode",
-    "author": "DeltaNedas",
-    "lastUpdated": "2020-02-02T20:12:22Z",
-    "stars": 2,
-    "description": "Lets you type into the console.\nPress [stat]F8[] to open."
-  },
-  {
     "repo": "SolarPH/Mindustry-Crystal-Pack",
     "name": "Mindustry-Crystal-Pack",
     "author": "SolarPH",
@@ -870,6 +862,14 @@
     "lastUpdated": "2020-06-02T16:35:49Z",
     "stars": 2,
     "description": "[blue]EN:\n[#990000]Techno mod\nAdds new items, factories, walls\nMode in active development\n[blue]RU:\n[#990000]Техно мод\nДобавляет новые предметы, заводы, стены\nМод в активной разработке\n\n[green]Url:\n[blue]VK group[#ffffff] - [#B9E641]https://vk.com/gittech\n[blue]VK author[#ffffff] - [#B9E641]https://vk.com/oleglysuhin\n[blue]Discord author[#ffffff] - [#E6D141]paulieg#9318"
+  },
+  {
+    "repo": "DeltaNedas/dev-mode",
+    "name": "dev-mode",
+    "author": "DeltaNedas",
+    "lastUpdated": "2020-06-02T20:48:57Z",
+    "stars": 2,
+    "description": "Lets you type into the console.\nPress [stat]F8[] to open on PC.\n[stat]Requires [#00aaff]DeltaNedas/ui-lib[] on mobile."
   },
   {
     "repo": "Prosta4okua/empty-mindustry-mod",
@@ -1742,5 +1742,13 @@
     "lastUpdated": "2020-06-02T16:49:04Z",
     "stars": 0,
     "description": "A simple mod Mod mo.d Dem[orange]o[gold]n[white]strates how to make[accent] new ores[] and[orange] machines and Mod.[]"
+  },
+  {
+    "repo": "DeltaNedas/ui-lib",
+    "name": "ui-lib",
+    "author": "DeltaNedas",
+    "lastUpdated": "2020-06-02T20:51:27Z",
+    "stars": 0,
+    "description": "Library for other mods that unifies and simplifies UI creation."
   }
 ]
