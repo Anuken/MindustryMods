@@ -6,15 +6,13 @@ import arc.files.*;
 import arc.func.*;
 import arc.math.*;
 import arc.struct.*;
-import arc.util.ArcAnnotate.*;
 import arc.util.*;
+import arc.util.ArcAnnotate.*;
 import arc.util.async.*;
 import arc.util.serialization.*;
 import arc.util.serialization.Jval.*;
 
-import java.util.*;
-
-import static arc.struct.StringMap.of;
+import static arc.struct.StringMap.*;
 
 public class ModUpdater{
     static final String api = "https://api.github.com";
