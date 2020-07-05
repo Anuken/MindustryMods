@@ -19,7 +19,7 @@ import static arc.struct.StringMap.of;
 public class ModUpdater{
     static final String api = "https://api.github.com";
     static final String searchTerm = "mindustry mod";
-    static final int perPage = 40;
+    static final int perPage = 100;
 
     public static void main(String[] args){
         Core.net = makeNet();
