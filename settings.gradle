@@ -1,9 +1,0 @@
-rootProject.name = 'MindustryMods'
-
-def use = { String name ->
-    include(name)
-    project(name).projectDir = new File(settingsDir, "../${name.substring(1).replace(":", "/")}")
-}
-
-use(':Arc')
-use(':Arc:arc-core')
