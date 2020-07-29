@@ -9,7 +9,7 @@ repositories{
 }
 
 dependencies{
-    compile project(":Arc:arc-core")
+    compile "com.github.Anuken.Arc:arc-core:d2dcaa6c88e82ee1958b1e019f63f6c64d3f843b"
 }
 
 jar{

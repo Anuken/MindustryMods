@@ -6,11 +6,13 @@ import arc.files.*;
 import arc.func.*;
 import arc.math.*;
 import arc.struct.*;
-import arc.util.*;
 import arc.util.ArcAnnotate.*;
+import arc.util.*;
 import arc.util.async.*;
 import arc.util.serialization.*;
 import arc.util.serialization.Jval.*;
+
+import java.util.*;
 
 import static arc.struct.StringMap.*;
 
@@ -36,29 +38,29 @@ public class ModUpdater{
             }
 
             query("/search/repositories", of("q", "topic:mindustry-mod", "per_page", perPage), topicresult -> {
-                Array<Jval> dest = result.get("items").asArray();
-                Array<Jval> added = topicresult.get("items").asArray().select(v -> !dest.contains(o -> o.get("full_name").equals(v.get("full_name"))));
+                Seq<Jval> dest = result.get("items").asArray();
+                Seq<Jval> added = topicresult.get("items").asArray().select(v -> !dest.contains(o -> o.get("full_name").equals(v.get("full_name"))));
                 dest.addAll(added);
 
-                Log.info("\n&lcFound {0} mods via topic.", added.size);
+                Log.info("\n&lcFound @ mods via topic.", added.size);
             });
 
             ObjectMap<String, Jval> output = new ObjectMap<>();
             ObjectMap<String, Jval> ghmeta = new ObjectMap<>();
-            Array<String> names = result.get("items").asArray().map(val -> {
+            Seq<String> names = result.get("items").asArray().map(val -> {
                 ghmeta.put(val.get("full_name").toString(), val);
                 return val.get("full_name").toString();
             });
 
             names.remove("Anuken/ExampleMod");
 
-            Log.info("&lcTotal mods found: {0}\n", names.size);
+            Log.info("&lcTotal mods found: @\n", names.size);
 
             Cons<Throwable> logger = t -> Log.info("&lc |&lr" + Strings.getSimpleMessage(t));
             int index = 0;
             for(String name : names){
                 Jval[] modjson = {null};
-                Log.info("&lc[{0}%] [{1}]&y: querying...", (int)((float)index++ / names.size * 100), name);
+                Log.info("&lc[@%] [@]&y: querying...", (int)((float)index++ / names.size * 100), name);
                 try{
                     Core.net.httpGet("https://raw.githubusercontent.com/" + name + "/master/mod.json", out -> {
                         if(out.getStatus() == HttpStatus.OK){
@@ -75,7 +77,7 @@ public class ModUpdater{
                         }
                     }, logger);
                 }catch(Throwable t){
-                    Log.info("&lc| &lySkipping. [{1}]", name, Strings.getSimpleMessage(t));
+                    Log.info("&lc| &lySkipping. [@]", name, Strings.getSimpleMessage(t));
                 }
 
                 if(modjson[0] == null){
@@ -87,8 +89,8 @@ public class ModUpdater{
                 output.put(name, modjson[0]);
             }
 
-            Log.info("&lcFound {0} valid mods.", output.size);
-            Array<String> outnames = output.keys().toArray();
+            Log.info("&lcFound @ valid mods.", output.size);
+            Seq<String> outnames = output.keys().toSeq();
             outnames.sort(Structs.comps(Comparator.comparingInt(s -> -ghmeta.get(s).getInt("stargazers_count", 0)), Structs.comparing(s -> ghmeta.get(s).getString("pushed_at"))));
 
             Log.info("&lcCreating mods.json file...");
@@ -129,8 +131,11 @@ public class ModUpdater{
     }
 
     void query(String url, @Nullable StringMap params, Cons<Jval> cons){
-        Core.net.httpGet(api + url + (params == null ? "" : "?" + params.keys().toArray().map(entry -> Strings.encode(entry) + "=" + Strings.encode(params.get(entry))).toString("&")), response -> {
-            Log.info("&lcSending search query. Status: {0}; Queries remaining: {1}/{2}", response.getStatus(), response.getHeader("X-RateLimit-Remaining"), response.getHeader("X-RateLimit-Limit"));
+        Core.net.http(new HttpRequest()
+            .timeout(10000)
+            .method(HttpMethod.GET)
+            .url(api + url + (params == null ? "" : "?" + params.keys().toSeq().map(entry -> Strings.encode(entry) + "=" + Strings.encode(params.get(entry))).toString("&"))), response -> {
+            Log.info("&lcSending search query. Status: @; Queries remaining: @/@", response.getStatus(), response.getHeader("X-RateLimit-Remaining"), response.getHeader("X-RateLimit-Limit"));
             try{
                 cons.get(Jval.read(response.getResultAsString()));
             }catch(Throwable error){
