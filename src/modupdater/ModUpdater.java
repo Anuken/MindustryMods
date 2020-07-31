@@ -99,13 +99,15 @@ public class ModUpdater{
                 Jval gmeta = ghmeta.get(name);
                 Jval modj = output.get(name);
                 Jval obj = Jval.read("{}");
+                String displayName = Strings.stripColors(modj.getString("displayName", "")).replace("\\n", "");
+                if(displayName.isEmpty()) displayName = gmeta.getString("name");
 
                 obj.add("repo", name);
-                obj.add("name", gmeta.get("name"));
+                obj.add("name", displayName);
                 obj.add("author", modj.getString("author", gmeta.get("owner").get("login").toString()));
                 obj.add("lastUpdated", gmeta.get("pushed_at"));
                 obj.add("stars", gmeta.get("stargazers_count"));
-                obj.add("description", modj.getString("description", modj.getString("description", "<none>")));
+                obj.add("description", modj.getString("description", "<none>"));
                 array.asArray().add(obj);
             }
 
