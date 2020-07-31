@@ -64,13 +64,13 @@ public class ModUpdater{
                 try{
                     Core.net.httpGet("https://raw.githubusercontent.com/" + name + "/master/mod.json", out -> {
                         if(out.getStatus() == HttpStatus.OK){
-                            //got mod.hjson
+                            //got mod.hson
                             modjson[0] = Jval.read(out.getResultAsString());
                         }else if(out.getStatus() == HttpStatus.NOT_FOUND){
-                            //try to get mod.json instead
+                            //try to get mod.hjson instead
                             Core.net.httpGet("https://raw.githubusercontent.com/" + name + "/master/mod.hjson", out2 -> {
                                 if(out2.getStatus() == HttpStatus.OK){
-                                    //got mod.json
+                                    //got mod.hjson
                                     modjson[0] = Jval.read(out2.getResultAsString());
                                 }
                             }, logger);
@@ -101,7 +101,7 @@ public class ModUpdater{
                 Jval obj = Jval.read("{}");
 
                 obj.add("repo", name);
-                obj.add("name", gmeta.get("name"));
+                obj.add("name", modj.getString("displayName", modj.getString("name", gmeta.get("name")));
                 obj.add("author", modj.getString("author", gmeta.get("owner").get("login").toString()));
                 obj.add("lastUpdated", gmeta.get("pushed_at"));
                 obj.add("stars", gmeta.get("stargazers_count"));
