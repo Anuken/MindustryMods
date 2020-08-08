@@ -107,6 +107,7 @@ public class ModUpdater{
                 obj.add("author", modj.getString("author", gmeta.get("owner").get("login").toString()));
                 obj.add("lastUpdated", gmeta.get("pushed_at"));
                 obj.add("stars", gmeta.get("stargazers_count"));
+                obj.add("minGameVersion", modj.getString("minGameVersion", "104"));
                 obj.add("description", modj.getString("description", "<none>"));
                 array.asArray().add(obj);
             }
