@@ -4,6 +4,7 @@ import arc.*;
 import arc.Net.*;
 import arc.files.*;
 import arc.func.*;
+import arc.graphics.*;
 import arc.math.*;
 import arc.struct.*;
 import arc.util.ArcAnnotate.*;
@@ -27,6 +28,12 @@ public class ModUpdater{
     }
 
     {
+        //register colors to facilitate their removal
+        Colors.put("accent", Color.white);
+        Colors.put("unlaunched",  Color.white);
+        Colors.put("highlight",  Color.white);
+        Colors.put("stat",  Color.white);
+
         query("/search/repositories", of("q", searchTerm, "per_page", perPage), result -> {
             int total = result.getInt("total_count", 0);
             int pages = Mathf.ceil((float)total / perPage);
@@ -103,12 +110,12 @@ public class ModUpdater{
                 if(displayName.isEmpty()) displayName = gmeta.getString("name");
 
                 obj.add("repo", name);
-                obj.add("name", displayName);
-                obj.add("author", modj.getString("author", gmeta.get("owner").get("login").toString()));
+                obj.add("name", Strings.stripColors(displayName));
+                obj.add("author", Strings.stripColors(modj.getString("author", gmeta.get("owner").get("login").toString())));
                 obj.add("lastUpdated", gmeta.get("pushed_at"));
                 obj.add("stars", gmeta.get("stargazers_count"));
                 obj.add("minGameVersion", modj.getString("minGameVersion", "104"));
-                obj.add("description", modj.getString("description", "<none>"));
+                obj.add("description", Strings.stripColors(modj.getString("description", "<none>")));
                 array.asArray().add(obj);
             }
 
