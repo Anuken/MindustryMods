@@ -7,7 +7,6 @@ import arc.func.*;
 import arc.graphics.*;
 import arc.math.*;
 import arc.struct.*;
-import arc.util.ArcAnnotate.*;
 import arc.util.*;
 import arc.util.async.*;
 import arc.util.serialization.*;
@@ -109,12 +108,19 @@ public class ModUpdater{
                 String displayName = Strings.stripColors(modj.getString("displayName", "")).replace("\\n", "");
                 if(displayName.isEmpty()) displayName = gmeta.getString("name");
 
+                //skip outdated mods
+                String version = modj.getString("minGameVersion", "104");
+                int minBuild = Strings.parseInt(version.contains(".") ? version.split("\\.")[0] : version, 0);
+                if(minBuild < 105){
+                    continue;
+                }
+
                 obj.add("repo", name);
                 obj.add("name", Strings.stripColors(displayName));
                 obj.add("author", Strings.stripColors(modj.getString("author", gmeta.get("owner").get("login").toString())));
                 obj.add("lastUpdated", gmeta.get("pushed_at"));
                 obj.add("stars", gmeta.get("stargazers_count"));
-                obj.add("minGameVersion", modj.getString("minGameVersion", "104"));
+                obj.add("minGameVersion", version);
                 obj.add("description", Strings.stripColors(modj.getString("description", "<none>")));
                 array.asArray().add(obj);
             }
