@@ -43,13 +43,15 @@ public class ModUpdater{
                 });
             }
 
-            query("/search/repositories", of("q", "topic:mindustry-mod", "per_page", perPage), topicresult -> {
-                Seq<Jval> dest = result.get("items").asArray();
-                Seq<Jval> added = topicresult.get("items").asArray().select(v -> !dest.contains(o -> o.get("full_name").equals(v.get("full_name"))));
-                dest.addAll(added);
+            for(String topic : new String[]{"mindustry-mod", "mindustry-mod-v6"}){
+                query("/search/repositories", of("q", "topic:" + topic, "per_page", perPage), topicresult -> {
+                    Seq<Jval> dest = result.get("items").asArray();
+                    Seq<Jval> added = topicresult.get("items").asArray().select(v -> !dest.contains(o -> o.get("full_name").equals(v.get("full_name"))));
+                    dest.addAll(added);
 
-                Log.info("\n&lcFound @ mods via topic.", added.size);
-            });
+                    Log.info("\n&lcFound @ mods via topic: " + topic, added.size);
+                });
+            }
 
             ObjectMap<String, Jval> output = new ObjectMap<>();
             ObjectMap<String, Jval> ghmeta = new ObjectMap<>();
@@ -59,6 +61,7 @@ public class ModUpdater{
             });
 
             names.remove("Anuken/ExampleMod");
+            names.remove("Anuken/ExampleJavaMod");
 
             Log.info("&lcTotal mods found: @\n", names.size);
 
@@ -115,12 +118,16 @@ public class ModUpdater{
                     continue;
                 }
 
+                String lang = gmeta.has("language") && !gmeta.get("language").isNull() ? gmeta.getString("language") : "";
+
                 obj.add("repo", name);
                 obj.add("name", Strings.stripColors(displayName));
                 obj.add("author", Strings.stripColors(modj.getString("author", gmeta.get("owner").get("login").toString())));
                 obj.add("lastUpdated", gmeta.get("pushed_at"));
                 obj.add("stars", gmeta.get("stargazers_count"));
                 obj.add("minGameVersion", version);
+                obj.add("hasScripts", Jval.valueOf(lang.equals("JavaScript")));
+                obj.add("hasJava", Jval.valueOf(lang.equals("Java")));
                 obj.add("description", Strings.stripColors(modj.getString("description", "<none>")));
                 array.asArray().add(obj);
             }

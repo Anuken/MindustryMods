@@ -1,0 +1,1 @@
+./gradlew run -Dorg.gradle.daemon=false
