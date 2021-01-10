@@ -134,23 +134,8 @@ public class ModUpdater{
 
             new Fi("mods.json").writeString(array.toString(Jformat.formatted));
 
-            Log.info("&lcCommitting files...");
-
-            pexec("git", "add", "mods.json");
-            pexec("git", "commit", "-m", "[auto-update]");
-            pexec("git", "push");
-
             Log.info("&lcDone. Exiting.");
         });
-    }
-
-    void pexec(String... command){
-        String res = OS.exec(command);
-        if(!res.trim().replace("\n", "").isEmpty()){
-            String p = "| &y " + res.replace("\n", "\n&lg| &y").replace("| &y\n", "");
-            if(p.endsWith("| &y")) p = p.substring(0, p.length() - "| &y".length() - 4);
-            Log.info(p);
-        }
     }
 
     void query(String url, @Nullable StringMap params, Cons<Jval> cons){
