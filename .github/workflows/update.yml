@@ -26,6 +26,6 @@ jobs:
         git config --global user.email "cli@github.com"
         git config --global user.name "Github Actions"
         git add mods.json
-        git commit -m "[auto-update]"
+        git commit --allow-empty -m "[auto-update]"
         git push https://Anuken:${{ secrets.API_TOKEN_GITHUB }}@github.com/Anuken/MindustryMods
       
