@@ -133,7 +133,7 @@ public class ModUpdater{
                 //got mod.(h)json
                 return Jval.read(out.getResultAsString());
             }else if(out.getStatus() == HttpStatus.NOT_FOUND){
-                //try to get mod.json instead
+                //try to get the next mod.(h)json instead
                 return tryFetch(name, logger, tries + 1);
             }
         }, logger);
