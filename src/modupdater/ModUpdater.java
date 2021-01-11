@@ -20,6 +20,7 @@ public class ModUpdater{
     static final String api = "https://api.github.com";
     static final String searchTerm = "mindustry mod";
     static final int perPage = 100;
+    static final String[] modFiles = new String[]{"/6.0/mod.json", "/6.0/mod.hjson", "/master/mod.json", "/master/mod.hjson"};
 
     public static void main(String[] args){
         Core.net = makeNet();
@@ -71,20 +72,7 @@ public class ModUpdater{
                 Jval[] modjson = {null};
                 Log.info("&lc[@%] [@]&y: querying...", (int)((float)index++ / names.size * 100), name);
                 try{
-                    Core.net.httpGet("https://raw.githubusercontent.com/" + name + "/master/mod.json", out -> {
-                        if(out.getStatus() == HttpStatus.OK){
-                            //got mod.hjson
-                            modjson[0] = Jval.read(out.getResultAsString());
-                        }else if(out.getStatus() == HttpStatus.NOT_FOUND){
-                            //try to get mod.json instead
-                            Core.net.httpGet("https://raw.githubusercontent.com/" + name + "/master/mod.hjson", out2 -> {
-                                if(out2.getStatus() == HttpStatus.OK){
-                                    //got mod.json
-                                    modjson[0] = Jval.read(out2.getResultAsString());
-                                }
-                            }, logger);
-                        }
-                    }, logger);
+                    modjson[0] = tryFetch(name, logger, 0);
                 }catch(Throwable t){
                     Log.info("&lc| &lySkipping. [@]", name, Strings.getSimpleMessage(t));
                 }
@@ -136,6 +124,19 @@ public class ModUpdater{
 
             Log.info("&lcDone. Exiting.");
         });
+    }
+    
+    Jval tryFetch(String name, Cons<Throwable> logger, int tries){
+        if(tries >= modFiles.length) return null;
+        Core.net.httpGet("https://raw.githubusercontent.com/" + name + modFiles[tries], out -> {
+            if(out.getStatus() == HttpStatus.OK){
+                //got mod.(h)json
+                return Jval.read(out.getResultAsString());
+            }else if(out.getStatus() == HttpStatus.NOT_FOUND){
+                //try to get mod.json instead
+                return tryFetch(name, logger, tries + 1);
+            }
+        }, logger);
     }
 
     void query(String url, @Nullable StringMap params, Cons<Jval> cons){
