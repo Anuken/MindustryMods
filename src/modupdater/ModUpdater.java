@@ -71,16 +71,32 @@ public class ModUpdater{
                 Jval[] modjson = {null};
                 Log.info("&lc[@%] [@]&y: querying...", (int)((float)index++ / names.size * 100), name);
                 try{
-                    Core.net.httpGet("https://raw.githubusercontent.com/" + name + "/master/mod.json", out -> {
+                    //TODO make this less terrible
+                    Core.net.httpGet("https://raw.githubusercontent.com/" + name + "/master/mod.json", out -> { //master
                         if(out.getStatus() == HttpStatus.OK){
                             //got mod.hjson
                             modjson[0] = Jval.read(out.getResultAsString());
                         }else if(out.getStatus() == HttpStatus.NOT_FOUND){
                             //try to get mod.json instead
-                            Core.net.httpGet("https://raw.githubusercontent.com/" + name + "/master/mod.hjson", out2 -> {
+                            Core.net.httpGet("https://raw.githubusercontent.com/" + name + "/master/mod.hjson", out2 -> { //master
                                 if(out2.getStatus() == HttpStatus.OK){
                                     //got mod.json
                                     modjson[0] = Jval.read(out2.getResultAsString());
+                                }else if(out.getStatus() == HttpStatus.NOT_FOUND){
+                                    Core.net.httpGet("https://raw.githubusercontent.com/" + name + "/main/mod.json", out3 -> { //main
+                                        if(out.getStatus() == HttpStatus.OK){
+                                            //got mod.hjson
+                                            modjson[0] = Jval.read(out3.getResultAsString());
+                                        }else if(out.getStatus() == HttpStatus.NOT_FOUND){
+                                            //try to get mod.json instead
+                                            Core.net.httpGet("https://raw.githubusercontent.com/" + name + "/main/mod.hjson", out4 -> { //main
+                                                if(out2.getStatus() == HttpStatus.OK){
+                                                    //got mod.json
+                                                    modjson[0] = Jval.read(out4.getResultAsString());
+                                                }
+                                            }, logger);
+                                        }
+                                    }, logger);
                                 }
                             }, logger);
                         }
