@@ -12,12 +12,6 @@ dependencies{
     compile "com.github.Anuken.Arc:arc-core:375e9ad393521119488922560d8900c6edc937f6"
 }
 
-jar{
-    from{
-        configurations.runtimeClasspath.collect{it.isDirectory() ? it : zipTree(it)}
-    }
-}
-
 task run(dependsOn: classes, type: JavaExec){
     main = "modupdater.ModUpdater"
     classpath = sourceSets.main.runtimeClasspath
