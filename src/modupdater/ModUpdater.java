@@ -17,9 +17,10 @@ import java.util.*;
 import static arc.struct.StringMap.*;
 
 public class ModUpdater{
-    static final String api = "https://api.github.com";
-    static final String searchTerm = "mindustry mod";
+    static final String api = "https://api.github.com", searchTerm = "mindustry mod";
     static final int perPage = 100;
+    static final ObjectSet<String> javaLangs = ObjectSet.with("Java", "Kotlin", "Groovy"); //obviously not a comprehensive list
+    static final ObjectSet<String> blacklist = ObjectSet.with("TheSaus/Cumdustry"); //wtf
 
     public static void main(String[] args){
         Core.net = makeNet();
@@ -65,53 +66,25 @@ public class ModUpdater{
 
             Log.info("&lcTotal mods found: @\n", names.size);
 
-            Cons<Throwable> logger = t -> Log.info("&lc |&lr" + Strings.getSimpleMessage(t));
             int index = 0;
             for(String name : names){
-                Jval[] modjson = {null};
+                if(blacklist.contains(name)) continue;
+
                 Log.info("&lc[@%] [@]&y: querying...", (int)((float)index++ / names.size * 100), name);
                 try{
-                    //TODO make this less terrible
-                    Core.net.httpGet("https://raw.githubusercontent.com/" + name + "/master/mod.json", out -> { //master
-                        if(out.getStatus() == HttpStatus.OK){
-                            //got mod.hjson
-                            modjson[0] = Jval.read(out.getResultAsString());
-                        }else if(out.getStatus() == HttpStatus.NOT_FOUND){
-                            //try to get mod.json instead
-                            Core.net.httpGet("https://raw.githubusercontent.com/" + name + "/master/mod.hjson", out2 -> { //master
-                                if(out2.getStatus() == HttpStatus.OK){
-                                    //got mod.json
-                                    modjson[0] = Jval.read(out2.getResultAsString());
-                                }else if(out.getStatus() == HttpStatus.NOT_FOUND){
-                                    Core.net.httpGet("https://raw.githubusercontent.com/" + name + "/main/mod.json", out3 -> { //main
-                                        if(out.getStatus() == HttpStatus.OK){
-                                            //got mod.hjson
-                                            modjson[0] = Jval.read(out3.getResultAsString());
-                                        }else if(out.getStatus() == HttpStatus.NOT_FOUND){
-                                            //try to get mod.json instead
-                                            Core.net.httpGet("https://raw.githubusercontent.com/" + name + "/main/mod.hjson", out4 -> { //main
-                                                if(out2.getStatus() == HttpStatus.OK){
-                                                    //got mod.json
-                                                    modjson[0] = Jval.read(out4.getResultAsString());
-                                                }
-                                            }, logger);
-                                        }
-                                    }, logger);
-                                }
-                            }, logger);
-                        }
-                    }, logger);
+                    String branch = ghmeta.get(name).getString("default_branch");
+                    Jval modjson = tryList(name + "/" + branch + "/mod.json", name + "/" + branch + "/mod.hjson", name + "/" + branch + "/assets/mod.json", name + "/" + branch + "/assets/mod.hjson");
+
+                    if(modjson == null){
+                        Log.info("&lc| &lySkipping, no meta found.");
+                        continue;
+                    }
+
+                    Log.info("&lc|&lg Found mod meta file!");
+                    output.put(name, modjson);
                 }catch(Throwable t){
                     Log.info("&lc| &lySkipping. [@]", name, Strings.getSimpleMessage(t));
                 }
-
-                if(modjson[0] == null){
-                    Log.info("&lc| &lySkipping, no meta found.");
-                    continue;
-                }
-
-                Log.info("&lc|&lg Found mod meta file!");
-                output.put(name, modjson[0]);
             }
 
             Log.info("&lcFound @ valid mods.", output.size);
@@ -121,11 +94,11 @@ public class ModUpdater{
             Log.info("&lcCreating mods.json file...");
             Jval array = Jval.read("[]");
             for(String name : outnames){
-                Jval gmeta = ghmeta.get(name);
+                Jval gm = ghmeta.get(name);
                 Jval modj = output.get(name);
                 Jval obj = Jval.read("{}");
                 String displayName = Strings.stripColors(modj.getString("displayName", "")).replace("\\n", "");
-                if(displayName.isEmpty()) displayName = gmeta.getString("name");
+                if(displayName.isEmpty()) displayName = gm.getString("name");
 
                 //skip outdated mods
                 String version = modj.getString("minGameVersion", "104");
@@ -134,16 +107,16 @@ public class ModUpdater{
                     continue;
                 }
 
-                String lang = gmeta.has("language") && !gmeta.get("language").isNull() ? gmeta.getString("language") : "";
+                String lang = gm.has("language") && !gm.get("language").isNull() ? gm.getString("language") : "";
 
                 obj.add("repo", name);
-                obj.add("name", Strings.stripColors(displayName));
-                obj.add("author", Strings.stripColors(modj.getString("author", gmeta.get("owner").get("login").toString())));
-                obj.add("lastUpdated", gmeta.get("pushed_at"));
-                obj.add("stars", gmeta.get("stargazers_count"));
+                obj.add("name", Strings.stripColors(displayName).replace("\n", ""));
+                obj.add("author", Strings.stripColors(modj.getString("author", gm.get("owner").get("login").toString())));
+                obj.add("lastUpdated", gm.get("pushed_at"));
+                obj.add("stars", gm.get("stargazers_count"));
                 obj.add("minGameVersion", version);
                 obj.add("hasScripts", Jval.valueOf(lang.equals("JavaScript")));
-                obj.add("hasJava", Jval.valueOf(lang.equals("Java")));
+                obj.add("hasJava", Jval.valueOf(modj.getBool("java", false) || javaLangs.contains(lang)));
                 obj.add("description", Strings.stripColors(modj.getString("description", "<none>")));
                 array.asArray().add(obj);
             }
@@ -152,6 +125,19 @@ public class ModUpdater{
 
             Log.info("&lcDone. Exiting.");
         });
+    }
+
+    Jval tryList(String... queries){
+        Jval[] result = {null};
+        for(String str : queries){
+            //try to get mod.json instead
+            Core.net.httpGet(str, out -> { //hjson
+                if(out.getStatus() == HttpStatus.OK){
+                    result[0] = Jval.read(out.getResultAsString());
+                }
+            }, t -> Log.info("&lc |&lr" + Strings.getSimpleMessage(t)));
+        }
+        return result[0];
     }
 
     void query(String url, @Nullable StringMap params, Cons<Jval> cons){
