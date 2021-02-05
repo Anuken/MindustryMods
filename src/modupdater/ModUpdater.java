@@ -131,7 +131,7 @@ public class ModUpdater{
         Jval[] result = {null};
         for(String str : queries){
             //try to get mod.json instead
-            Core.net.httpGet(str, out -> { //hjson
+            Core.net.httpGet("https://raw.githubusercontent.com/" + str, out -> { //hjson
                 if(out.getStatus() == HttpStatus.OK){
                     result[0] = Jval.read(out.getResultAsString());
                 }
