@@ -20,7 +20,7 @@ public class ModUpdater{
     static final String api = "https://api.github.com", searchTerm = "mindustry mod";
     static final int perPage = 100;
     static final ObjectSet<String> javaLangs = ObjectSet.with("Java", "Kotlin", "Groovy"); //obviously not a comprehensive list
-    static final ObjectSet<String> blacklist = ObjectSet.with("TheSaus/Cumdustry"); //wtf
+    static final ObjectSet<String> blacklist = ObjectSet.with("TheSaus/Cumdustry"); //really?
 
     public static void main(String[] args){
         Core.net = makeNet();
@@ -107,7 +107,7 @@ public class ModUpdater{
                     continue;
                 }
 
-                String lang = gm.has("language") && !gm.get("language").isNull() ? gm.getString("language") : "";
+                String lang = gm.getString("language", "");
 
                 obj.add("repo", name);
                 obj.add("name", Strings.stripColors(displayName).replace("\n", ""));
