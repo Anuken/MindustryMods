@@ -23,7 +23,7 @@ public class ModUpdater{
     static final int perPage = 100;
     static final ObjectSet<String> javaLangs = ObjectSet.with("Java", "Kotlin", "Groovy"); //obviously not a comprehensive list
     static final ObjectSet<String> blacklist = ObjectSet.with("TheSaus/Cumdustry"); //really?
-    static final int iconSize = 48;
+    static final int iconSize = 64;
 
     public static void main(String[] args){
         Core.net = makeNet();
