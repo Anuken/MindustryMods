@@ -21,6 +21,7 @@ import static arc.struct.StringMap.*;
 public class ModUpdater{
     static final String api = "https://api.github.com", searchTerm = "mindustry mod";
     static final int perPage = 100;
+    static final int maxLength = 55;
     static final ObjectSet<String> javaLangs = ObjectSet.with("Java", "Kotlin", "Groovy"); //obviously not a comprehensive list
     static final ObjectSet<String> blacklist = ObjectSet.with("TheSaus/Cumdustry"); //really?
     static final int iconSize = 64;
@@ -129,15 +130,18 @@ public class ModUpdater{
 
                 String lang = gm.getString("language", "");
 
+                String metaName = Strings.stripColors(displayName).replace("\n", "");
+                if(metaName.length() > maxLength) metaName = name.substring(0, maxLength) + "...";
+
                 obj.add("repo", name);
-                obj.add("name", Strings.stripColors(displayName).replace("\n", ""));
+                obj.add("name", metaName);
                 obj.add("author", Strings.stripColors(modj.getString("author", gm.get("owner").get("login").toString())));
                 obj.add("lastUpdated", gm.get("pushed_at"));
                 obj.add("stars", gm.get("stargazers_count"));
                 obj.add("minGameVersion", version);
                 obj.add("hasScripts", Jval.valueOf(lang.equals("JavaScript")));
                 obj.add("hasJava", Jval.valueOf(modj.getBool("java", false) || javaLangs.contains(lang)));
-                obj.add("description", Strings.stripColors(modj.getString("description", "<none>")));
+                obj.add("description", Strings.stripColors(modj.getString("description", "No description provided.")));
                 array.asArray().add(obj);
             }
 
