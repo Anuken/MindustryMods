@@ -67,6 +67,7 @@ public class ModUpdater{
 
             names.remove("Anuken/ExampleMod");
             names.remove("Anuken/ExampleJavaMod");
+            names.remove("Anuken/ExampleKotlinMod");
 
             Fi icons = Fi.get("icons");
 
