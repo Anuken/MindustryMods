@@ -22,6 +22,17 @@
     "description": "My first Java mod, has the same amount of chaotic energy of sk7725/Commandblocks."
   },
   {
+    "repo": "pixaxeofpixie/Braindustry-Mod",
+    "name": "Braindustry",
+    "author": "PixaxeOfPixie",
+    "lastUpdated": "2021-02-08T07:15:48Z",
+    "stars": 68,
+    "minGameVersion": "124",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Huge Mindustry mod that ecpands end game content with new materials, units and turrets."
+  },
+  {
     "repo": "Slava0135/reVision",
     "name": "reVision",
     "author": "Slava0135",
@@ -33,23 +44,12 @@
     "description": "A new way forward in vanilla style. Also try out DeltaNedas/Routorio!"
   },
   {
-    "repo": "pixaxeofpixie/Braindustry-Mod",
-    "name": "Braindustry",
-    "author": "PixaxeOfPixie",
-    "lastUpdated": "2021-02-08T07:15:48Z",
-    "stars": 67,
-    "minGameVersion": "124",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Huge Mindustry mod that ecpands end game content with new materials, units and turrets."
-  },
-  {
     "repo": "TheSlaylord/GoldMod",
     "name": "Gold Mod",
     "author": "The Slaylord",
-    "lastUpdated": "2021-02-04T17:56:06Z",
+    "lastUpdated": "2021-02-08T17:19:21Z",
     "stars": 47,
-    "minGameVersion": "123",
+    "minGameVersion": "124",
     "hasScripts": true,
     "hasJava": false,
     "description": "This mod adds new items, blocks, turrets, units and zones to the game. Includes a custom expanding lore!\n\n> Discord: https://discord.gg/kCvJKyb\n> GitHub: https://github.com/TheSlaylord/GoldMod"
@@ -418,17 +418,6 @@
     "description": "A fun mod that adds yeeters and other small additions."
   },
   {
-    "repo": "Yuria-Shikibe/NewHorizonMod",
-    "name": "NewHorizonMod",
-    "author": "Yuria",
-    "lastUpdated": "2021-02-08T13:46:44Z",
-    "stars": 9,
-    "minGameVersion": "122",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Expanded contents, including Units, Turrets, Blocks, etc.\n\n      Here, I add three setting on the start menu and two of them are available, where you can set to use the Advanced Load and Debug Panel"
-  },
-  {
     "repo": "sk7725/Immundustry",
     "name": "Immundustry",
     "author": "sk7725",
@@ -460,6 +449,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": ""
+  },
+  {
+    "repo": "Yuria-Shikibe/NewHorizonMod",
+    "name": "NewHorizonMod",
+    "author": "Yuria",
+    "lastUpdated": "2021-02-08T16:24:15Z",
+    "stars": 8,
+    "minGameVersion": "122",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Expanded contents, including Units, Turrets, Blocks, etc.\n\n This mod adds a new setting dialog when start the game. By choose the available setting, you can activate in-game debug panel and advance load, which creates outline icons and unit full icons automatically. However, the advance load now causes stuck problem when the game is loaded on a phone. So for your gaming experience, I made it defaults false. If you are confident with your device, active it. If you find your device cannot afford it, open the mod file folder and find the 'new-horizon' folder then open the properties file in it, and then rewrite the ''@active.advance-load*' to false, then open the game again."
   },
   {
     "repo": "QmelZ/mainstreamdustry",
