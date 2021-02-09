@@ -80,7 +80,7 @@
     "repo": "HolyHades/VanillaEnhanced",
     "name": "VanillaEnhanced",
     "author": "HolyHades",
-    "lastUpdated": "2020-11-21T08:10:34Z",
+    "lastUpdated": "2021-02-09T16:34:10Z",
     "stars": 45,
     "minGameVersion": "105",
     "hasScripts": false,
@@ -231,6 +231,17 @@
     "description": "Various blocks, some units, and the block scan pages, etc.... there's a variety of content!"
   },
   {
+    "repo": "MEEPofFaith/progressed-materials",
+    "name": "Progressed Materials",
+    "author": "Creator:\n    MEEP of Faith\n\nContributors:\n    ThirstyBoi (Eruptor sprites)\n    Goober (Kugelblitz and Popeshadow sprites)\n    VozDuh (Missile turret sprites, new icon)\n    Ilya246 (Luminocity ramping)\n    Some sounds from Freesound.\n    Anyone I stole code from.",
+    "lastUpdated": "2021-02-09T10:45:03Z",
+    "stars": 21,
+    "minGameVersion": "124",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Just a hell hole of script chaos. The end.\n\nThe name definitely isn't made of the synonyms of \"Advance\" and \"Content\"."
+  },
+  {
     "repo": "DeltaNedas/dev-mode",
     "name": "Developer Mode",
     "author": "DeltaNedas",
@@ -312,22 +323,11 @@
     "name": "Exotic Mod",
     "author": "Devs: K103908, BlueWolf, MEEP Of Faith, AndromedaFallen\nContributors: Quezler, VozDuh",
     "lastUpdated": "2021-02-08T20:41:39Z",
-    "stars": 12,
+    "stars": 13,
     "minGameVersion": "122",
     "hasScripts": false,
     "hasJava": false,
     "description": "We got together over the Mindustry Discord to bring you this exotic mod. Adds in a few things we thought would be fun.\nUpdate log:\n  BlueWolf is respriting the mod, so your precious eyes are saved.\n  Exotic is being alpha playtested in attack, so some rebalancing is going on.\n  Oh and hellfire has more armor. good luck :)"
-  },
-  {
-    "repo": "theangelurd/Additional-Content",
-    "name": " Additional  Content",
-    "author": "Tayros/theangelurd",
-    "lastUpdated": "2021-01-31T21:58:00Z",
-    "stars": 11,
-    "minGameVersion": "122",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": " Please note that the mod has some problems with unit reconstructors/factories, so please wait for it to be fixed. Only way to spawn units is with Deltanedas/unitfactory and custom game in a non-attack map in sandbox.I know the name is very boring but i can't find another name. A mod that adds a great amount of content to the game. Have fun with the mod."
   },
   {
     "repo": "abomb4/super-cheat",
@@ -350,6 +350,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Expanded contents, including Units, Turrets, Blocks, etc.\n\n This mod adds a new setting dialog when start the game. By choose the available setting, you can activate in-game debug panel and advance load, which creates outline icons and unit full icons automatically. However, the advance load now causes stuck problem when the game is loaded on a phone. So for your gaming experience, I made it defaults false. If you are confident with your device, active it. If you find your device cannot afford it, open the mod file folder and find the 'new-horizon' folder then open the properties file in it, and then rewrite the ''@active.advance-load*' to false, then open the game again."
+  },
+  {
+    "repo": "theangelurd/Additional-Content",
+    "name": " Additional  Content",
+    "author": "Tayros/theangelurd",
+    "lastUpdated": "2021-02-09T15:30:58Z",
+    "stars": 11,
+    "minGameVersion": "122",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": " Please note that the mod has some problems with unit reconstructors/factories, so please wait for it to be fixed. Only way to spawn units is with Deltanedas/unitfactory and custom game in a non-attack map in sandbox.I know the name is very boring but i can't find another name. A mod that adds a great amount of content to the game. Have fun with the mod."
   },
   {
     "repo": "sk7725/EXP-lib",
@@ -399,7 +410,7 @@
     "repo": "NickName73/Gravillaso",
     "name": "Gravillaso Mod",
     "author": "NickName73",
-    "lastUpdated": "2021-02-09T13:33:52Z",
+    "lastUpdated": "2021-02-09T15:40:02Z",
     "stars": 10,
     "minGameVersion": "120",
     "hasScripts": true,
@@ -1254,6 +1265,17 @@
     "description": "my first jar mod"
   },
   {
+    "repo": "Cherriodude/jac",
+    "name": "Just Another Crafter",
+    "author": "Cherrio",
+    "lastUpdated": "2021-02-09T16:00:18Z",
+    "stars": 2,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds more production blocks."
+  },
+  {
     "repo": "4156/Infintory",
     "name": "Example Java Mod",
     "author": "Anuke",
@@ -1595,17 +1617,6 @@
     "description": "Modifies unit cap"
   },
   {
-    "repo": "Cherriodude/jac",
-    "name": "Just Another Crafter",
-    "author": "Cherrio",
-    "lastUpdated": "2021-02-07T06:21:36Z",
-    "stars": 1,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds more production blocks."
-  },
-  {
     "repo": "theangelurd/Tech-n-Alchemy-Mod",
     "name": "Tech n Alchemy",
     "author": "Sh1penfire, cl0cks, Tayros",
@@ -1615,17 +1626,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod that adds advanced tech and chemical stuff. Collab with many people."
-  },
-  {
-    "repo": "vladimir264/Electro-Magnetic-Weaponry",
-    "name": "Electro-Magnetic Weaponry",
-    "author": "Vlad The Evil Cat",
-    "lastUpdated": "2021-02-08T18:59:54Z",
-    "stars": 1,
-    "minGameVersion": "122.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Powerful weapons that use electromagnetism to make pew."
   },
   {
     "repo": "TheRealIvyX/SeiBuffRevert",
@@ -1659,6 +1659,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "  Adds the recompensator, an electrically-powered liquid capsule launcher!"
+  },
+  {
+    "repo": "vladimir264/Electro-Magnetic-Weaponry",
+    "name": "Electro-Magnetic Weaponry",
+    "author": "Vlad The Evil Cat",
+    "lastUpdated": "2021-02-09T16:15:16Z",
+    "stars": 1,
+    "minGameVersion": "122.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Powerful weapons that use electromagnetism to make pew."
   },
   {
     "repo": "Nikisos/TheBattleMod",
