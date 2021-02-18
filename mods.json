@@ -319,17 +319,6 @@
     "description": "Mod that added things that should be in the original game and some are just added for convenience sake\n\nFrench translation by Noxenemerus Lunacor"
   },
   {
-    "repo": "Yuria-Shikibe/NewHorizonMod",
-    "name": "NewHorizonMod",
-    "author": "Yuria",
-    "lastUpdated": "2021-02-17T06:42:47Z",
-    "stars": 14,
-    "minGameVersion": "125",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Expanded contents, including Units, Turrets, Blocks, etc.\n\n This mod adds a new setting dialog when start the game. By choose the available setting, you can activate in-game debug panel and advance load, which creates outline icons and unit full icons automatically. However, the advance load now causes stuck problem when the game is loaded on a phone. So for your gaming experience, I made it defaults false. If you are confident with your device, active it. If you find your device cannot afford it, open the mod file folder and find the 'new-horizon' folder then open the properties file in it, and then rewrite the ''@active.advance-load*' to false, then open the game again."
-  },
-  {
     "repo": "K103908/Exotic-Mod",
     "name": "Exotic Mod",
     "author": "Devs: K103908, BlueWolf, MEEP Of Faith, AndromedaFallen\nContributors: Quezler, VozDuh",
@@ -339,6 +328,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "We got together over the Mindustry Discord to bring you this exotic mod. Adds in a few things we thought would be fun.\nUpdate log:\n  BlueWolf is respriting the mod, so your precious eyes are saved.\n  Exotic is being alpha playtested in attack, so some rebalancing is going on.\n  Oh and hellfire has more armor. good luck :)"
+  },
+  {
+    "repo": "Yuria-Shikibe/NewHorizonMod",
+    "name": "NewHorizonMod",
+    "author": "Yuria",
+    "lastUpdated": "2021-02-18T16:45:40Z",
+    "stars": 14,
+    "minGameVersion": "125",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Expanded contents, including Units, Turrets, Blocks, etc.\n\n This mod adds a new setting dialog when start the game. By choose the available setting, you can activate in-game debug panel and advance load, which creates outline icons and unit full icons automatically. However, the advance load now causes stuck problem when the game is loaded on a phone. So for your gaming experience, I made it defaults false. If you are confident with your device, active it. If you find your device cannot afford it, open the mod file folder and find the 'new-horizon' folder then open the properties file in it, and then rewrite the ''@active.advance-load*' to false, then open the game again."
   },
   {
     "repo": "NickName73/Gravillaso",
@@ -572,17 +572,6 @@
     "description": "This mod replaces all texts in the game with random ones."
   },
   {
-    "repo": "pankiwi/MindHorition",
-    "name": "MindHorition",
-    "author": "pankiwi",
-    "lastUpdated": "2021-01-06T19:25:15Z",
-    "stars": 6,
-    "minGameVersion": "115",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "mindustry is a mod where the various categories were expanded by adding machines, turrets, units, where to produce and defend your core will be more entertaining"
-  },
-  {
     "repo": "Gdeft/hackdustry",
     "name": "Hackdustry",
     "author": "Gdeft",
@@ -614,6 +603,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds shitass to the game"
+  },
+  {
+    "repo": "Solokil/V6AdventureU",
+    "name": "Solokil Underground Adventure",
+    "author": "Solokil",
+    "lastUpdated": "2021-01-25T15:48:50Z",
+    "stars": 6,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Compatible with V6\nThis mod adds a lot of items and units, balanced for PvP so you can play with friends.\nJoin the mod production in:\nDiscord:\nhttps://discord.gg/38DbktY"
   },
   {
     "repo": "bloool/CobaltMod",
@@ -836,17 +836,6 @@
     "description": "Utilities for testing stuff.\n\nTeam Changer: Change teams easilty. Hold to collapse/expand\nSeppuku Button: Instantly kill yourself. Press and hold to commit crawler.\nClone Button: Instantly clones your player unit. Press and hold to mass clone.\nHeal Button: Resets your player unit's hp to its max.\nInvincibility Button: Sets your player unit's hp to (basically) infinity.\n\nAlso increases zooming range."
   },
   {
-    "repo": "skykatik/PaperMod",
-    "name": "PaperMod",
-    "author": "Skat with Pandorum's Players",
-    "lastUpdated": "2021-02-15T10:05:23Z",
-    "stars": 4,
-    "minGameVersion": "124",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Please no..."
-  },
-  {
     "repo": "MindustryInside/AutoUpdater",
     "name": "AutoUpdater",
     "author": "Mindustry Inside",
@@ -856,6 +845,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mindustry auto updater"
+  },
+  {
+    "repo": "skykatik/PaperMod",
+    "name": "PaperMod",
+    "author": "Skat with Pandorum's Players",
+    "lastUpdated": "2021-02-18T16:55:18Z",
+    "stars": 4,
+    "minGameVersion": "124",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Please no..."
   },
   {
     "repo": "GlennFolker/beautiful",
@@ -1276,17 +1276,6 @@
     "description": "my first jar mod"
   },
   {
-    "repo": "vladimir264/Electro-Magnetic-Weaponry",
-    "name": "Electro-Magnetic Weaponry",
-    "author": "Vlad The Evil Cat",
-    "lastUpdated": "2021-02-16T20:36:52Z",
-    "stars": 2,
-    "minGameVersion": "122.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Powerful weapons that use electromagnetism to make pew."
-  },
-  {
     "repo": "guiYMOUR/mindustry-Extra-Utilities-mod",
     "name": "Extra Utilities Mod(更多实用设备)",
     "author": "guiY",
@@ -1329,6 +1318,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "ВНИМАНИЕ:\nНе скачивайте этот мод если вас устраивает перевод игры. Если нет, приглашаем вас в дурку:\nhttps://discord.gg/kqRsRCN"
+  },
+  {
+    "repo": "vladimir264/Electro-Magnetic-Weaponry",
+    "name": "Electro-Magnetic Weaponry",
+    "author": "Vlad The Evil Cat",
+    "lastUpdated": "2021-02-18T16:48:21Z",
+    "stars": 2,
+    "minGameVersion": "124.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Powerful weapons that use electromagnetism to make big pew."
   },
   {
     "repo": "4156/Infintory",
@@ -1846,6 +1846,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod for Mindustry that adds a somewhat useful language bundle that translates all the text into simple English words that almost everybody knows."
+  },
+  {
+    "repo": "LokeYourLord/Extremely-Efficient-Structures",
+    "name": "Extremely-Efficient-Structures",
+    "author": "LokeYourC3PH",
+    "lastUpdated": "2020-12-13T13:11:21Z",
+    "stars": 0,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds several OP structures to ruin gameplay."
   },
   {
     "repo": "Kyllingene/ruoter-legacy",
