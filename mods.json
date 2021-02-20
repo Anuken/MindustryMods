@@ -308,17 +308,6 @@
     "description": "Mod that added things that should be in the original game and some are just added for convenience sake\n\nFrench translation by Noxenemerus Lunacor"
   },
   {
-    "repo": "Yuria-Shikibe/NewHorizonMod",
-    "name": "NewHorizonMod",
-    "author": "Yuria",
-    "lastUpdated": "2021-02-18T16:45:40Z",
-    "stars": 14,
-    "minGameVersion": "125",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Expanded contents, including Units, Turrets, Blocks, etc.\n\n This mod adds a new setting dialog when start the game. By choose the available setting, you can activate in-game debug panel and advance load, which creates outline icons and unit full icons automatically. However, the advance load now causes stuck problem when the game is loaded on a phone. So for your gaming experience, I made it defaults false. If you are confident with your device, active it. If you find your device cannot afford it, open the mod file folder and find the 'new-horizon' folder then open the properties file in it, and then rewrite the ''@active.advance-load*' to false, then open the game again."
-  },
-  {
     "repo": "sk7725/Testers",
     "name": "Testers",
     "author": "sk7725",
@@ -333,12 +322,23 @@
     "repo": "K103908/Exotic-Mod",
     "name": "Exotic Mod",
     "author": "Devs: K103908, BlueWolf, MEEP Of Faith, AndromedaFallen\nContributors: Quezler, VozDuh",
-    "lastUpdated": "2021-02-20T14:43:10Z",
+    "lastUpdated": "2021-02-20T15:19:24Z",
     "stars": 14,
     "minGameVersion": "125.1",
     "hasScripts": false,
     "hasJava": false,
     "description": "We got together over the Mindustry Discord to bring you this exotic mod. Adds in a few things we thought would be fun.\nUpdate log:\n  Units are being added, and with the release of 125.1, abilities and cleanup are also here."
+  },
+  {
+    "repo": "Yuria-Shikibe/NewHorizonMod",
+    "name": "NewHorizonMod",
+    "author": "Yuria",
+    "lastUpdated": "2021-02-20T16:09:03Z",
+    "stars": 14,
+    "minGameVersion": "125",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Expanded contents, including Units, Turrets, Blocks, etc.\n\n This mod adds a new setting dialog when start the game. By choose the available setting, you can activate in-game debug panel and advance load, which creates outline icons and unit full icons automatically. However, the advance load now causes stuck problem when the game is loaded on a phone. So for your gaming experience, I made it defaults false. If you are confident with your device, active it. If you find your device cannot afford it, open the mod file folder and find the 'new-horizon' folder then open the properties file in it, and then rewrite the ''@active.advance-load*' to false, then open the game again."
   },
   {
     "repo": "abomb4/super-cheat",
@@ -1595,6 +1595,17 @@
     "description": "A mod to express my feelings about everything."
   },
   {
+    "repo": "Voz-Duh/progressed-factorio",
+    "name": "Progressed Factorio - TexturePack",
+    "author": "VozDuh",
+    "lastUpdated": "2021-01-29T09:30:45Z",
+    "stars": 1,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": ""
+  },
+  {
     "repo": "Sonnicon/mindustry-newhorizons",
     "name": "New Horizons",
     "author": "[#8738ff]Sonnicon[]",
@@ -1659,17 +1670,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Reverts the pointless Sei health buff in build 124"
-  },
-  {
-    "repo": "Joshwelyt/Hardmode-remade",
-    "name": "hardmode",
-    "author": "joshwelyt",
-    "lastUpdated": "2021-02-11T13:58:06Z",
-    "stars": 1,
-    "minGameVersion": "114",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "makes game harder more weapons for\nPlayer, not for novice"
   },
   {
     "repo": "Danieljb5/Loredustry",
