@@ -154,6 +154,17 @@
     "description": "Adds a dialog for turning images into processor schematics.\nRequires DeltaNedas/ui-lib."
   },
   {
+    "repo": "DeltaNedas/ui-lib",
+    "name": "UI Lib",
+    "author": "DeltaNedas",
+    "lastUpdated": "2021-02-08T18:30:34Z",
+    "stars": 27,
+    "minGameVersion": "108",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Library for other mods that unifies and simplifies UI creation."
+  },
+  {
     "repo": "MEEPofFaith/progressed-materials",
     "name": "Progressed Materials",
     "author": "Creator:\n    MEEP of Faith\n\nContributors:\n    ThirstyBoi (Eruptor sprites)\n    Goober (Kugelblitz and Popeshadow sprites)\n    VozDuh (Missile turret sprites, new icon)\n    Ilya246 (Luminocity ramping)\n    Some sounds from Freesound.\n    Anyone I stole code from.",
@@ -198,15 +209,15 @@
     "description": "No description provided."
   },
   {
-    "repo": "DeltaNedas/ui-lib",
-    "name": "UI Lib",
+    "repo": "DeltaNedas/rtfm",
+    "name": "RTFM",
     "author": "DeltaNedas",
-    "lastUpdated": "2021-02-08T18:30:34Z",
+    "lastUpdated": "2021-02-22T15:00:49Z",
     "stars": 26,
-    "minGameVersion": "108",
+    "minGameVersion": "105",
     "hasScripts": true,
     "hasJava": false,
-    "description": "Library for other mods that unifies and simplifies UI creation."
+    "description": "Mod that adds a manual page library. RTFM in the About menu.\nComes with documentation of vanilla'a Logic system.\nOptionally requires DeltaNedas/ui-lib for extra buttons.\npt_BR translations by King-BR"
   },
   {
     "repo": "younggam/multi-lib",
@@ -218,17 +229,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "multi\nlibrary mod for multi crafter.\nSupport over Mindustry 6.0 version.\nInstruction is in multi-lib-example"
-  },
-  {
-    "repo": "DeltaNedas/rtfm",
-    "name": "RTFM",
-    "author": "DeltaNedas",
-    "lastUpdated": "2021-02-22T15:00:49Z",
-    "stars": 25,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Mod that adds a manual page library. RTFM in the About menu.\nComes with documentation of vanilla'a Logic system.\nOptionally requires DeltaNedas/ui-lib for extra buttons.\npt_BR translations by King-BR"
   },
   {
     "repo": "Sharlottes/ExampleMod",
@@ -707,7 +707,7 @@
     "repo": "SMOLKEYS/bundles",
     "name": "Bundles",
     "author": "SMOLKEYS",
-    "lastUpdated": "2021-02-28T06:26:06Z",
+    "lastUpdated": "2021-03-01T06:23:14Z",
     "stars": 6,
     "minGameVersion": "121",
     "hasScripts": false,
