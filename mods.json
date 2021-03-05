@@ -718,12 +718,12 @@
     "repo": "MEEPofFaith/testing-utilities",
     "name": "Testing Utilities",
     "author": "MEEP of Faith",
-    "lastUpdated": "2021-03-05T06:10:45Z",
+    "lastUpdated": "2021-03-05T06:48:27Z",
     "stars": 6,
     "minGameVersion": "125.1",
     "hasScripts": true,
     "hasJava": false,
-    "description": "Utilities for testing stuff.\n\nTeam Changer: Change teams easilty. Hold to collapse/expand\nSeppuku Button: Instantly kill yourself. Press and hold to commit crawler.\nClone Button: Instantly clones your player unit. Press and hold to mass clone.\nHeal Button: Resets your player unit's hp to its max.\nInvincibility Button: Sets your player unit's hp to (basically) infinity.\nSandbox/Survival Button: Toggles infinite resources.\nCore Button: Fill or empty your core of all items. Hold to swap.\n\nAlso increases zooming range."
+    "description": "Utilities for testing stuff.\n\nTeam Changer: Change teams easilty. Hold to collapse/expand\nSeppuku Button: Instantly kill yourself. Press and hold to commit crawler.\nClone Button: Instantly clones your player unit. Press and hold to mass clone. (Disabled in campaign)\nHeal Button: Sets your player unit's hp to its max.\nInvincibility Button: Sets your player unit's hp to infinity. (Disabled in campaign)\nSandbox/Survival Button: Toggles infinite resources. (Disabled in campaign)\nFill/Dump Core: Fill or empty your core of all items. Hold to swap. (Disabled in campaign)\n\nAlso increases zooming range."
   },
   {
     "repo": "DeltaNedas/no",
@@ -938,7 +938,7 @@
     "repo": "THEGAMER-10n/Techdustry",
     "name": "Techdustry",
     "author": "THEGAMER_10n",
-    "lastUpdated": "2021-03-05T06:13:36Z",
+    "lastUpdated": "2021-03-05T06:24:34Z",
     "stars": 4,
     "minGameVersion": "116",
     "hasScripts": true,
