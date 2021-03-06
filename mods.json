@@ -300,7 +300,7 @@
     "repo": "K103908/Exotic-Mod",
     "name": "Exotic Mod",
     "author": "Devs: K103908, BlueWolf, MEEP Of Faith, AndromedaFallen\nContributors: Quezler, VozDuh",
-    "lastUpdated": "2021-03-06T03:46:33Z",
+    "lastUpdated": "2021-03-06T05:34:17Z",
     "stars": 19,
     "minGameVersion": "126.1",
     "hasScripts": false,
@@ -319,6 +319,17 @@
     "description": "Expanded contents, including Units, Turrets, Blocks, etc.\n\nYou can get the Mod Guide in the GitHub-README-MOD Guide. You can get to there by <link> in the <Start Dialog>\n\nThis mod adds a new setting dialog when start the game. By choose the available setting, you can activate in-game debug panel and advance load, which creates outline icons and unit full icons automatically. However, the advance load now causes stuck problem when the game is loaded on a phone. So for your gaming experience, I made it defaults false. If you are confident with your device, active it. If you find your device cannot afford it, open the mod file folder and find the 'new-horizon' folder then open the properties file in it, and then rewrite the ''@active.advance-load*' to false, then open the game again."
   },
   {
+    "repo": "sk7725/Testers",
+    "name": "Testers",
+    "author": "sk7725",
+    "lastUpdated": "2021-02-20T01:14:15Z",
+    "stars": 15,
+    "minGameVersion": "110",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds various testers for easier mod development.\nThanks to: Gdeft"
+  },
+  {
     "repo": "ballgamer56/VanillaExtended",
     "name": "VanillaExtended",
     "author": "Tom Petrou",
@@ -328,17 +339,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Mod that added things that should be in the original game and some are just added for convenience sake\n\nFrench translation by Noxenemerus Lunacor"
-  },
-  {
-    "repo": "sk7725/Testers",
-    "name": "Testers",
-    "author": "sk7725",
-    "lastUpdated": "2021-02-20T01:14:15Z",
-    "stars": 14,
-    "minGameVersion": "110",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds various testers for easier mod development.\nThanks to: Gdeft"
   },
   {
     "repo": "abomb4/super-cheat",
