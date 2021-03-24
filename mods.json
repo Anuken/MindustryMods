@@ -143,6 +143,17 @@
     "description": "A small mod that adds a couple of new materials, machinery, turrets, and even a new map!\nDoes not modify Vanilla content, for the sake of compatibility with other mods."
   },
   {
+    "repo": "Sh1penfire/pixelcraft",
+    "name": "Pixelcraft: The endless rust",
+    "author": "Sh1penfire and pankiwi",
+    "lastUpdated": "2021-03-23T12:42:50Z",
+    "stars": 31,
+    "minGameVersion": "121",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "panini return\nA Pixelcraft. A new way to play Mindustry. A mod that allows you to play with a different main resource, leaving copper and lead in the dust. Based on Mindustry classic, adds a new tech tree, several new sectors to a a new planet, 7 different types of turrets and much much more... \ndiscord: https://discord.gg/xwq8hU5Ww8"
+  },
+  {
     "repo": "DeltaNedas/pictologic",
     "name": "PicToLogic",
     "author": "DeltaNedas, Router and another guy",
@@ -185,17 +196,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "My main Mindustry mod. Everything is scripted and I'n just experimenting with what I can do with turrets.\n\nThe name definitely isn't made of the synonyms of \"Advance\" and \"Content\"."
-  },
-  {
-    "repo": "Sh1penfire/pixelcraft",
-    "name": "Pixelcraft: The endless rust",
-    "author": "Sh1penfire and pankiwi",
-    "lastUpdated": "2021-03-23T12:42:50Z",
-    "stars": 30,
-    "minGameVersion": "121",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "panini return\nA Pixelcraft. A new way to play Mindustry. A mod that allows you to play with a different main resource, leaving copper and lead in the dust. Based on Mindustry classic, adds a new tech tree, several new sectors to a a new planet, 7 different types of turrets and much much more... \ndiscord: https://discord.gg/xwq8hU5Ww8"
   },
   {
     "repo": "MoTRona/Colloseus-Mod",
@@ -275,6 +275,17 @@
     "description": "This mod contains all kinds of new resources, forges, materials and liquids.\nIt is still under development so feedback on the workshop is welcome"
   },
   {
+    "repo": "Yuria-Shikibe/NewHorizonMod",
+    "name": "NewHorizonMod",
+    "author": "Yuria",
+    "lastUpdated": "2021-03-21T08:42:02Z",
+    "stars": 21,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Expanded contents, including Units, Turrets, Blocks, etc.\n\nYou can get the Mod Guide in the GitHub-README-MOD Guide. You can get to there by <link> in the <Start Dialog>\n\nThis mod adds a new setting dialog when start the game. By choose the available setting, you can activate in-game debug panel and advance load, which creates outline icons and unit full icons automatically. However, the advance load now causes stuck problem when the game is loaded on a phone. So for your gaming experience, I made it defaults false. If you are confident with your device, active it. If you find your device cannot afford it, open the mod file folder and find the 'new-horizon' folder then open the properties file in it, and then rewrite the ''@active.advance-load*' to false, then open the game again."
+  },
+  {
     "repo": "xamionex/Opore-Mod",
     "name": "Opore-Mod",
     "author": "amione#0663",
@@ -284,17 +295,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds multiple vaults, drills, duos, spectres, walls, forges, extractors, conveyors, liquids, mech units, mech pads. This is actually my first mod, hope you like it because i had alot of issues while making this.\r\nNOTE: Update 30+: Some items will be broken because they cannot be done any other way\r\n\r\nCredits\r\n\r\n> Coding - amione#0663, SimonWoodburyForget\r\n\r\n> Map making - amione#0663, Félix Córvus#3546, Pusheen#3121\r\n\r\n> Descriptions and names - amione#0663, LordPotaynut\r\n\r\n> Sprites - anuke, amione#0663, MemFaceGo\r\n\r\n> Report bugs on steam - https://steamcommunity.com/workshop/filedetails/discussion/1903525208/1640926712946564500/\r\n> Report bugs (or request features) on github - https://github.com/xamionex/Opore-Mod/issues/new/choose\r\n\r\n> Helped in making of mod on discord - simon#8156, Violet#5020, Nope.avi#4037, HNU Founder.lua#5046\r\n\r\n> People that reported bugs in early builds on discord - wewemaster#8854, omegaDM#0155, Mwister Cinnabar owo#2702\r\n\r\n> People that reported bugs in early builds on steam - Tibault, 月之殇, the_red_soul, LordPotaynut, Dockedreaper61"
-  },
-  {
-    "repo": "Yuria-Shikibe/NewHorizonMod",
-    "name": "NewHorizonMod",
-    "author": "Yuria",
-    "lastUpdated": "2021-03-21T08:42:02Z",
-    "stars": 20,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Expanded contents, including Units, Turrets, Blocks, etc.\n\nYou can get the Mod Guide in the GitHub-README-MOD Guide. You can get to there by <link> in the <Start Dialog>\n\nThis mod adds a new setting dialog when start the game. By choose the available setting, you can activate in-game debug panel and advance load, which creates outline icons and unit full icons automatically. However, the advance load now causes stuck problem when the game is loaded on a phone. So for your gaming experience, I made it defaults false. If you are confident with your device, active it. If you find your device cannot afford it, open the mod file folder and find the 'new-horizon' folder then open the properties file in it, and then rewrite the ''@active.advance-load*' to false, then open the game again."
   },
   {
     "repo": "MEEPofFaith/missing-category-units",
@@ -828,7 +828,7 @@
     "repo": "AureusStratus/ExoGenesis",
     "name": "Exogenesis",
     "author": "Aureus",
-    "lastUpdated": "2021-03-23T17:14:11Z",
+    "lastUpdated": "2021-03-24T01:24:39Z",
     "stars": 5,
     "minGameVersion": "119",
     "hasScripts": false,
@@ -1012,6 +1012,17 @@
     "description": "Unicorp presents to you their various utility drones (and some more stuff) for different stages of the game. All funds does not go to charity, rather to the CEO's wallet.\n                  Features 13 mechanically different units right now, planning on adding more in the future."
   },
   {
+    "repo": "nichrosia/Acceleration",
+    "name": "Acceleration",
+    "author": "NiChrosia",
+    "lastUpdated": "2021-03-23T23:20:52Z",
+    "stars": 4,
+    "minGameVersion": "126.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mindustry mod. Extremely unfinished. Animated shields is highly reccomended for gameplay."
+  },
+  {
     "repo": "DeltaNedas/radar",
     "name": "Radar",
     "author": "DeltaNedas",
@@ -1188,17 +1199,6 @@
     "description": "A mod made by IvyX and 7rodo that adds new turrets and walls to defend your core. Does not work on iOS. Discord server invite: https://discord.gg/eEtw5GF2dk."
   },
   {
-    "repo": "nichrosia/Acceleration",
-    "name": "Acceleration",
-    "author": "NiChrosia",
-    "lastUpdated": "2021-03-23T23:20:52Z",
-    "stars": 3,
-    "minGameVersion": "126.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mindustry mod. Extremely unfinished. Animated shields is highly reccomended for gameplay."
-  },
-  {
     "repo": "Mya4ta2/SteamIndustry",
     "name": "SteamIndustry",
     "author": "Myata",
@@ -1252,6 +1252,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Lets you manually control your mech's boosters on mobile.\nRequires DeltaNedas/ui-lib."
+  },
+  {
+    "repo": "QmelZ/launchpad-redirect",
+    "name": "Launchpad Destination Changer",
+    "author": "QmelZ",
+    "lastUpdated": "2020-12-17T16:29:11Z",
+    "stars": 2,
+    "minGameVersion": "121",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "No description provided."
   },
   {
     "repo": "RebornTrack970/OmegaCursed",
