@@ -231,6 +231,17 @@
     "description": "Lets you type into the console.\nPress F8 to open on PC.\nRequires DeltaNedas/ui-lib on mobile."
   },
   {
+    "repo": "Yuria-Shikibe/NewHorizonMod",
+    "name": "NewHorizonMod",
+    "author": "Yuria",
+    "lastUpdated": "2021-03-28T05:30:48Z",
+    "stars": 23,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Expanded contents, including Units, Turrets, Blocks, etc.\n\nYou can get the Mod Guide in the GitHub-README-MOD Guide. You can get to there by <link> in the <Start Dialog>\n\nThis mod adds a new setting dialog when start the game. By choose the available setting, you can activate in-game debug panel and advance load, which creates outline icons and unit full icons automatically. However, the advance load now causes stuck problem when the game is loaded on a phone. So for your gaming experience, I made it defaults false. If you are confident with your device, active it. If you find your device cannot afford it, open the mod file folder and find the 'new-horizon' folder then open the properties file in it, and then rewrite the ''@active.advance-load*' to false, then open the game again."
+  },
+  {
     "repo": "Gdeft/substructure",
     "name": "Substructure",
     "author": "Gdeft",
@@ -251,17 +262,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod contains all kinds of new resources, forges, materials and liquids.\nIt is still under development so feedback on the workshop is welcome"
-  },
-  {
-    "repo": "Yuria-Shikibe/NewHorizonMod",
-    "name": "NewHorizonMod",
-    "author": "Yuria",
-    "lastUpdated": "2021-03-28T05:30:48Z",
-    "stars": 22,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Expanded contents, including Units, Turrets, Blocks, etc.\n\nYou can get the Mod Guide in the GitHub-README-MOD Guide. You can get to there by <link> in the <Start Dialog>\n\nThis mod adds a new setting dialog when start the game. By choose the available setting, you can activate in-game debug panel and advance load, which creates outline icons and unit full icons automatically. However, the advance load now causes stuck problem when the game is loaded on a phone. So for your gaming experience, I made it defaults false. If you are confident with your device, active it. If you find your device cannot afford it, open the mod file folder and find the 'new-horizon' folder then open the properties file in it, and then rewrite the ''@active.advance-load*' to false, then open the game again."
   },
   {
     "repo": "K103908/Exotic-Mod",
@@ -1199,17 +1199,6 @@
     "description": ""
   },
   {
-    "repo": "S1ugCat/Heavy-Arsenal",
-    "name": "Heavy Arsenal",
-    "author": "SlugCat",
-    "lastUpdated": "2021-04-02T13:28:49Z",
-    "stars": 3,
-    "minGameVersion": "110",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "No description provided."
-  },
-  {
     "repo": "GameSearcher/S-Edition",
     "name": "S-Edition",
     "author": "SearcherG",
@@ -1219,6 +1208,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This is a v6 version of the mod called S-Pack.This mod adds a new core as well as its tech tree of S-Class items and buildings."
+  },
+  {
+    "repo": "S1ugCat/Heavy-Arsenal",
+    "name": "Heavy Arsenal",
+    "author": "SlugCat",
+    "lastUpdated": "2021-04-03T10:01:49Z",
+    "stars": 3,
+    "minGameVersion": "110",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "No description provided."
   },
   {
     "repo": "Mya4ta2/SteamIndustry",
@@ -2002,6 +2002,17 @@
     "description": "Adds 2 new water unit paths"
   },
   {
+    "repo": "FreezeMandu/infinite-processor",
+    "name": "Infinite Processor",
+    "author": "Mandu",
+    "lastUpdated": "2021-04-03T09:31:25Z",
+    "stars": 1,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nsearch 'Logic Bench' in schematics!\n"
+  },
+  {
     "repo": "Nikisos/TheBattleMod",
     "name": "Battle Comveyors",
     "author": "Nikisos",
@@ -2519,17 +2530,6 @@
     "description": "Adds moon"
   },
   {
-    "repo": "o7-Fire/Mindustry-Mods-Template",
-    "name": "Example Mods",
-    "author": "Author",
-    "lastUpdated": "2021-04-01T04:27:40Z",
-    "stars": 0,
-    "minGameVersion": "125",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Example Mods Description \n  Red-Color"
-  },
-  {
     "repo": "SMOLKEYS/mindustry-plus",
     "name": "Mindustry+",
     "author": "SMOLKEYS",
@@ -2585,14 +2585,14 @@
     "description": "Turns crawlers into creepers from Minecraft."
   },
   {
-    "repo": "FreezeMandu/infinite-processor",
-    "name": "Infinite Processor",
-    "author": "Mandu",
-    "lastUpdated": "2021-04-03T08:56:44Z",
+    "repo": "o7-Fire/Mindustry-Mods-Template",
+    "name": "Example Mods",
+    "author": "Author",
+    "lastUpdated": "2021-04-03T10:08:05Z",
     "stars": 0,
-    "minGameVersion": "126",
+    "minGameVersion": "125",
     "hasScripts": false,
-    "hasJava": false,
-    "description": "\nsearch 'Logic Bench' in schematics!\n"
+    "hasJava": true,
+    "description": "Example Mods Description \n  Red-Color"
   }
 ]
