@@ -65,6 +65,8 @@ public class ModUpdater{
                 return val.get("full_name").toString();
             });
 
+            names.removeAll(n -> n.startsWith("o7"));
+
             for(String name : blacklist){
                 names.remove(name);
             }
