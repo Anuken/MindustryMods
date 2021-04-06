@@ -231,17 +231,6 @@
     "description": "Lets you type into the console.\nPress F8 to open on PC.\nRequires DeltaNedas/ui-lib on mobile."
   },
   {
-    "repo": "Yuria-Shikibe/NewHorizonMod",
-    "name": "NewHorizonMod",
-    "author": "Yuria",
-    "lastUpdated": "2021-04-05T06:07:03Z",
-    "stars": 24,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Expanded contents, including Units, Turrets, Blocks, etc.\n\nYou can get the Mod Guide in the GitHub-README-MOD Guide. You can get to there by <link> in the <Start Dialog>\n\nThis mod adds a new setting dialog when start the game. By choose the available setting, you can activate in-game debug panel and advance load, which creates outline icons and unit full icons automatically. However, the advance load now causes stuck problem when the game is loaded on a phone. So for your gaming experience, I made it defaults false. If you are confident with your device, active it. If you find your device cannot afford it, open the mod file folder and find the 'new-horizon' folder then open the properties file in it, and then rewrite the ''@active.advance-load*' to false, then open the game again."
-  },
-  {
     "repo": "Gdeft/substructure",
     "name": "Substructure",
     "author": "Gdeft",
@@ -1565,7 +1554,7 @@
     "repo": "jhrushbe/MOARdustry",
     "name": "MOARdustry",
     "author": "Jhrushbe",
-    "lastUpdated": "2021-04-06T06:06:40Z",
+    "lastUpdated": "2021-04-06T07:10:58Z",
     "stars": 2,
     "minGameVersion": "105",
     "hasScripts": false,
@@ -2376,17 +2365,6 @@
     "description": "Inspired by Trade Terminals by ColdAnkles. Difference is more trade off, more options, different trade ins and v6 working. "
   },
   {
-    "repo": "GaviTSRA/OhNoMod",
-    "name": "OhNoMod",
-    "author": "GaviTSRA",
-    "lastUpdated": "2021-02-07T17:50:10Z",
-    "stars": 0,
-    "minGameVersion": "122",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "The Oh No Mod"
-  },
-  {
     "repo": "MMT007/Dustry-Verse",
     "name": "Dustry Verse ",
     "author": "Will#7435 and MMT007_backUP#9499",
@@ -2462,17 +2440,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A Mindustry Mod that Reverts Multiplayernt"
-  },
-  {
-    "repo": "martycagas/mindustry-mod-some-more-armor",
-    "name": "Some More Armor mod",
-    "author": "martycagas",
-    "lastUpdated": "2021-03-04T13:42:47Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This JSON mod adds a bunch of new, armored variants of vanilla blocks for use on the frontlines."
   },
   {
     "repo": "txomon/MindustryClientHostPauseMod",
