@@ -220,6 +220,17 @@
     "description": "multi\nlibrary mod for multi crafter.\nSupport over Mindustry 6.0 version.\nInstruction is in multi-lib-example"
   },
   {
+    "repo": "Yuria-Shikibe/NewHorizonMod",
+    "name": "NewHorizonMod",
+    "author": "Yuria",
+    "lastUpdated": "2021-04-05T06:07:03Z",
+    "stars": 25,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Expanded contents, including Units, Turrets, Blocks, etc.\n\nYou can get the Mod Guide in the GitHub-README-MOD Guide. You can get to there by <link> in the <Start Dialog>\n\nThis mod adds a new setting dialog when start the game. By choose the available setting, you can activate in-game debug panel and advance load, which creates outline icons and unit full icons automatically. However, the advance load now causes stuck problem when the game is loaded on a phone. So for your gaming experience, I made it defaults false. If you are confident with your device, active it. If you find your device cannot afford it, open the mod file folder and find the 'new-horizon' folder then open the properties file in it, and then rewrite the ''@active.advance-load*' to false, then open the game again."
+  },
+  {
     "repo": "DeltaNedas/dev-mode",
     "name": "Developer Mode",
     "author": "DeltaNedas",
@@ -229,17 +240,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Lets you type into the console.\nPress F8 to open on PC.\nRequires DeltaNedas/ui-lib on mobile."
-  },
-  {
-    "repo": "Yuria-Shikibe/NewHorizonMod",
-    "name": "NewHorizonMod",
-    "author": "Yuria",
-    "lastUpdated": "2021-04-05T06:07:03Z",
-    "stars": 24,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Expanded contents, including Units, Turrets, Blocks, etc.\n\nYou can get the Mod Guide in the GitHub-README-MOD Guide. You can get to there by <link> in the <Start Dialog>\n\nThis mod adds a new setting dialog when start the game. By choose the available setting, you can activate in-game debug panel and advance load, which creates outline icons and unit full icons automatically. However, the advance load now causes stuck problem when the game is loaded on a phone. So for your gaming experience, I made it defaults false. If you are confident with your device, active it. If you find your device cannot afford it, open the mod file folder and find the 'new-horizon' folder then open the properties file in it, and then rewrite the ''@active.advance-load*' to false, then open the game again."
   },
   {
     "repo": "Gdeft/substructure",
@@ -495,28 +495,6 @@
     "description": "Amplify your mindustry by adding new materials and adding new special blocks which will help you progress enjoy the turret families that have special abilities.."
   },
   {
-    "repo": "xjamiex/infinite-program",
-    "name": "Infinite Program",
-    "author": "xJamix",
-    "lastUpdated": "2021-04-08T01:26:54Z",
-    "stars": 9,
-    "minGameVersion": "123",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "a mod that adds more content wich is a great example for noobies to modding :D"
-  },
-  {
-    "repo": "sk7725/Immundustry",
-    "name": "Immundustry",
-    "author": "sk7725",
-    "lastUpdated": "2020-10-21T17:51:55Z",
-    "stars": 8,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "The immune system in Mindustry. WIP!\nSprites and content helped by EyeofDarkness; temporary!"
-  },
-  {
     "repo": "SnakkiZXZ/Coppermod",
     "name": "Coppermod",
     "author": "Snakki",
@@ -594,17 +572,6 @@
     "description": "This mod adds some basic factory schematics to your Mindustry. Very useful for novices.\nCompatible with multiplayer!"
   },
   {
-    "repo": "SupremeTurtle/DuoEnhanced",
-    "name": "DuoEnhanced",
-    "author": "GWAPO",
-    "lastUpdated": "2021-03-25T14:43:01Z",
-    "stars": 7,
-    "minGameVersion": "126.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a multitude of different duo turrets most with their own unique ability! It also adds duo versions of blocks. If you have any suggestions, feel free to tell me (Gwapo #9604) in Discord."
-  },
-  {
     "repo": "AnOreo1/ChaosArranity",
     "name": "Chaos Arranity",
     "author": "Chickenloser, Oreo, and Duvent",
@@ -647,6 +614,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod that adds in some new content in to the game"
+  },
+  {
+    "repo": "SupremeTurtle/DuoEnhanced",
+    "name": "DuoEnhanced",
+    "author": "GWAPO",
+    "lastUpdated": "2021-04-08T06:00:27Z",
+    "stars": 7,
+    "minGameVersion": "126.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a multitude of different duo turrets most with their own unique ability! It also adds duo versions of blocks. If you have any suggestions, feel free to tell me (Gwapo #9604) in Discord."
   },
   {
     "repo": "DeltaNedas/speed",
@@ -740,7 +718,7 @@
     "repo": "SMOLKEYS/bundles",
     "name": "Bundles",
     "author": "SMOLKEYS",
-    "lastUpdated": "2021-03-31T10:57:07Z",
+    "lastUpdated": "2021-04-08T06:02:58Z",
     "stars": 6,
     "minGameVersion": "121",
     "hasScripts": false,
@@ -1824,17 +1802,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Extended Zoom! [to 0.5 <-> 25]"
-  },
-  {
-    "repo": "FreezeMandu/PowerSources",
-    "name": "Power Sources mod",
-    "author": "Mandu",
-    "lastUpdated": "2021-03-12T17:04:58Z",
-    "stars": 1,
-    "minGameVersion": "123",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "No description provided."
   },
   {
     "repo": "SkyDraco-8bit/mindustry-mod",
