@@ -26,7 +26,7 @@
     "name": "BetaMindy",
     "author": "sk7725",
     "lastUpdated": "2021-04-05T19:32:03Z",
-    "stars": 82,
+    "stars": 83,
     "minGameVersion": "123",
     "hasScripts": false,
     "hasJava": true,
@@ -209,6 +209,17 @@
     "description": "Various blocks, some units, and the block scan pages, etc.... there's a variety of content! \\n download and star Sharustry, the second mod please!"
   },
   {
+    "repo": "Yuria-Shikibe/NewHorizonMod",
+    "name": "NewHorizonMod",
+    "author": "Yuria",
+    "lastUpdated": "2021-04-11T03:12:54Z",
+    "stars": 26,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Expanded contents, including Units, Turrets, Blocks, etc.\n\nYou can get the Mod Guide in the GitHub-README-MOD Guide. You can get to there by <link> in the <Start Dialog>\n\nThis mod adds a new setting dialog when start the game. By choose the available setting, you can activate in-game debug panel and advance load, which creates outline icons and unit full icons automatically. However, the advance load now causes stuck problem when the game is loaded on a phone. So for your gaming experience, I made it defaults false. If you are confident with your device, active it. If you find your device cannot afford it, open the mod file folder and find the 'new-horizon' folder then open the properties file in it, and then rewrite the ''@active.advance-load*' to false, then open the game again."
+  },
+  {
     "repo": "younggam/multi-lib",
     "name": "Multi Lib",
     "author": "younggam",
@@ -218,17 +229,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "multi\nlibrary mod for multi crafter.\nSupport over Mindustry 6.0 version.\nInstruction is in multi-lib-example"
-  },
-  {
-    "repo": "Yuria-Shikibe/NewHorizonMod",
-    "name": "NewHorizonMod",
-    "author": "Yuria",
-    "lastUpdated": "2021-04-11T03:12:54Z",
-    "stars": 25,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Expanded contents, including Units, Turrets, Blocks, etc.\n\nYou can get the Mod Guide in the GitHub-README-MOD Guide. You can get to there by <link> in the <Start Dialog>\n\nThis mod adds a new setting dialog when start the game. By choose the available setting, you can activate in-game debug panel and advance load, which creates outline icons and unit full icons automatically. However, the advance load now causes stuck problem when the game is loaded on a phone. So for your gaming experience, I made it defaults false. If you are confident with your device, active it. If you find your device cannot afford it, open the mod file folder and find the 'new-horizon' folder then open the properties file in it, and then rewrite the ''@active.advance-load*' to false, then open the game again."
   },
   {
     "repo": "DeltaNedas/dev-mode",
@@ -663,7 +663,7 @@
     "repo": "AureusStratus/ExoGenesis",
     "name": "Exogenesis",
     "author": "Aureus",
-    "lastUpdated": "2021-04-12T12:22:44Z",
+    "lastUpdated": "2021-04-12T19:54:39Z",
     "stars": 7,
     "minGameVersion": "126.1",
     "hasScripts": false,
@@ -1059,7 +1059,7 @@
     "repo": "TheRealIvyX/MoreDefences",
     "name": "MoreDefences",
     "author": "IvyX",
-    "lastUpdated": "2021-04-12T19:06:58Z",
+    "lastUpdated": "2021-04-12T19:52:47Z",
     "stars": 4,
     "minGameVersion": "123",
     "hasScripts": true,
@@ -1351,6 +1351,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Pre-alpha version of mod"
+  },
+  {
+    "repo": "LottieVixen/bigger-display",
+    "name": "Bigger Display",
+    "author": "LottieVixen",
+    "lastUpdated": "2021-01-13T16:04:45Z",
+    "stars": 2,
+    "minGameVersion": "122",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A Bigger Logic Display!"
   },
   {
     "repo": "Slava0135/roomba",
@@ -2154,6 +2165,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "..."
+  },
+  {
+    "repo": "davlucas/GreenMod",
+    "name": "Greenmod",
+    "author": "davlucas",
+    "lastUpdated": "2020-12-08T21:54:28Z",
+    "stars": 0,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "cheat mod."
   },
   {
     "repo": "avocado5182/FirstMindustryMod",
