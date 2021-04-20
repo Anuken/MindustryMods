@@ -58,6 +58,8 @@ public class ModUpdater{
                 });
             }
 
+            result.get("items").asArray().removeAll(v -> v.getBool("is_template", false));
+
             ObjectMap<String, Jval> output = new ObjectMap<>();
             ObjectMap<String, Jval> ghmeta = new ObjectMap<>();
             Seq<String> names = result.get("items").asArray().map(val -> {
@@ -187,6 +189,7 @@ public class ModUpdater{
         Core.net.http(new HttpRequest()
             .timeout(10000)
             .method(HttpMethod.GET)
+            .header("accept", "application/vnd.github.baptiste-preview+json")
             .url(api + url + (params == null ? "" : "?" + params.keys().toSeq().map(entry -> Strings.encode(entry) + "=" + Strings.encode(params.get(entry))).toString("&"))), response -> {
             Log.info("&lcSending search query. Status: @; Queries remaining: @/@", response.getStatus(), response.getHeader("X-RateLimit-Remaining"), response.getHeader("X-RateLimit-Limit"));
             try{
