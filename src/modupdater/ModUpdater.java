@@ -26,6 +26,8 @@ public class ModUpdater{
     static final ObjectSet<String> blacklist = ObjectSet.with("Snow-of-Spirit-Fox-Mori/old-mod", "TheSaus/Cumdustry", "Anuken/ExampleMod", "Anuken/ExampleJavaMod", "Anuken/ExampleKotlinMod", "Mesokrix/Vanilla-Upgraded", "o7-Fire/Mindustry-Ozone");
     static final int iconSize = 64;
 
+    static final String githubToken = OS.prop("githubtoken");
+
     public static void main(String[] args){
         Core.net = makeNet();
         new ModUpdater();
@@ -189,6 +191,7 @@ public class ModUpdater{
         Core.net.http(new HttpRequest()
             .timeout(10000)
             .method(HttpMethod.GET)
+            .header("authorization", githubToken)
             .header("accept", "application/vnd.github.baptiste-preview+json")
             .url(api + url + (params == null ? "" : "?" + params.keys().toSeq().map(entry -> Strings.encode(entry) + "=" + Strings.encode(params.get(entry))).toString("&"))), response -> {
             Log.info("&lcSending search query. Status: @; Queries remaining: @/@", response.getStatus(), response.getHeader("X-RateLimit-Remaining"), response.getHeader("X-RateLimit-Limit"));
