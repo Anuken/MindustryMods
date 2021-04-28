@@ -21,4 +21,5 @@ task run(dependsOn: classes, type: JavaExec){
     main = "modupdater.ModUpdater"
     classpath = sourceSets.main.runtimeClasspath
     standardInput = System.in
+    systemProperties System.properties
 }
