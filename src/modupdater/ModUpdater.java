@@ -121,34 +121,41 @@ public class ModUpdater{
             Log.info("&lcCreating mods.json file...");
             Jval array = Jval.read("[]");
             for(String name : outnames){
-                Jval gm = ghmeta.get(name);
-                Jval modj = output.get(name);
-                Jval obj = Jval.read("{}");
-                String displayName = Strings.stripColors(modj.getString("displayName", "")).replace("\\n", "");
-                if(displayName.isEmpty()) displayName = gm.getString("name");
+                try{
+                    Jval gm = ghmeta.get(name);
+                    Jval modj = output.get(name);
+                    Jval obj = Jval.read("{}");
+                    //how
+                    if(!modj.isObject()) continue;
+                    String displayName = Strings.stripColors(modj.getString("displayName", "")).replace("\\n", "");
+                    if(displayName.isEmpty()) displayName = gm.getString("name");
 
-                //skip outdated mods
-                String version = modj.getString("minGameVersion", "104");
-                int minBuild = Strings.parseInt(version.contains(".") ? version.split("\\.")[0] : version, 0);
-                if(minBuild < 105){
-                    continue;
+                    //skip outdated mods
+                    String version = modj.getString("minGameVersion", "104");
+                    int minBuild = Strings.parseInt(version.contains(".") ? version.split("\\.")[0] : version, 0);
+                    if(minBuild < 105){
+                        continue;
+                    }
+
+                    String lang = gm.getString("language", "");
+
+                    String metaName = Strings.stripColors(displayName).replace("\n", "");
+                    if(metaName.length() > maxLength) metaName = name.substring(0, maxLength) + "...";
+
+                    obj.add("repo", name);
+                    obj.add("name", metaName);
+                    obj.add("author", Strings.stripColors(modj.getString("author", gm.get("owner").get("login").toString())));
+                    obj.add("lastUpdated", gm.get("pushed_at"));
+                    obj.add("stars", gm.get("stargazers_count"));
+                    obj.add("minGameVersion", version);
+                    obj.add("hasScripts", Jval.valueOf(lang.equals("JavaScript")));
+                    obj.add("hasJava", Jval.valueOf(modj.getBool("java", false) || javaLangs.contains(lang)));
+                    obj.add("description", Strings.stripColors(modj.getString("description", "No description provided.")));
+                    array.asArray().add(obj);
+                }catch(Exception e){
+                    //ignore horribly malformed json
+                    Log.err(e);
                 }
-
-                String lang = gm.getString("language", "");
-
-                String metaName = Strings.stripColors(displayName).replace("\n", "");
-                if(metaName.length() > maxLength) metaName = name.substring(0, maxLength) + "...";
-
-                obj.add("repo", name);
-                obj.add("name", metaName);
-                obj.add("author", Strings.stripColors(modj.getString("author", gm.get("owner").get("login").toString())));
-                obj.add("lastUpdated", gm.get("pushed_at"));
-                obj.add("stars", gm.get("stargazers_count"));
-                obj.add("minGameVersion", version);
-                obj.add("hasScripts", Jval.valueOf(lang.equals("JavaScript")));
-                obj.add("hasJava", Jval.valueOf(modj.getBool("java", false) || javaLangs.contains(lang)));
-                obj.add("description", Strings.stripColors(modj.getString("description", "No description provided.")));
-                array.asArray().add(obj);
             }
 
             new Fi("mods.json").writeString(array.toString(Jformat.formatted));
