@@ -9,10 +9,11 @@ import arc.math.*;
 import arc.struct.*;
 import arc.util.*;
 import arc.util.async.*;
-import arc.util.io.*;
 import arc.util.serialization.*;
 import arc.util.serialization.Jval.*;
 
+import javax.imageio.*;
+import java.awt.image.*;
 import java.util.*;
 
 import static arc.struct.StringMap.*;
@@ -99,10 +100,10 @@ public class ModUpdater{
                     if(meta.getInt("stargazers_count", 0) >= 2){
                         var icon = tryImage(name + "/" + branch + "/icon.png", name + "/" + branch + "/assets/icon.png");
                         if(icon != null){
-                            var scaled = new Pixmap(iconSize, iconSize);
-                            scaled.draw(icon, 0, 0, iconSize, iconSize, true);
+                            var scaled = new BufferedImage(iconSize, iconSize, BufferedImage.TYPE_INT_ARGB);
+                            scaled.createGraphics().drawImage(icon.getScaledInstance(iconSize, iconSize, java.awt.Image.SCALE_AREA_AVERAGING), 0, 0, iconSize, iconSize, null);
                             Log.info("&lc| &lmFound icon file: @x@", icon.getWidth(), icon.getHeight());
-                            icons.child(name.replace("/", "_")).writePng(scaled);
+                            ImageIO.write(scaled, "png", icons.child(name.replace("/", "_")).file());
                         }
                     }
 
@@ -176,14 +177,14 @@ public class ModUpdater{
         return result[0];
     }
 
-    Pixmap tryImage(String... queries){
-        Pixmap[] result = {null};
+    BufferedImage tryImage(String... queries){
+        BufferedImage[] result = {null};
         for(String str : queries){
             //try to get mod.json instead
             Core.net.httpGet("https://raw.githubusercontent.com/" + str, out -> {
                 try{
                     if(out.getStatus() == HttpStatus.OK){
-                        result[0] = new Pixmap(Streams.copyBytes(out.getResultAsStream()));
+                        result[0] = ImageIO.read(out.getResultAsStream());
                     }
                 }catch(Exception e){
                     throw new RuntimeException(e);
