@@ -191,7 +191,7 @@
     "name": "Example Mod",
     "author": "Sharlotte",
     "lastUpdated": "2021-02-22T05:22:04Z",
-    "stars": 29,
+    "stars": 30,
     "minGameVersion": "125",
     "hasScripts": true,
     "hasJava": false,
@@ -201,12 +201,12 @@
     "repo": "Yuria-Shikibe/NewHorizonMod",
     "name": "NewHorizonMod",
     "author": "Yuria",
-    "lastUpdated": "2021-05-02T07:52:50Z",
+    "lastUpdated": "2021-05-09T05:18:31Z",
     "stars": 29,
     "minGameVersion": "126.2",
     "hasScripts": false,
     "hasJava": true,
-    "description": "Adds new content, including units, turrets, blocks, etc.\n\n You can get the Mod Guide in the GitHub-README-MOD Guide. You can get there through <link> in the <Start Dialog>\n\n This mod adds a new setting dialog when starting the game. By choosing the available settings, you can activate the in-game debug panel and advanced loading, which creates outline icons and unit full icons automatically. However, the advanced loading now causes a stuck problem when the game is loaded on a phone. So, for your gaming experience, I made it false by default. If you are confident with your device, activate it. If you find that your device cannot afford it, open the mod file folder and find the 'new-horizon' folder, open the properties file in it, and rewrite the '@active.advance-load' to false, then open the game again."
+    "description": "Adds new content, including units, turrets, blocks, etc. Mod content are presented with pretty textures and amazing effects.\n\n You can get the Mod Guide in the GitHub-README-MOD Guide."
   },
   {
     "repo": "Gdeft/portal",
@@ -218,6 +218,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Simulates the world of Aperture Science Enrichment Center in Mindustry."
+  },
+  {
+    "repo": "Sharlottes/sharustry",
+    "name": "Sharustry",
+    "author": "Sharlottes",
+    "lastUpdated": "2021-05-04T07:09:40Z",
+    "stars": 27,
+    "minGameVersion": "125",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "my first Java Mod. multi craft-generator, multi turret, multi drill and few thing more! \nnot completely finished/released yet. but i'm sure it's still enough for you to be interested in this mod, this contents, this ideas! \n\nThanks for helping: sk7725: owner of betaMindy \nmeep: owner of Progressed Materials \nmal&ssim: donated great sprites"
   },
   {
     "repo": "K103908/Exotic-Mod",
@@ -253,17 +264,6 @@
     "description": "Lets you type into the console.\nPress F8 to open on PC.\nRequires DeltaNedas/ui-lib on mobile."
   },
   {
-    "repo": "Sharlottes/sharustry",
-    "name": "Sharustry",
-    "author": "Sharlottes",
-    "lastUpdated": "2021-05-04T07:09:40Z",
-    "stars": 26,
-    "minGameVersion": "125",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "my first Java Mod. multi craft-generator, multi turret, multi drill and few thing more! \nnot completely finished/released yet. but i'm sure it's still enough for you to be interested in this mod, this contents, this ideas! \n\nThanks for helping: sk7725: owner of betaMindy \nmeep: owner of Progressed Materials \nmal&ssim: donated great sprites"
-  },
-  {
     "repo": "MEEPofFaith/missing-category-units",
     "name": "Missing Category Units",
     "author": "Scripting: MEEP of Faith\nSpriting: A5TR0spud\nIndonesian Translation: WilloIzCitron",
@@ -290,7 +290,7 @@
     "name": "Real Life Mod",
     "author": "Hellfire_NL (Content), \nSakuraLilly (Art, content),\nDeserate (Content), \nVerty (Testing)",
     "lastUpdated": "2021-01-26T19:08:34Z",
-    "stars": 22,
+    "stars": 23,
     "minGameVersion": "105",
     "hasScripts": false,
     "hasJava": false,
@@ -400,7 +400,7 @@
     "name": "Exogenesis",
     "author": "Aureus",
     "lastUpdated": "2021-05-07T17:12:58Z",
-    "stars": 13,
+    "stars": 14,
     "minGameVersion": "126.1",
     "hasScripts": false,
     "hasJava": false,
@@ -1056,6 +1056,17 @@
     "description": "Enables mobile UI if on desktop, or disables it on mobile."
   },
   {
+    "repo": "TheSlaylord/hard-mode-mod",
+    "name": "hard-mode-mod",
+    "author": "The Slaylord",
+    "lastUpdated": "2020-12-26T09:06:03Z",
+    "stars": 4,
+    "minGameVersion": "112",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Makes campaign and the whole Mindustry gameplay harder. If you are a novice, don't download this mod."
+  },
+  {
     "repo": "lev43/TurretsMod",
     "name": "Turrets Mod",
     "author": "lev43",
@@ -1241,17 +1252,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "What Am I Shooting At, shows info on targeted enemies.\nRequires DeltaNedas/ui-lib."
-  },
-  {
-    "repo": "TheSlaylord/hard-mode-mod",
-    "name": "hard-mode-mod",
-    "author": "The Slaylord",
-    "lastUpdated": "2020-12-26T09:06:03Z",
-    "stars": 3,
-    "minGameVersion": "112",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Makes campaign and the whole Mindustry gameplay harder. If you are a novice, don't download this mod."
   },
   {
     "repo": "TheSaus/ImprovedGamma",
@@ -2346,7 +2346,7 @@
     "repo": "YamiyoshinLevi/gun-mod",
     "name": "GunneryUnlimited",
     "author": "Darknes Tech Mods inc.",
-    "lastUpdated": "2021-05-09T05:09:04Z",
+    "lastUpdated": "2021-05-09T05:18:49Z",
     "stars": 1,
     "minGameVersion": "125",
     "hasScripts": false,
@@ -3023,5 +3023,16 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A simple mod. Demonstrates how to make new ores and machines."
+  },
+  {
+    "repo": "guiYMOUR/mindustry-creator-mod",
+    "name": "创世神-creator",
+    "author": "编号9527",
+    "lastUpdated": "2021-05-09T06:13:29Z",
+    "stars": 0,
+    "minGameVersion": "125",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\r\n  Newly added content:\r\n\r\n  Resources: 36\r\n  Factory: 100+\r\n  Wall: 13\r\n  Transmission: 20\r\n  Turret: 16\r\n  Mineral: 6\r\n  Liquid: 5\r\n  State: 2\r\n  Unit: 43\r\n  Map: 40\r\n  Planets: 11\r\n  If you like this module, please click thumbs on this page *⸜(^_^)⸝*\r\n  Subsequent will update more if you have Suggestions or comments please go to the QQ group 200951753 and discussion of the author.\r\n  Or send email to cyj674971336@163.com\r\n  新增加的内容:\r\n  \r\n  资源 36\r\n  工厂 100+\r\n  墙：13\r\n  传输 20\r\n  炮塔 16\r\n  矿物 6\r\n  液体 5\r\n  状态 2\r\n  单位：43\r\n  地图：40\r\n  行星：11\r\n  \r\n  如果您觉得此模组不错，请对本模组点赞*⸜(^_^)⸝*\r\n  如果你有建议或者意见请到QQ群200951753与作者讨论。或者发送邮件至cyj674971336@163.com\r\n  —————————————————————————创世神-creator"
   }
 ]
