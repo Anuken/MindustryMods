@@ -15,7 +15,7 @@
     "name": "Braindustry",
     "author": "[#9e41ea]Zelaux, KOSTOLOM, PixaxeOfPixie, Vervalamis, SuperJaba2000, GorillaGlue, Toxin[]",
     "lastUpdated": "2021-05-13T15:56:22Z",
-    "stars": 104,
+    "stars": 105,
     "minGameVersion": "126.2",
     "hasScripts": false,
     "hasJava": true,
@@ -363,17 +363,6 @@
     "description": "Gravillaso - mod based on magnetic materials\n\n\nDevelopers: \nNickName73\nCREAsTIVE\nSpriters:\nRadmir Yakupov\nCat fat"
   },
   {
-    "repo": "MindustryInside/MindustryClassicified",
-    "name": "Mindustry Classicified",
-    "author": "BasedUser, Félix Córvus",
-    "lastUpdated": "2021-02-26T06:03:20Z",
-    "stars": 15,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Reverts sprites to as early as b40."
-  },
-  {
     "repo": "ballgamer56/VanillaExtended",
     "name": "VanillaExtended",
     "author": "Tom Petrou",
@@ -394,6 +383,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "amogus"
+  },
+  {
+    "repo": "MindustryInside/MindustryClassicified",
+    "name": "Mindustry Classicified",
+    "author": "BasedUser, Félix Córvus",
+    "lastUpdated": "2021-05-13T20:26:36Z",
+    "stars": 15,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Reverts sprites to as early as b40."
   },
   {
     "repo": "Fresh791/mindustry-extended",
@@ -847,17 +847,6 @@
     "description": "A space-related mod."
   },
   {
-    "repo": "MindustryInside/AutoUpdater",
-    "name": "AutoUpdater",
-    "author": "Skat",
-    "lastUpdated": "2021-05-07T17:43:59Z",
-    "stars": 6,
-    "minGameVersion": "120",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mindustry auto updater"
-  },
-  {
     "repo": "QmelZ/void",
     "name": "Void",
     "author": "QmelZ",
@@ -889,6 +878,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Данный мод добовляет в |Дерево Технологий| новые буры, конвееры и стены защиты!"
+  },
+  {
+    "repo": "MindustryInside/AutoUpdater",
+    "name": "AutoUpdater",
+    "author": "Skat",
+    "lastUpdated": "2021-05-13T20:21:56Z",
+    "stars": 6,
+    "minGameVersion": "120",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mindustry auto updater"
   },
   {
     "repo": "DeltaNedas/no",
@@ -1444,7 +1444,7 @@
     "repo": "MindustryInside/ClassicMusic",
     "name": "Mindustry Classic Music",
     "author": "Summet, A Drop A Day (music)",
-    "lastUpdated": "2021-05-13T20:14:29Z",
+    "lastUpdated": "2021-05-13T20:25:24Z",
     "stars": 3,
     "minGameVersion": "126.2",
     "hasScripts": false,
@@ -1705,17 +1705,6 @@
     "description": "Мод для РП сервера по миндастри. \nDiscord: discord.gg/JHAp8qt"
   },
   {
-    "repo": "BlueThecno/Galaxite-Mod",
-    "name": "Galaxite Mod",
-    "author": "BlueTechno",
-    "lastUpdated": "2021-04-26T02:17:17Z",
-    "stars": 2,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "After conquering Serpulo and unable to leave the planet, you decide to search for new materials and technologies. Soon you find a brand new and unestable material, now is just figuring out what to do with it..."
-  },
-  {
     "repo": "1qwaka/Thorium-Evolution-6.0",
     "name": "Thorium Evolution",
     "author": "Qwaka",
@@ -1747,17 +1736,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "New blocks, units and a lot of other! Adds pretty decent staff."
-  },
-  {
-    "repo": "MindustryInside/AdvancedDevMode",
-    "name": "Advanced Developer Mode",
-    "author": "Summet",
-    "lastUpdated": "2021-05-07T17:41:35Z",
-    "stars": 2,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that enables developer console and removes restrictions on access of classes."
   },
   {
     "repo": "MrDuck557/HomebrewMindustry",
@@ -1813,6 +1791,28 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This is a description."
+  },
+  {
+    "repo": "MindustryInside/AdvancedDevMode",
+    "name": "Advanced Developer Mode",
+    "author": "Summet",
+    "lastUpdated": "2021-05-13T20:24:45Z",
+    "stars": 2,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that enables developer console and removes restrictions on access of classes."
+  },
+  {
+    "repo": "BlueThecno/Galaxite-Mod",
+    "name": "Galaxite Mod",
+    "author": "BlueTechno",
+    "lastUpdated": "2021-05-13T20:44:24Z",
+    "stars": 2,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "After conquering Serpulo and unable to leave the planet, you decide to search for new materials and technologies. Soon you find a brand new and unestable material, now is just figuring out what to do with it..."
   },
   {
     "repo": "4156/Infintory",
@@ -2200,17 +2200,6 @@
     "description": " My first mod for Anuke's Mindustry. It adds new version turrets, factories, items to the game."
   },
   {
-    "repo": "BlueThecno/Mindustry-Diamond-Mod",
-    "name": "Diamond Mod",
-    "author": "BlueTechno",
-    "lastUpdated": "2021-04-24T04:34:40Z",
-    "stars": 1,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Because Minecraft doesn't need to be the only one with this beautys :)"
-  },
-  {
     "repo": "Danieljb5/Loredustry",
     "name": "Loredustry",
     "author": "Danieljb5 & ...",
@@ -2385,6 +2374,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Contains useful (probably) features or utilities:\n  - console\n  - unit spawner\n  - entity display\n  - and more...\n\nPress F9 to access menu utilities on desktop. On mobile, tap the button with a wrench icon once you have loaded a world.\n\nFor more information, please visit the wiki section on this mod's repository."
+  },
+  {
+    "repo": "BlueThecno/Mindustry-Diamond-Mod",
+    "name": "Diamond Mod",
+    "author": "BlueTechno",
+    "lastUpdated": "2021-05-13T20:45:14Z",
+    "stars": 1,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Because Minecraft doesn't need to be the only one with this beautys :)"
   },
   {
     "repo": "Nikisos/TheBattleMod",
@@ -2904,17 +2904,6 @@
     "description": "a mod that allows you to turn copper into slag, since many maps are missing this resource"
   },
   {
-    "repo": "BlueThecno/Infinitum-Mod",
-    "name": "Infinitum Mod",
-    "author": "BlueTechno",
-    "lastUpdated": "2021-04-18T22:39:47Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that creates the most powerful material ever made"
-  },
-  {
     "repo": "WayfarerTechnologies/Courier-Mod",
     "name": "Courier Nod",
     "author": "[#8738ff]WayfarerMedia[]",
@@ -3067,5 +3056,16 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Lets you travel to the sun in mindustry"
+  },
+  {
+    "repo": "BlueThecno/Infinitum-Mod",
+    "name": "Infinitum Mod",
+    "author": "BlueTechno",
+    "lastUpdated": "2021-05-13T21:12:36Z",
+    "stars": 0,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that creates the most powerful material ever made"
   }
 ]
