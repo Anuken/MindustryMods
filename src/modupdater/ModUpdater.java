@@ -8,7 +8,6 @@ import arc.graphics.*;
 import arc.math.*;
 import arc.struct.*;
 import arc.util.*;
-import arc.util.async.*;
 import arc.util.serialization.*;
 import arc.util.serialization.Jval.*;
 
@@ -30,7 +29,9 @@ public class ModUpdater{
     static final String githubToken = OS.prop("githubtoken");
 
     public static void main(String[] args){
-        Core.net = makeNet();
+        Core.net = new Net();
+        Core.net.setBlock(true);
+
         new ModUpdater();
     }
 
@@ -215,20 +216,4 @@ public class ModUpdater{
         error.printStackTrace();
     }
 
-    static Net makeNet(){
-        Net net = new Net();
-        //use blocking requests
-        Reflect.set(NetJavaImpl.class, Reflect.get(net, "impl"), "asyncExecutor", new AsyncExecutor(1){
-            public <T> AsyncResult<T> submit(final AsyncTask<T> task){
-                try{
-                    task.call();
-                }catch(Exception e){
-                    throw new RuntimeException(e);
-                }
-                return null;
-            }
-        });
-
-        return net;
-    }
 }
