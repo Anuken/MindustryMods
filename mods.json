@@ -154,6 +154,17 @@
     "description": "Mod that adds a manual page library. RTFM in the About menu.\nComes with documentation of vanilla'a Logic system.\nOptionally requires DeltaNedas/ui-lib for extra buttons.\npt_BR translations by King-BR"
   },
   {
+    "repo": "DeltaNedas/ui-lib",
+    "name": "UI Lib",
+    "author": "DeltaNedas",
+    "lastUpdated": "2021-02-08T18:30:34Z",
+    "stars": 35,
+    "minGameVersion": "108",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Library for other mods that unifies and simplifies UI creation."
+  },
+  {
     "repo": "MoTRona/Colloseus-Mod",
     "name": "Colloseus Mod",
     "author": "MoTRona",
@@ -163,17 +174,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Modification for Mindustry game. Adds new items, units, liquids, fabrics, turrets, mechanics, maps and weathers.\nAll turrets and units are divided into factions. There are 6 fractions in total. This mod is entirely made up of scripts. Enjoy."
-  },
-  {
-    "repo": "DeltaNedas/ui-lib",
-    "name": "UI Lib",
-    "author": "DeltaNedas",
-    "lastUpdated": "2021-02-08T18:30:34Z",
-    "stars": 34,
-    "minGameVersion": "108",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Library for other mods that unifies and simplifies UI creation."
   },
   {
     "repo": "DeltaNedas/pictologic",
@@ -619,7 +619,7 @@
     "repo": "Sharlottes/UnitInfo",
     "name": "Unit Infomation",
     "author": "Sharlotte",
-    "lastUpdated": "2021-05-14T00:35:20Z",
+    "lastUpdated": "2021-05-14T15:00:47Z",
     "stars": 9,
     "minGameVersion": "126",
     "hasScripts": false,
@@ -680,6 +680,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Explore minerals and mechanisms."
+  },
+  {
+    "repo": "Xeloboyo/PvP-Notifs",
+    "name": "PvP notifs",
+    "author": "Xelo",
+    "lastUpdated": "2021-04-13T09:20:50Z",
+    "stars": 7,
+    "minGameVersion": "117",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Alerts you to enemy tech progression and unit production"
   },
   {
     "repo": "bluehouse-studios/Dark-Life",
@@ -801,17 +812,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "The mod title itself is self-explanatory. Yeah that's what most people thought."
-  },
-  {
-    "repo": "Xeloboyo/PvP-Notifs",
-    "name": "PvP notifs",
-    "author": "Xelo",
-    "lastUpdated": "2021-04-13T09:20:50Z",
-    "stars": 6,
-    "minGameVersion": "117",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Alerts you to enemy tech progression and unit production"
   },
   {
     "repo": "Drullkus/Unnerf-Core-Units",
@@ -1727,17 +1727,6 @@
     "description": "This mod make this game difficult."
   },
   {
-    "repo": "Mak992/Future-Technologies-mod",
-    "name": "Future technologies mod",
-    "author": "mak_",
-    "lastUpdated": "2021-05-03T15:57:50Z",
-    "stars": 2,
-    "minGameVersion": "125",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "New blocks, units and a lot of other! Adds pretty decent staff."
-  },
-  {
     "repo": "MrDuck557/HomebrewMindustry",
     "name": "Duck Homebrew",
     "author": "MrDuck557",
@@ -2011,17 +2000,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod to express my feelings about everything."
-  },
-  {
-    "repo": "Sonnicon/mindustry-newhorizons",
-    "name": "New Horizons",
-    "author": "[#8738ff]Sonnicon[]",
-    "lastUpdated": "2021-01-31T02:15:33Z",
-    "stars": 1,
-    "minGameVersion": "121",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Epic mindustry mod"
   },
   {
     "repo": "DeltaNedas/ExampleJavaMod",
@@ -2629,17 +2607,6 @@
     "description": "  Displays the modding docs code examples."
   },
   {
-    "repo": "Destrux/mega-battery-mod",
-    "name": "More Batteries",
-    "author": "Destrux",
-    "lastUpdated": "2021-01-23T17:08:16Z",
-    "stars": 0,
-    "minGameVersion": "123.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This is a mod adding multiple tiers of more powerful batteries"
-  },
-  {
     "repo": "AlbinoGeek/modFoo",
     "name": "Mod Template //the displayed mod name",
     "author": "Sharlotte //you",
@@ -3047,17 +3014,6 @@
     "description": "A mod that creates the most powerful material ever made"
   },
   {
-    "repo": "AshesKaiser-KR/ExampleJavaMod",
-    "name": "Example Java Mod",
-    "author": "AshesKaiser",
-    "lastUpdated": "2021-05-14T01:50:45Z",
-    "stars": 0,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A simple mod made out of Java"
-  },
-  {
     "repo": "KotMilkMeoW/Milkmod",
     "name": "MilkMod",
     "author": "KotMilkMeoW",
@@ -3078,5 +3034,16 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Lets you travel to the sun in mindustry"
+  },
+  {
+    "repo": "AshesKaiser-KR/ExampleJavaMod",
+    "name": "Example Java Mod",
+    "author": "AshesKaiser",
+    "lastUpdated": "2021-05-14T14:25:10Z",
+    "stars": 0,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A simple mod made out of Java"
   }
 ]
