@@ -2,7 +2,7 @@ name: Automatic Updates
 
 on:
   schedule:
-    - cron: "0 */1 * * *"
+    - cron: "0 */5 * * *"
   push:
     branches:
       - master
