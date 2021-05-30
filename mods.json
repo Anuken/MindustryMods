@@ -187,6 +187,17 @@
     "description": "Adds a dialog for turning images into processor schematics.\nRequires DeltaNedas/ui-lib."
   },
   {
+    "repo": "K103908/Exotic-Mod",
+    "name": "Exotic Mod",
+    "author": "Main Dev: BlueWolf\nOther Devs: K103908, MEEP Of Faith, AndromedaFallen\nContributors: Quezler, VozDuh",
+    "lastUpdated": "2021-05-30T17:24:21Z",
+    "stars": 31,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "WARNING: Not supported on low-end devices.\n\nWe got together over the Mindustry Discord to bring you this exotic mod. Adds in a few things we thought would be fun.\nUpdate log:\n  you should have run when you could have.\n\nNote: Reconstructors will break the game's UI because of the resource costs, there isn't anything I (BlueWolf) can do about it.\n\nDiscord: https://discord.gg/M3hm5z6nm6\n\nA lot of work goes into Exotic, so if you want to show some support or like the content give the mod a star on GitHub!"
+  },
+  {
     "repo": "Sharlottes/ExampleMod",
     "name": "Example Mod",
     "author": "Sharlotte",
@@ -207,17 +218,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds new content, including units, turrets, blocks, etc. Mod content are presented with pretty textures and amazing effects.\n\n You can get the Mod Guide in the GitHub-README-MOD Guide."
-  },
-  {
-    "repo": "K103908/Exotic-Mod",
-    "name": "Exotic Mod",
-    "author": "Main Dev: BlueWolf\nOther Devs: K103908, MEEP Of Faith, AndromedaFallen\nContributors: Quezler, VozDuh",
-    "lastUpdated": "2021-05-29T20:18:07Z",
-    "stars": 29,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "WARNING: Not supported on low-end devices.\n\nWe got together over the Mindustry Discord to bring you this exotic mod. Adds in a few things we thought would be fun.\nUpdate log:\n  you should have run when you could have.\n\nNote: Reconstructors will break the game's UI because of the resource costs, there isn't anything I (BlueWolf) can do about it.\n\nDiscord: https://discord.gg/M3hm5z6nm6\n\nA lot of work goes into Exotic, so if you want to show some support or like the content give the mod a star on GitHub!"
   },
   {
     "repo": "Sharlottes/sharustry",
@@ -531,7 +531,7 @@
     "repo": "theangelurd/Additional-Content",
     "name": " Additional  Content",
     "author": "Tayros/theangelurd",
-    "lastUpdated": "2021-05-30T02:32:44Z",
+    "lastUpdated": "2021-05-30T19:14:03Z",
     "stars": 11,
     "minGameVersion": "122",
     "hasScripts": true,
@@ -1903,6 +1903,17 @@
     "description": "Some strange mod, which there some metals."
   },
   {
+    "repo": "Sirvoid/MindustryVCode",
+    "name": "VCode Compiler",
+    "author": "Sirvoid",
+    "lastUpdated": "2021-05-30T20:31:30Z",
+    "stars": 2,
+    "minGameVersion": "108",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Compiler for a mindustry programming language.\nTokens:\nfunc,call,if,while,break,end,cmd\nSee example: https://pastebin.com/3vTgba6k"
+  },
+  {
     "repo": "4156/Infintory",
     "name": "Example Java Mod",
     "author": "Anuke",
@@ -2442,17 +2453,6 @@
     "description": "The world is evolving. You must catch up quickly. Learn the dynamics of the world and become the new king!"
   },
   {
-    "repo": "Sirvoid/MindustryVCode",
-    "name": "VCode Compiler",
-    "author": "Sirvoid",
-    "lastUpdated": "2021-05-29T18:54:45Z",
-    "stars": 1,
-    "minGameVersion": "108",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Compiler for a mindustry programming language.\nTokens:\nfunc,call,if,while,break,end,cmd\nNote: Support only one operation per line.\nSee example: https://pastebin.com/3vTgba6k"
-  },
-  {
     "repo": "FreezeMandu/invisibleblocks",
     "name": "Invisible Blocks",
     "author": "Mandu",
@@ -2489,7 +2489,7 @@
     "repo": "Danieljb5/Loredustry",
     "name": "Loredustry",
     "author": "Danieljb5 & ...",
-    "lastUpdated": "2021-05-30T14:07:00Z",
+    "lastUpdated": "2021-05-30T19:32:24Z",
     "stars": 1,
     "minGameVersion": "123.1",
     "hasScripts": true,
@@ -3146,17 +3146,6 @@
     "description": "A mod that wepwaces da Engwish wocawization with the UwU wanguage. Da mod is nyot fuwwy compweted yet!"
   },
   {
-    "repo": "BlueTechnoCat/Convenience-Mod",
-    "name": "Convinience Mod",
-    "author": "BlueTechno",
-    "lastUpdated": "2021-05-22T02:28:26Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Because you can't have too much convinience"
-  },
-  {
     "repo": "AshesKaiser-KR/ExampleJavaMod",
     "name": "Example Java Mod",
     "author": "AshesKaiser",
@@ -3210,5 +3199,16 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a new fractions of units like: Snow, Electrical, Spore, Blade, Averaged, Upgraded."
+  },
+  {
+    "repo": "BlueTechnoCat/Convenience-Mod",
+    "name": "Convinience Mod",
+    "author": "BlueTechno",
+    "lastUpdated": "2021-05-30T20:28:05Z",
+    "stars": 0,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Because you can't have too much convinience"
   }
 ]
