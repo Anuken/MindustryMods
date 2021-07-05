@@ -26,7 +26,7 @@
     "name": "BetaMindy",
     "author": "sk7725",
     "lastUpdated": "2021-07-04T12:41:25Z",
-    "stars": 103,
+    "stars": 104,
     "minGameVersion": "123",
     "hasScripts": false,
     "hasJava": true,
@@ -44,17 +44,6 @@
     "description": "The other way around"
   },
   {
-    "repo": "Eschatologue/Heavy-Armaments-Industries",
-    "name": "Heavy Armaments Industries",
-    "author": "[#386dff]Eschatologue[]",
-    "lastUpdated": "2021-06-28T02:12:32Z",
-    "stars": 67,
-    "minGameVersion": "125.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This mod is now discontinued, other than compatibility to v7 later, no new content will be added. All future content and adjustments will be pushed to Eschatologue/Unlimited-Armament-Works"
-  },
-  {
     "repo": "Pietro303HD/ShadowMod",
     "name": "ShadowMod v6 [WIP]",
     "author": "Pietro303HD",
@@ -64,6 +53,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "no content yet, stay tuned though."
+  },
+  {
+    "repo": "Eschatologue/Heavy-Armaments-Industries",
+    "name": "Heavy Armaments Industries",
+    "author": "[#386dff]Eschatologue[]",
+    "lastUpdated": "2021-06-28T02:12:32Z",
+    "stars": 66,
+    "minGameVersion": "125.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This mod is now discontinued, other than compatibility to v7 later, no new content will be added. All future content and adjustments will be pushed to Eschatologue/Unlimited-Armament-Works"
   },
   {
     "repo": "QmelZ/hackustry",
@@ -154,6 +154,17 @@
     "description": "No description provided."
   },
   {
+    "repo": "BlueWolf3682/Exotic-Mod",
+    "name": "Exotic Mod",
+    "author": "BlueWolf",
+    "lastUpdated": "2021-07-04T16:04:06Z",
+    "stars": 41,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "WARNING: Not supported on low-end devices.\n\nThe official HJSON 6.0 example mod. Both a reference point and also playable.\n\nNote: Reconstructors will break the game's UI because of the resource costs, there isn't anything I can do about it.\n\nDiscord: https://discord.gg/M3hm5z6nm6\n\nA lot of work goes into Exotic, so if you want to show some support or like the content give the mod a star on GitHub!"
+  },
+  {
     "repo": "DeltaNedas/rtfm",
     "name": "RTFM",
     "author": "DeltaNedas",
@@ -174,17 +185,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Library for other mods that unifies and simplifies UI creation."
-  },
-  {
-    "repo": "BlueWolf3682/Exotic-Mod",
-    "name": "Exotic Mod",
-    "author": "BlueWolf",
-    "lastUpdated": "2021-07-04T16:04:06Z",
-    "stars": 39,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "WARNING: Not supported on low-end devices.\n\nThe official HJSON 6.0 example mod. Both a reference point and also playable.\n\nNote: Reconstructors will break the game's UI because of the resource costs, there isn't anything I can do about it.\n\nDiscord: https://discord.gg/M3hm5z6nm6\n\nA lot of work goes into Exotic, so if you want to show some support or like the content give the mod a star on GitHub!"
   },
   {
     "repo": "MoTRona/Colloseus-Mod",
@@ -245,7 +245,7 @@
     "repo": "AureusStratus/ExoGenesis",
     "name": "Exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2021-07-04T12:08:48Z",
+    "lastUpdated": "2021-07-05T16:11:41Z",
     "stars": 31,
     "minGameVersion": "126.1",
     "hasScripts": false,
@@ -572,6 +572,17 @@
     "description": "Pack with a lot of schematics for a wide rande of players.\n\nПакет с множеством схем для широкого круга игроков.\n\nHELPERS\nvit_l0g"
   },
   {
+    "repo": "Eschatologue/Unlimited-Armament-Works",
+    "name": "Unlimited Armament Works",
+    "author": "Eschatologue",
+    "lastUpdated": "2021-07-05T14:17:45Z",
+    "stars": 11,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A port and a sequel to Heavy-Armaments-Industries written in java "
+  },
+  {
     "repo": "tcookiem/yeeter-mod",
     "name": "Yeeter Mod",
     "author": "tcookiem, Ski12345",
@@ -603,17 +614,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Utilities for testing stuff.\n\nTeam Changer: Change teams easilty. (Disabled in campaign)\nSeppuku Button: Kill yourself. Press and hold to commit crawler. A setting to make the death instant can be found in game settings.\nClone Button: Instantly clones your player unit. Press and hold to mass clone. (Disabled in campaign)\nHeal Button: Sets your player unit's hp to its max. (Disabled in campaign)\nInvincibility Button: Sets your player unit's hp to infinity. (Disabled in campaign)\nSandbox/Survival Button: Toggles infinite resources. (Disabled in campaign)\nFill/Dump Core: Fill or empty your core of all items. Hold to swap. (Disabled in campaign)\nStatus Menu: Apply/clear status effects to yourself. (Disabled in campaign)\n\nA setting for making the menu folded by default can be found in game settings.\n\nAlso increases zooming range."
-  },
-  {
-    "repo": "Eschatologue/Unlimited-Armament-Works",
-    "name": "Unlimited Armament Works",
-    "author": "Eschatologue",
-    "lastUpdated": "2021-07-05T14:17:45Z",
-    "stars": 10,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A port and a sequel to Heavy-Armaments-Industries written in java "
   },
   {
     "repo": "QmelZ/mainstreamdustry",
@@ -872,7 +872,7 @@
     "repo": "7rodo/Strawberry",
     "name": "Strawberry",
     "author": "7rodo",
-    "lastUpdated": "2021-07-05T13:20:06Z",
+    "lastUpdated": "2021-07-05T16:20:50Z",
     "stars": 7,
     "minGameVersion": "119",
     "hasScripts": true,
@@ -1331,17 +1331,6 @@
     "description": "Leet speak localisator."
   },
   {
-    "repo": "Mikamolimo/Legendary-Rainbow-Mod",
-    "name": "Legendary Rainbow Mod",
-    "author": "Mikamolimo",
-    "lastUpdated": "2021-07-04T18:59:27Z",
-    "stars": 4,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Craft expensive Items to get a Legendary Item. You can build some very usefull Machines with that.\n  PLS UPDATE ONCE EVERY WEEK"
-  },
-  {
     "repo": "Blerp23/Blerptest-mod",
     "name": "BlerpTestMod",
     "author": "Blerp23: creator, meep: small amount of content, adenator09: spriter",
@@ -1362,6 +1351,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The place, a desolate wasteland it will become. The crash transformed everything. Wasteland may not be the best word for it, as there is still life, yet so far away from what we normaly expect. \n \n \nWelcome to the Endless Rusting, and thanks to \n Bluphenyx#0001 for the Archangel's conscept and sprite, \n[SK]Roomba#8215 for tesla sprite and helping me playtest, \nQmelZ the Void#0526 for helping me with code, \ncl0cks#0039 for helping me come up with ideas \n \nFor making this posible. It may be a small mod, but it'll improve and grow as the months pass. I hope that you have a good time playing, and I'll cya in the past. \nCrae, and Mhem."
+  },
+  {
+    "repo": "Mikamolimo/Legendary-Rainbow-Mod",
+    "name": "Legendary Rainbow Mod",
+    "author": "Mikamolimo",
+    "lastUpdated": "2021-07-05T19:07:12Z",
+    "stars": 4,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Craft expensive Items to get a Legendary Item. You can build some very usefull Machines with that.\n  PLS UPDATE ONCE EVERY WEEK"
   },
   {
     "repo": "DeltaNedas/radar",
@@ -2643,12 +2643,12 @@
     "repo": "FreezeMandu/invisibleblocks",
     "name": "Invisible Blocks",
     "author": "Mandu",
-    "lastUpdated": "2021-07-05T15:27:59Z",
+    "lastUpdated": "2021-07-05T15:32:31Z",
     "stars": 1,
     "minGameVersion": "126",
     "hasScripts": true,
     "hasJava": false,
-    "description": "\n  Invisible Blocks Texture Pack.\n  Convenience Mode\n \n  Thanks To\n  ss심\n  sk7725\n  "
+    "description": "Invisible Blocks Texture Pack.\nConvenience Mode\n\nThanks To\nss심\nsk7725"
   },
   {
     "repo": "Nikisos/TheBattleMod",
@@ -3391,7 +3391,7 @@
     "repo": "luihum/XtremeLogic",
     "name": "XtremeLogic",
     "author": "Luihum",
-    "lastUpdated": "2021-07-05T12:37:26Z",
+    "lastUpdated": "2021-07-05T18:21:36Z",
     "stars": 0,
     "minGameVersion": "126",
     "hasScripts": false,
