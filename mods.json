@@ -220,6 +220,17 @@
     "description": "my first Java Mod. multi craft-generator, multi turret, multi drill and few thing more! \nnot completely finished/released yet. but i'm sure it's still enough for you to be interested in this mod, this contents, this ideas! \n\nThanks for helping: sk7725: owner of betaMindy \nmeep: owner of Progressed Materials \nmal&ssim: donated great sprites"
   },
   {
+    "repo": "Yuria-Shikibe/NewHorizonMod",
+    "name": "NewHorizonMod",
+    "author": "Yuria",
+    "lastUpdated": "2021-05-30T09:11:59Z",
+    "stars": 33,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds new content, including units, turrets, blocks, etc. Mod content are presented with pretty textures and amazing effects.\n\n You can get the Mod Guide in the GitHub-README-MOD Guide."
+  },
+  {
     "repo": "AureusStratus/ExoGenesis",
     "name": "Exogenesis",
     "author": "AureusStratus",
@@ -229,17 +240,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod that adds in a butt load of content"
-  },
-  {
-    "repo": "Yuria-Shikibe/NewHorizonMod",
-    "name": "NewHorizonMod",
-    "author": "Yuria",
-    "lastUpdated": "2021-05-30T09:11:59Z",
-    "stars": 32,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds new content, including units, turrets, blocks, etc. Mod content are presented with pretty textures and amazing effects.\n\n You can get the Mod Guide in the GitHub-README-MOD Guide."
   },
   {
     "repo": "Sharlottes/ExampleMod",
@@ -539,6 +539,17 @@
     "description": "a mod that adds more content wich is a great example for noobies to modding :D"
   },
   {
+    "repo": "MEEPofFaith/testing-utilities",
+    "name": "Testing Utilities",
+    "author": "MEEP of Faith",
+    "lastUpdated": "2021-06-21T19:24:28Z",
+    "stars": 11,
+    "minGameVersion": "126.2",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Utilities for testing stuff.\n\nTeam Changer: Change teams easilty. (Disabled in campaign)\nSeppuku Button: Kill yourself. Press and hold to commit crawler. A setting to make the death instant can be found in game settings.\nClone Button: Instantly clones your player unit. Press and hold to mass clone. (Disabled in campaign)\nHeal Button: Sets your player unit's hp to its max. (Disabled in campaign)\nInvincibility Button: Sets your player unit's hp to infinity. (Disabled in campaign)\nSandbox/Survival Button: Toggles infinite resources. (Disabled in campaign)\nFill/Dump Core: Fill or empty your core of all items. Hold to swap. (Disabled in campaign)\nStatus Menu: Apply/clear status effects to yourself. (Disabled in campaign)\n\nA setting for making the menu folded by default can be found in game settings.\n\nAlso increases zooming range."
+  },
+  {
     "repo": "theangelurd/Additional-Content",
     "name": " Additional  Content",
     "author": "Tayros/theangelurd",
@@ -592,17 +603,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds shitass to the game"
-  },
-  {
-    "repo": "MEEPofFaith/testing-utilities",
-    "name": "Testing Utilities",
-    "author": "MEEP of Faith",
-    "lastUpdated": "2021-06-21T19:24:28Z",
-    "stars": 10,
-    "minGameVersion": "126.2",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Utilities for testing stuff.\n\nTeam Changer: Change teams easilty. (Disabled in campaign)\nSeppuku Button: Kill yourself. Press and hold to commit crawler. A setting to make the death instant can be found in game settings.\nClone Button: Instantly clones your player unit. Press and hold to mass clone. (Disabled in campaign)\nHeal Button: Sets your player unit's hp to its max. (Disabled in campaign)\nInvincibility Button: Sets your player unit's hp to infinity. (Disabled in campaign)\nSandbox/Survival Button: Toggles infinite resources. (Disabled in campaign)\nFill/Dump Core: Fill or empty your core of all items. Hold to swap. (Disabled in campaign)\nStatus Menu: Apply/clear status effects to yourself. (Disabled in campaign)\n\nA setting for making the menu folded by default can be found in game settings.\n\nAlso increases zooming range."
   },
   {
     "repo": "QmelZ/mainstreamdustry",
@@ -1562,17 +1562,6 @@
     "description": "A mod dat wepwaces da Engwish wocawization with da UwU wanguage.\nI'm weawwy suwpwised dat somye peopwe awe using it!"
   },
   {
-    "repo": "receptea/mind-util",
-    "name": "mind-util - Utility Mod",
-    "author": "iarkn",
-    "lastUpdated": "2021-07-07T10:12:07Z",
-    "stars": 3,
-    "minGameVersion": "127",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A client-side utility mod. Contains useful (probably) features such as\n  - console\n  - unit spawner\n  - entity display\n  - and more...\n\nPress F9 to access the utilities menu on desktop. On mobile, tap the button with a wrench icon once you have loaded a world.\n\nFor more information, please visit <https://github.com/Receptea/mind-util/wiki>."
-  },
-  {
     "repo": "Sirvoid/MindustryVCode",
     "name": "VCode Compiler",
     "author": "Sirvoid",
@@ -1582,6 +1571,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Compiler for a mindustry programming language.\nTokens:\nfunc,call,if,elif,else,while,break,continue,return,end,wait,cmd\nSee example: https://pastebin.com/3vTgba6k"
+  },
+  {
+    "repo": "receptea/mind-util",
+    "name": "mind-util - Utility Mod",
+    "author": "iarkn",
+    "lastUpdated": "2021-07-07T23:55:38Z",
+    "stars": 3,
+    "minGameVersion": "127",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A client-side utility mod. Contains useful (probably) features such as\n  - console\n  - unit spawner\n  - entity display\n  - and more...\n\nPress F9 to access the utilities menu on desktop. On mobile, tap the button with a wrench icon once you have loaded a world.\n\nFor more information, please visit <https://github.com/Receptea/mind-util/wiki>."
   },
   {
     "repo": "RebornTrack970/Sandbox-Mode",
