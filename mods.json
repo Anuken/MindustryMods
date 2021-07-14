@@ -3,7 +3,7 @@
     "repo": "pixaxeofpixie/Braindustry-Mod",
     "name": "Braindustry",
     "author": "[#9e41ea]Zelaux, KOSTOLOM, PixaxeOfPixie, Vervalamis, SuperJaba2000, [#9effc0]p[#82e0a3]lo[#69c589]lq, Toxin[]",
-    "lastUpdated": "2021-07-14T13:56:20Z",
+    "lastUpdated": "2021-07-14T19:55:16Z",
     "stars": 132,
     "minGameVersion": "126.2",
     "hasScripts": false,
@@ -25,7 +25,7 @@
     "repo": "sk7725/BetaMindy",
     "name": "BetaMindy",
     "author": "sk7725",
-    "lastUpdated": "2021-07-13T22:38:26Z",
+    "lastUpdated": "2021-07-14T15:44:52Z",
     "stars": 114,
     "minGameVersion": "123",
     "hasScripts": false,
@@ -209,26 +209,26 @@
     "description": "Adds a dialog for turning images into processor schematics.\nRequires DeltaNedas/ui-lib."
   },
   {
+    "repo": "AureusStratus/ExoGenesis",
+    "name": "Exogenesis",
+    "author": "AureusStratus",
+    "lastUpdated": "2021-07-12T20:32:37Z",
+    "stars": 35,
+    "minGameVersion": "126.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that adds in a butt load of content"
+  },
+  {
     "repo": "MoTRona/Colloseus-Mod",
     "name": "Colloseus Mod",
     "author": "MoTRona",
-    "lastUpdated": "2021-07-14T15:20:57Z",
+    "lastUpdated": "2021-07-14T18:31:42Z",
     "stars": 35,
     "minGameVersion": "126.2",
     "hasScripts": true,
     "hasJava": false,
     "description": "Modification for Mindustry game with new interesting content. The whole mod is divided into 6 factions, which include turrets, units and special materials."
-  },
-  {
-    "repo": "AureusStratus/ExoGenesis",
-    "name": "Exogenesis",
-    "author": "AureusStratus",
-    "lastUpdated": "2021-07-12T20:32:37Z",
-    "stars": 34,
-    "minGameVersion": "126.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that adds in a butt load of content"
   },
   {
     "repo": "Sharlottes/ExampleMod",
@@ -432,7 +432,7 @@
     "repo": "sk7725/Testers",
     "name": "Testers",
     "author": "sk7725",
-    "lastUpdated": "2021-07-14T15:07:44Z",
+    "lastUpdated": "2021-07-14T15:43:21Z",
     "stars": 16,
     "minGameVersion": "110",
     "hasScripts": true,
@@ -696,7 +696,7 @@
     "repo": "TheRealIvyX/MoreDefences",
     "name": "MoreDefences",
     "author": "IvyX",
-    "lastUpdated": "2021-07-14T08:11:54Z",
+    "lastUpdated": "2021-07-14T19:40:43Z",
     "stars": 9,
     "minGameVersion": "126",
     "hasScripts": true,
@@ -1263,6 +1263,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds random logic utilities. Praise the cat."
+  },
+  {
+    "repo": "K103908/Defense-Array",
+    "name": "Ruinous Defense Array",
+    "author": "\nK103908 \n\n(Hjsoner, Leader I think) \n\nMeep of Faith\n\n(Spriter, Hjsoner, Lost in scripting hell)\n",
+    "lastUpdated": "2021-05-24T18:13:44Z",
+    "stars": 4,
+    "minGameVersion": "119",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nTurret prices were added, if you have a suggestion in altering them let me know through github as i'm less active on discord. But keep in mind a Unit will be added to help you speed up the building process.\nHellstorm added with TEMPORARY sprite.\n"
   },
   {
     "repo": "sergeyoshpo/CatDustry",
@@ -1925,17 +1936,6 @@
     "description": "This is a description."
   },
   {
-    "repo": "CrazyMan390/synth_tech",
-    "name": "Synth Technologies",
-    "author": "CrazyMan390",
-    "lastUpdated": "2021-06-06T02:12:50Z",
-    "stars": 2,
-    "minGameVersion": "126",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A small yet advanced corporation, from the Andromeda Galaxy"
-  },
-  {
     "repo": "YSpoof/mindustry-zmod",
     "name": "ZMod",
     "author": "N0TZ3R0",
@@ -2027,12 +2027,23 @@
     "repo": "ice100k/prismatic",
     "name": "Prismatic",
     "author": "ice100k, thecrisperson",
-    "lastUpdated": "2021-07-14T12:57:08Z",
+    "lastUpdated": "2021-07-14T19:53:31Z",
     "stars": 2,
     "minGameVersion": "121",
     "hasScripts": true,
     "hasJava": false,
     "description": "In this mod you will find lots of chains of units and weapons like vibro weaponry"
+  },
+  {
+    "repo": "4156/Infintory",
+    "name": "Example Java Mod",
+    "author": "Anuke",
+    "lastUpdated": "2020-10-03T12:14:03Z",
+    "stars": 1,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A jar mod."
   },
   {
     "repo": "SirMachinegun/EBM",
@@ -2387,6 +2398,17 @@
     "description": "废话：\r\n做了个中文语言文件，删了点东西，做了点平衡性，改了点名，优化了点代码\r\n\r\n没了\r\n\r\n版本：\r\n重制版将不会支持6.0以下的版本，老版本请去玩非重制版；\r\nmod版本号将随缘，你可能会看见奇怪的版本号；\r\nmod偏向电脑端玩家，手机端出问题请自行解决；\r\n**更 新 随 缘**\r\n\r\n更新：\r\n自己找，某些情况记得拆包\r\n\r\n模组常驻下载地址和开源地址：\r\nhttps://github.com/HuanSen233/-INDUSTRIAL-INNOVATION-mods-source-code-\r\n\r\n没错源码和模组都放一个里面了(笑)\r\n\r\n官方帖子：\r\nhttps://tieba.baidu.com/p/7335490223\r\n\r\n除了更新我很少会去看帖子"
   },
   {
+    "repo": "Divarion-D/Technology",
+    "name": "Technology",
+    "author": "Deletron247",
+    "lastUpdated": "2021-05-12T08:00:19Z",
+    "stars": 1,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "New guns, drills, crafting, materials and resourses"
+  },
+  {
     "repo": "TheBabinator/Toaster",
     "name": "Toaster",
     "author": "TheBabinator",
@@ -2464,15 +2486,15 @@
     "description": "This is just a simple Mindustry mod."
   },
   {
-    "repo": "Delourians/Mindustry-mod",
-    "name": "Mindustry-mod",
-    "author": "Gab??... and AZU",
-    "lastUpdated": "2021-06-09T00:33:53Z",
+    "repo": "iwantmods82/revampedDustry",
+    "name": "Revamped Industry",
+    "author": "Thinking Cat",
+    "lastUpdated": "2021-06-12T21:56:46Z",
     "stars": 1,
     "minGameVersion": "126.2",
     "hasScripts": false,
     "hasJava": false,
-    "description": "Finish the campaign....NOW"
+    "description": "The addition for mindustry. Out there to teach noobs how to mod, useless for scripting mentors."
   },
   {
     "repo": "Danieljb5/Loredustry",
@@ -2643,7 +2665,7 @@
     "repo": "MountLava/VolcanicMod",
     "name": "Volcanic",
     "author": "MountLava",
-    "lastUpdated": "2021-07-14T15:03:09Z",
+    "lastUpdated": "2021-07-14T17:02:16Z",
     "stars": 1,
     "minGameVersion": "126.2",
     "hasScripts": false,
