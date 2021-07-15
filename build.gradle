@@ -1,6 +1,6 @@
 apply plugin: "java"
 
-sourceCompatibility = 14
+sourceCompatibility = 16
 sourceSets.main.java.srcDirs = ["src/"]
 
 repositories{
@@ -9,12 +9,12 @@ repositories{
 }
 
 ext{
-    arcVersion = "3431af033773d046c682b4e52f1adc114747acb4"
+    arcVersion = "fbdfa0307101b881e208f53666c1f4b7ebf0fe90"
 }
 
 dependencies{
-    compile "com.github.Anuken.Arc:arc-core:$arcVersion"
-    compile "com.github.Anuken.Arc:natives-desktop:$arcVersion"
+    implementation "com.github.Anuken.Arc:arc-core:$arcVersion"
+    implementation "com.github.Anuken.Arc:natives-desktop:$arcVersion"
 }
 
 task run(dependsOn: classes, type: JavaExec){
