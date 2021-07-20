@@ -48,7 +48,7 @@
     "name": "Heavy Armaments Industries",
     "author": "[#386dff]Eschatologue[]",
     "lastUpdated": "2021-06-28T02:12:32Z",
-    "stars": 68,
+    "stars": 69,
     "minGameVersion": "125.1",
     "hasScripts": true,
     "hasJava": false,
@@ -169,7 +169,7 @@
     "name": "Exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2021-07-18T20:35:28Z",
-    "stars": 40,
+    "stars": 41,
     "minGameVersion": "126.1",
     "hasScripts": false,
     "hasJava": false,
@@ -187,6 +187,17 @@
     "description": "Library for other mods that unifies and simplifies UI creation."
   },
   {
+    "repo": "Sharlottes/sharustry",
+    "name": "Sharustry",
+    "author": "Sharlottes",
+    "lastUpdated": "2021-05-04T07:09:40Z",
+    "stars": 36,
+    "minGameVersion": "125",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "my first Java Mod. multi craft-generator, multi turret, multi drill and few thing more! \nnot completely finished/released yet. but i'm sure it's still enough for you to be interested in this mod, this contents, this ideas! \n\nThanks for helping: sk7725: owner of betaMindy \nmeep: owner of Progressed Materials \nmal&ssim: donated great sprites"
+  },
+  {
     "repo": "DeltaNedas/pictologic",
     "name": "PicToLogic",
     "author": "DeltaNedas, Router and another guy",
@@ -196,17 +207,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a dialog for turning images into processor schematics.\nRequires DeltaNedas/ui-lib."
-  },
-  {
-    "repo": "Sharlottes/sharustry",
-    "name": "Sharustry",
-    "author": "Sharlottes",
-    "lastUpdated": "2021-05-04T07:09:40Z",
-    "stars": 35,
-    "minGameVersion": "125",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "my first Java Mod. multi craft-generator, multi turret, multi drill and few thing more! \nnot completely finished/released yet. but i'm sure it's still enough for you to be interested in this mod, this contents, this ideas! \n\nThanks for helping: sk7725: owner of betaMindy \nmeep: owner of Progressed Materials \nmal&ssim: donated great sprites"
   },
   {
     "repo": "MoTRona/Colloseus-Mod",
@@ -399,7 +399,7 @@
     "repo": "Sharlottes/UnitInfo",
     "name": "Unit Infomation",
     "author": "Sharlotte",
-    "lastUpdated": "2021-07-19T10:58:07Z",
+    "lastUpdated": "2021-07-20T05:37:05Z",
     "stars": 18,
     "minGameVersion": "126",
     "hasScripts": false,
@@ -484,6 +484,17 @@
     "description": "Mindustry auto updater"
   },
   {
+    "repo": "Eschatologue/Unlimited-Armament-Works",
+    "name": "Unlimited Armament Works",
+    "author": "Eschatologue",
+    "lastUpdated": "2021-07-20T08:46:33Z",
+    "stars": 13,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A port and a sequel to Heavy-Armaments-Industries written in java "
+  },
+  {
     "repo": "sk7725/Commands",
     "name": "Commands",
     "author": "sk7725",
@@ -526,17 +537,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Utilities for testing stuff.\n\nTeam Changer: Change teams easilty. (Disabled in campaign)\nSeppuku Button: Kill yourself. Press and hold to commit crawler. A setting to make the death instant can be found in game settings.\nClone Button: Instantly clones your player unit. Press and hold to mass clone. (Disabled in campaign)\nHeal Button: Sets your player unit's hp to its max. (Disabled in campaign)\nInvincibility Button: Sets your player unit's hp to infinity. (Disabled in campaign)\nSandbox/Survival Button: Toggles infinite resources. (Disabled in campaign)\nFill/Dump Core: Fill or empty your core of all items. Hold to swap. (Disabled in campaign)\nStatus Menu: Apply/clear status effects to yourself. (Disabled in campaign)\n\nA setting for making the menu folded by default can be found in game settings.\n\nAlso increases zooming range."
-  },
-  {
-    "repo": "Eschatologue/Unlimited-Armament-Works",
-    "name": "Unlimited Armament Works",
-    "author": "Eschatologue",
-    "lastUpdated": "2021-07-20T04:21:16Z",
-    "stars": 12,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A port and a sequel to Heavy-Armaments-Industries written in java "
   },
   {
     "repo": "sk7725/EXP-lib",
@@ -2640,17 +2640,6 @@
     "description": "Texture pack that makes some blocks look cursed"
   },
   {
-    "repo": "Timshh/MBT",
-    "name": "MBT",
-    "author": "Timshh",
-    "lastUpdated": "2021-07-19T20:23:05Z",
-    "stars": 1,
-    "minGameVersion": "128.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Mod based on units"
-  },
-  {
     "repo": "MountLava/VolcanicMod",
     "name": "Volcanic",
     "author": "MountLava",
@@ -2660,6 +2649,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds tons of new useful content. Mostly adds turrets."
+  },
+  {
+    "repo": "Timshh/MBT",
+    "name": "MBT",
+    "author": "Timshh",
+    "lastUpdated": "2021-07-20T10:04:30Z",
+    "stars": 1,
+    "minGameVersion": "128.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Mod based on units"
   },
   {
     "repo": "Nikisos/TheBattleMod",
