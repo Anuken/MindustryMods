@@ -25,7 +25,7 @@
     "repo": "sk7725/BetaMindy",
     "name": "BetaMindy",
     "author": "sk7725",
-    "lastUpdated": "2021-08-08T07:33:34Z",
+    "lastUpdated": "2021-08-08T14:15:17Z",
     "stars": 124,
     "minGameVersion": "123",
     "hasScripts": false,
@@ -91,9 +91,9 @@
     "repo": "BlueWolf3682/Exotic-Mod",
     "name": "Exotic Mod",
     "author": "BlueWolf",
-    "lastUpdated": "2021-08-08T09:36:27Z",
+    "lastUpdated": "2021-08-08T11:11:14Z",
     "stars": 51,
-    "minGameVersion": "128",
+    "minGameVersion": "129.2",
     "hasScripts": false,
     "hasJava": false,
     "description": "WARNING: Not supported on low-end devices.\n\nThe official HJSON 7.0 example mod. Both a reference point and also playable. Developed in Canada.\nMoving to 7.0 release build 128.\n\nDiscord: https://discord.gg/M3hm5z6nm6\n\nA lot of work goes into Exotic, so if you want to show some support or like the content give the mod a star on GitHub!"
@@ -119,6 +119,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds a few things that enhance the vanilla experience."
+  },
+  {
+    "repo": "Yuria-Shikibe/NewHorizonMod",
+    "name": "New Horizon",
+    "author": "Yuria",
+    "lastUpdated": "2021-08-08T13:32:03Z",
+    "stars": 48,
+    "minGameVersion": "129.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds new content, including units, turrets, blocks, etc. Mod content are presented with pretty textures and amazing effects.\n\n You can get the Mod Guide in the GitHub-README-MOD Guide."
   },
   {
     "repo": "Sh1penfire/pixelcraft",
@@ -174,17 +185,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "No description provided."
-  },
-  {
-    "repo": "Yuria-Shikibe/NewHorizonMod",
-    "name": "New Horizon",
-    "author": "Yuria",
-    "lastUpdated": "2021-08-05T05:48:37Z",
-    "stars": 41,
-    "minGameVersion": "129.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds new content, including units, turrets, blocks, etc. Mod content are presented with pretty textures and amazing effects.\n\n You can get the Mod Guide in the GitHub-README-MOD Guide."
   },
   {
     "repo": "MoTRona/Colloseus-Mod",
@@ -352,17 +352,6 @@
     "description": "Adds multiple vaults, drills, duos, spectres, walls, forges, extractors, conveyors, liquids, mech units, mech pads. This is actually my first mod, hope you like it because i had alot of issues while making this.\r\nNOTE: Update 30+: Some items will be broken because they cannot be done any other way\r\n\r\nCredits\r\n\r\n> Coding - amione#0663, SimonWoodburyForget\r\n\r\n> Map making - amione#0663, Félix Córvus#3546, Pusheen#3121\r\n\r\n> Descriptions and names - amione#0663, LordPotaynut\r\n\r\n> Sprites - anuke, amione#0663, MemFaceGo\r\n\r\n> Report bugs on steam - https://steamcommunity.com/workshop/filedetails/discussion/1903525208/1640926712946564500/\r\n> Report bugs (or request features) on github - https://github.com/xamionex/Opore-Mod/issues/new/choose\r\n\r\n> Helped in making of mod on discord - simon#8156, Violet#5020, Nope.avi#4037, HNU Founder.lua#5046\r\n\r\n> People that reported bugs in early builds on discord - wewemaster#8854, omegaDM#0155, Mwister Cinnabar owo#2702\r\n\r\n> People that reported bugs in early builds on steam - Tibault, 月之殇, the_red_soul, LordPotaynut, Dockedreaper61"
   },
   {
-    "repo": "Fresh791/mindustry-extended",
-    "name": "Mindustry-Extended",
-    "author": "Developer:\n    Fresh791\n    \n    \nContributers:\n    Boopas172 (Balance Playtesting / Ideas)\n    \n    Rem-Armiger (Balance Playtesting / Ideas / Spike and Strike Platform Strahl Sprites / HIVE Sprites)\n    \n    Hairy Nugget (Spanish Translations)\n    \n    DeCell (Balance Playtesting)\n\n    coco (Balance Playtesting / French Translations)\n\n    migmag789 (French Translations)\n\n    ThePythonGuy3 (Outpost Script)\n\n    NiChrosia (Outpost Script)\n\n    ABreaker (Logo & Several Sprites)\n",
-    "lastUpdated": "2021-08-07T21:27:39Z",
-    "stars": 23,
-    "minGameVersion": "121",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Focuses on extending the vanilla game in fun but not op ways. 90+ blocks, 10 new items, 1 new liquid and 13 new units. \nAlso adds bigger cores and a whole new system to distribute items using the outpost block! \n\nSupported Languages: English, Spanish, German\n\nPlease note that the content language is dependent on your game language. (e.g: If your game is in English, the content will be so, too)."
-  },
-  {
     "repo": "Sharlottes/UnitInfo",
     "name": "Unit Infomation",
     "author": "Sharlotte",
@@ -374,15 +363,26 @@
     "description": "The mod displays more information ingame, such as unit/building, wave, core, tile, item/unit total info etc"
   },
   {
+    "repo": "Fresh791/mindustry-extended",
+    "name": "Mindustry-Extended",
+    "author": "Developer:\n    Fresh791\n    \n    \nContributers:\n    Many, many people! Check Discord for more information!",
+    "lastUpdated": "2021-08-08T15:01:09Z",
+    "stars": 23,
+    "minGameVersion": "121",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Focuses on extending the vanilla game in fun but not op ways. 90+ blocks, 10 new items, 1 new liquid and 13 new units. \nAlso adds bigger cores and a whole new system to distribute items using the outpost block! \n\nSupported Languages: English, Spanish, German\n\nPlease note that the content language is dependent on your game language. (e.g: If your game is in English, the content will be so, too).\n\nDo not be surprised about the high damage numbers on some turrets! Tests were made to balance them in a way that makes them have a fair dps (damage per second). To do so, \nsome turrets have been given stats that look way to strong but are not that strong when the turret is actually in use!"
+  },
+  {
     "repo": "guiYMOUR/mindustry-Extra-Utilities-mod",
     "name": "Extra Utilities Mod(更多实用设备)",
     "author": "guiY & Carrot",
-    "lastUpdated": "2021-08-07T10:44:30Z",
+    "lastUpdated": "2021-08-08T12:43:21Z",
     "stars": 22,
     "minGameVersion": "129",
     "hasScripts": true,
     "hasJava": false,
-    "description": "Added more and better T-2 and T-3 turrets and device.Some of the sprites come from other modules, like AC.(添加更多T2T3等级炮塔，设备，部分贴图来源于其他mod,比如AC)\n\r\n    mod还在更新，如果有更好的建议可以加QQ群:513165958\n\r\n    If you want to see the details, please load the mod and restart the game or go to README.md."
+    "description": "Added more and better T-2 and T-3 turrets and device.(添加更多T2T3等级炮塔，设备)\n\r\n    mod还在更新，如果有更好的建议可以加QQ群:513165958\n\r\n    If you want to see the details, please load the mod and restart the game or go to README.md."
   },
   {
     "repo": "NickName73/Gravillaso",
@@ -476,7 +476,7 @@
     "repo": "Eschatologue/Unlimited-Armament-Works",
     "name": "Unlimited Armament Works",
     "author": "Eschatologue",
-    "lastUpdated": "2021-08-08T09:37:45Z",
+    "lastUpdated": "2021-08-08T13:44:11Z",
     "stars": 14,
     "minGameVersion": "129",
     "hasScripts": false,
@@ -1598,7 +1598,7 @@
     "repo": "MountLava/VolcanicMod",
     "name": "Volcanic",
     "author": "MountLava",
-    "lastUpdated": "2021-08-07T20:28:31Z",
+    "lastUpdated": "2021-08-08T14:50:16Z",
     "stars": 3,
     "minGameVersion": "129.1",
     "hasScripts": false,
