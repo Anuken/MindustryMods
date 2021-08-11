@@ -21,7 +21,7 @@ public class ModUpdater{
     static final int perPage = 100;
     static final int maxLength = 55;
     static final ObjectSet<String> javaLangs = ObjectSet.with("Java", "Kotlin", "Groovy", "Scala"); //obviously not a comprehensive list
-    static final ObjectSet<String> blacklist = ObjectSet.with("Snow-of-Spirit-Fox-Mori/old-mod", "TheSaus/Cumdustry", "Anuken/ExampleMod", "Anuken/ExampleJavaMod", "Anuken/ExampleKotlinMod", "Mesokrix/Vanilla-Upgraded", "o7-Fire/Mindustry-Ozone");
+    static final ObjectSet<String> blacklist = ObjectSet.with("Snow-of-Spirit-Fox-Mori/old-mod", "TheSaus/Cumdustry", "Anuken/ExampleMod", "Anuken/ExampleJavaMod", "Anuken/ExampleKotlinMod", "Mesokrix/Vanilla-Upgraded", "o7-Fire/Mindustry-Ozone", "EasyPlaySu/BBM");
     static final Seq<String> nameBlacklist = Seq.with("o7", "Iron-Miner");
     static final int iconSize = 64;
 
