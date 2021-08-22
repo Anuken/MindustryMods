@@ -146,8 +146,8 @@
     "repo": "AureusStratus/ExoGenesis",
     "name": "Exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2021-08-05T11:49:36Z",
-    "stars": 46,
+    "lastUpdated": "2021-08-22T01:03:00Z",
+    "stars": 47,
     "minGameVersion": "126.1",
     "hasScripts": false,
     "hasJava": false,
@@ -451,17 +451,6 @@
     "description": "Reverts sprites to as early as b40."
   },
   {
-    "repo": "MEEPofFaith/testing-utilities",
-    "name": "Testing Utilities",
-    "author": "MEEP of Faith",
-    "lastUpdated": "2021-06-21T19:24:28Z",
-    "stars": 14,
-    "minGameVersion": "126.2",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Utilities for testing stuff.\n\nTeam Changer: Change teams easilty. (Disabled in campaign)\nSeppuku Button: Kill yourself. Press and hold to commit crawler. A setting to make the death instant can be found in game settings.\nClone Button: Instantly clones your player unit. Press and hold to mass clone. (Disabled in campaign)\nHeal Button: Sets your player unit's hp to its max. (Disabled in campaign)\nInvincibility Button: Sets your player unit's hp to infinity. (Disabled in campaign)\nSandbox/Survival Button: Toggles infinite resources. (Disabled in campaign)\nFill/Dump Core: Fill or empty your core of all items. Hold to swap. (Disabled in campaign)\nStatus Menu: Apply/clear status effects to yourself. (Disabled in campaign)\n\nA setting for making the menu folded by default can be found in game settings.\n\nAlso increases zooming range."
-  },
-  {
     "repo": "pixecoz/MindustrySchematics",
     "name": "Schematics Pack",
     "author": "pixecoz",
@@ -482,6 +471,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A port and a sequel to Heavy-Armaments-Industries written in java "
+  },
+  {
+    "repo": "MEEPofFaith/testing-utilities",
+    "name": "Testing Utilities",
+    "author": "MEEP of Faith",
+    "lastUpdated": "2021-08-22T00:10:46Z",
+    "stars": 14,
+    "minGameVersion": "126.2",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Utilities for testing stuff.\n\nTeam Changer: Change teams easilty. (Disabled in campaign)\nSeppuku Button: Kill yourself. Press and hold to commit crawler. A setting to make the death instant can be found in game settings.\nClone Button: Instantly clones your player unit. Press and hold to mass clone. (Disabled in campaign)\nHeal Button: Sets your player unit's hp to its max. (Disabled in campaign)\nInvincibility Button: Sets your player unit's hp to infinity. (Disabled in campaign)\nSandbox/Survival Button: Toggles infinite resources. (Disabled in campaign)\nFill/Dump Core: Fill or empty your core of all items. Hold to swap. (Disabled in campaign)\nStatus Menu: Apply/clear status effects to yourself. (Disabled in campaign)\n\nA setting for making the menu folded by default can be found in game settings.\n\nAlso increases zooming range."
   },
   {
     "repo": "DaGamerFiles/classic-music",
@@ -1177,7 +1177,7 @@
     "description": "Java library for java mods"
   },
   {
-    "repo": "mindustry-antigrief/client-installer",
+    "repo": "mindustry-antigrief/installer",
     "name": "Foo's Client Installer",
     "author": "foo, buthed010203",
     "lastUpdated": "2021-08-21T19:48:09Z",
@@ -1197,17 +1197,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Enables mobile UI if on desktop, or disables it on mobile."
-  },
-  {
-    "repo": "TheSlaylord/hard-mode-mod",
-    "name": "hard-mode-mod",
-    "author": "The Slaylord",
-    "lastUpdated": "2020-12-26T09:06:03Z",
-    "stars": 4,
-    "minGameVersion": "112",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Makes campaign and the whole Mindustry gameplay harder. If you are a novice, don't download this mod."
   },
   {
     "repo": "TheSaus/SimpleAdditions",
@@ -1287,6 +1276,17 @@
     "description": "Adds some utilities for mod developers.\nRequires DeltaNedas/ui-lib."
   },
   {
+    "repo": "TheSaus/DubiousWhiteLiquidustry",
+    "name": "DubiousWhiteLiquidustry",
+    "author": "The-Saus#1038",
+    "lastUpdated": "2021-04-21T04:21:43Z",
+    "stars": 4,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds Dubious White Liquid. Oddly good as a coolant"
+  },
+  {
     "repo": "Goobrr/toxodrip",
     "name": "Toxodrip",
     "author": "Goober",
@@ -1318,6 +1318,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Lets you travel to the sun in mindustry"
+  },
+  {
+    "repo": "sergeyoshpo/CatDustry",
+    "name": "CatDustry",
+    "author": "CAT",
+    "lastUpdated": "2021-06-05T13:01:22Z",
+    "stars": 4,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "добавляет шняги которые помогут в pvp"
   },
   {
     "repo": "Mak992/Future-Technologies-mod",
@@ -1411,7 +1422,7 @@
     "repo": "King-Silicon/Music-remixes-and-new",
     "name": "Music remixes and new",
     "author": "dj king silicon, Saigo no-nozomi",
-    "lastUpdated": "2021-08-21T15:49:37Z",
+    "lastUpdated": "2021-08-21T22:20:09Z",
     "stars": 4,
     "minGameVersion": "126.1",
     "hasScripts": false,
@@ -2805,6 +2816,17 @@
     "description": "This mod will close the game if you are not using steam version. (itch.io, fdroid or others)\n\nWith love, Windustry Team"
   },
   {
+    "repo": "NewJumper/Futurdustry",
+    "name": "Futurdustry",
+    "author": "NewJumper",
+    "lastUpdated": "2021-08-21T21:17:43Z",
+    "stars": 1,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Mindustry Mod"
+  },
+  {
     "repo": "Nikisos/TheBattleMod",
     "name": "Battle Comveyors",
     "author": "Nikisos",
@@ -3771,5 +3793,16 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a bunch of random stuff to mindustry"
+  },
+  {
+    "repo": "AHRumjungle/Snad",
+    "name": "Snad",
+    "author": "OCRumjungle",
+    "lastUpdated": "2021-08-22T00:13:51Z",
+    "stars": 0,
+    "minGameVersion": "126.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "snad"
   }
 ]
