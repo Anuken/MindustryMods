@@ -140,6 +140,11 @@ public class ModUpdater{
                     String metaName = Strings.stripColors(displayName).replace("\n", "");
                     if(metaName.length() > maxLength) metaName = name.substring(0, maxLength) + "...";
 
+                    //skip templates
+                    if(metaName.equals("Java Mod Template") || metaName.equals("Template") || metaName.equals("Mod Template //the displayed mod name") || metaName.equals("Example Java Mod")){
+                        continue;
+                    }
+
                     obj.add("repo", name);
                     obj.add("name", metaName);
                     obj.add("author", Strings.stripColors(modj.getString("author", gm.get("owner").get("login").toString())));
