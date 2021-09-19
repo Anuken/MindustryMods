@@ -36,7 +36,7 @@
     "repo": "Eschatologue/Heavy-Armaments-Industries",
     "name": "Heavy Armaments Industries",
     "author": "[#386dff]Eschatologue[]",
-    "lastUpdated": "2021-09-18T15:29:00Z",
+    "lastUpdated": "2021-09-19T01:03:55Z",
     "stars": 71,
     "minGameVersion": "125.1",
     "hasScripts": true,
@@ -55,6 +55,17 @@
     "description": "WARNING: Not supported on low-end devices.\n\nThe official HJSON 7.0 example mod. Both a reference point and also playable. Developed in Canada.\nMoving to 7.0 release build 130.\n\nDiscord: https://discord.gg/M3hm5z6nm6\n\nA lot of work goes into Exotic, so if you want to show some support or like the content give the mod a star on GitHub!"
   },
   {
+    "repo": "AureusStratus/ExoGenesis",
+    "name": "Exogenesis",
+    "author": "AureusStratus",
+    "lastUpdated": "2021-09-18T20:00:52Z",
+    "stars": 63,
+    "minGameVersion": "130",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that adds in a butt load of content"
+  },
+  {
     "repo": "Yuria-Shikibe/NewHorizonMod",
     "name": "New Horizon",
     "author": "Yuria",
@@ -64,17 +75,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds new content, including units, turrets, blocks, etc. Mod content are presented with pretty textures and amazing effects.\n\n You can get the Mod Guide in the GitHub-README-MOD Guide."
-  },
-  {
-    "repo": "AureusStratus/ExoGenesis",
-    "name": "Exogenesis",
-    "author": "AureusStratus",
-    "lastUpdated": "2021-09-18T20:00:52Z",
-    "stars": 61,
-    "minGameVersion": "130",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that adds in a butt load of content"
   },
   {
     "repo": "QmelZ/hackustry",
@@ -92,7 +92,7 @@
     "name": "Diamond Ore Mod",
     "author": "z0mbiesrock",
     "lastUpdated": "2021-08-05T13:27:09Z",
-    "stars": 57,
+    "stars": 58,
     "minGameVersion": "120",
     "hasScripts": true,
     "hasJava": false,
@@ -114,7 +114,7 @@
     "name": "Pixelcraft: The endless rust",
     "author": "Sh1penfire and pankiwi",
     "lastUpdated": "2021-09-13T01:59:19Z",
-    "stars": 51,
+    "stars": 52,
     "minGameVersion": "121",
     "hasScripts": true,
     "hasJava": false,
@@ -158,7 +158,7 @@
     "name": "AeroMindustry",
     "author": "AeronGreva",
     "lastUpdated": "2021-01-05T16:55:46Z",
-    "stars": 42,
+    "stars": 43,
     "minGameVersion": "121",
     "hasScripts": true,
     "hasJava": false,
@@ -454,7 +454,7 @@
     "repo": "Goobrr/Esoterum-Solutions",
     "name": "Esoterum Solutions",
     "author": "Goober & Friends :)",
-    "lastUpdated": "2021-09-18T05:10:05Z",
+    "lastUpdated": "2021-09-19T00:34:59Z",
     "stars": 15,
     "minGameVersion": "129",
     "hasScripts": false,
@@ -1246,7 +1246,7 @@
     "repo": "Eschatologue/Unlimited-Armament-Works",
     "name": "Unlimited-Armament-Works",
     "author": "Eschatologue",
-    "lastUpdated": "2021-09-18T13:00:53Z",
+    "lastUpdated": "2021-09-19T00:14:32Z",
     "stars": 5,
     "minGameVersion": "129",
     "hasScripts": false,
@@ -1760,17 +1760,6 @@
     "description": "Calculate the rates and ratios of your machinations!\n\nThis mod will allow you to easily calculate the amount of resources your factory needs and how much it's producing"
   },
   {
-    "repo": "L0615T1C5-216AC-9437/MaxRateCalculator",
-    "name": "Max Rate Calculator",
-    "author": "L0615T1C5.216AC#9437",
-    "lastUpdated": "2021-08-28T19:43:03Z",
-    "stars": 3,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Calculate the rates and ratios of your machinations!\n\nThis mod will allow you to easily calculate the amount of resources your factory needs and how much it's producing"
-  },
-  {
     "repo": "SuperJaba2000/Korium-Mod",
     "name": "KoriuMMoD",
     "author": "SuperJaba2000 & more...",
@@ -1813,6 +1802,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\nSearch 'Sirius', 'NothingToDo' in Schematics!\n\nAB: AirBlast drill \nBS: Black Sand \nWS: White sand \nNW: Need Water \nEW: External Water\n\nSirius Schem Youtube link\n\nhttps://www.youtube.com/channel/UCEeDO-VtJJGSKW9k31B8fLQ"
+  },
+  {
+    "repo": "L0615T1C5-216AC-9437/MaxRateCalculator",
+    "name": "Max Rate Calculator",
+    "author": "L0615T1C5.216AC#9437",
+    "lastUpdated": "2021-09-18T21:38:05Z",
+    "stars": 3,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Calculate the rates and ratios of your machinations!\n\nThis mod will allow you to easily calculate the amount of resources your factory needs and how much it's producing"
   },
   {
     "repo": "RebornTrack970/Sandbox-Mode",
@@ -2926,6 +2926,17 @@
     "description": "\n    Search 'Sirius' in Schematics!\n    Tag: Sirius\n\n    AB: AirBlast drill \n    BS: Black Sand \n    WS: White sand \n    EW: External Water\n    POD: Phased Over Drive\n    OD: Over Drive\n    ODD: Over Drive Dome\n    WEX: Water EXtractor\n    OEX: Oil EXtractor\n\n    Sirius Schem Youtube link\n\n    https://www.youtube.com/channel/UCEeDO-VtJJGSKW9k31B8fLQ"
   },
   {
+    "repo": "uujuju1/randomStuff",
+    "name": "Random Stuff",
+    "author": "Uujuju",
+    "lastUpdated": "2021-09-14T17:43:16Z",
+    "stars": 1,
+    "minGameVersion": "125",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a bunch of random stuff to mindustry"
+  },
+  {
     "repo": "SMOLKEYS/technical-advancements",
     "name": "Technical Advancements",
     "author": "SMOLKEYS",
@@ -3949,17 +3960,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "uujuju1/randomStuff",
-    "name": "Random Stuff",
-    "author": "Uujuju",
-    "lastUpdated": "2021-09-14T17:43:16Z",
-    "stars": 0,
-    "minGameVersion": "125",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a bunch of random stuff to mindustry"
-  },
-  {
     "repo": "StoneMcYT/FirstMindustryMod",
     "name": "Stones Mod",
     "author": "StoneMc",
@@ -4018,7 +4018,7 @@
     "repo": "MountLava/SolarMod",
     "name": "Solar Mod",
     "author": "MountLava",
-    "lastUpdated": "2021-09-18T19:38:13Z",
+    "lastUpdated": "2021-09-19T00:05:30Z",
     "stars": 0,
     "minGameVersion": "130.1",
     "hasScripts": false,
