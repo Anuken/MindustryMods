@@ -69,7 +69,7 @@
     "repo": "AureusStratus/ExoGenesis",
     "name": "Exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2021-09-21T02:37:45Z",
+    "lastUpdated": "2021-09-21T15:04:07Z",
     "stars": 63,
     "minGameVersion": "130",
     "hasScripts": false,
@@ -212,7 +212,7 @@
     "repo": "Sharlottes/UnitInfo",
     "name": "Unit Information",
     "author": "Sharlotte",
-    "lastUpdated": "2021-09-21T02:14:38Z",
+    "lastUpdated": "2021-09-21T11:54:39Z",
     "stars": 36,
     "minGameVersion": "131",
     "hasScripts": false,
@@ -473,17 +473,6 @@
     "description": "Utilities for testing stuff.\n\nTeam Changer: Change teams easilty. (Disabled in campaign)\nSeppuku Button: Kill yourself. Press and hold to mass kill. A setting to make the death instant can be found in game settings.\nClone Button: Instantly clones your player unit. Press and hold to mass clone. (Disabled in campaign)\nHeal Button: Sets your player unit's hp to its max. (Disabled in campaign)\nInvincibility Button: Sets your player unit's hp to infinity. (Disabled in campaign)\nSandbox/Survival Button: Toggles infinite resources. (Disabled in campaign)\nFill/Dump Core: Fill or empty your core of all items. Hold to swap. (Disabled in campaign)\nStatus Menu: Apply/clear status effects to yourself. (Disabled in campaign)\n\nA setting for making the menu folded by default can be found in game settings.\n\nAlso increases zooming range."
   },
   {
-    "repo": "Goobrr/Esoterum-Solutions",
-    "name": "Esoterum Solutions",
-    "author": "Goober & Friends :)",
-    "lastUpdated": "2021-09-20T05:46:47Z",
-    "stars": 14,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "No description provided."
-  },
-  {
     "repo": "DeltaNedas/unit-factory",
     "name": "Unit Factory",
     "author": "DeltaNedas",
@@ -504,6 +493,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Play with classic Mindustry music (from v3.3r27, v3.5r40, and v5)! For Mindustry v6."
+  },
+  {
+    "repo": "Goobrr/Esoterum-Solutions",
+    "name": "Esoterum Solutions",
+    "author": "Goober & Friends :)",
+    "lastUpdated": "2021-09-20T05:46:47Z",
+    "stars": 13,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "No description provided."
   },
   {
     "repo": "sk7725/Commands",
@@ -1782,28 +1782,6 @@
     "description": "amogus"
   },
   {
-    "repo": "xzxADIxzx/Scheme-Size",
-    "name": "Scheme Size",
-    "author": "xzxADIxzx",
-    "lastUpdated": "2021-09-14T14:32:44Z",
-    "stars": 3,
-    "minGameVersion": "131",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mod that could... Increases the maximum size of schemes to 512 blocks! \nDesktop Only!"
-  },
-  {
-    "repo": "FreezeMandu/Siriuschem",
-    "name": "Siriuschem",
-    "author": "Sirius&NothingToDo&Mandu",
-    "lastUpdated": "2021-09-16T15:43:19Z",
-    "stars": 3,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\nSearch 'Sirius', 'NothingToDo' in Schematics!\n\nAB: AirBlast drill \nBS: Black Sand \nWS: White sand \nNW: Need Water \nEW: External Water\n\nSirius Schem Youtube link\n\nhttps://www.youtube.com/channel/UCEeDO-VtJJGSKW9k31B8fLQ"
-  },
-  {
     "repo": "L0615T1C5-216AC-9437/MaxRateCalculator",
     "name": "Max Rate Calculator",
     "author": "L0615T1C5.216AC#9437",
@@ -1826,15 +1804,37 @@
     "description": "Adds Graphene to the game, along with several turrets, units, and materials."
   },
   {
+    "repo": "FreezeMandu/Siriuschem",
+    "name": "Siriuschem",
+    "author": "Sirius&NothingToDo&Mandu",
+    "lastUpdated": "2021-09-21T11:33:18Z",
+    "stars": 3,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nSearch 'Sirius', 'NothingToDo' in Schematics!\n\nAB: AirBlast drill \nBS: Black Sand \nWS: White sand \nNW: Need Water \nEW: External Water\n\nSirius Schem Youtube link\n\nhttps://www.youtube.com/channel/UCEeDO-VtJJGSKW9k31B8fLQ"
+  },
+  {
     "repo": "MrAntlrr/basement",
     "name": "Antlrr's Basement",
     "author": "Antlrr",
-    "lastUpdated": "2021-09-21T10:05:58Z",
+    "lastUpdated": "2021-09-21T12:46:20Z",
     "stars": 3,
     "minGameVersion": "130",
     "hasScripts": true,
     "hasJava": false,
     "description": "aaaaa"
+  },
+  {
+    "repo": "xzxADIxzx/Scheme-Size",
+    "name": "Scheme Size",
+    "author": "xzxADIxzx",
+    "lastUpdated": "2021-09-21T15:19:27Z",
+    "stars": 3,
+    "minGameVersion": "131",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mod that could... Increases the maximum size of schemes to 512 blocks! \nDesktop Only!"
   },
   {
     "repo": "RebornTrack970/Sandbox-Mode",
@@ -2904,17 +2904,6 @@
     "description": "Invisible Blocks Texture Pack.\nConvenience Mode\n\nThanks To\nss심\nsk7725"
   },
   {
-    "repo": "FreezeMandu/siriuschem-v7",
-    "name": "Siriuschem V7",
-    "author": "Sirius&Mandu",
-    "lastUpdated": "2021-09-13T01:07:05Z",
-    "stars": 1,
-    "minGameVersion": "128",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\n    Search 'Sirius' in Schematics!\n    Tag: Sirius\n\n    AB: AirBlast drill \n    BS: Black Sand \n    WS: White sand \n    EW: External Water\n    POD: Phased Over Drive\n    OD: Over Drive\n    ODD: Over Drive Dome\n    WEX: Water EXtractor\n    OEX: Oil EXtractor\n\n    Sirius Schem Youtube link\n\n    https://www.youtube.com/channel/UCEeDO-VtJJGSKW9k31B8fLQ"
-  },
-  {
     "repo": "Auseawesome/MindustryPlus",
     "name": "Mindustry+",
     "author": "Auseawesome",
@@ -2990,6 +2979,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "this mod adds stuff and things."
+  },
+  {
+    "repo": "FreezeMandu/siriuschem-v7",
+    "name": "Siriuschem V7",
+    "author": "Sirius&Mandu",
+    "lastUpdated": "2021-09-21T11:34:20Z",
+    "stars": 1,
+    "minGameVersion": "128",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\n    Search 'Sirius' in Schematics!\n    Tag: Sirius\n\n    AB: AirBlast drill \n    BS: Black Sand \n    WS: White sand \n    EW: External Water\n    POD: Phased Over Drive\n    OD: Over Drive\n    ODD: Over Drive Dome\n    WEX: Water EXtractor\n    OEX: Oil EXtractor\n\n    Sirius Schem Youtube link\n\n    https://www.youtube.com/channel/UCEeDO-VtJJGSKW9k31B8fLQ"
   },
   {
     "repo": "Nikisos/TheBattleMod",
