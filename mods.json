@@ -729,7 +729,7 @@
     "repo": "Sh1penfire/Endless-rusting",
     "name": "Endless Rusting",
     "author": "Sh1penfire",
-    "lastUpdated": "2021-09-29T07:22:33Z",
+    "lastUpdated": "2021-09-29T12:45:08Z",
     "stars": 10,
     "minGameVersion": "126.2",
     "hasScripts": false,
@@ -924,6 +924,17 @@
     "description": "Adds a speedometer.\nRequires DeltaNedas/ui-lib"
   },
   {
+    "repo": "DeltaNedas/override-lib",
+    "name": "Override Lib",
+    "author": "DeltaNedas",
+    "lastUpdated": "2020-12-20T01:10:00Z",
+    "stars": 6,
+    "minGameVersion": "121",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Library mod that allows multiple mods to override the same content."
+  },
+  {
     "repo": "Gdeft/hackdustry",
     "name": "Hackdustry",
     "author": "Gdeft",
@@ -1076,17 +1087,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "yes\nAlso try Gdeft/bleach!"
-  },
-  {
-    "repo": "DeltaNedas/override-lib",
-    "name": "Override Lib",
-    "author": "DeltaNedas",
-    "lastUpdated": "2020-12-20T01:10:00Z",
-    "stars": 5,
-    "minGameVersion": "121",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Library mod that allows multiple mods to override the same content."
   },
   {
     "repo": "lev43/TurretsMod",
@@ -1397,6 +1397,17 @@
     "description": "Adds random logic utilities. Praise the cat."
   },
   {
+    "repo": "sergeyoshpo/CatDustry",
+    "name": "CatDustry",
+    "author": "CAT",
+    "lastUpdated": "2021-06-05T13:01:22Z",
+    "stars": 4,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "добавляет шняги которые помогут в pvp"
+  },
+  {
     "repo": "jhrushbe/MOARdustry",
     "name": "MOARdustry",
     "author": "Jhrushbe",
@@ -1521,7 +1532,7 @@
     "repo": "MrAntlrr/basement",
     "name": "Antlrr's Basement",
     "author": "Antlrr",
-    "lastUpdated": "2021-09-29T09:55:23Z",
+    "lastUpdated": "2021-09-29T11:09:14Z",
     "stars": 4,
     "minGameVersion": "130",
     "hasScripts": true,
@@ -3949,6 +3960,17 @@
     "description": "N/A"
   },
   {
+    "repo": "kodematthieu/Cheat-Mode-Mod",
+    "name": "Cheat Mode",
+    "author": "KodeMatthieu",
+    "lastUpdated": "2021-09-19T13:30:41Z",
+    "stars": 0,
+    "minGameVersion": "126.2",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Contains cheats for the game.\n\nWarning:\n* The cheats inside are powerful\n* I will be not resposible for ruining the fun\n\nVerion Scheme:\n'<major>.<minor>.<no.cheats>'\n\nHow to:\n* Open a map.\n* Check the middle left of the screen\n* Click the wrench icon\n* Choose cheats\n\nCurrent Cheats:\n* Clear Units\n* Clear Blocks\n* Fill Items\n* Clear Items\n\nFor changelog, see readme of the repo."
+  },
+  {
     "repo": "MountLava/SolarMod",
     "name": "Solar Mod",
     "author": "MountLava",
@@ -4059,17 +4081,6 @@
     "description": "A Mindustry Java mod for tinkering around cinematic scripted sectors. Based off of Project Unity and will be re-implemented in Project Unity."
   },
   {
-    "repo": "youngterror3/MindustryJavaMod",
-    "name": "Mindustry Java Mod",
-    "author": "youngterror3",
-    "lastUpdated": "2021-09-28T18:06:26Z",
-    "stars": 0,
-    "minGameVersion": "123",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "My first Java mod."
-  },
-  {
     "repo": "Auseawesome/MindustryPlus-AgricultureAddon",
     "name": "Mindustry+ Agriculture Addon",
     "author": "Auseawesome",
@@ -4112,5 +4123,16 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Vanilla Extension for Mindustry"
+  },
+  {
+    "repo": "youngterror3/MindustryJavaMod",
+    "name": "Mindustry Java Mod",
+    "author": "youngterror3",
+    "lastUpdated": "2021-09-29T14:24:11Z",
+    "stars": 0,
+    "minGameVersion": "123",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "My first Java mod."
   }
 ]
