@@ -48,7 +48,7 @@
     "name": "Exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2021-10-10T23:09:30Z",
-    "stars": 71,
+    "stars": 72,
     "minGameVersion": "130",
     "hasScripts": false,
     "hasJava": false,
@@ -70,7 +70,7 @@
     "name": "New Horizon",
     "author": "Yuria",
     "lastUpdated": "2021-10-11T13:51:03Z",
-    "stars": 69,
+    "stars": 70,
     "minGameVersion": "131",
     "hasScripts": false,
     "hasJava": true,
@@ -355,7 +355,7 @@
     "repo": "Goobrr/Esoterum",
     "name": "Esoterum",
     "author": "Goober, Meep, Python",
-    "lastUpdated": "2021-10-12T09:36:19Z",
+    "lastUpdated": "2021-10-12T14:28:23Z",
     "stars": 20,
     "minGameVersion": "131",
     "hasScripts": false,
@@ -440,6 +440,17 @@
     "description": "Reverts sprites to as early as b40."
   },
   {
+    "repo": "realshizi/oxynoe",
+    "name": "Oxynoe",
+    "author": "oxynoe",
+    "lastUpdated": "2021-10-11T15:06:57Z",
+    "stars": 15,
+    "minGameVersion": "130.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "oxynoe :>"
+  },
+  {
     "repo": "pixecoz/MindustrySchematics",
     "name": "Schematics Pack",
     "author": "pixecoz",
@@ -462,21 +473,10 @@
     "description": "Utilities for testing stuff.\n\nTeam Changer: Change teams easilty. (Disabled in campaign)\nSeppuku Button: Kill yourself. Press and hold to mass kill. A setting to make the death instant can be found in game settings.\nClone Button: Instantly clones your player unit. Press and hold to mass clone. (Disabled in campaign)\nHeal Button: Sets your player unit's hp to its max. (Disabled in campaign)\nInvincibility Button: Sets your player unit's hp to infinity. (Disabled in campaign)\nSandbox/Survival Button: Toggles infinite resources. (Disabled in campaign)\nFill/Dump Core: Fill or empty your core of all items. Hold to swap. (Disabled in campaign)\nStatus Menu: Apply/clear status effects to yourself. (Disabled in campaign)\n\nA setting for making the menu folded by default can be found in game settings.\n\nAlso increases zooming range."
   },
   {
-    "repo": "realshizi/oxynoe",
-    "name": "Oxynoe",
-    "author": "oxynoe",
-    "lastUpdated": "2021-10-11T15:06:57Z",
-    "stars": 14,
-    "minGameVersion": "130.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "oxynoe :>"
-  },
-  {
     "repo": "Eschatologue/Unlimited-Armament-Works",
     "name": "Unlimited Armament Works",
     "author": "Eschatologue",
-    "lastUpdated": "2021-10-12T00:18:24Z",
+    "lastUpdated": "2021-10-12T13:42:33Z",
     "stars": 14,
     "minGameVersion": "129",
     "hasScripts": false,
@@ -1419,28 +1419,6 @@
     "description": "Adds some utilities for mod developers.\nRequires DeltaNedas/ui-lib."
   },
   {
-    "repo": "TheSaus/DubiousWhiteLiquidustry",
-    "name": "DubiousWhiteLiquidustry",
-    "author": "The-Saus#1038",
-    "lastUpdated": "2021-04-21T04:21:43Z",
-    "stars": 4,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds Dubious White Liquid. Oddly good as a coolant"
-  },
-  {
-    "repo": "Goobrr/toxodrip",
-    "name": "Toxodrip",
-    "author": "Goober",
-    "lastUpdated": "2021-05-03T02:13:24Z",
-    "stars": 4,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Big man doing big man things"
-  },
-  {
     "repo": "DeltaNedas/anuke-logic",
     "name": "Anuke Logic",
     "author": "DeltaNedas",
@@ -1450,17 +1428,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds random logic utilities. Praise the cat."
-  },
-  {
-    "repo": "sergeyoshpo/CatDustry",
-    "name": "CatDustry",
-    "author": "CAT",
-    "lastUpdated": "2021-06-05T13:01:22Z",
-    "stars": 4,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "добавляет шняги которые помогут в pvp"
   },
   {
     "repo": "jhrushbe/MOARdustry",
@@ -1527,17 +1494,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "The most ambitious mod.\nNew features: \n\nNew blocks: \n\nNew items: \n\nNew liquids: \n\nCreated with love, WindustryTeam"
-  },
-  {
-    "repo": "Zelaux/GasLibrary",
-    "name": "GasLibrary",
-    "author": "Zelaux",
-    "lastUpdated": "2021-08-19T08:30:37Z",
-    "stars": 4,
-    "minGameVersion": "129.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Java library for java mods"
   },
   {
     "repo": "King-Silicon/Music-remixes-and-new",
@@ -2365,17 +2321,6 @@
     "description": ""
   },
   {
-    "repo": "NemesisTheory/ODST-Soundtracks",
-    "name": "ODST Soundtracks",
-    "author": "NemesisTheory",
-    "lastUpdated": "2021-10-08T00:41:41Z",
-    "stars": 2,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod plays ODST soundtracks so you can enjoy the classic Halo 3: ODST vibe while playing, it also makes a nice effect and atmosphere in the campaign."
-  },
-  {
     "repo": "Timshh/MBT",
     "name": "MBT",
     "author": "Timshh",
@@ -2385,6 +2330,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Mod based on units"
+  },
+  {
+    "repo": "NemesisTheory/ODST-Soundtracks",
+    "name": "ODST Soundtracks",
+    "author": "NemesisTheory",
+    "lastUpdated": "2021-10-12T12:31:51Z",
+    "stars": 2,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod plays ODST soundtracks so you can enjoy the classic Halo 3: ODST vibe while playing, it also makes a nice effect and atmosphere in the campaign."
   },
   {
     "repo": "SirMachinegun/EBM",
