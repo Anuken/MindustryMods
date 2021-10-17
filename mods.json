@@ -3,7 +3,7 @@
     "repo": "sk7725/BetaMindy",
     "name": "BetaMindy",
     "author": "sk7725",
-    "lastUpdated": "2021-10-15T17:39:25Z",
+    "lastUpdated": "2021-10-16T23:27:15Z",
     "stars": 149,
     "minGameVersion": "131",
     "hasScripts": false,
@@ -36,7 +36,7 @@
     "repo": "AureusStratus/ExoGenesis",
     "name": "Exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2021-10-15T18:58:54Z",
+    "lastUpdated": "2021-10-16T21:28:08Z",
     "stars": 73,
     "minGameVersion": "130",
     "hasScripts": false,
@@ -355,9 +355,9 @@
     "repo": "Goobrr/Esoterum",
     "name": "Esoterum",
     "author": "Goober, Meep, Python, Eldoofus",
-    "lastUpdated": "2021-10-16T14:33:55Z",
+    "lastUpdated": "2021-10-17T01:00:26Z",
     "stars": 23,
-    "minGameVersion": "131",
+    "minGameVersion": "132",
     "hasScripts": false,
     "hasJava": true,
     "description": "adds a redstone-like wire-based logic system, tailored for making circuits."
@@ -473,10 +473,21 @@
     "description": "Utilities for testing stuff.\n\nTeam Changer: Change teams easilty. (Disabled in campaign)\nSeppuku Button: Kill yourself. Press and hold to mass kill. A setting to make the death instant can be found in game settings.\nClone Button: Instantly clones your player unit. Press and hold to mass clone. (Disabled in campaign)\nHeal Button: Sets your player unit's hp to its max. (Disabled in campaign)\nInvincibility Button: Sets your player unit's hp to infinity. (Disabled in campaign)\nSandbox/Survival Button: Toggles infinite resources. (Disabled in campaign)\nFill/Dump Core: Fill or empty your core of all items. Hold to swap. (Disabled in campaign)\nStatus Menu: Apply/clear status effects to yourself. (Disabled in campaign)\n\nA setting for making the menu folded by default can be found in game settings.\n\nAlso increases zooming range."
   },
   {
+    "repo": "MEEPofFaith/prog-mats-java",
+    "name": "Progressed Materials (Java)",
+    "author": "Creator:\n        MEEP of Faith\n\nContributors:\n        ThirstyBoi (Eruptor sprite)\n        Goober (Kugelblitz and Popeshadow sprites)\n        VozDuh (Missile turret sprites, new icon)\n        Ilya246 (Luminocity damage ramping)\n        Kapzduke (Tinker sprite)\n        TheMalaysianDude (Missile assembler resprite)\n        GlennFolker (The alphableeder)\n        lordReddx (RU Translation)\n        Some sounds from Freesound.\n        Anyone I stole code from.",
+    "lastUpdated": "2021-10-16T08:39:23Z",
+    "stars": 14,
+    "minGameVersion": "131",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Progressed Materials, but in Java. My main mod, which mostly just adds turrets. I'm just experimenting to see what I can do with the power I hold.\n\nThe name definitely isn't made of the synonyms of \"Advance\" and \"Content\"."
+  },
+  {
     "repo": "Eschatologue/Unlimited-Armament-Works",
     "name": "Unlimited Armament Works",
     "author": "Eschatologue",
-    "lastUpdated": "2021-10-16T16:07:44Z",
+    "lastUpdated": "2021-10-17T01:04:05Z",
     "stars": 14,
     "minGameVersion": "129",
     "hasScripts": false,
@@ -526,17 +537,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds T4 and T5 Cores."
-  },
-  {
-    "repo": "MEEPofFaith/prog-mats-java",
-    "name": "Progressed Materials (Java)",
-    "author": "Creator:\n        MEEP of Faith\n\nContributors:\n        ThirstyBoi (Eruptor sprite)\n        Goober (Kugelblitz and Popeshadow sprites)\n        VozDuh (Missile turret sprites, new icon)\n        Ilya246 (Luminocity damage ramping)\n        Kapzduke (Tinker sprite)\n        TheMalaysianDude (Missile assembler resprite)\n        GlennFolker (The alphableeder)\n        lordReddx (RU Translation)\n        Some sounds from Freesound.\n        Anyone I stole code from.",
-    "lastUpdated": "2021-10-16T08:39:23Z",
-    "stars": 13,
-    "minGameVersion": "131",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Progressed Materials, but in Java. My main mod, which mostly just adds turrets. I'm just experimenting to see what I can do with the power I hold.\n\nThe name definitely isn't made of the synonyms of \"Advance\" and \"Content\"."
   },
   {
     "repo": "sk7725/Commands",
@@ -1584,17 +1584,6 @@
     "description": "This mod plays ODST soundtracks so you can enjoy the classic Halo 3: ODST vibe while playing, it also makes a nice effect and atmosphere in the campaign."
   },
   {
-    "repo": "MindustryInside/L1337n",
-    "name": "L1337n",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2021-10-15T12:19:22Z",
-    "stars": 4,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Leet speak localisator."
-  },
-  {
     "repo": "THCworkshopCN/THC-Industry",
     "name": "THC-Industry",
     "author": "THC Workshop CN. uujuju",
@@ -1604,6 +1593,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "V7 version of THC Industry. Created of pure boredom."
+  },
+  {
+    "repo": "MindustryInside/L1337n",
+    "name": "L1337n",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2021-10-17T00:41:50Z",
+    "stars": 4,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Leet speak localisator."
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -4180,17 +4180,6 @@
     "description": "wip content mod"
   },
   {
-    "repo": "L0615T1C5-216AC-9437/WorldEdit",
-    "name": "World Edit",
-    "author": "L0615T1C5.216AC#9437",
-    "lastUpdated": "2021-10-07T22:13:55Z",
-    "stars": 0,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "N/A"
-  },
-  {
     "repo": "Kingfrankbob/Extranilla-Mod",
     "name": "Extranilla Mod",
     "author": "MC_B)",
@@ -4266,5 +4255,16 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Orange monstrosity of dread and bread."
+  },
+  {
+    "repo": "L0615T1C5-216AC-9437/WorldEdit",
+    "name": "World Edit",
+    "author": "L0615T1C5.216AC#9437",
+    "lastUpdated": "2021-10-16T21:44:10Z",
+    "stars": 0,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "N/A"
   }
 ]
