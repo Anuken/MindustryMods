@@ -190,9 +190,9 @@
     "repo": "Sharlottes/UnitInfo",
     "name": "Unit Information",
     "author": "Sharlotte",
-    "lastUpdated": "2021-10-17T03:35:52Z",
+    "lastUpdated": "2021-10-18T07:15:38Z",
     "stars": 37,
-    "minGameVersion": "131",
+    "minGameVersion": "133",
     "hasScripts": false,
     "hasJava": true,
     "description": "The mod displays more information in-game, such as unit/building, wave, core, tile, item/unit total info etc"
@@ -429,17 +429,6 @@
     "description": "Adds various testers for easier mod development.\nThanks to: Gdeft"
   },
   {
-    "repo": "ballgamer56/VanillaExtended",
-    "name": "VanillaExtended",
-    "author": "Tom Petrou",
-    "lastUpdated": "2021-04-15T20:49:50Z",
-    "stars": 15,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Mod that added things that should be in the original game and some are just added for convenience sake\n\nFrench translation by Noxenemerus Lunacor"
-  },
-  {
     "repo": "MindustryInside/MindustryClassicified",
     "name": "Mindustry Classicified",
     "author": "BasedUser, Félix Córvus",
@@ -465,12 +454,23 @@
     "repo": "MEEPofFaith/prog-mats-java",
     "name": "Progressed Materials (Java)",
     "author": "Creator:\n        MEEP of Faith\n\nContributors:\n        ThirstyBoi (Eruptor sprite)\n        Goober (Kugelblitz and Popeshadow sprites)\n        VozDuh (Missile turret sprites, new icon)\n        Ilya246 (Luminocity damage ramping)\n        Kapzduke (Tinker sprite)\n        TheMalaysianDude (Missile assembler resprite)\n        GlennFolker (The alphableeder)\n        lordReddx (RU Translation)\n        Some sounds from Freesound.\n        Anyone I stole code from.",
-    "lastUpdated": "2021-10-18T05:06:11Z",
+    "lastUpdated": "2021-10-18T06:56:31Z",
     "stars": 15,
     "minGameVersion": "133",
     "hasScripts": false,
     "hasJava": true,
     "description": "Progressed Materials, but in Java. My main mod, which mostly just adds turrets. I'm just experimenting to see what I can do with the power I hold.\n\nThe name definitely isn't made of the synonyms of \"Advance\" and \"Content\"."
+  },
+  {
+    "repo": "ballgamer56/VanillaExtended",
+    "name": "VanillaExtended",
+    "author": "Tom Petrou",
+    "lastUpdated": "2021-10-18T09:05:33Z",
+    "stars": 15,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Mod that added things that should be in the original game and some are just added for convenience sake\n\nFrench translation by Noxenemerus Lunacor\n\n1.81 update contributed by iwantmods82"
   },
   {
     "repo": "pixecoz/MindustrySchematics",
@@ -564,7 +564,7 @@
     "repo": "3Snake3/ADC",
     "name": "ADC",
     "author": "Snake & SuperJaba2000",
-    "lastUpdated": "2021-10-18T04:24:37Z",
+    "lastUpdated": "2021-10-18T05:41:06Z",
     "stars": 13,
     "minGameVersion": "131",
     "hasScripts": true,
@@ -3817,17 +3817,6 @@
     "description": "Mindustry player pos mining\n\nMod for Mindustry that adds button for player pos mining\n\nRequires ui-lib"
   },
   {
-    "repo": "chinhonnang/mindustry-mod-scrapdusrty",
-    "name": "scrapdustry",
-    "author": "initiate",
-    "lastUpdated": "2021-08-02T15:17:40Z",
-    "stars": 0,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "scrap versions of some stuffs in the game. the higher the tier, the more OP they are. Besides, this mod is far from being complete \r\n\n alpha build 2:\n fixed some typos and made all solar panels in this mod build instantly.\r\n\n added carbonised scrap walls"
-  },
-  {
     "repo": "NewestGitHubber/dumpster-fire",
     "name": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
     "author": "RandomRA2",
@@ -4180,17 +4169,6 @@
     "description": "wip content mod"
   },
   {
-    "repo": "NemesisTheory/SMGuardianRevert",
-    "name": "SM Guardian Revert",
-    "author": "NemesisTheory",
-    "lastUpdated": "2021-10-09T07:34:01Z",
-    "stars": 0,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Reverts the Stained Mountain Guardian back to Scepter."
-  },
-  {
     "repo": "THEGAMER-10n/NewEra",
     "name": "Project New Era",
     "author": "JustARandomGamer",
@@ -4266,5 +4244,16 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Mod by me B)))."
+  },
+  {
+    "repo": "chinhonnang/mindustry-mod-scrapdusrty",
+    "name": "scrapdustry",
+    "author": "initiate",
+    "lastUpdated": "2021-10-18T05:29:03Z",
+    "stars": 0,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "scrap versions of some stuffs in the game. the higher the tier, the more OP they are. Besides, this mod is far from being complete \r\n\n alpha build 2:\n fixed some typos and made all solar panels in this mod build instantly.\r\n\n added carbonised scrap walls"
   }
 ]
