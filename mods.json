@@ -36,7 +36,7 @@
     "repo": "AureusStratus/ExoGenesis",
     "name": "Exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2021-10-18T19:59:18Z",
+    "lastUpdated": "2021-10-18T20:26:54Z",
     "stars": 77,
     "minGameVersion": "130",
     "hasScripts": false,
@@ -99,26 +99,26 @@
     "description": "Hackustry v4"
   },
   {
-    "repo": "Slotterleet/GoldMod",
-    "name": "Gold Mod",
-    "author": "The Slaylord",
-    "lastUpdated": "2021-08-31T16:28:01Z",
-    "stars": 56,
-    "minGameVersion": "126",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This mod adds ''new'' items, blocks, turrets, units and zones to the game.\n\n> Discord: https://discord.gg/kCvJKyb\n> GitHub: https://github.com/TheSlaylord/GoldMod"
-  },
-  {
     "repo": "Sh1penfire/pixelcraft",
     "name": "Pixelcraft: The endless rust",
     "author": "Sh1penfire and pankiwi",
     "lastUpdated": "2021-10-02T15:46:35Z",
-    "stars": 56,
+    "stars": 58,
     "minGameVersion": "121",
     "hasScripts": true,
     "hasJava": false,
     "description": "Welcome to pixelcraft, a mod which gives an alternative to vanilla, and adds lore surounding such world. Copper and Lead are almost overused in mod content, so lets change that. \nPixelcraft adds two new main materiels, 15 new maps(around), a new planet to explore, 99 new buildable blocks, 7 new environmental blocks and multiple unit factions. \n Hope you have a good time using the mod, and I'll hopefully finish a few of the missing sprites.\ndiscord: https://discord.gg/xwq8hU5Ww8"
+  },
+  {
+    "repo": "Slotterleet/GoldMod",
+    "name": "Gold Mod",
+    "author": "The Slaylord",
+    "lastUpdated": "2021-08-31T16:28:01Z",
+    "stars": 57,
+    "minGameVersion": "126",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This mod adds ''new'' items, blocks, turrets, units and zones to the game.\n\n> Discord: https://discord.gg/kCvJKyb\n> GitHub: https://github.com/TheSlaylord/GoldMod"
   },
   {
     "repo": "DeltaNedas/routorio",
@@ -253,6 +253,17 @@
     "description": "Lets you type into the console.\nPress F8 to open on PC.\nRequires DeltaNedas/ui-lib on mobile."
   },
   {
+    "repo": "MEEPofFaith/missing-category-units",
+    "name": "Missing Category Units",
+    "author": "Scripting: MEEP of Faith\nSpriting: A5TR0spud\nIndonesian Translation: WilloIzCitron",
+    "lastUpdated": "2021-09-24T17:10:38Z",
+    "stars": 29,
+    "minGameVersion": "131",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "  Adds units for missing categories of units,\n  Blue Air, Purple Naval.\n  The fourth slot in the unit factories have blue units.\n  \n  Note: Android 7 and below will not be able to run this mod.\""
+  },
+  {
     "repo": "younggam/multi-lib",
     "name": "Multi Lib",
     "author": "younggam",
@@ -262,17 +273,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "multi\nlibrary mod for multi crafter.\nSupport over Mindustry 6.0 version.\nInstruction is in multi-lib-example"
-  },
-  {
-    "repo": "MEEPofFaith/missing-category-units",
-    "name": "Missing Category Units",
-    "author": "Scripting: MEEP of Faith\nSpriting: A5TR0spud\nIndonesian Translation: WilloIzCitron",
-    "lastUpdated": "2021-09-24T17:10:38Z",
-    "stars": 28,
-    "minGameVersion": "131",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "  Adds units for missing categories of units,\n  Blue Air, Purple Naval.\n  The fourth slot in the unit factories have blue units.\n  \n  Note: Android 7 and below will not be able to run this mod.\""
   },
   {
     "repo": "abomb4/super-cheat",
@@ -344,7 +344,7 @@
     "repo": "Goobrr/Esoterum",
     "name": "Esoterum",
     "author": "Goober, Meep, Python, Eldoofus",
-    "lastUpdated": "2021-10-18T18:39:15Z",
+    "lastUpdated": "2021-10-19T01:10:22Z",
     "stars": 24,
     "minGameVersion": "132",
     "hasScripts": false,
@@ -495,6 +495,17 @@
     "description": "Utilities for testing stuff.\n\nTeam Changer: Change teams easilty. (Disabled in campaign)\nSeppuku Button: Kill yourself. Press and hold to mass kill. A setting to make the death instant can be found in game settings.\nClone Button: Instantly clones your player unit. Press and hold to mass clone. (Disabled in campaign)\nHeal Button: Sets your player unit's hp to its max. (Disabled in campaign)\nInvincibility Button: Sets your player unit's hp to infinity. (Disabled in campaign)\nSandbox/Survival Button: Toggles infinite resources. (Disabled in campaign)\nFill/Dump Core: Fill or empty your core of all items. Hold to swap. (Disabled in campaign)\nStatus Menu: Apply/clear status effects to yourself. (Disabled in campaign)\n\nA setting for making the menu folded by default can be found in game settings.\n\nAlso increases zooming range."
   },
   {
+    "repo": "Xeloboyo/PvP-Notifs",
+    "name": "PvP notifs",
+    "author": "Xelo",
+    "lastUpdated": "2021-10-18T16:02:03Z",
+    "stars": 14,
+    "minGameVersion": "117",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Alerts you to enemy tech progression and unit production"
+  },
+  {
     "repo": "DeltaNedas/unit-factory",
     "name": "Unit Factory",
     "author": "DeltaNedas",
@@ -539,17 +550,6 @@
     "description": "The place, a desolate wasteland it will become. The crash transformed everything. Wasteland may not be the best word for it, as there is still life, yet so far away from what we normaly expect. \n \n \nWelcome to the Endless Rusting, and thanks to \n Bluphenyx#0001 for the Archangel's conscept and sprite, \n[SK]Roomba#8215 for tesla sprite and helping me playtest, \nAureus#6109 for lending me a hand with some of the status effect icons, \nQmelZ the Void#0526 for helping me with code, \ncl0cks#0039 for helping me come up with ideas \n \nFor making this posible. It may be a small mod, but it'll improve and grow as the months pass. I hope that you have a good time playing, and I'll cya in the past. \n\n(Note: Download from github repository, reinstall/download will not work)"
   },
   {
-    "repo": "FlinTyX/DiverseTech",
-    "name": "DiverseTech",
-    "author": "Flin",
-    "lastUpdated": "2021-10-18T01:08:05Z",
-    "stars": 13,
-    "minGameVersion": "130",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Innovate & Research new Technologies that will blow up your mind!\n\nThanks to:\nRayanZ22 (translating),\nTheMalaysianDude (Azimuth sprite)"
-  },
-  {
     "repo": "3Snake3/ADC",
     "name": "ADC",
     "author": "Snake & SuperJaba2000",
@@ -561,15 +561,15 @@
     "description": "Adds a lot of additional content like turrets, factories and other."
   },
   {
-    "repo": "Xeloboyo/PvP-Notifs",
-    "name": "PvP notifs",
-    "author": "Xelo",
-    "lastUpdated": "2021-10-18T16:02:03Z",
+    "repo": "FlinTyX/DiverseTech",
+    "name": "DiverseTech",
+    "author": "Flin",
+    "lastUpdated": "2021-10-18T21:59:54Z",
     "stars": 13,
-    "minGameVersion": "117",
+    "minGameVersion": "130",
     "hasScripts": true,
     "hasJava": false,
-    "description": "Alerts you to enemy tech progression and unit production"
+    "description": "Innovate & Research new Technologies that will blow up your mind!\n\nThanks to:\nRayanZ22 (translating),\nTheMalaysianDude (Azimuth sprite)"
   },
   {
     "repo": "sk7725/Commands",
@@ -825,6 +825,17 @@
     "description": "Allow the Alpha, Beta, and Gamma units to damage buildings by removing the 1% damage nerf. Will also make units from modded cores not have building damage penalty as well."
   },
   {
+    "repo": "ThatOneBepis/Infinitodustry",
+    "name": "Infinitodustry",
+    "author": "Bepis",
+    "lastUpdated": "2021-05-29T15:24:21Z",
+    "stars": 8,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Attempt at prosperity."
+  },
+  {
     "repo": "Solokil/V6AdventureU",
     "name": "Solokil Underground Adventure",
     "author": "Solokil",
@@ -878,17 +889,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod aims to add more diferent weapons in the game, like air only turrets(scatter),  and shrapnel turrets(fuse)"
-  },
-  {
-    "repo": "ThatOneBepis/Infinitodustry",
-    "name": "Infinitodustry",
-    "author": "Bepis",
-    "lastUpdated": "2021-05-29T15:24:21Z",
-    "stars": 7,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Attempt at prosperity."
   },
   {
     "repo": "spmlk/DreamscapeMod",
@@ -1353,17 +1353,6 @@
     "description": "V7 version of THC Industry. Created of pure boredom."
   },
   {
-    "repo": "Janssendel/Opposing-Front",
-    "name": "Opposing Front",
-    "author": "Janssendel",
-    "lastUpdated": "2021-10-16T12:05:12Z",
-    "stars": 5,
-    "minGameVersion": "129.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A Mindustry mod that adds a bunch of stuff, that's it."
-  },
-  {
     "repo": "MHeMoTexHuK/CKAT",
     "name": "скат",
     "author": "Мнемотехник",
@@ -1373,6 +1362,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a unique скат unit branch.\n\nNow with extra js stuff!"
+  },
+  {
+    "repo": "Janssendel/Opposing-Front",
+    "name": "Opposing Front",
+    "author": "Janssendel",
+    "lastUpdated": "2021-10-19T00:41:59Z",
+    "stars": 5,
+    "minGameVersion": "129.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A Mindustry mod that adds a bunch of stuff, that's it."
   },
   {
     "repo": "DeltaNedas/mobile-ui",
@@ -1848,17 +1848,6 @@
     "description": "Calculate the rates and ratios of your machinations!\n\nThis mod will allow you to easily calculate the amount of resources your factory needs and how much it's producing"
   },
   {
-    "repo": "SuperJaba2000/Korium-Mod",
-    "name": "KoriuMMoD",
-    "author": "SuperJaba2000 & more...",
-    "lastUpdated": "2021-09-06T19:28:18Z",
-    "stars": 3,
-    "minGameVersion": "128.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "amogus"
-  },
-  {
     "repo": "L0615T1C5-216AC-9437/MaxRateCalculator",
     "name": "Max Rate Calculator",
     "author": "L0615T1C5.216AC#9437",
@@ -2044,17 +2033,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "No description provided."
-  },
-  {
-    "repo": "purofle/Industrial-Craft-Mindustry",
-    "name": "工业时代",
-    "author": "purofle",
-    "lastUpdated": "2021-02-19T12:10:33Z",
-    "stars": 2,
-    "minGameVersion": "108",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "一个跟mc中的工业时代(Industrial Craft)完全扯不上关系的mod"
   },
   {
     "repo": "souvikpodder/Mindustry-souvy-mod",
@@ -3133,6 +3111,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "whee"
+  },
+  {
+    "repo": "Kingfrankbob/Extranilla-Mod",
+    "name": "Extranilla Mod",
+    "author": "MC_B)",
+    "lastUpdated": "2021-10-19T00:11:47Z",
+    "stars": 1,
+    "minGameVersion": "126.0",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Mod by me B)))."
   },
   {
     "repo": "Nikisos/TheBattleMod",
@@ -4255,16 +4244,5 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "scrap versions of some stuffs in the game. the higher the tier, the more OP they are. Besides, this mod is far from being complete \r\n\n alpha build 2:\n fixed some typos and made all solar panels in this mod build instantly.\r\n\n added carbonised scrap walls"
-  },
-  {
-    "repo": "Kingfrankbob/Extranilla-Mod",
-    "name": "Extranilla Mod",
-    "author": "MC_B)",
-    "lastUpdated": "2021-10-18T20:12:21Z",
-    "stars": 0,
-    "minGameVersion": "126.0",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Mod by me B)))."
   }
 ]
