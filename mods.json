@@ -4,7 +4,7 @@
     "name": "BetaMindy",
     "author": "sk7725",
     "lastUpdated": "2021-10-19T03:32:59Z",
-    "stars": 152,
+    "stars": 153,
     "minGameVersion": "132",
     "hasScripts": false,
     "hasJava": true,
@@ -36,7 +36,7 @@
     "repo": "AureusStratus/ExoGenesis",
     "name": "Exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2021-10-18T20:26:54Z",
+    "lastUpdated": "2021-10-20T21:24:52Z",
     "stars": 78,
     "minGameVersion": "130",
     "hasScripts": false,
@@ -102,7 +102,7 @@
     "repo": "Sh1penfire/pixelcraft",
     "name": "Pixelcraft: The endless rust",
     "author": "Sh1penfire and pankiwi",
-    "lastUpdated": "2021-10-02T15:46:35Z",
+    "lastUpdated": "2021-10-20T23:31:58Z",
     "stars": 58,
     "minGameVersion": "121",
     "hasScripts": true,
@@ -396,6 +396,17 @@
     "description": "Adds inverted versions of crafters."
   },
   {
+    "repo": "realshizi/oxynoe",
+    "name": "Oxynoe",
+    "author": "oxynoe",
+    "lastUpdated": "2021-10-15T00:38:34Z",
+    "stars": 19,
+    "minGameVersion": "130.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "oxynoe :>"
+  },
+  {
     "repo": "abomb4/dimension-shard",
     "name": "Dimension Shard",
     "author": "滞人",
@@ -405,17 +416,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "(This mod is UNFINISHED)\n\nThere must be a war in a higher dimension. We found some kind of shards in a wreckage.\nThese shard look illusory and contain power beyond the dimension we are in.\nThe reasonable use of it seems to be able to manipulate time and space...\nWe named it \"Dimension Shard.\"\n\n(English translated by Google Translate)\n\nGithub: https://github.com/abomb4/dimension-shard\nQQ: 779147200\nemail: abomb4@163.com"
-  },
-  {
-    "repo": "realshizi/oxynoe",
-    "name": "Oxynoe",
-    "author": "oxynoe",
-    "lastUpdated": "2021-10-15T00:38:34Z",
-    "stars": 18,
-    "minGameVersion": "130.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "oxynoe :>"
   },
   {
     "repo": "sk7725/Testers",
@@ -550,10 +550,21 @@
     "description": "Adds a lot of additional content like turrets, factories and other."
   },
   {
+    "repo": "WMF-Industries/NeonNights",
+    "name": "NeonNights",
+    "author": "!ereHyddeS#9188",
+    "lastUpdated": "2021-10-20T12:38:34Z",
+    "stars": 13,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Makes Mindustry Dark Themed!\n\nCredits:\n• ME, !ereHyddeS, for making this out of boredom\n• Antlrr, for contributing lots\n• Woop, for contributing few\n• Blop, for ideas and for meme dump\n• WMF, for being a cat and for helping me in github\n• Gus, will come for you if you dare steal the mod or anything similar\n\nChangelogs:\n• Fixed Issue: Some blocks in schematics are not neon\n• New Color Pallete for Support and Specialist effects (Does not affect everything)"
+  },
+  {
     "repo": "FlinTyX/DiverseTech",
     "name": "DiverseTech",
     "author": "Flin",
-    "lastUpdated": "2021-10-18T21:59:54Z",
+    "lastUpdated": "2021-10-20T22:30:22Z",
     "stars": 13,
     "minGameVersion": "130",
     "hasScripts": true,
@@ -592,17 +603,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "a mod that adds more content wich is a great example for noobies to modding :D"
-  },
-  {
-    "repo": "WMF-Industries/NeonNights",
-    "name": "NeonNights",
-    "author": "!ereHyddeS#9188",
-    "lastUpdated": "2021-10-20T12:38:34Z",
-    "stars": 12,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Makes Mindustry Dark Themed!\n\nCredits:\n• ME, !ereHyddeS, for making this out of boredom\n• Antlrr, for contributing lots\n• Woop, for contributing few\n• Blop, for ideas and for meme dump\n• WMF, for being a cat and for helping me in github\n• Gus, will come for you if you dare steal the mod or anything similar\n\nChangelogs:\n• Fixed Issue: Some blocks in schematics are not neon\n• New Color Pallete for Support and Specialist effects (Does not affect everything)"
   },
   {
     "repo": "sk7725/EXP-lib",
@@ -4279,17 +4279,6 @@
     "description": "currently very WIP"
   },
   {
-    "repo": "L0615T1C5-216AC-9437/WorldEdit",
-    "name": "World Edit",
-    "author": "L0615T1C5.216AC#9437",
-    "lastUpdated": "2021-10-20T12:44:59Z",
-    "stars": 0,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "N/A"
-  },
-  {
     "repo": "MEEPofFaith/testing-utilities-java",
     "name": "Testing Utilities",
     "author": "MEEP of Faith",
@@ -4301,14 +4290,36 @@
     "description": "Utilities for testing stuff.\n\nTeam Changer: Change teams easilty. (Disabled in campaign)\nSeppuku Button: Kill yourself. Press and hold to mass kill. A setting to make the death instant can be found in game settings.\nClone Button: Instantly clones your player unit. Press and hold to mass clone. (Disabled in campaign)\nHeal Button: Sets your player unit's hp to its max. (Disabled in campaign)\nInvincibility Button: Sets your player unit's hp to infinity. (Disabled in campaign)\nSandbox/Survival Button: Toggles infinite resources. (Disabled in campaign)\nFill/Dump Core: Fill or empty your core of all items. Hold to swap. (Disabled in campaign)\nStatus Menu: Apply/clear status effects to yourself. (Disabled in campaign)\n\nA setting for making the menu folded by default can be found in game settings.\n\nAlso increases zooming range."
   },
   {
+    "repo": "mindustry-antigrief/large-schematics",
+    "name": "Larger Schematics",
+    "author": "foo, buthed010203",
+    "lastUpdated": "2021-10-20T22:39:29Z",
+    "stars": 0,
+    "minGameVersion": "133",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Allows making schematics larger than 32x32"
+  },
+  {
     "repo": "iMainDay/Moondustry",
     "name": "Moondustry",
     "author": "MainDay",
-    "lastUpdated": "2021-10-20T19:54:05Z",
+    "lastUpdated": "2021-10-20T23:06:41Z",
     "stars": 0,
     "minGameVersion": "121",
     "hasScripts": false,
     "hasJava": true,
     "description": "An interesting mod that adds a lot of new materials and diversifies the standard game\n\nTranslations :\nРусский\nEnglish"
+  },
+  {
+    "repo": "L0615T1C5-216AC-9437/WorldEdit",
+    "name": "World Edit",
+    "author": "L0615T1C5.216AC#9437",
+    "lastUpdated": "2021-10-20T23:26:12Z",
+    "stars": 0,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "N/A"
   }
 ]
