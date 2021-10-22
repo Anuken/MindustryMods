@@ -37,7 +37,7 @@
     "name": "Exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2021-10-22T03:05:43Z",
-    "stars": 78,
+    "stars": 79,
     "minGameVersion": "130",
     "hasScripts": false,
     "hasJava": false,
@@ -440,17 +440,6 @@
     "description": "Reverts sprites to as early as b40."
   },
   {
-    "repo": "MEEPofFaith/prog-mats-java",
-    "name": "Progressed Materials (Java)",
-    "author": "Creator:\n        MEEP of Faith\n\nContributors:\n        ThirstyBoi (Eruptor sprite)\n        Goober (Kugelblitz and Popeshadow sprites)\n        VozDuh (Missile turret sprites, new icon)\n        Ilya246 (Luminocity damage ramping)\n        Kapzduke (Tinker sprite)\n        TheMalaysianDude (Missile assembler resprite)\n        GlennFolker (The alphableeder)\n        lordReddx (RU Translation)\n        Some sounds from Freesound.\n        Anyone I stole code from.",
-    "lastUpdated": "2021-10-20T17:32:08Z",
-    "stars": 15,
-    "minGameVersion": "133",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Progressed Materials, but in Java. My main mod, which mostly just adds turrets. I'm just experimenting to see what I can do with the power I hold.\n\nThe name definitely isn't made of the synonyms of \"Advance\" and \"Content\"."
-  },
-  {
     "repo": "Eschatologue/Unlimited-Armament-Works",
     "name": "Unlimited Armament Works",
     "author": "Eschatologue",
@@ -471,6 +460,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Mod that added things that should be in the original game and some are just added for convenience sake\n\nFrench translation by Noxenemerus Lunacor"
+  },
+  {
+    "repo": "MEEPofFaith/prog-mats-java",
+    "name": "Progressed Materials (Java)",
+    "author": "Creator:\n        MEEP of Faith\n\nContributors:\n        ThirstyBoi (Eruptor sprite)\n        Goober (Kugelblitz and Popeshadow sprites)\n        VozDuh (Missile turret sprites, new icon)\n        Ilya246 (Luminocity damage ramping)\n        Kapzduke (Tinker sprite)\n        TheMalaysianDude (Missile assembler resprite)\n        Flin (Drone resprite)\n        GlennFolker (The alphableeder)\n        lordReddx (RU Translation)\n        Some sounds from Freesound.\n        Anyone I stole code from.",
+    "lastUpdated": "2021-10-22T05:45:25Z",
+    "stars": 15,
+    "minGameVersion": "133",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Progressed Materials, but in Java. My main mod, which mostly just adds turrets. I'm just experimenting to see what I can do with the power I hold.\n\nThe name definitely isn't made of the synonyms of \"Advance\" and \"Content\"."
   },
   {
     "repo": "pixecoz/MindustrySchematics",
@@ -1232,17 +1232,6 @@
     "description": "A kotlin mod."
   },
   {
-    "repo": "Zelaux/AdvancedContentInfo",
-    "name": "AdvancedContentInfo java library",
-    "author": "Zelaux",
-    "lastUpdated": "2021-08-23T16:23:49Z",
-    "stars": 5,
-    "minGameVersion": "129.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Java library for java mods"
-  },
-  {
     "repo": "Slotterleet/hard-mode-mod",
     "name": "hard-mode-mod",
     "author": "The Slaylord",
@@ -1331,17 +1320,6 @@
     "description": "Adds a unique скат unit branch.\n\nNow with extra js stuff!"
   },
   {
-    "repo": "Janssendel/Opposing-Front",
-    "name": "Opposing Front",
-    "author": "Janssendel",
-    "lastUpdated": "2021-10-19T01:39:14Z",
-    "stars": 5,
-    "minGameVersion": "129.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A Mindustry mod that adds a bunch of stuff, that's it."
-  },
-  {
     "repo": "THCworkshopCN/THC-Industry",
     "name": "THC-Industry",
     "author": "THC Workshop CN. uujuju",
@@ -1362,6 +1340,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "스프라이터: ss심                                              모딩 도움: Sharlotte                                     기여자: sirius"
+  },
+  {
+    "repo": "Janssendel/Opposing-Front",
+    "name": "Opposing Front",
+    "author": "Janssendel",
+    "lastUpdated": "2021-10-22T07:51:03Z",
+    "stars": 5,
+    "minGameVersion": "129.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A Mindustry mod that adds a bunch of stuff, that's it."
   },
   {
     "repo": "DeltaNedas/mobile-ui",
@@ -1450,6 +1439,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds some utilities for mod developers.\nRequires DeltaNedas/ui-lib."
+  },
+  {
+    "repo": "sergeyoshpo/CatDustry",
+    "name": "CatDustry",
+    "author": "CAT",
+    "lastUpdated": "2021-06-05T13:01:22Z",
+    "stars": 4,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "добавляет шняги которые помогут в pvp"
   },
   {
     "repo": "jhrushbe/MOARdustry",
@@ -1573,17 +1573,6 @@
     "description": "New blocks, units and a lot of other! Adds pretty decent staff(Not only futuristic!)"
   },
   {
-    "repo": "NemesisTheory/ODST-Soundtracks",
-    "name": "ODST Soundtracks",
-    "author": "NemesisTheory",
-    "lastUpdated": "2021-10-14T12:21:12Z",
-    "stars": 4,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod plays ODST soundtracks so you can enjoy the classic Halo 3: ODST vibe while playing, it also makes a nice effect and atmosphere in the campaign."
-  },
-  {
     "repo": "MindustryInside/L1337n",
     "name": "L1337n",
     "author": "Mindustry Inside",
@@ -1604,6 +1593,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds random logic utilities. Praise the cat."
+  },
+  {
+    "repo": "NemesisTheory/ODST-Soundtracks",
+    "name": "ODST Soundtracks",
+    "author": "NemesisTheory",
+    "lastUpdated": "2021-10-22T08:23:40Z",
+    "stars": 4,
+    "minGameVersion": "133",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod plays ODST soundtracks so you can enjoy the classic Halo 3: ODST vibe while playing, it also makes a nice effect and atmosphere in the campaign."
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -1901,6 +1901,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Mod based on units"
+  },
+  {
+    "repo": "uujuju1/randomStuff",
+    "name": "Random Stuff",
+    "author": "Uujuju",
+    "lastUpdated": "2021-10-21T14:07:57Z",
+    "stars": 3,
+    "minGameVersion": "129",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a bunch of random stuff to mindustry"
   },
   {
     "repo": "MEEPofFaith/testing-utilities-java",
@@ -2396,17 +2407,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Normal Mindustry Mod, nothing special"
-  },
-  {
-    "repo": "uujuju1/randomStuff",
-    "name": "Random Stuff",
-    "author": "Uujuju",
-    "lastUpdated": "2021-10-21T14:07:57Z",
-    "stars": 2,
-    "minGameVersion": "129",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a bunch of random stuff to mindustry"
   },
   {
     "repo": "SirMachinegun/EBM",
@@ -4246,17 +4246,6 @@
     "description": "A mod made to add more plants into Mindustry"
   },
   {
-    "repo": "MissAmity/Singabana",
-    "name": "Singabana",
-    "author": "Cato-1",
-    "lastUpdated": "2021-10-17T07:24:38Z",
-    "stars": 0,
-    "minGameVersion": "132",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "V7 Mod that add modded maps"
-  },
-  {
     "repo": "chinhonnang/mindustry-mod-scrapdusrty",
     "name": "scrapdustry",
     "author": "initiate",
@@ -4310,5 +4299,16 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "An interesting mod that adds a lot of new materials and diversifies the standard game\n\nTranslations :\nРусский\nEnglish"
+  },
+  {
+    "repo": "MissAmity/Singabana",
+    "name": "Singabana",
+    "author": "Cato-1",
+    "lastUpdated": "2021-10-22T07:03:20Z",
+    "stars": 0,
+    "minGameVersion": "132",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "V7 Mod that add modded maps"
   }
 ]
