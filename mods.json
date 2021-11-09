@@ -36,9 +36,9 @@
     "repo": "AureusStratus/ExoGenesis",
     "name": "Exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2021-11-07T21:05:50Z",
+    "lastUpdated": "2021-11-08T19:45:20Z",
     "stars": 84,
-    "minGameVersion": "130",
+    "minGameVersion": "134.1",
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod that adds in a butt load of content"
@@ -48,7 +48,7 @@
     "name": "New Horizon",
     "author": "Yuria",
     "lastUpdated": "2021-11-07T03:46:45Z",
-    "stars": 81,
+    "stars": 83,
     "minGameVersion": "134.1",
     "hasScripts": false,
     "hasJava": true,
@@ -59,7 +59,7 @@
     "name": "Exotic Mod",
     "author": "BlueWolf",
     "lastUpdated": "2021-10-20T18:12:28Z",
-    "stars": 74,
+    "stars": 76,
     "minGameVersion": "131",
     "hasScripts": false,
     "hasJava": false,
@@ -476,12 +476,12 @@
     "repo": "Eschatologue/Unlimited-Armament-Works",
     "name": "Unlimited Armament Works",
     "author": "Eschatologue",
-    "lastUpdated": "2021-11-07T11:27:15Z",
+    "lastUpdated": "2021-11-09T00:13:34Z",
     "stars": 16,
     "minGameVersion": "132",
     "hasScripts": false,
     "hasJava": true,
-    "description": "A port and a sequel to Heavy-Armaments-Industries written in java."
+    "description": "A port and a sequel to Heavy-Armaments-Industries written in java, expands your mindustry arsenal"
   },
   {
     "repo": "MindustryInside/MindustryClassicified",
@@ -561,15 +561,26 @@
     "description": "Adds T4 and T5 Cores."
   },
   {
+    "repo": "EclipseTheOldOne/Project-Scrap",
+    "name": "Project Scrap",
+    "author": "Eclipse",
+    "lastUpdated": "2021-11-08T22:50:45Z",
+    "stars": 13,
+    "minGameVersion": "131",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Well, its a WIP. It currently adds a few miscellaneous items, units, and its own reconstructers.\n\r\nClick on the releases tab to manually download, or download from the in-game mod browser.\n\r\nIt could be fun, ill leave the judgment of whether or not it is fun to you. If you find any issues, please open a issue.\n\r\nAlso try THCworkshopCN/THC-Industry!\n\r\nDiscord @https://discord.gg/JHu9grmxyK\nRequire 3Snake3/multi-lib if your game doesn't working."
+  },
+  {
     "repo": "WMF-Industries/NeonNights",
     "name": "NeonNights",
     "author": "!ereHyddeS#9188",
-    "lastUpdated": "2021-10-20T12:38:34Z",
+    "lastUpdated": "2021-11-09T00:05:19Z",
     "stars": 13,
     "minGameVersion": "120",
     "hasScripts": true,
     "hasJava": false,
-    "description": "Makes Mindustry Dark Themed!\n\nCredits:\n• ME, !ereHyddeS, for making this out of boredom\n• Antlrr, for contributing lots\n• Woop, for contributing few\n• Blop, for ideas and for meme dump\n• WMF, for being a cat and for helping me in github\n• Gus, will come for you if you dare steal the mod or anything similar\n\nChangelogs:\n• Fixed Issue: Some blocks in schematics are not neon\n• New Color Pallete for Support and Specialist effects (Does not affect everything)"
+    "description": "Makes Mindustry Dark Themed!\n\nCredits:\n• ME, !ereHyddeS, for making this out of boredom\n• Antlrr, for contributing lots\n• Woop, for contributing few\n• Blop, for ideas and for meme dump\n• WMF, for being a cat and for helping me in github\n• Gus, will come for you if you dare steal the mod or do anything similar\n\nChangelogs:\nThis version is similar to 1.3 but extra\n• Fixed Issue: Some blocks in schematics are not neon\n• New Color Pallete for Support and Specialist effects (ALMOST affects everything)"
   },
   {
     "repo": "sk7725/Commands",
@@ -603,17 +614,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds clientside logic debugging tools.\nRequires DeltaNedas/override-lib."
-  },
-  {
-    "repo": "EclipseTheOldOne/Project-Scrap",
-    "name": "Project Scrap",
-    "author": "Eclipse",
-    "lastUpdated": "2021-11-08T01:42:59Z",
-    "stars": 12,
-    "minGameVersion": "131",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Well, its a WIP. It currently adds a few miscellaneous items, units, and its own reconstructers.\n\r\nClick on the releases tab to manually download, or download from the in-game mod browser.\n\r\nIt could be fun, ill leave the judgment of whether or not it is fun to you. If you find any issues, please open a issue.\n\r\nAlso try THCworkshopCN/THC-Industry!\n\r\nDiscord @https://discord.gg/JHu9grmxyK\nRequire 3Snake3/multi-lib if your game doesn't working."
   },
   {
     "repo": "sk7725/EXP-lib",
@@ -1320,17 +1320,6 @@
     "description": "A Mindustry mod that adds a bunch of stuff, that's it."
   },
   {
-    "repo": "MEEPofFaith/testing-utilities-java",
-    "name": "Testing Utilities",
-    "author": "MEEP of Faith",
-    "lastUpdated": "2021-10-26T01:41:29Z",
-    "stars": 5,
-    "minGameVersion": "133",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Utilities for testing stuff.\n\nTeam Changer: Change teams easilty. (Disabled in campaign)\nSeppuku Button: Kill yourself. Press and hold to mass kill. A setting to make the death instant can be found in game settings.\nClone Button: Instantly clones your player unit. Press and hold to mass clone. (Disabled in campaign)\nHeal Button: Sets your player unit's hp to its max. (Disabled in campaign)\nInvincibility Button: Sets your player unit's hp to infinity. (Disabled in campaign)\nSandbox/Survival Button: Toggles infinite resources. (Disabled in campaign)\nFill/Dump Core: Fill or empty your core of all items. Hold to swap. (Disabled in campaign)\nStatus Menu: Apply/clear status effects to yourself. (Disabled in campaign)\nUnit Menu: Allows you to both spawn units and transform into a different unit. (Disabled in campaign)\n\nA setting for making the menu folded by default can be found in game settings.\n\nAlso increases zooming range."
-  },
-  {
     "repo": "NemesisTheory/ODST-Soundtracks",
     "name": "ODST Soundtracks",
     "author": "NemesisTheory",
@@ -1395,6 +1384,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "aaaaa"
+  },
+  {
+    "repo": "MEEPofFaith/testing-utilities-java",
+    "name": "Testing Utilities",
+    "author": "MEEP of Faith",
+    "lastUpdated": "2021-11-08T18:19:49Z",
+    "stars": 5,
+    "minGameVersion": "133",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Utilities for testing stuff.\n\nTeam Changer: Change teams easilty. (Disabled in campaign)\nSeppuku Button: Kill yourself. Press and hold to mass kill. A setting to make the death instant can be found in game settings.\nClone Button: Instantly clones your player unit. Press and hold to mass clone. (Disabled in campaign)\nHeal Button: Sets your player unit's hp to its max. (Disabled in campaign)\nInvincibility Button: Sets your player unit's hp to infinity. (Disabled in campaign)\nSandbox/Survival Button: Toggles infinite resources. (Disabled in campaign)\nFill/Dump Core: Fill or empty your core of all items. Hold to swap. (Disabled in campaign)\nStatus Menu: Apply/clear status effects to yourself. (Disabled in campaign)\nUnit Menu: Allows you to both spawn units and transform into a different unit. (Disabled in campaign)\n\nA setting for making the menu folded by default can be found in game settings.\n\nAlso increases zooming range."
   },
   {
     "repo": "DeltaNedas/mobile-ui",
