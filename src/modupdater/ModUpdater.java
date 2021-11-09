@@ -23,6 +23,7 @@ public class ModUpdater{
     static final ObjectSet<String> javaLangs = ObjectSet.with("Java", "Kotlin", "Groovy", "Scala"); //obviously not a comprehensive list
     static final ObjectSet<String> blacklist = ObjectSet.with("Snow-of-Spirit-Fox-Mori/old-mod", "TheSaus/Cumdustry", "Anuken/ExampleMod", "Anuken/ExampleJavaMod", "Anuken/ExampleKotlinMod", "Mesokrix/Vanilla-Upgraded", "o7-Fire/Mindustry-Ozone");
     static final Seq<String> nameBlacklist = Seq.with("o7", "Iron-Miner", "EasyPlaySu", "guiYMOUR");
+    static final String[] topics = {"mindustry-mod"/*, "mindustry-mod-v6"*/}; //v6 tag no longer necessary as it incurs unnecessary API calls
     static final int iconSize = 64;
 
     static final String githubToken = OS.prop("githubtoken");
@@ -39,8 +40,7 @@ public class ModUpdater{
         Colors.put("stat",  Color.white);
 
         query("/search/repositories", of("q", searchTerm, "per_page", perPage), result -> {
-            int total = result.getInt("total_count", 0);
-            int pages = Mathf.ceil((float)total / perPage);
+            int pages = Mathf.ceil(result.getFloat("total_count", 0) / perPage);
 
             for(int i = 1; i < pages; i++){
                 query("/search/repositories", of("q", searchTerm, "per_page", perPage, "page", i + 1), secresult -> {
@@ -48,8 +48,16 @@ public class ModUpdater{
                 });
             }
 
-            for(String topic : new String[]{"mindustry-mod", "mindustry-mod-v6"}){
+            for(String topic : topics){
                 query("/search/repositories", of("q", "topic:" + topic, "per_page", perPage), topicresult -> {
+                    int pagesTopic = Mathf.ceil(result.getFloat("total_count", 0) / perPage);
+
+                    for(int i = 1; i < pagesTopic; i++){
+                        query("/search/repositories", of("q", "topic:" + topic, "per_page", perPage, "page", i + 1), secresult -> {
+                            topicresult.get("items").asArray().addAll(secresult.get("items").asArray());
+                        });
+                    }
+
                     Seq<Jval> dest = result.get("items").asArray();
                     Seq<Jval> added = topicresult.get("items").asArray().select(v -> !dest.contains(o -> o.get("full_name").equals(v.get("full_name"))));
                     dest.addAll(added);

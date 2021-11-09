@@ -9,7 +9,7 @@ repositories{
 }
 
 ext{
-    arcVersion = "fbdfa0307101b881e208f53666c1f4b7ebf0fe90"
+    arcVersion = "5e7ddf887d6632c9ca7bd3fa1ef9fef748a3a84e"
 }
 
 dependencies{
@@ -18,7 +18,7 @@ dependencies{
 }
 
 task run(dependsOn: classes, type: JavaExec){
-    main = "modupdater.ModUpdater"
+    mainClass = "modupdater.ModUpdater"
     classpath = sourceSets.main.runtimeClasspath
     standardInput = System.in
     systemProperties System.properties
