@@ -138,7 +138,7 @@ public class ModUpdater{
                     String lang = gm.getString("language", "");
 
                     String metaName = Strings.stripColors(displayName).replace("\n", "");
-                    if(metaName.length() > maxLength) metaName = name.substring(0, maxLength) + "...";
+                    if(metaName.length() > maxLength) metaName = metaName.substring(0, maxLength) + "...";
 
                     //skip templates
                     if(metaName.equals("Java Mod Template") || metaName.equals("Template") || metaName.equals("Mod Template //the displayed mod name") || metaName.equals("Example Java Mod")){
