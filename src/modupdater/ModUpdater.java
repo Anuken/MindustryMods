@@ -23,7 +23,7 @@ public class ModUpdater{
     static final ObjectSet<String> javaLangs = ObjectSet.with("Java", "Kotlin", "Groovy", "Scala"); //obviously not a comprehensive list
     static final ObjectSet<String> blacklist = ObjectSet.with("Snow-of-Spirit-Fox-Mori/old-mod", "TheSaus/Cumdustry", "Anuken/ExampleMod", "Anuken/ExampleJavaMod", "Anuken/ExampleKotlinMod", "Mesokrix/Vanilla-Upgraded", "o7-Fire/Mindustry-Ozone");
     static final Seq<String> nameBlacklist = Seq.with("o7", "Iron-Miner", "EasyPlaySu", "guiYMOUR");
-    static final String[] topics = {"mindustry-mod"/*, "mindustry-mod-v6"*/}; //v6 tag no longer necessary as it incurs unnecessary API calls
+    static final String[] topics = {"mindustry-mod"};
     static final int iconSize = 64;
 
     static final String githubToken = OS.prop("githubtoken");
@@ -171,7 +171,7 @@ public class ModUpdater{
 
             new Fi("mods.json").writeString(array.toString(Jformat.formatted));
 
-            Log.info("&lcDone. Exiting.");
+            Log.info("&lcDone. Found @ valid mods.", array.asArray().size);
         });
     }
 
