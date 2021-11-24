@@ -120,7 +120,7 @@ public class ModUpdater{
                 }
             }
 
-            Log.info("&lcFound @ valid mods.", output.size);
+            Log.info("&lcFound @ potential mods.", output.size);
             Seq<String> outnames = output.keys().toSeq();
             outnames.sort(Structs.comps(Comparator.comparingInt(s -> -ghmeta.get(s).getInt("stargazers_count", 0)), Structs.comparing(s -> ghmeta.get(s).getString("pushed_at"))));
 
