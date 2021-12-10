@@ -465,7 +465,7 @@
     "repo": "Eschatologue/Unlimited-Armament-Works",
     "name": "Unlimited Armament Works",
     "author": "Eschatologue",
-    "lastUpdated": "2021-12-09T16:09:26Z",
+    "lastUpdated": "2021-12-10T00:45:39Z",
     "stars": 18,
     "minGameVersion": "134",
     "hasScripts": false,
@@ -1727,17 +1727,6 @@
     "description": "Adds random logic utilities. Praise the cat."
   },
   {
-    "repo": "DeltaNedas/modding-toolbox",
-    "name": "Modding Toolbox",
-    "author": "DeltaNedas",
-    "lastUpdated": "2021-12-05T14:29:35Z",
-    "stars": 4,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds some utilities for mod developers.\nRequires DeltaNedas/ui-lib."
-  },
-  {
     "repo": "uujuju1/creatiive-mod",
     "name": "creatiive mod.",
     "author": "Uujuju",
@@ -1747,6 +1736,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "creative stuff"
+  },
+  {
+    "repo": "DeltaNedas/modding-toolbox",
+    "name": "Modding Toolbox",
+    "author": "DeltaNedas",
+    "lastUpdated": "2021-12-09T20:38:16Z",
+    "stars": 4,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds some utilities for mod developers.\nRequires DeltaNedas/ui-lib."
   },
   {
     "repo": "Slotterleet/Crazy-Militaries",
@@ -4125,17 +4125,6 @@
     "description": "A small mod. Adds a Barrier-related unit and other things. Thanks to Sh1p for the Severed status sprite."
   },
   {
-    "repo": "Error-In-Code/MindustryNuclearMod",
-    "name": "Nuclear Mines",
-    "author": "[Error_in_Code]",
-    "lastUpdated": "2021-12-08T21:39:55Z",
-    "stars": 1,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod adding radioactive items."
-  },
-  {
     "repo": "IxGamerXL/Deltustry",
     "name": "DELTUSTRY",
     "author": "IxGamerXL",
@@ -4145,6 +4134,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mostly cosmetic mod that gives you a sense of DETERMINATION. It's multiplayer supported since it's best used in Multiplayer.\n\nContains plenty of items with varying attributes, the ability to SEARCH for items, and has an MP system. Best used as a utility for RPs.\n\nRequires DeltaNedas/ui-lib."
+  },
+  {
+    "repo": "Error-In-Code/MindustryNuclearMod",
+    "name": "Nuclear Mines",
+    "author": "[Error_in_Code]",
+    "lastUpdated": "2021-12-09T23:05:28Z",
+    "stars": 1,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod adding radiation, radioactive items, and nuclear weapons.\nNot yet finished. Some Sprites are missing and many things still need balance."
   },
   {
     "repo": "Nikisos/TheBattleMod",
@@ -5027,17 +5027,6 @@
     "description": "Inspired by Trade Terminals by ColdAnkles. Difference is more trade off, more options, different trade ins and v6 working. "
   },
   {
-    "repo": "R3ap3r77/lapis-mod",
-    "name": "Lapis Mod",
-    "author": "R3ap3r77",
-    "lastUpdated": "2021-08-14T15:04:55Z",
-    "stars": 0,
-    "minGameVersion": "124",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Small mod that gives a few very cheap and very effective items"
-  },
-  {
     "repo": "haywyre124/Diamond-Mod-Naub",
     "name": "Diamond-Mod-Naub",
     "author": "haywyre124",
@@ -5734,11 +5723,22 @@
     "repo": "SomeCoder1/MindustryMod",
     "name": "Mindustry Mod",
     "author": "idk you tell me",
-    "lastUpdated": "2021-12-09T18:53:58Z",
+    "lastUpdated": "2021-12-09T22:58:37Z",
     "stars": 0,
     "minGameVersion": "126",
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod template."
+  },
+  {
+    "repo": "R3ap3r77/lapis-mod",
+    "name": "Lapis Mod",
+    "author": "R3ap3r77",
+    "lastUpdated": "2021-12-10T00:04:25Z",
+    "stars": 0,
+    "minGameVersion": "124",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Small mod that gives a few very cheap and very effective items"
   }
 ]
