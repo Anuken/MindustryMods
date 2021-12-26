@@ -476,7 +476,7 @@
     "repo": "Eschatologue/Unlimited-Armament-Works",
     "name": "Unlimited Armament Works",
     "author": "Eschatologue",
-    "lastUpdated": "2021-12-26T07:28:35Z",
+    "lastUpdated": "2021-12-26T14:52:07Z",
     "stars": 18,
     "minGameVersion": "134",
     "hasScripts": false,
@@ -575,7 +575,7 @@
     "repo": "xzxADIxzx/Scheme-Size",
     "name": "Scheme Size",
     "author": "xzxADIxzx",
-    "lastUpdated": "2021-12-26T09:28:30Z",
+    "lastUpdated": "2021-12-26T14:32:17Z",
     "stars": 13,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -707,7 +707,7 @@
     "repo": "TheRealIvyX/MoreDefences",
     "name": "MoreDefences",
     "author": "IvyX",
-    "lastUpdated": "2021-12-25T22:54:48Z",
+    "lastUpdated": "2021-12-26T11:40:24Z",
     "stars": 11,
     "minGameVersion": "134",
     "hasScripts": true,
@@ -1122,6 +1122,17 @@
     "description": "A client-side utility mod. Contains useful (probably) features such as entity displays, unit spawner, and console. \n\nPress F9 to access the utilities menu on desktop. On mobile, tap the button with the stack icon at top left.\n\nFor more information, please visit <https://github.com/iarkn/mind-util/wiki>."
   },
   {
+    "repo": "EclipseTheOldOne/Project-Eclipse",
+    "name": "Project Eclipse",
+    "author": "Eclipse",
+    "lastUpdated": "2021-12-26T14:23:48Z",
+    "stars": 6,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A"
+  },
+  {
     "repo": "DeltaNedas/no",
     "name": "no",
     "author": "DeltaNedas",
@@ -1395,17 +1406,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Chaos."
-  },
-  {
-    "repo": "EclipseTheOldOne/Project-Eclipse",
-    "name": "Project Eclipse",
-    "author": "Eclipse",
-    "lastUpdated": "2021-12-23T11:03:25Z",
-    "stars": 5,
-    "minGameVersion": "135",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A"
   },
   {
     "repo": "SMOLKEYS/yellow-java",
@@ -2134,17 +2134,6 @@
     "description": "Adds a few things that enhance the vanilla experience."
   },
   {
-    "repo": "EclipseTheOldOne/Industrial-Processing",
-    "name": "Material Processing",
-    "author": "Eclipse",
-    "lastUpdated": "2021-11-08T17:23:14Z",
-    "stars": 3,
-    "minGameVersion": "131",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This make the game more realistic by adding ore processing, real-life power generation, still a WIP\nRequire Project Scrap EclipseTheOldOne/Project-Scrap\nDiscord @https://discord.gg/JHu9grmxyK\nThis mod will override a few content of the game!\nSupport Vietnamese"
-  },
-  {
     "repo": "HappyGingerWolf/Small-Drill",
     "name": "Small Drill",
     "author": "GingerWolf",
@@ -2209,6 +2198,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": ""
+  },
+  {
+    "repo": "pankiwi/snake-lib",
+    "name": "snake lib",
+    "author": "'\nMod Creator: Pankiwi \n\n[accentBack] contributors: \n\nuujuju (make sprite basic unit)\n",
+    "lastUpdated": "2021-12-24T15:12:15Z",
+    "stars": 3,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "lib snake unit for java scripts  v7"
   },
   {
     "repo": "BlackDeluxeCat/MI2-Utilities",
@@ -3124,21 +3124,10 @@
     "description": "Invisible Blocks Texture Pack.\nConvenience Mode\n\nThanks To\nss심\nsk7725"
   },
   {
-    "repo": "pankiwi/snake-lib",
-    "name": "snake lib",
-    "author": "'\nMod Creator: Pankiwi \n\n[accentBack] contributors: \n\nuujuju (make sprite basic unit)\n",
-    "lastUpdated": "2021-12-24T15:12:15Z",
-    "stars": 2,
-    "minGameVersion": "130",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "lib snake unit for java scripts  v7"
-  },
-  {
     "repo": "ExplerHD/Old-Era-Revival",
     "name": "Old Era Revival [DEV]",
     "author": "ExplerHD, 1237",
-    "lastUpdated": "2021-12-26T07:37:56Z",
+    "lastUpdated": "2021-12-26T11:59:18Z",
     "stars": 2,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -5841,17 +5830,6 @@
     "description": "My first java Mindustry mod"
   },
   {
-    "repo": "Weathercold/ExtraLogging",
-    "name": "Extra Logging",
-    "author": "Weathercold",
-    "lastUpdated": "2021-12-26T00:27:58Z",
-    "stars": 0,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds some extra logging for debugging purposes.\n\nFeatures:\n- Listens to events and prints them to the console.\n- Timestamps for console messages"
-  },
-  {
     "repo": "Beanzilla/mindustry-hacked",
     "name": "M1N3DU5TRY H4CK3D",
     "author": "ApolloX",
@@ -5861,5 +5839,16 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "TIR3D 0F N0T W1NN1NG, W4NT T0 W1N E4S1LY?"
+  },
+  {
+    "repo": "Weathercold/ExtraLogging",
+    "name": "Extra Logging",
+    "author": "Weathercold",
+    "lastUpdated": "2021-12-26T14:33:35Z",
+    "stars": 0,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds some extra logging for debugging purposes.\n\nFeatures:\n- Listens to events and prints them to the console\n- Timestamps for console messages"
   }
 ]
