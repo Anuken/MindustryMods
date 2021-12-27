@@ -476,7 +476,7 @@
     "repo": "Eschatologue/Unlimited-Armament-Works",
     "name": "Unlimited Armament Works",
     "author": "Eschatologue",
-    "lastUpdated": "2021-12-27T14:50:24Z",
+    "lastUpdated": "2021-12-27T15:41:13Z",
     "stars": 18,
     "minGameVersion": "134",
     "hasScripts": false,
@@ -707,7 +707,7 @@
     "repo": "TheRealIvyX/MoreDefences",
     "name": "MoreDefences",
     "author": "IvyX",
-    "lastUpdated": "2021-12-27T15:23:46Z",
+    "lastUpdated": "2021-12-27T19:37:54Z",
     "stars": 11,
     "minGameVersion": "134",
     "hasScripts": true,
@@ -1397,17 +1397,6 @@
     "description": "Utilities for testing stuff.\n\nTeam Changer: Change teams easilty. (Disabled in campaign)\nSeppuku Button: Kill yourself. Press and hold to mass kill. A setting to make the death instant can be found in game settings.\nClone Button: Instantly clones your player unit. Press and hold to mass clone. (Disabled in campaign)\nHeal Button: Sets your player unit's hp to its max. (Disabled in campaign)\nInvincibility Button: Sets your player unit's hp to infinity. (Disabled in campaign)\nSandbox/Survival Button: Toggles infinite resources. (Disabled in campaign)\nFill/Dump Core: Fill or empty your core of all items. Hold to swap. (Disabled in campaign)\nStatus Menu: Apply/clear status effects to yourself. (Disabled in campaign)\nUnit Menu: Allows you to both spawn units and transform into a different unit. (Disabled in campaign)\n\nA setting for making the menu folded by default can be found in game settings.\n\nAlso increases zooming range."
   },
   {
-    "repo": "MHeMoTexHuK/CKAT",
-    "name": "Скат [kotlin]",
-    "author": "Мнемотехник",
-    "lastUpdated": "2021-12-10T13:54:50Z",
-    "stars": 5,
-    "minGameVersion": "133",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds a unique скат unit branch.\n\nNow in Kotlin!"
-  },
-  {
     "repo": "WMF-Industries/ExpandedIndustries",
     "name": "Expanded Industries",
     "author": "WMF Industries Mod Team",
@@ -1417,6 +1406,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Chaos."
+  },
+  {
+    "repo": "MHeMoTexHuK/CKAT",
+    "name": "Скат [kotlin]",
+    "author": "Мнемотехник",
+    "lastUpdated": "2021-12-27T17:55:57Z",
+    "stars": 5,
+    "minGameVersion": "133",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds an unique скат unit branch.\n\nNow in Kotlin!\n\n\nYes, this is a real mod. And you should install it immediately."
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -5819,28 +5819,6 @@
     "description": "My first java Mindustry mod"
   },
   {
-    "repo": "Beanzilla/mindustry-hacked",
-    "name": "M1N3DU5TRY H4CK3D",
-    "author": "ApolloX",
-    "lastUpdated": "2021-12-26T06:27:21Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "TIR3D 0F N0T W1NN1NG, W4NT T0 W1N E4S1LY?"
-  },
-  {
-    "repo": "Weathercold/ExtraLogging",
-    "name": "Extra Logging",
-    "author": "Weathercold",
-    "lastUpdated": "2021-12-26T14:33:35Z",
-    "stars": 0,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds some extra logging for debugging purposes.\n\nFeatures:\n- Listens to events and prints them to the console\n- Timestamps for console messages"
-  },
-  {
     "repo": "UnionofSovietSocialistRepublics/Cursedmod",
     "name": "Curse of the future",
     "author": "Fallen Future",
@@ -5850,5 +5828,27 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Future curse the enemy and help them stronger,somehow...."
+  },
+  {
+    "repo": "Weathercold/ExtraLogging",
+    "name": "Extra Logging",
+    "author": "Weathercold",
+    "lastUpdated": "2021-12-27T16:36:49Z",
+    "stars": 0,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds more logging features for debugging purposes.\n\nFeatures:\n- Enables the in-game console.\n- Listens to events and prints them to the console.\n- Adds timestamps for console messages."
+  },
+  {
+    "repo": "Beanzilla/mindustry-hacked",
+    "name": "M1N3DU5TRY H4CK3D",
+    "author": "ApolloX",
+    "lastUpdated": "2021-12-27T18:29:15Z",
+    "stars": 0,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "TIR3D 0F N0T W1NN1NG, W4NT T0 W1N E4S1LY?"
   }
 ]
