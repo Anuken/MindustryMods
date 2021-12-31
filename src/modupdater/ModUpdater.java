@@ -1,14 +1,12 @@
 package modupdater;
 
-import arc.*;
-import arc.Net.*;
 import arc.files.*;
 import arc.func.*;
 import arc.graphics.*;
 import arc.math.*;
 import arc.struct.*;
 import arc.util.*;
-import arc.util.async.*;
+import arc.util.Http.*;
 import arc.util.serialization.*;
 import arc.util.serialization.Jval.*;
 
@@ -24,13 +22,14 @@ public class ModUpdater{
     static final int maxLength = 55;
     static final ObjectSet<String> javaLangs = ObjectSet.with("Java", "Kotlin", "Groovy", "Scala"); //obviously not a comprehensive list
     static final ObjectSet<String> blacklist = ObjectSet.with("Snow-of-Spirit-Fox-Mori/old-mod", "TheSaus/Cumdustry", "Anuken/ExampleMod", "Anuken/ExampleJavaMod", "Anuken/ExampleKotlinMod", "Mesokrix/Vanilla-Upgraded", "o7-Fire/Mindustry-Ozone", "pixaxeofpixie/Braindustry-Mod");
-    static final Seq<String> nameBlacklist = Seq.with("o7", "Iron-Miner");
+    static final Seq<String> nameBlacklist = Seq.with("o7", "Iron-Miner", "EasyPlaySu", "guiYMOUR");
+    static final String[] topics = {"mindustry-mod"};
+
     static final int iconSize = 64;
 
     static final String githubToken = OS.prop("githubtoken");
 
     public static void main(String[] args){
-        Core.net = makeNet();
         new ModUpdater();
     }
 
@@ -42,8 +41,7 @@ public class ModUpdater{
         Colors.put("stat",  Color.white);
 
         query("/search/repositories", of("q", searchTerm, "per_page", perPage), result -> {
-            int total = result.getInt("total_count", 0);
-            int pages = Mathf.ceil((float)total / perPage);
+            int pages = Mathf.ceil(result.getFloat("total_count", 0) / perPage);
 
             for(int i = 1; i < pages; i++){
                 query("/search/repositories", of("q", searchTerm, "per_page", perPage, "page", i + 1), secresult -> {
@@ -51,8 +49,16 @@ public class ModUpdater{
                 });
             }
 
-            for(String topic : new String[]{"mindustry-mod", "mindustry-mod-v6"}){
+            for(String topic : topics){
                 query("/search/repositories", of("q", "topic:" + topic, "per_page", perPage), topicresult -> {
+                    int pagesTopic = Mathf.ceil(result.getFloat("total_count", 0) / perPage);
+
+                    for(int i = 1; i < pagesTopic; i++){
+                        query("/search/repositories", of("q", "topic:" + topic, "per_page", perPage, "page", i + 1), secresult -> {
+                            topicresult.get("items").asArray().addAll(secresult.get("items").asArray());
+                        });
+                    }
+
                     Seq<Jval> dest = result.get("items").asArray();
                     Seq<Jval> added = topicresult.get("items").asArray().select(v -> !dest.contains(o -> o.get("full_name").equals(v.get("full_name"))));
                     dest.addAll(added);
@@ -115,7 +121,7 @@ public class ModUpdater{
                 }
             }
 
-            Log.info("&lcFound @ valid mods.", output.size);
+            Log.info("&lcFound @ potential mods.", output.size);
             Seq<String> outnames = output.keys().toSeq();
             outnames.sort(Structs.comps(Comparator.comparingInt(s -> -ghmeta.get(s).getInt("stargazers_count", 0)), Structs.comparing(s -> ghmeta.get(s).getString("pushed_at"))));
 
@@ -141,7 +147,12 @@ public class ModUpdater{
                     String lang = gm.getString("language", "");
 
                     String metaName = Strings.stripColors(displayName).replace("\n", "");
-                    if(metaName.length() > maxLength) metaName = name.substring(0, maxLength) + "...";
+                    if(metaName.length() > maxLength) metaName = metaName.substring(0, maxLength) + "...";
+
+                    //skip templates
+                    if(metaName.equals("Java Mod Template") || metaName.equals("Template") || metaName.equals("Mod Template //the displayed mod name") || metaName.equals("Example Java Mod")){
+                        continue;
+                    }
 
                     obj.add("repo", name);
                     obj.add("name", metaName);
@@ -161,7 +172,7 @@ public class ModUpdater{
 
             new Fi("mods.json").writeString(array.toString(Jformat.formatted));
 
-            Log.info("&lcDone. Exiting.");
+            Log.info("&lcDone. Found @ valid mods.", array.asArray().size);
         });
     }
 
@@ -169,11 +180,9 @@ public class ModUpdater{
         Jval[] result = {null};
         for(String str : queries){
             //try to get mod.json instead
-            Core.net.httpGet("https://raw.githubusercontent.com/" + str, out -> {
-                if(out.getStatus() == HttpStatus.OK){
-                    result[0] = Jval.read(out.getResultAsString());
-                }
-            }, t -> Log.info("&lc |&lr" + Strings.getSimpleMessage(t)));
+            Http.get("https://raw.githubusercontent.com/" + str)
+            .error(this::simpleError)
+            .block(out -> result[0] = Jval.read(out.getResultAsString()));
         }
         return result[0];
     }
@@ -182,53 +191,34 @@ public class ModUpdater{
         BufferedImage[] result = {null};
         for(String str : queries){
             //try to get mod.json instead
-            Core.net.httpGet("https://raw.githubusercontent.com/" + str, out -> {
-                try{
-                    if(out.getStatus() == HttpStatus.OK){
-                        result[0] = ImageIO.read(out.getResultAsStream());
-                    }
-                }catch(Exception e){
-                    throw new RuntimeException(e);
-                }
-            }, t -> Log.info("&lc |&lr" + Strings.getSimpleMessage(t)));
+            Http.get("https://raw.githubusercontent.com/" + str)
+            .error(this::simpleError)
+            .block(out -> result[0] = ImageIO.read(out.getResultAsStream()));
         }
         return result[0];
     }
 
     void query(String url, @Nullable StringMap params, Cons<Jval> cons){
-        Core.net.http(new HttpRequest()
-            .timeout(10000)
-            .method(HttpMethod.GET)
-            .header("authorization", githubToken)
-            .header("accept", "application/vnd.github.baptiste-preview+json")
-            .url(api + url + (params == null ? "" : "?" + params.keys().toSeq().map(entry -> Strings.encode(entry) + "=" + Strings.encode(params.get(entry))).toString("&"))), response -> {
+        Http.get(api + url + (params == null ? "" : "?" + params.keys().toSeq().map(entry -> Strings.encode(entry) + "=" + Strings.encode(params.get(entry))).toString("&")))
+        .timeout(10000)
+        .method(HttpMethod.GET)
+        .header("authorization", githubToken)
+        .header("accept", "application/vnd.github.baptiste-preview+json")
+        .error(this::handleError)
+        .block(response -> {
             Log.info("&lcSending search query. Status: @; Queries remaining: @/@", response.getStatus(), response.getHeader("X-RateLimit-Remaining"), response.getHeader("X-RateLimit-Limit"));
-            try{
-                cons.get(Jval.read(response.getResultAsString()));
-            }catch(Throwable error){
-                handleError(error);
-            }
-        }, this::handleError);
+            cons.get(Jval.read(response.getResultAsString()));
+        });
+    }
+
+    void simpleError(Throwable error){
+        if(!(error instanceof HttpStatusException)){
+            Log.info("&lc |&lr" + Strings.getSimpleMessage(error));
+        }
     }
 
     void handleError(Throwable error){
-        error.printStackTrace();
+        Log.err(error);
     }
 
-    static Net makeNet(){
-        Net net = new Net();
-        //use blocking requests
-        Reflect.set(NetJavaImpl.class, Reflect.get(net, "impl"), "asyncExecutor", new AsyncExecutor(1){
-            public <T> AsyncResult<T> submit(final AsyncTask<T> task){
-                try{
-                    task.call();
-                }catch(Exception e){
-                    throw new RuntimeException(e);
-                }
-                return null;
-            }
-        });
-
-        return net;
-    }
 }
