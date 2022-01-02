@@ -25,7 +25,7 @@
     "repo": "AureusStratus/ExoGenesis",
     "name": "Exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2022-01-02T01:07:16Z",
+    "lastUpdated": "2022-01-02T19:50:03Z",
     "stars": 107,
     "minGameVersion": "134.1",
     "hasScripts": false,
@@ -509,7 +509,7 @@
     "repo": "xzxADIxzx/Scheme-Size",
     "name": "Scheme Size",
     "author": "xzxADIxzx",
-    "lastUpdated": "2021-12-30T11:07:19Z",
+    "lastUpdated": "2022-01-02T19:28:55Z",
     "stars": 16,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -550,6 +550,17 @@
     "description": "Well, its a WIP. It currently adds a few miscellaneous items, units, and its own reconstructers.\n\r\nClick on the releases tab to manually download, or download from the in-game mod browser.\n\r\nIt could be fun, ill leave the judgment of whether or not it is fun to you. If you find any issues, please open a issue.\n\r\nAlso try THCworkshopCN/THC-Industry!\n\r\nDiscord @https://discord.gg/JHu9grmxyK\nRequire 3Snake3/multi-lib if your game doesn't working."
   },
   {
+    "repo": "WMF-Industries/NeonNights_v7",
+    "name": "NeonNights v7",
+    "author": "WMF Industries",
+    "lastUpdated": "2021-12-13T12:11:53Z",
+    "stars": 15,
+    "minGameVersion": "127",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Makes Mindustry Dark Themed!\n\nCredits:\n• !ereHyddeS, for the idea of this texture pack, and making most of it\n• Antlrr, for contributing lots\n• Woop, for contributing few\n• Binonib, for contributing few\n• Blop, for ideas and for meme dump\n• WMF, for being a cat and for helping me in github\n• Gus, will come for you if you dare steal the mod or do anything similar\n\nChangelogs:\nThis version is similar to 1.3 but extra\n• Factories and Reconstructors have lighter payload shading\n• V E L A\n• Neon Liquid Container\n• Seddy quit the development, R.I.P"
+  },
+  {
     "repo": "DeltaNedas/unit-factory",
     "name": "Unit Factory",
     "author": "DeltaNedas",
@@ -559,17 +570,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Spawn any enemy in sandbox or on multiplayer, with /js (if supported).\nRequires DeltaNedas/ui-lib."
-  },
-  {
-    "repo": "WMF-Industries/NeonNights_v7",
-    "name": "NeonNights v7",
-    "author": "WMF Industries",
-    "lastUpdated": "2021-12-13T12:11:53Z",
-    "stars": 14,
-    "minGameVersion": "127",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Makes Mindustry Dark Themed!\n\nCredits:\n• !ereHyddeS, for the idea of this texture pack, and making most of it\n• Antlrr, for contributing lots\n• Woop, for contributing few\n• Binonib, for contributing few\n• Blop, for ideas and for meme dump\n• WMF, for being a cat and for helping me in github\n• Gus, will come for you if you dare steal the mod or do anything similar\n\nChangelogs:\nThis version is similar to 1.3 but extra\n• Factories and Reconstructors have lighter payload shading\n• V E L A\n• Neon Liquid Container\n• Seddy quit the development, R.I.P"
   },
   {
     "repo": "z0mbiesrock/Larger-Cores",
@@ -990,6 +990,17 @@
     "description": "Adds a new fractions of units like: Snow, Electrical, Spore, Blade, Averaged, Upgraded."
   },
   {
+    "repo": "Slotterleet/distributor",
+    "name": "Distributor",
+    "author": "Slotterleet",
+    "lastUpdated": "2021-10-03T09:32:56Z",
+    "stars": 7,
+    "minGameVersion": "126",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "The ultimate form of the ultimate form.\\n\\nWorks in both v6 and v7 versions of Mindustry. Multiplayer compatible."
+  },
+  {
     "repo": "ZoGGerS-cc/Major",
     "name": "Major",
     "author": "ZoGGerS, Dim4ik, n33nat0",
@@ -1087,17 +1098,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "random ideas"
-  },
-  {
-    "repo": "Slotterleet/distributor",
-    "name": "Distributor",
-    "author": "Slotterleet",
-    "lastUpdated": "2021-10-03T09:32:56Z",
-    "stars": 6,
-    "minGameVersion": "126",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "The ultimate form of the ultimate form.\\n\\nWorks in both v6 and v7 versions of Mindustry. Multiplayer compatible."
   },
   {
     "repo": "GenericSomeone/dead-repo",
@@ -2200,17 +2200,6 @@
     "description": "Mod based on units"
   },
   {
-    "repo": "Error-In-Code/MindustryNuclearMod",
-    "name": "Nuclear Mines",
-    "author": "[Error_in_Code]",
-    "lastUpdated": "2021-12-10T22:18:43Z",
-    "stars": 3,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod adding radiation, radioactive items, and nuclear weapons.\n\nNot yet finished. Some Sprites are missing and many things still need balance. Not all items are available in the Campaign tech tree."
-  },
-  {
     "repo": "IxGamerXL/Deltustry",
     "name": "DELTUSTRY",
     "author": "IxGamerXL",
@@ -2275,6 +2264,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "This mod is multiplayer-compatible!\n\nSo, basically... This mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully ai.\n\nManual mode consists of two thumbsticks and an action panel.\nAi mode includes three actions (attack, mine, patrol) + auto action selection.\n\nCheck readme.md for detailed info."
+  },
+  {
+    "repo": "Error-In-Code/Nuclear-Mines-Mod",
+    "name": "Nuclear Mines",
+    "author": "[Error_in_Code]",
+    "lastUpdated": "2022-01-02T17:56:36Z",
+    "stars": 3,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod adding radiation, radioactive items, and nuclear weapons.\n\nNot yet finished. Some Sprites are missing and many things still need balance. Not all items are available in the Campaign tech tree."
   },
   {
     "repo": "RebornTrack970/Sandbox-Mode",
@@ -3160,7 +3160,7 @@
     "repo": "Lepisma-0/Extended-Tech",
     "name": "Extended Tech",
     "author": "Lepisma & Manezoid",
-    "lastUpdated": "2022-01-02T14:34:26Z",
+    "lastUpdated": "2022-01-02T16:37:30Z",
     "stars": 2,
     "minGameVersion": "135",
     "hasScripts": true,
@@ -3927,6 +3927,17 @@
     "description": "Adds very large radius processor based radar. Source: https://github.com/abaines/Kizrak-s-Radar"
   },
   {
+    "repo": "stacktrace-error/lithium-texture-pack",
+    "name": "Lithium Pack",
+    "author": "null/stacktrace-error",
+    "lastUpdated": "2021-10-18T11:18:39Z",
+    "stars": 1,
+    "minGameVersion": "126",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Texture pack that mimics the style of an older iteration of Mindustry's logic system. I've provided a couple alternative sprites in the mod's files and encourage you to PR your own ones if you'd like."
+  },
+  {
     "repo": "NewJumper/Futurdustry",
     "name": "Futurdustry",
     "author": "NewJumper",
@@ -4277,6 +4288,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A small mod, aimed to expand the endgame progression of Mindustry. Adds a Barrier-related unit and some other things... Thanks to Sh1p for the Severed status sprite."
+  },
+  {
+    "repo": "SkyCraft78/OrePlusMod",
+    "name": "Ore Plus Mod",
+    "author": "ItsTheSky#1234",
+    "lastUpdated": "2022-01-02T20:22:59Z",
+    "stars": 1,
+    "minGameVersion": "120",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Simple mod that add some new basics ores and machine to work with in Mindustry."
   },
   {
     "repo": "Nikisos/TheBattleMod",
@@ -5863,17 +5885,6 @@
     "description": "\nAdd things that can boost your vanilla experience !\n\nU can follow the advancement of the mod in the official Vanilla-Upgraded discord server !\n\nhttps://discord.gg/TQpdDKn\n\nCo-developer: VozDuh and Summet#4530"
   },
   {
-    "repo": "uujuju1/project-abyss",
-    "name": "Project Abyss",
-    "author": "Uujuju",
-    "lastUpdated": "2022-01-02T01:15:29Z",
-    "stars": 0,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod that im working on."
-  },
-  {
     "repo": "AshesKaiser-KR/ExampleJavaMod",
     "name": "Mindustry Industrial Mod",
     "author": "AshesKaiser",
@@ -5883,5 +5894,16 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "My first java Mindustry mod"
+  },
+  {
+    "repo": "uujuju1/project-abyss",
+    "name": "Project Abyss",
+    "author": "Uujuju",
+    "lastUpdated": "2022-01-02T17:05:35Z",
+    "stars": 0,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod that im working on."
   }
 ]
