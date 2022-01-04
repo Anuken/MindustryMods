@@ -25,7 +25,7 @@
     "repo": "AureusStratus/ExoGenesis",
     "name": "Exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2022-01-04T02:34:06Z",
+    "lastUpdated": "2022-01-04T07:38:25Z",
     "stars": 107,
     "minGameVersion": "134.1",
     "hasScripts": false,
@@ -341,6 +341,17 @@
     "description": "Focuses on extending the vanilla game in fun but not op ways. 90+ blocks, 10 new items, 1 new liquid and 13 new units. \nAlso adds bigger cores and a whole new system to distribute items using the outpost block! \n\nEnjoy the new map: Valley of Despair! You can play it using the \"Custom Game\" option on the main menu and it comes with its own waves, its own boss and even its own \nweathers!\n\nSupported Languages: English, Spanish, German\n\nPlease note that the content language is dependent on your game language. (e.g: If your game is in English, the content will be so, too).\n\nDo not be surprised about the high damage numbers on some turrets! Tests were made to balance them in a way that makes them have a fair dps (damage per second). To do so, \nsome turrets have been given stats that look way to strong but are not that strong when the turret is actually in use!"
   },
   {
+    "repo": "MEEPofFaith/prog-mats-java",
+    "name": "Progressed Materials (Java)",
+    "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progressed Materials enabled to view them.)",
+    "lastUpdated": "2021-12-21T00:03:05Z",
+    "stars": 26,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Progressed Materials, but in Java. My main mod, which mostly just adds turrets. I'm just experimenting to see what I can do with the power I hold.\n\nThe name definitely isn't made of the synonyms of \"Advance\" and \"Content\"."
+  },
+  {
     "repo": "xamionex/Opore-Mod",
     "name": "Opore-Mod",
     "author": "amione#0663",
@@ -361,17 +372,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "amogus"
-  },
-  {
-    "repo": "MEEPofFaith/prog-mats-java",
-    "name": "Progressed Materials (Java)",
-    "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progressed Materials enabled to view them.)",
-    "lastUpdated": "2021-12-21T00:03:05Z",
-    "stars": 25,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Progressed Materials, but in Java. My main mod, which mostly just adds turrets. I'm just experimenting to see what I can do with the power I hold.\n\nThe name definitely isn't made of the synonyms of \"Advance\" and \"Content\"."
   },
   {
     "repo": "w1-BeyeK/rl_mindustry",
@@ -1122,6 +1122,17 @@
     "description": "aaaaa"
   },
   {
+    "repo": "MEEPofFaith/testing-utilities-java",
+    "name": "Testing Utilities",
+    "author": "MEEP of Faith",
+    "lastUpdated": "2021-12-06T19:22:16Z",
+    "stars": 6,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Utilities for testing stuff.\n\nTeam Changer: Change teams easilty. (Disabled in campaign)\nSeppuku Button: Kill yourself. Press and hold to mass kill. A setting to make the death instant can be found in game settings.\nClone Button: Instantly clones your player unit. Press and hold to mass clone. (Disabled in campaign)\nHeal Button: Sets your player unit's hp to its max. (Disabled in campaign)\nInvincibility Button: Sets your player unit's hp to infinity. (Disabled in campaign)\nSandbox/Survival Button: Toggles infinite resources. (Disabled in campaign)\nFill/Dump Core: Fill or empty your core of all items. Hold to swap. (Disabled in campaign)\nStatus Menu: Apply/clear status effects to yourself. (Disabled in campaign)\nUnit Menu: Allows you to both spawn units and transform into a different unit. (Disabled in campaign)\n\nA setting for making the menu folded by default can be found in game settings.\n\nAlso increases zooming range."
+  },
+  {
     "repo": "MindustryInside/L1337n",
     "name": "L1337n",
     "author": "Mindustry Inside",
@@ -1439,17 +1450,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": ""
-  },
-  {
-    "repo": "MEEPofFaith/testing-utilities-java",
-    "name": "Testing Utilities",
-    "author": "MEEP of Faith",
-    "lastUpdated": "2021-12-06T19:22:16Z",
-    "stars": 5,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Utilities for testing stuff.\n\nTeam Changer: Change teams easilty. (Disabled in campaign)\nSeppuku Button: Kill yourself. Press and hold to mass kill. A setting to make the death instant can be found in game settings.\nClone Button: Instantly clones your player unit. Press and hold to mass clone. (Disabled in campaign)\nHeal Button: Sets your player unit's hp to its max. (Disabled in campaign)\nInvincibility Button: Sets your player unit's hp to infinity. (Disabled in campaign)\nSandbox/Survival Button: Toggles infinite resources. (Disabled in campaign)\nFill/Dump Core: Fill or empty your core of all items. Hold to swap. (Disabled in campaign)\nStatus Menu: Apply/clear status effects to yourself. (Disabled in campaign)\nUnit Menu: Allows you to both spawn units and transform into a different unit. (Disabled in campaign)\n\nA setting for making the menu folded by default can be found in game settings.\n\nAlso increases zooming range."
   },
   {
     "repo": "Mnemotechnician/CKAT",
@@ -4686,6 +4686,17 @@
     "description": "Reactor based on quantum mechanics."
   },
   {
+    "repo": "RebornTrack970/uuidscrambler",
+    "name": "uuidscrambler",
+    "author": "RTOmega & Qmelz",
+    "lastUpdated": "2021-03-02T06:15:47Z",
+    "stars": 0,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A Mindustry Mod that scrambles your uuid."
+  },
+  {
     "repo": "martycagas/mindustry-mod-some-more-armor",
     "name": "Some More Armor mod",
     "author": "martycagas",
@@ -5390,6 +5401,17 @@
     "description": "V7 Mod that add modded maps"
   },
   {
+    "repo": "GenericSomeone/infinity-liquid",
+    "name": "Infinity Liquid",
+    "author": "Inconsequential",
+    "lastUpdated": "2021-10-24T16:12:03Z",
+    "stars": 0,
+    "minGameVersion": "126",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds the Infinity Liquid from NewHorizon back into Mindustry."
+  },
+  {
     "repo": "YunaAkaishi08/PlusAlfer",
     "name": "PlusAlfer",
     "author": "YuNA彁",
@@ -5621,6 +5643,17 @@
     "description": "Texture pack that makes mindustry into amogus for no reason"
   },
   {
+    "repo": "pankiwi/router-corruption",
+    "name": "router Birus",
+    "author": "'\nMod Creator: Pankiwi ",
+    "lastUpdated": "2021-12-02T01:56:07Z",
+    "stars": 0,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "do not install this you can destroy your mindustry games"
+  },
+  {
     "repo": "Kappandrew/BTD-dustry",
     "name": "BTD-dustry",
     "author": "Dunc",
@@ -5808,17 +5841,6 @@
     "description": "Mindustry player pos mining\n\nMod for Mindustry that adds button for player pos mining\n\nRequires ui-lib"
   },
   {
-    "repo": "Beanzilla/mindustry-hacked",
-    "name": "M1N3DU5TRY H4CK3D",
-    "author": "ApolloX",
-    "lastUpdated": "2021-12-31T04:20:28Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "TIR3D 0F N0T W1NN1NG, W4NT T0 W1N E4S1LY?"
-  },
-  {
     "repo": "MQ-1175/Vanilla-Upgraded-v7",
     "name": "Vanilla Upgraded V7",
     "author": "Mesokrix & M.Q.",
@@ -5828,17 +5850,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\nAdd things that can boost your vanilla experience !\n\nU can follow the advancement of the mod in the official Vanilla-Upgraded discord server !\n\nhttps://discord.gg/TQpdDKn\n\nCo-developer: VozDuh and Summet#4530"
-  },
-  {
-    "repo": "SMOLKEYS/cursed-units",
-    "name": "Cursed Units",
-    "author": "SMOLKEYS",
-    "lastUpdated": "2022-01-03T07:28:27Z",
-    "stars": 0,
-    "minGameVersion": "135",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "brain die"
   },
   {
     "repo": "AshesKaiser-KR/ExampleJavaMod",
@@ -5872,5 +5883,27 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod that im working on."
+  },
+  {
+    "repo": "SMOLKEYS/cursed-units",
+    "name": "Cursed Units",
+    "author": "SMOLKEYS",
+    "lastUpdated": "2022-01-04T06:49:26Z",
+    "stars": 0,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "brain die"
+  },
+  {
+    "repo": "Beanzilla/mindustry-hacked",
+    "name": "M1N3DU5TRY H4CK3D",
+    "author": "ApolloX",
+    "lastUpdated": "2022-01-04T07:07:52Z",
+    "stars": 0,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "TIR3D 0F N0T W1NN1NG, W4NT T0 W1N E4S1LY?"
   }
 ]
