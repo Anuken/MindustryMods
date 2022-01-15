@@ -26,7 +26,7 @@
     "name": "Exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2022-01-14T11:34:05Z",
-    "stars": 115,
+    "stars": 116,
     "minGameVersion": "134.1",
     "hasScripts": false,
     "hasJava": false,
@@ -311,7 +311,7 @@
     "repo": "MEEPofFaith/prog-mats-java",
     "name": "Progressed Materials (Java)",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progressed Materials enabled to view them.)",
-    "lastUpdated": "2022-01-14T19:11:20Z",
+    "lastUpdated": "2022-01-15T01:06:23Z",
     "stars": 28,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -1210,17 +1210,6 @@
     "description": "Utilities for testing stuff.\n\nTeam Changer: Change teams easilty. (Disabled in campaign)\nSeppuku Button: Kill yourself. Press and hold to mass kill. A setting to make the death instant can be found in game settings.\nClone Button: Instantly clones your player unit. Press and hold to mass clone. (Disabled in campaign)\nHeal Button: Sets your player unit's hp to its max. (Disabled in campaign)\nInvincibility Button: Sets your player unit's hp to infinity. (Disabled in campaign)\nSandbox/Survival Button: Toggles infinite resources. (Disabled in campaign)\nFill/Dump Core: Fill or empty your core of all items. Hold to swap. (Disabled in campaign)\nStatus Menu: Apply/clear status effects to yourself. (Disabled in campaign)\nUnit Menu: Allows you to both spawn units and transform into a different unit. (Disabled in campaign)\n\nA setting for making the menu folded by default can be found in game settings.\n\nAlso increases zooming range."
   },
   {
-    "repo": "MindustryInside/L1337n",
-    "name": "L1337n",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2021-12-20T12:21:43Z",
-    "stars": 6,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Leet speak localisator."
-  },
-  {
     "repo": "iarkn/mind-util",
     "name": "mind-util - Utility Mod",
     "author": "iarkn",
@@ -1274,6 +1263,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Chaos."
+  },
+  {
+    "repo": "MindustryInside/L1337n",
+    "name": "L1337n",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2022-01-15T00:45:49Z",
+    "stars": 6,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Leet speak localisator."
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -2695,6 +2695,17 @@
     "description": "basically your computer will be gone"
   },
   {
+    "repo": "bloool/aquarium",
+    "name": "Aquarium",
+    "author": "blool",
+    "lastUpdated": "2021-05-17T21:29:14Z",
+    "stars": 2,
+    "minGameVersion": "126.2",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Small mod that currently only adds turrets focused on scripting."
+  },
+  {
     "repo": "GenericSomeone/rangefinder",
     "name": "Rangefinder",
     "author": "Someone",
@@ -3212,17 +3223,6 @@
     "description": "Mod that places blocks (from mods too) using js"
   },
   {
-    "repo": "LokeYourLord/Extremely-Efficient-Structures",
-    "name": "Extremely-Efficient-Structures",
-    "author": "LokeYourC3PH",
-    "lastUpdated": "2022-01-14T15:45:47Z",
-    "stars": 2,
-    "minGameVersion": "106",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds several OP structures to ruin gameplay."
-  },
-  {
     "repo": "Lepisma-0/Extended-Tech",
     "name": "Extended Tech",
     "author": "Lepisma & Manezoid",
@@ -3232,6 +3232,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\r\nAdds blocks, units and materials following(or at least trying) mindustry style.\r\nAlso contains some unfinished conceps(using json) like tractor beams, ion turrets and more\r\n\r\nThis is under development, i will update it SLOWLY so maybe i take breaks\r\n\r\nNow only works on V7 (v135)\r\n"
+  },
+  {
+    "repo": "LokeYourLord/Extremely-Efficient-Structures",
+    "name": "Extremely-Efficient-Structures",
+    "author": "LokeYourC3PH",
+    "lastUpdated": "2022-01-14T21:28:46Z",
+    "stars": 2,
+    "minGameVersion": "106",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds several OP structures to ruin gameplay."
   },
   {
     "repo": "SirMachinegun/EBM",
@@ -4246,17 +4257,6 @@
     "description": "A fucking portal made out of thin air yeet zerglings into mindustry."
   },
   {
-    "repo": "SomeCoder1/MindustryMod",
-    "name": "Mindustry Mod",
-    "author": "This mod doesn't have a theme, I just add random cool things.",
-    "lastUpdated": "2022-01-08T15:40:48Z",
-    "stars": 1,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod with random things."
-  },
-  {
     "repo": "youngterror3/MindustryJavaMod",
     "name": "Mindustry Java Mod",
     "author": "youngterror3",
@@ -4312,6 +4312,17 @@
     "description": "Arent drills technically supposed to be fast."
   },
   {
+    "repo": "Mnemotechnician/calculus",
+    "name": "[Kotlin] Calculus",
+    "author": "Мнемотехник",
+    "lastUpdated": "2022-01-13T17:01:52Z",
+    "stars": 1,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mindustry mod that adds several utility windows.\n\nYou can create windows by pressing the buttons on the master window.\n\nThis mod is created with the help of MKUI library."
+  },
+  {
     "repo": "MinDoUser/ExtendedMind",
     "name": "ExtendedMind",
     "author": "lol02",
@@ -4321,6 +4332,28 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod that adds some content. \n Not finished yet!"
+  },
+  {
+    "repo": "SomeCoder1/MindustryMod",
+    "name": "Mindustry Mod",
+    "author": "This mod doesn't have a theme, I just add random cool things.",
+    "lastUpdated": "2022-01-14T22:41:27Z",
+    "stars": 1,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod with random things."
+  },
+  {
+    "repo": "Error-In-Code/Relics-Mod",
+    "name": "Relics",
+    "author": "[Error_in_Code]",
+    "lastUpdated": "2022-01-14T23:29:09Z",
+    "stars": 1,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod adding turrets from Mindustry Classic back into the game."
   },
   {
     "repo": "Nikisos/TheBattleMod",
@@ -5797,6 +5830,17 @@
     "description": "\nAdd things that can boost your vanilla experience !\n\nU can follow the advancement of the mod in the official Vanilla-Upgraded discord server !\n\nhttps://discord.gg/TQpdDKn\n\nCo-developer: VozDuh and Summet#4530"
   },
   {
+    "repo": "SMOLKEYS/cursed-units",
+    "name": "Cursed Units",
+    "author": "SMOLKEYS",
+    "lastUpdated": "2022-01-04T06:49:26Z",
+    "stars": 0,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "brain die"
+  },
+  {
     "repo": "Goobrr/Esolite",
     "name": "Esolite",
     "author": "Goobrr",
@@ -5896,17 +5940,6 @@
     "description": "Allows the player to pick a sector to launch from"
   },
   {
-    "repo": "Mnemotechnician/calculus",
-    "name": "[Kotlin] Calculus",
-    "author": "Мнемотехник",
-    "lastUpdated": "2022-01-13T17:01:52Z",
-    "stars": 0,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mindustry mod that adds several utility windows.\n\nYou can create windows by pressing the buttons on the master window.\n\nThis mod is created with the help of MKUI library."
-  },
-  {
     "repo": "zinq7/beacons-yay",
     "name": "Holy Light",
     "author": "zinq",
@@ -5951,17 +5984,6 @@
     "description": "TIR3D 0F N0T W1NN1NG, W4NT T0 W1N E4S1LY?"
   },
   {
-    "repo": "Error-In-Code/Relics-Mod",
-    "name": "Relics",
-    "author": "[Error_in_Code]",
-    "lastUpdated": "2022-01-14T19:45:36Z",
-    "stars": 0,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod adding turrets from Mindustry Classic back into the game."
-  },
-  {
     "repo": "MrDuck557/Esoterum2",
     "name": "Esoterum2",
     "author": "MrDuck557",
@@ -5976,7 +5998,7 @@
     "repo": "ice100k/prismaticExperimental",
     "name": "Prismatic",
     "author": "ice100k & thecrisperson",
-    "lastUpdated": "2022-01-14T20:20:54Z",
+    "lastUpdated": "2022-01-14T21:43:28Z",
     "stars": 0,
     "minGameVersion": "135",
     "hasScripts": false,
