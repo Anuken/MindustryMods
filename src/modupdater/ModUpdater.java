@@ -102,6 +102,11 @@ public class ModUpdater{
                         continue;
                     }
 
+                    if(modjson.getBool("hideBrowser", false)){
+                        Log.info("&lc| &lySkipping, explicitly hidden in browser.");
+                        continue;
+                    }
+
                     //filter icons based on stars to prevent potential abuse
                     if(meta.getInt("stargazers_count", 0) >= 2){
                         var icon = tryImage(name + "/" + branch + "/icon.png", name + "/" + branch + "/assets/icon.png");
