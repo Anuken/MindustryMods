@@ -308,17 +308,6 @@
     "description": "multi\nlibrary mod for multi crafter.\nSupport over Mindustry 6.0 version.\nInstruction is in multi-lib-example"
   },
   {
-    "repo": "MEEPofFaith/prog-mats-java",
-    "name": "Progressed Materials (Java)",
-    "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progressed Materials enabled to view them.)",
-    "lastUpdated": "2022-01-22T07:38:48Z",
-    "stars": 28,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Progressed Materials, but in Java. My main mod, which mostly just adds turrets. I'm just experimenting to see what I can do with the power I hold.\n\nThe name definitely isn't made of the synonyms of \"Advance\" and \"Content\"."
-  },
-  {
     "repo": "Sh1penfire/Endless-Rusting-Demo",
     "name": "Endless Rusting Demo",
     "author": "Sh1penfire",
@@ -328,6 +317,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The place, a desolate wasteland it will become. The crash transformed everything. Wasteland may not be the best word for it, as there is still life, yet so far away from what we normaly expect. \n \n \nWelcome to the Endless Rusting Demo, and thanks to \n Bluphenyx#0001 for the Archangel's conscept and sprite, \n[SK]Roomba#8215 for tesla sprite and helping me playtest, \nQmelZ the Void#0526 for helping me with code, \ncl0cks#0039 for helping me come up with ideas \n \nFor making this posible. This is the oficial demo for it's v8 update. Maps are unfinished, so you should probibly wait for a bit before using the mod. I hope that you have a good time playing, and I'll cya in the past."
+  },
+  {
+    "repo": "MEEPofFaith/prog-mats-java",
+    "name": "Progressed Materials (Java)",
+    "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progressed Materials enabled to view them.)",
+    "lastUpdated": "2022-01-23T00:28:57Z",
+    "stars": 28,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Progressed Materials, but in Java. My main mod, which mostly just adds turrets. I'm just experimenting to see what I can do with the power I hold.\n\nThe name definitely isn't made of the synonyms of \"Advance\" and \"Content\"."
   },
   {
     "repo": "Gdeft/substructure",
@@ -2343,6 +2343,17 @@
     "description": "A mod that added a new content like sectors, turrets, units, item, and more.\n\nChangelogs :\n- Added Chain, Rod, Mini Machinegun, Spliterity\n- Buffed Multi Machinegun, so he can shoot 3\n-Reworked Ocray\n- Fix Verticalizer rotate their shoot\n- Gaving Blocks description\n- Added Slag Extractor\n- Rebalanced every blocks\n- Added soundtrack\n\nCheck GitHub for source. This mod size is around 30MB"
   },
   {
+    "repo": "Kowkodivka/HiddenContent",
+    "name": "Hidden content",
+    "author": "Darkness, Lucin",
+    "lastUpdated": "2022-01-22T10:04:50Z",
+    "stars": 3,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Added new hidden content :eyes:"
+  },
+  {
     "repo": "BlackDeluxeCat/MI2-Utilities",
     "name": "MI2 Utilities",
     "author": "BlackDeluxeCat",
@@ -3254,17 +3265,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Mod that places blocks (from mods too) using js"
-  },
-  {
-    "repo": "Kowkodivka/HiddenContent",
-    "name": "Hidden content",
-    "author": "Darkness, Lucin",
-    "lastUpdated": "2022-01-22T10:04:50Z",
-    "stars": 2,
-    "minGameVersion": "130",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Added new hidden content :eyes:"
   },
   {
     "repo": "MQ-1175/flarogus",
@@ -5929,17 +5929,6 @@
     "description": "Disables flying in bomberman maps"
   },
   {
-    "repo": "nrish/SectorPicker",
-    "name": "Sector Picker",
-    "author": "nrish",
-    "lastUpdated": "2022-01-13T07:30:50Z",
-    "stars": 0,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Allows the player to pick a sector to launch from"
-  },
-  {
     "repo": "zinq7/beacons-yay",
     "name": "Holy Light",
     "author": "zinq",
@@ -6092,5 +6081,16 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "TIR3D 0F N0T W1NN1NG, W4NT T0 W1N E4S1LY?\nAttributions:\n- TheGamer1002"
+  },
+  {
+    "repo": "nrish/SectorPicker",
+    "name": "Sector Picker",
+    "author": "nrish",
+    "lastUpdated": "2022-01-22T21:12:53Z",
+    "stars": 0,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Allows the player to pick a sector to launch from"
   }
 ]
