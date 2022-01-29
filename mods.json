@@ -36,7 +36,7 @@
     "repo": "Yuria-Shikibe/NewHorizonMod",
     "name": "New Horizon",
     "author": "Yuria",
-    "lastUpdated": "2022-01-19T14:12:08Z",
+    "lastUpdated": "2022-01-29T10:58:23Z",
     "stars": 106,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -333,7 +333,7 @@
     "repo": "Eschatologue/Unlimited-Armament-Works",
     "name": "Unlimited Armament Works",
     "author": "Eschatologue",
-    "lastUpdated": "2022-01-29T10:18:57Z",
+    "lastUpdated": "2022-01-29T12:06:53Z",
     "stars": 27,
     "minGameVersion": "134",
     "hasScripts": false,
@@ -411,7 +411,7 @@
     "name": "Sapphirium",
     "author": "Snake & SuperJaba2000",
     "lastUpdated": "2022-01-23T12:52:36Z",
-    "stars": 22,
+    "stars": 23,
     "minGameVersion": "135",
     "hasScripts": true,
     "hasJava": false,
@@ -427,6 +427,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Dagger ate description =(\nDont launch this mod on v7.0, otherwise he will eat you too >=)"
+  },
+  {
+    "repo": "HappyGingerWolf/Inverted-Machines",
+    "name": "Inverted Machines",
+    "author": "GingerWolf and MEEPofFaith",
+    "lastUpdated": "2021-09-26T15:21:08Z",
+    "stars": 21,
+    "minGameVersion": "130.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds inverted versions of crafters."
   },
   {
     "repo": "Xeloboyo/PvP-Notifs",
@@ -449,17 +460,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "oxynoe :>"
-  },
-  {
-    "repo": "HappyGingerWolf/Inverted-Machines",
-    "name": "Inverted Machines",
-    "author": "GingerWolf and MEEPofFaith",
-    "lastUpdated": "2021-09-26T15:21:08Z",
-    "stars": 20,
-    "minGameVersion": "130.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds inverted versions of crafters."
   },
   {
     "repo": "genNAowl/Upgraded-Factories",
@@ -847,6 +847,17 @@
     "description": "This mod adds some basic factory schematics to your Mindustry. Very useful for novices.\nCompatible with multiplayer!"
   },
   {
+    "repo": "spmlk/DreamscapeMod",
+    "name": "Dreamscape Mod",
+    "author": "smk",
+    "lastUpdated": "2021-06-24T05:26:08Z",
+    "stars": 9,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Harness the power of dreams in this content mod."
+  },
+  {
     "repo": "SupremeTurtle/DuoEnhanced",
     "name": "DuoEnhanced",
     "author": "Gwapo",
@@ -861,7 +872,7 @@
     "repo": "uujuju1/project-abyss",
     "name": "Project Abyss",
     "author": "Uujuju",
-    "lastUpdated": "2022-01-29T01:11:02Z",
+    "lastUpdated": "2022-01-29T14:53:18Z",
     "stars": 9,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -902,17 +913,6 @@
     "description": "This mod replaces all texts in the game with random ones."
   },
   {
-    "repo": "spmlk/DreamscapeMod",
-    "name": "Dreamscape Mod",
-    "author": "smk",
-    "lastUpdated": "2021-06-24T05:26:08Z",
-    "stars": 8,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Harness the power of dreams in this content mod."
-  },
-  {
     "repo": "Solokil/V6AdventureU",
     "name": "Solokil Underground Adventure",
     "author": "Solokil",
@@ -944,6 +944,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "No description provided."
+  },
+  {
+    "repo": "FlinTyX/Animalia",
+    "name": "Animalia",
+    "author": "Flin",
+    "lastUpdated": "2022-01-29T14:02:35Z",
+    "stars": 8,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod that contains unique biological forms, blocks, machines and mechanics to discover the world of the Animalia Kingdom!"
   },
   {
     "repo": "bloool/CobaltMod",
@@ -1023,10 +1034,21 @@
     "description": "Adds an unique скат unit branch.\n\nNow in Kotlin!\n\n\nYes, this is a real mod. And you should install it immediately."
   },
   {
+    "repo": "MEEPofFaith/testing-utilities-java",
+    "name": "Testing Utilities",
+    "author": "MEEP of Faith",
+    "lastUpdated": "2022-01-29T12:04:55Z",
+    "stars": 7,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Utilities for testing stuff.\n\nTeam Changer: Change teams easily. (Disabled in campaign)\nSeppuku Button: Kill yourself. Press and hold to mass kill. A setting to make the death instant can be found in game settings.\nClone Button: Instantly clones your player unit. Press and hold to mass clone. (Disabled in campaign)\nHeal Button: Sets your player unit's hp to its max. (Disabled in campaign)\nInvincibility Button: Sets your player unit's hp to infinity. (Disabled in campaign)\nSandbox/Survival Button: Toggles infinite resources. (Disabled in campaign)\nFill/Dump Core: Fill or empty your core of all items. Hold to swap. (Disabled in campaign)\nStatus Menu: Apply/clear status effects to yourself. (Disabled in campaign)\nUnit Menu: Allows you to both spawn units and transform into a different unit. (Disabled in campaign)\n\nA setting for making the menu folded by default can be found in game settings.\n\nAlso increases zooming range."
+  },
+  {
     "repo": "newB7140/duomod",
     "name": "duomod",
     "author": "뉴B",
-    "lastUpdated": "2022-01-29T08:48:28Z",
+    "lastUpdated": "2022-01-29T13:06:32Z",
     "stars": 7,
     "minGameVersion": "122",
     "hasScripts": true,
@@ -1290,23 +1312,12 @@
     "repo": "MindustryInside/L1337n",
     "name": "L1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-01-29T00:40:42Z",
+    "lastUpdated": "2022-01-29T12:18:10Z",
     "stars": 6,
     "minGameVersion": "115",
     "hasScripts": false,
     "hasJava": false,
     "description": "Leet speak localisator."
-  },
-  {
-    "repo": "MEEPofFaith/testing-utilities-java",
-    "name": "Testing Utilities",
-    "author": "MEEP of Faith",
-    "lastUpdated": "2022-01-29T04:25:35Z",
-    "stars": 6,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Utilities for testing stuff.\n\nTeam Changer: Change teams easily. (Disabled in campaign)\nSeppuku Button: Kill yourself. Press and hold to mass kill. A setting to make the death instant can be found in game settings.\nClone Button: Instantly clones your player unit. Press and hold to mass clone. (Disabled in campaign)\nHeal Button: Sets your player unit's hp to its max. (Disabled in campaign)\nInvincibility Button: Sets your player unit's hp to infinity. (Disabled in campaign)\nSandbox/Survival Button: Toggles infinite resources. (Disabled in campaign)\nFill/Dump Core: Fill or empty your core of all items. Hold to swap. (Disabled in campaign)\nStatus Menu: Apply/clear status effects to yourself. (Disabled in campaign)\nUnit Menu: Allows you to both spawn units and transform into a different unit. (Disabled in campaign)\n\nA setting for making the menu folded by default can be found in game settings.\n\nAlso increases zooming range."
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -1549,17 +1560,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds random logic utilities. Praise the cat."
-  },
-  {
-    "repo": "FlinTyX/Animalia",
-    "name": "Animalia",
-    "author": "Flin",
-    "lastUpdated": "2022-01-29T02:59:13Z",
-    "stars": 5,
-    "minGameVersion": "130",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod that contains unique biological forms, blocks, machines and mechanics to discover the world of the Animalia Kingdom!"
   },
   {
     "repo": "als39175/Infinity-Cheat",
@@ -3303,7 +3303,7 @@
     "repo": "liplum/CyberIO",
     "name": "Cyber IO",
     "author": "[#8738ff]Liplum[]",
-    "lastUpdated": "2022-01-29T08:02:52Z",
+    "lastUpdated": "2022-01-29T15:01:56Z",
     "stars": 2,
     "minGameVersion": "126",
     "hasScripts": false,
@@ -3971,17 +3971,6 @@
     "description": "this game with this mod was cursed"
   },
   {
-    "repo": "Auseawesome/MindustryPlus",
-    "name": "Mindustry+",
-    "author": "Auseawesome",
-    "lastUpdated": "2021-09-28T14:40:31Z",
-    "stars": 1,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod made to alter vanilla progression"
-  },
-  {
     "repo": "TotallyLemon/Improved-Core-Units",
     "name": "Improved Core Units",
     "author": "TotallyLemon",
@@ -4024,17 +4013,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "An attempt at modmaking. Maintained by single person\nThis mod serves as my learning ground for hjson. Expect it to be somehow playable\n\nCoding by TheEfficientInefficient\nSprites by THEDR1FTER\n"
-  },
-  {
-    "repo": "Auseawesome/MindustryPlus-AgricultureAddon",
-    "name": "Mindustry+ Agriculture Addon",
-    "author": "Auseawesome",
-    "lastUpdated": "2021-10-16T09:00:11Z",
-    "stars": 1,
-    "minGameVersion": "126.2",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod made to add more plants into Mindustry"
   },
   {
     "repo": "abaines/Kizraks-Radar",
@@ -4422,17 +4400,6 @@
     "description": "A mod that adds some content. \n Not finished yet!"
   },
   {
-    "repo": "12three7/binary",
-    "name": "Binary",
-    "author": "1237",
-    "lastUpdated": "2022-01-29T05:47:39Z",
-    "stars": 1,
-    "minGameVersion": "127",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "0011"
-  },
-  {
     "repo": "12three7/planet",
     "name": "planet",
     "author": "1237",
@@ -4442,6 +4409,39 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "testing source code planet"
+  },
+  {
+    "repo": "Auseawesome/MindustryPlus-AgricultureAddon",
+    "name": "Mindustry+ Agriculture Addon",
+    "author": "Auseawesome",
+    "lastUpdated": "2022-01-29T11:03:23Z",
+    "stars": 1,
+    "minGameVersion": "126.2",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod made to add more plants into Mindustry"
+  },
+  {
+    "repo": "Auseawesome/MindustryPlus",
+    "name": "Mindustry+ Core",
+    "author": "Auseawesome",
+    "lastUpdated": "2022-01-29T13:11:09Z",
+    "stars": 1,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod made to alter vanilla progression"
+  },
+  {
+    "repo": "12three7/binary",
+    "name": "Binary",
+    "author": "1237",
+    "lastUpdated": "2022-01-29T13:42:53Z",
+    "stars": 1,
+    "minGameVersion": "127",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "0011"
   },
   {
     "repo": "Nikisos/TheBattleMod",
@@ -5852,17 +5852,6 @@
     "description": "Allows you to make instant instructions of whatever you want to input. Chip Reader schematic code may be copied from inside the GUI. \n\n(Required DeltaNedas/ui-lib (aka UI Lib) mod, found in Mod Browser.)"
   },
   {
-    "repo": "rly4498/ShardProgression",
-    "name": "Shard's Progression",
-    "author": "Rly4498",
-    "lastUpdated": "2021-12-15T06:19:38Z",
-    "stars": 0,
-    "minGameVersion": "127",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds more tech to help on their journey on the campaign researched and designed by the Sharded Faction alone from their gathered data in remnance of existing tech in Serpulo."
-  },
-  {
     "repo": "chinhonnang/mindustry-mod-scrapdusrty",
     "name": "scrapdustry",
     "author": "initiate",
@@ -6215,10 +6204,21 @@
     "description": "Adds more debugging features and improvements.\n\nFeatures:\n    - Enables the in-game console and sets log level to debug.\n    - Fully customizable log format w/ timestamps.\n    - Reenables colored terminal for Windows and Android.\n    - Chat message translation.\n    - Various other QoL improvements.\n\nSee README.md for more information."
   },
   {
+    "repo": "rly4498/ShardProgression",
+    "name": "Shard's Progression",
+    "author": "Rly4498",
+    "lastUpdated": "2022-01-29T13:41:55Z",
+    "stars": 0,
+    "minGameVersion": "127",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds content that I think is cool and interesting also name of this mod doesn't actually have anything in the progression of campaign lol. \n\n Doesn't have much content for now since I don't expect this to be used in an actual mod campaign run, and also because time management is not in my vocabulary and school, h."
+  },
+  {
     "repo": "GameStuffOffical/MindustryMowerMod",
     "name": "Mindustry Mower Mod",
     "author": "GameStuffOffical",
-    "lastUpdated": "2022-01-29T03:52:51Z",
+    "lastUpdated": "2022-01-29T15:13:52Z",
     "stars": 0,
     "minGameVersion": "126.2",
     "hasScripts": false,
