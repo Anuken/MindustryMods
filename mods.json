@@ -300,7 +300,7 @@
     "repo": "Eschatologue/Unlimited-Armament-Works",
     "name": "Unlimited Armament Works",
     "author": "Eschatologue",
-    "lastUpdated": "2022-02-10T15:04:14Z",
+    "lastUpdated": "2022-02-10T15:56:56Z",
     "stars": 29,
     "minGameVersion": "134",
     "hasScripts": false,
@@ -462,6 +462,17 @@
     "description": "A mod that increase the schematic size limit to 512 blocks!\nVanilla Only!"
   },
   {
+    "repo": "genNAowl/Upgraded-Factories",
+    "name": "Upgraded Factories",
+    "author": "genNAowl",
+    "lastUpdated": "2022-02-02T05:10:24Z",
+    "stars": 20,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds upgraded versions of existing factories."
+  },
+  {
     "repo": "pixecoz/MindustrySchematics",
     "name": "Schematics Pack",
     "author": "pixecoz",
@@ -471,17 +482,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Pack with a lot of schematics for a wide rande of players.\n\nПакет с множеством схем для широкого круга игроков.\n\nHELPERS\nvit_l0g\nQwaka"
-  },
-  {
-    "repo": "genNAowl/Upgraded-Factories",
-    "name": "Upgraded Factories",
-    "author": "genNAowl",
-    "lastUpdated": "2022-02-02T05:10:24Z",
-    "stars": 19,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds upgraded versions of existing factories."
   },
   {
     "repo": "abomb4/dimension-shard",
@@ -3369,7 +3369,7 @@
     "repo": "Txar/DenseCreations",
     "name": "Dense Creations",
     "author": "Txar",
-    "lastUpdated": "2022-02-08T13:09:57Z",
+    "lastUpdated": "2022-02-10T18:49:02Z",
     "stars": 2,
     "minGameVersion": "134",
     "hasScripts": false,
@@ -4356,17 +4356,6 @@
     "description": "A small mod, aimed to expand the endgame progression of Mindustry. Adds new features, such as repulsive units that spawn weather on death or barriers. Thanks to Sh1p for the Severed status sprite."
   },
   {
-    "repo": "MinDoUser/ExtendedMind",
-    "name": "ExtendedMind",
-    "author": "lol02",
-    "lastUpdated": "2022-01-27T16:31:26Z",
-    "stars": 1,
-    "minGameVersion": "130",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod that adds some content. \n Not finished yet!"
-  },
-  {
     "repo": "GameStuffOffical/BalancingIdeasFromdiscord",
     "name": "BalancingIdeasFromdiscord",
     "author": "GameStuffOffical",
@@ -4444,6 +4433,17 @@
     "description": "Перевел: Charger_70s\n\n\n<Новые Конвейери! + Баланс карт!>\n\nОчень интересние и захвативающие приключения ви можете найти здесь!\nПодсказка! Сначала лучше поставить лесопилку первого уровня!"
   },
   {
+    "repo": "Txar/DenseCreationsOld",
+    "name": "Dense Creations",
+    "author": "Txar",
+    "lastUpdated": "2022-02-08T13:09:57Z",
+    "stars": 1,
+    "minGameVersion": "134",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[accent]\"dense\"[] as in [accent]\"stupid\"[].\nHopefully they're not though."
+  },
+  {
     "repo": "VaporSpace2/endrium-2",
     "name": "EndriumMod 2",
     "author": "vapor Space YT & Aegires",
@@ -4480,12 +4480,23 @@
     "repo": "sebmeister2077/GifToLogic",
     "name": "GifToLogic",
     "author": "sebmeister2077",
-    "lastUpdated": "2022-02-10T15:09:25Z",
+    "lastUpdated": "2022-02-10T15:28:28Z",
     "stars": 1,
     "minGameVersion": "120",
     "hasScripts": true,
     "hasJava": false,
     "description": "Still in development(only started since Ian 2022)"
+  },
+  {
+    "repo": "MinDoUser/ExtendedMind",
+    "name": "ExtendedMind",
+    "author": "lol02",
+    "lastUpdated": "2022-02-10T16:51:05Z",
+    "stars": 1,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod that adds some content. \n Not finished yet!"
   },
   {
     "repo": "Nikisos/TheBattleMod",
@@ -6270,17 +6281,6 @@
     "description": "Adds tons of useful content. Mostly adds turrets."
   },
   {
-    "repo": "Sheep-Hugger/Unit-Equipment",
-    "name": "Unit Equipment",
-    "author": "Radiance of Dove",
-    "lastUpdated": "2022-02-10T03:52:12Z",
-    "stars": 0,
-    "minGameVersion": "135",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A factional unit based mod focusing on land units and fortifactation walls, with unit equipment to upgrade any unit"
-  },
-  {
     "repo": "efim-sys/mindustry-flying-crawlers",
     "name": "Flying Crawlers Mod",
     "author": "esys",
@@ -6290,5 +6290,27 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Makes crawlers fly to the sky. AI controller in your schematic menu! Сделано в России"
+  },
+  {
+    "repo": "ThomasThings/SINGULARITY",
+    "name": "<SINGULARITY>",
+    "author": "You",
+    "lastUpdated": "2022-02-10T17:01:35Z",
+    "stars": 0,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
+  },
+  {
+    "repo": "Sheep-Hugger/Unit-Equipment",
+    "name": "Unit Equipment",
+    "author": "Radiance of Dove",
+    "lastUpdated": "2022-02-10T19:35:56Z",
+    "stars": 0,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A factional unit based mod focusing on land units and fortifactation walls, with unit equipment to upgrade any unit"
   }
 ]
