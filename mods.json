@@ -22,17 +22,6 @@
     "description": "Brings back some of that early mindustry charm, can be multiplayered with vanilla\nContributors: VozDuh"
   },
   {
-    "repo": "AureusStratus/ExoGenesis",
-    "name": "Exogenesis",
-    "author": "AureusStratus",
-    "lastUpdated": "2022-02-13T23:53:33Z",
-    "stars": 127,
-    "minGameVersion": "134.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that adds in a butt load of content"
-  },
-  {
     "repo": "Yuria-Shikibe/NewHorizonMod",
     "name": "New Horizon",
     "author": "Yuria",
@@ -242,17 +231,6 @@
     "description": "Progressed Materials, but in Java. My main mod, which mostly just adds turrets. I'm just experimenting to see what I can do with the power I hold.\n\nThe name definitely isn't made of the synonyms of \"Advance\" and \"Content\"."
   },
   {
-    "repo": "Goobrr/Esoterum",
-    "name": "Esoterum",
-    "author": "Goober, Meep, Python, Eldoofus",
-    "lastUpdated": "2022-01-27T14:34:01Z",
-    "stars": 31,
-    "minGameVersion": "132",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "adds a redstone-like wire-based logic system, tailored for making circuits."
-  },
-  {
     "repo": "DeltaNedas/dev-mode",
     "name": "Developer Mode",
     "author": "DeltaNedas",
@@ -262,6 +240,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Lets you type into the console.\nPress F8 to open on PC.\nRequires DeltaNedas/ui-lib on mobile."
+  },
+  {
+    "repo": "Goobrr/Esoterum",
+    "name": "Esoterum",
+    "author": "Goober, Meep, Python, Eldoofus",
+    "lastUpdated": "2022-01-27T14:34:01Z",
+    "stars": 30,
+    "minGameVersion": "132",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "adds a redstone-like wire-based logic system, tailored for making circuits."
   },
   {
     "repo": "abomb4/super-cheat",
@@ -278,7 +267,7 @@
     "repo": "Eschatologue/Unlimited-Armament-Works",
     "name": "Unlimited Armament Works",
     "author": "Eschatologue",
-    "lastUpdated": "2022-02-13T15:22:49Z",
+    "lastUpdated": "2022-02-14T08:43:32Z",
     "stars": 30,
     "minGameVersion": "134",
     "hasScripts": false,
@@ -751,7 +740,7 @@
     "repo": "SMOLKEYS/yellow-java",
     "name": "Yellow (Java)",
     "author": "SMOLKEYS",
-    "lastUpdated": "2022-02-13T15:24:41Z",
+    "lastUpdated": "2022-02-14T04:37:54Z",
     "stars": 11,
     "minGameVersion": "129",
     "hasScripts": false,
@@ -1334,12 +1323,12 @@
     "repo": "BlackDeluxeCat/MI2-Utilities",
     "name": "MI2 Utilities",
     "author": "BlackDeluxeCat",
-    "lastUpdated": "2022-02-13T11:33:13Z",
+    "lastUpdated": "2022-02-14T06:08:14Z",
     "stars": 6,
     "minGameVersion": "132",
     "hasScripts": true,
     "hasJava": false,
-    "description": "A Mindustry Mod That Adds Useful Vanilla Utilities. \nMI2-Client Transplantation.\n\nMindustry模组，添加一些实用原版辅助。MI2端移植。"
+    "description": "# MI2-Utilities Testing\nA Mindustry Mod That Adds Useful Vanilla Utilities. MI2-Client Transplantation.\nMindustry模组，添加一些实用原版辅助。MI2端移植。\n（MI2端的终极目标是Mod化，本Mod是MI2端移植的尝试。会添加怪浪怪浪的新功能。）\n\n# Features 特性列表（won't timely update 不会即时更新）\n1.Hud: /sync, rebuild all, map info entry, MI2's unit hp bar\n2.Map Info(Dialog): check map settings & wave info.\n3.Logic Helper: UI in LogicDialog. Check and sort all var names, split names into snippets with a certain string, click to copy any snippet.\n4.Drag the title to move UI.\n==\n1.HUD界面：/sync，一键重建，地图信息入口，MI2式单位血条显示\n2.地图信息：检视大部分地图属性、下一波出怪情况\n3.逻辑辅助：ui在逻辑编辑器。检视、整理变量名，可使用分隔符对变量名切片。点击切片可复制到剪切板。\n4.UI按住标题拖拽"
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -2486,6 +2475,17 @@
     "description": "Provides lots of Cyber-tech!!!"
   },
   {
+    "repo": "Error-In-Code/Relics-Mod",
+    "name": "Relics",
+    "author": "[Error_in_Code]",
+    "lastUpdated": "2022-02-12T17:48:53Z",
+    "stars": 3,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod adding turrets from Mindustry Classic back into the game."
+  },
+  {
     "repo": "RebornTrack970/Sandbox-Mode",
     "name": "Sandbox Mode",
     "author": "RTOmega",
@@ -3366,17 +3366,6 @@
     "description": "[accent]\"dense\"[] as in [accent]\"stupid\"[].\nHopefully they're not though."
   },
   {
-    "repo": "Error-In-Code/Relics-Mod",
-    "name": "Relics",
-    "author": "[Error_in_Code]",
-    "lastUpdated": "2022-02-12T17:48:53Z",
-    "stars": 2,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod adding turrets from Mindustry Classic back into the game."
-  },
-  {
     "repo": "SirMachinegun/EBM",
     "name": "Experimental Blocks",
     "author": "SirMachinegun (EMPEROR#5403)",
@@ -3463,17 +3452,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod that makes the game V5 ish by making you unable to capture."
-  },
-  {
-    "repo": "Sheep-Hugger/Silver-spirit-Sphere",
-    "name": "Silver spirit Sphere",
-    "author": "Sheep hugger",
-    "lastUpdated": "2020-12-29T23:32:04Z",
-    "stars": 1,
-    "minGameVersion": "120.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A Mod adding a very hard to mine resource"
   },
   {
     "repo": "Leyn-pl/TheWorstMod2",
@@ -4488,17 +4466,6 @@
     "description": "the music for project abyss"
   },
   {
-    "repo": "12three7/Binary0011Java",
-    "name": "Binary 0011",
-    "author": "1237",
-    "lastUpdated": "2022-02-13T09:10:28Z",
-    "stars": 1,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "0011"
-  },
-  {
     "repo": "SomeCoder1/MindustryMod",
     "name": "Mindustry Mod",
     "author": "This mod doesn't have a theme, I just add random cool things.",
@@ -4510,6 +4477,17 @@
     "description": "A Mindustry Java mod with random things."
   },
   {
+    "repo": "ThomasThings/SINGULARITY",
+    "name": "<SINGULARITY>",
+    "author": "You",
+    "lastUpdated": "2022-02-13T20:32:58Z",
+    "stars": 1,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
+  },
+  {
     "repo": "sebmeister2077/GifToLogic",
     "name": "GifToLogic",
     "author": "sebmeister2077",
@@ -4519,6 +4497,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Still in development(only started since Ian 2022)"
+  },
+  {
+    "repo": "12three7/Binary0011Java",
+    "name": "Binary 0011",
+    "author": "1237",
+    "lastUpdated": "2022-02-14T09:54:55Z",
+    "stars": 1,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "0011"
   },
   {
     "repo": "Nikisos/TheBattleMod",
@@ -5247,17 +5236,6 @@
     "description": "Bigger versions of basic blocks. Because I can."
   },
   {
-    "repo": "gamerred/killer-drills",
-    "name": "Killer Drill",
-    "author": "gamerredx",
-    "lastUpdated": "2021-06-08T17:38:22Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that adds small drills. A part of my elementary mod."
-  },
-  {
     "repo": "KerbalBoy/mindustry-test-mod",
     "name": "TestMod",
     "author": "KerbalBoy",
@@ -5808,17 +5786,6 @@
     "description": "I make remake of my first mod on 5.0 (5.0 version of mod bad)"
   },
   {
-    "repo": "BalaM314/mindustry-magic-mod",
-    "name": "Mindustry Magic Mod",
-    "author": "BalaM314",
-    "lastUpdated": "2021-12-04T08:14:09Z",
-    "stars": 0,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds some magic to mindustry... soon"
-  },
-  {
     "repo": "Antlrr/atrac",
     "name": "Atrac",
     "author": "Antlrr",
@@ -6356,17 +6323,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Still in development(only started since Ian 2022)"
-  },
-  {
-    "repo": "ThomasThings/SINGULARITY",
-    "name": "<SINGULARITY>",
-    "author": "You",
-    "lastUpdated": "2022-02-13T20:32:58Z",
-    "stars": 0,
-    "minGameVersion": "129",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "CharlieGregg314/mindustry-mod-test",
