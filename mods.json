@@ -36,7 +36,7 @@
     "repo": "Yuria-Shikibe/NewHorizonMod",
     "name": "New Horizon",
     "author": "Yuria",
-    "lastUpdated": "2022-02-15T09:34:44Z",
+    "lastUpdated": "2022-02-15T12:02:15Z",
     "stars": 112,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -839,7 +839,7 @@
     "repo": "uujuju1/project-abyss",
     "name": "Project Abyss",
     "author": "Uujuju",
-    "lastUpdated": "2022-02-14T16:53:22Z",
+    "lastUpdated": "2022-02-15T13:07:02Z",
     "stars": 10,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -1331,17 +1331,6 @@
     "description": "Powered by hjson. Access is completely open to everyone, use the modification data as you want. \n\nРаботает на hjson. Доступ полностью открыт для всех, используйте данные мода так, как хотите."
   },
   {
-    "repo": "WMF-Industries/ExpandedIndustries",
-    "name": "Expanded Industries",
-    "author": "WMF Industries Mod Team",
-    "lastUpdated": "2022-02-14T23:53:07Z",
-    "stars": 6,
-    "minGameVersion": "126.2",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Chaos."
-  },
-  {
     "repo": "BlackDeluxeCat/MI2-Utilities",
     "name": "MI2 Utilities",
     "author": "BlackDeluxeCat",
@@ -1351,6 +1340,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "# MI2-Utilities Testing\nA Mindustry Mod That Adds Useful Vanilla Utilities. MI2-Client Transplantation.\nMindustry模组，添加一些实用原版辅助。MI2端移植。\n（MI2端的终极目标是Mod化，本Mod是MI2端移植的尝试。会添加怪浪怪浪的新功能。）\n\n# Features 特性列表（won't timely update 不会即时更新）\n1.Hud: /sync, rebuild all, map info entry, MI2's unit hp bar\n2.Map Info(Dialog): check map settings & wave info.\n3.Logic Helper: UI in LogicDialog. Check and sort all var names, split names into snippets with a certain string, click to copy any snippet.\n4.Drag the title to move UI.\n==\n1.HUD界面：/sync，一键重建，地图信息入口，MI2式单位血条显示\n2.地图信息：检视大部分地图属性、下一波出怪情况\n3.逻辑辅助：ui在逻辑编辑器。检视、整理变量名，可使用分隔符对变量名切片。点击切片可复制到剪切板。\n4.UI按住标题拖拽"
+  },
+  {
+    "repo": "WMF-Industries/ExpandedIndustries",
+    "name": "Expanded Industries",
+    "author": "WMF Industries Mod Team",
+    "lastUpdated": "2022-02-15T15:08:09Z",
+    "stars": 6,
+    "minGameVersion": "126.2",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Chaos."
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -4444,17 +4444,6 @@
     "description": "[accent]\"dense\"[] as in [accent]\"stupid\"[].\nHopefully they're not though."
   },
   {
-    "repo": "Swirek3331/Altanic",
-    "name": "Altanic",
-    "author": "swirek3331",
-    "lastUpdated": "2022-02-10T08:15:43Z",
-    "stars": 1,
-    "minGameVersion": "130",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Mindustry mod that adds alternative methods to make already existing item. Modification also change vanilla content requirements like you need first make iron and steel to unlock plastanium compressor"
-  },
-  {
     "repo": "VaporSpace2/endrium-2",
     "name": "EndriumMod 2",
     "author": "vapor Space YT & Aegires",
@@ -4521,10 +4510,21 @@
     "description": "Still in development(only started since Ian 2022)"
   },
   {
+    "repo": "12three7/Binary0011Java",
+    "name": "Binary 0011",
+    "author": "1237",
+    "lastUpdated": "2022-02-15T14:03:32Z",
+    "stars": 1,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "0011"
+  },
+  {
     "repo": "ThomasThings/SINGULARITY",
     "name": "<SINGULARITY>",
-    "author": "You",
-    "lastUpdated": "2022-02-15T02:18:46Z",
+    "author": "your mother",
+    "lastUpdated": "2022-02-15T15:11:40Z",
     "stars": 1,
     "minGameVersion": "129",
     "hasScripts": false,
@@ -4532,15 +4532,15 @@
     "description": "A Mindustry Java mod template."
   },
   {
-    "repo": "12three7/Binary0011Java",
-    "name": "Binary 0011",
-    "author": "1237",
-    "lastUpdated": "2022-02-15T09:37:31Z",
+    "repo": "Swirek3331/Altanic",
+    "name": "Altanic",
+    "author": "swirek3331",
+    "lastUpdated": "2022-02-15T15:19:27Z",
     "stars": 1,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "0011"
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Mindustry mod that adds alternative methods to make already existing item. Modification also change vanilla content requirements like you need first make iron and steel to unlock plastanium compressor"
   },
   {
     "repo": "Nikisos/TheBattleMod",
