@@ -26,7 +26,7 @@
     "name": "Exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2022-03-03T06:14:00Z",
-    "stars": 128,
+    "stars": 129,
     "minGameVersion": "134.1",
     "hasScripts": false,
     "hasJava": false,
@@ -246,7 +246,7 @@
     "name": "Unlimited Armament Works",
     "author": "Eschatologue",
     "lastUpdated": "2022-03-02T14:15:17Z",
-    "stars": 33,
+    "stars": 34,
     "minGameVersion": "135",
     "hasScripts": false,
     "hasJava": true,
@@ -880,6 +880,17 @@
     "description": "A Mindustry Java mod that im working on."
   },
   {
+    "repo": "AureusStratus/Advancements",
+    "name": "Advancements",
+    "author": "AureusStratus",
+    "lastUpdated": "2022-03-03T02:10:01Z",
+    "stars": 9,
+    "minGameVersion": "134.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that expands apon vanilla"
+  },
+  {
     "repo": "sk7725/Immundustry",
     "name": "Immundustry",
     "author": "sk7725",
@@ -988,17 +999,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
-  },
-  {
-    "repo": "AureusStratus/Advancements",
-    "name": "Advancements",
-    "author": "AureusStratus",
-    "lastUpdated": "2022-03-03T02:10:01Z",
-    "stars": 8,
-    "minGameVersion": "134.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that expands apon vanilla"
   },
   {
     "repo": "EclipseTheOldOne/Project-Tvakot",
@@ -1364,17 +1364,6 @@
     "description": "Calculate the rates and ratios of your machinations!\n\nThis mod will allow you to easily calculate the amount of resources your factory needs and how much it's producing"
   },
   {
-    "repo": "liplum/CyberIO",
-    "name": "Cyber IO",
-    "author": "[#8738ff]Liplum[]",
-    "lastUpdated": "2022-03-02T14:04:10Z",
-    "stars": 6,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Provides lots of Cyber-tech!!!"
-  },
-  {
     "repo": "L0615T1C5-216AC-9437/MaxRateCalculatorV6",
     "name": "Max Rate Calculator (V6 v126.2)",
     "author": "L0615T1C5.216AC#9437",
@@ -1389,12 +1378,23 @@
     "repo": "MindustryInside/L1337n",
     "name": "L1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-03-03T00:55:23Z",
+    "lastUpdated": "2022-03-03T12:22:18Z",
     "stars": 6,
     "minGameVersion": "115",
     "hasScripts": false,
     "hasJava": false,
     "description": "Leet speak localisator."
+  },
+  {
+    "repo": "liplum/CyberIO",
+    "name": "Cyber IO",
+    "author": "[#8738ff]Liplum[]",
+    "lastUpdated": "2022-03-03T15:04:14Z",
+    "stars": 6,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Provides lots of Cyber-tech!!!"
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -3456,8 +3456,8 @@
   {
     "repo": "ExplerHD/EnerLect-tech",
     "name": "EnerLect Industries",
-    "author": "ExplerHD",
-    "lastUpdated": "2022-03-03T10:27:55Z",
+    "author": "ExplerHD, 1237",
+    "lastUpdated": "2022-03-03T15:02:17Z",
     "stars": 2,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -4598,17 +4598,6 @@
     "description": "A java mod for Mindustry."
   },
   {
-    "repo": "6666dustry/more-separator",
-    "name": "more-separator",
-    "author": "many bear",
-    "lastUpdated": "2022-03-03T10:28:23Z",
-    "stars": 1,
-    "minGameVersion": "125",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "add 0 separator"
-  },
-  {
     "repo": "Nikisos/TheBattleMod",
     "name": "Battle Comveyors",
     "author": "Nikisos",
@@ -4882,6 +4871,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "The Oh No Mod"
+  },
+  {
+    "repo": "Ovcaa/Parasha-2.0",
+    "name": "Parasha 2.0",
+    "author": "Ovca",
+    "lastUpdated": "2021-02-08T13:07:04Z",
+    "stars": 0,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Новая параша от степашы хуетряса."
   },
   {
     "repo": "MMT007/Dustry-Verse",
@@ -6554,5 +6554,27 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "... far beneath the reality."
+  },
+  {
+    "repo": "6666dustry/more-separator",
+    "name": "more-separator",
+    "author": "many bear",
+    "lastUpdated": "2022-03-03T10:35:18Z",
+    "stars": 0,
+    "minGameVersion": "125",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "add 0 separator"
+  },
+  {
+    "repo": "DivisionByZero80/mindustry-launchpads",
+    "name": "Launchpad Destination Changer",
+    "author": "DivisionByZero",
+    "lastUpdated": "2022-03-03T14:52:21Z",
+    "stars": 0,
+    "minGameVersion": "126",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Change selected sector export destination from planet screen"
   }
 ]
