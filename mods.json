@@ -660,17 +660,6 @@
     "description": "Play with classic Mindustry music (from v3.3r27, v3.5r40, and v5)! For Mindustry v6."
   },
   {
-    "repo": "xjamiex/infinite-program",
-    "name": "Infinite Program",
-    "author": "xJamix",
-    "lastUpdated": "2021-10-05T13:05:19Z",
-    "stars": 12,
-    "minGameVersion": "123",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "a mod that adds more content wich is a great example for noobies to modding :D"
-  },
-  {
     "repo": "ThirstyBoi/Abominations",
     "name": "Abominations - TexturePack",
     "author": "Thristy",
@@ -1147,7 +1136,7 @@
     "repo": "WMF-Industries/ExpandedIndustries",
     "name": "Expanded Industries",
     "author": "WMF Industries Mod Team",
-    "lastUpdated": "2022-03-02T20:21:17Z",
+    "lastUpdated": "2022-03-02T23:15:34Z",
     "stars": 7,
     "minGameVersion": "127",
     "hasScripts": true,
@@ -1353,10 +1342,21 @@
     "description": "Calculate the rates and ratios of your machinations!\n\nThis mod will allow you to easily calculate the amount of resources your factory needs and how much it's producing"
   },
   {
+    "repo": "liplum/CyberIO",
+    "name": "Cyber IO",
+    "author": "[#8738ff]Liplum[]",
+    "lastUpdated": "2022-03-02T14:04:10Z",
+    "stars": 6,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Provides lots of Cyber-tech!!!"
+  },
+  {
     "repo": "L0615T1C5-216AC-9437/MaxRateCalculatorV6",
     "name": "Max Rate Calculator (V6 v126.2)",
     "author": "L0615T1C5.216AC#9437",
-    "lastUpdated": "2022-02-28T15:15:39Z",
+    "lastUpdated": "2022-03-02T21:04:49Z",
     "stars": 6,
     "minGameVersion": "126",
     "hasScripts": false,
@@ -1367,23 +1367,12 @@
     "repo": "MindustryInside/L1337n",
     "name": "L1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-03-02T12:21:34Z",
+    "lastUpdated": "2022-03-03T00:55:23Z",
     "stars": 6,
     "minGameVersion": "115",
     "hasScripts": false,
     "hasJava": false,
     "description": "Leet speak localisator."
-  },
-  {
-    "repo": "liplum/CyberIO",
-    "name": "Cyber IO",
-    "author": "[#8738ff]Liplum[]",
-    "lastUpdated": "2022-03-02T14:04:10Z",
-    "stars": 6,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Provides lots of Cyber-tech!!!"
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -1659,6 +1648,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The place, a desolate wasteland it will become. The crash transformed everything. Wasteland may not be the best word for it, as there is still life, yet so far away from what we normaly expect. \n \n \nWelcome to the Endless Rusting, and thanks to \n Bluphenyx#0001 for the Archangel's conscept and sprite, \n[SK]Roomba#8215 for tesla sprite and helping me playtest, \nAureus#6109 for lending me a hand with some of the status effect icons, \nQmelZ the Void#0526 for helping me with code, \ncl0cks#0039 for helping me come up with ideas \n \nFor making this posible. It may be a small mod, but it'll improve and grow as the months pass. I hope that you have a good time playing, and I'll cya in the past. \n\n(Note: Download from github repository, reinstall/download will not work)"
+  },
+  {
+    "repo": "AureusStratus/Advancements",
+    "name": "Advancements",
+    "author": "AureusStratus",
+    "lastUpdated": "2022-03-03T00:57:34Z",
+    "stars": 5,
+    "minGameVersion": "134.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that expands apon vanilla"
   },
   {
     "repo": "als39175/Infinity-Cheat",
@@ -2511,7 +2511,7 @@
     "repo": "Timshh/MBT",
     "name": "MBT",
     "author": "Timshh",
-    "lastUpdated": "2022-02-28T14:40:07Z",
+    "lastUpdated": "2022-03-02T22:00:01Z",
     "stars": 3,
     "minGameVersion": "135",
     "hasScripts": true,
@@ -2522,7 +2522,7 @@
     "repo": "VaporSpace2/endrium-2",
     "name": "EndriumMod 2",
     "author": "vapor Space YT & Aegires",
-    "lastUpdated": "2022-03-02T17:16:42Z",
+    "lastUpdated": "2022-03-03T01:18:26Z",
     "stars": 3,
     "minGameVersion": "130",
     "hasScripts": false,
@@ -3432,17 +3432,6 @@
     "description": "# MI2-Utilities Testing\nA Mindustry Java mod. Useful vanilla tools built in Mindustry-window. MI2-Client sublimation.\nMindustry Java模组，添加实用原版工具，以特殊窗体承载。MI2端的升华。（MI2端的终极目标是Mod化，将会更高、更强。）\n中文讨论群：875035496\n\n# Features 特性列表（won't timely update 不会即时更新）\n1. UI Frame: Mindow2. Window with a powerful title bar, making it possible to drag & move, minimize, form snap links, add custom helpinfo, ect. Most of the config of Mindow2 can be saved to file, and loaded on each start. \n   ('Mindow2' has been used, so 'Mindow2' is much more reasonable, not just representing author name MyIndustry2,,,)\n2. Function Mindow2s: Main UI, Logic Helper, Core Info, Emojis Table, etc. Please check helpinfo.\n==\n1. 特色窗体框架：Mindow2。窗体具有功能丰富的标题栏，可以拖拽移动、最小化内容、形成吸附链、附代帮助信息等。大部分窗体配置可保存供启动使用。\n   （恰好其他Modder使用过'Mindow'一词，因此命名'Mindow2'情理之中，绝不仅仅是为了映射作者MyIndustry2名字。）\n2. 基于Mindow2的功能窗体：主UI、逻辑辅助、进阶核心资源栏、Emojis键入器等。具体功能请查看帮助信息。"
   },
   {
-    "repo": "12three7/Binary0011Java",
-    "name": "Binary 0011",
-    "author": "1237",
-    "lastUpdated": "2022-03-02T12:55:00Z",
-    "stars": 2,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "An Example of a Simple Java Mod for Mindustry V7"
-  },
-  {
     "repo": "Swirek3331/Altanic",
     "name": "Altanic",
     "author": "swirek3331",
@@ -3452,6 +3441,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Mindustry mod that adds alternative methods to make already existing item. Modification also change vanilla content requirements like you need first make iron and steel to unlock plastanium compressor"
+  },
+  {
+    "repo": "12three7/Binary0011Java",
+    "name": "Binary 0011",
+    "author": "1237",
+    "lastUpdated": "2022-03-03T00:19:53Z",
+    "stars": 2,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "An Example of a Simple Java Mod for Mindustry V7"
   },
   {
     "repo": "SirMachinegun/EBM",
@@ -4563,6 +4563,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a few smaller units parallel to the Flare and Mono tiers."
+  },
+  {
+    "repo": "Arkanicjs/Project-Dust-Industry",
+    "name": "Dust Industry",
+    "author": "Arkanic",
+    "lastUpdated": "2022-03-03T01:25:32Z",
+    "stars": 1,
+    "minGameVersion": "126.2",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Un mod con Historia y secretos que proximamente seran revelados."
   },
   {
     "repo": "Nikisos/TheBattleMod",
@@ -6512,17 +6523,6 @@
     "description": "Sir, *mines copper*"
   },
   {
-    "repo": "6666dustry/more-separator",
-    "name": "more-separator",
-    "author": "many bear",
-    "lastUpdated": "2022-03-02T10:57:12Z",
-    "stars": 0,
-    "minGameVersion": "125",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "add 0 separator"
-  },
-  {
     "repo": "rlzzj/MinerTools",
     "name": "MinerTools",
     "author": "miner",
@@ -6543,5 +6543,16 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "... far beneath the reality."
+  },
+  {
+    "repo": "6666dustry/more-separator",
+    "name": "more-separator",
+    "author": "many bear",
+    "lastUpdated": "2022-03-02T23:45:44Z",
+    "stars": 0,
+    "minGameVersion": "125",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "add 0 separator"
   }
 ]
