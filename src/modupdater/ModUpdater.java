@@ -138,7 +138,10 @@ public class ModUpdater{
                     Jval obj = Jval.read("{}");
                     //how
                     if(!modj.isObject()) continue;
-                    String displayName = Strings.stripColors(modj.getString("displayName", "")).replace("\\n", "");
+                    String displayName = Strings.stripColors(defaults(
+                            modj.getString("browserName"),
+                            modj.getString("displayName")
+                    )).replace("\\n", "");
                     if(displayName.isEmpty()) displayName = gm.getString("name");
 
                     //skip outdated mods
@@ -160,13 +163,21 @@ public class ModUpdater{
 
                     obj.add("repo", name);
                     obj.add("name", metaName);
-                    obj.add("author", Strings.stripColors(modj.getString("author", gm.get("owner").get("login").toString())));
+                    obj.add("author", Strings.stripColors(defaults(
+                            modj.getString("browserAuthor"),
+                            modj.getString("author"),
+                            gm.get("owner").get("login").toString()
+                    )));
                     obj.add("lastUpdated", gm.get("pushed_at"));
                     obj.add("stars", gm.get("stargazers_count"));
                     obj.add("minGameVersion", version);
                     obj.add("hasScripts", Jval.valueOf(lang.equals("JavaScript")));
                     obj.add("hasJava", Jval.valueOf(modj.getBool("java", false) || javaLangs.contains(lang)));
-                    obj.add("description", Strings.stripColors(modj.getString("description", "No description provided.")));
+                    obj.add("description", Strings.stripColors(defaults(
+                            modj.getString("browserDescription"),
+                            modj.getString("description"),
+                            "No description provided."
+                    )));
                     array.asArray().add(obj);
                 }catch(Exception e){
                     //ignore horribly malformed json
@@ -189,6 +200,17 @@ public class ModUpdater{
             .block(out -> result[0] = Jval.read(out.getResultAsString()));
         }
         return result[0];
+    }
+    /**Return first not null value*/
+    <T> T defaults(T... values){
+        for (T value : values) {
+            if (value == null) {
+                continue;
+            }else{
+                return value;
+            }
+        }
+        return null;
     }
 
     BufferedImage tryImage(String... queries){
