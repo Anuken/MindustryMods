@@ -168,7 +168,7 @@
     "repo": "Sharlottes/UnitInfo",
     "name": "Unit Information",
     "author": "Sharlotte",
-    "lastUpdated": "2022-01-10T21:41:47Z",
+    "lastUpdated": "2022-04-05T12:02:32Z",
     "stars": 44,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -792,6 +792,17 @@
     "description": "Adds additional contents\nSuch as units factories and more\nFor further Description Please Read README.md"
   },
   {
+    "repo": "EB-wilson/Singularity",
+    "name": "Singularity",
+    "author": "EBwilson",
+    "lastUpdated": "2022-04-02T15:24:44Z",
+    "stars": 11,
+    "minGameVersion": "133",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A large tech mod, creative things that gases, atmosphere system, and the nuclear energy system, and more things you can interested\n\n大型科技向mod，创新的气体与大气机制，核能量系统以及更多你会感兴趣的东西"
+  },
+  {
     "repo": "Ferlern/extended-UI",
     "name": "extended UI",
     "author": "wizer",
@@ -913,17 +924,6 @@
     "description": "Trying Kotlin."
   },
   {
-    "repo": "EB-wilson/Singularity",
-    "name": "Singularity",
-    "author": "EBwilson",
-    "lastUpdated": "2022-04-02T15:24:44Z",
-    "stars": 10,
-    "minGameVersion": "133",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A large tech mod, creative things that gases, atmosphere system, and the nuclear energy system, and more things you can interested\n\n大型科技向mod，创新的气体与大气机制，核能量系统以及更多你会感兴趣的东西"
-  },
-  {
     "repo": "spmlk/DreamscapeMod",
     "name": "Dreamscape Mod",
     "author": "smk",
@@ -944,6 +944,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "# MI2-Utilities Testing\nA Mindustry Mod That Adds Useful Vanilla Utilities. MI2-Client Transplantation.\nMindustry模组，添加一些实用原版辅助。MI2端移植。\n（MI2端的终极目标是Mod化，本Mod是MI2端移植的尝试。会添加怪浪怪浪的新功能。）\n\n# Features 特性列表（won't timely update 不会即时更新）\n1.Hud: /sync, rebuild all, map info entry, MI2's unit hp bar\n2.Map Info(Dialog): check map settings & wave info.\n3.Logic Helper: UI in LogicDialog. Check and sort all var names, split names into snippets with a certain string, click to copy any snippet.\n4.Drag the title to move UI.\n==\n1.HUD界面：/sync，一键重建，地图信息入口，MI2式单位血条显示\n2.地图信息：检视大部分地图属性、下一波出怪情况\n3.逻辑辅助：ui在逻辑编辑器。检视、整理变量名，可使用分隔符对变量名切片。点击切片可复制到剪切板。\n4.UI按住标题拖拽"
+  },
+  {
+    "repo": "EB-wilson/UniverseCore",
+    "name": "Universe Core",
+    "author": "EBwilson",
+    "lastUpdated": "2022-04-02T15:30:07Z",
+    "stars": 9,
+    "minGameVersion": "127",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
   },
   {
     "repo": "sk7725/Immundustry",
@@ -1054,17 +1065,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Provides lots of cybernetic things!!!"
-  },
-  {
-    "repo": "EB-wilson/UniverseCore",
-    "name": "Universe Core",
-    "author": "EBwilson",
-    "lastUpdated": "2022-04-02T15:30:07Z",
-    "stars": 8,
-    "minGameVersion": "127",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
   },
   {
     "repo": "BlackDeluxeCat/MI2-Utilities-Java",
@@ -1213,7 +1213,7 @@
     "repo": "MindustryInside/L1337n",
     "name": "L1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-04-05T00:58:20Z",
+    "lastUpdated": "2022-04-05T12:21:33Z",
     "stars": 7,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -1362,6 +1362,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Prismatic introduces lots of new technology capable of bending the very fabrics of reality.. \n - Java version in development"
+  },
+  {
+    "repo": "Yuria-Shikibe/GameInfoImager",
+    "name": "Game Info Imager",
+    "author": "Yuria",
+    "lastUpdated": "2022-02-15T07:39:30Z",
+    "stars": 6,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Show the range of turrets and units.\nShow the units the next wave will spawn."
   },
   {
     "repo": "L0615T1C5-216AC-9437/MaxRateCalculator",
@@ -1615,17 +1626,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mindustry mod that adds several utility windows.\n\nYou can create windows by pressing the buttons on the master window.\n\nThis mod is created with the help of MKUI library."
-  },
-  {
-    "repo": "Yuria-Shikibe/GameInfoImager",
-    "name": "Game Info Imager",
-    "author": "Yuria",
-    "lastUpdated": "2022-02-15T07:39:30Z",
-    "stars": 5,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Show the range of turrets and units.\nShow the units the next wave will spawn."
   },
   {
     "repo": "Mnemotechnician/New-Controls-Public",
@@ -3553,17 +3553,6 @@
     "description": "Adds a few smaller units parallel to the Flare tiers."
   },
   {
-    "repo": "Swirek3331/Altanic",
-    "name": "Altanic",
-    "author": "swirek3331",
-    "lastUpdated": "2022-04-04T07:40:51Z",
-    "stars": 2,
-    "minGameVersion": "130",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Modyfikacja zmieniająca mindustry. Czyli dodaję receptury używające przedmiotów z modu tworząć rzeczy z mindustry"
-  },
-  {
     "repo": "I-hope1/mod.make",
     "name": "mod.make",
     "author": "I hope...",
@@ -3595,6 +3584,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "router,  stuff and thongs, god my brain hurts"
+  },
+  {
+    "repo": "Swirek3331/Altanic",
+    "name": "Altanic",
+    "author": "swirek3331",
+    "lastUpdated": "2022-04-05T15:22:52Z",
+    "stars": 2,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Modyfikacja zmieniająca mindustry. Czyli dodaję receptury używające przedmiotów z modu tworząć rzeczy z mindustry"
   },
   {
     "repo": "SirMachinegun/EBM",
@@ -6710,17 +6710,6 @@
     "description": "Another Roleplay utility that allows you to keep track of certain stats like Ammo, Health, etc."
   },
   {
-    "repo": "Swirek3331/ZPGM-Connector",
-    "name": "ZPGM-Connector",
-    "author": "swirek3331",
-    "lastUpdated": "2022-03-30T15:29:58Z",
-    "stars": 0,
-    "minGameVersion": "130",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Only zpgm mebers will understand. Łączy wszystkie mody z klanu ZPGM, ta łaczy... Ikona na czas obecny jest przerobieniem dzieła Omnoma."
-  },
-  {
     "repo": "bendnuts/experience",
     "name": "experience",
     "author": "bendn",
@@ -6765,6 +6754,17 @@
     "description": "\nAdd things that can boost your vanilla experience !\n\nU can follow the advancement of the mod in the official Vanilla-Upgraded discord server !\n\nhttps://discord.gg/TQpdDKn\n\nCo-developer: VozDuh and Summet#4530"
   },
   {
+    "repo": "JiroCab/FaceBookGlass",
+    "name": "FaceBook Glass",
+    "author": "Rush/JiroDoesStuff",
+    "lastUpdated": "2022-04-04T12:20:28Z",
+    "stars": 0,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Meta is evolving just backwards \n Im not sorry"
+  },
+  {
     "repo": "Ka4ok52/F-MOD",
     "name": "F-MOD",
     "author": "Ka4ok52_",
@@ -6785,5 +6785,16 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java Mod that adds powerful things to the game."
+  },
+  {
+    "repo": "Swirek3331/ZPGM-Connector",
+    "name": "ZPGM-Connector",
+    "author": "swirek3331",
+    "lastUpdated": "2022-04-05T15:22:40Z",
+    "stars": 0,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Only zpgm mebers will understand. Łączy wszystkie mody z klanu ZPGM, ta łaczy... Ikona na czas obecny jest przerobieniem dzieła Omnoma."
   }
 ]
