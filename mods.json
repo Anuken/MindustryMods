@@ -26,7 +26,7 @@
     "name": "Exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2022-04-11T00:06:11Z",
-    "stars": 132,
+    "stars": 133,
     "minGameVersion": "134.1",
     "hasScripts": false,
     "hasJava": false,
@@ -487,7 +487,7 @@
     "repo": "FlinTyX/Animalia",
     "name": "Animalia",
     "author": "Flin",
-    "lastUpdated": "2022-04-11T04:48:26Z",
+    "lastUpdated": "2022-04-16T19:21:34Z",
     "stars": 20,
     "minGameVersion": "130",
     "hasScripts": true,
@@ -1067,17 +1067,6 @@
     "description": "# MI2-Utilities Testing\nA Mindustry Mod That Adds Useful Vanilla Utilities. MI2-Client Transplantation.\nMindustry模组，添加一些实用原版辅助。MI2端移植。\n（MI2端的终极目标是Mod化，本Mod是MI2端移植的尝试。会添加怪浪怪浪的新功能。）\n\n# Features 特性列表（won't timely update 不会即时更新）\n1.Hud: /sync, rebuild all, map info entry, MI2's unit hp bar\n2.Map Info(Dialog): check map settings & wave info.\n3.Logic Helper: UI in LogicDialog. Check and sort all var names, split names into snippets with a certain string, click to copy any snippet.\n4.Drag the title to move UI.\n==\n1.HUD界面：/sync，一键重建，地图信息入口，MI2式单位血条显示\n2.地图信息：检视大部分地图属性、下一波出怪情况\n3.逻辑辅助：ui在逻辑编辑器。检视、整理变量名，可使用分隔符对变量名切片。点击切片可复制到剪切板。\n4.UI按住标题拖拽"
   },
   {
-    "repo": "liplum/CyberIO",
-    "name": "Cyber IO",
-    "author": "[#891213]Liplum[]",
-    "lastUpdated": "2022-04-15T16:30:48Z",
-    "stars": 9,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Provides lots of cybernetic things!!!"
-  },
-  {
     "repo": "BlackDeluxeCat/MI2-Utilities-Java",
     "name": "MI2-Utilities Java",
     "author": "BlackDeluxeCat",
@@ -1087,6 +1076,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "# MI2-Utilities Java\n一个原版辅助工具，有爱自取。\n\n安装方法：\n\n- 方法1 在游戏里使用“从github导入”，填BlackDeluxeCat/MI2-Utilities-Java\n- 方法2 进入本mod最新(Lateset)Release，下载文件列表中的MI2-Utilities Java.jar，在游戏里使用“导入文件”，导入所下载的jar。\n- 方法3 若已安装老版本，在游戏里点击mod详情页，重新安装。（仅限移动端）\n\n中文讨论群：875035496\n\n无力为其他语言做本地化，接受pr。\n\n## 特性列表（0.7.0）\n\n### ui\n\n#### 主界面\n- 快捷功能：一键规划重建、透视物流\n- AI辅助操作：自动挖矿、自动建造规划、自动自我维修、自动瞄准\n- 该窗口的选项弹窗包含MI2U的大部分选项。\n\n#### 核心信息\n- 原版核心信息+，资源变动数字\n- 单位计数器\n- 电量条与电网分析\n- 可切换查看其他队伍\n\n#### 小地图\n- 基于原版地图渲染器\n- 可缩放至全图\n- 玩家单位显示名称\n- 点击移动视角（仅限桌面端）\n\n#### 地图信息\n- 大部分地图规则\n- 波次预览工具，强制跳波\n- 波次血量条\n\n#### 逻辑辅助\n- 整理与快捷复制变量名，可使用分隔符\n\n#### Emoji\n- 一个emoji查阅工具\n\n### Mindow2\n本mod的可拖拽窗口。标题栏可进入选项弹窗、帮助页弹窗，具体请查阅各窗口的帮助页。\n拖拽、吸附等均可通过选项保存。\n\n### 杂项\n- 玩家光标平滑显示\n- 渲染单位血条、逻辑控制、寻路线\n- 关闭残骸、单位、射弹渲染\n- 修改部分方块数值条\n- 99.5%的改动可以通过选项关闭\n- MI2U选项存储在$Mindustry/mods/MI2U_Settings/目录下"
+  },
+  {
+    "repo": "liplum/CyberIO",
+    "name": "Cyber IO",
+    "author": "[#891213]Liplum[]",
+    "lastUpdated": "2022-04-16T15:44:12Z",
+    "stars": 9,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Provides lots of cybernetic things!!!"
   },
   {
     "repo": "DeltaNedas/override-lib",
@@ -1947,17 +1947,6 @@
     "description": "A mindustry mod that adds several utility windows.\n\nYou can create windows by pressing the buttons on the master window.\n\nThis mod is created with the help of MKUI library."
   },
   {
-    "repo": "Error-In-Code/Nuclear-Mines-Mod",
-    "name": "Nuclear Mines",
-    "author": "[Error_in_Code]",
-    "lastUpdated": "2022-02-19T20:22:57Z",
-    "stars": 5,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod adding radiation, radioactive items, and nuclear weapons.\n\nNot yet finished. Some Sprites are missing and many things still need balance. Not all items are available in the Campaign tech tree."
-  },
-  {
     "repo": "Zelaux/GasLibrary",
     "name": "GasLibrary",
     "author": "Zelaux",
@@ -2396,6 +2385,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "First mod that has stuff. Mostly satire. The mod's discord server is https://discord.gg/qXTBJmUG3n"
+  },
+  {
+    "repo": "Error-In-Code/Nuclear-Mines-Mod",
+    "name": "Nuclear Mines",
+    "author": "[Error_in_Code]",
+    "lastUpdated": "2022-02-19T20:22:57Z",
+    "stars": 4,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod adding radiation, radioactive items, and nuclear weapons.\n\nNot yet finished. Some Sprites are missing and many things still need balance. Not all items are available in the Campaign tech tree."
   },
   {
     "repo": "stacktrace-error/null-hovers",
@@ -3237,7 +3237,7 @@
     "repo": "uujuju1/project-oblivion",
     "name": "Project Oblivion",
     "author": "Uujuju",
-    "lastUpdated": "2022-04-16T14:02:25Z",
+    "lastUpdated": "2022-04-16T19:14:52Z",
     "stars": 3,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -5610,17 +5610,6 @@
     "description": "N/A"
   },
   {
-    "repo": "SomeCoder1/Destroyer-mod",
-    "name": "Destroyer Mod",
-    "author": "Somecoder1",
-    "lastUpdated": "2022-04-09T00:36:13Z",
-    "stars": 1,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java Mod that adds powerful things to the game."
-  },
-  {
     "repo": "bendnuts/experience",
     "name": "experience",
     "author": "bendn",
@@ -5641,6 +5630,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Caustic fragments esta en fase de desarrollo. Puedes apoyar al mod a traves de nuesteo repositorio con un comentario "
+  },
+  {
+    "repo": "SomeCoder1/Destroyer-mod",
+    "name": "Destroyer Mod",
+    "author": "Somecoder1",
+    "lastUpdated": "2022-04-16T18:28:06Z",
+    "stars": 1,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java Mod that adds powerful things to the game."
   },
   {
     "repo": "Nikisos/TheBattleMod",
@@ -6917,5 +6917,16 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Reloaded tech\n0 - Big Update\n0 - Small Update\n0 - Small Fixes\n1 - Number of Patch\nALPHA - Stage\nThe Russian translation has its own jokes\n=)"
+  },
+  {
+    "repo": "A5TR0spud/mindustry-extras",
+    "name": "Astronomical Additions [pre alpha]",
+    "author": "A5TR0spud",
+    "lastUpdated": "2022-04-16T16:25:32Z",
+    "stars": 0,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "  Adds various things  "
   }
 ]
