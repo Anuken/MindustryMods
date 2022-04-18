@@ -872,7 +872,7 @@
     "repo": "MEEPofFaith/testing-utilities-java",
     "name": "Testing Utilities",
     "author": "MEEP of Faith",
-    "lastUpdated": "2022-03-26T23:33:29Z",
+    "lastUpdated": "2022-04-17T21:08:38Z",
     "stars": 11,
     "minGameVersion": "132",
     "hasScripts": false,
@@ -1389,7 +1389,7 @@
     "repo": "MindustryInside/L1337n",
     "name": "L1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-04-17T12:22:11Z",
+    "lastUpdated": "2022-04-18T01:12:14Z",
     "stars": 7,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -1969,17 +1969,6 @@
     "description": "Java library for java mods"
   },
   {
-    "repo": "Zeniku/HeavyMachineryJava",
-    "name": "HeavyMachineryJava",
-    "author": "Zeniku",
-    "lastUpdated": "2022-03-28T08:57:14Z",
-    "stars": 5,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod."
-  },
-  {
     "repo": "ArkanicXD/Solarys",
     "name": "Project Solarys",
     "author": "Arkanic",
@@ -2011,6 +2000,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Alex version of MEEPofFaith/anuke-approaching"
+  },
+  {
+    "repo": "Zeniku/HeavyMachineryJava",
+    "name": "HeavyMachineryJava",
+    "author": "Zeniku",
+    "lastUpdated": "2022-04-18T01:12:45Z",
+    "stars": 5,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod."
   },
   {
     "repo": "als39175/Infinity-Cheat",
@@ -2500,7 +2500,7 @@
     "repo": "VaporSpace2/endrium-2",
     "name": "EndriumMod 2",
     "author": "vapor Space YT & Aegires",
-    "lastUpdated": "2022-04-17T20:22:53Z",
+    "lastUpdated": "2022-04-17T22:45:41Z",
     "stars": 4,
     "minGameVersion": "130",
     "hasScripts": true,
@@ -3254,6 +3254,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The technology of the oblivion awaits you..."
+  },
+  {
+    "repo": "FlinTyX/AutoResearch",
+    "name": "Auto Research",
+    "author": "Flin",
+    "lastUpdated": "2022-04-18T01:22:15Z",
+    "stars": 3,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
   },
   {
     "repo": "RebornTrack970/Sandbox-Mode",
