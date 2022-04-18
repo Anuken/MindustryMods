@@ -157,7 +157,7 @@
     "repo": "Sharlottes/UnitInfo",
     "name": "Unit Information",
     "author": "Sharlotte",
-    "lastUpdated": "2022-04-17T08:36:00Z",
+    "lastUpdated": "2022-04-18T15:08:53Z",
     "stars": 49,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -531,7 +531,7 @@
     "repo": "UnionofSovietSocialistRepublics/Spore-Biomechs",
     "name": "Spore Biomechs",
     "author": "Hydroabyss",
-    "lastUpdated": "2022-04-16T10:38:37Z",
+    "lastUpdated": "2022-04-18T14:07:47Z",
     "stars": 18,
     "minGameVersion": "127",
     "hasScripts": true,
@@ -949,7 +949,7 @@
     "repo": "12three7/Binary0011",
     "name": "Binary0011",
     "author": "1237",
-    "lastUpdated": "2022-04-18T05:33:54Z",
+    "lastUpdated": "2022-04-18T13:44:13Z",
     "stars": 10,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -1081,7 +1081,7 @@
     "repo": "liplum/CyberIO",
     "name": "Cyber IO",
     "author": "[#891213]Liplum[]",
-    "lastUpdated": "2022-04-17T15:25:32Z",
+    "lastUpdated": "2022-04-18T13:31:11Z",
     "stars": 9,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -2013,6 +2013,17 @@
     "description": "A Mindustry Java mod."
   },
   {
+    "repo": "FlinTyX/AutoResearch",
+    "name": "Auto Research",
+    "author": "Flin",
+    "lastUpdated": "2022-04-18T01:22:15Z",
+    "stars": 5,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
+  },
+  {
     "repo": "als39175/Infinity-Cheat",
     "name": "Infinity Cheat",
     "author": "SMIPE444",
@@ -2506,17 +2517,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Mod with some new additions to the game, such as units, turrets, items, conveyors, and much more! Discord server: https://discord.gg/hGqEVwsg"
-  },
-  {
-    "repo": "FlinTyX/AutoResearch",
-    "name": "Auto Research",
-    "author": "Flin",
-    "lastUpdated": "2022-04-18T01:22:15Z",
-    "stars": 4,
-    "minGameVersion": "130",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
   },
   {
     "repo": "Slotterleet/Crazy-Militaries",
@@ -3144,6 +3144,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a rangefinder.\nRequires DeltaNedas/ui-lib"
+  },
+  {
+    "repo": "Goobrr/easy-modo",
+    "name": "Easy Modo",
+    "author": "Goobrr",
+    "lastUpdated": "2022-03-13T03:54:15Z",
+    "stars": 3,
+    "minGameVersion": "131",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\"Eeeeh? Easy modo?\""
   },
   {
     "repo": "BalaM314/thaumic-industries",
@@ -4255,17 +4266,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds content that I think is cool and interesting also name of this mod doesn't actually have anything in the progression of campaign lol. \n\n Doesn't have much content for now since I don't expect this to be used in an actual mod campaign run, and also because time management is not in my vocabulary and school, h."
-  },
-  {
-    "repo": "Goobrr/easy-modo",
-    "name": "Easy Modo",
-    "author": "Goobrr",
-    "lastUpdated": "2022-03-13T03:54:15Z",
-    "stars": 2,
-    "minGameVersion": "131",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "\"Eeeeh? Easy modo?\""
   },
   {
     "repo": "stacktrace-error/payload-corp",
@@ -6818,17 +6818,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Version of the mod for playing on the server S.EasyPlay.su:7777 \n\n -------------- \n\n Discord: https://ds.easyplay.su \n\n -------------- \n\n Developers: \n\n - Master-Rus (Head Developer) \n- MemFaceGo (First  Developer)"
-  },
-  {
-    "repo": "MQ-1175/metaldustry",
-    "name": "MetalDustry",
-    "author": "M.Q.",
-    "lastUpdated": "2022-04-08T12:34:24Z",
-    "stars": 0,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Replace some music with funny screaming music"
   },
   {
     "repo": "kapzduke/sandcastle",
