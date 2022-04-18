@@ -4,7 +4,7 @@
     "name": "BetaMindy",
     "author": "sk7725",
     "lastUpdated": "2022-02-07T13:38:34Z",
-    "stars": 192,
+    "stars": 194,
     "minGameVersion": "134",
     "hasScripts": false,
     "hasJava": true,
@@ -37,7 +37,7 @@
     "name": "New Horizon",
     "author": "Yuria",
     "lastUpdated": "2022-03-27T01:40:08Z",
-    "stars": 129,
+    "stars": 130,
     "minGameVersion": "135",
     "hasScripts": false,
     "hasJava": true,
@@ -693,17 +693,6 @@
     "description": "Turns everything into disgusting organic beings"
   },
   {
-    "repo": "Ferlern/extended-UI",
-    "name": "extended UI",
-    "author": "wizer",
-    "lastUpdated": "2022-04-17T09:30:31Z",
-    "stars": 13,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
-  },
-  {
     "repo": "SMOLKEYS/bundles",
     "name": "Bundles",
     "author": "SMOLKEYS",
@@ -713,6 +702,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "hehe angish go nrrrt"
+  },
+  {
+    "repo": "Ferlern/extended-UI",
+    "name": "extended UI",
+    "author": "wizer",
+    "lastUpdated": "2022-04-18T09:01:55Z",
+    "stars": 13,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
   },
   {
     "repo": "sk7725/EXP-lib",
@@ -949,7 +949,7 @@
     "repo": "12three7/Binary0011",
     "name": "Binary0011",
     "author": "1237",
-    "lastUpdated": "2022-04-18T05:22:06Z",
+    "lastUpdated": "2022-04-18T05:33:54Z",
     "stars": 10,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -2508,6 +2508,17 @@
     "description": "Mod with some new additions to the game, such as units, turrets, items, conveyors, and much more! Discord server: https://discord.gg/hGqEVwsg"
   },
   {
+    "repo": "FlinTyX/AutoResearch",
+    "name": "Auto Research",
+    "author": "Flin",
+    "lastUpdated": "2022-04-18T01:22:15Z",
+    "stars": 4,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
+  },
+  {
     "repo": "Slotterleet/Crazy-Militaries",
     "name": "Crazy-Militaries",
     "author": "The Slaylord",
@@ -3254,17 +3265,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The technology of the oblivion awaits you..."
-  },
-  {
-    "repo": "FlinTyX/AutoResearch",
-    "name": "Auto Research",
-    "author": "Flin",
-    "lastUpdated": "2022-04-18T01:22:15Z",
-    "stars": 3,
-    "minGameVersion": "130",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
   },
   {
     "repo": "RebornTrack970/Sandbox-Mode",
@@ -4180,17 +4180,6 @@
     "description": "Adds a button to quickly take 15 of an item from the core.\nRight click (PC) or long press (mobile) to set the grabbed item.\nRequires DeltaNedas/ui-lib."
   },
   {
-    "repo": "LokeYourLord/Extremely-Efficient-Structures",
-    "name": "Extremely-Efficient-Structures",
-    "author": "LokeYourC3PH",
-    "lastUpdated": "2022-01-14T21:28:46Z",
-    "stars": 2,
-    "minGameVersion": "106",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds several OP structures to ruin gameplay."
-  },
-  {
     "repo": "Duvent-mindustry/Mindustry-GG-Mod",
     "name": "Duvents Turrets",
     "author": "Duvent",
@@ -4323,6 +4312,17 @@
     "description": "Don't starve is available in Mindustry now!"
   },
   {
+    "repo": "6666dustry/beautiful-bullet",
+    "name": "beautiful-bullet",
+    "author": "many bear",
+    "lastUpdated": "2022-04-03T05:39:05Z",
+    "stars": 2,
+    "minGameVersion": "125",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "add beautiful bullet"
+  },
+  {
     "repo": "abaines/Kizraks-Radar",
     "name": "Kizrak's Radar",
     "author": "Kizrak",
@@ -4389,6 +4389,17 @@
     "description": "This mod adds some new movement mechanics, gravity and jump to player. WIP, report all bugs to Benry#5935"
   },
   {
+    "repo": "LokeYourLord/Extremely-Efficient-Structures",
+    "name": "Extremely-Efficient-Structures",
+    "author": "LokeYourC3PH",
+    "lastUpdated": "2022-04-18T06:49:45Z",
+    "stars": 2,
+    "minGameVersion": "106",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds several OP structures to ruin gameplay."
+  },
+  {
     "repo": "SirMachinegun/EBM",
     "name": "Experimental Blocks",
     "author": "SirMachinegun (EMPEROR#5403)",
@@ -4422,6 +4433,17 @@
     "description": "Celebrate v6's release with Cake!"
   },
   {
+    "repo": "svan9/SVGmods",
+    "name": "SVGmods",
+    "author": "svan9",
+    "lastUpdated": "2020-12-01T17:51:20Z",
+    "stars": 1,
+    "minGameVersion": "116",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "---"
+  },
+  {
     "repo": "Steefano/Liquids-Enhanced",
     "name": "Liquids Enhanced",
     "author": "Stefano Rando",
@@ -4442,6 +4464,28 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a handy notepad.\nRequires DeltaNedas/ui-lib."
+  },
+  {
+    "repo": "RebornTrack970/autocapture",
+    "name": "AutoCapture",
+    "author": "RTOmega",
+    "lastUpdated": "2020-12-18T08:59:25Z",
+    "stars": 1,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "h"
+  },
+  {
+    "repo": "ThatOneBepis/chiptunestry",
+    "name": "chiptunestry",
+    "author": " Bepis",
+    "lastUpdated": "2020-12-22T16:54:03Z",
+    "stars": 1,
+    "minGameVersion": "110",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "First custom music pack. Probably."
   },
   {
     "repo": "Tenser43/random-mod",
@@ -4477,6 +4521,17 @@
     "description": "A Mod that enhaces your Game with  new Things and Enhancements."
   },
   {
+    "repo": "Sky4ce09/hikarudustry",
+    "name": "Hikarudustry",
+    "author": "Sky4ce09",
+    "lastUpdated": "2021-01-13T08:31:39Z",
+    "stars": 1,
+    "minGameVersion": "120",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds juice."
+  },
+  {
     "repo": "GaviTSRA/OhNoMod",
     "name": "OhNoMod",
     "author": "GaviTSRA",
@@ -4488,6 +4543,50 @@
     "description": "The Oh No Mod"
   },
   {
+    "repo": "Ovcaa/Parasha-2.0",
+    "name": "Parasha 2.0",
+    "author": "Ovca",
+    "lastUpdated": "2021-02-08T13:07:04Z",
+    "stars": 1,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Новая параша от степашы хуетряса."
+  },
+  {
+    "repo": "MEEPofFaith/legacy-pew",
+    "name": "Legacy Pew",
+    "author": "MEEP of Faith",
+    "lastUpdated": "2021-02-12T07:52:08Z",
+    "stars": 1,
+    "minGameVersion": "124.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Bring back the old pew."
+  },
+  {
+    "repo": "WilloIzCitron/ohnoDifficulty",
+    "name": "Oh No Difficulty",
+    "author": "WilloIzCitron",
+    "lastUpdated": "2021-02-20T05:26:37Z",
+    "stars": 1,
+    "minGameVersion": "125.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "There is no description"
+  },
+  {
+    "repo": "tezlm/jskebox",
+    "name": "Jskebox",
+    "author": "ZestyLemonade",
+    "lastUpdated": "2021-02-28T01:04:29Z",
+    "stars": 1,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "adds a Jukebox"
+  },
+  {
     "repo": "QmelZ/rgbdustry",
     "name": "RGBdustry",
     "author": "QmelZ",
@@ -4497,6 +4596,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "No description provided."
+  },
+  {
+    "repo": "RebornTrack970/uuidscrambler",
+    "name": "uuidscrambler",
+    "author": "RTOmega & Qmelz",
+    "lastUpdated": "2021-03-02T06:15:47Z",
+    "stars": 1,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A Mindustry Mod that scrambles your uuid."
   },
   {
     "repo": "martycagas/mindustry-mod-armored-conveyor",
@@ -4576,6 +4686,39 @@
     "description": "A Mindustry mod that disables logic displays in multiplayer, except displays you have last placed/edited. Useful for keeping seizure-inducing, nsfw, or other displays made with malicious intent."
   },
   {
+    "repo": "Anukenn/The-Best-Mod",
+    "name": "The Best Mod",
+    "author": "",
+    "lastUpdated": "2021-04-17T14:52:18Z",
+    "stars": 1,
+    "minGameVersion": "120",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "..."
+  },
+  {
+    "repo": "SuperHurley/Vannillaplus-MD",
+    "name": "Vanilla Plus",
+    "author": "Amyprry",
+    "lastUpdated": "2021-04-19T19:22:17Z",
+    "stars": 1,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds -Liquid nitrodgen\r\n    -Liquid Oxygen\r\n    -Solid Oxygen\r\n    -liquid Hydrogen\r\n    -liquid Methane\r\n    -Diesel\r\n    -Jet Fuel\r\n    -Heavily refined Diesel\r\n    -4 Types of rocket fuel\r\n    -Anti-Freeze\r\n    -Thermal Reactor\r\n    -More Coming soon..."
+  },
+  {
+    "repo": "SpaceEarthEX/Balanced-music-sound",
+    "name": "Balanced Music, Sound",
+    "author": "SpaceEarthEX",
+    "lastUpdated": "2021-05-05T12:17:39Z",
+    "stars": 1,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Add or adjust sound volume and music."
+  },
+  {
     "repo": "GlennFolker/Enumodify-Mod",
     "name": "Enumodify",
     "author": "GlennFolker",
@@ -4598,6 +4741,61 @@
     "description": "New guns, drills, crafting, materials and resourses"
   },
   {
+    "repo": "Cripancreeper/Criperia",
+    "name": "Criperia",
+    "author": "Cripancreeper",
+    "lastUpdated": "2021-05-18T13:37:35Z",
+    "stars": 1,
+    "minGameVersion": "125",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "RU: этот мод добавляет исклюзивные предметы и ресурсы желаю удачи в прохождение.\r\nEN: this mod adds exclusive items and resources to wish good luck in passing"
+  },
+  {
+    "repo": "MrDuck557/everything-shotgun",
+    "name": "Everything Shotgun",
+    "author": "MrDuck557",
+    "lastUpdated": "2021-05-18T18:33:05Z",
+    "stars": 1,
+    "minGameVersion": "126.2",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Everything that shoots bullet becomes shotgun"
+  },
+  {
+    "repo": "SMOLKEYS/bundles-amogus",
+    "name": "bundles amogus",
+    "author": "SMOLKEYS",
+    "lastUpdated": "2021-05-21T14:22:02Z",
+    "stars": 1,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "vote him out"
+  },
+  {
+    "repo": "TechFish3000/Techfish-Industrial",
+    "name": "Techfish Industrial",
+    "author": "Main Dev: Techfish3000\nSprites: stolen from random people, mainly example mod and EyeOfDarkness",
+    "lastUpdated": "2021-05-26T02:19:02Z",
+    "stars": 1,
+    "minGameVersion": "126.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Not to be confused with Techfish Industries, the (scrapped) json version of this mod\nA Remaster of all of my previous mods in one package and for v6.\n\nCurrent Problems:\n- Maybe not multiplayer compatible, not tested\n- Plastanium drills reset depth after reload"
+  },
+  {
+    "repo": "ThebestkillerTBK/CheatingUtils",
+    "name": "Cheating Utilities",
+    "author": "TBK",
+    "lastUpdated": "2021-06-05T02:41:48Z",
+    "stars": 1,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Cheat in MINDUSTRY"
+  },
+  {
     "repo": "Delourians/Mindustry-mod",
     "name": "Mindustry-mod",
     "author": "Gab??... and AZU",
@@ -4618,6 +4816,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "An unstable Mindustry mod only used for testing"
+  },
+  {
+    "repo": "SMOLKEYS/UICU",
+    "name": "UICU",
+    "author": "SMOLKEYS",
+    "lastUpdated": "2021-06-24T13:03:09Z",
+    "stars": 1,
+    "minGameVersion": "126.2",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Anarchy."
   },
   {
     "repo": "DireWolf575/Duo-Dominion",
@@ -4651,6 +4860,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Epic mindustry mod"
+  },
+  {
+    "repo": "notMEEPoffaith/cooler-poly",
+    "name": "Cooler Poly",
+    "author": "notMEEPoffaith",
+    "lastUpdated": "2021-08-22T15:27:33Z",
+    "stars": 1,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "First texture pack. Makes the poly look cooler"
   },
   {
     "repo": "JHdreemurr/BRUH-MOD",
@@ -4752,6 +4972,17 @@
     "description": "A Mindustry Mod for V6 which introduces many new items, blocks, units, and zones. This mod is still in BETA, so there will be a few errors and bugs."
   },
   {
+    "repo": "GenericSomeone/infinity-liquid",
+    "name": "Infinity Liquid",
+    "author": "Inconsequential",
+    "lastUpdated": "2021-10-24T16:12:03Z",
+    "stars": 1,
+    "minGameVersion": "126",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds the Infinity Liquid from NewHorizon back into Mindustry."
+  },
+  {
     "repo": "NemesisTheory/wort-wort-wort",
     "name": "Wort Wort Wort",
     "author": "NemesisTheory",
@@ -4807,6 +5038,39 @@
     "description": "my stupid brain told me to make a mindustry mod\r\n\r\nversion beta 1: added hydrogen and oxygen (oxygen unobtainable in survival), elctrolyser, graphene infuser, graphene, graphene solar panel, graphene walls\r\n\r\nupdate beta 2: added the pencil launcher, chaos plasma, chaos mixer, eruption, air compressor (oxygen is now obtainable in survival), added campain research\r\n\r\nupdate beta 2.1: added the glock (on a block), tweaked eruption and pencil launcher"
   },
   {
+    "repo": "staticalliam7/AMOGUS",
+    "name": "AMOGUS",
+    "author": "Staticalliam7",
+    "lastUpdated": "2021-11-29T16:52:53Z",
+    "stars": 1,
+    "minGameVersion": "121.4",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Texture pack that makes mindustry into amogus for no reason"
+  },
+  {
+    "repo": "pankiwi/router-corruption",
+    "name": "router Birus",
+    "author": "'\nMod Creator: Pankiwi ",
+    "lastUpdated": "2021-12-02T01:56:07Z",
+    "stars": 1,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "do not install this you can destroy your mindustry games"
+  },
+  {
+    "repo": "Kappandrew/BTD-dustry",
+    "name": "BTD-dustry",
+    "author": "Dunc",
+    "lastUpdated": "2021-12-02T06:26:59Z",
+    "stars": 1,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a LOT of stuff related to the Bloons Tower Defence series and the grand-slam-hit 'Minecraft clone' Terraria. the Bloons TD series is a series by Ninja Kiwi and Terraria is a game by Re-Logic. No copyright Infringement intended. "
+  },
+  {
     "repo": "RouterXdd/Xsoverd-Remake",
     "name": "Xsoverd Remake",
     "author": "Xdd spear",
@@ -4827,6 +5091,28 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "my first mod."
+  },
+  {
+    "repo": "SMOLKEYS/carry",
+    "name": "carry",
+    "author": "SMOLKEYS",
+    "lastUpdated": "2021-12-06T03:46:51Z",
+    "stars": 1,
+    "minGameVersion": "121",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "they carry"
+  },
+  {
+    "repo": "SMOLKEYS/1hpeverything",
+    "name": "1 HP Everything",
+    "author": "SMOLKEYS",
+    "lastUpdated": "2021-12-07T06:38:39Z",
+    "stars": 1,
+    "minGameVersion": "121",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "this is gonna be something"
   },
   {
     "repo": "IxGamerXL/ChipCompiler",
@@ -4851,6 +5137,17 @@
     "description": "No description provided."
   },
   {
+    "repo": "UnionofSovietSocialistRepublics/Cursedmod",
+    "name": "Curse of the future",
+    "author": "Fallen Future",
+    "lastUpdated": "2021-12-27T11:23:20Z",
+    "stars": 1,
+    "minGameVersion": "125",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Future curse the enemy and help them stronger,somehow...."
+  },
+  {
     "repo": "SkyCraft78/OrePlusMod",
     "name": "Ore Plus Mod",
     "author": "ItsTheSky#1234",
@@ -4873,6 +5170,28 @@
     "description": "Arent drills technically supposed to be fast."
   },
   {
+    "repo": "Dryehm/Build-Buff",
+    "name": "Build Buff (BB)",
+    "author": "Dryehm",
+    "lastUpdated": "2022-01-09T23:46:24Z",
+    "stars": 1,
+    "minGameVersion": "126",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "hhahahahahahahahhaahhahahaha pls kill me"
+  },
+  {
+    "repo": "Blockzilla101/bomberman-disable-flying",
+    "name": "Bomberman - disable flying",
+    "author": "Blockzilla",
+    "lastUpdated": "2022-01-10T08:45:56Z",
+    "stars": 1,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Disables flying in bomberman maps"
+  },
+  {
     "repo": "zinq7/beacons-yay",
     "name": "Holy Light",
     "author": "zinq",
@@ -4884,6 +5203,17 @@
     "description": "A cool WIP content mod that adds a bunch of stuff, including new endgame turrets and a T6 reconstructor. Discord link: https://discord.gg/juaRAGaQ"
   },
   {
+    "repo": "MrDuck557/Esoterum2",
+    "name": "Esoterum2",
+    "author": "MrDuck557",
+    "lastUpdated": "2022-01-19T15:22:45Z",
+    "stars": 1,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A casual recode of Goobrr/Esoterum that I hope is more stable"
+  },
+  {
     "repo": "Beanzilla/mindustry-hacked",
     "name": "M1N3DU5TRY H4CK3D",
     "author": "ApolloX",
@@ -4893,6 +5223,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "TIR3D 0F N0T W1NN1NG, W4NT T0 W1N E4S1LY?\n\nWant this cranked up a few notches? Try the 0P branch\n\nhttps://github.com/Beanzilla/mindustry-hacked/tree/op\n\nAttributions:\n- TheGamer1002"
+  },
+  {
+    "repo": "DaNtEsLr/Shaders",
+    "name": "Shaders-DaNtesLr",
+    "author": "DaNtesLr",
+    "lastUpdated": "2022-01-27T20:41:49Z",
+    "stars": 1,
+    "minGameVersion": "125",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Ru:\n Мод-Текстур-Пак изменяет внешний жидкостей. Был вырезан из мода FactoryDustry. Специално для канала Mindustry - Рестор.\n()Мой Дискорд DaNtEsLr#2520() \n\nEn:\n The Mod-Texture-Pack Changes the appearance of the liquid. It was cut from the FactoryDustry-TexturePack Mod. Especially for the channel Mindustry - Рестор.\n\n()My Discord DaNtEsLr#2520()"
   },
   {
     "repo": "Weathercold/ExtraLogging",
@@ -4950,6 +5291,17 @@
     "description": "A mod made to alter vanilla progression"
   },
   {
+    "repo": "Prosta4okua/Ukrajinisator",
+    "name": "Ukrajinisator",
+    "author": "Prosta4ok_ua#6336",
+    "lastUpdated": "2022-02-03T19:17:47Z",
+    "stars": 1,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Нехай проблеми та незгоди не роблять вам в житті погоди!"
+  },
+  {
     "repo": "CalibriLight/MoreZmod",
     "name": "Ulybaka's MoreZ Mod",
     "author": "CalibriLighYT/Ulybaka",
@@ -4972,6 +5324,28 @@
     "description": "the music for project abyss"
   },
   {
+    "repo": "XenoForce/Liberate-Diamond-Units",
+    "name": "Liberate Diamond Units",
+    "author": "XenoTale",
+    "lastUpdated": "2022-02-13T09:01:38Z",
+    "stars": 1,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Free access to Units from Diamond Ore mod."
+  },
+  {
+    "repo": "XenoForce/Liberate-Gold-X",
+    "name": "Liberate Gold Components",
+    "author": "XenoTale",
+    "lastUpdated": "2022-02-13T09:42:46Z",
+    "stars": 1,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Get access to components from GoldMod"
+  },
+  {
     "repo": "SummerPain/Aruita-master",
     "name": "Aruita",
     "author": "Kurayami",
@@ -4981,6 +5355,39 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Mod with nice weapons"
+  },
+  {
+    "repo": "XenoForce/Use-Tomorrow-Units",
+    "name": "Use Tomorrow Units",
+    "author": "XenoTale",
+    "lastUpdated": "2022-02-15T18:32:46Z",
+    "stars": 1,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Make use of New Horizon units."
+  },
+  {
+    "repo": "XenoForce/Use-ExoBegin-Units",
+    "name": "Use ExoBegin Units",
+    "author": "XenoTale",
+    "lastUpdated": "2022-02-17T06:30:16Z",
+    "stars": 1,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Make use of Exogenesis units."
+  },
+  {
+    "repo": "XenoForce/opmod",
+    "name": "opmod",
+    "author": "XenoTale",
+    "lastUpdated": "2022-02-23T06:32:03Z",
+    "stars": 1,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod is over-powered. It makes the player stronger, and the enemy weaker."
   },
   {
     "repo": "stacktrace-error/master-chief",
@@ -5025,6 +5432,28 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "No description provided."
+  },
+  {
+    "repo": "iarkn/riim",
+    "name": "Riim",
+    "author": "iarkn",
+    "lastUpdated": "2022-03-08T04:33:51Z",
+    "stars": 1,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "TBA"
+  },
+  {
+    "repo": "RegrettableDanger21/rise-of-the-ancients",
+    "name": "Rise Of The Ancients",
+    "author": "Regrettabledanger10, Oscar56 & Johan.",
+    "lastUpdated": "2022-03-10T02:08:23Z",
+    "stars": 1,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod with new turrets, crafts and more, enjoy the mod, ¡Good Luck!."
   },
   {
     "repo": "DivisionByZero80/mindustry-launchpads",
@@ -5126,6 +5555,17 @@
     "description": "adds bitches"
   },
   {
+    "repo": "AncientSUS/avaritias",
+    "name": "avaritias",
+    "author": "CAT & AncientSUS",
+    "lastUpdated": "2022-04-02T17:37:39Z",
+    "stars": 1,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "этот мод заставит тебя попыхтеть"
+  },
+  {
     "repo": "MQ-1175/Vanilla-Upgraded-v7",
     "name": "Vanilla Upgraded V7",
     "author": "Mesokrix & M.Q.",
@@ -5137,6 +5577,17 @@
     "description": "\nAdd things that can boost your vanilla experience !\n\nU can follow the advancement of the mod in the official Vanilla-Upgraded discord server !\n\nhttps://discord.gg/TQpdDKn\n\nCo-developer: VozDuh and Summet#4530"
   },
   {
+    "repo": "Swirek3331/ZPGM-Connector",
+    "name": "ZPGM-Connector",
+    "author": "swirek3331",
+    "lastUpdated": "2022-04-05T15:50:19Z",
+    "stars": 1,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Only zpgm mebers will understand. Łączy wszystkie mody z klanu ZPGM, ta łaczy... Ikona na czas obecny jest przerobieniem dzieła Omnoma."
+  },
+  {
     "repo": "GaviTSRA/TSR-Easy-Reusable-Commands",
     "name": "TSR Easy Reusable Commands",
     "author": "GaviTSRA",
@@ -5146,6 +5597,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod that adds a menu which easily allows you to reuse commands"
+  },
+  {
+    "repo": "Ka4ok52/F-MOD",
+    "name": "F-MOD",
+    "author": "Ka4ok52_",
+    "lastUpdated": "2022-04-07T18:17:46Z",
+    "stars": 1,
+    "minGameVersion": "125",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "No description provided."
   },
   {
     "repo": "L0615T1C5-216AC-9437/WorldEdit",
@@ -5641,6 +6103,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A simple mod. Demonstrates how to make new ores and machines."
+  },
+  {
+    "repo": "AzhurniyBaklan/Big-blocks",
+    "name": "Big Blocks",
+    "author": "CancerGuy",
+    "lastUpdated": "2021-06-08T08:47:46Z",
+    "stars": 0,
+    "minGameVersion": "122.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Bigger versions of basic blocks. Because I can."
   },
   {
     "repo": "gamerred/killer-drills",
@@ -6193,6 +6666,17 @@
     "description": "Adds mower class to the game."
   },
   {
+    "repo": "Radio-Silence-1/CursedUnits",
+    "name": "Weird Textures",
+    "author": "Radio Silence",
+    "lastUpdated": "2022-02-09T22:13:57Z",
+    "stars": 0,
+    "minGameVersion": "121.4",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Changes units because i want it to"
+  },
+  {
     "repo": "efim-sys/mindustry-flying-crawlers",
     "name": "Flying Crawlers Mod",
     "author": "esys",
@@ -6336,6 +6820,28 @@
     "description": "Version of the mod for playing on the server S.EasyPlay.su:7777 \n\n -------------- \n\n Discord: https://ds.easyplay.su \n\n -------------- \n\n Developers: \n\n - Master-Rus (Head Developer) \n- MemFaceGo (First  Developer)"
   },
   {
+    "repo": "MQ-1175/metaldustry",
+    "name": "MetalDustry",
+    "author": "M.Q.",
+    "lastUpdated": "2022-04-08T12:34:24Z",
+    "stars": 0,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Replace some music with funny screaming music"
+  },
+  {
+    "repo": "kapzduke/sandcastle",
+    "name": "Sandcastle",
+    "author": "kapzduke",
+    "lastUpdated": "2022-04-08T19:39:53Z",
+    "stars": 0,
+    "minGameVersion": "131",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Play in the sand.\nNot quite practical against vanilla forces."
+  },
+  {
     "repo": "MountLava/SolarMod",
     "name": "Solar Mod",
     "author": "MountLava",
@@ -6347,6 +6853,17 @@
     "description": "Adds tons of useful content. Mostly adds turrets."
   },
   {
+    "repo": "mindustry-antigrief/multiplayer-pause",
+    "name": "Multiplayer Pause",
+    "author": "buthed010203",
+    "lastUpdated": "2022-04-11T17:57:16Z",
+    "stars": 0,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "All this does is let you pause in multiplayer. Both the host and the person pausing the game need the mod, the person pausing must be an admin."
+  },
+  {
     "repo": "aarrbba123/Test-Mod",
     "name": "Test Mod",
     "author": "Harraf",
@@ -6356,6 +6873,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "F"
+  },
+  {
+    "repo": "zaDR0tic/Sciencedustry-JavaFromExpamle",
+    "name": "Sciencedustry",
+    "author": "Zaksen",
+    "lastUpdated": "2022-04-13T19:53:47Z",
+    "stars": 0,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Do you need more?"
   },
   {
     "repo": "RouterXdd/HellFraction-Industries",
