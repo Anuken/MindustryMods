@@ -4,7 +4,7 @@
     "name": "BetaMindy",
     "author": "sk7725",
     "lastUpdated": "2022-04-19T10:29:39Z",
-    "stars": 196,
+    "stars": 197,
     "minGameVersion": "134",
     "hasScripts": false,
     "hasJava": true,
@@ -927,7 +927,7 @@
     "repo": "12three7/Binary0011",
     "name": "Binary0011",
     "author": "1237",
-    "lastUpdated": "2022-04-23T14:39:05Z",
+    "lastUpdated": "2022-04-23T20:35:34Z",
     "stars": 11,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -1122,6 +1122,28 @@
     "description": "Adds a new fractions of units like: Snow, Electrical, Spore, Blade, Averaged, Upgraded."
   },
   {
+    "repo": "FlinTyX/AutoResearch",
+    "name": "Auto Research",
+    "author": "Flin",
+    "lastUpdated": "2022-04-22T10:25:54Z",
+    "stars": 9,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
+  },
+  {
+    "repo": "GlennFolker/Confictura",
+    "name": "Confictura",
+    "author": "GlennFolker",
+    "lastUpdated": "2022-04-23T14:57:47Z",
+    "stars": 9,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "... far beneath the reality."
+  },
+  {
     "repo": "DeltaNedas/override-lib",
     "name": "Override Lib",
     "author": "DeltaNedas",
@@ -1241,28 +1263,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Industrializing is easy."
-  },
-  {
-    "repo": "FlinTyX/AutoResearch",
-    "name": "Auto Research",
-    "author": "Flin",
-    "lastUpdated": "2022-04-22T10:25:54Z",
-    "stars": 8,
-    "minGameVersion": "130",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
-  },
-  {
-    "repo": "GlennFolker/Confictura",
-    "name": "Confictura",
-    "author": "GlennFolker",
-    "lastUpdated": "2022-04-23T14:57:47Z",
-    "stars": 8,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "... far beneath the reality."
   },
   {
     "repo": "DeltaNedas/speed",
@@ -1488,7 +1488,7 @@
     "repo": "MindustryInside/L1337n",
     "name": "L1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-04-23T01:05:15Z",
+    "lastUpdated": "2022-04-24T01:01:26Z",
     "stars": 7,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2585,17 +2585,6 @@
     "description": "A Mindustry mod adding radiation, radioactive items, and nuclear weapons.\n\nNot yet finished. Some Sprites are missing and many things still need balance. Not all items are available in the Campaign tech tree."
   },
   {
-    "repo": "VaporSpace2/endrium-2",
-    "name": "EndriumMod 2",
-    "author": "vapor Space YT & Aegires",
-    "lastUpdated": "2022-04-23T02:22:49Z",
-    "stars": 4,
-    "minGameVersion": "130",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Mod with some new additions to the game, such as units, turrets, items, conveyors, and much more! Discord server: https://discord.gg/hGqEVwsg"
-  },
-  {
     "repo": "rlzzj/MinerTools",
     "name": "MinerTools",
     "author": "miner",
@@ -2607,10 +2596,21 @@
     "description": "A java mod for Mindustry."
   },
   {
+    "repo": "VaporSpace2/endrium-2",
+    "name": "EndriumMod 2",
+    "author": "vapor Space YT & Aegires",
+    "lastUpdated": "2022-04-23T22:02:45Z",
+    "stars": 4,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Mod with some new additions to the game, such as units, turrets, items, conveyors, and much more! Discord server: https://discord.gg/hGqEVwsg"
+  },
+  {
     "repo": "uujuju1/project-oblivion",
     "name": "Project Oblivion",
     "author": "Uujuju",
-    "lastUpdated": "2022-04-23T19:03:46Z",
+    "lastUpdated": "2022-04-24T01:46:29Z",
     "stars": 4,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -5676,17 +5676,6 @@
     "description": "Simple mod which adding underground Crystalite and.."
   },
   {
-    "repo": "Ka4ok52/F-MOD",
-    "name": "F-MOD",
-    "author": "Ka4ok52_",
-    "lastUpdated": "2022-04-22T19:12:13Z",
-    "stars": 1,
-    "minGameVersion": "131",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "No description provided."
-  },
-  {
     "repo": "WilloIzCitron/Mindustry-Devilish-mod",
     "name": "Devilish Mode",
     "author": "[THREAT LEVEL: HIGH] Plays",
@@ -5707,6 +5696,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds a tier 0 version for all vanilla units."
+  },
+  {
+    "repo": "Ka4ok52/F-MOD",
+    "name": "F-MOD",
+    "author": "Ka4ok52_",
+    "lastUpdated": "2022-04-23T21:01:42Z",
+    "stars": 1,
+    "minGameVersion": "131",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "No description provided."
   },
   {
     "repo": "Nikisos/TheBattleMod",
