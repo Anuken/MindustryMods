@@ -7,12 +7,15 @@ import arc.math.*;
 import arc.struct.*;
 import arc.util.*;
 import arc.util.Http.*;
+import arc.util.async.*;
 import arc.util.serialization.*;
 import arc.util.serialization.Jval.*;
 
 import javax.imageio.*;
 import java.awt.image.*;
 import java.util.*;
+import java.util.concurrent.*;
+import java.util.concurrent.atomic.*;
 
 import static arc.struct.StringMap.*;
 
@@ -81,6 +84,7 @@ public class ModUpdater{
                 names.remove(name);
             }
 
+            int prevSize = names.size;
             //add old list of mods
             Jval prevList = Jval.read(new Fi("mods.json").readString());
             for(var value : prevList.asArray()){
@@ -89,6 +93,8 @@ public class ModUpdater{
             //there may be duplicates
             names.distinct();
 
+            Log.info("&lyOld repos not found by the API: &lr@", names.size - prevSize);
+
             Fi icons = Fi.get("icons");
 
             icons.deleteDirectory();
@@ -96,49 +102,60 @@ public class ModUpdater{
 
             Log.info("&lcTotal mods found: @\n", names.size);
 
-            int index = 0;
+            //awful.
+            ExecutorService exec = Threads.executor(50);
+
+            AtomicInteger index = new AtomicInteger();
             for(String name : names){
-                Log.info("&lc[@%] [@]&y: querying...", (int)((float)index++ / names.size * 100), name);
+                exec.submit(() -> {
+                    StringBuilder buffer = new StringBuilder();
 
-                try{
-                    if(!ghmeta.containsKey(name)){
-                        Log.info("&lr! Manually querying repo info. !");
-                        query("/repos/" + name, null, res -> {
-                            ghmeta.put(name, res);
-                        });
-                    }
+                    print(buffer, "&lc[@%] [@]&y: querying...", (int)((float)index.getAndIncrement() / names.size * 100), name);
 
-                    Jval meta = ghmeta.get(name);
-                    String branch = meta.getString("default_branch");
-                    Jval modjson = tryList(name + "/" + branch + "/mod.json", name + "/" + branch + "/mod.hjson", name + "/" + branch + "/assets/mod.json", name + "/" + branch + "/assets/mod.hjson");
-
-                    if(modjson == null){
-                        Log.info("&lc| &lySkipping, no meta found.");
-                        continue;
-                    }
-
-                    if(modjson.getBool("hideBrowser", false)){
-                        Log.info("&lc| &lySkipping, explicitly hidden in browser.");
-                        continue;
-                    }
-
-                    //filter icons based on stars to prevent potential abuse
-                    if(meta.getInt("stargazers_count", 0) >= 2){
-                        var icon = tryImage(name + "/" + branch + "/icon.png", name + "/" + branch + "/assets/icon.png");
-                        if(icon != null){
-                            var scaled = new BufferedImage(iconSize, iconSize, BufferedImage.TYPE_INT_ARGB);
-                            scaled.createGraphics().drawImage(icon.getScaledInstance(iconSize, iconSize, java.awt.Image.SCALE_AREA_AVERAGING), 0, 0, iconSize, iconSize, null);
-                            Log.info("&lc| &lmFound icon file: @x@", icon.getWidth(), icon.getHeight());
-                            ImageIO.write(scaled, "png", icons.child(name.replace("/", "_")).file());
+                    try{
+                        if(!ghmeta.containsKey(name)){
+                            print(buffer, "&lr! Manually querying repo info. !");
+                            query("/repos/" + name, null, res -> {
+                                ghmeta.put(name, res);
+                            });
                         }
-                    }
 
-                    Log.info("&lc|&lg Found mod meta file!");
-                    output.put(name, modjson);
-                }catch(Throwable t){
-                    Log.info("&lc| &lySkipping. [@]", name, Strings.getSimpleMessage(t));
-                }
+                        Jval meta = ghmeta.get(name);
+                        String branch = meta.getString("default_branch");
+                        Jval modjson = tryList(name + "/" + branch + "/mod.json", name + "/" + branch + "/mod.hjson", name + "/" + branch + "/assets/mod.json", name + "/" + branch + "/assets/mod.hjson");
+
+                        if(modjson == null){
+                            print(buffer, "&lc| &lySkipping, no meta found.");
+                            return;
+                        }
+
+                        if(modjson.getBool("hideBrowser", false)){
+                            print(buffer, "&lc| &lySkipping, explicitly hidden in browser.");
+                            return;
+                        }
+
+                        //filter icons based on stars to prevent potential abuse
+                        if(meta.getInt("stargazers_count", 0) >= 2){
+                            var icon = tryImage(name + "/" + branch + "/icon.png", name + "/" + branch + "/assets/icon.png");
+                            if(icon != null){
+                                var scaled = new BufferedImage(iconSize, iconSize, BufferedImage.TYPE_INT_ARGB);
+                                scaled.createGraphics().drawImage(icon.getScaledInstance(iconSize, iconSize, java.awt.Image.SCALE_AREA_AVERAGING), 0, 0, iconSize, iconSize, null);
+                                print(buffer, "&lc| &lmFound icon file: @x@", icon.getWidth(), icon.getHeight());
+                                ImageIO.write(scaled, "png", icons.child(name.replace("/", "_")).file());
+                            }
+                        }
+
+                        print(buffer, "&lc|&lg Found mod meta file!");
+                        output.put(name, modjson);
+                    }catch(Throwable t){
+                        print(buffer, "&lc| &lySkipping. [@]", name, Strings.getSimpleMessage(t));
+                    }finally{
+                        Log.info(buffer.substring(0, buffer.length() - 1));
+                    }
+                });
             }
+
+            Threads.await(exec);
 
             Log.info("&lcFound @ potential mods.", output.size);
             Seq<String> outnames = output.keys().toSeq();
@@ -193,6 +210,10 @@ public class ModUpdater{
 
             Log.info("&lcDone. Found @ valid mods.", array.asArray().size);
         });
+    }
+
+    void print(StringBuilder buffer, String text, Object... args){
+        buffer.append(Strings.format(text, args)).append("\n");
     }
 
     Jval tryList(String... queries){
