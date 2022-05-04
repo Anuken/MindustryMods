@@ -82,7 +82,7 @@ public class ModUpdater{
             }
 
             //add old list of mods
-            Jval prevList = Jval.read("mods.json");
+            Jval prevList = Jval.read(new Fi("mods.json").readString());
             for(var value : prevList.asArray()){
                 names.add(value.getString("repo"));
             }
@@ -101,6 +101,13 @@ public class ModUpdater{
                 Log.info("&lc[@%] [@]&y: querying...", (int)((float)index++ / names.size * 100), name);
 
                 try{
+                    if(!ghmeta.containsKey(name)){
+                        Log.info("&lr! Manually querying repo info. !");
+                        query("/repos/" + name, null, res -> {
+                            ghmeta.put(name, res);
+                        });
+                    }
+
                     Jval meta = ghmeta.get(name);
                     String branch = meta.getString("default_branch");
                     Jval modjson = tryList(name + "/" + branch + "/mod.json", name + "/" + branch + "/mod.hjson", name + "/" + branch + "/assets/mod.json", name + "/" + branch + "/assets/mod.hjson");
