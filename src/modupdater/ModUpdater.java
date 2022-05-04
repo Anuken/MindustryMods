@@ -81,6 +81,14 @@ public class ModUpdater{
                 names.remove(name);
             }
 
+            //add old list of mods
+            Jval prevList = Jval.read("mods.json");
+            for(var value : prevList.asArray()){
+                names.add(value.getString("repo"));
+            }
+            //there may be duplicates
+            names.distinct();
+
             Fi icons = Fi.get("icons");
 
             icons.deleteDirectory();
