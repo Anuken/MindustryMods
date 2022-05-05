@@ -103,7 +103,7 @@ public class ModUpdater{
             Log.info("&lcTotal mods found: @\n", names.size);
 
             //awful.
-            ExecutorService exec = Threads.executor(50);
+            ExecutorService exec = Threads.executor(60);
 
             AtomicInteger index = new AtomicInteger();
             for(String name : names){
