@@ -37,7 +37,7 @@
     "name": "New Horizon",
     "author": "Yuria",
     "lastUpdated": "2022-03-27T01:40:08Z",
-    "stars": 133,
+    "stars": 134,
     "minGameVersion": "135",
     "hasScripts": false,
     "hasJava": true,
@@ -168,7 +168,7 @@
     "repo": "Eschatologue/Unlimited-Armament-Works",
     "name": "Unlimited Armament Works",
     "author": "Eschatologue",
-    "lastUpdated": "2022-05-05T02:01:56Z",
+    "lastUpdated": "2022-05-05T13:15:36Z",
     "stars": 47,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -246,7 +246,7 @@
     "name": "Cyber IO",
     "author": "[#42a5f5]Liplum[]",
     "lastUpdated": "2022-05-05T08:00:56Z",
-    "stars": 36,
+    "stars": 37,
     "minGameVersion": "135",
     "hasScripts": false,
     "hasJava": true,
@@ -605,6 +605,17 @@
     "description": "A cool mod, add various scripted content!\nUsed Multi Lib by 3Snake3 (original by younggam)"
   },
   {
+    "repo": "EB-wilson/Singularity",
+    "name": "Singularity",
+    "author": "EBwilson",
+    "lastUpdated": "2022-04-06T16:39:04Z",
+    "stars": 16,
+    "minGameVersion": "133",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A large tech mod, creative things that gases, atmosphere system, and the nuclear energy system, and more things you can interested\n\n大型科技向mod，创新的气体与大气机制，核能量系统以及更多你会感兴趣的东西"
+  },
+  {
     "repo": "mindustry-antigrief/installer",
     "name": "Foo's Client Installer",
     "author": "foo, buthed010203",
@@ -647,17 +658,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "No description provided."
-  },
-  {
-    "repo": "EB-wilson/Singularity",
-    "name": "Singularity",
-    "author": "EBwilson",
-    "lastUpdated": "2022-04-06T16:39:04Z",
-    "stars": 15,
-    "minGameVersion": "133",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A large tech mod, creative things that gases, atmosphere system, and the nuclear energy system, and more things you can interested\n\n大型科技向mod，创新的气体与大气机制，核能量系统以及更多你会感兴趣的东西"
   },
   {
     "repo": "DeltaNedas/ldb",
@@ -979,6 +979,17 @@
     "description": "Roombas."
   },
   {
+    "repo": "Just-a-Unity-Dev/atomdustry",
+    "name": "Atomdustry",
+    "author": "eclips_e#0001",
+    "lastUpdated": "2022-05-04T08:00:10Z",
+    "stars": 11,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Atomdustry\nThe power of the atom in the palm of your hand\""
+  },
+  {
     "repo": "Slotterleet/Basic-Schematics",
     "name": "Basic Schematics for Mindustry",
     "author": "The Slaylord",
@@ -1034,6 +1045,17 @@
     "description": "A Mindustry mod that adds in vehicles from the CnC(Command and Conquer) series."
   },
   {
+    "repo": "EB-wilson/UniverseCore",
+    "name": "Universe Core",
+    "author": "EBwilson",
+    "lastUpdated": "2022-04-02T15:30:07Z",
+    "stars": 10,
+    "minGameVersion": "127",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
+  },
+  {
     "repo": "SupremeTurtle/DuoEnhanced",
     "name": "DuoEnhanced",
     "author": "Gwapo",
@@ -1054,17 +1076,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
-  },
-  {
-    "repo": "Just-a-Unity-Dev/atomdustry",
-    "name": "Atomdustry",
-    "author": "eclips_e#0001",
-    "lastUpdated": "2022-05-04T08:00:10Z",
-    "stars": 10,
-    "minGameVersion": "135",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Atomdustry\nThe power of the atom in the palm of your hand\""
   },
   {
     "repo": "BlackDeluxeCat/MI2-Utilities-Java",
@@ -1186,17 +1197,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "# MI2-Utilities Testing\nA Mindustry Mod That Adds Useful Vanilla Utilities. MI2-Client Transplantation.\nMindustry模组，添加一些实用原版辅助。MI2端移植。\n（MI2端的终极目标是Mod化，本Mod是MI2端移植的尝试。会添加怪浪怪浪的新功能。）\n\n# Features 特性列表（won't timely update 不会即时更新）\n1.Hud: /sync, rebuild all, map info entry, MI2's unit hp bar\n2.Map Info(Dialog): check map settings & wave info.\n3.Logic Helper: UI in LogicDialog. Check and sort all var names, split names into snippets with a certain string, click to copy any snippet.\n4.Drag the title to move UI.\n==\n1.HUD界面：/sync，一键重建，地图信息入口，MI2式单位血条显示\n2.地图信息：检视大部分地图属性、下一波出怪情况\n3.逻辑辅助：ui在逻辑编辑器。检视、整理变量名，可使用分隔符对变量名切片。点击切片可复制到剪切板。\n4.UI按住标题拖拽"
-  },
-  {
-    "repo": "EB-wilson/UniverseCore",
-    "name": "Universe Core",
-    "author": "EBwilson",
-    "lastUpdated": "2022-04-02T15:30:07Z",
-    "stars": 9,
-    "minGameVersion": "127",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
   },
   {
     "repo": "3Snake3/Units-mod",
@@ -1595,17 +1595,6 @@
     "description": "Mindustry mod that places blocks into the world, allows modded and hidden blocks to be placed too.\n\n \t star me on Github!  (please) \t "
   },
   {
-    "repo": "uujuju1/project-oblivion",
-    "name": "Project Oblivion",
-    "author": "Uujuju",
-    "lastUpdated": "2022-05-04T19:45:41Z",
-    "stars": 7,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The technology of the oblivion awaits you..."
-  },
-  {
     "repo": "MindustryInside/L1337n",
     "name": "L1337n",
     "author": "Mindustry Inside",
@@ -1615,6 +1604,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Leet speak localisator."
+  },
+  {
+    "repo": "uujuju1/project-oblivion",
+    "name": "Project Oblivion",
+    "author": "Uujuju",
+    "lastUpdated": "2022-05-05T13:38:56Z",
+    "stars": 7,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The technology of the oblivion awaits you..."
   },
   {
     "repo": "DeltaNedas/no",
@@ -1813,6 +1813,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Z.P.G.M. Mod dla dużej rozpierduchy oraz zabawy. Wspierający: Świrek3331, Not_Bot, Kamil, Zielony Trójkąt. Gigantyczne podziękowania dla Stalkera za zaanagżowanie w pracę z teksturami, oraz dla Dream Lorda, za nieocenioną pomoc z kodem (bez ciebie nie powstałoby nawet 1.0). Discord: https://discord.gg/E3T9JxDuTP Mod currently unavaible in English. Ask about me in #polski in official mindustry discord if you want to contact."
+  },
+  {
+    "repo": "xStaBUx/OmaLoon-mod-public",
+    "name": "OmaLoon-Mod",
+    "author": "StaBU",
+    "lastUpdated": "2022-04-27T11:03:52Z",
+    "stars": 6,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A little java Mindustry mod"
   },
   {
     "repo": "Fabizocker456/test",
@@ -2187,17 +2198,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mindustry mod that adds several utility windows.\n\nYou can create windows by pressing the buttons on the master window.\n\nThis mod is created with the help of MKUI library."
-  },
-  {
-    "repo": "xStaBUx/OmaLoon-mod-public",
-    "name": "OmaLoon-Mod",
-    "author": "StaBU",
-    "lastUpdated": "2022-04-27T11:03:52Z",
-    "stars": 5,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A little java Mindustry mod"
   },
   {
     "repo": "VvSeanGTvV/V5-Classic",
@@ -3490,7 +3490,7 @@
     "repo": "Swirek3331/Altanic",
     "name": "Altanic",
     "author": "swirek3331",
-    "lastUpdated": "2022-05-04T18:57:31Z",
+    "lastUpdated": "2022-05-05T14:30:50Z",
     "stars": 3,
     "minGameVersion": "130",
     "hasScripts": true,
