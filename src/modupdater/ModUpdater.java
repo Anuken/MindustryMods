@@ -135,7 +135,7 @@ public class ModUpdater{
                         }
 
                         //filter icons based on stars to prevent potential abuse
-                        if(meta.getInt("stargazers_count", 0) >= 0){
+                        if(meta.getInt("stargazers_count", 0) >= 2){
                             var icon = tryImage(name + "/" + branch + "/icon.png", name + "/" + branch + "/assets/icon.png");
                             if(icon != null){
                                 var scaled = new BufferedImage(iconSize, iconSize, BufferedImage.TYPE_INT_ARGB);
