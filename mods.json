@@ -4,7 +4,7 @@
     "name": "BetaMindy",
     "author": "sk7725",
     "lastUpdated": "2022-04-19T10:29:39Z",
-    "stars": 201,
+    "stars": 202,
     "minGameVersion": "134",
     "hasScripts": false,
     "hasJava": true,
@@ -66,6 +66,17 @@
     "description": "WARNING: Not supported on low-end devices.\n\nThe official HJSON 7.0 example mod. Both a reference point and also playable. Developed in Canada.\nMoving to 7.0 release build 130.\n\nDiscord: https://discord.gg/M3hm5z6nm6\n\nA lot of work goes into Exotic, so if you want to show some support or like the content give the mod a star on GitHub!"
   },
   {
+    "repo": "QmelZ/hackustry",
+    "name": "Hackustry",
+    "author": "QmelZ",
+    "lastUpdated": "2021-10-27T16:46:48Z",
+    "stars": 68,
+    "minGameVersion": "126",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Hackustry v4"
+  },
+  {
     "repo": "z0mbiesrock/Diamond-Ore",
     "name": "Diamond Ore Mod",
     "author": "z0mbiesrock",
@@ -101,46 +112,35 @@
   {
     "repo": "DeltaNedas/pictologic",
     "name": "PicToLogic",
-    "author": "DeltaNedas, Router and another guy",
-    "lastUpdated": "2021-05-15T09:37:44Z",
+    "author": "deltanedas, Router and another guy",
+    "lastUpdated": "2022-05-07T15:14:09Z",
     "stars": 55,
     "minGameVersion": "114",
     "hasScripts": true,
     "hasJava": false,
-    "description": "Adds a dialog for turning images into processor schematics.\nRequires DeltaNedas/ui-lib."
+    "description": "Adds a dialog for turning images into processor schematics.\nRequires deltanedas/ui-lib."
   },
   {
     "repo": "DeltaNedas/routorio",
     "name": "routorio",
-    "author": "DeltaNedas",
-    "lastUpdated": "2022-03-05T15:21:07Z",
+    "author": "deltanedas",
+    "lastUpdated": "2022-05-07T15:07:45Z",
     "stars": 51,
-    "minGameVersion": "131",
+    "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
-    "description": "Reality-shattering router expansion mod.\nOptionally requires DeltaNedas/rtfm for manual pages.\n10/10 IGN\n  - Router\nUkranian translation by Prostaчок_ua\nAlso try out Slava1035/reVision!"
+    "description": "Reality-shattering router expansion mod.\nOptionally requires deltanedas/rtfm for manual pages.\n10/10 IGN\n  - Router\nUkranian translation by Prostaчок_ua\nAlso try out Slava1035/reVision!"
   },
   {
     "repo": "DeltaNedas/ui-lib",
     "name": "UI Lib",
-    "author": "DeltaNedas",
-    "lastUpdated": "2021-05-17T19:01:47Z",
+    "author": "deltanedas",
+    "lastUpdated": "2022-05-07T15:24:00Z",
     "stars": 50,
-    "minGameVersion": "108",
+    "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
     "description": "Library for other mods that unifies and simplifies UI creation."
-  },
-  {
-    "repo": "DeltaNedas/rtfm",
-    "name": "RTFM",
-    "author": "DeltaNedas",
-    "lastUpdated": "2021-11-27T20:09:04Z",
-    "stars": 49,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Mod that adds a manual page library. RTFM in the About menu.\nComes with documentation of vanilla'a Logic system.\nOptionally requires DeltaNedas/ui-lib for extra buttons.\npt_BR translations by King-BR"
   },
   {
     "repo": "Sharlottes/UnitInfo",
@@ -158,11 +158,22 @@
     "name": "Unlimited Armament Works",
     "author": "Eschatologue",
     "lastUpdated": "2022-05-07T07:49:01Z",
-    "stars": 48,
+    "stars": 49,
     "minGameVersion": "135",
     "hasScripts": false,
     "hasJava": true,
     "description": "    A port and sequel to Heavy Armament Industries, written in java.\n    All development will be implemented here as Heavy Armament Industries has been discontinued and removed from the Mod browser.\n\n    Unlimited Armament Works adds loads of new content, that expands upon vanilla Mindustry, adding more turrets, units, factories, and its own power system, steam Engines! and much more.\n\n    A lot of work and improvements goes into UAW, if you want to show some support or like the content, please give the mod a star on GitHub, Thank you!"
+  },
+  {
+    "repo": "DeltaNedas/rtfm",
+    "name": "RTFM",
+    "author": "deltanedas",
+    "lastUpdated": "2022-05-07T15:11:26Z",
+    "stars": 49,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Mod that adds a manual page library. RTFM in the About menu.\nComes with documentation of vanilla'a Logic system.\nOptionally requires deltanedas/ui-lib for extra buttons.\npt_BR translations by King-BR"
   },
   {
     "repo": "sk7725/TimeControl",
@@ -212,7 +223,7 @@
     "repo": "liplum/CyberIO",
     "name": "Cyber IO",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-05-07T09:06:12Z",
+    "lastUpdated": "2022-05-07T15:15:57Z",
     "stars": 42,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -286,17 +297,6 @@
     "description": "This is a cheat mod, abuse will reduce your game experience, be careful for using this.\nGitHub: https://github.com/abomb4/super-cheat\nemail:  abomb4@163.com\nWellcome to feedback!\n如果 Android 玩家发现物品描述都是英文，去游戏设置 -> 语言 -> 切换成任意其他语言（如繁体中文）-> 重启 -> 切回简体中文即可。\n\nFeatures:\n- Adjustable Overdrive Projector (speedup, or slow down)\n- Team Changer\n- DPS Tester Unit and Walls\n- Invincible Core and Invincible build plane\n- Cheat Items (power source, liquid source, item source with 36x faster)\n- Invincible Wall, Invincible Force Projector\n- Several strange projectors\n- Chronosphere Unloader and Pusher\n- Unit Factory that can build unit for enemys\n\n这是个作弊 mod，会降低游戏体验，请谨慎使用。\n主要特性：\n- 可调整的超速投影（更快，也可以更慢）\n- 队伍更换器\n- DPS 测试单位与测试墙\n- 无敌核心，无敌建造机\n- 作弊物品（电源、水源、物品源超快版）\n- 无敌围墙，无敌力场\n- 一大堆神奇力场\n- 时空提取器、时空推送器\n- 单位工厂（可以给敌人出兵）\n\nЭто читерный мод, злоупотребление испортит интерес к игре, острожней с этим.\nВозможности:\n- Настраиваемый сверхприводный проектор (ускорение или замедление)\n- Блоки, меняющие команду, за которую играют те или иные единицы (или вы сами)\n- Измеритель урона в секунду\n- Непобедимое ядро и его строительная боевая единица\n- Cheat Items (power source, liquid source, item source with 36x faster)\n- Неразрушаемые стены, силовой проектор с бесконечной прочностью\n- Несколько полезных проекторов\n- Дистанционный загрузчик и разгрузчик\n- Универсальный завод боевых единиц, также может производить их для врагов"
   },
   {
-    "repo": "DeltaNedas/dev-mode",
-    "name": "Developer Mode",
-    "author": "DeltaNedas",
-    "lastUpdated": "2021-02-17T07:10:09Z",
-    "stars": 30,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Lets you type into the console.\nPress F8 to open on PC.\nRequires DeltaNedas/ui-lib on mobile."
-  },
-  {
     "repo": "Sh1penfire/Endless-Rusting-Demo",
     "name": "Endless Rusting Demo",
     "author": "Sh1penfire",
@@ -306,6 +306,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The place, a desolate wasteland it will become. The crash transformed everything. Wasteland may not be the best word for it, as there is still life, yet so far away from what we normaly expect. \n \n \nWelcome to the Endless Rusting Demo, and thanks to \n Bluphenyx#0001 for the Archangel's conscept and sprite, \n[SK]Roomba#8215 for tesla sprite and helping me playtest, \nQmelZ the Void#0526 for helping me with code, \ncl0cks#0039 for helping me come up with ideas \n \nFor making this posible. This is the oficial demo for it's v8 update. Maps are unfinished, so you should probibly wait for a bit before using the mod. I hope that you have a good time playing, and I'll cya in the past."
+  },
+  {
+    "repo": "DeltaNedas/dev-mode",
+    "name": "Developer Mode",
+    "author": "deltanedas",
+    "lastUpdated": "2022-05-07T14:59:49Z",
+    "stars": 30,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Lets you type into the console.\nPress F8 to open."
   },
   {
     "repo": "MEEPofFaith/missing-category-units",
@@ -333,7 +344,7 @@
     "repo": "NickName73/GRavillaso",
     "name": "GRavillaso",
     "author": "NickName73 (NiTiS-Dev)",
-    "lastUpdated": "2022-05-06T22:22:18Z",
+    "lastUpdated": "2022-05-07T15:17:39Z",
     "stars": 28,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -429,6 +440,17 @@
     "description": "Dagger ate description =(\nDont launch this mod on v7.0, otherwise he will eat you too >=)"
   },
   {
+    "repo": "HappyGingerWolf/Inverted-Machines",
+    "name": "Inverted Machines",
+    "author": "GingerWolf and MEEPofFaith",
+    "lastUpdated": "2021-09-26T15:21:08Z",
+    "stars": 23,
+    "minGameVersion": "130.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds inverted versions of crafters."
+  },
+  {
     "repo": "pixecoz/MindustrySchematics",
     "name": "Schematics Pack",
     "author": "pixecoz",
@@ -460,17 +482,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod that contains unique biological forms, blocks, machines and mechanics to discover the world of the Animalia Kingdom!"
-  },
-  {
-    "repo": "HappyGingerWolf/Inverted-Machines",
-    "name": "Inverted Machines",
-    "author": "GingerWolf and MEEPofFaith",
-    "lastUpdated": "2021-09-26T15:21:08Z",
-    "stars": 22,
-    "minGameVersion": "130.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds inverted versions of crafters."
   },
   {
     "repo": "genNAowl/Upgraded-Factories",
@@ -510,7 +521,7 @@
     "name": "Dimension Shard",
     "author": "滞人",
     "lastUpdated": "2021-06-27T13:12:02Z",
-    "stars": 19,
+    "stars": 20,
     "minGameVersion": "126",
     "hasScripts": true,
     "hasJava": false,
@@ -519,13 +530,13 @@
   {
     "repo": "DeltaNedas/unit-factory",
     "name": "Unit Factory",
-    "author": "DeltaNedas",
-    "lastUpdated": "2021-11-27T20:32:30Z",
+    "author": "deltanedas",
+    "lastUpdated": "2022-05-07T15:16:03Z",
     "stars": 19,
-    "minGameVersion": "131",
+    "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
-    "description": "Spawn any enemy in sandbox or on multiplayer, with /js (if supported).\nRequires DeltaNedas/ui-lib."
+    "description": "Spawn any enemy in sandbox or on multiplayer, with /js (if supported).\nRequires deltanedas/ui-lib."
   },
   {
     "repo": "sk7725/Testers",
@@ -561,6 +572,17 @@
     "description": "Mod that added things that should be in the original game and some are just added for convenience sake\n\nFrench translation by Noxenemerus Lunacor"
   },
   {
+    "repo": "TheRealIvyX/MoreDefences",
+    "name": "MoreDefences",
+    "author": "IvyX",
+    "lastUpdated": "2022-01-03T21:31:04Z",
+    "stars": 17,
+    "minGameVersion": "134",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod made by IvyX and 7rodo that adds new turrets and walls to defend your core. Does not work on iOS. Discord server invite: https://discord.gg/eEtw5GF2dk."
+  },
+  {
     "repo": "AureusStratus/Advancements",
     "name": "Advancements",
     "author": "AureusStratus",
@@ -570,17 +592,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod that expands apon vanilla"
-  },
-  {
-    "repo": "TheRealIvyX/MoreDefences",
-    "name": "MoreDefences",
-    "author": "IvyX",
-    "lastUpdated": "2022-01-03T21:31:04Z",
-    "stars": 16,
-    "minGameVersion": "134",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod made by IvyX and 7rodo that adds new turrets and walls to defend your core. Does not work on iOS. Discord server invite: https://discord.gg/eEtw5GF2dk."
   },
   {
     "repo": "EclipseTheOldOne/Project-Eclipse",
@@ -658,6 +669,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds clientside logic debugging tools.\nRequires DeltaNedas/override-lib."
+  },
+  {
+    "repo": "GlennFolker/Confictura",
+    "name": "Confictura",
+    "author": "GlennFolker",
+    "lastUpdated": "2022-04-24T08:56:29Z",
+    "stars": 14,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "... far beneath the reality."
   },
   {
     "repo": "Ferlern/extended-UI",
@@ -757,17 +779,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "hehe angish go nrrrt"
-  },
-  {
-    "repo": "GlennFolker/Confictura",
-    "name": "Confictura",
-    "author": "GlennFolker",
-    "lastUpdated": "2022-04-24T08:56:29Z",
-    "stars": 13,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "... far beneath the reality."
   },
   {
     "repo": "12three7/Binary0011",
@@ -889,6 +900,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The place, a desolate wasteland it will become. The crash transformed everything. Wasteland may not be the best word for it, as there is still life, yet so far away from what we normaly expect. \n\n \nWelcome to the Endless Rusting, and thanks to \n\nBluphenyx#0001 for the Archangel's conscept and sprite, \n\n[SK]Roomba#8215 for tesla sprite and helping me playtest, \n\nFlin#8261 for lending a hand with the Javelin unit sprite, \n\nAureus#6109 for lending me a hand with some of the status effect icons, \n\nQmelZ the Void#0526 for helping me with code, \n\ncl0cks#0039 for helping me come up with ideas \n\nFor making this posible. It may be a small mod, but it'll improve and grow as the months pass. I hope that you have a good time playing, and I'll cya in the past. \n\n(Note: Download from github repository, reinstall/download will not work)"
+  },
+  {
+    "repo": "theangelurd/Additional-Content",
+    "name": " Additional  Content",
+    "author": "Tayros/theangelurd",
+    "lastUpdated": "2022-05-06T21:53:57Z",
+    "stars": 12,
+    "minGameVersion": "122",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "I know the name is very boring but i can't find another name. A mod that adds a great amount of content to the game. Have fun with the mod."
   },
   {
     "repo": "tcookiem/yeeter-mod",
@@ -1342,17 +1364,6 @@
     "description": "Adds more thorium development"
   },
   {
-    "repo": "DeltaNedas/speed",
-    "name": "Speed",
-    "author": "DeltaNedas",
-    "lastUpdated": "2020-12-14T20:38:59Z",
-    "stars": 7,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a speedometer.\nRequires DeltaNedas/ui-lib"
-  },
-  {
     "repo": "DeltaNedas/cliff",
     "name": "cliff",
     "author": "DeltaNedas",
@@ -1573,10 +1584,21 @@
     "description": "Mindustry mod that places blocks into the world, allows modded and hidden blocks to be placed too.\n\n \t star me on Github!  (please) \t "
   },
   {
+    "repo": "MindustryInside/L1337n",
+    "name": "L1337n",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2022-05-07T12:23:42Z",
+    "stars": 7,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Leet speak localisator."
+  },
+  {
     "repo": "uujuju1/project-oblivion",
     "name": "Project Oblivion",
     "author": "Uujuju",
-    "lastUpdated": "2022-05-06T21:49:48Z",
+    "lastUpdated": "2022-05-07T14:53:43Z",
     "stars": 7,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -1584,15 +1606,15 @@
     "description": "The technology of the oblivion awaits you..."
   },
   {
-    "repo": "MindustryInside/L1337n",
-    "name": "L1337n",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2022-05-07T01:03:44Z",
+    "repo": "DeltaNedas/speed",
+    "name": "Speed",
+    "author": "deltanedas",
+    "lastUpdated": "2022-05-07T15:15:29Z",
     "stars": 7,
-    "minGameVersion": "115",
-    "hasScripts": false,
+    "minGameVersion": "136",
+    "hasScripts": true,
     "hasJava": false,
-    "description": "Leet speak localisator."
+    "description": "Adds a speedometer.\nRequires deltanedas/ui-lib"
   },
   {
     "repo": "DeltaNedas/no",
@@ -1615,17 +1637,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Two (2) times faster conveyors, at twice the cost"
-  },
-  {
-    "repo": "DeltaNedas/mobile-ui",
-    "name": "Mobile UI",
-    "author": "DeltaNedas",
-    "lastUpdated": "2020-12-14T20:38:37Z",
-    "stars": 6,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Enables mobile UI if on desktop, or disables it on mobile."
   },
   {
     "repo": "DeltaNedas/yes",
@@ -1824,6 +1835,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "I am an extremely lazy person,\nand therefore will not\nwrite a long description"
+  },
+  {
+    "repo": "DeltaNedas/mobile-ui",
+    "name": "Mobile UI",
+    "author": "deltanedas",
+    "lastUpdated": "2022-05-07T15:17:19Z",
+    "stars": 6,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Enables mobile UI if on desktop, or disables it on mobile."
   },
   {
     "repo": "zeroCore-salamander/HackForAll",
@@ -2200,6 +2222,17 @@
     "description": "Adds V5 in v126 cotains: Enemies, Unused Blocks, and Maps. Recommended Game Version: 135, since some sounds are not avaliable in v126!"
   },
   {
+    "repo": "Radio-Silence-1/2r2tUtilitesMod",
+    "name": "2R2T Mod",
+    "author": "No",
+    "lastUpdated": "2022-05-05T01:19:37Z",
+    "stars": 5,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A custom mod for 2r2t, \n\nRequires DeltaNedas/ui-lib to work"
+  },
+  {
     "repo": "RlCCJ/MinerTools",
     "name": "MinerTools",
     "author": "miner",
@@ -2242,17 +2275,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Destroy the unit you're currently controlling.\nRequires DeltaNedas/ui-lib."
-  },
-  {
-    "repo": "DeltaNedas/radar",
-    "name": "Radar",
-    "author": "DeltaNedas",
-    "lastUpdated": "2020-12-14T20:38:50Z",
-    "stars": 4,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a block detecting radar.\nRequires DeltaNedas/ui-lib."
   },
   {
     "repo": "TheSaus/ImprovedGamma",
@@ -2363,6 +2385,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "调试的工具。/Utilities for debugging."
+  },
+  {
+    "repo": "GenericSomeone/RejecteDustry",
+    "name": "RejecteDustry",
+    "author": "Inconsequential",
+    "lastUpdated": "2021-06-13T00:20:03Z",
+    "stars": 4,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "The dumbest mod ideas, brought to life once and for all so that they are never suggested again."
   },
   {
     "repo": "Janssendel/RoombanDustry",
@@ -2585,7 +2618,7 @@
     "description": "Collection of joke blocks"
   },
   {
-    "repo": "rlzzj/Logic-Completion",
+    "repo": "RlCCJ/Logic-Completion",
     "name": "LogicCompletion",
     "author": "miner",
     "lastUpdated": "2022-04-09T08:33:05Z",
@@ -2596,7 +2629,7 @@
     "description": "A mindustry mod for logic"
   },
   {
-    "repo": "RlCCJ/Logic-Completion",
+    "repo": "rlzzj/Logic-Completion",
     "name": "LogicCompletion",
     "author": "miner",
     "lastUpdated": "2022-04-09T08:33:05Z",
@@ -2706,6 +2739,17 @@
     "description": "Mod with some new additions to the game, such as units, turrets, items, conveyors, and much more! Discord server: https://discord.gg/hGqEVwsg"
   },
   {
+    "repo": "DeltaNedas/radar",
+    "name": "Radar",
+    "author": "deltanedas",
+    "lastUpdated": "2022-05-07T15:00:58Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a block detecting radar.\nRequires deltanedas/ui-lib."
+  },
+  {
     "repo": "Slotterleet/Crazy-Militaries",
     "name": "Crazy-Militaries",
     "author": "The Slaylord",
@@ -2737,17 +2781,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "No description provided."
-  },
-  {
-    "repo": "DeltaNedas/tracker",
-    "name": "Tracker",
-    "author": "DeltaNedas",
-    "lastUpdated": "2020-12-14T20:39:04Z",
-    "stars": 3,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Create easily visible markers to track a position or player.\nRequires DeltaNedas/ui-lib."
   },
   {
     "repo": "QmelZ/hackustry-java",
@@ -3485,6 +3518,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\r\nAdds blocks, units and materials following(or at least trying) mindustry style.\r\nAlso contains some unfinished conceps(using json) like tractor beams, ion turrets and more\r\n\r\nThis is under development, i will update it SLOWLY so maybe i take breaks\r\n\r\nNow only works on V7 (v135)\r\n"
+  },
+  {
+    "repo": "DeltaNedas/tracker",
+    "name": "Tracker",
+    "author": "deltanedas",
+    "lastUpdated": "2022-05-07T15:15:25Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Create easily visible markers to track a position or player.\nRequires deltanedas/ui-lib."
   },
   {
     "repo": "RebornTrack970/Sandbox-Mode",
@@ -4246,6 +4290,17 @@
     "description": "Allows the map to be rendered multiple times at once, or not at all."
   },
   {
+    "repo": "TakesTheBiscuit/MovingOnUP-Mindustry",
+    "name": "MovingOnUP",
+    "author": "TakesTheBiscuit",
+    "lastUpdated": "2021-11-28T15:34:33Z",
+    "stars": 2,
+    "minGameVersion": "125",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "M People vibes, moving on up."
+  },
+  {
     "repo": "Kappandrew/BTD-dustry",
     "name": "BTD-dustry",
     "author": "Dunc",
@@ -4299,17 +4354,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "stop reading this and give my mod a star"
-  },
-  {
-    "repo": "DeltaNedas/item-grabber",
-    "name": "Item Grabber",
-    "author": "DeltaNedas",
-    "lastUpdated": "2022-01-10T16:10:19Z",
-    "stars": 2,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a button to quickly take 15 of an item from the core.\nRight click (PC) or long press (mobile) to set the grabbed item.\nRequires DeltaNedas/ui-lib."
   },
   {
     "repo": "EmanuelG-Gaming/barrier",
@@ -4521,17 +4565,6 @@
     "description": "Adds content that I think is cool and interesting also name of this mod doesn't actually have anything in the progression of campaign lol. \n\n Doesn't have much content for now since I don't expect this to be used in an actual mod campaign run, and also because time management is not in my vocabulary and school, h."
   },
   {
-    "repo": "iarkn/riim",
-    "name": "Riim",
-    "author": "iarkn",
-    "lastUpdated": "2022-05-06T03:28:44Z",
-    "stars": 2,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "TBA"
-  },
-  {
     "repo": "ArkanicXD/caustic-Fragments",
     "name": "Caustic fragments",
     "author": "Arkanic",
@@ -4541,17 +4574,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Caustic fragments... Un mod donde podras jugar con 4 tipo de minerales.\nEstos se llaman Andal,Andragon,Extraggedon,Glomerita,\nExplora con tus propias manos un mundo donde podras manipular todo tipo de materiales a tu gusto."
-  },
-  {
-    "repo": "Ka4ok52/F-MOD",
-    "name": "F-MOD",
-    "author": "Ka4ok52_",
-    "lastUpdated": "2022-05-06T07:43:59Z",
-    "stars": 2,
-    "minGameVersion": "131",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "No description provided."
   },
   {
     "repo": "liplum/MDT-DST",
@@ -4574,6 +4596,39 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\n此mod分离自mod tools.\nWARNING: 此mod仍在测试中.\n-----------------------\n1. 修复了一堆bug.\n2. 优化了代码.\n3. 添加了新功能.\n\n创建的是文件夹(在mods(I hope...)文件夹).\n\n旧版本不支持某些功能\n"
+  },
+  {
+    "repo": "iarkn/riim",
+    "name": "Riim",
+    "author": "iarkn",
+    "lastUpdated": "2022-05-07T11:19:46Z",
+    "stars": 2,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "TBA"
+  },
+  {
+    "repo": "Ka4ok52/F-MOD",
+    "name": "F-MOD",
+    "author": "Ka4ok52_",
+    "lastUpdated": "2022-05-07T14:47:15Z",
+    "stars": 2,
+    "minGameVersion": "131",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "No description provided."
+  },
+  {
+    "repo": "DeltaNedas/item-grabber",
+    "name": "Item Grabber",
+    "author": "deltanedas",
+    "lastUpdated": "2022-05-07T15:01:23Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a button to quickly take 15 of an item from the core.\nRight click (PC) or long press (mobile) to set the grabbed item.\nRequires deltanedas/ui-lib."
   },
   {
     "repo": "SirMachinegun/EBM",
@@ -4717,6 +4772,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "  Displays the modding docs code examples."
+  },
+  {
+    "repo": "GaviTSRA/OhNoMod",
+    "name": "OhNoMod",
+    "author": "GaviTSRA",
+    "lastUpdated": "2021-02-07T17:50:10Z",
+    "stars": 1,
+    "minGameVersion": "122",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "The Oh No Mod"
   },
   {
     "repo": "Ovcaa/Parasha-2.0",
@@ -5434,17 +5500,6 @@
     "description": "A mod made to alter vanilla progression"
   },
   {
-    "repo": "Prosta4okua/Ukrajinisator",
-    "name": "Ukrajinisator",
-    "author": "Prosta4ok_ua#6336",
-    "lastUpdated": "2022-02-03T19:17:47Z",
-    "stars": 1,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Нехай проблеми та незгоди не роблять вам в житті погоди!"
-  },
-  {
     "repo": "Radio-Silence-1/CursedUnits",
     "name": "Weird Textures",
     "author": "Radio Silence",
@@ -5886,7 +5941,7 @@
   },
   {
     "repo": "Swirek3331/ZPGM-Connector",
-    "name": "ZPGM-Connector",
+    "name": "ZPGM-Connector-v6",
     "author": "swirek3331",
     "lastUpdated": "2022-05-04T13:59:34Z",
     "stars": 1,
@@ -5894,6 +5949,28 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Only zpgm mebers will understand. Łączy wszystkie mody z klanu ZPGM, ta łaczy... Ikona na czas obecny jest przerobieniem dzieła Omnoma."
+  },
+  {
+    "repo": "Swirek3331/ZPGM-Connector-v6",
+    "name": "ZPGM-Connector-v6",
+    "author": "swirek3331",
+    "lastUpdated": "2022-05-04T13:59:34Z",
+    "stars": 1,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Only zpgm mebers will understand. Łączy wszystkie mody z klanu ZPGM, ta łaczy... Ikona na czas obecny jest przerobieniem dzieła Omnoma."
+  },
+  {
+    "repo": "Prosta4okua/Ukrajinisator",
+    "name": "Ukrajinisator",
+    "author": "Prosta4ok_ua#6336",
+    "lastUpdated": "2022-05-07T14:58:50Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Нехай проблеми та незгоди не роблять вам в житті погоди!\nПідтримує сьому версію."
   },
   {
     "repo": "Nikisos/TheBattleMod",
@@ -6466,6 +6543,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds items of vanilla fluids"
+  },
+  {
+    "repo": "wilfulsummer/New-mod",
+    "name": "Wilfulsummers mod",
+    "author": "Wilfulsummer",
+    "lastUpdated": "2021-09-04T05:35:23Z",
+    "stars": 0,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Building."
   },
   {
     "repo": "StepHindi/NEC",
