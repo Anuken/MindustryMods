@@ -124,7 +124,7 @@
     "repo": "DeltaNedas/routorio",
     "name": "routorio",
     "author": "deltanedas",
-    "lastUpdated": "2022-05-07T15:07:45Z",
+    "lastUpdated": "2022-05-07T16:06:20Z",
     "stars": 51,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -141,6 +141,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Library for other mods that unifies and simplifies UI creation."
+  },
+  {
+    "repo": "DeltaNedas/rtfm",
+    "name": "RTFM",
+    "author": "deltanedas",
+    "lastUpdated": "2022-05-07T15:52:23Z",
+    "stars": 50,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Mod that adds a manual page library. RTFM in the About menu.\nComes with documentation of vanilla'a Logic system.\nOptionally requires deltanedas/ui-lib for extra buttons.\npt_BR translations by King-BR"
   },
   {
     "repo": "Sharlottes/UnitInfo",
@@ -163,17 +174,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "    A port and sequel to Heavy Armament Industries, written in java.\n    All development will be implemented here as Heavy Armament Industries has been discontinued and removed from the Mod browser.\n\n    Unlimited Armament Works adds loads of new content, that expands upon vanilla Mindustry, adding more turrets, units, factories, and its own power system, steam Engines! and much more.\n\n    A lot of work and improvements goes into UAW, if you want to show some support or like the content, please give the mod a star on GitHub, Thank you!"
-  },
-  {
-    "repo": "DeltaNedas/rtfm",
-    "name": "RTFM",
-    "author": "deltanedas",
-    "lastUpdated": "2022-05-07T15:11:26Z",
-    "stars": 49,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Mod that adds a manual page library. RTFM in the About menu.\nComes with documentation of vanilla'a Logic system.\nOptionally requires deltanedas/ui-lib for extra buttons.\npt_BR translations by King-BR"
   },
   {
     "repo": "sk7725/TimeControl",
@@ -388,7 +388,7 @@
     "repo": "3Snake3/Sapphirium",
     "name": "Sapphirium",
     "author": "Snake & SuperJaba2000",
-    "lastUpdated": "2022-04-17T09:17:48Z",
+    "lastUpdated": "2022-05-07T18:16:22Z",
     "stars": 27,
     "minGameVersion": "135",
     "hasScripts": true,
@@ -531,7 +531,7 @@
     "repo": "DeltaNedas/unit-factory",
     "name": "Unit Factory",
     "author": "deltanedas",
-    "lastUpdated": "2022-05-07T15:16:03Z",
+    "lastUpdated": "2022-05-07T15:28:53Z",
     "stars": 19,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -905,7 +905,7 @@
     "repo": "theangelurd/Additional-Content",
     "name": " Additional  Content",
     "author": "Tayros/theangelurd",
-    "lastUpdated": "2022-05-06T21:53:57Z",
+    "lastUpdated": "2022-05-07T18:56:43Z",
     "stars": 12,
     "minGameVersion": "122",
     "hasScripts": true,
@@ -1199,17 +1199,6 @@
     "description": "# MI2-Utilities Testing\nA Mindustry Mod That Adds Useful Vanilla Utilities. MI2-Client Transplantation.\nMindustry模组，添加一些实用原版辅助。MI2端移植。\n（MI2端的终极目标是Mod化，本Mod是MI2端移植的尝试。会添加怪浪怪浪的新功能。）\n\n# Features 特性列表（won't timely update 不会即时更新）\n1.Hud: /sync, rebuild all, map info entry, MI2's unit hp bar\n2.Map Info(Dialog): check map settings & wave info.\n3.Logic Helper: UI in LogicDialog. Check and sort all var names, split names into snippets with a certain string, click to copy any snippet.\n4.Drag the title to move UI.\n==\n1.HUD界面：/sync，一键重建，地图信息入口，MI2式单位血条显示\n2.地图信息：检视大部分地图属性、下一波出怪情况\n3.逻辑辅助：ui在逻辑编辑器。检视、整理变量名，可使用分隔符对变量名切片。点击切片可复制到剪切板。\n4.UI按住标题拖拽"
   },
   {
-    "repo": "3Snake3/Units-mod",
-    "name": "Units Mod",
-    "author": "Snake",
-    "lastUpdated": "2022-04-17T01:32:27Z",
-    "stars": 9,
-    "minGameVersion": "127",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a new fractions of units like: Snow, Electrical, Spore, Blade, Averaged, Upgraded."
-  },
-  {
     "repo": "WMF-Industries/ExpandedIndustries",
     "name": "Expanded Industries",
     "author": "WMF Industries",
@@ -1219,6 +1208,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Lots of crazy stuff :>"
+  },
+  {
+    "repo": "3Snake3/Units-mod",
+    "name": "Units Mod",
+    "author": "Snake",
+    "lastUpdated": "2022-05-07T18:24:05Z",
+    "stars": 9,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a new fractions of units like: Snow, Electrical, Spore, Blade, Averaged, Upgraded."
   },
   {
     "repo": "DeltaNedas/override-lib",
@@ -1595,26 +1595,26 @@
     "description": "Leet speak localisator."
   },
   {
-    "repo": "uujuju1/project-oblivion",
-    "name": "Project Oblivion",
-    "author": "Uujuju",
-    "lastUpdated": "2022-05-07T14:53:43Z",
-    "stars": 7,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The technology of the oblivion awaits you..."
-  },
-  {
     "repo": "DeltaNedas/speed",
     "name": "Speed",
     "author": "deltanedas",
-    "lastUpdated": "2022-05-07T15:15:29Z",
+    "lastUpdated": "2022-05-07T16:00:47Z",
     "stars": 7,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a speedometer.\nRequires deltanedas/ui-lib"
+  },
+  {
+    "repo": "uujuju1/project-oblivion",
+    "name": "Project Oblivion",
+    "author": "Uujuju",
+    "lastUpdated": "2022-05-07T17:10:11Z",
+    "stars": 7,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The technology of the oblivion awaits you..."
   },
   {
     "repo": "DeltaNedas/no",
@@ -2189,17 +2189,6 @@
     "description": "A Mindustry Java mod."
   },
   {
-    "repo": "DeltaNedas/waisa",
-    "name": "WAISA",
-    "author": "DeltaNedas",
-    "lastUpdated": "2022-04-19T21:22:51Z",
-    "stars": 5,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "What Am I Shooting At, shows info on targeted enemies.\nRequires DeltaNedas/ui-lib."
-  },
-  {
     "repo": "Mnemotechnician/calculus",
     "name": "[Kotlin] Calculus",
     "author": "Мнемотехник",
@@ -2253,6 +2242,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A java mod for Mindustry."
+  },
+  {
+    "repo": "DeltaNedas/waisa",
+    "name": "WAISA",
+    "author": "deltanedas",
+    "lastUpdated": "2022-05-07T15:28:47Z",
+    "stars": 5,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "What Am I Shooting At, shows info on targeted enemies.\nRequires deltanedas/ui-lib."
   },
   {
     "repo": "als39175/Infinity-Cheat",
@@ -4125,17 +4125,6 @@
     "description": "A mod that adds colored walls and conveyors."
   },
   {
-    "repo": "TheEE145/ohNoNooh",
-    "name": "ohNoNooh",
-    "author": "TheEE145",
-    "lastUpdated": "2021-09-28T12:37:53Z",
-    "stars": 2,
-    "minGameVersion": "116",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "this game with this mod was cursed"
-  },
-  {
     "repo": "TotallyLemon/Improved-Core-Units",
     "name": "Improved Core Units",
     "author": "TotallyLemon",
@@ -4629,6 +4618,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a button to quickly take 15 of an item from the core.\nRight click (PC) or long press (mobile) to set the grabbed item.\nRequires deltanedas/ui-lib."
+  },
+  {
+    "repo": "TheEE145/ohNoNooh",
+    "name": "ohNoNooh",
+    "author": "TheEE145",
+    "lastUpdated": "2022-05-07T19:03:35Z",
+    "stars": 2,
+    "minGameVersion": "116",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "this game with this mod was cursed"
   },
   {
     "repo": "SirMachinegun/EBM",
@@ -5965,7 +5965,7 @@
     "repo": "Prosta4okua/Ukrajinisator",
     "name": "Ukrajinisator",
     "author": "Prosta4ok_ua#6336",
-    "lastUpdated": "2022-05-07T14:58:50Z",
+    "lastUpdated": "2022-05-07T15:26:59Z",
     "stars": 1,
     "minGameVersion": "136",
     "hasScripts": false,
