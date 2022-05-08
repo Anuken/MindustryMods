@@ -26,7 +26,7 @@
     "name": "Exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2022-05-02T22:45:34Z",
-    "stars": 137,
+    "stars": 138,
     "minGameVersion": "134.1",
     "hasScripts": false,
     "hasJava": false,
@@ -245,7 +245,7 @@
     "repo": "MEEPofFaith/prog-mats-java",
     "name": "Progression Ministry",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progression Ministry enabled to view them!)",
-    "lastUpdated": "2022-05-06T04:30:58Z",
+    "lastUpdated": "2022-05-07T23:12:46Z",
     "stars": 40,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -550,6 +550,17 @@
     "description": "Adds various testers for easier mod development.\nThanks to: Gdeft"
   },
   {
+    "repo": "AureusStratus/Advancements",
+    "name": "Advancements",
+    "author": "AureusStratus",
+    "lastUpdated": "2022-04-03T00:43:31Z",
+    "stars": 18,
+    "minGameVersion": "134.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that expands apon vanilla"
+  },
+  {
     "repo": "UnionofSovietSocialistRepublics/Spore-Biomechs",
     "name": "Spore Biomechs",
     "author": "Hydroabyss",
@@ -581,17 +592,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod made by IvyX and 7rodo that adds new turrets and walls to defend your core. Does not work on iOS. Discord server invite: https://discord.gg/eEtw5GF2dk."
-  },
-  {
-    "repo": "AureusStratus/Advancements",
-    "name": "Advancements",
-    "author": "AureusStratus",
-    "lastUpdated": "2022-04-03T00:43:31Z",
-    "stars": 17,
-    "minGameVersion": "134.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that expands apon vanilla"
   },
   {
     "repo": "EclipseTheOldOne/Project-Eclipse",
@@ -905,7 +905,7 @@
     "repo": "theangelurd/Additional-Content",
     "name": " Additional  Content",
     "author": "Tayros/theangelurd",
-    "lastUpdated": "2022-05-07T18:56:43Z",
+    "lastUpdated": "2022-05-07T23:02:13Z",
     "stars": 12,
     "minGameVersion": "122",
     "hasScripts": true,
@@ -1089,6 +1089,17 @@
     "description": "# MI2-Utilities Java\n一个原版辅助工具，有爱自取。\n\n安装方法：\n\n- 方法1 在游戏里使用“从github导入”，填BlackDeluxeCat/MI2-Utilities-Java\n- 方法2 进入本mod最新(Lateset)Release，下载文件列表中的MI2-Utilities Java.jar，在游戏里使用“导入文件”，导入所下载的jar。\n- 方法3 若已安装老版本，在游戏里点击mod详情页，重新安装。（仅限移动端）\n\n中文讨论群：875035496\n\n无力为其他语言做本地化，接受pr。\n\n## 特性列表（0.8.3）\n\n### ui\n\n#### 主界面\n- 快捷功能：一键规划重建、透视物流\n- AI辅助操作：自动挖矿、自动建造规划、自动自我维修、自动瞄准\n- 该窗口的选项弹窗包含MI2U的大部分选项。\n\n#### 核心信息\n- 原版核心信息+，资源变化折线图\n- 单位计数器\n- 电量条与电网分析\n- 可切换查看其他队伍\n\n#### 小地图\n- 基于原版地图渲染器\n- 可缩放至全图\n- 玩家单位显示名称\n- 点击移动视角（仅限桌面端）\n\n#### 地图信息\n- 大部分地图规则\n- 波次预览工具，强制跳波\n- 波次血量条\n\n#### 逻辑辅助\n- 整理与快捷复制变量名，可使用分隔符\n- 查找与替换变量名\n- 代码块剪切与复制\n\n#### Emoji\n- 一个emoji查阅工具\n\n### Mindow2\n本mod的可拖拽窗口。标题栏可进入选项弹窗、帮助页弹窗，具体请查阅各窗口的帮助页。\n拖拽、吸附等均可通过选项保存。\n\n### 杂项\n- 玩家光标平滑显示\n- 渲染单位血条、逻辑控制、寻路线\n- 关闭残骸、单位、射弹渲染\n- 修改部分方块数值条\n- 添加一套地图筛选器，特色是可复合坐标变换\n- 99.5%的改动可以通过选项关闭\n- MI2U选项存储在$Mindustry/mods/MI2U_Settings/目录下"
   },
   {
+    "repo": "3Snake3/Units-mod",
+    "name": "Units Mod",
+    "author": "Snake",
+    "lastUpdated": "2022-05-07T18:24:05Z",
+    "stars": 10,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a new fractions of units like: Snow, Electrical, Spore, Blade, Averaged, Upgraded."
+  },
+  {
     "repo": "sk7725/Immundustry",
     "name": "Immundustry",
     "author": "sk7725",
@@ -1208,17 +1219,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Lots of crazy stuff :>"
-  },
-  {
-    "repo": "3Snake3/Units-mod",
-    "name": "Units Mod",
-    "author": "Snake",
-    "lastUpdated": "2022-05-07T18:24:05Z",
-    "stars": 9,
-    "minGameVersion": "135",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a new fractions of units like: Snow, Electrical, Spore, Blade, Averaged, Upgraded."
   },
   {
     "repo": "DeltaNedas/override-lib",
@@ -1609,7 +1609,7 @@
     "repo": "uujuju1/project-oblivion",
     "name": "Project Oblivion",
     "author": "Uujuju",
-    "lastUpdated": "2022-05-07T17:10:11Z",
+    "lastUpdated": "2022-05-07T21:09:28Z",
     "stars": 7,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -4554,17 +4554,6 @@
     "description": "Adds content that I think is cool and interesting also name of this mod doesn't actually have anything in the progression of campaign lol. \n\n Doesn't have much content for now since I don't expect this to be used in an actual mod campaign run, and also because time management is not in my vocabulary and school, h."
   },
   {
-    "repo": "ArkanicXD/caustic-Fragments",
-    "name": "Caustic fragments",
-    "author": "Arkanic",
-    "lastUpdated": "2022-05-06T04:40:06Z",
-    "stars": 2,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Caustic fragments... Un mod donde podras jugar con 4 tipo de minerales.\nEstos se llaman Andal,Andragon,Extraggedon,Glomerita,\nExplora con tus propias manos un mundo donde podras manipular todo tipo de materiales a tu gusto."
-  },
-  {
     "repo": "liplum/MDT-DST",
     "name": "Don't Starve",
     "author": "[#891213]Liplum[]",
@@ -4629,6 +4618,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "this game with this mod was cursed"
+  },
+  {
+    "repo": "ArkanicXD/caustic-Fragments",
+    "name": "Caustic fragments",
+    "author": "Arkanic[]",
+    "lastUpdated": "2022-05-08T01:54:32Z",
+    "stars": 2,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Caustic fragments... Un mod donde podras jugar con 4 tipo de minerales.\nEstos se llaman Andal,Andragon,Extraggedon,Glomerita,\nExplora con tus propias manos un mundo donde podras manipular todo tipo de materiales a tu gusto."
   },
   {
     "repo": "SirMachinegun/EBM",
