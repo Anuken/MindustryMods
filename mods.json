@@ -3,7 +3,7 @@
     "repo": "sk7725/BetaMindy",
     "name": "BetaMindy",
     "author": "sk7725",
-    "lastUpdated": "2022-05-11T01:58:08Z",
+    "lastUpdated": "2022-05-11T02:13:29Z",
     "stars": 204,
     "minGameVersion": "134",
     "hasScripts": false,
@@ -179,7 +179,7 @@
     "repo": "liplum/CyberIO",
     "name": "Cyber IO",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-05-10T15:11:44Z",
+    "lastUpdated": "2022-05-11T02:38:11Z",
     "stars": 49,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -671,6 +671,17 @@
     "description": "Adds clientside logic debugging tools.\nRequires DeltaNedas/override-lib."
   },
   {
+    "repo": "Zeniku/HeavyMachinery",
+    "name": "Heavy Machinery",
+    "author": "Zen",
+    "lastUpdated": "2022-03-07T09:56:07Z",
+    "stars": 14,
+    "minGameVersion": "123",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds additional contents\nSuch as units factories and more\nFor further Description Please Read README.md"
+  },
+  {
     "repo": "GlennFolker/Confictura",
     "name": "Confictura",
     "author": "GlennFolker",
@@ -759,17 +770,6 @@
     "description": "Turns everything into disgusting organic beings"
   },
   {
-    "repo": "Zeniku/HeavyMachinery",
-    "name": "Heavy Machinery",
-    "author": "Zen",
-    "lastUpdated": "2022-03-07T09:56:07Z",
-    "stars": 13,
-    "minGameVersion": "123",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds additional contents\nSuch as units factories and more\nFor further Description Please Read README.md"
-  },
-  {
     "repo": "SMOLKEYS/bundles",
     "name": "Bundles",
     "author": "SMOLKEYS",
@@ -817,7 +817,7 @@
     "repo": "theangelurd/Additional-Content",
     "name": " Additional  Content",
     "author": "Tayros/theangelurd",
-    "lastUpdated": "2022-05-11T01:49:51Z",
+    "lastUpdated": "2022-05-11T03:04:44Z",
     "stars": 13,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -1386,7 +1386,7 @@
     "description": "Download this Mindustry Mod NOW!"
   },
   {
-    "repo": "synthw0rk/Unit-Turrets",
+    "repo": "7tySevenn/Unit-Turrets",
     "name": "Unit Turrets",
     "author": "NeutrO_",
     "lastUpdated": "2021-06-07T06:01:19Z",
@@ -1397,7 +1397,7 @@
     "description": "A mod which adds unit guns as separate turrets\n Research units to unlock their guns"
   },
   {
-    "repo": "7tySevenn/Unit-Turrets",
+    "repo": "synthw0rk/Unit-Turrets",
     "name": "Unit Turrets",
     "author": "NeutrO_",
     "lastUpdated": "2021-06-07T06:01:19Z",
@@ -2247,9 +2247,9 @@
     "repo": "RlCCJ/MinerTools",
     "name": "MinerTools",
     "author": "miner",
-    "lastUpdated": "2022-05-09T05:49:22Z",
+    "lastUpdated": "2022-05-11T05:04:35Z",
     "stars": 5,
-    "minGameVersion": "135.1",
+    "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
     "description": "A java mod for Mindustry."
@@ -2258,9 +2258,9 @@
     "repo": "rlzzj/MinerTools",
     "name": "MinerTools",
     "author": "miner",
-    "lastUpdated": "2022-05-09T05:49:22Z",
+    "lastUpdated": "2022-05-11T05:04:35Z",
     "stars": 5,
-    "minGameVersion": "135.1",
+    "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
     "description": "A java mod for Mindustry."
@@ -2717,17 +2717,6 @@
     "description": "Change the liquid shots of atraxes!\n\nRequires Deltanedas/ui-lib."
   },
   {
-    "repo": "Mythril382/Mechs-Reborn",
-    "name": "Mechs Reborn",
-    "author": "Mythril",
-    "lastUpdated": "2022-05-03T08:45:33Z",
-    "stars": 4,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds the old mechs and ships from v5. Currently only has the mechs which are unobtainable."
-  },
-  {
     "repo": "Rex-Hm/Quality-Implementations-Mod",
     "name": "Quality Implementations",
     "author": "RexHm (Discord ID: 612122239428722720)",
@@ -2761,10 +2750,21 @@
     "description": "Mod with some new additions to the game, such as units, turrets, items, conveyors, and much more! Discord server: https://discord.gg/hGqEVwsg"
   },
   {
+    "repo": "Mythril382/Mechs-Reborn",
+    "name": "Mechs Reborn",
+    "author": "Mythril",
+    "lastUpdated": "2022-05-11T04:07:09Z",
+    "stars": 4,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds the old mechs and ships from v5. Currently only has the mechs which are now obtainable."
+  },
+  {
     "repo": "rlzzj/ItemBridgeX",
     "name": "ItemBridgeX",
     "author": "miner",
-    "lastUpdated": "2022-05-10T05:11:27Z",
+    "lastUpdated": "2022-05-11T05:09:33Z",
     "stars": 4,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2775,7 +2775,7 @@
     "repo": "RlCCJ/ItemBridgeX",
     "name": "ItemBridgeX",
     "author": "miner",
-    "lastUpdated": "2022-05-10T05:11:27Z",
+    "lastUpdated": "2022-05-11T05:09:33Z",
     "stars": 4,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -4554,17 +4554,6 @@
     "description": "Don't starve is available in Mindustry now!"
   },
   {
-    "repo": "I-hope1/mod.make",
-    "name": "mod.make",
-    "author": "I hope...",
-    "lastUpdated": "2022-05-06T12:05:51Z",
-    "stars": 2,
-    "minGameVersion": "110",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "\n此mod分离自mod tools.\nWARNING: 此mod仍在测试中.\n-----------------------\n1. 修复了一堆bug.\n2. 优化了代码.\n3. 添加了新功能.\n\n创建的是文件夹(在mods(I hope...)文件夹).\n\n旧版本不支持某些功能\n"
-  },
-  {
     "repo": "iarkn/riim",
     "name": "Riim",
     "author": "iarkn",
@@ -4651,6 +4640,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds more debugging features and improvements.\n\nFeatures:\n    - Enables the in-game console and sets log level to debug.\n    - Fully customizable log format w/ timestamps.\n    - Reenables colored terminal for Windows and Android.\n    - Chat message translation.\n    - Various other QoL improvements.\n\nSee README.md for more information."
+  },
+  {
+    "repo": "I-hope1/mod.make",
+    "name": "mod.make",
+    "author": "I hope...",
+    "lastUpdated": "2022-05-11T03:31:23Z",
+    "stars": 2,
+    "minGameVersion": "110",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\n此mod分离自mod tools.\nWARNING: 此mod仍在测试中.\n-----------------------\n1. 修复了一堆bug.\n2. 优化了代码.\n3. 添加了新功能.\n\n创建的是文件夹(在mods(I hope...)文件夹).\n\n旧版本不支持某些功能\n"
   },
   {
     "repo": "SirMachinegun/EBM",
@@ -6358,7 +6358,7 @@
     "description": "A mod that adds adamantium to the game."
   },
   {
-    "repo": "awaheart/golden-duo",
+    "repo": "UniDuki/golden-duo",
     "name": "Golden Duo",
     "author": "dogecoin",
     "lastUpdated": "2021-05-02T00:42:55Z",
@@ -6369,7 +6369,7 @@
     "description": "Adds a golden duo"
   },
   {
-    "repo": "UniDuki/golden-duo",
+    "repo": "awaheart/golden-duo",
     "name": "Golden Duo",
     "author": "dogecoin",
     "lastUpdated": "2021-05-02T00:42:55Z",
