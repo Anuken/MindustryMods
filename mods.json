@@ -4,7 +4,7 @@
     "name": "BetaMindy",
     "author": "sk7725",
     "lastUpdated": "2022-05-11T13:18:29Z",
-    "stars": 204,
+    "stars": 205,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
@@ -69,7 +69,7 @@
     "repo": "QmelZ/hackustry",
     "name": "Hackustry",
     "author": "QmelZ",
-    "lastUpdated": "2021-10-27T16:46:48Z",
+    "lastUpdated": "2022-05-12T05:23:40Z",
     "stars": 69,
     "minGameVersion": "126",
     "hasScripts": true,
@@ -125,7 +125,7 @@
     "name": "UI Lib",
     "author": "deltanedas",
     "lastUpdated": "2022-05-07T15:24:00Z",
-    "stars": 51,
+    "stars": 52,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
@@ -817,7 +817,7 @@
     "repo": "theangelurd/Additional-Content",
     "name": " Additional  Content",
     "author": "Tayros/theangelurd",
-    "lastUpdated": "2022-05-12T02:03:47Z",
+    "lastUpdated": "2022-05-12T03:37:39Z",
     "stars": 13,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -1386,7 +1386,7 @@
     "description": "Download this Mindustry Mod NOW!"
   },
   {
-    "repo": "7tySevenn/Unit-Turrets",
+    "repo": "synthw0rk/Unit-Turrets",
     "name": "Unit Turrets",
     "author": "NeutrO_",
     "lastUpdated": "2021-06-07T06:01:19Z",
@@ -1397,7 +1397,7 @@
     "description": "A mod which adds unit guns as separate turrets\n Research units to unlock their guns"
   },
   {
-    "repo": "synthw0rk/Unit-Turrets",
+    "repo": "7tySevenn/Unit-Turrets",
     "name": "Unit Turrets",
     "author": "NeutrO_",
     "lastUpdated": "2021-06-07T06:01:19Z",
@@ -1593,6 +1593,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Mindustry mod that places blocks into the world, allows modded and hidden blocks to be placed too.\n\n \t star me on Github!  (please) \t "
+  },
+  {
+    "repo": "DeltaNedas/speed",
+    "name": "Speed",
+    "author": "deltanedas",
+    "lastUpdated": "2022-05-07T16:00:47Z",
+    "stars": 7,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a speedometer.\nRequires deltanedas/ui-lib"
   },
   {
     "repo": "uujuju1/project-oblivion",
@@ -2233,7 +2244,7 @@
     "description": "What Am I Shooting At, shows info on targeted enemies.\nRequires deltanedas/ui-lib."
   },
   {
-    "repo": "RlCCJ/MinerTools",
+    "repo": "rlzzj/MinerTools",
     "name": "MinerTools",
     "author": "miner",
     "lastUpdated": "2022-05-11T05:04:35Z",
@@ -2244,7 +2255,7 @@
     "description": "A java mod for Mindustry."
   },
   {
-    "repo": "rlzzj/MinerTools",
+    "repo": "RlCCJ/MinerTools",
     "name": "MinerTools",
     "author": "miner",
     "lastUpdated": "2022-05-11T05:04:35Z",
@@ -2618,7 +2629,7 @@
     "description": "Collection of joke blocks"
   },
   {
-    "repo": "rlzzj/Logic-Completion",
+    "repo": "RlCCJ/Logic-Completion",
     "name": "LogicCompletion",
     "author": "miner",
     "lastUpdated": "2022-04-09T08:33:05Z",
@@ -2629,7 +2640,7 @@
     "description": "A mindustry mod for logic"
   },
   {
-    "repo": "RlCCJ/Logic-Completion",
+    "repo": "rlzzj/Logic-Completion",
     "name": "LogicCompletion",
     "author": "miner",
     "lastUpdated": "2022-04-09T08:33:05Z",
@@ -4587,17 +4598,6 @@
     "description": "the music for project abyss"
   },
   {
-    "repo": "I-hope1/mod.make",
-    "name": "mod.make",
-    "author": "I hope...",
-    "lastUpdated": "2022-05-11T03:31:23Z",
-    "stars": 2,
-    "minGameVersion": "110",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "\n此mod分离自mod tools.\nWARNING: 此mod仍在测试中.\n-----------------------\n1. 修复了一堆bug.\n2. 优化了代码.\n3. 添加了新功能.\n\n创建的是文件夹(在mods(I hope...)文件夹).\n\n旧版本不支持某些功能\n"
-  },
-  {
     "repo": "wedro023/Frestorm",
     "name": "Frestorm",
     "author": "Wedro, Darkness",
@@ -4609,17 +4609,6 @@
     "description": "This is a mod that adds multiple turrets and a wall"
   },
   {
-    "repo": "Def-Try/parkour-mod",
-    "name": "Parkour mod",
-    "author": "Benry/Deftry",
-    "lastUpdated": "2022-05-11T12:52:09Z",
-    "stars": 2,
-    "minGameVersion": "135",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This mod adds some new movement mechanics, gravity and jump to player. WIP, report all bugs to Benry#5935"
-  },
-  {
     "repo": "Weathercold/ExtraLogging",
     "name": "Extra Logging",
     "author": "Weathercold",
@@ -4629,6 +4618,28 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds more debugging features and improvements.\n\nFeatures:\n    - Enables the in-game console and sets log level to debug.\n    - Fully customizable log format w/ timestamps.\n    - Reenables colored terminal for Windows and Android.\n    - Chat message translation.\n    - Various other QoL improvements.\n\nSee README.md for more information."
+  },
+  {
+    "repo": "I-hope1/mod.make",
+    "name": "mod.make",
+    "author": "I hope...",
+    "lastUpdated": "2022-05-12T03:33:24Z",
+    "stars": 2,
+    "minGameVersion": "110",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\n此mod分离自mod tools.\nWARNING: 此mod仍在测试中.\n-----------------------\n1. 修复了一堆bug.\n2. 优化了代码.\n3. 添加了新功能.\n\n创建的是文件夹(在mods(I hope...)文件夹).\n\n旧版本不支持某些功能\n"
+  },
+  {
+    "repo": "Def-Try/parkour-mod",
+    "name": "Parkour mod",
+    "author": "Benry/Deftry",
+    "lastUpdated": "2022-05-12T03:52:07Z",
+    "stars": 2,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This mod adds some new movement mechanics, gravity and jump to player. WIP, report all bugs to Benry#5935"
   },
   {
     "repo": "SirMachinegun/EBM",
@@ -5852,7 +5863,7 @@
     "description": "Ost for my mod Project Oblivion, Credits to 12Three7 for the awesome OSTs."
   },
   {
-    "repo": "Swirek3331/ZPGM-Connector",
+    "repo": "Swirek3331/ZPGM-Connector-v6",
     "name": "ZPGM-Connector-v6",
     "author": "swirek3331",
     "lastUpdated": "2022-05-04T13:59:34Z",
@@ -5863,7 +5874,7 @@
     "description": "Only zpgm mebers will understand. Łączy wszystkie mody z klanu ZPGM, ta łaczy... Ikona na czas obecny jest przerobieniem dzieła Omnoma."
   },
   {
-    "repo": "Swirek3331/ZPGM-Connector-v6",
+    "repo": "Swirek3331/ZPGM-Connector",
     "name": "ZPGM-Connector-v6",
     "author": "swirek3331",
     "lastUpdated": "2022-05-04T13:59:34Z",
@@ -5896,7 +5907,7 @@
     "description": "LMC - addons for other Mods"
   },
   {
-    "repo": "A5TR0spud/mindustry-extras",
+    "repo": "A5TR0spud/astro-additions",
     "name": "Astronomical Additions [pre alpha]",
     "author": "A5TR0spud",
     "lastUpdated": "2022-05-09T17:03:28Z",
@@ -5907,7 +5918,7 @@
     "description": "  Adds various things  "
   },
   {
-    "repo": "A5TR0spud/astro-additions",
+    "repo": "A5TR0spud/mindustry-extras",
     "name": "Astronomical Additions [pre alpha]",
     "author": "A5TR0spud",
     "lastUpdated": "2022-05-09T17:03:28Z",
@@ -6281,7 +6292,7 @@
     "description": "A mod that adds adamantium to the game."
   },
   {
-    "repo": "awaheart/golden-duo",
+    "repo": "UniDuki/golden-duo",
     "name": "Golden Duo",
     "author": "dogecoin",
     "lastUpdated": "2021-05-02T00:42:55Z",
@@ -6292,7 +6303,7 @@
     "description": "Adds a golden duo"
   },
   {
-    "repo": "UniDuki/golden-duo",
+    "repo": "awaheart/golden-duo",
     "name": "Golden Duo",
     "author": "dogecoin",
     "lastUpdated": "2021-05-02T00:42:55Z",
