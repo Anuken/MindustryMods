@@ -90,6 +90,7 @@ public class ModUpdater{
             for(var value : prevList.asArray()){
                 names.add(value.getString("repo"));
             }
+            names.replace(s -> s.toLowerCase(Locale.ROOT));
             //there may be duplicates
             names.distinct();
 
