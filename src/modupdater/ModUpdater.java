@@ -74,8 +74,8 @@ public class ModUpdater{
             ObjectMap<String, Jval> output = new ObjectMap<>();
             ObjectMap<String, Jval> ghmeta = new ObjectMap<>();
             Seq<String> names = result.get("items").asArray().map(val -> {
-                ghmeta.put(val.get("full_name").toString(), val);
-                return val.get("full_name").toString();
+                ghmeta.put(val.get("full_name").toString().toLowerCase(Locale.ROOT), val);
+                return val.get("full_name").toString().toLowerCase(Locale.ROOT);
             });
 
             names.removeAll(n -> nameBlacklist.contains(n::startsWith));
@@ -107,7 +107,8 @@ public class ModUpdater{
             ExecutorService exec = Threads.executor(100);
 
             AtomicInteger index = new AtomicInteger();
-            for(String name : names){
+            for(String bname : names){
+                String name = bname.toLowerCase(Locale.ROOT);
                 exec.submit(() -> {
                     StringBuilder buffer = new StringBuilder();
 
