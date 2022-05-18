@@ -179,7 +179,7 @@
     "repo": "eschatologue/unlimited-armament-works",
     "name": "Unlimited Armament Works",
     "author": "Eschatologue",
-    "lastUpdated": "2022-05-13T16:54:25Z",
+    "lastUpdated": "2022-05-18T15:28:17Z",
     "stars": 50,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -190,7 +190,7 @@
     "repo": "liplum/cyberio",
     "name": "Cyber IO",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-05-18T09:08:10Z",
+    "lastUpdated": "2022-05-18T15:35:41Z",
     "stars": 50,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -245,7 +245,7 @@
     "repo": "meepoffaith/prog-mats-java",
     "name": "Progression Ministry",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progression Ministry enabled to view them!)",
-    "lastUpdated": "2022-05-18T09:36:18Z",
+    "lastUpdated": "2022-05-18T17:58:58Z",
     "stars": 41,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -979,17 +979,6 @@
     "description": "Немного читов"
   },
   {
-    "repo": "mythril382/roombas",
-    "name": "Roombas",
-    "author": "Mythril",
-    "lastUpdated": "2022-05-12T11:04:23Z",
-    "stars": 11,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Roombas."
-  },
-  {
     "repo": "3snake3/units-mod",
     "name": "Units Mod",
     "author": "Snake",
@@ -999,6 +988,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a new fractions of units like: Snow, Electrical, Spore, Blade, Averaged, Upgraded."
+  },
+  {
+    "repo": "mythril382/roombas",
+    "name": "Roombas",
+    "author": "Mythril",
+    "lastUpdated": "2022-05-18T16:01:33Z",
+    "stars": 11,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Roombas."
   },
   {
     "repo": "slotterleet/basic-schematics",
@@ -1087,6 +1087,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
+  },
+  {
+    "repo": "echovespy/simplistic",
+    "name": "Simplistic - TexturePack",
+    "author": "EchoVespy",
+    "lastUpdated": "2022-05-02T14:09:28Z",
+    "stars": 10,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts"
   },
   {
     "repo": "sk7725/immundustry",
@@ -1197,17 +1208,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "# MI2-Utilities Testing\nA Mindustry Mod That Adds Useful Vanilla Utilities. MI2-Client Transplantation.\nMindustry模组，添加一些实用原版辅助。MI2端移植。\n（MI2端的终极目标是Mod化，本Mod是MI2端移植的尝试。会添加怪浪怪浪的新功能。）\n\n# Features 特性列表（won't timely update 不会即时更新）\n1.Hud: /sync, rebuild all, map info entry, MI2's unit hp bar\n2.Map Info(Dialog): check map settings & wave info.\n3.Logic Helper: UI in LogicDialog. Check and sort all var names, split names into snippets with a certain string, click to copy any snippet.\n4.Drag the title to move UI.\n==\n1.HUD界面：/sync，一键重建，地图信息入口，MI2式单位血条显示\n2.地图信息：检视大部分地图属性、下一波出怪情况\n3.逻辑辅助：ui在逻辑编辑器。检视、整理变量名，可使用分隔符对变量名切片。点击切片可复制到剪切板。\n4.UI按住标题拖拽"
-  },
-  {
-    "repo": "echovespy/simplistic",
-    "name": "Simplistic - TexturePack",
-    "author": "EchoVespy",
-    "lastUpdated": "2022-05-02T14:09:28Z",
-    "stars": 9,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts"
   },
   {
     "repo": "wmf-industries/expandedindustries",
@@ -2222,17 +2222,6 @@
     "description": "\nTurret prices were added, if you have a suggestion in altering them let me know through github as i'm less active on discord. But keep in mind a Unit will be added to help you speed up the building process.\nHellstorm added with TEMPORARY sprite.\n"
   },
   {
-    "repo": "mythril382/mechs-reborn",
-    "name": "Mechs Reborn",
-    "author": "Mythril",
-    "lastUpdated": "2022-05-16T10:51:02Z",
-    "stars": 5,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds the old mechs and ships from v5. Currently only has the mechs which are now obtainable."
-  },
-  {
     "repo": "12three7/olderarevival",
     "name": "Old Era Revival",
     "author": "ExplerHD & 1237",
@@ -2242,6 +2231,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mindustry mod."
+  },
+  {
+    "repo": "mythril382/mechs-reborn",
+    "name": "Mechs Reborn",
+    "author": "Mythril",
+    "lastUpdated": "2022-05-18T16:00:31Z",
+    "stars": 5,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds the old mechs and ships from v5. Currently only has the mechs which are now obtainable."
   },
   {
     "repo": "als39175/infinity-cheat",
@@ -2517,17 +2517,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "makes the unitcap 99999."
-  },
-  {
-    "repo": "pigpig2048/kengintermod",
-    "name": "KENGINTERmod",
-    "author": "PiGPiG2048",
-    "lastUpdated": "2021-11-19T10:55:37Z",
-    "stars": 4,
-    "minGameVersion": "106",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Welcome to KENGINTERWORLD.There are lots of materials,ores,machines,turrets,transport and units,now in testing."
   },
   {
     "repo": "happygingerwolf/small-drill",
@@ -3058,17 +3047,6 @@
     "description": "\n    Search 'Sirius' in Schematics!\n    Tag: Sirius\n\n    AB: AirBlast drill \n    BS: Black Sand \n    WS: White sand \n    EW: External Water\n    POD: Phased Over Drive\n    OD: Over Drive\n    ODD: Over Drive Dome\n    WEX: Water EXtractor\n    OEX: Oil EXtractor\n\n    Sirius Schem Youtube link\n\n    https://www.youtube.com/channel/UCEeDO-VtJJGSKW9k31B8fLQ"
   },
   {
-    "repo": "antlrr/normal-mod",
-    "name": "A Normal Mod",
-    "author": "Antlrr",
-    "lastUpdated": "2021-10-11T06:18:54Z",
-    "stars": 3,
-    "minGameVersion": "130",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A Normal Mindustry Mod, nothing special"
-  },
-  {
     "repo": "gitsans66/bruhmod",
     "name": "Bruh Mod",
     "author": "[MTF_OMEGA-7]nova",
@@ -3463,6 +3441,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod that added some cool new blocks. https://levi-mindustry-mods-download.webnode.tw/gun-mod/"
+  },
+  {
+    "repo": "mythril382/terraria-sounds",
+    "name": "Terraria Sounds",
+    "author": "Mythril",
+    "lastUpdated": "2022-05-18T16:02:14Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Changes Mindustry sounds to Terraria sounds, no I didn't make them."
   },
   {
     "repo": "reborntrack970/sandbox-mode",
@@ -4455,17 +4444,6 @@
     "description": "a small mod"
   },
   {
-    "repo": "mythril382/engine-colors",
-    "name": "Engine Colors",
-    "author": "Mythril",
-    "lastUpdated": "2022-04-29T12:55:18Z",
-    "stars": 2,
-    "minGameVersion": "135",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Changes engine colors based on unit class."
-  },
-  {
     "repo": "goobrr/debugproc",
     "name": "Debug Processor",
     "author": "You",
@@ -4629,17 +4607,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "TBA"
-  },
-  {
-    "repo": "mythril382/terraria-sounds",
-    "name": "Terraria Sounds",
-    "author": "Mythril",
-    "lastUpdated": "2022-05-18T09:24:26Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Changes Mindustry sounds to Terraria sounds, no I didn't make them."
   },
   {
     "repo": "sirmachinegun/ebm",
@@ -4906,17 +4873,6 @@
     "description": "DO NOT USE THIS Mindustry Mod!"
   },
   {
-    "repo": "daves1245/mindustry_mod",
-    "name": "Test Mod",
-    "author": "Medbar",
-    "lastUpdated": "2021-04-11T23:19:55Z",
-    "stars": 1,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A test mod"
-  },
-  {
     "repo": "sk7725/safetyproc",
     "name": "Safety Processors",
     "author": "sk7725",
@@ -5058,17 +5014,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "An unstable Mindustry mod only used for testing"
-  },
-  {
-    "repo": "smolkeys/uicu",
-    "name": "UICU",
-    "author": "SMOLKEYS",
-    "lastUpdated": "2021-06-24T13:03:09Z",
-    "stars": 1,
-    "minGameVersion": "126.2",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Anarchy."
   },
   {
     "repo": "direwolf575/duo-dominion",
@@ -6028,17 +5973,6 @@
     "description": "Mindustry mod that allows you to change your team to any of the 256 available teams"
   },
   {
-    "repo": "mythril382/self-destruct-core",
-    "name": "Self-Destruct Core",
-    "author": "Mythril",
-    "lastUpdated": "2022-05-14T06:12:29Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a self-destruct button for cores."
-  },
-  {
     "repo": "uujuju1/poost",
     "name": "Project Oblivion Ost",
     "author": "Uujuju",
@@ -6114,6 +6048,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindusry Java Mods thai I working on"
+  },
+  {
+    "repo": "mythril382/self-destruct-core",
+    "name": "Self-Destruct Core",
+    "author": "Mythril",
+    "lastUpdated": "2022-05-18T16:02:51Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a self-destruct button for cores."
   },
   {
     "repo": "nikisos/thebattlemod",
@@ -6732,17 +6677,6 @@
     "description": "A Mindustry Java mod template."
   },
   {
-    "repo": "mikka6489/engineer-gaming",
-    "name": "engineer-gaming",
-    "author": "Mikka & Westycj",
-    "lastUpdated": "2021-09-30T05:42:32Z",
-    "stars": 0,
-    "minGameVersion": "121",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Engineer Gaming, goes the saying. this mod add new conveyors, turrets and resources that can be used to speed up and buff the mindustry experience lol."
-  },
-  {
     "repo": "missamity/singabana",
     "name": "Singabana",
     "author": "Cato-1",
@@ -7214,17 +7148,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Pixil is better lol /s\n\nA mod to test my modding/js (Mostly non-js,ofc) skills"
-  },
-  {
-    "repo": "smolkeys/trails",
-    "name": "Trails",
-    "author": "SMOLKEYS",
-    "lastUpdated": "2022-05-06T13:19:04Z",
-    "stars": 0,
-    "minGameVersion": "135",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mindustry mod that adds trails to all bullets."
   },
   {
     "repo": "936338156/mindustry-interplanetary-industries-mod",
