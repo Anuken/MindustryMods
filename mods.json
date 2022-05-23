@@ -176,17 +176,6 @@
     "description": "    A port and sequel to Heavy Armament Industries, written in java.\n    All development will be implemented here as Heavy Armament Industries has been discontinued and removed from the Mod browser.\n\n    Unlimited Armament Works adds loads of new content, that expands upon vanilla Mindustry, adding more turrets, units, factories, and its own power system, steam Engines! and much more.\n\n    A lot of work and improvements goes into UAW, if you want to show some support or like the content, please give the mod a star on GitHub, Thank you!"
   },
   {
-    "repo": "liplum/cyberio",
-    "name": "Cyber IO",
-    "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-05-22T15:48:01Z",
-    "stars": 51,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#e53935]Provides lots of cybernetic things!!![]\n\nCurrent version is v3.4, while v4 is still in development.\nLanguage Supports: English, Chinese(简体/正體中文), Japanese(日本語), Russian(Русский) and Ukrainian (українська).\nTo learn about the inter-mod compatibility and running Cyber IO on a server, please check the repository on GitHub by hitting the button below.\n\nGitHub: [#42a5f5]github.com/liplum/CyberIO[]"
-  },
-  {
     "repo": "sharlottes/informatis",
     "name": "Informatis",
     "author": "Sharlotte",
@@ -207,6 +196,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The mod displays more information in-game, such as unit/building, wave, core, tile, item/unit total info etc"
+  },
+  {
+    "repo": "liplum/cyberio",
+    "name": "Cyber IO",
+    "author": "[#42a5f5]Liplum[]",
+    "lastUpdated": "2022-05-23T11:05:03Z",
+    "stars": 51,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#e53935]Provides lots of cybernetic things!!![]\n\nCurrent version is v3.4, while v4 is still in development.\nLanguage Supports: English, Chinese(简体/正體中文), Japanese(日本語), Russian(Русский) and Ukrainian (українська).\nTo learn about the inter-mod compatibility and running Cyber IO on a server, please check the repository on GitHub by hitting the button below.\n\nGitHub: [#42a5f5]github.com/liplum/CyberIO[]"
   },
   {
     "repo": "sk7725/timecontrol",
@@ -847,6 +847,17 @@
     "description": "hehe angish go nrrrt"
   },
   {
+    "repo": "blackdeluxecat/mi2-utilities-java",
+    "name": "MI2-Utilities Java",
+    "author": "BlackDeluxeCat",
+    "lastUpdated": "2022-05-20T16:25:19Z",
+    "stars": 13,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "# MI2-Utilities Java\n一个原版辅助工具，有爱自取。\n\n安装方法：\n\n- 方法1 在游戏里使用“从github导入”，填BlackDeluxeCat/MI2-Utilities-Java\n- 方法2 进入本mod最新(Lateset)Release，下载文件列表中的MI2-Utilities Java.jar，在游戏里使用“导入文件”，导入所下载的jar。\n- 方法3 若已安装老版本，在游戏里点击mod详情页，重新安装。（仅限移动端）\n\n中文讨论群：875035496\n\n无力为其他语言做本地化，接受pr。\n\n## 特性列表（0.8.3）\n\n### ui\n\n#### 主界面\n- 快捷功能：一键规划重建、透视物流\n- AI辅助操作：自动挖矿、自动建造规划、自动自我维修、自动瞄准\n- 该窗口的选项弹窗包含MI2U的大部分选项。\n\n#### 核心信息\n- 原版核心信息+，资源变化折线图\n- 单位计数器\n- 电量条与电网分析\n- 可切换查看其他队伍\n\n#### 小地图\n- 基于原版地图渲染器\n- 可缩放至全图\n- 玩家单位显示名称\n- 点击移动视角（仅限桌面端）\n\n#### 地图信息\n- 大部分地图规则\n- 波次预览工具，强制跳波\n- 波次血量条\n\n#### 逻辑辅助\n- 整理与快捷复制变量名，可使用分隔符\n- 查找与替换变量名\n- 代码块剪切与复制\n\n#### Emoji\n- 一个emoji查阅工具\n\n### Mindow2\n本mod的可拖拽窗口。标题栏可进入选项弹窗、帮助页弹窗，具体请查阅各窗口的帮助页。\n拖拽、吸附等均可通过选项保存。\n\n### 杂项\n- 玩家光标平滑显示\n- 渲染单位血条、逻辑控制、寻路线\n- 关闭残骸、单位、射弹渲染\n- 修改部分方块数值条\n- 添加一套地图筛选器，特色是可复合坐标变换\n- 99.5%的改动可以通过选项关闭\n- MI2U选项存储在$Mindustry/mods/MI2U_Settings/目录下"
+  },
+  {
     "repo": "gdeft/bleach",
     "name": "Bleach",
     "author": "Gdeft",
@@ -911,17 +922,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Atomdustry\nThe power of the atom in the palm of your hand\""
-  },
-  {
-    "repo": "blackdeluxecat/mi2-utilities-java",
-    "name": "MI2-Utilities Java",
-    "author": "BlackDeluxeCat",
-    "lastUpdated": "2022-05-20T16:25:19Z",
-    "stars": 12,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "# MI2-Utilities Java\n一个原版辅助工具，有爱自取。\n\n安装方法：\n\n- 方法1 在游戏里使用“从github导入”，填BlackDeluxeCat/MI2-Utilities-Java\n- 方法2 进入本mod最新(Lateset)Release，下载文件列表中的MI2-Utilities Java.jar，在游戏里使用“导入文件”，导入所下载的jar。\n- 方法3 若已安装老版本，在游戏里点击mod详情页，重新安装。（仅限移动端）\n\n中文讨论群：875035496\n\n无力为其他语言做本地化，接受pr。\n\n## 特性列表（0.8.3）\n\n### ui\n\n#### 主界面\n- 快捷功能：一键规划重建、透视物流\n- AI辅助操作：自动挖矿、自动建造规划、自动自我维修、自动瞄准\n- 该窗口的选项弹窗包含MI2U的大部分选项。\n\n#### 核心信息\n- 原版核心信息+，资源变化折线图\n- 单位计数器\n- 电量条与电网分析\n- 可切换查看其他队伍\n\n#### 小地图\n- 基于原版地图渲染器\n- 可缩放至全图\n- 玩家单位显示名称\n- 点击移动视角（仅限桌面端）\n\n#### 地图信息\n- 大部分地图规则\n- 波次预览工具，强制跳波\n- 波次血量条\n\n#### 逻辑辅助\n- 整理与快捷复制变量名，可使用分隔符\n- 查找与替换变量名\n- 代码块剪切与复制\n\n#### Emoji\n- 一个emoji查阅工具\n\n### Mindow2\n本mod的可拖拽窗口。标题栏可进入选项弹窗、帮助页弹窗，具体请查阅各窗口的帮助页。\n拖拽、吸附等均可通过选项保存。\n\n### 杂项\n- 玩家光标平滑显示\n- 渲染单位血条、逻辑控制、寻路线\n- 关闭残骸、单位、射弹渲染\n- 修改部分方块数值条\n- 添加一套地图筛选器，特色是可复合坐标变换\n- 99.5%的改动可以通过选项关闭\n- MI2U选项存储在$Mindustry/mods/MI2U_Settings/目录下"
   },
   {
     "repo": "asheskaiser-kr/mindustry-ages",
@@ -4521,6 +4521,17 @@
     "description": "Adds several OP structures to ruin gameplay."
   },
   {
+    "repo": "willoizcitron/mindustry-devilish-mod",
+    "name": "Devilish Mode",
+    "author": "[THREAT LEVEL: HIGH] Plays",
+    "lastUpdated": "2022-04-23T12:04:39Z",
+    "stars": 2,
+    "minGameVersion": "131",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Recreating Slotterleet Hard Mode Mod compatible for V7, also a HUGE Difficulty Spike, he suck"
+  },
+  {
     "repo": "littelcat456/rainbow",
     "name": "rainbow",
     "author": "Littlecat456",
@@ -4741,26 +4752,26 @@
     "description": "A Mindustry mod aimed to add content to the newly-added planet."
   },
   {
-    "repo": "evo04taser/super-cheat",
-    "name": "Super Cheat",
-    "author": "Evo04Taser",
-    "lastUpdated": "2022-05-23T07:29:39Z",
-    "stars": 2,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A cheat mod designed for V7 (135?). \n\nIf you liked the mod then give it a star in GitHub! \n\nDiscord Tag: Evo04Taser#6234 "
-  },
-  {
     "repo": "wshon/minertoolsv6",
     "name": "MinerTools V6",
     "author": "miner, adapter by wshon",
-    "lastUpdated": "2022-05-23T07:45:00Z",
+    "lastUpdated": "2022-05-23T08:40:51Z",
     "stars": 2,
     "minGameVersion": "135",
     "hasScripts": false,
     "hasJava": true,
     "description": "A java mod for Mindustry."
+  },
+  {
+    "repo": "evo04taser/super-cheat",
+    "name": "Super Cheat",
+    "author": "Evo04Taser",
+    "lastUpdated": "2022-05-23T12:09:04Z",
+    "stars": 2,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A cheat mod designed for V7 (135?). \n\nIf you liked the mod then give it a star in GitHub! \n\nDiscord Tag: Evo04Taser#6234 "
   },
   {
     "repo": "sirmachinegun/ebm",
@@ -5896,17 +5907,6 @@
     "description": "Simple mod which adding underground Crystalite and.."
   },
   {
-    "repo": "willoizcitron/mindustry-devilish-mod",
-    "name": "Devilish Mode",
-    "author": "[THREAT LEVEL: HIGH] Plays",
-    "lastUpdated": "2022-04-23T12:04:39Z",
-    "stars": 1,
-    "minGameVersion": "131",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Recreating Slotterleet Hard Mode Mod compatible for V7, also a HUGE Difficulty Spike, he suck"
-  },
-  {
     "repo": "trrestghgytcftgbcxszd/cheatdustry-135",
     "name": "Fundustry - V7 Extension",
     "author": "TRRESTGHGYTCFTGBCXSZD",
@@ -6050,17 +6050,6 @@
     "description": "TIR3D 0F N0T W1NN1NG, W4NT T0 W1N E4S1LY?\n\nWant this cranked up a few notches? Try the 0P branch\n\nhttps://github.com/Beanzilla/mindustry-hacked/tree/op\n\nAttributions:\n- TheGamer1002"
   },
   {
-    "repo": "uujuju1/poost",
-    "name": "Project Oblivion Ost",
-    "author": "Uujuju",
-    "lastUpdated": "2022-05-14T13:13:10Z",
-    "stars": 1,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Ost for my mod Project Oblivion. \n\nCredits to 1237 (12three7#5723 on discord, @12three7 on github) and DJ Silin (DJ Silin#6351 on discord, @King-Silicon on github) for the awesome OSTs."
-  },
-  {
     "repo": "somecoder1/destroyer-mod",
     "name": "Destroyer Mod",
     "author": "Somecoder1",
@@ -6169,6 +6158,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Little coding, Add more items and blocks from Easy to build until Advanced machine"
+  },
+  {
+    "repo": "uujuju1/poost",
+    "name": "Project Oblivion Ost",
+    "author": "Uujuju",
+    "lastUpdated": "2022-05-23T09:05:34Z",
+    "stars": 1,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Ost for my mod Project Oblivion. \n\nCredits to 1237 (12three7#5723 on discord, @12three7 on github) and DJ Silin (DJ Silin#6351 on discord, @King-Silicon on github) for the awesome OSTs."
   },
   {
     "repo": "nikisos/thebattlemod",
@@ -7307,7 +7307,7 @@
     "repo": "purplesushi22/mindustry-ohnoandknuckles",
     "name": "Oh no (& Knuckles)",
     "author": "PurpleSushi22",
-    "lastUpdated": "2022-05-23T02:10:13Z",
+    "lastUpdated": "2022-05-23T10:04:09Z",
     "stars": 0,
     "minGameVersion": "135",
     "hasScripts": false,
