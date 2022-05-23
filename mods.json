@@ -59,7 +59,7 @@
     "name": "reVision",
     "author": "Slava0135",
     "lastUpdated": "2022-04-06T08:14:34Z",
-    "stars": 108,
+    "stars": 109,
     "minGameVersion": "120",
     "hasScripts": false,
     "hasJava": true,
@@ -70,7 +70,7 @@
     "name": "Exotic Mod",
     "author": "BlueWolf",
     "lastUpdated": "2022-04-15T09:02:02Z",
-    "stars": 96,
+    "stars": 97,
     "minGameVersion": "131",
     "hasScripts": false,
     "hasJava": false,
@@ -286,6 +286,17 @@
     "description": "Simulates the world of Aperture Science Enrichment Center in Mindustry."
   },
   {
+    "repo": "deltanedas/dev-mode",
+    "name": "Developer Mode",
+    "author": "deltanedas",
+    "lastUpdated": "2022-05-07T14:59:49Z",
+    "stars": 32,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Lets you type into the console.\nPress F8 to open."
+  },
+  {
     "repo": "younggam/multi-lib",
     "name": "Multi Lib",
     "author": "younggam",
@@ -317,17 +328,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This is a cheat mod, abuse will reduce your game experience, be careful for using this.\nGitHub: https://github.com/abomb4/super-cheat\nemail:  abomb4@163.com\nWellcome to feedback!\n如果 Android 玩家发现物品描述都是英文，去游戏设置 -> 语言 -> 切换成任意其他语言（如繁体中文）-> 重启 -> 切回简体中文即可。\n\nFeatures:\n- Adjustable Overdrive Projector (speedup, or slow down)\n- Team Changer\n- DPS Tester Unit and Walls\n- Invincible Core and Invincible build plane\n- Cheat Items (power source, liquid source, item source with 36x faster)\n- Invincible Wall, Invincible Force Projector\n- Several strange projectors\n- Chronosphere Unloader and Pusher\n- Unit Factory that can build unit for enemys\n\n这是个作弊 mod，会降低游戏体验，请谨慎使用。\n主要特性：\n- 可调整的超速投影（更快，也可以更慢）\n- 队伍更换器\n- DPS 测试单位与测试墙\n- 无敌核心，无敌建造机\n- 作弊物品（电源、水源、物品源超快版）\n- 无敌围墙，无敌力场\n- 一大堆神奇力场\n- 时空提取器、时空推送器\n- 单位工厂（可以给敌人出兵）\n\nЭто читерный мод, злоупотребление испортит интерес к игре, острожней с этим.\nВозможности:\n- Настраиваемый сверхприводный проектор (ускорение или замедление)\n- Блоки, меняющие команду, за которую играют те или иные единицы (или вы сами)\n- Измеритель урона в секунду\n- Непобедимое ядро и его строительная боевая единица\n- Cheat Items (power source, liquid source, item source with 36x faster)\n- Неразрушаемые стены, силовой проектор с бесконечной прочностью\n- Несколько полезных проекторов\n- Дистанционный загрузчик и разгрузчик\n- Универсальный завод боевых единиц, также может производить их для врагов"
-  },
-  {
-    "repo": "deltanedas/dev-mode",
-    "name": "Developer Mode",
-    "author": "deltanedas",
-    "lastUpdated": "2022-05-07T14:59:49Z",
-    "stars": 31,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Lets you type into the console.\nPress F8 to open."
   },
   {
     "repo": "nickname73/gravillaso",
@@ -993,7 +993,7 @@
     "repo": "mythril382/roombas",
     "name": "Roombas",
     "author": "Mythril",
-    "lastUpdated": "2022-05-18T16:01:33Z",
+    "lastUpdated": "2022-05-23T00:49:46Z",
     "stars": 11,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1562,17 +1562,6 @@
     "description": "Adds a speedometer.\nRequires deltanedas/ui-lib"
   },
   {
-    "repo": "mindustryinside/l1337n",
-    "name": "L1337n",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2022-05-22T12:24:26Z",
-    "stars": 7,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Leet speak localisator."
-  },
-  {
     "repo": "uujuju1/project-oblivion",
     "name": "Project Oblivion",
     "author": "Uujuju",
@@ -1582,6 +1571,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The technology of the oblivion awaits you..."
+  },
+  {
+    "repo": "mindustryinside/l1337n",
+    "name": "L1337n",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2022-05-23T01:04:30Z",
+    "stars": 7,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Leet speak localisator."
   },
   {
     "repo": "deltanedas/no",
@@ -2211,7 +2211,7 @@
     "description": "What Am I Shooting At, shows info on targeted enemies.\nRequires deltanedas/ui-lib."
   },
   {
-    "repo": "rlccj/itembridgex",
+    "repo": "rlzzj/itembridgex",
     "name": "ItemBridgeX",
     "author": "miner",
     "lastUpdated": "2022-05-11T05:09:33Z",
@@ -2222,7 +2222,7 @@
     "description": "This a mod that can show the hidden item of the item bridge."
   },
   {
-    "repo": "rlzzj/itembridgex",
+    "repo": "rlccj/itembridgex",
     "name": "ItemBridgeX",
     "author": "miner",
     "lastUpdated": "2022-05-11T05:09:33Z",
@@ -2742,7 +2742,7 @@
     "repo": "vaporspace2/endrium-2",
     "name": "EndriumMod 2",
     "author": "vapor Space YT & Aegires",
-    "lastUpdated": "2022-05-17T23:30:56Z",
+    "lastUpdated": "2022-05-23T02:43:23Z",
     "stars": 4,
     "minGameVersion": "130",
     "hasScripts": true,
@@ -4664,6 +4664,17 @@
     "description": "This mod adds some new movement mechanics, gravity and jump to player. WIP, report all bugs to Benry#5935"
   },
   {
+    "repo": "deltanedas/routorio",
+    "name": "routorio",
+    "author": "deltanedas",
+    "lastUpdated": "2022-05-14T16:17:45Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Reality-shattering router expansion mod.\nOptionally requires deltanedas/rtfm for manual pages.\n10/10 IGN\n  - Router\nUkranian translation by Prostaчок_ua\nAlso try out Slava1035/reVision!"
+  },
+  {
     "repo": "youngterror3/mindustryjavamod",
     "name": "Mindustry Java Mod",
     "author": "youngterror3",
@@ -5962,17 +5973,6 @@
     "description": "Some Superized Items! With Fun Stuffs!"
   },
   {
-    "repo": "rakagit/littleboost",
-    "name": "Little Boost",
-    "author": "MCPC",
-    "lastUpdated": "2022-05-07T02:33:20Z",
-    "stars": 1,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Little coding, Add more items and blocks from Easy to build until Advanced machine"
-  },
-  {
     "repo": "rakagit/littlemachinecore",
     "name": "Little Machine Code [LMC]",
     "author": "MCPC",
@@ -6072,17 +6072,6 @@
     "description": "A Mindustry Java Mod that adds powerful things to the game."
   },
   {
-    "repo": "deltanedas/routorio",
-    "name": "routorio",
-    "author": "deltanedas",
-    "lastUpdated": "2022-05-14T16:17:45Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Reality-shattering router expansion mod.\nOptionally requires deltanedas/rtfm for manual pages.\n10/10 IGN\n  - Router\nUkranian translation by Prostaчок_ua\nAlso try out Slava1035/reVision!"
-  },
-  {
     "repo": "azhurniybaklan/erekir-utilities",
     "name": "Erekir Utilities",
     "author": "AzhurniyBaklan",
@@ -6171,26 +6160,15 @@
     "description": "Moddification that adds a few more resources"
   },
   {
-    "repo": "xjamiex/creativecores",
-    "name": "Creative Cores",
-    "author": "xjammuux owo",
-    "lastUpdated": "2022-05-22T22:37:33Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod thats goog"
-  },
-  {
-    "repo": "purplesushi22/mindustry-ohnoandknuckles",
-    "name": "Oh no (& Knuckles)",
-    "author": "PurpleSushi22",
-    "lastUpdated": "2022-05-23T00:18:40Z",
+    "repo": "rakagit/littleboost",
+    "name": "Little Boost",
+    "author": "MCPC",
+    "lastUpdated": "2022-05-23T02:38:17Z",
     "stars": 1,
     "minGameVersion": "135",
     "hasScripts": false,
     "hasJava": false,
-    "description": "It's a funny oh no mod.\n\nAdds some things.\n\nKinda cringe. Actually, very cringe."
+    "description": "Little coding, Add more items and blocks from Easy to build until Advanced machine"
   },
   {
     "repo": "nikisos/thebattlemod",
@@ -7324,5 +7302,16 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mod with All Things in the World"
+  },
+  {
+    "repo": "purplesushi22/mindustry-ohnoandknuckles",
+    "name": "Oh no (& Knuckles)",
+    "author": "PurpleSushi22",
+    "lastUpdated": "2022-05-23T02:10:13Z",
+    "stars": 0,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "It's a funny oh no mod.\n\nAdds some things.\n\nKinda cringe. Actually, very cringe."
   }
 ]
