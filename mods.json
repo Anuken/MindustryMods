@@ -1232,17 +1232,6 @@
     "description": "# MI2-Utilities Testing\nA Mindustry Mod That Adds Useful Vanilla Utilities. MI2-Client Transplantation.\nMindustry模组，添加一些实用原版辅助。MI2端移植。\n（MI2端的终极目标是Mod化，本Mod是MI2端移植的尝试。会添加怪浪怪浪的新功能。）\n\n# Features 特性列表（won't timely update 不会即时更新）\n1.Hud: /sync, rebuild all, map info entry, MI2's unit hp bar\n2.Map Info(Dialog): check map settings & wave info.\n3.Logic Helper: UI in LogicDialog. Check and sort all var names, split names into snippets with a certain string, click to copy any snippet.\n4.Drag the title to move UI.\n==\n1.HUD界面：/sync，一键重建，地图信息入口，MI2式单位血条显示\n2.地图信息：检视大部分地图属性、下一波出怪情况\n3.逻辑辅助：ui在逻辑编辑器。检视、整理变量名，可使用分隔符对变量名切片。点击切片可复制到剪切板。\n4.UI按住标题拖拽"
   },
   {
-    "repo": "uujuju1/project-oblivion",
-    "name": "Project Oblivion",
-    "author": "Uujuju",
-    "lastUpdated": "2022-05-30T16:21:58Z",
-    "stars": 9,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The technology of the oblivion awaits you..."
-  },
-  {
     "repo": "wmf-industries/expandedindustries",
     "name": "Expanded Industries",
     "author": "WMF Industries",
@@ -1252,6 +1241,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Lots of crazy stuff :>"
+  },
+  {
+    "repo": "uujuju1/project-oblivion",
+    "name": "Project Oblivion",
+    "author": "Uujuju",
+    "lastUpdated": "2022-05-30T20:32:22Z",
+    "stars": 9,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The technology of the oblivion awaits you..."
   },
   {
     "repo": "deltanedas/override-lib",
@@ -1859,7 +1859,7 @@
     "description": "Enables mobile UI if on desktop, or disables it on mobile."
   },
   {
-    "repo": "rlzzj/itembridgex",
+    "repo": "rlccj/itembridgex",
     "name": "ItemBridgeX",
     "author": "miner",
     "lastUpdated": "2022-05-11T05:09:33Z",
@@ -1870,7 +1870,7 @@
     "description": "This a mod that can show the hidden item of the item bridge."
   },
   {
-    "repo": "rlccj/itembridgex",
+    "repo": "rlzzj/itembridgex",
     "name": "ItemBridgeX",
     "author": "miner",
     "lastUpdated": "2022-05-11T05:09:33Z",
@@ -4741,17 +4741,6 @@
     "description": "Don't starve is available in Mindustry now!"
   },
   {
-    "repo": "weathercold/extralogging",
-    "name": "Extra Logging",
-    "author": "Weathercold",
-    "lastUpdated": "2022-05-18T03:26:24Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds more debugging features and improvements.\n\nFeatures:\n    - Enables the in-game console and sets log level to debug.\n    - Fully customizable log format w/ timestamps.\n    - Reenables colored terminal for Windows and Android.\n    - Chat message translation.\n    - Various other QoL improvements.\n\nSee README.md for more information."
-  },
-  {
     "repo": "shimyytrov/turret-expansion",
     "name": "Turret Expansion",
     "author": "Shimyytrov Modding Team",
@@ -6114,6 +6103,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry toolkit."
+  },
+  {
+    "repo": "weathercold/extralogging",
+    "name": "Extra Logging",
+    "author": "Weathercold",
+    "lastUpdated": "2022-05-18T03:26:24Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds more debugging features and improvements.\n\nFeatures:\n    - Enables the in-game console and sets log level to debug.\n    - Fully customizable log format w/ timestamps.\n    - Reenables colored terminal for Windows and Android.\n    - Chat message translation.\n    - Various other QoL improvements.\n\nSee README.md for more information."
   },
   {
     "repo": "mythril382/self-destruct-core",
