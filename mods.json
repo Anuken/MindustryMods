@@ -187,7 +187,7 @@
     "description": "Mod that adds a manual page library. RTFM in the About menu.\nComes with documentation of vanilla'a Logic system.\nOptionally requires deltanedas/ui-lib for extra buttons.\npt_BR translations by King-BR"
   },
   {
-    "repo": "sharlottes/informatis",
+    "repo": "sharlottes/unitinfo",
     "name": "Informatis",
     "author": "Sharlotte",
     "lastUpdated": "2022-05-23T05:21:54Z",
@@ -198,7 +198,7 @@
     "description": "The mod displays more information in-game, such as unit/building, wave, core, tile, item/unit total info etc"
   },
   {
-    "repo": "sharlottes/unitinfo",
+    "repo": "sharlottes/informatis",
     "name": "Informatis",
     "author": "Sharlotte",
     "lastUpdated": "2022-05-23T05:21:54Z",
@@ -493,6 +493,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds upgraded versions of existing factories."
+  },
+  {
+    "repo": "realshizi/oxynoe",
+    "name": "Oxynoe",
+    "author": "oxynoe",
+    "lastUpdated": "2022-02-23T02:13:21Z",
+    "stars": 23,
+    "minGameVersion": "130.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "oxynoe :>"
   },
   {
     "repo": "mindustryinside/mindustryclassicified",
@@ -1210,6 +1221,17 @@
     "description": "Show the range of turrets and units.\nShow the units the next wave will spawn."
   },
   {
+    "repo": "pixecoz/better-vaults",
+    "name": "Better vaults",
+    "author": "pixecoz",
+    "lastUpdated": "2022-02-20T08:51:34Z",
+    "stars": 9,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "this mod adds more storages and unloaders, use this mod for complex mod builds, otherwise this mod will be very imbalanced in the game.\n\nCONTACT ME IN DISCORD IF YOU HAVE QUESTIONS: pixecoz#3275\n\nSprites: ?LaIm_Ik?"
+  },
+  {
     "repo": "blackdeluxecat/mi2-utilities",
     "name": "MI2 Utilities",
     "author": "BlackDeluxeCat",
@@ -1353,17 +1375,6 @@
     "description": "Replaces sector 0 (next to PLT with GigaFort."
   },
   {
-    "repo": "reborntrack970/omegacursed",
-    "name": "Omega-Cursed.bat",
-    "author": "RTOmega",
-    "lastUpdated": "2022-04-20T04:27:13Z",
-    "stars": 8,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A Completely new gamemode!"
-  },
-  {
     "repo": "1qwaka/thorium-evolution-6.0",
     "name": "Thorium Evolution",
     "author": "Qwaka",
@@ -1450,6 +1461,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "No description provided."
+  },
+  {
+    "repo": "zoggers-cc/major",
+    "name": "Major",
+    "author": "ZoGGerS, Dim4ik, n33nat0",
+    "lastUpdated": "2021-10-28T07:45:25Z",
+    "stars": 7,
+    "minGameVersion": "122",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Данный мод добовляет в |Дерево Технологий| новые буры, конвееры и стены защиты!"
   },
   {
     "repo": "antlrr/basement",
@@ -1576,7 +1598,7 @@
     "repo": "mindustryinside/l1337n",
     "name": "L1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-06-03T12:25:40Z",
+    "lastUpdated": "2022-06-04T01:04:16Z",
     "stars": 7,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -1681,17 +1703,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": ""
-  },
-  {
-    "repo": "mrduck557/moarwaterunits",
-    "name": "Moar Water Units",
-    "author": "MrDuck557",
-    "lastUpdated": "2021-05-27T18:36:15Z",
-    "stars": 6,
-    "minGameVersion": "126.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds 2 new water unit paths"
   },
   {
     "repo": "searcherg60/s-edition",
@@ -2178,6 +2189,17 @@
     "description": "Alex version of MEEPofFaith/anuke-approaching"
   },
   {
+    "repo": "error-in-code/nuclear-mines-mod",
+    "name": "Nuclear Mines",
+    "author": "[Error_in_Code]",
+    "lastUpdated": "2022-04-23T00:45:06Z",
+    "stars": 5,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod adding radiation, radioactive items, and nuclear weapons.\n\nNot yet finished. Some Sprites are missing and many things still need balance. Not all items are available in the Campaign tech tree."
+  },
+  {
     "repo": "vvseangtvv/v5-classic",
     "name": "V5 Reborn",
     "author": "VvSeanGtvV",
@@ -2275,17 +2297,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Destroy the unit you're currently controlling.\nRequires DeltaNedas/ui-lib."
-  },
-  {
-    "repo": "thesaus/improvedgamma",
-    "name": "Improved Gamma",
-    "author": "The-Saus#1038",
-    "lastUpdated": "2021-01-07T19:47:09Z",
-    "stars": 4,
-    "minGameVersion": "122",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Buffs Gamma"
   },
   {
     "repo": "qmelz/v5dustry",
@@ -2742,7 +2753,7 @@
     "repo": "vaporspace2/endrium-2",
     "name": "EndriumMod 2",
     "author": "vapor Space YT & Aegires",
-    "lastUpdated": "2022-06-03T20:22:27Z",
+    "lastUpdated": "2022-06-04T02:23:54Z",
     "stars": 4,
     "minGameVersion": "130",
     "hasScripts": true,
@@ -6017,17 +6028,6 @@
     "description": "Things I add for my own convenience."
   },
   {
-    "repo": "zinq7/beacons-yay",
-    "name": "Holy Light",
-    "author": "zinq",
-    "lastUpdated": "2022-05-15T23:42:28Z",
-    "stars": 1,
-    "minGameVersion": "125.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A cool WIP content mod that adds a bunch of stuff, including new endgame turrets and a T6 reconstructor. Discord link: https://discord.gg/juaRAGaQ"
-  },
-  {
     "repo": "wshon/mindustrytoolkit",
     "name": "Toolkit V7",
     "author": "wshon",
@@ -6240,7 +6240,7 @@
     "repo": "rylid-umil/new-units",
     "name": "New Units",
     "author": "Cle",
-    "lastUpdated": "2022-06-03T23:23:29Z",
+    "lastUpdated": "2022-06-04T00:32:42Z",
     "stars": 1,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -7348,7 +7348,7 @@
     "description": "Mod with All Things in the World"
   },
   {
-    "repo": "936338156/mindustry-interplanetary_industries-mod-v7",
+    "repo": "936338156/mindustry-interplanetary_industries-mod",
     "name": "Interplanetary Industries",
     "author": "羊叫兽OwO",
     "lastUpdated": "2022-05-27T03:05:26Z",
@@ -7359,7 +7359,7 @@
     "description": "至少135的垃圾代码全部重写完毕了"
   },
   {
-    "repo": "936338156/mindustry-interplanetary_industries-mod",
+    "repo": "936338156/mindustry-interplanetary_industries-mod-v7",
     "name": "Interplanetary Industries",
     "author": "羊叫兽OwO",
     "lastUpdated": "2022-05-27T03:05:26Z",
@@ -7458,17 +7458,6 @@
     "description": "Adds the challenges"
   },
   {
-    "repo": "iarkn/crescendo",
-    "name": "Crescendo",
-    "author": "iarkn",
-    "lastUpdated": "2022-06-03T04:16:02Z",
-    "stars": 0,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mindustry mod written in Clojure!"
-  },
-  {
     "repo": "i-hope1/ice_frost_future",
     "name": "Ice_Frost_Future",
     "author": "MYX boy",
@@ -7489,5 +7478,27 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "What the oh no mod doin?\n\nuh im bored can i download the mod pls\n\n\nTuri ip ip ip\nIp ip ip sho ik\nIp tua o ip ip\nTeri teri ip ik sho ip ik\n"
+  },
+  {
+    "repo": "iarkn/crescendo",
+    "name": "Crescendo",
+    "author": "iarkn",
+    "lastUpdated": "2022-06-04T01:09:56Z",
+    "stars": 0,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mindustry mod written in Clojure!"
+  },
+  {
+    "repo": "teamneiaron/ion",
+    "name": "Ion",
+    "author": "SMOLKEYS",
+    "lastUpdated": "2022-06-04T02:57:39Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Chaos."
   }
 ]
