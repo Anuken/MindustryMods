@@ -154,6 +154,17 @@
     "description": "Speeds up or slows down Mindustry.\nPress & hold 'x1' to fold the buttons.\nSome buttons can be pressed twice.\n\nDisclaimer: not intended for multiplayer use!"
   },
   {
+    "repo": "deltanedas/rtfm",
+    "name": "RTFM",
+    "author": "deltanedas",
+    "lastUpdated": "2022-05-07T15:52:23Z",
+    "stars": 52,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Mod that adds a manual page library. RTFM in the About menu.\nComes with documentation of vanilla'a Logic system.\nOptionally requires deltanedas/ui-lib for extra buttons.\npt_BR translations by King-BR"
+  },
+  {
     "repo": "deltanedas/routorio-old",
     "name": "routorio",
     "author": "DeltaNedas",
@@ -176,33 +187,11 @@
     "description": "    A port and sequel to Heavy Armament Industries, written in java.\n    All development will be implemented here as Heavy Armament Industries has been discontinued and removed from the Mod browser.\n\n    Unlimited Armament Works adds loads of new content, that expands upon vanilla Mindustry, adding more turrets, units, factories, and its own power system, steam Engines! and much more.\n\n    A lot of work and improvements goes into UAW, if you want to show some support or like the content, please give the mod a star on GitHub, Thank you!"
   },
   {
-    "repo": "liplum/cyberio",
-    "name": "Cyber IO",
-    "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-06-05T15:20:11Z",
-    "stars": 52,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#e53935]Provides lots of cybernetic things!!![]\n\nCurrent version is v3.4, while v4 is still in development.\nLanguage Supports: English, Chinese(简体/正體中文), Japanese(日本語), Russian(Русский) and Ukrainian (українська).\nTo learn about the inter-mod compatibility and running Cyber IO on a server, please check the repository on GitHub by hitting the button below.\n\nGitHub: [#42a5f5]github.com/liplum/CyberIO[]"
-  },
-  {
-    "repo": "deltanedas/rtfm",
-    "name": "RTFM",
-    "author": "deltanedas",
-    "lastUpdated": "2022-05-07T15:52:23Z",
-    "stars": 51,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Mod that adds a manual page library. RTFM in the About menu.\nComes with documentation of vanilla'a Logic system.\nOptionally requires deltanedas/ui-lib for extra buttons.\npt_BR translations by King-BR"
-  },
-  {
     "repo": "sharlottes/informatis",
     "name": "Informatis",
     "author": "Sharlotte",
     "lastUpdated": "2022-06-05T14:09:32Z",
-    "stars": 51,
+    "stars": 52,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
@@ -213,11 +202,22 @@
     "name": "Informatis",
     "author": "Sharlotte",
     "lastUpdated": "2022-06-05T14:09:32Z",
-    "stars": 51,
+    "stars": 52,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
     "description": "The mod displays more information in-game, such as unit/building, wave, core, tile, item/unit total info etc"
+  },
+  {
+    "repo": "liplum/cyberio",
+    "name": "Cyber IO",
+    "author": "[#42a5f5]Liplum[]",
+    "lastUpdated": "2022-06-05T15:20:11Z",
+    "stars": 52,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#e53935]Provides lots of cybernetic things!!![]\n\nCurrent version is v3.4, while v4 is still in development.\nLanguage Supports: English, Chinese(简体/正體中文), Japanese(日本語), Russian(Русский) and Ukrainian (українська).\nTo learn about the inter-mod compatibility and running Cyber IO on a server, please check the repository on GitHub by hitting the button below.\n\nGitHub: [#42a5f5]github.com/liplum/CyberIO[]"
   },
   {
     "repo": "petruchiorus/lead_ind",
@@ -235,7 +235,7 @@
     "name": "Sharustry",
     "author": "Sharlottes",
     "lastUpdated": "2022-05-08T08:16:11Z",
-    "stars": 43,
+    "stars": 44,
     "minGameVersion": "135",
     "hasScripts": false,
     "hasJava": true,
@@ -257,7 +257,7 @@
     "name": "Progression Ministry",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progression Ministry enabled to view them!)",
     "lastUpdated": "2022-06-03T01:55:42Z",
-    "stars": 42,
+    "stars": 43,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
@@ -550,17 +550,6 @@
     "description": "Spawn any enemy in sandbox or on multiplayer, with /js (if supported).\nRequires deltanedas/ui-lib."
   },
   {
-    "repo": "sk7725/testers",
-    "name": "Testers",
-    "author": "sk7725",
-    "lastUpdated": "2021-09-02T11:59:23Z",
-    "stars": 18,
-    "minGameVersion": "110",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds various testers for easier mod development.\nThanks to: Gdeft"
-  },
-  {
     "repo": "aureusstratus/advancements",
     "name": "Advancements",
     "author": "AureusStratus",
@@ -581,6 +570,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Somewhere in the abandoned lab, a portal have opened, strange purple units has come to fight along with you."
+  },
+  {
+    "repo": "sk7725/testers",
+    "name": "Testers",
+    "author": "sk7725",
+    "lastUpdated": "2022-06-06T09:25:43Z",
+    "stars": 18,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds various testers for easier mod development.\nThanks to: Gdeft"
   },
   {
     "repo": "mindustry-antigrief/installer",
@@ -671,6 +671,17 @@
     "description": "A little Mindustry java mod"
   },
   {
+    "repo": "meepoffaith/testing-utilities-java",
+    "name": "Testing Utilities",
+    "author": "MEEP of Faith",
+    "lastUpdated": "2022-05-31T15:32:36Z",
+    "stars": 16,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
+  },
+  {
     "repo": "eclipsetheoldone/project-scrap",
     "name": "Project Scrap",
     "author": "Eclipse",
@@ -704,17 +715,6 @@
     "description": "Adds additional contents\nSuch as units factories and more\nFor further Description Please Read README.md"
   },
   {
-    "repo": "meepoffaith/testing-utilities-java",
-    "name": "Testing Utilities",
-    "author": "MEEP of Faith",
-    "lastUpdated": "2022-05-31T15:32:36Z",
-    "stars": 15,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
-  },
-  {
     "repo": "deltanedas/ldb",
     "name": "Logic Debugger",
     "author": "DeltaNedas",
@@ -746,6 +746,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Добавляет разные штуки для читов\nhttps://vk.com/mindustry_cheat"
+  },
+  {
+    "repo": "theangelurd/additional-content",
+    "name": " Additional  Content",
+    "author": "Tayros/theangelurd",
+    "lastUpdated": "2022-05-12T23:56:08Z",
+    "stars": 14,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "I know the name is very boring but i can't find another name. A mod that adds a great amount of content to the game. Have fun with the mod."
   },
   {
     "repo": "smolkeys/bundles",
@@ -847,17 +858,6 @@
     "description": "Play with classic Mindustry music (from v3.3r27, v3.5r40, and v5)! For Mindustry v6."
   },
   {
-    "repo": "theangelurd/additional-content",
-    "name": " Additional  Content",
-    "author": "Tayros/theangelurd",
-    "lastUpdated": "2022-05-12T23:56:08Z",
-    "stars": 13,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "I know the name is very boring but i can't find another name. A mod that adds a great amount of content to the game. Have fun with the mod."
-  },
-  {
     "repo": "gdeft/bleach",
     "name": "Bleach",
     "author": "Gdeft",
@@ -924,6 +924,17 @@
     "description": "Atomdustry\nThe power of the atom in the palm of your hand\""
   },
   {
+    "repo": "mythril382/roombas",
+    "name": "Roombas",
+    "author": "Mythril",
+    "lastUpdated": "2022-05-23T00:49:46Z",
+    "stars": 12,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Roombas."
+  },
+  {
     "repo": "asheskaiser-kr/mindustry-ages",
     "name": "From ancient to contemporary ages.",
     "author": "AshesKaiser",
@@ -988,17 +999,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a new fractions of units like: Snow, Electrical, Spore, Blade, Averaged, Upgraded."
-  },
-  {
-    "repo": "mythril382/roombas",
-    "name": "Roombas",
-    "author": "Mythril",
-    "lastUpdated": "2022-05-23T00:49:46Z",
-    "stars": 11,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Roombas."
   },
   {
     "repo": "uujuju1/project-oblivion",
@@ -1408,6 +1408,17 @@
     "description": "A java mod for Mindustry."
   },
   {
+    "repo": "zelaux/gaslibrary",
+    "name": "GasLibrary",
+    "author": "Zelaux",
+    "lastUpdated": "2022-06-04T13:44:58Z",
+    "stars": 8,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Java library for java mods"
+  },
+  {
     "repo": "deltanedas/cliff",
     "name": "cliff",
     "author": "DeltaNedas",
@@ -1584,15 +1595,15 @@
     "description": "Adds a speedometer.\nRequires deltanedas/ui-lib"
   },
   {
-    "repo": "zelaux/gaslibrary",
-    "name": "GasLibrary",
-    "author": "Zelaux",
-    "lastUpdated": "2022-06-04T13:44:58Z",
+    "repo": "deltanedas/pictocanvas",
+    "name": "PicToCanvas",
+    "author": "deltanedas, Router and another guy",
+    "lastUpdated": "2022-05-25T21:38:43Z",
     "stars": 7,
     "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Java library for java mods"
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a dialog for turning images into canvas schematics.\nRequires deltanedas/ui-lib."
   },
   {
     "repo": "mindustryinside/l1337n",
@@ -1859,7 +1870,7 @@
     "description": "Enables mobile UI if on desktop, or disables it on mobile."
   },
   {
-    "repo": "rlccj/itembridgex",
+    "repo": "rlzzj/itembridgex",
     "name": "ItemBridgeX",
     "author": "miner",
     "lastUpdated": "2022-05-11T05:09:33Z",
@@ -1870,7 +1881,7 @@
     "description": "This a mod that can show the hidden item of the item bridge."
   },
   {
-    "repo": "rlzzj/itembridgex",
+    "repo": "rlccj/itembridgex",
     "name": "ItemBridgeX",
     "author": "miner",
     "lastUpdated": "2022-05-11T05:09:33Z",
@@ -1890,17 +1901,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod."
-  },
-  {
-    "repo": "deltanedas/pictocanvas",
-    "name": "PicToCanvas",
-    "author": "deltanedas, Router and another guy",
-    "lastUpdated": "2022-05-25T21:38:43Z",
-    "stars": 6,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a dialog for turning images into canvas schematics.\nRequires deltanedas/ui-lib."
   },
   {
     "repo": "zerocore-salamander/hackforall",
@@ -3498,6 +3498,17 @@
     "description": "A mod that added some cool new blocks. https://levi-mindustry-mods-download.webnode.tw/gun-mod/"
   },
   {
+    "repo": "liplum/mdt-dst",
+    "name": "Don't Starve",
+    "author": "[#891213]Liplum[]",
+    "lastUpdated": "2022-05-16T11:27:44Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Don't starve is available in Mindustry now!"
+  },
+  {
     "repo": "mythril382/terraria-sounds",
     "name": "Terraria Sounds",
     "author": "Mythril",
@@ -3564,17 +3575,6 @@
     "description": "A java mod for Mindustry 135.2"
   },
   {
-    "repo": "xzxadixzx/crawler-language",
-    "name": "Crawler Language",
-    "author": "xzxADIxzx",
-    "lastUpdated": "2022-06-05T20:29:30Z",
-    "stars": 3,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a new language to Mindustry."
-  },
-  {
     "repo": "emanuelg-gaming/erekir-expansion",
     "name": "Erekir Expansion",
     "author": "Emanuel G",
@@ -3584,6 +3584,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod aimed to add content to the newly-added planet."
+  },
+  {
+    "repo": "xzxadixzx/crawler-language",
+    "name": "Crawler Language",
+    "author": "xzxADIxzx",
+    "lastUpdated": "2022-06-06T09:59:25Z",
+    "stars": 3,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a new language to Mindustry."
   },
   {
     "repo": "reborntrack970/sandbox-mode",
@@ -4761,17 +4772,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds new features."
-  },
-  {
-    "repo": "liplum/mdt-dst",
-    "name": "Don't Starve",
-    "author": "[#891213]Liplum[]",
-    "lastUpdated": "2022-05-16T11:27:44Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Don't starve is available in Mindustry now!"
   },
   {
     "repo": "shimyytrov/turret-expansion",
@@ -7535,7 +7535,7 @@
     "description": "uhh basically oh no language edition\nyeah that's it\n\ncredit to the folks at SMOLKEYS/bundles for the identifiers on how to edit stuff like basically everything in the first build"
   },
   {
-    "repo": "936338156/mindustry-interplanetary_industries-mod",
+    "repo": "936338156/mindustry-interplanetary_industries-mod-v7",
     "name": "Interplanetary Industries",
     "author": "羊叫兽OwO",
     "lastUpdated": "2022-06-06T05:46:27Z",
@@ -7546,7 +7546,7 @@
     "description": "至少135的垃圾代码全部重写完毕了"
   },
   {
-    "repo": "936338156/mindustry-interplanetary_industries-mod-v7",
+    "repo": "936338156/mindustry-interplanetary_industries-mod",
     "name": "Interplanetary Industries",
     "author": "羊叫兽OwO",
     "lastUpdated": "2022-06-06T05:46:27Z",
@@ -7560,7 +7560,7 @@
     "repo": "teamneiaron/ion",
     "name": "Ion",
     "author": "SMOLKEYS",
-    "lastUpdated": "2022-06-06T07:45:56Z",
+    "lastUpdated": "2022-06-06T09:37:25Z",
     "stars": 0,
     "minGameVersion": "136",
     "hasScripts": false,
