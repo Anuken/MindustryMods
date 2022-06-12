@@ -78,12 +78,6 @@ public class ModUpdater{
                 return val.get("full_name").toString().toLowerCase(Locale.ROOT);
             });
 
-            names.removeAll(n -> nameBlacklist.contains(n::startsWith));
-
-            for(String name : blacklist){
-                names.remove(name);
-            }
-
             int prevSize = names.size;
             //add old list of mods
             Jval prevList = Jval.read(new Fi("mods.json").readString());
@@ -93,6 +87,12 @@ public class ModUpdater{
             names.replace(s -> s.toLowerCase(Locale.ROOT));
             //there may be duplicates
             names.distinct();
+
+            names.removeAll(n -> nameBlacklist.contains(n::startsWith));
+
+            for(String name : blacklist){
+                names.remove(name);
+            }
 
             Log.info("&lyOld repos not found by the API: &lr@", names.size - prevSize);
 
