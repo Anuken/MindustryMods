@@ -132,17 +132,6 @@
     "description": "Library for other mods that unifies and simplifies UI creation."
   },
   {
-    "repo": "liplum/cyberio",
-    "name": "Cyber IO",
-    "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-06-17T10:56:32Z",
-    "stars": 54,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#e53935]Provides lots of cybernetic things!!![]\n\nCurrent version is v3.4, while v4 is still in development.\nLanguage Supports: English, Chinese(简体/正體中文), Japanese(日本語), Russian(Русский) and Ukrainian (українська).\nTo learn about the inter-mod compatibility and running Cyber IO on a server, please check the repository on GitHub by hitting the button below.\n\nGitHub: [#42a5f5]github.com/liplum/CyberIO[]"
-  },
-  {
     "repo": "eschatologue/unlimited-armament-works",
     "name": "Unlimited Armament Works",
     "author": "Eschatologue",
@@ -152,6 +141,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "    A port and sequel to Heavy Armament Industries, written in java.\n    All development will be implemented here as Heavy Armament Industries has been discontinued and removed from the Mod browser.\n\n    Unlimited Armament Works adds loads of new content, that expands upon vanilla Mindustry, adding more turrets, units, factories, and its own power system, steam Engines! and much more.\n\n    A lot of work and improvements goes into UAW, if you want to show some support or like the content, please give the mod a star on GitHub, Thank you!"
+  },
+  {
+    "repo": "liplum/cyberio",
+    "name": "Cyber IO",
+    "author": "[#42a5f5]Liplum[]",
+    "lastUpdated": "2022-06-17T17:37:54Z",
+    "stars": 54,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#e53935]Provides lots of cybernetic things!!![]\n\nCurrent version is v3.4, while v4 is still in development.\nLanguage Supports: English, Chinese(简体/正體中文), Japanese(日本語), Russian(Русский) and Ukrainian (українська).\nTo learn about the inter-mod compatibility and running Cyber IO on a server, please check the repository on GitHub by hitting the button below.\n\nGitHub: [#42a5f5]github.com/liplum/CyberIO[]"
   },
   {
     "repo": "deltanedas/routorio-old",
@@ -1848,7 +1848,7 @@
     "description": "Enables mobile UI if on desktop, or disables it on mobile."
   },
   {
-    "repo": "rlccj/itembridgex",
+    "repo": "rlzzj/itembridgex",
     "name": "ItemBridgeX",
     "author": "miner",
     "lastUpdated": "2022-05-11T05:09:33Z",
@@ -1859,7 +1859,7 @@
     "description": "This a mod that can show the hidden item of the item bridge."
   },
   {
-    "repo": "rlzzj/itembridgex",
+    "repo": "rlccj/itembridgex",
     "name": "ItemBridgeX",
     "author": "miner",
     "lastUpdated": "2022-05-11T05:09:33Z",
@@ -6391,6 +6391,17 @@
     "description": "Adds pyratite theamed blocks"
   },
   {
+    "repo": "liplum/bottledliquid",
+    "name": "Bottled Liquid",
+    "author": "Programming by [#42a5f5]Liplum[] -- Textures by TheTenthBot#9749",
+    "lastUpdated": "2022-06-17T17:13:02Z",
+    "stars": 1,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Selling drinks in Mindustry!"
+  },
+  {
     "repo": "nikisos/thebattlemod",
     "name": "Battle Comveyors",
     "author": "Nikisos",
@@ -7524,7 +7535,7 @@
     "description": "Change mindustry music to SC"
   },
   {
-    "repo": "936338156/mindustry-interplanetary_industries-mod-v7",
+    "repo": "936338156/mindustry-interplanetary_industries-mod",
     "name": "Interplanetary Industries",
     "author": "羊叫兽OwO",
     "lastUpdated": "2022-06-06T05:46:27Z",
@@ -7535,7 +7546,7 @@
     "description": "至少135的垃圾代码全部重写完毕了"
   },
   {
-    "repo": "936338156/mindustry-interplanetary_industries-mod",
+    "repo": "936338156/mindustry-interplanetary_industries-mod-v7",
     "name": "Interplanetary Industries",
     "author": "羊叫兽OwO",
     "lastUpdated": "2022-06-06T05:46:27Z",
@@ -7621,16 +7632,5 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "There is no suitable profile for the time being."
-  },
-  {
-    "repo": "liplum/bottledliquid",
-    "name": "Template Mod",
-    "author": "[#FBC02D]YourName[]",
-    "lastUpdated": "2022-06-17T13:23:38Z",
-    "stars": 0,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A template for Mindustry modding. Repository is on github.com/liplum/MdtModTemplate."
   }
 ]
