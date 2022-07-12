@@ -125,7 +125,7 @@
     "name": "Cyber IO",
     "author": "[#42a5f5]Liplum[]",
     "lastUpdated": "2022-07-10T10:40:37Z",
-    "stars": 57,
+    "stars": 58,
     "minGameVersion": "135",
     "hasScripts": false,
     "hasJava": true,
@@ -1001,6 +1001,17 @@
     "description": "A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
   },
   {
+    "repo": "liplum/multicrafterlib",
+    "name": "MultiCrafter Lib",
+    "author": "[#42a5f5]Liplum[]",
+    "lastUpdated": "2022-07-09T17:09:41Z",
+    "stars": 11,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod providing MultiCrafter library for JavaScript mods."
+  },
+  {
     "repo": "echovespy/simplistic",
     "name": "Simplistic - TexturePack",
     "author": "EchoVespy",
@@ -1252,17 +1263,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\n  # 功能\n\n  ---\n\n  ## UI\n  1. MinerToolsTable:\n     * 队伍信息:\n       * 队伍玩家数量(Tooltip显示基础队伍规则)\n       * 队伍单位显示\n       * 队伍全局电量(Tooltip显示详细电量情况)\n     * 一些有用的按钮:\n       * 暂停建造(仅手机)\n       * 自动升级传送带\n       * 重建方块\n       * 快捷投降\n     * 换队/跳波器\n     * 玩家列表:\n       * 所有玩家的名字\n       * 可锁定玩家视角(锁定的玩家控制炮塔时,会自动调整视角)\n       * 可切换到玩家视角\n       * 可一键投票踢出玩家\n     * 快捷蓝图\n     * 玩家AI:\n       * 挖矿AI\n       * 跟随AI\n\n  2. 聊天记录:\n     * 查询历史聊天记录\n     * 可以复制聊天记录(电脑:Ctrl+单击)\n\n  3. 更好的核心资源显示:\n     * 单位数量显示\n     * 物品每秒变化量显示\n     * 玩家预建消耗显示\n     * 可自定义的ui列数\n\n  4. 更好的信息面板:\n     * 单位,建筑,地板信息一起显示!\n     * 单位:\n       * 武器冷却状态\n     * 建筑:\n       * 物品详情\n     * 地板:\n       * 显示更详尽\n\n  ---\n\n  ## 画面\n  * 建筑:\n    * 选中:\n      * 异队选中信息\n      * 桥带连接详情\n    * 建筑血条\n    * 异队方块状态\n    * 构造方块耗材信息\n    * 附近炮塔警戒\n    * 物品炮塔子弹类型显示\n    * 单位工厂进度条\n\n  * 单位:\n    * 单位指示器(核心危险警告)\n    * 附近单位警戒\n\n    * 单位信息条:\n      * 血条\n      * 立场回复条\n      * 单位状态条\n      * 荷载条\n\n  * 玩家:\n    * 荷载拾放提示\n    * 玩家范围显示\n\n  ---\n\n  ## 其他小功能\n  * 进入游戏后,显示被ban的单位或方块\n  * UIScale的step修改\n  * 物品桥带可拿取物品\n  * 更多方块信息条:\n    * 血条: 血量显示更详细\n    * 进度条: 进度显示更详细\n\n  ---\n\n  # 其他\n  Mod的90%功均可在设置中打开或关闭!"
-  },
-  {
-    "repo": "liplum/multicrafterlib",
-    "name": "MultiCrafter Lib",
-    "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-07-09T17:09:41Z",
-    "stars": 9,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod providing MultiCrafter library for JavaScript mods."
   },
   {
     "repo": "mindustryinside/l1337n",
@@ -2396,17 +2396,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This mod adds a couple of inverse buildings, so that in most situations, some resources are available or so that there are more of them.\nAdded buildings: Inverse Pulverizer, Inverse Melter, Inverse Coal Centrifuge, Inverse Spore Press."
-  },
-  {
-    "repo": "gennaowl/extra-walls",
-    "name": "Extra Walls",
-    "author": "genNAowl",
-    "lastUpdated": "2021-02-07T21:46:31Z",
-    "stars": 4,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that adds walls made of every buildable material"
   },
   {
     "repo": "cherriodude/jac",
@@ -5060,17 +5049,6 @@
     "description": "Add the new sectors on Erekir"
   },
   {
-    "repo": "mythril382/ammoswap",
-    "name": "Ammo Swap",
-    "author": "Mythril",
-    "lastUpdated": "2022-06-19T09:00:24Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Swaps ammo of turrets.\nThis is cursed. Don't play this in campaign.\n\nCreate a new save for every game when using this mod. Loading a save has a 90% chance to crash your game."
-  },
-  {
     "repo": "yukusoh/hardustry-mod",
     "name": "Hardustry",
     "author": "YukuSOH",
@@ -5093,7 +5071,7 @@
     "description": "Adds new features."
   },
   {
-    "repo": "cluet0304/hmm",
+    "repo": "cluet0304/more-processing",
     "name": "More Processing",
     "author": " CLUET",
     "lastUpdated": "2022-06-28T04:55:10Z",
@@ -5104,7 +5082,7 @@
     "description": "A mod that adds more processing of materials in game.\nCurrently WIP, Balancing changes required,so new ideas of balancing\nand Content is appreciated."
   },
   {
-    "repo": "cluet0304/more-processing",
+    "repo": "cluet0304/hmm",
     "name": "More Processing",
     "author": " CLUET",
     "lastUpdated": "2022-06-28T04:55:10Z",
@@ -6567,17 +6545,6 @@
     "description": "An advanced UI Debugger that lets you do various things,\nstarting from viewing the element bounds and ending with reflectively modifying the properties of every element.\n\nThis mod is unfinished and may contain some bugs or unfinished features.\n\nYou can access the menu of this mod by clicking the \"UI Debugger\" button in the main menu.\nYou can also view this menu in a separate window by clicking the respective button."
   },
   {
-    "repo": "swirek3331/alt-core",
-    "name": "Alt-core",
-    "author": "Swirek3331",
-    "lastUpdated": "2022-07-11T12:22:11Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Debile są niczym sezonowa grypa. Cały czas wracają i niemiłosiernie trują dupę"
-  },
-  {
     "repo": "nikisos/thebattlemod",
     "name": "Battle Comveyors",
     "author": "Nikisos",
@@ -7269,17 +7236,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "currently very WIP"
-  },
-  {
-    "repo": "mitch-jar/mindustry-chronicles",
-    "name": "MiniChrone",
-    "author": "MitchJAR",
-    "lastUpdated": "2021-11-05T23:39:16Z",
-    "stars": 0,
-    "minGameVersion": "134.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A vanilla Mindustry Enhancement."
   },
   {
     "repo": "antlrr/oxypoly",
