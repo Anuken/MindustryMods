@@ -99,6 +99,17 @@
     "description": "Speeds up or slows down Mindustry.\nPress & hold 'x1' to fold the buttons.\nSome buttons can be pressed twice.\n\nDisclaimer: not intended for multiplayer use!"
   },
   {
+    "repo": "liplum/cyberio",
+    "name": "Cyber IO",
+    "author": "[#42a5f5]Liplum[]",
+    "lastUpdated": "2022-07-12T14:12:53Z",
+    "stars": 60,
+    "minGameVersion": "135",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#e53935]Provides lots of cybernetic things!!![]\n\nCurrent version is v3.4, while v4 is still in development.\nLanguage Supports: English, Chinese(简体/正體中文), Japanese(日本語), Russian(Русский) and Ukrainian (українська).\nTo learn about the inter-mod compatibility and running Cyber IO on a server, please check the repository on GitHub by hitting the button below.\n\nGitHub: [#42a5f5]github.com/liplum/CyberIO[]"
+  },
+  {
     "repo": "deltanedas/pictologic",
     "name": "PicToLogic",
     "author": "deltanedas, Router and another guy",
@@ -108,17 +119,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a dialog for turning images into processor schematics.\nRequires deltanedas/ui-lib."
-  },
-  {
-    "repo": "liplum/cyberio",
-    "name": "Cyber IO",
-    "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-07-12T14:12:53Z",
-    "stars": 59,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#e53935]Provides lots of cybernetic things!!![]\n\nCurrent version is v3.4, while v4 is still in development.\nLanguage Supports: English, Chinese(简体/正體中文), Japanese(日本語), Russian(Русский) and Ukrainian (українська).\nTo learn about the inter-mod compatibility and running Cyber IO on a server, please check the repository on GitHub by hitting the button below.\n\nGitHub: [#42a5f5]github.com/liplum/CyberIO[]"
   },
   {
     "repo": "slotterleet/goldmod",
@@ -135,7 +135,7 @@
     "repo": "deltanedas/ui-lib",
     "name": "UI Lib",
     "author": "deltanedas",
-    "lastUpdated": "2022-05-07T15:24:00Z",
+    "lastUpdated": "2022-07-16T02:37:54Z",
     "stars": 55,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -1268,7 +1268,7 @@
     "repo": "mindustryinside/l1337n",
     "name": "L1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-07-15T12:29:50Z",
+    "lastUpdated": "2022-07-16T01:21:04Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -1903,17 +1903,6 @@
     "description": "A small mod which adds powders to the game, along with some of turrets, units, and other content."
   },
   {
-    "repo": "teamneiaron/ion",
-    "name": "Ion",
-    "author": "TeamNeiaron",
-    "lastUpdated": "2022-07-14T11:21:06Z",
-    "stars": 6,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Chaos ensues. Open the game with this mod enabled for the description to update correctly."
-  },
-  {
     "repo": "emanuelg-gaming/erekir-expansion",
     "name": "Erekir Expansion",
     "author": "Emanuel G",
@@ -1923,6 +1912,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod aimed to add content to the newly-added planet."
+  },
+  {
+    "repo": "teamneiaron/ion",
+    "name": "Ion",
+    "author": "TeamNeiaron",
+    "lastUpdated": "2022-07-16T03:09:22Z",
+    "stars": 6,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Chaos ensues. Open the game with this mod enabled for the description to update correctly."
   },
   {
     "repo": "zerocore-salamander/hackforall",
@@ -2341,6 +2341,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\n此mod分离自mod tools.\nWARNING: 此mod仍在测试中.\n-----------------------\n1. 修复了一堆bug.\n2. 优化了代码.\n3. 添加了新功能.\n\n创建的是文件夹(在mods(I hope...)文件夹).\n\n旧版本不支持某些功能\n"
+  },
+  {
+    "repo": "luxduck/publicmod",
+    "name": "Public Mod",
+    "author": "luxDuck",
+    "lastUpdated": "2022-07-16T02:17:05Z",
+    "stars": 5,
+    "minGameVersion": "135.2",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod that luxDuck and other people are working on. Star the mod for access."
   },
   {
     "repo": "als39175/infinity-cheat",
@@ -2935,17 +2946,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": " The mod adds: walls, units, repairers and much more."
-  },
-  {
-    "repo": "luxduck/publicmod",
-    "name": "Public Mod",
-    "author": "luxDuck",
-    "lastUpdated": "2022-07-14T20:44:23Z",
-    "stars": 4,
-    "minGameVersion": "135.2",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod that luxDuck and other people are working on. Star the mod for access."
   },
   {
     "repo": "eclipsetheoldone/avkott",
@@ -5082,7 +5082,7 @@
     "description": "Adds new features."
   },
   {
-    "repo": "cluet0304/hmm",
+    "repo": "cluet0304/more-processing",
     "name": "More Processing",
     "author": " CLUET",
     "lastUpdated": "2022-06-28T04:55:10Z",
@@ -5093,7 +5093,7 @@
     "description": "A mod that adds more processing of materials in game.\nCurrently WIP, Balancing changes required,so new ideas of balancing\nand Content is appreciated."
   },
   {
-    "repo": "cluet0304/more-processing",
+    "repo": "cluet0304/hmm",
     "name": "More Processing",
     "author": " CLUET",
     "lastUpdated": "2022-06-28T04:55:10Z",
@@ -5179,6 +5179,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": ""
+  },
+  {
+    "repo": "mythril382/rainpuddles",
+    "name": "Rain Puddles",
+    "author": "Mythril",
+    "lastUpdated": "2022-07-14T15:29:47Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Spawns puddles when it is raining.\nMay or may not be laggy."
   },
   {
     "repo": "sirmachinegun/ebm",
@@ -6587,17 +6598,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Debile są niczym sezonowa grypa. Cały czas wracają i niemiłosiernie trują dupę"
-  },
-  {
-    "repo": "mythril382/rainpuddles",
-    "name": "Rain Puddles",
-    "author": "Mythril",
-    "lastUpdated": "2022-07-14T15:29:47Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Spawns puddles when it is raining.\nMay or may not be laggy."
   },
   {
     "repo": "yaroslav242/yfjs",
