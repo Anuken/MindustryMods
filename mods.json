@@ -322,7 +322,7 @@
     "repo": "fresh791/fading-revelations",
     "name": "Fading Revelations",
     "author": "\nDevelopers\n- Fresh791\n\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : HairyNugget\n- Ukrainian : Prosta4ok_ua\n\n\nContributors\nLots of people, check the\nDiscord for more information!\n\n",
-    "lastUpdated": "2022-07-19T20:36:29Z",
+    "lastUpdated": "2022-07-20T15:59:10Z",
     "stars": 30,
     "minGameVersion": "126.2",
     "hasScripts": true,
@@ -1012,6 +1012,17 @@
     "description": "Adds a new fractions of units like: Snow, Electrical, Spore, Blade, Averaged, Upgraded."
   },
   {
+    "repo": "rlccj/minertools",
+    "name": "MinerTools",
+    "author": "miner",
+    "lastUpdated": "2022-07-08T02:53:49Z",
+    "stars": 11,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\n  # 功能\n\n  ---\n\n  ## UI\n  1. MinerToolsTable:\n     * 队伍信息:\n       * 队伍玩家数量(Tooltip显示基础队伍规则)\n       * 队伍单位显示\n       * 队伍全局电量(Tooltip显示详细电量情况)\n     * 一些有用的按钮:\n       * 暂停建造(仅手机)\n       * 自动升级传送带\n       * 重建方块\n       * 快捷投降\n     * 换队/跳波器\n     * 玩家列表:\n       * 所有玩家的名字\n       * 可锁定玩家视角(锁定的玩家控制炮塔时,会自动调整视角)\n       * 可切换到玩家视角\n       * 可一键投票踢出玩家\n     * 快捷蓝图\n     * 玩家AI:\n       * 挖矿AI\n       * 跟随AI\n\n  2. 聊天记录:\n     * 查询历史聊天记录\n     * 可以复制聊天记录(电脑:Ctrl+单击)\n\n  3. 更好的核心资源显示:\n     * 单位数量显示\n     * 物品每秒变化量显示\n     * 玩家预建消耗显示\n     * 可自定义的ui列数\n\n  4. 更好的信息面板:\n     * 单位,建筑,地板信息一起显示!\n     * 单位:\n       * 武器冷却状态\n     * 建筑:\n       * 物品详情\n     * 地板:\n       * 显示更详尽\n\n  ---\n\n  ## 画面\n  * 建筑:\n    * 选中:\n      * 异队选中信息\n      * 桥带连接详情\n    * 建筑血条\n    * 异队方块状态\n    * 构造方块耗材信息\n    * 附近炮塔警戒\n    * 物品炮塔子弹类型显示\n    * 单位工厂进度条\n\n  * 单位:\n    * 单位指示器(核心危险警告)\n    * 附近单位警戒\n\n    * 单位信息条:\n      * 血条\n      * 立场回复条\n      * 单位状态条\n      * 荷载条\n\n  * 玩家:\n    * 荷载拾放提示\n    * 玩家范围显示\n\n  ---\n\n  ## 其他小功能\n  * 进入游戏后,显示被ban的单位或方块\n  * UIScale的step修改\n  * 物品桥带可拿取物品\n  * 更多方块信息条:\n    * 血条: 血量显示更详细\n    * 进度条: 进度显示更详细\n\n  ---\n\n  # 其他\n  Mod的90%功均可在设置中打开或关闭!"
+  },
+  {
     "repo": "echovespy/simplistic",
     "name": "Simplistic - TexturePack",
     "author": "EchoVespy",
@@ -1131,17 +1142,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Lots of crazy stuff :>"
-  },
-  {
-    "repo": "rlccj/minertools",
-    "name": "MinerTools",
-    "author": "miner",
-    "lastUpdated": "2022-07-08T02:53:49Z",
-    "stars": 10,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\n  # 功能\n\n  ---\n\n  ## UI\n  1. MinerToolsTable:\n     * 队伍信息:\n       * 队伍玩家数量(Tooltip显示基础队伍规则)\n       * 队伍单位显示\n       * 队伍全局电量(Tooltip显示详细电量情况)\n     * 一些有用的按钮:\n       * 暂停建造(仅手机)\n       * 自动升级传送带\n       * 重建方块\n       * 快捷投降\n     * 换队/跳波器\n     * 玩家列表:\n       * 所有玩家的名字\n       * 可锁定玩家视角(锁定的玩家控制炮塔时,会自动调整视角)\n       * 可切换到玩家视角\n       * 可一键投票踢出玩家\n     * 快捷蓝图\n     * 玩家AI:\n       * 挖矿AI\n       * 跟随AI\n\n  2. 聊天记录:\n     * 查询历史聊天记录\n     * 可以复制聊天记录(电脑:Ctrl+单击)\n\n  3. 更好的核心资源显示:\n     * 单位数量显示\n     * 物品每秒变化量显示\n     * 玩家预建消耗显示\n     * 可自定义的ui列数\n\n  4. 更好的信息面板:\n     * 单位,建筑,地板信息一起显示!\n     * 单位:\n       * 武器冷却状态\n     * 建筑:\n       * 物品详情\n     * 地板:\n       * 显示更详尽\n\n  ---\n\n  ## 画面\n  * 建筑:\n    * 选中:\n      * 异队选中信息\n      * 桥带连接详情\n    * 建筑血条\n    * 异队方块状态\n    * 构造方块耗材信息\n    * 附近炮塔警戒\n    * 物品炮塔子弹类型显示\n    * 单位工厂进度条\n\n  * 单位:\n    * 单位指示器(核心危险警告)\n    * 附近单位警戒\n\n    * 单位信息条:\n      * 血条\n      * 立场回复条\n      * 单位状态条\n      * 荷载条\n\n  * 玩家:\n    * 荷载拾放提示\n    * 玩家范围显示\n\n  ---\n\n  ## 其他小功能\n  * 进入游戏后,显示被ban的单位或方块\n  * UIScale的step修改\n  * 物品桥带可拿取物品\n  * 更多方块信息条:\n    * 血条: 血量显示更详细\n    * 进度条: 进度显示更详细\n\n  ---\n\n  # 其他\n  Mod的90%功均可在设置中打开或关闭!"
   },
   {
     "repo": "sk7725/immundustry",
@@ -1653,7 +1653,7 @@
     "repo": "fabizocker456/test",
     "name": "Test mod",
     "author": "Fabizocker456",
-    "lastUpdated": "2022-07-20T10:35:00Z",
+    "lastUpdated": "2022-07-20T15:45:21Z",
     "stars": 7,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -1961,10 +1961,10 @@
     "repo": "r-omnom/z.p.g.m._mod",
     "name": "Z.P.G.M._Mod",
     "author": "r_omnom7",
-    "lastUpdated": "2022-07-20T13:49:37Z",
+    "lastUpdated": "2022-07-20T15:29:51Z",
     "stars": 6,
     "minGameVersion": "136",
-    "hasScripts": true,
+    "hasScripts": false,
     "hasJava": false,
     "description": "Z.P.G.M. Mod dla dużej rozpierduchy oraz zabawy. Wspierający: Świrek3331, Not_Bot, Kamil, Zielony Trójkąt. Gigantyczne podziękowania dla Stalkera za zaanagżowanie w pracę z teksturami, oraz dla Dream Lorda, za nieocenioną pomoc z kodem (bez ciebie nie powstałoby nawet 1.0). Discord: https://discord.gg/E3T9JxDuTP Mod currently unavaible in English. Ask about me in #polski in official mindustry discord if you want to contact."
   },
@@ -2420,17 +2420,6 @@
     "description": "This mod adds some new movement mechanics, gravity and jump to player. WIP, report all bugs to Benry#5935"
   },
   {
-    "repo": "luxduck/publicmod",
-    "name": "Public Mod",
-    "author": "luxDuck",
-    "lastUpdated": "2022-07-20T03:28:57Z",
-    "stars": 5,
-    "minGameVersion": "22825",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod that luxDuck and other people are working on. Star the mod for access."
-  },
-  {
     "repo": "evo04taser/super-cheat",
     "name": "Super Cheat",
     "author": "Evo04Taser",
@@ -2451,6 +2440,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mindustry Erekir mod moment"
+  },
+  {
+    "repo": "luxduck/publicmod",
+    "name": "Public Mod",
+    "author": "luxDuck",
+    "lastUpdated": "2022-07-20T15:26:20Z",
+    "stars": 5,
+    "minGameVersion": "135.2",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod that luxDuck and other people are working on. Star the mod for access."
   },
   {
     "repo": "cyberneticsquid/self-destruct",
@@ -5225,7 +5225,7 @@
     "description": ""
   },
   {
-    "repo": "srotaku/modnathilha",
+    "repo": "srotaku/modnathilha-v6",
     "name": "NathilhaMod",
     "author": "RedGame",
     "lastUpdated": "2022-07-19T17:27:03Z",
@@ -5236,7 +5236,7 @@
     "description": "Um mod que adiciona alguns items novos.\nTentarei manter atualizando sempre que possível.\n\nMeu Github:\n https://github.com/SrOtaku/ModNathilha"
   },
   {
-    "repo": "srotaku/modnathilha-v6",
+    "repo": "srotaku/modnathilha",
     "name": "NathilhaMod",
     "author": "RedGame",
     "lastUpdated": "2022-07-19T17:27:03Z",
@@ -7907,5 +7907,16 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A small pack of units and turrets made to test out modding in v7"
+  },
+  {
+    "repo": "luxduck/refraction",
+    "name": "Refraction",
+    "author": "luxDuck",
+    "lastUpdated": "2022-07-20T15:52:18Z",
+    "stars": 0,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
   }
 ]
