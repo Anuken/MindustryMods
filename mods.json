@@ -660,6 +660,17 @@
     "description": "randomizes almost everything\njoin our discord! https://discord.gg/ztC6WJUxZK\n\nEPILEPSY WARNING"
   },
   {
+    "repo": "blackdeluxecat/mi2-utilities-java",
+    "name": "MI2-Utilities Java",
+    "author": "BlackDeluxeCat",
+    "lastUpdated": "2022-07-23T11:27:55Z",
+    "stars": 16,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "# MI2-Utilities Java\n一个原版辅助工具，有爱自取。\n\n安装方法：\n\n- 方法1 在游戏里使用“从github导入”，填BlackDeluxeCat/MI2-Utilities-Java\n- 方法2 进入本mod最新(Lateset)Release，下载文件列表中的MI2-Utilities Java.jar，在游戏里使用“导入文件”，导入所下载的jar。\n- 方法3 若已安装老版本，在游戏里点击mod详情页，重新安装。（仅限移动端）\n\n中文讨论群：875035496\n\n无力为其他语言做本地化，接受pr。\n\n## 特性列表（0.9.5）\n\n### ui\n\n#### 主界面\n- 快捷功能：一键规划重建、透视物流\n- AI辅助控制：挖矿、建造规划、维修、瞄准、拿取物品、跟随镜头。\n- 自动变速器：合乎逻辑的降速，避免低帧影响建筑工作。\n- 该窗口的选项弹窗包含MI2U的大部分选项。\n\n#### 核心信息\n- 原版核心信息+，资源变化折线图\n- 单位计数器\n- 电量条与电网分析\n- 可切换查看其他队伍\n\n#### 小地图\n- 基于原版地图渲染器\n- 可缩放至全图\n- 玩家单位显示名称\n- 点击移动视角\n- 天眼查查找全图地形/建筑\n\n#### 地图信息\n- 大部分地图规则\n- 波次预览工具，强制跳波\n- 详细的波次血量条\n\n#### 逻辑辅助\n- 整理与快捷复制变量名，可使用分隔符\n- 查找与替换变量名\n- 代码块剪切与复制\n\n#### Emoji\n- 一个emoji查阅工具\n\n### Mindow2\n本mod的可拖拽窗口。标题栏可进入选项弹窗、帮助页弹窗，具体请查阅各窗口的帮助页。\n拖拽、吸附等均可通过选项保存。\n\n### 杂项\n- 玩家光标平滑显示\n- 渲染单位血条、逻辑控制、寻路线\n- 维修、超速范围的精致渲染\n- 关闭残骸、单位、射弹、建筑渲染\n- 修改部分方块数值条\n- 更好的方块/单位/地形数值面板\n- 屏边移动视角（桌面端）\n- 添加一套地图筛选器，特色是可复合坐标变换\n- 99.5%的改动可以通过选项关闭\n- MI2U选项存储在$Mindustry/mods/MI2U_Settings/目录下"
+  },
+  {
     "repo": "drullkus/unnerf-core-units",
     "name": "Unnerf Core Units",
     "author": "Drullkus",
@@ -724,17 +735,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds T4 and T5 Cores."
-  },
-  {
-    "repo": "blackdeluxecat/mi2-utilities-java",
-    "name": "MI2-Utilities Java",
-    "author": "BlackDeluxeCat",
-    "lastUpdated": "2022-07-23T11:27:55Z",
-    "stars": 15,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "# MI2-Utilities Java\n一个原版辅助工具，有爱自取。\n\n安装方法：\n\n- 方法1 在游戏里使用“从github导入”，填BlackDeluxeCat/MI2-Utilities-Java\n- 方法2 进入本mod最新(Lateset)Release，下载文件列表中的MI2-Utilities Java.jar，在游戏里使用“导入文件”，导入所下载的jar。\n- 方法3 若已安装老版本，在游戏里点击mod详情页，重新安装。（仅限移动端）\n\n中文讨论群：875035496\n\n无力为其他语言做本地化，接受pr。\n\n## 特性列表（0.9.5）\n\n### ui\n\n#### 主界面\n- 快捷功能：一键规划重建、透视物流\n- AI辅助控制：挖矿、建造规划、维修、瞄准、拿取物品、跟随镜头。\n- 自动变速器：合乎逻辑的降速，避免低帧影响建筑工作。\n- 该窗口的选项弹窗包含MI2U的大部分选项。\n\n#### 核心信息\n- 原版核心信息+，资源变化折线图\n- 单位计数器\n- 电量条与电网分析\n- 可切换查看其他队伍\n\n#### 小地图\n- 基于原版地图渲染器\n- 可缩放至全图\n- 玩家单位显示名称\n- 点击移动视角\n- 天眼查查找全图地形/建筑\n\n#### 地图信息\n- 大部分地图规则\n- 波次预览工具，强制跳波\n- 详细的波次血量条\n\n#### 逻辑辅助\n- 整理与快捷复制变量名，可使用分隔符\n- 查找与替换变量名\n- 代码块剪切与复制\n\n#### Emoji\n- 一个emoji查阅工具\n\n### Mindow2\n本mod的可拖拽窗口。标题栏可进入选项弹窗、帮助页弹窗，具体请查阅各窗口的帮助页。\n拖拽、吸附等均可通过选项保存。\n\n### 杂项\n- 玩家光标平滑显示\n- 渲染单位血条、逻辑控制、寻路线\n- 维修、超速范围的精致渲染\n- 关闭残骸、单位、射弹、建筑渲染\n- 修改部分方块数值条\n- 更好的方块/单位/地形数值面板\n- 屏边移动视角（桌面端）\n- 添加一套地图筛选器，特色是可复合坐标变换\n- 99.5%的改动可以通过选项关闭\n- MI2U选项存储在$Mindustry/mods/MI2U_Settings/目录下"
   },
   {
     "repo": "thatonebepis/infinitodustry",
@@ -872,7 +872,7 @@
     "repo": "liplum/multicrafterlib",
     "name": "MultiCrafter Lib",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-07-23T05:48:04Z",
+    "lastUpdated": "2022-07-24T04:49:10Z",
     "stars": 13,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1639,17 +1639,6 @@
     "description": "Adds a dialog for turning images into canvas schematics.\nRequires deltanedas/ui-lib."
   },
   {
-    "repo": "kayyayeare/dusted-lands",
-    "name": "Dusted Lands",
-    "author": "KayAyeAre",
-    "lastUpdated": "2022-07-04T11:32:35Z",
-    "stars": 7,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A small mod which adds powders to the game, along with some of turrets, units, and other content."
-  },
-  {
     "repo": "schedarian/unitturrets",
     "name": "Unit Turrets",
     "author": "NeutrO_",
@@ -1692,6 +1681,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod aimed to add content to the newly-added planet."
+  },
+  {
+    "repo": "kayyayeare/dusted-lands",
+    "name": "Dusted Lands",
+    "author": "KayAyeAre",
+    "lastUpdated": "2022-07-24T04:35:40Z",
+    "stars": 7,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A small mod which adds powders to the game, along with some of turrets, units, and other content."
   },
   {
     "repo": "deltanedas/no",
@@ -5236,21 +5236,10 @@
     "description": "for Aim"
   },
   {
-    "repo": "driftednotes/backtotheminimal",
-    "name": "Back To the Minimal",
-    "author": "Drifted Notes",
-    "lastUpdated": "2022-07-24T03:40:23Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "1x1 block & 1 item only mindustry mod challenge.\n\nmade by Drifted Notes."
-  },
-  {
     "repo": "purplesushi22/oh-no-lang",
     "name": "Oh no & Negative Tails",
     "author": "PurpleSushi22",
-    "lastUpdated": "2022-07-24T04:20:38Z",
+    "lastUpdated": "2022-07-24T04:57:36Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -5261,7 +5250,7 @@
     "repo": "purplesushi22/oh-no-random-pack",
     "name": "Oh no & Negative Tails",
     "author": "PurpleSushi22",
-    "lastUpdated": "2022-07-24T04:20:38Z",
+    "lastUpdated": "2022-07-24T04:57:36Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -6182,17 +6171,6 @@
     "description": "этот мод заставит тебя попыхтеть"
   },
   {
-    "repo": "mq-1175/vanilla-upgraded-b135",
-    "name": "Vanilla Upgraded V7",
-    "author": "Mesokrix & M.Q.",
-    "lastUpdated": "2022-04-04T10:27:15Z",
-    "stars": 1,
-    "minGameVersion": "134",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "\nAdd things that can boost your vanilla experience !\n\nU can follow the advancement of the mod in the official Vanilla-Upgraded discord server !\n\nhttps://discord.gg/TQpdDKn\n\nCo-developer: VozDuh and Summet#4530"
-  },
-  {
     "repo": "kapzduke/sandcastle",
     "name": "Sandcastle",
     "author": "kapzduke",
@@ -6719,6 +6697,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "I make remake of my first mod on 5.0 (5.0 version of mod bad)"
+  },
+  {
+    "repo": "driftednotes/binary0101",
+    "name": "Binary0101",
+    "author": "1237 / Drifted Notes",
+    "lastUpdated": "2022-07-24T06:00:30Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "a port and sequel (and probably continuation) of 1237's mindustry mod called binary0011."
   },
   {
     "repo": "nikisos/thebattlemod",
@@ -7579,17 +7568,6 @@
     "description": "IRC Mod for Mindustry"
   },
   {
-    "repo": "mq-1175/hypertech-v135",
-    "name": "Hypertech V7 Mod",
-    "author": "TrippleTrip & M.Q.",
-    "lastUpdated": "2022-01-24T15:14:07Z",
-    "stars": 0,
-    "minGameVersion": "135",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds new blocks, items, liquids, and units for new different ways processing, obtaining materials, defending, and attacking. Some of these processes are late game. A variety of turrets are added for improved defence."
-  },
-  {
     "repo": "gamestuffoffical/morebulletsmodforhjson",
     "name": "More Bullets Extension",
     "author": "GameStuff",
@@ -7909,21 +7887,10 @@
     "description": "A mindustry mod that runs entirely on scripts."
   },
   {
-    "repo": "driftednotes/binary0101",
-    "name": "Binary0101",
-    "author": "1237 / Drifted Notes",
-    "lastUpdated": "2022-07-23T23:14:14Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "a port and sequel (and probably continuation) of 1237's mindustry mod called binary0011."
-  },
-  {
     "repo": "cluet-op/green-technology",
     "name": "More Processing",
     "author": " CLUET",
-    "lastUpdated": "2022-07-24T03:56:36Z",
+    "lastUpdated": "2022-07-24T05:44:49Z",
     "stars": 0,
     "minGameVersion": "136",
     "hasScripts": false,
