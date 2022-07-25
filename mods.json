@@ -26,7 +26,7 @@
     "name": "Exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2022-06-20T17:19:28Z",
-    "stars": 163,
+    "stars": 164,
     "minGameVersion": "134.1",
     "hasScripts": false,
     "hasJava": false,
@@ -429,17 +429,6 @@
     "description": "oxynoe :>"
   },
   {
-    "repo": "xzxadixzx/scheme-size",
-    "name": "Scheme Size",
-    "author": "xzxADIxzx",
-    "lastUpdated": "2022-07-25T09:58:08Z",
-    "stars": 24,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that increase the schematic size limit to 512 blocks!\nVanilla Only!"
-  },
-  {
     "repo": "p101q/uni",
     "name": "UNI",
     "author": "code: Qwaka\nsprites: plolq",
@@ -473,6 +462,17 @@
     "description": "Adds upgraded versions of existing factories."
   },
   {
+    "repo": "flintyx/animalia",
+    "name": "Animalia",
+    "author": "Flin",
+    "lastUpdated": "2022-04-25T21:33:14Z",
+    "stars": 23,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod that contains unique biological forms, blocks, machines and mechanics to discover the world of the Animalia Kingdom!"
+  },
+  {
     "repo": "deltanedas/unit-factory",
     "name": "Unit Factory",
     "author": "deltanedas",
@@ -482,17 +482,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Spawn any enemy in sandbox or on multiplayer, with /js (if supported).\nRequires deltanedas/ui-lib."
-  },
-  {
-    "repo": "flintyx/animalia",
-    "name": "Animalia",
-    "author": "Flin",
-    "lastUpdated": "2022-04-25T21:33:14Z",
-    "stars": 22,
-    "minGameVersion": "130",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod that contains unique biological forms, blocks, machines and mechanics to discover the world of the Animalia Kingdom!"
   },
   {
     "repo": "mindustryinside/mindustryclassicified",
@@ -872,7 +861,7 @@
     "repo": "slotterleet/fictional-octo-system",
     "name": "fictional-octo-system",
     "author": "The Slaylord, Polar4ik, and KoRoach",
-    "lastUpdated": "2022-07-25T08:56:38Z",
+    "lastUpdated": "2022-07-25T11:03:35Z",
     "stars": 13,
     "minGameVersion": "120",
     "hasScripts": true,
@@ -2024,6 +2013,17 @@
     "description": "A mod that makes the game V5 ish by making you unable to capture."
   },
   {
+    "repo": "solarph/mindustry-crystal-pack",
+    "name": "Mindustry-Crystal-Pack",
+    "author": "SolarPH",
+    "lastUpdated": "2020-06-04T02:32:10Z",
+    "stars": 5,
+    "minGameVersion": "105",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that contains an OP yet super expensive weapon."
+  },
+  {
     "repo": "zerocore-salamander/hackforall",
     "name": "HackForAll",
     "author": "zeroCore",
@@ -2434,7 +2434,7 @@
     "repo": "mythril382/bagofcontent",
     "name": "Bag Of Content",
     "author": "Mythril",
-    "lastUpdated": "2022-07-25T04:56:29Z",
+    "lastUpdated": "2022-07-25T11:35:26Z",
     "stars": 5,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -5126,7 +5126,7 @@
     "description": "Sorter images schematics generator\nRequires deltanedas/ui-lib"
   },
   {
-    "repo": "cluet0304/more-processing",
+    "repo": "cluet0304/hmm",
     "name": "More Processing",
     "author": " CLUET",
     "lastUpdated": "2022-06-28T04:55:10Z",
@@ -5137,7 +5137,7 @@
     "description": "A mod that adds more processing of materials in game.\nCurrently WIP, Balancing changes required,so new ideas of balancing\nand Content is appreciated."
   },
   {
-    "repo": "cluet0304/hmm",
+    "repo": "cluet0304/more-processing",
     "name": "More Processing",
     "author": " CLUET",
     "lastUpdated": "2022-06-28T04:55:10Z",
@@ -7940,5 +7940,16 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod."
+  },
+  {
+    "repo": "smolkeys/experiments",
+    "name": "Kotlin Mod Template",
+    "author": "You",
+    "lastUpdated": "2022-07-25T11:10:30Z",
+    "stars": 0,
+    "minGameVersion": "129",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Kotlin mod template."
   }
 ]
