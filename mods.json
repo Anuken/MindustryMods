@@ -4,7 +4,7 @@
     "name": "BetaMindy",
     "author": "sk7725",
     "lastUpdated": "2022-07-21T06:06:30Z",
-    "stars": 236,
+    "stars": 237,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
@@ -135,7 +135,7 @@
     "repo": "eschatologue/unlimited-armament-works",
     "name": "Unlimited Armament Works",
     "author": "Eschatologue",
-    "lastUpdated": "2022-06-20T06:12:55Z",
+    "lastUpdated": "2022-07-29T06:14:20Z",
     "stars": 56,
     "minGameVersion": "135",
     "hasScripts": false,
@@ -289,7 +289,7 @@
     "repo": "3snake3/sapphirium",
     "name": "Sapphirium",
     "author": "Snake",
-    "lastUpdated": "2022-07-29T05:47:12Z",
+    "lastUpdated": "2022-07-29T06:04:57Z",
     "stars": 33,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -308,21 +308,10 @@
     "description": "multi\nlibrary mod for multi crafter.\nSupport over Mindustry 6.0 version.\nInstruction is in multi-lib-example"
   },
   {
-    "repo": "nickname73/gravillaso",
-    "name": "GRavillaso",
-    "author": "NickName73 (NiTiS-Dev)",
-    "lastUpdated": "2022-05-27T09:34:09Z",
-    "stars": 31,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "GRavillaso Mod based to improve basic content & add new things"
-  },
-  {
     "repo": "fresh791/fading-revelations",
     "name": "Fading Revelations",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\n\nContributors\n- Sprites : Fresh791 / ABreaker\n\nAnd many more people! \nCheck the Discord \nfor more information!\n\n",
-    "lastUpdated": "2022-07-28T19:36:45Z",
+    "lastUpdated": "2022-07-29T07:57:17Z",
     "stars": 31,
     "minGameVersion": "126.2",
     "hasScripts": true,
@@ -405,17 +394,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Alerts you to enemy tech progression and unit production"
-  },
-  {
-    "repo": "xzxadixzx/scheme-size",
-    "name": "Scheme Size",
-    "author": "xzxADIxzx",
-    "lastUpdated": "2022-07-28T18:00:20Z",
-    "stars": 26,
-    "minGameVersion": "136.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that increase the schematic size limit to 512 blocks!\nVanilla Only!"
   },
   {
     "repo": "realshizi/oxynoe",
@@ -550,17 +528,6 @@
     "description": "UNSTABLE DEVELOPMENT VERSION. Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
   },
   {
-    "repo": "sk7725/testers",
-    "name": "Testers",
-    "author": "sk7725",
-    "lastUpdated": "2022-06-06T09:25:43Z",
-    "stars": 20,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds various testers for easier mod development.\nThanks to: Gdeft"
-  },
-  {
     "repo": "aureusstratus/advancements",
     "name": "Advancements",
     "author": "AureusStratus",
@@ -660,17 +627,6 @@
     "description": "# MI2-Utilities Java\n一个原版辅助工具，有爱自取。\n\n安装方法：\n\n- 方法1 在游戏里使用“从github导入”，填BlackDeluxeCat/MI2-Utilities-Java\n- 方法2 进入本mod最新(Lateset)Release，下载文件列表中的MI2-Utilities Java.jar，在游戏里使用“导入文件”，导入所下载的jar。\n- 方法3 若已安装老版本，在游戏里点击mod详情页，重新安装。（仅限移动端）\n\n中文讨论群：875035496\n\n无力为其他语言做本地化，接受pr。\n\n## 特性列表（0.9.5）\n\n### ui\n\n#### 主界面\n- 快捷功能：一键规划重建、透视物流\n- AI辅助控制：挖矿、建造规划、维修、瞄准、拿取物品、跟随镜头。\n- 自动变速器：合乎逻辑的降速，避免低帧影响建筑工作。\n- 该窗口的选项弹窗包含MI2U的大部分选项。\n\n#### 核心信息\n- 原版核心信息+，资源变化折线图\n- 单位计数器\n- 电量条与电网分析\n- 可切换查看其他队伍\n\n#### 小地图\n- 基于原版地图渲染器\n- 可缩放至全图\n- 玩家单位显示名称\n- 点击移动视角\n- 天眼查查找全图地形/建筑\n\n#### 地图信息\n- 大部分地图规则\n- 波次预览工具，强制跳波\n- 详细的波次血量条\n\n#### 逻辑辅助\n- 整理与快捷复制变量名，可使用分隔符\n- 查找与替换变量名\n- 代码块剪切与复制\n\n#### Emoji\n- 一个emoji查阅工具\n\n### Mindow2\n本mod的可拖拽窗口。标题栏可进入选项弹窗、帮助页弹窗，具体请查阅各窗口的帮助页。\n拖拽、吸附等均可通过选项保存。\n\n### 杂项\n- 玩家光标平滑显示\n- 渲染单位血条、逻辑控制、寻路线\n- 维修、超速范围的精致渲染\n- 关闭残骸、单位、射弹、建筑渲染\n- 修改部分方块数值条\n- 更好的方块/单位/地形数值面板\n- 屏边移动视角（桌面端）\n- 添加一套地图筛选器，特色是可复合坐标变换\n- 99.5%的改动可以通过选项关闭\n- MI2U选项存储在$Mindustry/mods/MI2U_Settings/目录下"
   },
   {
-    "repo": "liplum/multicrafterlib",
-    "name": "MultiCrafter Lib",
-    "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-07-28T17:18:03Z",
-    "stars": 16,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod library provides a multiple-recipe crafter to produce items, fluids, power or even heat for Json and JavaScript mods.\nPlease check the repository below to learn more."
-  },
-  {
     "repo": "sporrus/randommindustry",
     "name": "Random Mindustry",
     "author": "gorodmi & Mythril",
@@ -715,17 +671,6 @@
     "description": "Adds additional contents\nSuch as units factories and more\nFor further Description Please Read README.md"
   },
   {
-    "repo": "paulieg626/cheat",
-    "name": "CheatMod",
-    "author": "paulieg626",
-    "lastUpdated": "2022-06-10T02:18:03Z",
-    "stars": 15,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Добавляет разные штуки для читов\nhttps://vk.com/mindustry_cheat"
-  },
-  {
     "repo": "smolkeys/bundles",
     "name": "Bundles",
     "author": "SMOLKEYS",
@@ -759,15 +704,15 @@
     "description": "Adds T4 and T5 Cores."
   },
   {
-    "repo": "mq-1175/vanilla-extension",
-    "name": "Vanilla Extension",
-    "author": "M.Q.",
-    "lastUpdated": "2022-07-29T05:59:27Z",
+    "repo": "paulieg626/cheat",
+    "name": "CheatMod",
+    "author": "paulieg626",
+    "lastUpdated": "2022-07-29T07:00:21Z",
     "stars": 15,
     "minGameVersion": "136",
-    "hasScripts": false,
+    "hasScripts": true,
     "hasJava": false,
-    "description": "Adds higher tiers of blocks, currently starting with factories. Mod is still in development, more contents coming soon."
+    "description": "Добавляет разные штуки для читов\nhttps://vk.com/mindustry_cheat"
   },
   {
     "repo": "thatonebepis/infinitodustry",
@@ -834,17 +779,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "EXP Library for 6.0!"
-  },
-  {
-    "repo": "uujuju1/project-abyss",
-    "name": "Project Abyss",
-    "author": "Uujuju",
-    "lastUpdated": "2022-03-13T01:12:30Z",
-    "stars": 13,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod that im working on."
   },
   {
     "repo": "eclipsetheoldone/project-tvakot",
@@ -1697,7 +1631,7 @@
     "repo": "emanuelg-gaming/erekir-expansion",
     "name": "Erekir Expansion",
     "author": "Emanuel G",
-    "lastUpdated": "2022-07-28T14:56:02Z",
+    "lastUpdated": "2022-07-29T06:29:30Z",
     "stars": 7,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1848,17 +1782,6 @@
     "description": "Powered by hjson. Access is completely open to everyone, use the modification data as you want. \n\nРаботает на hjson. Доступ полностью открыт для всех, используйте данные мода так, как хотите."
   },
   {
-    "repo": "deltanedas/mindustry-2",
-    "name": "Mindustry 2",
-    "author": "deltanedas",
-    "lastUpdated": "2022-02-28T13:21:01Z",
-    "stars": 6,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The sequel everyone has been waiting for.\nIncompatible with most mods."
-  },
-  {
     "repo": "l0615t1c5-216ac-9437/maxratecalculatorv6",
     "name": "Max Rate Calculator (V6 v126.2)",
     "author": "L0615T1C5.216AC#9437",
@@ -1969,17 +1892,6 @@
     "description": "A mod that makes the game V5 ish by making you unable to capture."
   },
   {
-    "repo": "deltanedas/modding-toolbox",
-    "name": "Modding Toolbox",
-    "author": "DeltaNedas",
-    "lastUpdated": "2022-07-26T16:50:02Z",
-    "stars": 6,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds some utilities for mod developers.\nRequires DeltaNedas/ui-lib."
-  },
-  {
     "repo": "r-omnom/z.p.g.m._mod",
     "name": "Z.P.G.M._Mod",
     "author": "r_omnom7",
@@ -2088,17 +2000,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "этот мод заставит тебя попыхтеть"
-  },
-  {
-    "repo": "voz-duh/progressed-factorio",
-    "name": "Progressed Factorio - TexturePack",
-    "author": "VozDuh",
-    "lastUpdated": "2021-04-01T10:15:43Z",
-    "stars": 5,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": ""
   },
   {
     "repo": "slava0135/seadustry",
@@ -2484,17 +2385,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Buffs Gamma"
-  },
-  {
-    "repo": "qmelz/v5dustry",
-    "name": "v5dustry",
-    "author": "QmelZ",
-    "lastUpdated": "2021-01-29T15:34:02Z",
-    "stars": 4,
-    "minGameVersion": "121",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "adds v5 features"
   },
   {
     "repo": "nuclear-bomb/inverse",
@@ -3146,17 +3036,6 @@
     "description": "We recommend downloading this mod if you would like to break your gameplay and have a lot of Shrek's."
   },
   {
-    "repo": "farmerthanos/jukeustry",
-    "name": "Jukeustry",
-    "author": "Farmer Thanos",
-    "lastUpdated": "2021-03-04T07:39:13Z",
-    "stars": 3,
-    "minGameVersion": "125.00",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that adds, you guessed it, JUKEBOXES! Don't expect them to shoot... or?"
-  },
-  {
     "repo": "sisit135/extendedgroundunit",
     "name": "Extended ground unit mod",
     "author": "sisit135 + passive engineer",
@@ -3243,17 +3122,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "ВНИМАНИЕ:\nНе скачивайте этот мод если вас устраивает перевод игры. Если нет, приглашаем вас в дурку:\nhttps://discord.gg/kqRsRCN"
-  },
-  {
-    "repo": "lordreddx/mindustry-creator-mod",
-    "name": "创世神-creator",
-    "author": "编号9527",
-    "lastUpdated": "2021-05-21T23:46:13Z",
-    "stars": 3,
-    "minGameVersion": "125",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\r\n\r\n  郑重声明：\r\n已经更新2.0，国内用户请在QQ群中下载\r\n群1：316035230。群1如果进不去可以去群2\r\n群2：316035230\r\nMOD文件数太多，创意工坊已经无法上传\r\n工坊版本可能永远停留在1.026了\r\n\r\n这个MOD已经更新到2.0版本了\r\n创意工坊由于特殊原因已经无法更新\r\n请到github下载安装\r\nhttps://github.com/guiYMOUR/mindustry-creator-mod\r\n另外，代码源已经上传到github。在游戏mod界面输入它直接导入：\r\nguiYMOUR/mindustry-creator-mod\r\n\r\n\r\n\r\n  Newly added content:\r\n\r\n  Resources: 36\r\n  Factory: 100+\r\n  Wall: 13\r\n  Transmission: 20\r\n  Turret: 16\r\n  Mineral: 6\r\n  Liquid: 5\r\n  State: 2\r\n  Unit: 43\r\n  Map: 40\r\n  Planets: 11\r\n  If you like this module, please click thumbs on this page *⸜(^_^)⸝*\r\n  Subsequent will update more if you have Suggestions or comments please go to the QQ group 316035230 and discussion of the author.\r\n  Or send email to cyj674971336@163.com\r\n  新增加的内容:\r\n  \r\n  资源 36\r\n  工厂 100+\r\n  墙：13\r\n  传输 20\r\n  炮塔 16\r\n  矿物 6\r\n  液体 5\r\n  状态 2\r\n  单位：43\r\n  地图：40\r\n  行星：11\r\n  \r\n  如果您觉得此模组不错，请对本模组点赞*⸜(^_^)⸝*\r\n  如果你有建议或者意见请到QQ群316035230与作者讨论。或者发送邮件至cyj674971336@163.com\r\n  —————————————————————————创世神-creator"
   },
   {
     "repo": "insaneandsad/generic-mod",
@@ -3465,17 +3333,6 @@
     "description": "my mod, special works, now on java because i'm learning it"
   },
   {
-    "repo": "freezemandu/qa-schemic",
-    "name": "Q&A Schemic",
-    "author": "Qwertynoob&Anchovy&Mandu",
-    "lastUpdated": "2021-12-12T14:44:19Z",
-    "stars": 3,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "The Schematic mod of Qwertynoob and Anchovy\n\nFor Schematics search, the creator's name was put in Schematics and an icon was added.\n\nThorium Reactor and Impact Reactor have separate icons.\n\n\nMeaning of SLT (Example)\nS: sand\nL: lead\nT: titanium\n\n-> Sand, lead, titanium should be puted directly."
-  },
-  {
     "repo": "vernaon/mindustry-admin-button",
     "name": "Admin button",
     "author": "NothingImportant",
@@ -3586,17 +3443,6 @@
     "description": "A vanilla expansion mod that add a new system"
   },
   {
-    "repo": "shocktrain/sorterdustry",
-    "name": "Sorterdustry - TexturePack",
-    "author": "Shocktrain",
-    "lastUpdated": "2022-03-30T02:49:22Z",
-    "stars": 3,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Made from my sorter art of the game. Thanks to Raccoon for help on pixel art"
-  },
-  {
     "repo": "emanuelg-gaming/flar-expansion",
     "name": "Flar Expansion",
     "author": "Emanuel G",
@@ -3617,17 +3463,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A simple mod which has a few lines of contents and some ugly sprites."
-  },
-  {
-    "repo": "mintustry/duonrouter",
-    "name": "inception duo",
-    "author": "mintustry",
-    "lastUpdated": "2022-04-12T05:15:18Z",
-    "stars": 3,
-    "minGameVersion": "112",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "router,  stuff and thongs, god my brain hurts"
   },
   {
     "repo": "bend-n/experience",
@@ -3718,17 +3553,6 @@
     "description": "A Mindustry Java mod that add a some contents.\n\nSpecial credits to Carrot for offering some sprites."
   },
   {
-    "repo": "wshon/minertools135",
-    "name": "MinerTools 135",
-    "author": "miner, adapter by wshon",
-    "lastUpdated": "2022-06-05T01:13:11Z",
-    "stars": 3,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A java mod for Mindustry 135.2"
-  },
-  {
     "repo": "teeworldsfun/mindustry-teeworlds",
     "name": "Teeworlds Developers Coming!(Tws/DDNet)",
     "author": "FlowerFell-Sans & Ninecloud",
@@ -3773,17 +3597,6 @@
     "description": "Spawns puddles when it is raining.\nMay or may not be laggy."
   },
   {
-    "repo": "wmf-industries/terios",
-    "name": "Terios",
-    "author": "WMF Industries",
-    "lastUpdated": "2022-07-17T07:08:34Z",
-    "stars": 3,
-    "minGameVersion": "127",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Similar to NeonNights, but actually updated."
-  },
-  {
     "repo": "nilederg/galactustry",
     "name": "Galactustry",
     "author": "NileDerg",
@@ -3793,17 +3606,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds many new features, drastically altering the endgame."
-  },
-  {
-    "repo": "ivandem2009/kikimici",
-    "name": "Nuclear Rampage",
-    "author": "IvanDem#1021",
-    "lastUpdated": "2022-07-26T15:03:19Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "JSON mod for multiplayer pvp. Mod guide will be shown soon"
   },
   {
     "repo": "sh1penfire/welcome-to-the-frostscape",
@@ -4477,17 +4279,6 @@
     "description": "Texture pack that mimics the style of an older iteration of Mindustry's logic system. I've provided a couple alternative sprites in the mod's files and encourage you to PR your own ones if you'd like."
   },
   {
-    "repo": "ilya246/quotestrings",
-    "name": "Quoted Strings",
-    "author": "[USMP]Ilya246",
-    "lastUpdated": "2021-10-26T11:56:37Z",
-    "stars": 2,
-    "minGameVersion": "131",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Observation is prohibited."
-  },
-  {
     "repo": "usmp-lancer/funny-explosion",
     "name": "Funny Explosion",
     "author": "USMP-lancer",
@@ -4530,17 +4321,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "RUS: Больше чем  свинець\n  UA: Більше ніж  свинець \nENG: More than lead"
-  },
-  {
-    "repo": "entexists/awp",
-    "name": "Advanced Weapons Platform",
-    "author": "Ent",
-    "lastUpdated": "2021-11-12T16:48:15Z",
-    "stars": 2,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds an advanced weapons platform. Dread it. \n\n[ SANDBOX ONLY ]"
   },
   {
     "repo": "notmeepoffaith/notmeepoffaiths-unit-emporium",
@@ -4618,17 +4398,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Texture pack that makes some blocks look cursed"
-  },
-  {
-    "repo": "freezemandu/invisibleblocks",
-    "name": "Invisible Blocks",
-    "author": "Mandu",
-    "lastUpdated": "2021-12-20T17:26:27Z",
-    "stars": 2,
-    "minGameVersion": "126",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Invisible Blocks Texture Pack.\nConvenience Mode\n\nThanks To\nss심\nsk7725"
   },
   {
     "repo": "dryehm/build-buff",
@@ -4719,17 +4488,6 @@
     "description": "This mod is no more useless!"
   },
   {
-    "repo": "creation6969/extrastuff",
-    "name": "ExtraStuff",
-    "author": "CEO Of Beijing Corn",
-    "lastUpdated": "2022-03-20T14:49:28Z",
-    "stars": 2,
-    "minGameVersion": "135",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a lot of stuff to play with."
-  },
-  {
     "repo": "laok233/h",
     "name": "h",
     "author": "end",
@@ -4818,28 +4576,6 @@
     "description": "Recreating Slotterleet Hard Mode Mod compatible for V7, also a HUGE Difficulty Spike, he suck"
   },
   {
-    "repo": "littelcat456/rainbow",
-    "name": "rainbow",
-    "author": "Littlecat456",
-    "lastUpdated": "2022-04-28T15:00:08Z",
-    "stars": 2,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "pointless singleplayer mod, does not work in multiplayer"
-  },
-  {
-    "repo": "duvent-mindustry/mindustry-gg-mod",
-    "name": "Duvents Turrets",
-    "author": "Duvent",
-    "lastUpdated": "2022-04-29T11:14:06Z",
-    "stars": 2,
-    "minGameVersion": "124",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "a small mod"
-  },
-  {
     "repo": "goobrr/debugproc",
     "name": "Debug Processor",
     "author": "You",
@@ -4893,17 +4629,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Dark-Mode Texture pack for Mindustry!"
-  },
-  {
-    "repo": "wedro023/frestorm",
-    "name": "Frestorm",
-    "author": "Wedro, Darkness",
-    "lastUpdated": "2022-05-11T11:26:45Z",
-    "stars": 2,
-    "minGameVersion": "134",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This is a mod that adds multiple turrets and a wall"
   },
   {
     "repo": "spaceearthex/banana",
@@ -5247,17 +4972,6 @@
     "description": "- 全新ui\n- 修复一些bug"
   },
   {
-    "repo": "reborntrack970/destroyer",
-    "name": "Destroyer",
-    "author": "RebornTrack970",
-    "lastUpdated": "2022-07-24T07:52:07Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This is just a simple Mindustry mod."
-  },
-  {
     "repo": "mythril382/yawym",
     "name": "Y. A. W. Y. M.",
     "author": "Mythril",
@@ -5269,7 +4983,7 @@
     "description": "You\nAre\nWhat\nYou\nMake"
   },
   {
-    "repo": "purplesushi22/oh-no-random-pack",
+    "repo": "purplesushi22/oh-no-lang",
     "name": "Oh no & Negative Tails",
     "author": "PurpleSushi22",
     "lastUpdated": "2022-07-26T07:41:36Z",
@@ -5280,7 +4994,7 @@
     "description": "uhh basically oh no language edition\nyeah that's it\n\ncredit to the folks at SMOLKEYS/bundles for the identifiers on how to edit stuff like basically everything in the first build"
   },
   {
-    "repo": "purplesushi22/oh-no-lang",
+    "repo": "purplesushi22/oh-no-random-pack",
     "name": "Oh no & Negative Tails",
     "author": "PurpleSushi22",
     "lastUpdated": "2022-07-26T07:41:36Z",
@@ -5533,17 +5247,6 @@
     "description": "There is no description"
   },
   {
-    "repo": "martycagas/mindustry-mod-armored-conveyor",
-    "name": "Armored Basic Conveyor mod",
-    "author": "martycagas",
-    "lastUpdated": "2021-03-06T13:32:01Z",
-    "stars": 1,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This JSON mod adds two blocks - Armored Basic Conveyor and Plated Basic Conduit to the game."
-  },
-  {
     "repo": "skydraco-8bit/mindustry-mod",
     "name": "a mod in developpement",
     "author": "Yourself",
@@ -5720,17 +5423,6 @@
     "description": "Finish the campaign....NOW"
   },
   {
-    "repo": "kerbalboy/mindustry-test-mod",
-    "name": "TestMod",
-    "author": "KerbalBoy",
-    "lastUpdated": "2021-06-13T09:18:28Z",
-    "stars": 1,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "An unstable Mindustry mod only used for testing"
-  },
-  {
     "repo": "smolkeys/uicu",
     "name": "UICU",
     "author": "SMOLKEYS",
@@ -5784,17 +5476,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "The very culmination of everyone's dumb ideas."
-  },
-  {
-    "repo": "notmeepoffaith/cooler-poly",
-    "name": "Cooler Poly",
-    "author": "notMEEPoffaith",
-    "lastUpdated": "2021-08-22T15:27:33Z",
-    "stars": 1,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "First texture pack. Makes the poly look cooler"
   },
   {
     "repo": "jhdreemurr/bruh-mod",
@@ -5874,17 +5555,6 @@
     "description": "A Mindustry Mod for V6 which introduces many new items, blocks, units, and zones. This mod is still in BETA, so there will be a few errors and bugs."
   },
   {
-    "repo": "genericsomeone/infinity-liquid",
-    "name": "Infinity Liquid",
-    "author": "Inconsequential",
-    "lastUpdated": "2021-10-24T16:12:03Z",
-    "stars": 1,
-    "minGameVersion": "126",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds the Infinity Liquid from NewHorizon back into Mindustry."
-  },
-  {
     "repo": "nemesistheory/wort-wort-wort",
     "name": "Wort Wort Wort",
     "author": "NemesisTheory",
@@ -5927,17 +5597,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Texture pack that makes mindustry into amogus for no reason"
-  },
-  {
-    "repo": "cbmshadowgd/terrariamod",
-    "name": "terarria Mod",
-    "author": "CBMShadowGD",
-    "lastUpdated": "2021-12-05T09:59:09Z",
-    "stars": 1,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "my first mod."
   },
   {
     "repo": "smolkeys/carry",
@@ -6347,17 +6006,6 @@
     "description": "Some Superized Items! With Fun Stuffs!"
   },
   {
-    "repo": "clintflames/mendless",
-    "name": "Mendless",
-    "author": "ClintFlames",
-    "lastUpdated": "2022-04-30T20:13:23Z",
-    "stars": 1,
-    "minGameVersion": "126.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Makes Mindustry more Mendless. DOESN'T WORK NOW, PLEASE DO NOT INSTALL IT."
-  },
-  {
     "repo": "icewav3/mindustry-vanilla-expanded",
     "name": "Vanilla Expanded",
     "author": "Icewave, AiviriX, Wolfette",
@@ -6565,17 +6213,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "No description provided."
-  },
-  {
-    "repo": "blockzilla101/bomberman-disable-flying",
-    "name": "Bomberman - disable flying",
-    "author": "Blockzilla",
-    "lastUpdated": "2022-06-08T11:49:24Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Disables flying in bomberman maps"
   },
   {
     "repo": "7tysevenn/scalamodtemplate",
@@ -7040,17 +6677,6 @@
     "description": "This JSON mod adds a bunch of new, armored variants of vanilla blocks for use on the frontlines."
   },
   {
-    "repo": "skydraco-8bit/mindustry-sector-alteraa",
-    "name": "Sector Alteraa",
-    "author": "SkyDraco",
-    "lastUpdated": "2021-03-27T14:31:53Z",
-    "stars": 0,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod for mindustry"
-  },
-  {
     "repo": "reborntrack970/moonmod",
     "name": "MoonMod",
     "author": "RTOmega",
@@ -7280,17 +6906,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "????"
-  },
-  {
-    "repo": "haywyre124/diamond-mod-naub",
-    "name": "Diamond-Mod-Naub",
-    "author": "haywyre124",
-    "lastUpdated": "2021-08-15T21:12:02Z",
-    "stars": 0,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod for mindustry focusing mainly on Diamonds."
   },
   {
     "repo": "ahrumjungle/snad",
@@ -7654,17 +7269,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds more bullets to mindustry mods."
-  },
-  {
-    "repo": "aeddlinges/zxc-mod",
-    "name": "ZxcMod",
-    "author": "ZxcYebok(Aeddlinges)",
-    "lastUpdated": "2022-01-27T13:50:48Z",
-    "stars": 0,
-    "minGameVersion": "122",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Наааайс демедж,найс балаааанс...Балааааааааааанс...БАЛААААААААААААНС!!!!!!\nhttps://vk.com/mindustry_cheat"
   },
   {
     "repo": "gamestuffoffical/mindustrymowermod",
