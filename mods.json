@@ -4,7 +4,7 @@
     "name": "BetaMindy",
     "author": "sk7725",
     "lastUpdated": "2022-07-21T06:06:30Z",
-    "stars": 238,
+    "stars": 239,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
@@ -92,7 +92,7 @@
     "name": "Cyber IO",
     "author": "[#42a5f5]Liplum[]",
     "lastUpdated": "2022-07-29T22:54:48Z",
-    "stars": 68,
+    "stars": 69,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
@@ -130,17 +130,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a dialog for turning images into processor schematics.\nRequires deltanedas/ui-lib."
-  },
-  {
-    "repo": "eschatologue/unlimited-armament-works",
-    "name": "Unlimited Armament Works",
-    "author": "Eschatologue",
-    "lastUpdated": "2022-07-29T06:14:20Z",
-    "stars": 56,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "    A port and sequel to Heavy Armament Industries, written in java.\n    All development will be implemented here as Heavy Armament Industries has been discontinued and removed from the Mod browser.\n\n    Unlimited Armament Works adds loads of new content, that expands upon vanilla Mindustry, adding more turrets, units, factories, and its own power system, steam Engines! and much more.\n\n    A lot of work and improvements goes into UAW, if you want to show some support or like the content, please give the mod a star on GitHub, Thank you!"
   },
   {
     "repo": "deltanedas/ui-lib",
@@ -289,7 +278,7 @@
     "repo": "3snake3/sapphirium",
     "name": "Sapphirium",
     "author": "Snake",
-    "lastUpdated": "2022-07-29T06:04:57Z",
+    "lastUpdated": "2022-07-30T03:11:17Z",
     "stars": 33,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -630,7 +619,7 @@
     "repo": "sporrus/randommindustry",
     "name": "Random Mindustry",
     "author": "gorodmi & Mythril",
-    "lastUpdated": "2022-07-29T16:48:52Z",
+    "lastUpdated": "2022-07-30T03:21:38Z",
     "stars": 18,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -671,17 +660,6 @@
     "description": "# MI2-Utilities Java\n一个原版辅助工具，有爱自取。\n\n安装方法：\n\n- 方法1 在游戏里使用“从github导入”，填BlackDeluxeCat/MI2-Utilities-Java\n- 方法2 进入本mod最新(Lateset)Release，下载文件列表中的MI2-Utilities Java.jar，在游戏里使用“导入文件”，导入所下载的jar。\n- 方法3 若已安装老版本，在游戏里点击mod详情页，重新安装。（仅限移动端）\n\n中文讨论群：875035496\n\n无力为其他语言做本地化，接受pr。\n\n## 特性列表（0.9.5）\n\n### ui\n\n#### 主界面\n- 快捷功能：一键规划重建、透视物流\n- AI辅助控制：挖矿、建造规划、维修、瞄准、拿取物品、跟随镜头。\n- 自动变速器：合乎逻辑的降速，避免低帧影响建筑工作。\n- 该窗口的选项弹窗包含MI2U的大部分选项。\n\n#### 核心信息\n- 原版核心信息+，资源变化折线图\n- 单位计数器\n- 电量条与电网分析\n- 可切换查看其他队伍\n\n#### 小地图\n- 基于原版地图渲染器\n- 可缩放至全图\n- 玩家单位显示名称\n- 点击移动视角\n- 天眼查查找全图地形/建筑\n\n#### 地图信息\n- 大部分地图规则\n- 波次预览工具，强制跳波\n- 详细的波次血量条\n\n#### 逻辑辅助\n- 整理与快捷复制变量名，可使用分隔符\n- 查找与替换变量名\n- 代码块剪切与复制\n\n#### Emoji\n- 一个emoji查阅工具\n\n### Mindow2\n本mod的可拖拽窗口。标题栏可进入选项弹窗、帮助页弹窗，具体请查阅各窗口的帮助页。\n拖拽、吸附等均可通过选项保存。\n\n### 杂项\n- 玩家光标平滑显示\n- 渲染单位血条、逻辑控制、寻路线\n- 维修、超速范围的精致渲染\n- 关闭残骸、单位、射弹、建筑渲染\n- 修改部分方块数值条\n- 更好的方块/单位/地形数值面板\n- 屏边移动视角（桌面端）\n- 添加一套地图筛选器，特色是可复合坐标变换\n- 99.5%的改动可以通过选项关闭\n- MI2U选项存储在$Mindustry/mods/MI2U_Settings/目录下"
   },
   {
-    "repo": "liplum/multicrafterlib",
-    "name": "MultiCrafter Lib",
-    "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-07-28T17:18:03Z",
-    "stars": 16,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod library provides a multiple-recipe crafter to produce items, fluids, power or even heat for Json and JavaScript mods.\nPlease check the repository below to learn more."
-  },
-  {
     "repo": "paulieg626/cheat",
     "name": "CheatMod",
     "author": "paulieg626",
@@ -691,6 +669,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Добавляет разные штуки для читов\nhttps://vk.com/mindustry_cheat"
+  },
+  {
+    "repo": "liplum/multicrafterlib",
+    "name": "MultiCrafter Lib",
+    "author": "[#42a5f5]Liplum[]",
+    "lastUpdated": "2022-07-30T02:26:02Z",
+    "stars": 16,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod library provides a multiple-recipe crafter to produce items, fluids, power or even heat for Json and JavaScript mods.\nPlease check the repository below to learn more."
   },
   {
     "repo": "drullkus/unnerf-core-units",
@@ -1232,17 +1221,6 @@
     "description": "Prismatic introduces lots of new technology capable of bending the very fabrics of reality.. \n - Java version in development"
   },
   {
-    "repo": "deltanedas/anuke-logic",
-    "name": "Anuke Logic",
-    "author": "DeltaNedas",
-    "lastUpdated": "2022-01-24T16:44:09Z",
-    "stars": 9,
-    "minGameVersion": "131",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds random logic utilities. Praise the cat."
-  },
-  {
     "repo": "yuria-shikibe/gameinfoimager",
     "name": "Game Info Imager",
     "author": "Yuria",
@@ -1301,7 +1279,7 @@
     "repo": "mindustryinside/l1337n",
     "name": "L1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-07-29T12:30:21Z",
+    "lastUpdated": "2022-07-30T01:13:44Z",
     "stars": 9,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -1527,17 +1505,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "aaaaa"
-  },
-  {
-    "repo": "mak992/future-technologies-mod",
-    "name": "Future technologies mod",
-    "author": "mak_",
-    "lastUpdated": "2021-12-26T20:00:58Z",
-    "stars": 7,
-    "minGameVersion": "131",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "New blocks, units and a lot of other! Adds pretty decent staff(Not only futuristic!)"
   },
   {
     "repo": "p101q/snowdustry",
@@ -2376,17 +2343,6 @@
     "description": "\nTurret prices were added, if you have a suggestion in altering them let me know through github as i'm less active on discord. But keep in mind a Unit will be added to help you speed up the building process.\nHellstorm added with TEMPORARY sprite.\n"
   },
   {
-    "repo": "mnemotechnician/calculus",
-    "name": "[Kotlin] Calculus",
-    "author": "Мнемотехник",
-    "lastUpdated": "2022-05-24T12:07:04Z",
-    "stars": 5,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mindustry mod that adds several utility windows.\n\nYou can create windows by pressing the buttons on the master window.\n\nThis mod is created with the help of MKUI library."
-  },
-  {
     "repo": "karlsonvive/a-bad-mindustry-mod",
     "name": "Definitely Balanced Conveyors",
     "author": "Rhoo",
@@ -2959,7 +2915,7 @@
     "description": "A mod that adds a few items and liquids, and a whole new tier of upgrades, along with arc. Made by Chickenloser and Oreo with help from Duvent.\n\nAdds 95 new blocks, 5 items, 2 liquids, and 31 units, with plans to add even more."
   },
   {
-    "repo": "ark-source/caustic-fragments",
+    "repo": "arkanicxd/caustic-fragments",
     "name": "Caustic fragments",
     "author": "Arkanic[]",
     "lastUpdated": "2022-07-13T19:46:05Z",
@@ -2970,7 +2926,7 @@
     "description": "Caustic fragments... Un mod donde podras jugar con 4 tipo de minerales.\nEstos se llaman Andal,Andragon,Extraggedon,Glomerita,\nExplora con tus propias manos un mundo donde podras manipular todo tipo de materiales a tu gusto."
   },
   {
-    "repo": "arkanicxd/caustic-fragments",
+    "repo": "ark-source/caustic-fragments",
     "name": "Caustic fragments",
     "author": "Arkanic[]",
     "lastUpdated": "2022-07-13T19:46:05Z",
@@ -3012,17 +2968,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Makes you sandbox."
-  },
-  {
-    "repo": "jhrushbe/moardustry",
-    "name": "MOARdustry",
-    "author": "Jhrushbe",
-    "lastUpdated": "2022-07-25T05:23:51Z",
-    "stars": 4,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod for Mindustry that adds MOAR to your game.\n \nLast Update: v0.10 on 6-3-2021"
   },
   {
     "repo": "vaporspace2/endrium-2",
@@ -3375,17 +3320,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "No description provided."
-  },
-  {
-    "repo": "ax-nikita/uranium-mod",
-    "name": "Uranium Global Survival Mod.",
-    "author": "AX",
-    "lastUpdated": "2021-10-26T16:27:33Z",
-    "stars": 3,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds nuclear power, cool turrets and many factories."
   },
   {
     "repo": "antlrr/seitumbra",
@@ -3828,6 +3762,17 @@
     "description": "for Aim"
   },
   {
+    "repo": "rintadev/wisp",
+    "name": "Wisp",
+    "author": "RintaDev",
+    "lastUpdated": "2022-07-29T02:55:46Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds magical gems, a new tech tree and planet, and the remnants of a lost civilization"
+  },
+  {
     "repo": "2938137849/mindustrymod",
     "name": "MyMod",
     "author": "bin",
@@ -3982,17 +3927,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "txomon/mindustryclienthostpausemod",
-    "name": "Client host pause mod",
-    "author": "Javier Domingo Cansino",
-    "lastUpdated": "2021-03-04T20:24:02Z",
-    "stars": 2,
-    "minGameVersion": "125",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod to allow the host to pause the game."
-  },
-  {
     "repo": "leyn-pl/no-displays",
     "name": "No Logic Displays",
     "author": "LEYN",
@@ -4002,17 +3936,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Replaces images on displays with a nice gradient"
-  },
-  {
-    "repo": "reborntrack970/moreservers",
-    "name": "More Servers!!!",
-    "author": "RTOmega",
-    "lastUpdated": "2021-03-08T09:28:22Z",
-    "stars": 2,
-    "minGameVersion": "125",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Do you have a server you want to add to the community list but you cant? Or simply you just want to test your servers? Maybe you are bored of the public servers and you want more servers? This is the mod for YOU! This is a simple Mindustry mod that adds more servers to the global server list. All you gotta do is to install the mod. You can also pr to this mod to add more servers!"
   },
   {
     "repo": "joshwelyt/hardmode-remade",
@@ -5126,7 +5049,7 @@
     "description": "Adds new features."
   },
   {
-    "repo": "cluet0304/more-processing",
+    "repo": "cluet0304/hmm",
     "name": "More Processing",
     "author": " CLUET",
     "lastUpdated": "2022-06-28T04:55:10Z",
@@ -5137,7 +5060,7 @@
     "description": "A mod that adds more processing of materials in game.\nCurrently WIP, Balancing changes required,so new ideas of balancing\nand Content is appreciated."
   },
   {
-    "repo": "cluet0304/hmm",
+    "repo": "cluet0304/more-processing",
     "name": "More Processing",
     "author": " CLUET",
     "lastUpdated": "2022-06-28T04:55:10Z",
@@ -5335,17 +5258,6 @@
     "description": "Can this be considered a 'vanilla' mod?"
   },
   {
-    "repo": "rintadev/wisp",
-    "name": "Wisp",
-    "author": "RintaDev",
-    "lastUpdated": "2022-07-29T02:55:46Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds magical gems, a new tech tree and planet, and the remnants of a lost civilization"
-  },
-  {
     "repo": "cluet-op/green-technology",
     "name": "Green-Technologies",
     "author": " CLUET",
@@ -5377,17 +5289,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A simple mod Mod mo.d Demonstrates how to make new ores and machines and Mod."
-  },
-  {
-    "repo": "a-soulspark/cakedustry",
-    "name": "Cakedustry",
-    "author": "a-soulspark",
-    "lastUpdated": "2020-12-01T15:23:57Z",
-    "stars": 1,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Celebrate v6's release with Cake!"
   },
   {
     "repo": "svan9/svgmods",
@@ -6435,17 +6336,6 @@
     "description": "A Mindustry toolkit."
   },
   {
-    "repo": "explerhd/unnamedmods",
-    "name": "New Tech",
-    "author": "You",
-    "lastUpdated": "2022-05-18T22:32:28Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindusry Java Mods thai I working on"
-  },
-  {
     "repo": "swirek3331/metallurgic-pack-v6",
     "name": "metallurgic-pack-v6",
     "author": "swirek3331",
@@ -6609,17 +6499,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Use the power of SCIENCE to turn LIQUIDS into SOLIDS and then back to LIQUIDS. Or shoot the solids at your enemies, I don't know, i'm not your dad. Adds several blocks capable of turning liquids into items for ease of transportation and storage, and then back to liquids. Also includes a way to do the same to power. All of the items can be used in two special turrets."
-  },
-  {
-    "repo": "skycraft78/oreplusmod",
-    "name": "Ore Plus Mod",
-    "author": "ItsTheSky#1234",
-    "lastUpdated": "2022-07-06T19:54:42Z",
-    "stars": 1,
-    "minGameVersion": "120",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Simple mod that add some new basics ores and machine to work with in Mindustry."
   },
   {
     "repo": "mindustry-space/pulverizer",
@@ -7843,17 +7722,6 @@
     "description": "Pixil is better lol /s\n\nA mod to test my modding/js (Mostly non-js,ofc) skills"
   },
   {
-    "repo": "mbtiamo712dev/parachutists-mod",
-    "name": "parachutists",
-    "author": "mb",
-    "lastUpdated": "2022-06-16T08:07:49Z",
-    "stars": 0,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "There is no suitable profile for the time being."
-  },
-  {
     "repo": "sheep-hugger/colonization-industry",
     "name": "Colonization & industry",
     "author": "Radiance of Dove",
@@ -7931,17 +7799,6 @@
     "description": "A Texture Pack For Better Vanilla Gameplay."
   },
   {
-    "repo": "zeutd/degradation",
-    "name": "degradation",
-    "author": "zeutd",
-    "lastUpdated": "2022-07-24T13:33:05Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod."
-  },
-  {
     "repo": "smolkeys/experiments",
     "name": "Kotlin Mod Template",
     "author": "You",
@@ -7975,10 +7832,21 @@
     "description": "Yet another attempt at making a satire mod. Most content needs payload sources to access."
   },
   {
+    "repo": "zeutd/degradation",
+    "name": "degradation",
+    "author": "zeutd",
+    "lastUpdated": "2022-07-30T02:23:18Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod."
+  },
+  {
     "repo": "mega2335/megadustry",
     "name": "megadustry",
     "author": "mega",
-    "lastUpdated": "2022-07-30T00:18:46Z",
+    "lastUpdated": "2022-07-30T03:38:21Z",
     "stars": 0,
     "minGameVersion": "136.1",
     "hasScripts": true,
