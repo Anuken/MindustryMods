@@ -80,7 +80,7 @@
     "repo": "liplum/cyberio",
     "name": "Cyber IO",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-08-02T06:05:32Z",
+    "lastUpdated": "2022-08-02T06:30:19Z",
     "stars": 71,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1452,6 +1452,17 @@
     "description": "V7 version of THC Industry. Created of pure boredom. \nDO NOT USE THE VERSION THAT IS DIRECTLY CLONED FROM THE REP.\nIT MAYBE TOTALLY BUUGY AND USELESS."
   },
   {
+    "repo": "thirstyboi/terra",
+    "name": "Terra",
+    "author": "ThirstyBoi",
+    "lastUpdated": "2022-07-01T15:39:41Z",
+    "stars": 8,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Terradustry reworked for v7 introducing content from both Terraria and one of Terraria's most popular mods, Calamity. (Units currently have placeholder AI)"
+  },
+  {
     "repo": "kayyayeare/dusted-lands",
     "name": "Dusted Lands",
     "author": "KayAyeAre",
@@ -1637,17 +1648,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a dialog for turning images into canvas schematics.\nRequires deltanedas/ui-lib."
-  },
-  {
-    "repo": "thirstyboi/terra",
-    "name": "Terra",
-    "author": "ThirstyBoi",
-    "lastUpdated": "2022-07-01T15:39:41Z",
-    "stars": 7,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Terradustry reworked for v7 introducing content from both Terraria and one of Terraria's most popular mods, Calamity. (Units currently have placeholder AI)"
   },
   {
     "repo": "schedarian/unitturrets",
@@ -3850,17 +3850,6 @@
     "description": "Adds magical gems, a new tech tree and planet, and the remnants of a lost civilization"
   },
   {
-    "repo": "sh1penfire/welcome-to-the-frostscape",
-    "name": "Welcome to the Frostscape",
-    "author": "Sh1penfire",
-    "lastUpdated": "2022-07-31T10:15:58Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "An experimental modification created to test v7's new API. Will *not* be worked on consistently due to life."
-  },
-  {
     "repo": "ivandem2009/kikimici",
     "name": "Nuclear Rampage",
     "author": "IvanDem#1021",
@@ -3881,6 +3870,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "My very first mod! credit to: MaxSmoke"
+  },
+  {
+    "repo": "sh1penfire/welcome-to-the-frostscape",
+    "name": "Welcome to the Frostscape",
+    "author": "Sh1penfire",
+    "lastUpdated": "2022-08-02T06:22:47Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "An experimental modification created to test v7's new API. Will *not* be worked on consistently due to life."
   },
   {
     "repo": "2938137849/mindustrymod",
@@ -5269,7 +5269,7 @@
     "description": "You\nAre\nWhat\nYou\nMake"
   },
   {
-    "repo": "purplesushi22/oh-no-lang",
+    "repo": "purplesushi22/oh-no-random-pack",
     "name": "Oh no & Negative Tails",
     "author": "PurpleSushi22",
     "lastUpdated": "2022-07-26T07:41:36Z",
@@ -5280,7 +5280,7 @@
     "description": "uhh basically oh no language edition\nyeah that's it\n\ncredit to the folks at SMOLKEYS/bundles for the identifiers on how to edit stuff like basically everything in the first build"
   },
   {
-    "repo": "purplesushi22/oh-no-random-pack",
+    "repo": "purplesushi22/oh-no-lang",
     "name": "Oh no & Negative Tails",
     "author": "PurpleSushi22",
     "lastUpdated": "2022-07-26T07:41:36Z",
@@ -5379,10 +5379,21 @@
     "description": "A mod that adds some Future Green tech into the Game.\nCurrently WIP, Balancing changes required,so new ideas of balancing\nand Content is appreciated."
   },
   {
+    "repo": "deltanedas/routorio",
+    "name": "routorio",
+    "author": "deltanedas",
+    "lastUpdated": "2022-08-01T22:33:55Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Reality-shattering router expansion mod.\nOptionally requires deltanedas/rtfm for manual pages.\n10/10 IGN\n  - Router\nUkranian translation by Prostaчок_ua\nAlso try out Slava1035/reVision!"
+  },
+  {
     "repo": "driftheque/thenewwave",
     "name": "The New Wave",
     "author": "Driftheque",
-    "lastUpdated": "2022-08-01T10:59:38Z",
+    "lastUpdated": "2022-08-02T07:11:35Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -5393,7 +5404,7 @@
     "repo": "cristian-blackture/acm",
     "name": "ACM",
     "author": "Cristian BlackTure And Dom",
-    "lastUpdated": "2022-08-01T20:54:13Z",
+    "lastUpdated": "2022-08-02T07:42:14Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -5404,23 +5415,12 @@
     "repo": "cristian-blackture/cridoms-chaotic-mod",
     "name": "ACM",
     "author": "Cristian BlackTure And Dom",
-    "lastUpdated": "2022-08-01T20:54:13Z",
+    "lastUpdated": "2022-08-02T07:42:14Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
     "description": "OOOOOOOOOOOOOOOOF was hard.\nImagine Amog Us. "
-  },
-  {
-    "repo": "deltanedas/routorio",
-    "name": "routorio",
-    "author": "deltanedas",
-    "lastUpdated": "2022-08-01T22:33:55Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Reality-shattering router expansion mod.\nOptionally requires deltanedas/rtfm for manual pages.\n10/10 IGN\n  - Router\nUkranian translation by Prostaчок_ua\nAlso try out Slava1035/reVision!"
   },
   {
     "repo": "sirmachinegun/ebm",
@@ -8019,17 +8019,6 @@
     "description": "当我需要一个新的东西帮助我轻松游玩Mindustry的时候再添加吧,至于那些可能严重破坏平衡性的添加我会慎重，导致其状态和属性波动巨大"
   },
   {
-    "repo": "mega2335/megadustry",
-    "name": "megadustry",
-    "author": "mega",
-    "lastUpdated": "2022-08-01T20:36:41Z",
-    "stars": 0,
-    "minGameVersion": "136.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Idk"
-  },
-  {
     "repo": "ark-source/project-subnautic-",
     "name": "Project Subnautic",
     "author": "Arkanic, Vector and FordRazer",
@@ -8039,5 +8028,16 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Tantros extended mod"
+  },
+  {
+    "repo": "mega2335/megadustry",
+    "name": "megadustry",
+    "author": "mega",
+    "lastUpdated": "2022-08-02T06:19:16Z",
+    "stars": 0,
+    "minGameVersion": "136.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Idk"
   }
 ]
