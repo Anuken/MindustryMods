@@ -231,6 +231,17 @@
     "description": "Various blocks, some units, and the block scan pages, etc.... there's a variety of content! \\n download and star Sharustry, the second mod please!"
   },
   {
+    "repo": "aerongreva/aeromindustry",
+    "name": "AeroMindustry",
+    "author": "AeronGreva",
+    "lastUpdated": "2022-06-26T19:44:10Z",
+    "stars": 43,
+    "minGameVersion": "121",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A small mod that adds a couple of new materials, machinery, turrets, and even a new map!\nDoes not modify Vanilla content, for the sake of compatibility with other mods."
+  },
+  {
     "repo": "3snake3/sapphirium",
     "name": "Sapphirium",
     "author": "Snake",
@@ -1265,17 +1276,6 @@
     "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
   },
   {
-    "repo": "thirstyboi/terra",
-    "name": "Terra",
-    "author": "ThirstyBoi",
-    "lastUpdated": "2022-07-01T15:39:41Z",
-    "stars": 9,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Terradustry reworked for v7 introducing content from both Terraria and one of Terraria's most popular mods, Calamity. (Units currently have placeholder AI)"
-  },
-  {
     "repo": "mnemotechnician/new-controls-public",
     "name": "New controls",
     "author": "Мнемотехник",
@@ -1846,6 +1846,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Powered by hjson. Access is completely open to everyone, use the modification data as you want. \n\nРаботает на hjson. Доступ полностью открыт для всех, используйте данные мода так, как хотите."
+  },
+  {
+    "repo": "deltanedas/mindustry-2",
+    "name": "Mindustry 2",
+    "author": "deltanedas",
+    "lastUpdated": "2022-02-28T13:21:01Z",
+    "stars": 6,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The sequel everyone has been waiting for.\nIncompatible with most mods."
   },
   {
     "repo": "l0615t1c5-216ac-9437/maxratecalculatorv6",
@@ -3069,17 +3080,6 @@
     "description": "Mod with some new additions to the game, such as units, turrets, items, conveyors, and much more! Discord server: https://discord.gg/hGqEVwsg"
   },
   {
-    "repo": "nilederg/galactustry",
-    "name": "Galactustry",
-    "author": "Nilederg",
-    "lastUpdated": "2022-08-07T04:23:41Z",
-    "stars": 4,
-    "minGameVersion": "136.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Revived after 17 months, now in Java! Nowhere near done."
-  },
-  {
     "repo": "sh1penfire/welcome-to-the-frostscape",
     "name": "Welcome to the Frostscape",
     "author": "Sh1penfire",
@@ -3089,6 +3089,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "An experimental modification created to test v7's new API. Will *not* be worked on consistently due to life."
+  },
+  {
+    "repo": "nilederg/galactustry",
+    "name": "Galactustry",
+    "author": "Nilederg",
+    "lastUpdated": "2022-08-08T05:48:55Z",
+    "stars": 4,
+    "minGameVersion": "136.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Revived after 17 months, now in Java! Nowhere near done."
   },
   {
     "repo": "slotterleet/crazy-militaries",
@@ -4499,6 +4510,17 @@
     "description": "The mod displays more information ingame, such as unit/building, wave, core, tile, item/unit total info etc"
   },
   {
+    "repo": "theefficientinefficient/progressivetech",
+    "name": "Progressive Tech",
+    "author": "TheEfficientInefficient",
+    "lastUpdated": "2021-10-10T13:44:12Z",
+    "stars": 2,
+    "minGameVersion": "131",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "An attempt at modmaking. Maintained by single person\nThis mod serves as my learning ground for hjson. Expect it to be somehow playable\n\nCoding by TheEfficientInefficient\nSprites by THEDR1FTER\n"
+  },
+  {
     "repo": "stacktrace-error/lithium-texture-pack",
     "name": "Lithium Pack",
     "author": "null/stacktrace-error",
@@ -4862,6 +4884,17 @@
     "description": "pointless singleplayer mod, does not work in multiplayer"
   },
   {
+    "repo": "duvent-mindustry/mindustry-gg-mod",
+    "name": "Duvents Turrets",
+    "author": "Duvent",
+    "lastUpdated": "2022-04-29T11:14:06Z",
+    "stars": 2,
+    "minGameVersion": "124",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "a small mod"
+  },
+  {
     "repo": "goobrr/debugproc",
     "name": "Debug Processor",
     "author": "You",
@@ -5214,7 +5247,7 @@
     "description": "You\nAre\nWhat\nYou\nMake"
   },
   {
-    "repo": "purplesushi22/oh-no-random-pack",
+    "repo": "purplesushi22/oh-no-lang",
     "name": "Oh no & Negative Tails",
     "author": "PurpleSushi22",
     "lastUpdated": "2022-07-26T07:41:36Z",
@@ -5225,7 +5258,7 @@
     "description": "uhh basically oh no language edition\nyeah that's it\n\ncredit to the folks at SMOLKEYS/bundles for the identifiers on how to edit stuff like basically everything in the first build"
   },
   {
-    "repo": "purplesushi22/oh-no-lang",
+    "repo": "purplesushi22/oh-no-random-pack",
     "name": "Oh no & Negative Tails",
     "author": "PurpleSushi22",
     "lastUpdated": "2022-07-26T07:41:36Z",
@@ -5872,6 +5905,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds the Infinity Liquid from NewHorizon back into Mindustry."
+  },
+  {
+    "repo": "nemesistheory/wort-wort-wort",
+    "name": "Wort Wort Wort",
+    "author": "NemesisTheory",
+    "lastUpdated": "2021-10-30T08:52:45Z",
+    "stars": 1,
+    "minGameVersion": "133",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "wort wort wort."
   },
   {
     "repo": "serg230/overdustry",
@@ -7346,6 +7390,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Add a few content."
+  },
+  {
+    "repo": "nemesistheory/reach-soundtracks",
+    "name": "Reach Soundtracks",
+    "author": "NemesisTheory",
+    "lastUpdated": "2021-11-01T05:31:48Z",
+    "stars": 0,
+    "minGameVersion": "133",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod plays Reach soundtracks, let's just hope you don't go MIA when playing campaign with this mod on."
   },
   {
     "repo": "cyberman-42/cybermod",
