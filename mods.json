@@ -322,7 +322,7 @@
     "repo": "fresh791/fading-revelations",
     "name": "Fading Revelations",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\n\nContributors\n- Sprites : Fresh791 \n- Lore: iori\n\nAnd many more people! \nCheck the Discord \nfor more information!\n\n",
-    "lastUpdated": "2022-08-11T10:42:33Z",
+    "lastUpdated": "2022-08-11T13:12:10Z",
     "stars": 32,
     "minGameVersion": "126.2",
     "hasScripts": true,
@@ -957,7 +957,7 @@
     "description": "My first java Mindustry mod"
   },
   {
-    "repo": "rlccj/minertools",
+    "repo": "riccj/minertools",
     "name": "MinerTools",
     "author": "miner",
     "lastUpdated": "2022-08-10T14:38:23Z",
@@ -968,7 +968,7 @@
     "description": "\n  # 功能\n\n  ---\n\n  ## UI\n  1. MinerToolsTable:\n     * 队伍信息:\n       * 队伍玩家数量(Tooltip显示基础队伍规则)\n       * 队伍单位显示\n       * 队伍全局电量(Tooltip显示详细电量情况)\n     * 一些有用的按钮:\n       * 暂停建造(仅手机)\n       * 自动升级传送带\n       * 重建方块\n       * 快捷投降\n     * 换队/跳波器\n     * 玩家列表:\n       * 所有玩家的名字\n       * 可锁定玩家视角(锁定的玩家控制炮塔时,会自动调整视角)\n       * 可切换到玩家视角\n       * 可一键投票踢出玩家\n     * 快捷蓝图\n     * 玩家AI:\n       * 挖矿AI\n       * 跟随AI\n\n  2. 聊天记录:\n     * 查询历史聊天记录\n     * 可以复制聊天记录(电脑:Ctrl+单击)\n\n  3. 更好的核心资源显示:\n     * 单位数量显示\n     * 物品每秒变化量显示\n     * 玩家预建消耗显示\n     * 可自定义的ui列数\n\n  4. 更好的信息面板:\n     * 单位,建筑,地板信息一起显示!\n     * 单位:\n       * 武器冷却状态\n     * 建筑:\n       * 物品详情\n     * 地板:\n       * 显示更详尽\n\n  ---\n\n  ## 画面\n  * 建筑:\n    * 选中:\n      * 异队选中信息\n      * 桥带连接详情\n    * 建筑血条\n    * 异队方块状态\n    * 构造方块耗材信息\n    * 附近炮塔警戒\n    * 物品炮塔子弹类型显示\n    * 单位工厂进度条\n\n  * 单位:\n    * 单位指示器(核心危险警告)\n    * 附近单位警戒\n\n    * 单位信息条:\n      * 血条\n      * 立场回复条\n      * 单位状态条\n      * 荷载条\n\n  * 玩家:\n    * 荷载拾放提示\n    * 玩家范围显示\n\n  ---\n\n  ## 其他小功能\n  * 进入游戏后,显示被ban的单位或方块\n  * UIScale的step修改\n  * 物品桥带可拿取物品\n  * 更多方块信息条:\n    * 血条: 血量显示更详细\n    * 进度条: 进度显示更详细\n\n  ---\n\n  # 其他\n  Mod的90%功均可在设置中打开或关闭!"
   },
   {
-    "repo": "riccj/minertools",
+    "repo": "rlccj/minertools",
     "name": "MinerTools",
     "author": "miner",
     "lastUpdated": "2022-08-10T14:38:23Z",
@@ -1287,17 +1287,6 @@
     "description": "This mod is multiplayer-compatible!\n\nSo, basically... This mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully ai.\n\nManual mode consists of two thumbsticks and an action panel.\nAi mode includes three actions (attack, mine, patrol) + auto action selection.\n\nCheck readme.md for detailed info."
   },
   {
-    "repo": "mindustryinside/l1337n",
-    "name": "L1337n",
-    "author": "Mindustry Inside",
-    "lastUpdated": "2022-08-11T01:11:36Z",
-    "stars": 9,
-    "minGameVersion": "115",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Leet speak localisator."
-  },
-  {
     "repo": "emanuelg-gaming/erekir-expansion",
     "name": "Erekir Expansion",
     "author": "Emanuel G",
@@ -1307,6 +1296,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod aimed to add content to the newly-added planet."
+  },
+  {
+    "repo": "mindustryinside/l1337n",
+    "name": "L1337n",
+    "author": "Mindustry Inside",
+    "lastUpdated": "2022-08-11T12:30:35Z",
+    "stars": 9,
+    "minGameVersion": "115",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Leet speak localisator."
   },
   {
     "repo": "deltanedas/override-lib",
@@ -1859,7 +1859,7 @@
     "description": "Collection of joke blocks"
   },
   {
-    "repo": "arkanicxd/solarys",
+    "repo": "ark-source/solarys",
     "name": "Project Solarys",
     "author": "Arkanic",
     "lastUpdated": "2022-04-08T04:10:34Z",
@@ -1870,7 +1870,7 @@
     "description": "project Solarys\n<unstable version> 1.0 alpha\n."
   },
   {
-    "repo": "ark-source/solarys",
+    "repo": "arkanicxd/solarys",
     "name": "Project Solarys",
     "author": "Arkanic",
     "lastUpdated": "2022-04-08T04:10:34Z",
@@ -2005,7 +2005,7 @@
     "repo": "driftheque/thenewwave",
     "name": "The New Wave",
     "author": "Driftheque",
-    "lastUpdated": "2022-08-11T12:10:44Z",
+    "lastUpdated": "2022-08-11T13:26:25Z",
     "stars": 6,
     "minGameVersion": "136.1",
     "hasScripts": false,
@@ -2431,7 +2431,7 @@
     "description": "Selling drinks in Mindustry! CHEERS!\nProgrammer: [#42a5f5]Liplum[]\nPainter: TheTenthBot#9749 on Discord"
   },
   {
-    "repo": "cristian-blackture/acm",
+    "repo": "cristian-blackture/cridoms-chaotic-mod",
     "name": "ACM",
     "author": "Cristian BlackTure And Dom",
     "lastUpdated": "2022-08-09T09:50:08Z",
@@ -2442,7 +2442,7 @@
     "description": "Added A LOT Of Stuff.\nImagine Amog Us. "
   },
   {
-    "repo": "cristian-blackture/cridoms-chaotic-mod",
+    "repo": "cristian-blackture/acm",
     "name": "ACM",
     "author": "Cristian BlackTure And Dom",
     "lastUpdated": "2022-08-09T09:50:08Z",
@@ -2959,7 +2959,7 @@
     "description": "A mod that adds a few items and liquids, and a whole new tier of upgrades, along with arc. Made by Chickenloser and Oreo with help from Duvent.\n\nAdds 95 new blocks, 5 items, 2 liquids, and 31 units, with plans to add even more."
   },
   {
-    "repo": "ark-source/caustic-fragments",
+    "repo": "arkanicxd/caustic-fragments",
     "name": "Caustic fragments",
     "author": "Arkanic[]",
     "lastUpdated": "2022-07-13T19:46:05Z",
@@ -2970,7 +2970,7 @@
     "description": "Caustic fragments... Un mod donde podras jugar con 4 tipo de minerales.\nEstos se llaman Andal,Andragon,Extraggedon,Glomerita,\nExplora con tus propias manos un mundo donde podras manipular todo tipo de materiales a tu gusto."
   },
   {
-    "repo": "arkanicxd/caustic-fragments",
+    "repo": "ark-source/caustic-fragments",
     "name": "Caustic fragments",
     "author": "Arkanic[]",
     "lastUpdated": "2022-07-13T19:46:05Z",
@@ -5170,7 +5170,7 @@
     "description": "You\nAre\nWhat\nYou\nMake"
   },
   {
-    "repo": "purplesushi22/oh-no-random-pack",
+    "repo": "purplesushi22/oh-no-lang",
     "name": "Oh no & Negative Tails",
     "author": "PurpleSushi22",
     "lastUpdated": "2022-07-26T07:41:36Z",
@@ -5181,7 +5181,7 @@
     "description": "uhh basically oh no language edition\nyeah that's it\n\ncredit to the folks at SMOLKEYS/bundles for the identifiers on how to edit stuff like basically everything in the first build"
   },
   {
-    "repo": "purplesushi22/oh-no-lang",
+    "repo": "purplesushi22/oh-no-random-pack",
     "name": "Oh no & Negative Tails",
     "author": "PurpleSushi22",
     "lastUpdated": "2022-07-26T07:41:36Z",
@@ -5291,17 +5291,6 @@
     "description": " (Version is Alpha Missing Content) Recreating Slotterleet Hard Mode Mod compatible for V7, also a HUGE Difficulty Spike Version 1.3 BIGGEST UPDATE: Huge Unit Resprite, Eboy Bosses, Ironman Versions of Campaign Maps, Secret Boss, and a New Univlogs boss"
   },
   {
-    "repo": "valigaming15/pyra-mod",
-    "name": "pyra mod",
-    "author": "vali#5378",
-    "lastUpdated": "2022-08-08T18:06:11Z",
-    "stars": 2,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds pyratite theamed blocks please star this and dm me on discord for suggestions"
-  },
-  {
     "repo": "mega2335/megadustry",
     "name": "megadustry",
     "author": "mega",
@@ -5333,6 +5322,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Turns most text to morse code.\nSet the language to English for the Morse Code to apply."
+  },
+  {
+    "repo": "valigaming15/pyra-mod",
+    "name": "pyra mod",
+    "author": "vali#5378",
+    "lastUpdated": "2022-08-11T13:55:33Z",
+    "stars": 2,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds pyratite theamed blocks please star this and dm me on discord for suggestions"
   },
   {
     "repo": "sirmachinegun/ebm",
@@ -7989,7 +7989,7 @@
     "repo": "xxxuan42/coreunloader",
     "name": "核心装卸器[v472]",
     "author": "XXXUAN   Bug测试员：皇甫2y",
-    "lastUpdated": "2022-08-11T11:50:14Z",
+    "lastUpdated": "2022-08-11T13:16:55Z",
     "stars": 0,
     "minGameVersion": "136",
     "hasScripts": false,
