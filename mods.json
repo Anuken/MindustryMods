@@ -69,7 +69,7 @@
     "repo": "liplum/cyberio",
     "name": "Cyber IO",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-08-22T11:47:44Z",
+    "lastUpdated": "2022-08-22T17:48:17Z",
     "stars": 81,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -113,7 +113,7 @@
     "repo": "what42pizza/mindustry-production-mod",
     "name": "Mindustry-Production-Mod",
     "author": "What42Pizza",
-    "lastUpdated": "2022-08-21T23:08:33Z",
+    "lastUpdated": "2022-08-22T17:07:49Z",
     "stars": 67,
     "minGameVersion": "126.3",
     "hasScripts": false,
@@ -136,7 +136,7 @@
     "name": "PicToLogic",
     "author": "deltanedas, Router and another guy",
     "lastUpdated": "2022-05-12T22:16:37Z",
-    "stars": 61,
+    "stars": 62,
     "minGameVersion": "114",
     "hasScripts": true,
     "hasJava": false,
@@ -625,17 +625,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "# MI2-Utilities Java\n一个原版辅助工具，有爱自取。\n\n安装方法：\n\n- 方法1 在游戏里使用“从github导入”，填BlackDeluxeCat/MI2-Utilities-Java\n- 方法2 进入本mod最新(Lateset)Release，下载文件列表中的MI2-Utilities Java.jar，在游戏里使用“导入文件”，导入所下载的jar。\n- 方法3 若已安装老版本，在游戏里点击mod详情页，重新安装。（仅限移动端）\n\n中文讨论群：875035496\n\n无力为其他语言做本地化，接受pr。\n\n## 特性列表（0.9.5）\n\n### ui\n\n#### 主界面\n- 快捷功能：一键规划重建、透视物流\n- AI辅助控制：挖矿、建造规划、维修、瞄准、拿取物品、跟随镜头。\n- 自动变速器：合乎逻辑的降速，避免低帧影响建筑工作。\n- 该窗口的选项弹窗包含MI2U的大部分选项。\n\n#### 核心信息\n- 原版核心信息+，资源变化折线图\n- 单位计数器\n- 电量条与电网分析\n- 可切换查看其他队伍\n\n#### 小地图\n- 基于原版地图渲染器\n- 可缩放至全图\n- 玩家单位显示名称\n- 点击移动视角\n- 天眼查查找全图地形/建筑\n\n#### 地图信息\n- 大部分地图规则\n- 波次预览工具，强制跳波\n- 详细的波次血量条\n\n#### 逻辑辅助\n- 整理与快捷复制变量名，可使用分隔符\n- 查找与替换变量名\n- 代码块剪切与复制\n\n#### Emoji\n- 一个emoji查阅工具\n\n### Mindow2\n本mod的可拖拽窗口。标题栏可进入选项弹窗、帮助页弹窗，具体请查阅各窗口的帮助页。\n拖拽、吸附等均可通过选项保存。\n\n### 杂项\n- 玩家光标平滑显示\n- 渲染单位血条、逻辑控制、寻路线\n- 维修、超速范围的精致渲染\n- 关闭残骸、单位、射弹、建筑渲染\n- 修改部分方块数值条\n- 更好的方块/单位/地形数值面板\n- 屏边移动视角（桌面端）\n- 添加一套地图筛选器，特色是可复合坐标变换\n- 99.5%的改动可以通过选项关闭\n- MI2U选项存储在$Mindustry/mods/MI2U_Settings/目录下"
-  },
-  {
-    "repo": "liplum/multicrafterlib",
-    "name": "MultiCrafter Lib",
-    "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-08-22T08:04:24Z",
-    "stars": 19,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod library provides a multiple-recipe crafter to produce items, fluids, power or even heat for Json and JavaScript mods.\nPlease check the repository below to learn more.\nWork on both v136 and v137."
   },
   {
     "repo": "ballgamer56/vanillaextended",
@@ -1538,17 +1527,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "aaaaa"
-  },
-  {
-    "repo": "mak992/future-technologies-mod",
-    "name": "Future technologies mod",
-    "author": "mak_",
-    "lastUpdated": "2021-12-26T20:00:58Z",
-    "stars": 7,
-    "minGameVersion": "131",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "New blocks, units and a lot of other! Adds pretty decent staff(Not only futuristic!)"
   },
   {
     "repo": "p101q/snowdustry",
@@ -2574,17 +2552,6 @@
     "description": "  Adds the recompensator, an electrically-powered liquid capsule launcher!"
   },
   {
-    "repo": "1qwaka/adronium-mod",
-    "name": "Adronium mod",
-    "author": "Дикая пчела",
-    "lastUpdated": "2021-03-28T21:20:34Z",
-    "stars": 4,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Mod that made in a week.\nМод, сделанный за неделю"
-  },
-  {
     "repo": "janssendel/roomber-n-wack",
     "name": "[ff000]Roomber-N -Wack",
     "author": "Roomber",
@@ -2957,17 +2924,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Makes you sandbox."
-  },
-  {
-    "repo": "jhrushbe/moardustry",
-    "name": "MOARdustry",
-    "author": "Jhrushbe",
-    "lastUpdated": "2022-07-25T05:23:51Z",
-    "stars": 4,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod for Mindustry that adds MOAR to your game.\n \nLast Update: v0.10 on 6-3-2021"
   },
   {
     "repo": "edwardbrok/jdst-mod",
@@ -3927,17 +3883,6 @@
     "description": "Ost for my mod Project Oblivion. \n\nCredits to 1237 (12three7#5723 on discord, @12three7 on github) and DJ Silin (DJ Silin#6351 on discord, @King-Silicon on github) for the awesome OSTs."
   },
   {
-    "repo": "rayanz22/op-mod",
-    "name": "OP Things",
-    "author": "ABÊ#8931",
-    "lastUpdated": "2022-08-21T20:45:50Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "OP Things which game more easy, but isn't a hack."
-  },
-  {
     "repo": "mythril382/thisthing",
     "name": "This Thing",
     "author": "Mythril",
@@ -3969,6 +3914,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds lot of things that are not existant for now."
+  },
+  {
+    "repo": "rayanz22/op-mod",
+    "name": "OP Things",
+    "author": "ABÊ#8931",
+    "lastUpdated": "2022-08-22T17:35:02Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "OP Things which game more easy, but isn't a hack."
   },
   {
     "repo": "2938137849/mindustrymod",
@@ -4279,17 +4235,6 @@
     "description": "废话：\r\n做了个中文语言文件，删了点东西，做了点平衡性，改了点名，优化了点代码\r\n\r\n没了\r\n\r\n版本：\r\n重制版将不会支持6.0以下的版本，老版本请去玩非重制版；\r\nmod版本号将随缘，你可能会看见奇怪的版本号；\r\nmod偏向电脑端玩家，手机端出问题请自行解决；\r\n**更 新 随 缘**\r\n\r\n更新：\r\n自己找，某些情况记得拆包\r\n\r\n模组常驻下载地址和开源地址：\r\nhttps://github.com/HuanSen233/-INDUSTRIAL-INNOVATION-mods-source-code-\r\n\r\n没错源码和模组都放一个里面了(笑)\r\n\r\n官方帖子：\r\nhttps://tieba.baidu.com/p/7335490223\r\n\r\n除了更新我很少会去看帖子"
   },
   {
-    "repo": "bluetechnocat/infinitum-mod",
-    "name": "Infinitum Mod",
-    "author": "BlueTechno",
-    "lastUpdated": "2021-05-13T21:56:13Z",
-    "stars": 2,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that creates the most powerful material ever made"
-  },
-  {
     "repo": "qmelz/computer-begone",
     "name": "Computer Begone",
     "author": "QmelZ",
@@ -4398,17 +4343,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Because Minecraft doesn't need to be the only one with this beautys :)"
-  },
-  {
-    "repo": "freezemandu/infinite-processor",
-    "name": "Infinite Processor",
-    "author": "Mandu",
-    "lastUpdated": "2021-07-14T08:20:20Z",
-    "stars": 2,
-    "minGameVersion": "126",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "search 'Logic Bench' in schematics!"
   },
   {
     "repo": "austin5003/mohole",
@@ -5049,17 +4983,6 @@
     "description": "A mod made to alter vanilla progression"
   },
   {
-    "repo": "mythril382/u-r-a-i-c",
-    "name": "U. R. A. I. C.",
-    "author": "Mythril",
-    "lastUpdated": "2022-05-27T14:09:30Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Units\nRequire\nAmmo\nIn\nCampaign\n\nDoes not work well with Erekir units as they are not yet done and use copper for ammo."
-  },
-  {
     "repo": "mythril382/its-all-alpha-chan",
     "name": "its all alpha-chan",
     "author": "Mythril",
@@ -5113,17 +5036,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds more debugging features and improvements.\n\nFeatures:\n    - Enables the in-game console and sets log level to debug.\n    - Fully customizable log format w/ timestamps.\n    - Reenables colored terminal for Windows and Android.\n    - Chat message translation.\n    - Various other QoL improvements.\n\nSee README.md for more information."
-  },
-  {
-    "repo": "mythril382/ammoswap",
-    "name": "Ammo Swap",
-    "author": "Mythril",
-    "lastUpdated": "2022-06-19T09:00:24Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Swaps ammo of turrets.\nThis is cursed. Don't play this in campaign.\n\nCreate a new save for every game when using this mod. Loading a save has a 90% chance to crash your game."
   },
   {
     "repo": "youngterror3/mindustryjavamod",
@@ -5234,17 +5146,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Reality-shattering router expansion mod.\nOptionally requires deltanedas/rtfm for manual pages.\n10/10 IGN\n  - Router\nUkranian translation by Prostaчок_ua\nAlso try out Slava1035/reVision!"
-  },
-  {
-    "repo": "ark-source/project-subnautic-",
-    "name": "Project Subnautic",
-    "author": "Arkanic, Vector and FordRazer",
-    "lastUpdated": "2022-08-05T00:02:13Z",
-    "stars": 2,
-    "minGameVersion": "136.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Tantros extended mod"
   },
   {
     "repo": "tippierpark8961/green-void",
@@ -6358,17 +6259,6 @@
     "description": "adds a Jukebox"
   },
   {
-    "repo": "trrestghgytcftgbcxszd/cheatdustry-135",
-    "name": "Fundustry - V7 Extension",
-    "author": "TRRESTGHGYTCFTGBCXSZD",
-    "lastUpdated": "2022-04-24T11:21:56Z",
-    "stars": 1,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Some Superized Items! With Fun Stuffs!"
-  },
-  {
     "repo": "clintflames/mendless",
     "name": "Mendless",
     "author": "ClintFlames",
@@ -6655,17 +6545,6 @@
     "description": "this game with this mod was cursed"
   },
   {
-    "repo": "gorodmi/smolblocks",
-    "name": "smolblocks",
-    "author": "gorodmi",
-    "lastUpdated": "2022-07-24T16:54:57Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "makes blocks smol"
-  },
-  {
     "repo": "dethdefier/arcane-mindustry",
     "name": "ARCANE",
     "author": "RintaDev",
@@ -6686,17 +6565,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "wip content mod"
-  },
-  {
-    "repo": "obamination/minedustry",
-    "name": "Minedustry",
-    "author": "obamium",
-    "lastUpdated": "2022-07-27T19:54:40Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This texture pack is a work in progress. Also, there is nothing I can do about the block blending, it's just part of mindustry's code."
   },
   {
     "repo": "flippingpotatoes/borderless-display",
@@ -7095,17 +6963,6 @@
     "description": "Courier Intersector Comunication and Transport "
   },
   {
-    "repo": "jgonc19/mindustry_mods",
-    "name": "Pointer",
-    "author": "Juan",
-    "lastUpdated": "2021-04-21T00:17:55Z",
-    "stars": 0,
-    "minGameVersion": "105",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": ""
-  },
-  {
     "repo": "erisfiregamer1/seibuffrevert",
     "name": "SeiBuffRevert",
     "author": "IvyX",
@@ -7137,28 +6994,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds a golden duo"
-  },
-  {
-    "repo": "kotmilkmeow/milkmod",
-    "name": "MilkMod",
-    "author": "KotMilkMeoW",
-    "lastUpdated": "2021-05-14T05:34:51Z",
-    "stars": 0,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "mod for Mindustry"
-  },
-  {
-    "repo": "memedustry/generic-mod",
-    "name": "Generic Mod",
-    "author": "Memedustry",
-    "lastUpdated": "2021-05-27T20:20:36Z",
-    "stars": 0,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Just a generic mod with generic content."
   },
   {
     "repo": "danikkz/dumbmod",
@@ -7445,17 +7280,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "currently very WIP"
-  },
-  {
-    "repo": "mitch-jar/mindustry-chronicles",
-    "name": "MiniChrone",
-    "author": "MitchJAR",
-    "lastUpdated": "2021-11-05T23:39:16Z",
-    "stars": 0,
-    "minGameVersion": "134.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A vanilla Mindustry Enhancement."
   },
   {
     "repo": "antlrr/oxypoly",
@@ -7808,17 +7632,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Pixil is better lol /s\n\nA mod to test my modding/js (Mostly non-js,ofc) skills"
-  },
-  {
-    "repo": "mbtiamo712dev/parachutists-mod",
-    "name": "parachutists",
-    "author": "mb",
-    "lastUpdated": "2022-06-16T08:07:49Z",
-    "stars": 0,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "There is no suitable profile for the time being."
   },
   {
     "repo": "sheep-hugger/colonization-industry",
