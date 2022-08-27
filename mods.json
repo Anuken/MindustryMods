@@ -1760,7 +1760,7 @@
     "description": "Makes campaign and the whole Mindustry gameplay harder. If you are a novice, don't download this mod.\n\nTurrets have double cost. Enemies have 1.6x health. Power generators are 33.(3)% less effective."
   },
   {
-    "repo": "teamneiaron/ion",
+    "repo": "pkchaos/ion",
     "name": "Ion",
     "author": "PKChaos",
     "lastUpdated": "2022-08-27T11:24:38Z",
@@ -1771,7 +1771,7 @@
     "description": "Chaos ensues. Open the game with this mod enabled for the description to update correctly."
   },
   {
-    "repo": "pkchaos/ion",
+    "repo": "teamneiaron/ion",
     "name": "Ion",
     "author": "PKChaos",
     "lastUpdated": "2022-08-27T11:24:38Z",
@@ -3135,17 +3135,6 @@
     "description": "Adds a variety of turrets and units to the game.\nMade for the 2020 November Modding Contest."
   },
   {
-    "repo": "lottievixen/1-tile-drills",
-    "name": "1 Tile Drills",
-    "author": "LottieVixen",
-    "lastUpdated": "2020-12-06T23:48:03Z",
-    "stars": 3,
-    "minGameVersion": "119",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds 1 by 1 varients of the Mechanical and Pneumatic Drills"
-  },
-  {
     "repo": "qmelz/loading",
     "name": "Loading...",
     "author": "QmelZ",
@@ -3749,6 +3738,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Create easily visible markers to track a position or player.\nRequires deltanedas/ui-lib."
+  },
+  {
+    "repo": "lepisma-0/extended-tech",
+    "name": "Extended Tech",
+    "author": "Lepisma & Manezoid",
+    "lastUpdated": "2022-05-11T15:49:49Z",
+    "stars": 3,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\r\nAdds blocks, units and materials following(or at least trying) mindustry style.\r\nAlso contains some unfinished conceps(using json) like tractor beams, ion turrets and more\r\n\r\nThis is under development, i will update it SLOWLY so maybe i take breaks\r\n\r\nNow only works on V7 (v135)\r\n"
   },
   {
     "repo": "yamiyoshinlevi/gun-mod",
@@ -5368,17 +5368,6 @@
     "description": "A mod that adds some Future Green tech into the Game.\nBalancing changes required,so balancing suggestions are welcomed "
   },
   {
-    "repo": "uujuju1/monolith",
-    "name": "Monolith",
-    "author": "Uujuju",
-    "lastUpdated": "2022-08-27T02:37:29Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Can this be considered a 'vanilla' mod?"
-  },
-  {
     "repo": "jasmarkelina/tantros-mod",
     "name": "Tantros",
     "author": "Jasmarkelina & Plastel",
@@ -5393,12 +5382,23 @@
     "repo": "mega-industries/mega-additions",
     "name": "Mega Additions",
     "author": "Mega Industries",
-    "lastUpdated": "2022-08-27T05:21:32Z",
+    "lastUpdated": "2022-08-27T15:45:33Z",
     "stars": 2,
     "minGameVersion": "136.1",
-    "hasScripts": false,
+    "hasScripts": true,
     "hasJava": false,
     "description": "Adds a lot of content."
+  },
+  {
+    "repo": "uujuju1/monolith",
+    "name": "Monolith",
+    "author": "Uujuju",
+    "lastUpdated": "2022-08-27T15:51:21Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Can this be considered a 'vanilla' mod?"
   },
   {
     "repo": "sirmachinegun/ebm",
@@ -5985,14 +5985,14 @@
   },
   {
     "repo": "smolkeys/carry",
-    "name": "Extended Tech",
-    "author": "Lepisma & Manezoid",
+    "name": "carry",
+    "author": "SMOLKEYS",
     "lastUpdated": "2021-12-06T03:46:51Z",
     "stars": 1,
-    "minGameVersion": "135",
+    "minGameVersion": "121",
     "hasScripts": true,
     "hasJava": false,
-    "description": "\r\nAdds blocks, units and materials following(or at least trying) mindustry style.\r\nAlso contains some unfinished conceps(using json) like tractor beams, ion turrets and more\r\n\r\nThis is under development, i will update it SLOWLY so maybe i take breaks\r\n\r\nNow only works on V7 (v135)\r\n"
+    "description": "they carry"
   },
   {
     "repo": "smolkeys/1hpeverything",
@@ -6820,17 +6820,6 @@
     "description": "Adds logic blocks for erekir.\nMy first mod plz give star."
   },
   {
-    "repo": "manuwar73/remodeled_industry-",
-    "name": "remodeled-industry",
-    "author": "ManuWar73",
-    "lastUpdated": "2022-08-26T15:08:41Z",
-    "stars": 1,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "WIP"
-  },
-  {
     "repo": "zerattel/mindustry-red-alert-3-soundtrack-pack",
     "name": "Red alert 3 music",
     "author": "Zerattel",
@@ -6840,6 +6829,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "I made this mod for 5 hours of my life and bottle of pivo. Guys from ukrainian mindustry server in discord inspired\nme to try made mod. Jokingly, I said that I would try to make a mod that adds music from Red Alert 3, but I didn’t think that I would just do it for fun.\nMaksim loh ebaniy. EDIT:Ok, maksim may be good."
+  },
+  {
+    "repo": "manuwar73/remodeled_industry-",
+    "name": "remodeled-industry",
+    "author": "ManuWar73",
+    "lastUpdated": "2022-08-27T16:00:43Z",
+    "stars": 1,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "WIP"
   },
   {
     "repo": "nikisos/thebattlemod",
@@ -8074,7 +8074,7 @@
     "description": "Sets your camera position to your best core"
   },
   {
-    "repo": "swirek3331/altanic-v7",
+    "repo": "swirek3331/altanic",
     "name": "Altanic",
     "author": "swirek3331",
     "lastUpdated": "2022-08-17T11:48:24Z",
@@ -8085,7 +8085,7 @@
     "description": "Propably the v7 version of Altanic, but I am not sure if this survive the time."
   },
   {
-    "repo": "swirek3331/altanic",
+    "repo": "swirek3331/altanic-v7",
     "name": "Altanic",
     "author": "swirek3331",
     "lastUpdated": "2022-08-17T11:48:24Z",
@@ -8220,7 +8220,7 @@
     "repo": "duvent-mindustry/rust_dadditions",
     "name": "Rust_d Additions",
     "author": "Rust_d",
-    "lastUpdated": "2022-08-27T13:11:24Z",
+    "lastUpdated": "2022-08-27T15:56:21Z",
     "stars": 0,
     "minGameVersion": "136",
     "hasScripts": true,
