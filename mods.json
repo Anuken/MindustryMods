@@ -4,7 +4,7 @@
     "name": "BetaMindy",
     "author": "sk7725",
     "lastUpdated": "2022-08-06T10:23:30Z",
-    "stars": 248,
+    "stars": 249,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
@@ -14,7 +14,7 @@
     "repo": "aureusstratus/exogenesis",
     "name": "Exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2022-08-27T04:05:19Z",
+    "lastUpdated": "2022-08-29T15:54:39Z",
     "stars": 186,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -311,7 +311,7 @@
     "repo": "fresh791/fading-revelations",
     "name": "Fading Revelations",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 \n- Lore: iori / Fresh791\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2022-08-29T12:20:25Z",
+    "lastUpdated": "2022-08-29T21:12:09Z",
     "stars": 33,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -443,9 +443,9 @@
     "repo": "xstabux/omaloon-mod-public",
     "name": "Omaloon-Mod",
     "author": "StaBU",
-    "lastUpdated": "2022-08-28T16:59:32Z",
+    "lastUpdated": "2022-08-29T17:57:51Z",
     "stars": 25,
-    "minGameVersion": "136",
+    "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": true,
     "description": "My first mod. Adds mostly unique content."
@@ -1499,12 +1499,12 @@
     "repo": "mnemotechnician/new-console",
     "name": "New Console",
     "author": "Mnemotechnician",
-    "lastUpdated": "2022-08-29T12:32:11Z",
+    "lastUpdated": "2022-08-29T18:02:44Z",
     "stars": 8,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
-    "description": "Adds a console ui superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, a good log panel, execution history, monospace font - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
+    "description": "Adds a console ui superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more,\na good log panel, execution history - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
   },
   {
     "repo": "lottievixen/2xconveyors",
@@ -1527,6 +1527,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Enables the cliff button and any map size in the editor."
+  },
+  {
+    "repo": "mrduck557/moarwaterunits",
+    "name": "Moar Water Units",
+    "author": "MrDuck557",
+    "lastUpdated": "2021-05-27T18:36:15Z",
+    "stars": 7,
+    "minGameVersion": "126.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds 2 new water unit paths"
   },
   {
     "repo": "lordreddx/greentech",
@@ -1593,17 +1604,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A fun mod for a fun New Year's event"
-  },
-  {
-    "repo": "pixecoz/maps-pack",
-    "name": "Maps Pack",
-    "author": "pixecoz",
-    "lastUpdated": "2022-01-03T14:04:23Z",
-    "stars": 7,
-    "minGameVersion": "126",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Upload your maps:\nDiscord pixecoz#3275"
   },
   {
     "repo": "l0615t1c5-216ac-9437/maxratecalculator",
@@ -1760,7 +1760,7 @@
     "description": "Makes campaign and the whole Mindustry gameplay harder. If you are a novice, don't download this mod.\n\nTurrets have double cost. Enemies have 1.6x health. Power generators are 33.(3)% less effective."
   },
   {
-    "repo": "teamneiaron/ion",
+    "repo": "pkchaos/ion",
     "name": "Ion",
     "author": "PKChaos",
     "lastUpdated": "2022-08-28T03:30:20Z",
@@ -1771,7 +1771,7 @@
     "description": "Chaos ensues. Open the game with this mod enabled for the description to update correctly."
   },
   {
-    "repo": "pkchaos/ion",
+    "repo": "teamneiaron/ion",
     "name": "Ion",
     "author": "PKChaos",
     "lastUpdated": "2022-08-28T03:30:20Z",
@@ -1868,17 +1868,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Raw materials processing"
-  },
-  {
-    "repo": "mrduck557/moarwaterunits",
-    "name": "Moar Water Units",
-    "author": "MrDuck557",
-    "lastUpdated": "2021-05-27T18:36:15Z",
-    "stars": 6,
-    "minGameVersion": "126.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds 2 new water unit paths"
   },
   {
     "repo": "searcherg60/s-edition",
@@ -2442,17 +2431,6 @@
     "description": "A mindustry mod that adds several utility windows.\n\nYou can create windows by pressing the buttons on the master window.\n\nThis mod is created with the help of MKUI library."
   },
   {
-    "repo": "karlsonvive/a-bad-mindustry-mod",
-    "name": "Definitely Balanced Conveyors",
-    "author": "Rhoo",
-    "lastUpdated": "2022-05-29T07:20:39Z",
-    "stars": 5,
-    "minGameVersion": "105",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds a few distribution blocks"
-  },
-  {
     "repo": "notmeepoffaith/dumb-dump",
     "name": "Dumb Dump",
     "author": "notMEEPoffaith",
@@ -2572,6 +2550,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "haha funni go BRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR"
+  },
+  {
+    "repo": "karlsonvive/a-bad-mindustry-mod",
+    "name": "Definitely Balanced Conveyors",
+    "author": "Rhoo",
+    "lastUpdated": "2022-08-29T15:45:12Z",
+    "stars": 5,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds a few distribution blocks"
   },
   {
     "repo": "cyberneticsquid/self-destruct",
@@ -3080,17 +3069,6 @@
     "description": "A Mindustry Java mod that add a some contents.\n\nSpecial credits to Carrot for offering some sprites."
   },
   {
-    "repo": "vaporspace2/endrium-2",
-    "name": "EndriumMod 2",
-    "author": "vapor Space YT & Aegires",
-    "lastUpdated": "2022-08-16T21:49:46Z",
-    "stars": 4,
-    "minGameVersion": "130",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Mod with some new additions to the game, such as units, turrets, items, conveyors, and much more! Discord server: https://discord.gg/hGqEVwsg"
-  },
-  {
     "repo": "prosta4okua/ukrajinisator",
     "name": "Ukrainian translation",
     "author": "Prosta4ok_ua#6336",
@@ -3122,6 +3100,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "An experimental modification created to test v7's new API. Will *not* be worked on consistently due to life."
+  },
+  {
+    "repo": "vaporspace2/endrium-2",
+    "name": "EndriumMod 2",
+    "author": "vapor Space YT & Aegires",
+    "lastUpdated": "2022-08-29T21:54:48Z",
+    "stars": 4,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Mod with some new additions to the game, such as units, turrets, items, conveyors, and much more! Discord server: https://discord.gg/hGqEVwsg"
   },
   {
     "repo": "slotterleet/crazy-militaries",
@@ -5313,17 +5302,6 @@
     "description": "Turns most text to morse code.\nSet the language to English for the Morse Code to apply."
   },
   {
-    "repo": "valigaming15/pyra-mod",
-    "name": "pyra mod",
-    "author": "vali#5378",
-    "lastUpdated": "2022-08-11T13:55:33Z",
-    "stars": 2,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds pyratite theamed blocks please star this and dm me on discord for suggestions"
-  },
-  {
     "repo": "rexaliis/colorful-darkness-mod",
     "name": "Colorful Darkness",
     "author": "RexHm (Discord ID: 612122239428722720)",
@@ -5344,17 +5322,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "- 全新ui\n- 修复一些bug"
-  },
-  {
-    "repo": "cluet-op/green-technology",
-    "name": "Green-Technologies",
-    "author": " CLUET",
-    "lastUpdated": "2022-08-23T05:19:10Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that adds some Future Green tech into the Game.\nBalancing changes required,so balancing suggestions are welcomed "
   },
   {
     "repo": "darealmonika/eriker-logic",
@@ -5403,13 +5370,24 @@
   {
     "repo": "jasmarkelina/tantros-mod",
     "name": "Tantros",
-    "author": "Jasmarkelina & Plastel",
-    "lastUpdated": "2022-08-29T12:35:12Z",
+    "author": "Jasmarkelina,Plastel & RouterXdd",
+    "lastUpdated": "2022-08-29T15:10:55Z",
     "stars": 2,
     "minGameVersion": "137",
     "hasScripts": true,
     "hasJava": false,
-    "description": "My first Mod, adds a whole new set of content and also a tech tree for the planet: Tantros! Keep in mind that this mod is Nowhere Near Done, Forked by Plastel, aiming to contribute to the original mod as much as possible"
+    "description": "Our first Mod, adds a whole new set of content and also a tech tree for the planet: Tantros! Keep in mind that this mod is Nowhere Near Done, Forked by Plastel, aiming to contribute to the original mod as much as possible"
+  },
+  {
+    "repo": "valigaming15/pyra-mod",
+    "name": "pyra mod",
+    "author": "vali#5378",
+    "lastUpdated": "2022-08-29T19:35:48Z",
+    "stars": 2,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds pyratite theamed blocks please star this and dm me on discord for suggestions"
   },
   {
     "repo": "sirmachinegun/ebm",
@@ -6798,6 +6776,17 @@
     "description": "I make remake of my first mod on 5.0 (5.0 version of mod bad)"
   },
   {
+    "repo": "i-hope1/betterjs",
+    "name": "BetterJS",
+    "author": "I hope...",
+    "lastUpdated": "2022-08-20T10:19:01Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": ""
+  },
+  {
     "repo": "mindustry-space/pulverizer",
     "name": "Pulverizer",
     "author": "jyooru",
@@ -6818,17 +6807,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "An advanced UI Debugger that lets you do various things,\nstarting from viewing the element bounds and ending with reflectively modifying the properties of every element.\n\nThis mod is unfinished and may contain some bugs or unfinished features.\n\nYou can access the menu of this mod by clicking the \"UI Debugger\" button in the main menu.\nYou can also view this menu in a separate window by clicking the respective button."
-  },
-  {
-    "repo": "zerattel/mindustry-red-alert-3-soundtrack-pack",
-    "name": "Red alert 3 music",
-    "author": "Zerattel",
-    "lastUpdated": "2022-08-27T12:18:03Z",
-    "stars": 1,
-    "minGameVersion": "136.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "I made this mod for 5 hours of my life and bottle of pivo. Guys from ukrainian mindustry server in discord inspired\nme to try made mod. Jokingly, I said that I would try to make a mod that adds music from Red Alert 3, but I didn’t think that I would just do it for fun.\nMaksim loh ebaniy. EDIT:Ok, maksim may be good."
   },
   {
     "repo": "manuwar73/remodeled_industry-",
@@ -8074,17 +8052,6 @@
     "description": "Sets your camera position to your best core"
   },
   {
-    "repo": "i-hope1/betterjs",
-    "name": "BetterJS",
-    "author": "I hope...",
-    "lastUpdated": "2022-08-20T10:19:01Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": ""
-  },
-  {
     "repo": "cynthion21x/prismaticexperimental",
     "name": "Prismatic",
     "author": "cynthion21x & thekayperson",
@@ -8195,21 +8162,21 @@
     "description": "random content i think of once in a while"
   },
   {
-    "repo": "skyksit/hellomod",
-    "name": "Hello Mod",
-    "author": "skyksit@gmail.com",
-    "lastUpdated": "2022-08-29T09:11:57Z",
+    "repo": "swirek3331/zpgm-connector",
+    "name": "ZPGM-Connector",
+    "author": "swirek3331",
+    "lastUpdated": "2022-08-29T13:58:21Z",
     "stars": 0,
-    "minGameVersion": "137",
+    "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": false,
-    "description": "my mindustry mod, i like mindustry"
+    "description": "Are you a ZPGM member? No? So just ignore this."
   },
   {
     "repo": "swirek3331/altanic-v7",
     "name": "Altanic",
     "author": "swirek3331",
-    "lastUpdated": "2022-08-29T13:57:37Z",
+    "lastUpdated": "2022-08-29T15:03:27Z",
     "stars": 0,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -8220,22 +8187,11 @@
     "repo": "swirek3331/altanic",
     "name": "Altanic",
     "author": "swirek3331",
-    "lastUpdated": "2022-08-29T13:57:37Z",
+    "lastUpdated": "2022-08-29T15:03:27Z",
     "stars": 0,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
     "description": "Propably the v7 version of Altanic, but I am not sure if this survive the time."
-  },
-  {
-    "repo": "swirek3331/zpgm-connector",
-    "name": "ZPGM-Connector",
-    "author": "swirek3331",
-    "lastUpdated": "2022-08-29T13:58:21Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Are you a ZPGM member? No? So just ignore this."
   }
 ]
