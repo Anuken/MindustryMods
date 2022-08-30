@@ -5390,17 +5390,6 @@
     "description": "Can this be considered a 'vanilla' mod?"
   },
   {
-    "repo": "jasmarkelina/tantros-mod",
-    "name": "Tantros",
-    "author": "Jasmarkelina,Plastel & RouterXdd",
-    "lastUpdated": "2022-08-30T06:04:30Z",
-    "stars": 2,
-    "minGameVersion": "137",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Our first Mod, adds a whole new set of content and also a tech tree for the planet: Tantros! Keep in mind that this mod is Nowhere Near Done, Forked by Plastel, aiming to contribute to the original mod as much as possible"
-  },
-  {
     "repo": "manuwar73/remodeled_industry-",
     "name": "remodeled-industry",
     "author": "ManuWar73",
@@ -5421,6 +5410,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "i don't know what to do today.\n\nmade by Drifted Notes."
+  },
+  {
+    "repo": "jasmarkelina/tantros-mod",
+    "name": "Tantros",
+    "author": "Jasmarkelina,Plastel & RouterXdd",
+    "lastUpdated": "2022-08-30T21:18:31Z",
+    "stars": 2,
+    "minGameVersion": "137",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Our first Mod, adds a whole new set of content and also a tech tree for the planet: Tantros! Keep in mind that this mod is Nowhere Near Done, Forked by Plastel, aiming to contribute to the original mod as much as possible"
   },
   {
     "repo": "sirmachinegun/ebm",
@@ -8240,13 +8240,24 @@
   },
   {
     "repo": "valkovy/marsmodmindustry",
-    "name": "Kotlin Mod Template",
-    "author": "You",
-    "lastUpdated": "2022-08-30T19:53:02Z",
+    "name": "MarsiumMod",
+    "author": "ValkovY",
+    "lastUpdated": "2022-08-30T20:54:48Z",
     "stars": 0,
-    "minGameVersion": "129",
+    "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
-    "description": "A Mindustry Kotlin mod template."
+    "description": "A Mindustry Kotlin mod."
+  },
+  {
+    "repo": "valkovy/marsiummodmindustry",
+    "name": "MarsiumMod",
+    "author": "ValkovY",
+    "lastUpdated": "2022-08-30T20:54:48Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Kotlin mod."
   }
 ]
