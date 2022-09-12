@@ -200,12 +200,6 @@ public class ModUpdater{
                     obj.add("hasScripts", Jval.valueOf(lang.equals("JavaScript")));
                     obj.add("hasJava", Jval.valueOf(modj.getBool("java", false) || javaLangs.contains(lang)));
                     obj.add("description", Strings.stripColors(modj.getString("description", "No description provided.")));
-
-                    String desc = modj.getString("description", null);
-
-                    if(desc != null){
-                        obj.add("subtitle", Strings.truncate(Strings.stripColors(desc), 37, "..."));
-                    }
                     array.asArray().add(obj);
                 }catch(Exception e){
                     //ignore horribly malformed json
