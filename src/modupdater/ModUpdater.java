@@ -7,7 +7,6 @@ import arc.math.*;
 import arc.struct.*;
 import arc.util.*;
 import arc.util.Http.*;
-import arc.util.async.*;
 import arc.util.serialization.*;
 import arc.util.serialization.Jval.*;
 
@@ -104,7 +103,7 @@ public class ModUpdater{
             Log.info("&lcTotal mods found: @\n", names.size);
 
             //awful.
-            ExecutorService exec = Threads.executor(100);
+            ExecutorService exec = Threads.executor("mods", 100);
 
             AtomicInteger index = new AtomicInteger();
             for(String bname : names){
