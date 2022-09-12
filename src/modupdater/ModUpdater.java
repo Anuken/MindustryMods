@@ -222,6 +222,7 @@ public class ModUpdater{
         for(String str : queries){
             //try to get mod.json instead
             Http.get("https://raw.githubusercontent.com/" + str)
+            .timeout(10000)
             .error(this::simpleError)
             .block(out -> result[0] = Jval.read(out.getResultAsString()));
         }
@@ -233,6 +234,7 @@ public class ModUpdater{
         for(String str : queries){
             //try to get mod.json instead
             Http.get("https://raw.githubusercontent.com/" + str)
+            .timeout(10000)
             .error(this::simpleError)
             .block(out -> result[0] = ImageIO.read(out.getResultAsStream()));
         }
