@@ -652,9 +652,9 @@
     "repo": "anuken/wind3",
     "name": "wind3",
     "author": "Anuke (real)",
-    "lastUpdated": "2022-09-14T17:26:27Z",
+    "lastUpdated": "2022-09-21T13:53:50Z",
     "stars": 20,
-    "minGameVersion": "105",
+    "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": false,
     "description": "No description provided."
@@ -858,7 +858,7 @@
     "description": "I know the name is very boring but i can't find another name. A mod that adds a great amount of content to the game. Have fun with the mod."
   },
   {
-    "repo": "teamoct/fictional-octo-system",
+    "repo": "slotterleet/fictional-octo-system",
     "name": "fictional-octo-system",
     "author": "The Slaylord, Polar4ik, and KoRoach",
     "lastUpdated": "2022-09-15T18:24:48Z",
@@ -869,7 +869,7 @@
     "description": "A space-related mod."
   },
   {
-    "repo": "slotterleet/fictional-octo-system",
+    "repo": "teamoct/fictional-octo-system",
     "name": "fictional-octo-system",
     "author": "The Slaylord, Polar4ik, and KoRoach",
     "lastUpdated": "2022-09-15T18:24:48Z",
@@ -1254,6 +1254,17 @@
     "description": "A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
   },
   {
+    "repo": "kayyayeare/dusted-lands",
+    "name": "Dusted Lands",
+    "author": "KayAyeAre",
+    "lastUpdated": "2022-09-21T12:39:26Z",
+    "stars": 11,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A small mod which adds powders to the game, along with some of turrets, units, and other content."
+  },
+  {
     "repo": "qmelz/mainstreamdustry",
     "name": "mainstreamdustry",
     "author": "QmelZdustry",
@@ -1342,21 +1353,10 @@
     "description": "[#00FFFF](RU)[#FFFFFF] Модификация добавляет полезные блоки.[#0080FF] Мод создан мной, я русский.[#FF4747] Мод добавляет юнитов(икнаТ), заводы, конвейеры и ещё много всего.[#00FF80] Версия мода[#FFC000] 0.1 [#FF4747]Альфа.\n[#00FFFF](EN)[#FFFFFF] Modification adds useful blocks.[#FF4747] The mod was created by me, I'm russian.[#0080FF] Mod adds units(sknaT), factories, conveyors and many more blocks.[#00FF80] Mod version[#FFC000] 0.1 [#FF4747]Alpha."
   },
   {
-    "repo": "kayyayeare/dusted-lands",
-    "name": "Dusted Lands",
-    "author": "KayAyeAre",
-    "lastUpdated": "2022-09-18T19:35:59Z",
-    "stars": 10,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A small mod which adds powders to the game, along with some of turrets, units, and other content."
-  },
-  {
     "repo": "mindustryinside/l1337n",
     "name": "L1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-09-21T01:52:14Z",
+    "lastUpdated": "2022-09-21T12:34:19Z",
     "stars": 10,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -1584,17 +1584,6 @@
     "description": "This mod aims to add more diferent weapons in the game, like air only turrets(scatter),  and shrapnel turrets(fuse)"
   },
   {
-    "repo": "eschatologue/heavy-industries",
-    "name": "1 Tile Drills",
-    "author": "LottieVixen",
-    "lastUpdated": "2020-09-10T06:15:53Z",
-    "stars": 8,
-    "minGameVersion": "119",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds 1 by 1 varients of the Mechanical and Pneumatic Drills"
-  },
-  {
     "repo": "lottievixen/2xconveyors",
     "name": "2X Conveyors",
     "author": "LottieVixen",
@@ -1804,17 +1793,6 @@
     "description": "Данный мод добовляет в |Дерево Технологий| новые буры, конвееры и стены защиты!"
   },
   {
-    "repo": "pkchaos/ion",
-    "name": "Ion",
-    "author": "PKChaos",
-    "lastUpdated": "2022-09-10T05:12:52Z",
-    "stars": 8,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Chaos ensues. Open the game with this mod enabled for the description to update correctly."
-  },
-  {
     "repo": "slotterleet/hard-mode-mod",
     "name": "Hard Mode",
     "author": "Slotterleet",
@@ -1824,6 +1802,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Makes campaign and the whole Mindustry gameplay harder. If you are a novice, don't download this mod.\n\nTurrets have double cost. Enemies have 1.6x health. Power generators are 33.(3)% less effective."
+  },
+  {
+    "repo": "pkchaos/ion",
+    "name": "Ion",
+    "author": "PKChaos",
+    "lastUpdated": "2022-09-21T12:51:54Z",
+    "stars": 8,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Chaos ensues. Open the game with this mod enabled for the description to update correctly."
   },
   {
     "repo": "zerocore-salamander/hackforall",
@@ -3870,6 +3859,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a variety of turrets and units to the game.\nMade for the 2020 November Modding Contest."
+  },
+  {
+    "repo": "lottievixen/1-tile-drills",
+    "name": "1 Tile Drills",
+    "author": "LottieVixen",
+    "lastUpdated": "2020-12-06T23:48:03Z",
+    "stars": 3,
+    "minGameVersion": "119",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds 1 by 1 varients of the Mechanical and Pneumatic Drills"
   },
   {
     "repo": "steefano/liquids-enhanced",
