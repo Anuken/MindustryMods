@@ -123,6 +123,13 @@ public class ModUpdater{
 
                         Jval meta = ghmeta.get(name);
                         String branch = meta.getString("default_branch");
+
+                        //is archived, skip
+                        if(meta.getBool("archived", false)){
+                            print(buffer, "&lc| &lySkipping, repo is archived.");
+                            return;
+                        }
+
                         Jval modjson = tryList(name + "/" + branch + "/mod.json", name + "/" + branch + "/mod.hjson", name + "/" + branch + "/assets/mod.json", name + "/" + branch + "/assets/mod.hjson");
 
                         if(modjson == null){
