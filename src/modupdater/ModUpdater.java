@@ -104,6 +104,7 @@ public class ModUpdater{
 
             //awful.
             ExecutorService exec = Threads.executor("mods", 100);
+            ObjectSet<String> usedNames = new ObjectSet<>();
 
             AtomicInteger index = new AtomicInteger();
             for(String bname : names){
@@ -127,6 +128,11 @@ public class ModUpdater{
                         //is archived, skip
                         if(meta.getBool("archived", false)){
                             print(buffer, "&lc| &lySkipping, repo is archived.");
+                            return;
+                        }
+
+                        if(!usedNames.add(meta.getString("full_name"))){
+                            print(buffer, "&lc| &lySkipping, it's a duplicate.");
                             return;
                         }
 
