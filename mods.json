@@ -103,7 +103,7 @@
     "name": "Time Control",
     "author": "sk7725",
     "lastUpdated": "2022-08-19T23:46:56Z",
-    "stars": 75,
+    "stars": 76,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
@@ -132,6 +132,28 @@
     "description": "This mod gives you iron, steel, aluminum, oil processing, and alternative ways of generating materials like titanium and thorium."
   },
   {
+    "repo": "deltanedas/pictologic",
+    "name": "PicToLogic",
+    "author": "deltanedas, Router and another guy",
+    "lastUpdated": "2022-09-05T13:15:19Z",
+    "stars": 66,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a dialog for turning images into processor schematics.\nRequires deltanedas/ui-lib."
+  },
+  {
+    "repo": "eschatologue/unlimited-armament-works",
+    "name": "Unlimited Armament Works",
+    "author": "Eschatologue",
+    "lastUpdated": "2022-09-09T14:36:46Z",
+    "stars": 66,
+    "minGameVersion": "136.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "    A port and sequel to Heavy Armament Industries, written in java.\n    All development will be implemented here as Heavy Armament Industries has been discontinued and removed from the Mod browser.\n\n    Unlimited Armament Works adds loads of new content, that expands upon vanilla Mindustry, adding more turrets, units, factories, and its own power system, steam Engines! and much more.\n\n    A lot of work and improvements goes into UAW, if you want to show some support or like the content, please give the mod a star on GitHub, Thank you!"
+  },
+  {
     "repo": "slotterleet/goldmod",
     "name": "Gold Mod",
     "author": "The Slaylord",
@@ -143,33 +165,11 @@
     "description": "This mod adds ''new'' items, blocks, turrets, units and zones to the game.\n\n> Discord: https://discord.gg/kCvJKyb\n> GitHub: https://github.com/TheSlaylord/GoldMod"
   },
   {
-    "repo": "deltanedas/pictologic",
-    "name": "PicToLogic",
-    "author": "deltanedas, Router and another guy",
-    "lastUpdated": "2022-09-05T13:15:19Z",
-    "stars": 65,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a dialog for turning images into processor schematics.\nRequires deltanedas/ui-lib."
-  },
-  {
-    "repo": "eschatologue/unlimited-armament-works",
-    "name": "Unlimited Armament Works",
-    "author": "Eschatologue",
-    "lastUpdated": "2022-09-09T14:36:46Z",
-    "stars": 65,
-    "minGameVersion": "136.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "    A port and sequel to Heavy Armament Industries, written in java.\n    All development will be implemented here as Heavy Armament Industries has been discontinued and removed from the Mod browser.\n\n    Unlimited Armament Works adds loads of new content, that expands upon vanilla Mindustry, adding more turrets, units, factories, and its own power system, steam Engines! and much more.\n\n    A lot of work and improvements goes into UAW, if you want to show some support or like the content, please give the mod a star on GitHub, Thank you!"
-  },
-  {
     "repo": "sharlottes/informatis",
     "name": "Informatis",
     "author": "Sharlotte",
-    "lastUpdated": "2022-09-28T07:39:12Z",
-    "stars": 63,
+    "lastUpdated": "2022-09-29T01:15:05Z",
+    "stars": 64,
     "minGameVersion": "138",
     "hasScripts": false,
     "hasJava": true,
@@ -319,6 +319,17 @@
     "description": "adds a redstone-like wire-based logic system, tailored for making circuits."
   },
   {
+    "repo": "xzxadixzx/scheme-size",
+    "name": "Scheme Size",
+    "author": "xzxADIxzx",
+    "lastUpdated": "2022-09-28T14:32:13Z",
+    "stars": 36,
+    "minGameVersion": "138",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that increase the schematic size limit to 512 blocks!\nVanilla Only!"
+  },
+  {
     "repo": "deltanedas/dev-mode",
     "name": "Developer Mode",
     "author": "deltanedas",
@@ -328,17 +339,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Lets you type into the console.\nPress F8 to open."
-  },
-  {
-    "repo": "xzxadixzx/scheme-size",
-    "name": "Scheme Size",
-    "author": "xzxADIxzx",
-    "lastUpdated": "2022-09-28T14:32:13Z",
-    "stars": 35,
-    "minGameVersion": "138",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that increase the schematic size limit to 512 blocks!\nVanilla Only!"
   },
   {
     "repo": "younggam/multi-lib",
@@ -891,6 +891,17 @@
     "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts"
   },
   {
+    "repo": "mnemotechnician/new-console",
+    "name": "New Console",
+    "author": "Mnemotechnician",
+    "lastUpdated": "2022-09-21T05:45:25Z",
+    "stars": 14,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a console ui superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more,\na good log panel, execution history - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
+  },
+  {
     "repo": "gdeft/bleach",
     "name": "Bleach",
     "author": "Gdeft",
@@ -966,17 +977,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "something perhaps"
-  },
-  {
-    "repo": "mnemotechnician/new-console",
-    "name": "New Console",
-    "author": "Mnemotechnician",
-    "lastUpdated": "2022-09-21T05:45:25Z",
-    "stars": 13,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds a console ui superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more,\na good log panel, execution history - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
   },
   {
     "repo": "mythril382/roombas",
@@ -1268,7 +1268,7 @@
     "repo": "mindustryinside/l1337n",
     "name": "L1337n",
     "author": "Mindustry Inside",
-    "lastUpdated": "2022-09-28T12:33:18Z",
+    "lastUpdated": "2022-09-29T01:45:19Z",
     "stars": 10,
     "minGameVersion": "115",
     "hasScripts": false,
@@ -2401,7 +2401,7 @@
     "repo": "hortisquash/hortidefinition",
     "name": "hortiDefinition",
     "author": "hortiSquash + bendn",
-    "lastUpdated": "2022-09-29T00:44:50Z",
+    "lastUpdated": "2022-09-29T02:36:16Z",
     "stars": 6,
     "minGameVersion": "139",
     "hasScripts": false,
@@ -6105,17 +6105,6 @@
     "description": "Make use of New Horizon units."
   },
   {
-    "repo": "def-try/custommusic",
-    "name": "Custom music",
-    "author": "Benry/Deftry",
-    "lastUpdated": "2022-09-28T00:21:04Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds costom music  to mindustry gamemodes."
-  },
-  {
     "repo": "mythril382/mobilemapshot",
     "name": "Mobile Map-Shot",
     "author": "Mythril",
@@ -6125,6 +6114,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Allows mobile players to take map-shots\n\nMapshots are saved in the 'screenshots' folder in the game's data directory.\n\nThere is a setting on whether to check for memory or not."
+  },
+  {
+    "repo": "def-try/custommusic",
+    "name": "Custom music",
+    "author": "Benry/Deftry",
+    "lastUpdated": "2022-09-29T01:42:22Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds costom music  to mindustry gamemodes."
   },
   {
     "repo": "sirmachinegun/ebm",
