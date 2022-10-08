@@ -4,7 +4,7 @@
     "name": "BetaMindy",
     "author": "sk7725",
     "lastUpdated": "2022-09-26T04:50:14Z",
-    "stars": 254,
+    "stars": 255,
     "minGameVersion": "138",
     "hasScripts": false,
     "hasJava": true,
@@ -256,7 +256,7 @@
     "repo": "fresh791/fading-revelations",
     "name": "Fading Revelations",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian : Prosta4ok_ua\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 \n- Lore: iori / Fresh791\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2022-10-07T17:11:08Z",
+    "lastUpdated": "2022-10-08T12:01:40Z",
     "stars": 45,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -663,7 +663,7 @@
     "repo": "sporrus/randommindustry",
     "name": "Random Mindustry",
     "author": "gorodmi & Mythril",
-    "lastUpdated": "2022-10-08T08:46:36Z",
+    "lastUpdated": "2022-10-08T11:58:46Z",
     "stars": 19,
     "minGameVersion": "139",
     "hasScripts": false,
@@ -693,6 +693,17 @@
     "description": "hehe angish go nrrrt"
   },
   {
+    "repo": "teamoct/fictional-octo-system",
+    "name": "fictional-octo-system",
+    "author": "The Slaylord, Polar4ik, and KoRoach",
+    "lastUpdated": "2022-10-07T16:33:25Z",
+    "stars": 18,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A space-related mod."
+  },
+  {
     "repo": "snakkizxz/coppermod",
     "name": "Coppermod",
     "author": "Snakki",
@@ -713,17 +724,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds clientside logic debugging tools.\nRequires DeltaNedas/override-lib."
-  },
-  {
-    "repo": "teamoct/fictional-octo-system",
-    "name": "fictional-octo-system",
-    "author": "The Slaylord, Polar4ik, and KoRoach",
-    "lastUpdated": "2022-10-07T16:33:25Z",
-    "stars": 17,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A space-related mod."
   },
   {
     "repo": "drullkus/unnerf-core-units",
@@ -771,9 +771,9 @@
   },
   {
     "repo": "mq-1175/more-structures",
-    "name": "More Structures",
+    "name": "More Than Vanilla",
     "author": "M.Q.",
-    "lastUpdated": "2022-09-26T08:35:38Z",
+    "lastUpdated": "2022-10-08T11:11:02Z",
     "stars": 16,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -902,6 +902,17 @@
     "description": "Adds a console ui superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more,\na good log panel, execution history - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
   },
   {
+    "repo": "kayyayeare/dusted-lands",
+    "name": "Dusted Lands",
+    "author": "KayAyeAre",
+    "lastUpdated": "2022-10-08T04:53:59Z",
+    "stars": 14,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A small mod which adds powders to the game, along with some of turrets, units, and other content."
+  },
+  {
     "repo": "gdeft/bleach",
     "name": "Bleach",
     "author": "Gdeft",
@@ -977,17 +988,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Roombas."
-  },
-  {
-    "repo": "kayyayeare/dusted-lands",
-    "name": "Dusted Lands",
-    "author": "KayAyeAre",
-    "lastUpdated": "2022-10-08T04:53:59Z",
-    "stars": 13,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A small mod which adds powders to the game, along with some of turrets, units, and other content."
   },
   {
     "repo": "tcookiem/yeeter-mod",
@@ -1109,6 +1109,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod that adds many different types of duos, recreates vanilla blocks into duos, and duo units! Discord Tag: Gwapo #9604"
+  },
+  {
+    "repo": "flintyx/autoresearch",
+    "name": "Auto Research",
+    "author": "Flin",
+    "lastUpdated": "2022-04-22T10:25:54Z",
+    "stars": 11,
+    "minGameVersion": "130",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
   },
   {
     "repo": "newb7140/duomod",
@@ -1983,7 +1994,7 @@
     "repo": "sh1penfire/welcome-to-the-frostscape",
     "name": "Welcome to the Frostscape",
     "author": "Sh1penfire",
-    "lastUpdated": "2022-10-07T22:16:15Z",
+    "lastUpdated": "2022-10-08T11:08:15Z",
     "stars": 7,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -4741,17 +4752,6 @@
     "description": "Oh No Language Edition\n\nauq3yb09e2b 3e2730v4r092ecrwiudwrhfu24n23yjm4y\n\nIt's a language... that's crigne. Ok?"
   },
   {
-    "repo": "routerxdd/decaling",
-    "name": "Decaling",
-    "author": "RouterXdd",
-    "lastUpdated": "2022-10-01T06:46:43Z",
-    "stars": 3,
-    "minGameVersion": "138",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Decaling is destroying all thing. Or not?"
-  },
-  {
     "repo": "freezemandu/qa-schemic",
     "name": "Q&A Schemic",
     "author": "Qwertynoob&Anchovy&Mandu",
@@ -4783,6 +4783,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Sometimes glitchy ideas."
+  },
+  {
+    "repo": "routerxdd/decaling",
+    "name": "Decaling",
+    "author": "RouterXdd",
+    "lastUpdated": "2022-10-08T11:52:03Z",
+    "stars": 3,
+    "minGameVersion": "138",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Decaling is destroying all thing. Or not?"
   },
   {
     "repo": "svan9/svgmods",
@@ -6028,17 +6039,6 @@
     "description": "A Rand0m m0d."
   },
   {
-    "repo": "xenoforce/opmod",
-    "name": "opmod",
-    "author": "XenoTale",
-    "lastUpdated": "2022-09-14T22:09:39Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod is over-powered. It makes the player stronger, and the enemy weaker."
-  },
-  {
     "repo": "xenoforce/liberate-diamond-units",
     "name": "Liberate Diamond Units",
     "author": "XenoTale",
@@ -6147,6 +6147,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Hardcore Mod\n\nEnglish: 夜狐\nGerman: 夜狐"
+  },
+  {
+    "repo": "xenoforce/opmod",
+    "name": "opmod",
+    "author": "XenoTale",
+    "lastUpdated": "2022-10-08T12:05:38Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod is over-powered. It makes the player stronger, and the enemy weaker."
   },
   {
     "repo": "sirmachinegun/ebm",
@@ -6884,6 +6895,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "my mindustry mod, i like mindustry"
+  },
+  {
+    "repo": "pointifix/autodrill",
+    "name": "AutoDrill",
+    "author": "Pointifix",
+    "lastUpdated": "2022-10-08T09:38:30Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds tools for automatically filling resource patches with drills"
   },
   {
     "repo": "nikisos/thebattlemod",
@@ -8132,22 +8154,11 @@
     "repo": "6666dustry/starner",
     "name": "starner",
     "author": "many bear",
-    "lastUpdated": "2022-10-08T07:09:56Z",
+    "lastUpdated": "2022-10-08T10:58:38Z",
     "stars": 0,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
     "description": "stars are falling..."
-  },
-  {
-    "repo": "pointifix/autodrill",
-    "name": "AutoDrill",
-    "author": "Pointifix",
-    "lastUpdated": "2022-10-08T09:38:30Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds tools for automatically filling resource patches with drills"
   }
 ]
