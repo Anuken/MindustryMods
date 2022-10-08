@@ -212,7 +212,7 @@
     "repo": "meepoffaith/prog-mats-java",
     "name": "Progression Ministry",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progression Ministry enabled to view them!)",
-    "lastUpdated": "2022-10-08T06:31:29Z",
+    "lastUpdated": "2022-10-08T08:55:29Z",
     "stars": 53,
     "minGameVersion": "138",
     "hasScripts": false,
@@ -663,12 +663,12 @@
     "repo": "sporrus/randommindustry",
     "name": "Random Mindustry",
     "author": "gorodmi & Mythril",
-    "lastUpdated": "2022-10-01T14:22:12Z",
+    "lastUpdated": "2022-10-08T08:46:36Z",
     "stars": 19,
-    "minGameVersion": "138",
+    "minGameVersion": "139",
     "hasScripts": false,
     "hasJava": true,
-    "description": "randomizes almost everything\njoin our discord! https://discord.gg/ztC6WJUxZK\n\nEPILEPSY WARNING"
+    "description": "Randomizes almost everything!\nJoin our discord! https://discord.gg/ztC6WJUxZK\n\nEPILEPSY WARNING"
   },
   {
     "repo": "paulieg626/cheat",
@@ -1109,17 +1109,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod that adds many different types of duos, recreates vanilla blocks into duos, and duo units! Discord Tag: Gwapo #9604"
-  },
-  {
-    "repo": "flintyx/autoresearch",
-    "name": "Auto Research",
-    "author": "Flin",
-    "lastUpdated": "2022-04-22T10:25:54Z",
-    "stars": 11,
-    "minGameVersion": "130",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
   },
   {
     "repo": "newb7140/duomod",
@@ -6842,17 +6831,6 @@
     "description": "A Mindustry Java mod."
   },
   {
-    "repo": "skyksit/hellomod",
-    "name": "Hello Mod",
-    "author": "skyksit@gmail.com",
-    "lastUpdated": "2022-10-05T09:13:13Z",
-    "stars": 1,
-    "minGameVersion": "137",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "my mindustry mod, i like mindustry"
-  },
-  {
     "repo": "corentinvaillant/resources-bird",
     "name": "Resources gallinaceous",
     "author": "Corentin, Mauviette",
@@ -6895,6 +6873,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "要加载两次，不好意思 202210081340"
+  },
+  {
+    "repo": "skyksit/hellomod",
+    "name": "Hello Mod",
+    "author": "skyksit@gmail.com",
+    "lastUpdated": "2022-10-08T08:46:32Z",
+    "stars": 1,
+    "minGameVersion": "137",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "my mindustry mod, i like mindustry"
   },
   {
     "repo": "nikisos/thebattlemod",
@@ -8129,17 +8118,6 @@
     "description": "A Small Texturepack that changes World Processor and World Cell into Command blocks from Minecraft."
   },
   {
-    "repo": "pointifix/autodrill",
-    "name": "AutoDrill",
-    "author": "Pointifix",
-    "lastUpdated": "2022-10-07T13:31:20Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds tools for automatically filling resource patches with drills"
-  },
-  {
     "repo": "swirek3331/altanic",
     "name": "Altanic",
     "author": "Świrek",
@@ -8160,5 +8138,16 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "stars are falling..."
+  },
+  {
+    "repo": "pointifix/autodrill",
+    "name": "AutoDrill",
+    "author": "Pointifix",
+    "lastUpdated": "2022-10-08T09:38:30Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds tools for automatically filling resource patches with drills"
   }
 ]
