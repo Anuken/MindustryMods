@@ -572,17 +572,6 @@
     "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
   },
   {
-    "repo": "ferlern/extended-ui",
-    "name": "extended UI",
-    "author": "wizer",
-    "lastUpdated": "2022-08-12T12:13:28Z",
-    "stars": 22,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "UNSTABLE DEVELOPMENT VERSION. Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
-  },
-  {
     "repo": "anuken/wind3",
     "name": "wind3",
     "author": "Anuke (real)",
@@ -592,6 +581,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "No description provided."
+  },
+  {
+    "repo": "ferlern/extended-ui",
+    "name": "extended UI",
+    "author": "wizer",
+    "lastUpdated": "2022-10-08T18:09:27Z",
+    "stars": 22,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "UNSTABLE DEVELOPMENT VERSION. Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
   },
   {
     "repo": "uujuju1/project-oblivion",
@@ -663,7 +663,7 @@
     "repo": "sporrus/randommindustry",
     "name": "Random Mindustry",
     "author": "gorodmi & Mythril",
-    "lastUpdated": "2022-10-08T14:58:18Z",
+    "lastUpdated": "2022-10-08T19:49:11Z",
     "stars": 19,
     "minGameVersion": "139",
     "hasScripts": false,
@@ -4774,17 +4774,6 @@
     "description": "1. added focus feedback on Element Show & Selection.\n2. fixed a bug memory bug which didn't remove window when it's close.\n3. changed mod data directory.\n4. optimized code.\n5. fixed some of other small bugs.\n---------------------------------\n1. 添加 审查元素 和 选择器 的焦点反馈.\n2. 修复窗口关闭时仍占内存的bug.\n3. 修改的mod数据目录.\n4. 优化代码.\n5. 修复其他一些bug."
   },
   {
-    "repo": "routerxdd/decaling",
-    "name": "Decaling",
-    "author": "RouterXdd",
-    "lastUpdated": "2022-10-08T11:52:03Z",
-    "stars": 3,
-    "minGameVersion": "138",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Decaling is destroying all thing. Or not?"
-  },
-  {
     "repo": "uujuju1/monolith",
     "name": "Monolith",
     "author": "Uujuju",
@@ -4794,6 +4783,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Sometimes glitchy ideas."
+  },
+  {
+    "repo": "routerxdd/decaling",
+    "name": "Decaling",
+    "author": "RouterXdd",
+    "lastUpdated": "2022-10-08T19:50:21Z",
+    "stars": 3,
+    "minGameVersion": "138",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Decaling is destroying all thing. Or not?"
   },
   {
     "repo": "svan9/svgmods",
@@ -6633,17 +6633,6 @@
     "description": "thorium conveyors added\r\n-40% faster than titanium conveyors\r\n-costs 2 thorium"
   },
   {
-    "repo": "pointifix/coreview",
-    "name": "Core View",
-    "author": "Pointifix",
-    "lastUpdated": "2022-08-16T13:15:44Z",
-    "stars": 1,
-    "minGameVersion": "120",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Sets your camera position to your best core"
-  },
-  {
     "repo": "yaminox7/oresmod",
     "name": "Ores mod",
     "author": "Yaminox7",
@@ -6708,17 +6697,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Este mod agrega metales y muchas otras cosas más que mejoran la experiencia del juego vanilla."
-  },
-  {
-    "repo": "xenoforce/erikamod",
-    "name": "Erika Mod",
-    "author": "XenoTale",
-    "lastUpdated": "2022-09-14T15:19:57Z",
-    "stars": 1,
-    "minGameVersion": "138",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod makes it easier to play Erekir."
   },
   {
     "repo": "koctz34/rust-music-mod",
@@ -6906,6 +6884,28 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "my mindustry mod, i like mindustry"
+  },
+  {
+    "repo": "xenoforce/erikamod",
+    "name": "Erika Mod",
+    "author": "XenoTale",
+    "lastUpdated": "2022-10-08T18:11:32Z",
+    "stars": 1,
+    "minGameVersion": "138",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod makes it easier to play Erekir."
+  },
+  {
+    "repo": "pointifix/coreview",
+    "name": "Core View",
+    "author": "Pointifix",
+    "lastUpdated": "2022-10-08T18:50:57Z",
+    "stars": 1,
+    "minGameVersion": "120",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Sets your camera position to your best core"
   },
   {
     "repo": "nikisos/thebattlemod",
@@ -8041,17 +8041,6 @@
     "description": "A Mindustry Kotlin mod."
   },
   {
-    "repo": "xenoforce/playmod",
-    "name": "Play Mod",
-    "author": "XenoTale",
-    "lastUpdated": "2022-09-15T09:35:03Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod makes it easy to play the game. (Serpulo planet)"
-  },
-  {
     "repo": "purplepikachu/mindustry-back-to-classic-mod",
     "name": "Mindustry back to classic",
     "author": "Agentfuchs",
@@ -8160,5 +8149,16 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Make Erekir components available on Serpulo."
+  },
+  {
+    "repo": "xenoforce/playmod",
+    "name": "Play Mod",
+    "author": "XenoTale",
+    "lastUpdated": "2022-10-08T18:16:19Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod makes it easy to play the game. (Serpulo planet)"
   }
 ]
