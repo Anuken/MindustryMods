@@ -905,7 +905,7 @@
     "repo": "kayyayeare/dusted-lands",
     "name": "Dusted Lands",
     "author": "KayAyeAre",
-    "lastUpdated": "2022-10-15T07:59:51Z",
+    "lastUpdated": "2022-10-15T08:19:34Z",
     "stars": 14,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -2739,17 +2739,6 @@
     "description": "Turns every unit into badly drawn MS painted images \nContributors: zandrewNoob \nW.I.P, expect the majority of the sprites to look normal"
   },
   {
-    "repo": "balam314/no-invasions",
-    "name": "No Invasions",
-    "author": "BalaM314",
-    "lastUpdated": "2022-05-30T05:15:50Z",
-    "stars": 5,
-    "minGameVersion": "135",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Disables sectors being re-attacked."
-  },
-  {
     "repo": "yukusoh/hardustry-mod",
     "name": "Hardustry",
     "author": "YukuSOH",
@@ -2946,6 +2935,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Vanilla decoloring project."
+  },
+  {
+    "repo": "balam314/no-invasions",
+    "name": "No Sector Re Attacks",
+    "author": "BalaM314",
+    "lastUpdated": "2022-10-15T09:40:16Z",
+    "stars": 5,
+    "minGameVersion": "135",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Disables sectors being re-attacked."
   },
   {
     "repo": "qmelz/loading",
@@ -6600,6 +6600,17 @@
     "description": "За чай, товарищи!"
   },
   {
+    "repo": "no9527dada/skin",
+    "name": "Unit of the skin-本地皮肤",
+    "author": "9527",
+    "lastUpdated": "2022-08-13T04:38:41Z",
+    "stars": 1,
+    "minGameVersion": "137",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "此MOD对两个星球T3核心单位添加了动态效果皮肤，可以在多人服务器上使用"
+  },
+  {
     "repo": "blackdeluxecat/schematicparse",
     "name": "Schematic Parse",
     "author": "BlackDeluxeCat",
@@ -8019,6 +8030,17 @@
     "description": "this mod will break your game.\n\nmade by Driftheque (Drifted Notes + contributors)"
   },
   {
+    "repo": "manuwar73/whattodo",
+    "name": "What to do",
+    "author": "Drifted Notes",
+    "lastUpdated": "2022-08-30T12:51:59Z",
+    "stars": 0,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "i don't know what to do today.\n\nmade by Drifted Notes."
+  },
+  {
     "repo": "valkovy/marsiummodmindustry",
     "name": "MarsiumMod",
     "author": "ValkovY",
@@ -8151,17 +8173,6 @@
     "description": "stars are falling..."
   },
   {
-    "repo": "balam314/extensions",
-    "name": "Extensions",
-    "author": "BalaM314",
-    "lastUpdated": "2022-10-13T11:09:36Z",
-    "stars": 0,
-    "minGameVersion": "139",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Extends everything and improves the endgame by adding an extra tier of stuff."
-  },
-  {
     "repo": "sk2006mc/a-mindustry-mod",
     "name": "Direct T3,T4&T5 Unit Factory",
     "author": "SK2006MC",
@@ -8259,5 +8270,16 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Pixil is better lol /s\n\nA mod to test my modding/js (Mostly non-js,ofc) skills"
+  },
+  {
+    "repo": "balam314/extensions",
+    "name": "Extensions",
+    "author": "BalaM314",
+    "lastUpdated": "2022-10-15T09:44:32Z",
+    "stars": 0,
+    "minGameVersion": "139",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Extends everything and improves the endgame by adding an extra tier of stuff."
   }
 ]
