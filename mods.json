@@ -48,7 +48,7 @@
     "name": "Exotic Mod",
     "author": "BlueWolf",
     "lastUpdated": "2022-10-24T08:45:44Z",
-    "stars": 123,
+    "stars": 122,
     "minGameVersion": "131",
     "hasScripts": false,
     "hasJava": false,
@@ -143,17 +143,6 @@
     "description": "This mod gives you iron, steel, aluminum, oil processing, and alternative ways of generating materials like titanium and thorium."
   },
   {
-    "repo": "slotterleet/goldmod",
-    "name": "Gold Mod",
-    "author": "The Slaylord",
-    "lastUpdated": "2021-08-31T16:28:01Z",
-    "stars": 66,
-    "minGameVersion": "126",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This mod adds ''new'' items, blocks, turrets, units and zones to the game.\n\n> Discord: https://discord.gg/kCvJKyb\n> GitHub: https://github.com/TheSlaylord/GoldMod"
-  },
-  {
     "repo": "deltanedas/pictologic",
     "name": "PicToLogic",
     "author": "deltanedas, Router and another guy",
@@ -174,6 +163,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The mod displays more information in-game, such as unit/building, wave, core, tile, item/unit total info etc"
+  },
+  {
+    "repo": "slotterleet/goldmod",
+    "name": "Gold Mod",
+    "author": "The Slaylord",
+    "lastUpdated": "2021-08-31T16:28:01Z",
+    "stars": 65,
+    "minGameVersion": "126",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This mod adds ''new'' items, blocks, turrets, units and zones to the game.\n\n> Discord: https://discord.gg/kCvJKyb\n> GitHub: https://github.com/TheSlaylord/GoldMod"
   },
   {
     "repo": "deltanedas/ui-lib",
@@ -444,7 +444,7 @@
     "name": "Advancements",
     "author": "AureusStratus",
     "lastUpdated": "2022-09-16T19:23:22Z",
-    "stars": 28,
+    "stars": 27,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": false,
@@ -6116,6 +6116,17 @@
     "description": "A Mindustry Java mod."
   },
   {
+    "repo": "xenoforce/use-exobegin-units",
+    "name": "Exogenesis Units - Liberated",
+    "author": "goldie",
+    "lastUpdated": "2022-10-26T06:58:29Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nEasy access to Exogenesis units.\n\n(Please see Important Information on the repo page of this mod.)"
+  },
+  {
     "repo": "xenoforce/liberate-gold-x",
     "name": "Gold Components - Liberated",
     "author": "goldie",
@@ -6125,6 +6136,28 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Get easy access to components from GoldMod"
+  },
+  {
+    "repo": "xenoforce/opmod",
+    "name": "opmod",
+    "author": "goldie",
+    "lastUpdated": "2022-10-26T07:17:47Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod is over-powered. It makes the player stronger, and the enemy weaker."
+  },
+  {
+    "repo": "xenoforce/liberate-diamond-units",
+    "name": "Diamond Ore Units - Liberated",
+    "author": "goldie",
+    "lastUpdated": "2022-10-26T07:46:56Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Free access to Units from Diamond Ore mod."
   },
   {
     "repo": "sirmachinegun/ebm",
@@ -6864,17 +6897,6 @@
     "description": "A cool mod 😎"
   },
   {
-    "repo": "arth0x/aetherunbound",
-    "name": "Aether Unbound Alpha",
-    "author": "Arth0x le BG",
-    "lastUpdated": "2022-10-25T17:47:39Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "discover the new powed of the aether. allows you to build T6 units. Still work in progress"
-  },
-  {
     "repo": "sheptalo/mindustry-minecraft-mod",
     "name": "Minecraft mod",
     "author": "sheptalo",
@@ -6884,6 +6906,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Minecraft in mindustry"
+  },
+  {
+    "repo": "arth0x/aetherunbound",
+    "name": "Aether Unbound Alpha",
+    "author": "Arth0x le BG",
+    "lastUpdated": "2022-10-26T09:57:15Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "discover the new powed of the aether. allows you to build T6 units. Still work in progress"
   },
   {
     "repo": "nikisos/thebattlemod",
@@ -8239,6 +8272,17 @@
     "description": "Testing ground for java modding."
   },
   {
+    "repo": "xenoforce/advance-now",
+    "name": "Advancements - Liberated",
+    "author": "goldie",
+    "lastUpdated": "2022-10-26T07:04:36Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nUnlocks components from the Advancements mod.\n\n(Please see Important Information on the repo page of this mod.)"
+  },
+  {
     "repo": "xenoforce/happy-times-mod",
     "name": "Happy Times Mod",
     "author": "goldie",
@@ -8248,5 +8292,27 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Make Erekir components available on Serpulo."
+  },
+  {
+    "repo": "xenoforce/no-grinding-mod",
+    "name": "No Grinding",
+    "author": "goldie",
+    "lastUpdated": "2022-10-26T07:56:09Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Grind a lot less in the game."
+  },
+  {
+    "repo": "lethiferal/sound-overhaul",
+    "name": "Sound Overhaul",
+    "author": "Lethiferal",
+    "lastUpdated": "2022-10-26T09:36:00Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds modest modifications to the default Mindustry sounds."
   }
 ]
