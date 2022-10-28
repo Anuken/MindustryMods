@@ -14,7 +14,7 @@
     "repo": "aureusstratus/exogenesis",
     "name": "Exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2022-10-28T04:35:20Z",
+    "lastUpdated": "2022-10-28T17:36:23Z",
     "stars": 202,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -47,7 +47,7 @@
     "repo": "bluewolf3682/exotic-mod",
     "name": "Exotic Mod",
     "author": "BlueWolf",
-    "lastUpdated": "2022-10-24T08:45:44Z",
+    "lastUpdated": "2022-10-28T17:53:13Z",
     "stars": 124,
     "minGameVersion": "131",
     "hasScripts": false,
@@ -6116,17 +6116,6 @@
     "description": "A Mindustry Java mod."
   },
   {
-    "repo": "gorodmi/shapez",
-    "name": "Shapez",
-    "author": "gorodmi",
-    "lastUpdated": "2022-10-25T14:43:27Z",
-    "stars": 2,
-    "minGameVersion": "139",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "shapes shapes shapes shapes"
-  },
-  {
     "repo": "xenoforce/use-exobegin-units",
     "name": "Exogenesis Units - Liberated",
     "author": "goldie",
@@ -6171,15 +6160,15 @@
     "description": "Get easy access to components from GoldMod"
   },
   {
-    "repo": "yaddrx2/yr2-logic-debugger",
-    "name": "yr2 Logic Debugger",
-    "author": "原作者：DeltaNedas\n修改：yaddrx2",
-    "lastUpdated": "2022-10-28T10:07:47Z",
+    "repo": "gorodmi/shapez",
+    "name": "Shapez",
+    "author": "gorodmi",
+    "lastUpdated": "2022-10-28T17:20:00Z",
     "stars": 2,
-    "minGameVersion": "137",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Logic Debugger\n\n一个逻辑辅助工具\n\n原作DeltaNedas/ldb\n\nyaddrx2将其升级到了137，仅供学习交流使用\n\n当前版本：1.0.8\n\n更新日志\n\nv1.0.1\n将mod版本升为137\n\nv1.0.2\n取消ui-lib的前置\n\nv1.0.3\n逻辑码编辑板\n新增代码语句的文本形式编辑\n\nv1.0.4\n逻辑块变量面板\n变量更新闪烁\n增加逻辑块所连方块的显示\n\nv1.0.5\n内存块编辑板\n内存值更新闪烁\n新增内存值的二进制形式视察\n实现内存值的十六进制形式编辑\n\nv1.0.6\n新增代码插入相关操作\n实现从剪切板导入代码块到指定位置\n\nv1.0.7\n新增面板的折叠按钮\n修复学术端运行mod导致的面板移位或覆盖\n修复面板横向抖动的bug\n\nv1.0.8\n单步调试面板\n实现代码单步运行调试"
+    "minGameVersion": "139",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "shapes shapes shapes shapes"
   },
   {
     "repo": "sirmachinegun/ebm",
@@ -6919,17 +6908,6 @@
     "description": "A mod focused on pixels and graphics."
   },
   {
-    "repo": "arth0x/aetherunbound",
-    "name": "Aether Unbound Alpha",
-    "author": "Arth0x le BG",
-    "lastUpdated": "2022-10-27T19:10:04Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "discover the new powed of the aether. allows you to build T6 units. Still work in progress"
-  },
-  {
     "repo": "sheptalo/mindustry-minecraft-mod",
     "name": "Minecraft mod",
     "author": "sheptalo",
@@ -6950,6 +6928,28 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Work In Progress.\n\nAdd futuristic factory and a new planet."
+  },
+  {
+    "repo": "arth0x/aetherunbound",
+    "name": "Aether Unbound Alpha",
+    "author": "Arth0x le BG",
+    "lastUpdated": "2022-10-28T17:02:54Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "discover the new powed of the aether. allows you to build T6 units. Still work in progress"
+  },
+  {
+    "repo": "yaddrx2/yr2-logic-debugger",
+    "name": "yr2 Logic Debugger",
+    "author": "原作者：DeltaNedas\n修改：yaddrx2",
+    "lastUpdated": "2022-10-28T17:54:12Z",
+    "stars": 1,
+    "minGameVersion": "137",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Logic Debugger\n\n一个逻辑辅助工具\n\n原作DeltaNedas/ldb\n\nyaddrx2将其升级到了137，仅供学习交流使用\n\n当前版本：1.0.8\n\n更新日志\n\nv1.0.1\n将mod版本升为137\n\nv1.0.2\n取消ui-lib的前置\n\nv1.0.3\n逻辑码编辑板\n新增代码语句的文本形式编辑\n\nv1.0.4\n逻辑块变量面板\n变量更新闪烁\n增加逻辑块所连方块的显示\n\nv1.0.5\n内存块编辑板\n内存值更新闪烁\n新增内存值的二进制形式视察\n实现内存值的十六进制形式编辑\n\nv1.0.6\n新增代码插入相关操作\n实现从剪切板导入代码块到指定位置\n\nv1.0.7\n新增面板的折叠按钮\n修复学术端运行mod导致的面板移位或覆盖\n修复面板横向抖动的bug\n\nv1.0.8\n单步调试面板\n实现代码单步运行调试"
   },
   {
     "repo": "nikisos/thebattlemod",
@@ -8341,7 +8341,7 @@
     "repo": "swirek3331/altanic",
     "name": "Altanic",
     "author": "Świrek",
-    "lastUpdated": "2022-10-28T14:01:53Z",
+    "lastUpdated": "2022-10-28T16:40:45Z",
     "stars": 0,
     "minGameVersion": "137",
     "hasScripts": true,
