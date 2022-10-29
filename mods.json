@@ -212,7 +212,7 @@
     "repo": "meepoffaith/prog-mats-java",
     "name": "Progression Ministry",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progression Ministry enabled to view them!)",
-    "lastUpdated": "2022-10-26T06:27:05Z",
+    "lastUpdated": "2022-10-29T05:55:20Z",
     "stars": 52,
     "minGameVersion": "138",
     "hasScripts": false,
@@ -740,7 +740,7 @@
     "repo": "kayyayeare/dusted-lands",
     "name": "Dusted Lands",
     "author": "KayAyeAre",
-    "lastUpdated": "2022-10-23T08:14:06Z",
+    "lastUpdated": "2022-10-29T05:31:02Z",
     "stars": 17,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -4829,6 +4829,17 @@
     "description": "Oh No Language Edition\n\nauq3yb09e2b 3e2730v4r092ecrwiudwrhfu24n23yjm4y\n\nIt's a language... that's crigne. Ok?"
   },
   {
+    "repo": "yaddrx2/yr2-logic-debugger",
+    "name": "yr2 Logic Debugger",
+    "author": "原作者：DeltaNedas\n修改：yaddrx2",
+    "lastUpdated": "2022-10-28T17:54:12Z",
+    "stars": 3,
+    "minGameVersion": "137",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Logic Debugger\n\n一个逻辑辅助工具\n\n原作DeltaNedas/ldb\n\nyaddrx2将其升级到了137，仅供学习交流使用\n\n当前版本：1.0.8\n\n更新日志\n\nv1.0.1\n将mod版本升为137\n\nv1.0.2\n取消ui-lib的前置\n\nv1.0.3\n逻辑码编辑板\n新增代码语句的文本形式编辑\n\nv1.0.4\n逻辑块变量面板\n变量更新闪烁\n增加逻辑块所连方块的显示\n\nv1.0.5\n内存块编辑板\n内存值更新闪烁\n新增内存值的二进制形式视察\n实现内存值的十六进制形式编辑\n\nv1.0.6\n新增代码插入相关操作\n实现从剪切板导入代码块到指定位置\n\nv1.0.7\n新增面板的折叠按钮\n修复学术端运行mod导致的面板移位或覆盖\n修复面板横向抖动的bug\n\nv1.0.8\n单步调试面板\n实现代码单步运行调试"
+  },
+  {
     "repo": "svan9/svgmods",
     "name": "SVGmods",
     "author": "svan9",
@@ -6160,17 +6171,6 @@
     "description": "Get easy access to components from GoldMod"
   },
   {
-    "repo": "yaddrx2/yr2-logic-debugger",
-    "name": "yr2 Logic Debugger",
-    "author": "原作者：DeltaNedas\n修改：yaddrx2",
-    "lastUpdated": "2022-10-28T17:54:12Z",
-    "stars": 2,
-    "minGameVersion": "137",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Logic Debugger\n\n一个逻辑辅助工具\n\n原作DeltaNedas/ldb\n\nyaddrx2将其升级到了137，仅供学习交流使用\n\n当前版本：1.0.8\n\n更新日志\n\nv1.0.1\n将mod版本升为137\n\nv1.0.2\n取消ui-lib的前置\n\nv1.0.3\n逻辑码编辑板\n新增代码语句的文本形式编辑\n\nv1.0.4\n逻辑块变量面板\n变量更新闪烁\n增加逻辑块所连方块的显示\n\nv1.0.5\n内存块编辑板\n内存值更新闪烁\n新增内存值的二进制形式视察\n实现内存值的十六进制形式编辑\n\nv1.0.6\n新增代码插入相关操作\n实现从剪切板导入代码块到指定位置\n\nv1.0.7\n新增面板的折叠按钮\n修复学术端运行mod导致的面板移位或覆盖\n修复面板横向抖动的bug\n\nv1.0.8\n单步调试面板\n实现代码单步运行调试"
-  },
-  {
     "repo": "gorodmi/shapez",
     "name": "Shapez",
     "author": "gorodmi",
@@ -6895,17 +6895,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Rebuild destroyed base in one click without poly"
-  },
-  {
-    "repo": "driftheque/windstorm",
-    "name": "Windstorm",
-    "author": "Drifted Notes",
-    "lastUpdated": "2022-10-23T00:30:00Z",
-    "stars": 1,
-    "minGameVersion": "138",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "a mindustry mod."
   },
   {
     "repo": "mega2335/pixel-mod",
@@ -8206,6 +8195,17 @@
     "description": "(for v7)"
   },
   {
+    "repo": "kapzduke/windstorm",
+    "name": "Windstorm",
+    "author": "Drifted Notes",
+    "lastUpdated": "2022-10-18T11:49:22Z",
+    "stars": 0,
+    "minGameVersion": "138",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "a mindustry mod."
+  },
+  {
     "repo": "6666dustry/starner",
     "name": "starner",
     "author": "many bear",
@@ -8360,7 +8360,7 @@
     "description": "Displays all bridge links. Helps with bridge weaving"
   },
   {
-    "repo": "emmmm9o/hydrogencore",
+    "repo": "emmmm9o/mindustry-mod-hydrogencore",
     "name": "氢气核心",
     "author": "m9O",
     "lastUpdated": "2022-10-29T03:45:07Z",
