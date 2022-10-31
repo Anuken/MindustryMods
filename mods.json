@@ -48,7 +48,7 @@
     "name": "Exotic Mod",
     "author": "BlueWolf",
     "lastUpdated": "2022-10-28T22:23:46Z",
-    "stars": 123,
+    "stars": 124,
     "minGameVersion": "131",
     "hasScripts": false,
     "hasJava": false,
@@ -125,7 +125,7 @@
     "name": "Unlimited Armament Works",
     "author": "Eschatologue",
     "lastUpdated": "2022-10-31T07:22:09Z",
-    "stars": 71,
+    "stars": 72,
     "minGameVersion": "138",
     "hasScripts": false,
     "hasJava": true,
@@ -1521,7 +1521,7 @@
     "repo": "slava0135/refine",
     "name": "reFine",
     "author": "Slava0135",
-    "lastUpdated": "2022-10-31T09:55:43Z",
+    "lastUpdated": "2022-10-31T11:45:40Z",
     "stars": 9,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1914,7 +1914,7 @@
     "description": "This a mod that can show the hidden item of the item bridge."
   },
   {
-    "repo": "ark-source/project-paradox-public",
+    "repo": "iarkspp/project-paradox-public",
     "name": "Project Paradox [Alpha]",
     "author": "Arkanic)",
     "lastUpdated": "2022-07-21T16:52:01Z",
@@ -3674,6 +3674,17 @@
     "description": "Hi. This mod is work-in-progress, but you can play it, and maybe you will enjoy it. \n There is only a thing. This mod is absolutely not balanced. do not have any expectation of encountering a perfectly balanced thing. All of this mod is or extremely overpowered, or not enought good(principally all is overpowered). Also, the sound effects are not currently implemented and some sprites are missing.Unit factories will come soon!!!"
   },
   {
+    "repo": "yaddrx2/yr2-logic-debugger",
+    "name": "yr2 Logic Debugger",
+    "author": "原作者：DeltaNedas\n修改：yaddrx2",
+    "lastUpdated": "2022-10-31T10:42:05Z",
+    "stars": 4,
+    "minGameVersion": "137",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Logic Debugger\n\n一个逻辑辅助工具\n\n原作DeltaNedas/ldb\n\nyaddrx2将其升级到了137，仅供学习交流使用\n\n当前版本：1.1.0\n\n更新日志\n\nv1.0.1\n将mod版本升为137\n\nv1.0.2\n取消ui-lib的前置\n\nv1.0.3\n逻辑码编辑板\n新增代码语句的文本形式编辑\n\nv1.0.4\n逻辑块变量面板\n变量更新闪烁\n增加逻辑块所连方块的显示\n\nv1.0.5\n内存块编辑板\n内存值更新闪烁\n新增内存值的二进制形式视察\n实现内存值的十六进制形式编辑\n\nv1.0.6\n新增代码插入相关操作\n实现从剪切板导入代码块到指定位置\n\nv1.0.7\n新增面板的折叠按钮\n修复学术端运行mod导致的面板移位或覆盖\n修复面板横向抖动的bug\n\nv1.0.8\n单步调试面板\n实现代码单步运行调试\n\nv1.1.0\n新增调试面板设置断点\n实现运行到下一断点操作"
+  },
+  {
     "repo": "2938137849/mindustrymod",
     "name": "MyMod",
     "author": "bin",
@@ -4112,6 +4123,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Observation is prohibited."
+  },
+  {
+    "repo": "usmp-lancer/funny-explosion",
+    "name": "Funny Explosion",
+    "author": "USMP-lancer",
+    "lastUpdated": "2021-11-01T17:37:41Z",
+    "stars": 3,
+    "minGameVersion": "126",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "replaces all explosion sfx with vine thud"
   },
   {
     "repo": "farmerthanos/rebelflagship",
@@ -4620,7 +4642,7 @@
     "description": "Sorter images schematics generator\nRequires deltanedas/ui-lib"
   },
   {
-    "repo": "ark-source/project-subnautic-",
+    "repo": "iarkspp/project-subnautic-",
     "name": "Project Subnautic",
     "author": "Arkanic, Vector and FordRazer",
     "lastUpdated": "2022-08-05T00:02:13Z",
@@ -4827,17 +4849,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Oh No Language Edition\n\nauq3yb09e2b 3e2730v4r092ecrwiudwrhfu24n23yjm4y\n\nIt's a language... that's crigne. Ok?"
-  },
-  {
-    "repo": "yaddrx2/yr2-logic-debugger",
-    "name": "yr2 Logic Debugger",
-    "author": "原作者：DeltaNedas\n修改：yaddrx2",
-    "lastUpdated": "2022-10-31T05:58:28Z",
-    "stars": 3,
-    "minGameVersion": "137",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Logic Debugger\n\n一个逻辑辅助工具\n\n原作DeltaNedas/ldb\n\nyaddrx2将其升级到了137，仅供学习交流使用\n\n当前版本：1.1.0\n\n更新日志\n\nv1.0.1\n将mod版本升为137\n\nv1.0.2\n取消ui-lib的前置\n\nv1.0.3\n逻辑码编辑板\n新增代码语句的文本形式编辑\n\nv1.0.4\n逻辑块变量面板\n变量更新闪烁\n增加逻辑块所连方块的显示\n\nv1.0.5\n内存块编辑板\n内存值更新闪烁\n新增内存值的二进制形式视察\n实现内存值的十六进制形式编辑\n\nv1.0.6\n新增代码插入相关操作\n实现从剪切板导入代码块到指定位置\n\nv1.0.7\n新增面板的折叠按钮\n修复学术端运行mod导致的面板移位或覆盖\n修复面板横向抖动的bug\n\nv1.0.8\n单步调试面板\n实现代码单步运行调试\n\nv1.1.0\n新增调试面板设置断点\n实现运行到下一断点操作"
   },
   {
     "repo": "svan9/svgmods",
@@ -5643,6 +5654,17 @@
     "description": "A mod that adds a menu which easily allows you to reuse commands"
   },
   {
+    "repo": "tezlm/jskebox",
+    "name": "Jskebox",
+    "author": "ZestyLemonade",
+    "lastUpdated": "2022-04-21T04:06:54Z",
+    "stars": 2,
+    "minGameVersion": "105",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "adds a Jukebox"
+  },
+  {
     "repo": "trrestghgytcftgbcxszd/cheatdustry-135",
     "name": "Fundustry - V7 Extension",
     "author": "TRRESTGHGYTCFTGBCXSZD",
@@ -6169,6 +6191,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Изменяет текстуры предметов для рп города."
+  },
+  {
+    "repo": "theee145/the-new-tech-mod",
+    "name": "The new tech mod",
+    "author": "TheEE145",
+    "lastUpdated": "2022-10-31T09:37:34Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "mod that add more technologies"
   },
   {
     "repo": "sirmachinegun/ebm",
@@ -6917,17 +6950,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "discover the new powed of the aether. allows you to build T6 units. Still work in progress"
-  },
-  {
-    "repo": "theee145/the-new-tech-mod",
-    "name": "The new tech mod",
-    "author": "TheEE145",
-    "lastUpdated": "2022-10-31T09:37:34Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "mod that add more technologies"
   },
   {
     "repo": "nikisos/thebattlemod",
