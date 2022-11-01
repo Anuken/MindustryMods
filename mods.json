@@ -69,7 +69,7 @@
     "repo": "slava0135/revision",
     "name": "reVision",
     "author": "Slava0135",
-    "lastUpdated": "2022-10-31T13:05:39Z",
+    "lastUpdated": "2022-11-01T15:57:21Z",
     "stars": 120,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -465,9 +465,9 @@
     "repo": "blackdeluxecat/mi2-utilities-java",
     "name": "MI2-Utilities Java",
     "author": "BlackDeluxeCat",
-    "lastUpdated": "2022-10-29T09:05:54Z",
+    "lastUpdated": "2022-11-01T15:05:38Z",
     "stars": 25,
-    "minGameVersion": "139",
+    "minGameVersion": "140",
     "hasScripts": false,
     "hasJava": true,
     "description": "# MI2-Utilities Java\n一个原版辅助工具，有爱自取。\n\n安装方法：\n\n- 方法1 在游戏里使用“从github导入”，填BlackDeluxeCat/MI2-Utilities-Java\n- 方法2 进入本mod最新(Lateset)Release，下载文件列表中的MI2-Utilities Java.jar，在游戏里使用“导入文件”，导入所下载的jar。\n- 方法3 若已安装老版本，在游戏里点击mod详情页，重新安装。（仅限移动端）\n\n中文讨论群：875035496\n\n无力为其他语言做本地化，接受pr。\n\n## 特性列表（0.9.5）\n\n### ui\n\n#### 主界面\n- 快捷功能：一键规划重建、透视物流\n- AI辅助控制：挖矿、建造规划、维修、瞄准、拿取物品、跟随镜头。\n- 自动变速器：合乎逻辑的降速，避免低帧影响建筑工作。\n- 该窗口的选项弹窗包含MI2U的大部分选项。\n\n#### 核心信息\n- 原版核心信息+，资源变化折线图\n- 单位计数器\n- 电量条与电网分析\n- 可切换查看其他队伍\n\n#### 小地图\n- 基于原版地图渲染器\n- 可缩放至全图\n- 玩家单位显示名称\n- 点击移动视角\n- 天眼查查找全图地形/建筑\n\n#### 地图信息\n- 大部分地图规则\n- 波次预览工具，强制跳波\n- 详细的波次血量条\n\n#### 逻辑辅助\n- 整理与快捷复制变量名，可使用分隔符\n- 查找与替换变量名\n- 代码块剪切与复制\n\n#### Emoji\n- 一个emoji查阅工具\n\n### Mindow2\n本mod的可拖拽窗口。标题栏可进入选项弹窗、帮助页弹窗，具体请查阅各窗口的帮助页。\n拖拽、吸附等均可通过选项保存。\n\n### 杂项\n- 玩家光标平滑显示\n- 渲染单位血条、逻辑控制、寻路线\n- 维修、超速范围的精致渲染\n- 关闭残骸、单位、射弹、建筑渲染\n- 修改部分方块数值条\n- 更好的方块/单位/地形数值面板\n- 屏边移动视角（桌面端）\n- 添加一套地图筛选器，特色是可复合坐标变换\n- 99.5%的改动可以通过选项关闭\n- MI2U选项存储在$Mindustry/mods/MI2U_Settings/目录下"
@@ -5324,17 +5324,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "nifleysnifley/spaghettimod",
-    "name": "Spaghetti Mod",
-    "author": "Nifley and Spacecheddar",
-    "lastUpdated": "2021-10-02T22:52:19Z",
-    "stars": 2,
-    "minGameVersion": "126",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Various additions by Nifley and Spacecheddar"
-  },
-  {
     "repo": "zzy2357/super-mecha",
     "name": "Super Mecha",
     "author": "zzy2357@outlook.com",
@@ -6477,17 +6466,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "scrap versions of some stuffs in the game. the higher the tier, the more OP they are. Besides, this mod is far from being complete \r\n\n alpha build 2:\n fixed some typos and made all solar panels in this mod build instantly.\r\n\n added carbonised scrap walls"
-  },
-  {
-    "repo": "auseawesome/mindustry-gamebreaker",
-    "name": "Mindustry Gamebreaker",
-    "author": "Auseawesome",
-    "lastUpdated": "2022-02-02T16:41:22Z",
-    "stars": 1,
-    "minGameVersion": "135",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod made to break mindustry"
   },
   {
     "repo": "auseawesome/mindustryplus-agricultureaddon",
@@ -8382,17 +8360,6 @@
     "description": "氢气核心为一些mod提供前置"
   },
   {
-    "repo": "swirek3331/altanic",
-    "name": "Altanic",
-    "author": "Świrek",
-    "lastUpdated": "2022-10-30T11:00:25Z",
-    "stars": 0,
-    "minGameVersion": "137",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "I have come here and made it, for no apparent reason.\nWhat have you expected by downloading this."
-  },
-  {
     "repo": "thomasthings/prime-singularity",
     "name": "Project-Prime-Singularity",
     "author": "Thomas",
@@ -8402,17 +8369,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Test."
-  },
-  {
-    "repo": "7003mars/bridges",
-    "name": "Bridging assistant",
-    "author": "Mars",
-    "lastUpdated": "2022-10-31T02:29:18Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Displays all bridge links. Helps with bridge weaving"
   },
   {
     "repo": "mindustry-qcc/mindustry-magic-mod",
@@ -8435,5 +8391,27 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The remake of gold mod by Slotterlett in java"
+  },
+  {
+    "repo": "7003mars/bridges",
+    "name": "Bridging assistant",
+    "author": "Mars",
+    "lastUpdated": "2022-11-01T14:24:09Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Displays all bridge links. Helps with bridge weaving"
+  },
+  {
+    "repo": "swirek3331/altanic",
+    "name": "Altanic",
+    "author": "Świrek",
+    "lastUpdated": "2022-11-01T15:35:53Z",
+    "stars": 0,
+    "minGameVersion": "137",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "I have come here and made it, for no apparent reason.\nWhat have you expected by downloading this."
   }
 ]
