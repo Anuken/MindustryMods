@@ -143,6 +143,17 @@
     "description": "This mod gives you iron, steel, aluminum, oil processing, and alternative ways of generating materials like titanium and thorium."
   },
   {
+    "repo": "sharlottes/informatis",
+    "name": "Informatis",
+    "author": "Sharlotte",
+    "lastUpdated": "2022-09-29T01:15:05Z",
+    "stars": 68,
+    "minGameVersion": "138",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The mod displays more information in-game, such as unit/building, wave, core, tile, item/unit total info etc"
+  },
+  {
     "repo": "deltanedas/pictologic",
     "name": "PicToLogic",
     "author": "deltanedas, Router and another guy",
@@ -2937,17 +2948,6 @@
     "description": "Our first Mod, adds a whole new set of content and also a tech tree for the planet: Tantros! Keep in mind that this mod is Nowhere Near Done, Forked by Plastel, aiming to contribute to the original mod as much as possible"
   },
   {
-    "repo": "mythril382/thisthing",
-    "name": "This Thing",
-    "author": "Mythril",
-    "lastUpdated": "2022-10-18T21:01:36Z",
-    "stars": 5,
-    "minGameVersion": "139",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds a few logic instructions. No other content for now."
-  },
-  {
     "repo": "cry0flu1d/project-frost-in-java",
     "name": "Project Frost in a Jar",
     "author": "Cry0flu1d & 2356",
@@ -2968,6 +2968,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Logic Debugger\n\n一个逻辑辅助工具\n\n原作DeltaNedas/ldb\n\nyaddrx2将其升级到了137，仅供学习交流使用\n\n当前版本：1.1.1\n\n更新日志\n\nv1.0.1\n将mod版本升为137\n\nv1.0.2\n取消ui-lib的前置\n\nv1.0.3\n逻辑码编辑板\n新增代码语句的文本形式编辑\n\nv1.0.4\n逻辑块变量面板\n变量更新闪烁\n增加逻辑块所连方块的显示\n\nv1.0.5\n内存块编辑板\n内存值更新闪烁\n新增内存值的二进制形式视察\n实现内存值的十六进制形式编辑\n\nv1.0.6\n新增代码插入相关操作\n实现从剪切板导入代码块到指定位置\n\nv1.0.7\n新增面板的折叠按钮\n修复学术端运行mod导致的面板移位或覆盖\n修复面板横向抖动的bug\n\nv1.0.8\n单步调试面板\n实现代码单步运行调试\n\nv1.1.0\n新增调试面板设置断点\n实现运行到下一断点操作\n\nv1.1.1\n新增变量位置指示器\n显示单位变量的flag"
+  },
+  {
+    "repo": "mythril382/thisthing",
+    "name": "This Thing",
+    "author": "Mythril",
+    "lastUpdated": "2022-11-05T07:20:55Z",
+    "stars": 5,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a few logic instructions. No other content for now."
   },
   {
     "repo": "qmelz/loading",
