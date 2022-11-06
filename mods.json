@@ -652,7 +652,7 @@
     "repo": "kayyayeare/dusted-lands",
     "name": "Dusted Lands",
     "author": "KayAyeAre",
-    "lastUpdated": "2022-11-06T09:19:00Z",
+    "lastUpdated": "2022-11-06T11:18:33Z",
     "stars": 20,
     "minGameVersion": "140",
     "hasScripts": false,
@@ -1947,6 +1947,17 @@
     "description": "This a mod that can show the hidden item of the item bridge."
   },
   {
+    "repo": "mythril382/colorednames",
+    "name": "Colored Names",
+    "author": "Mythril",
+    "lastUpdated": "2022-06-21T17:43:42Z",
+    "stars": 7,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds colored names!\n\nSome colors may not be accurate!\nSadly, no colored names for units. I'm working on that."
+  },
+  {
     "repo": "reborntrack970/infinicampaign",
     "name": "InfiniCampaign",
     "author": "RTOmega",
@@ -2266,17 +2277,6 @@
     "description": "A mindustry mod that adds several utility windows.\n\nYou can create windows by pressing the buttons on the master window.\n\nThis mod is created with the help of MKUI library."
   },
   {
-    "repo": "mythril382/colorednames",
-    "name": "Colored Names",
-    "author": "Mythril",
-    "lastUpdated": "2022-06-21T17:43:42Z",
-    "stars": 6,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds colored names!\n\nSome colors may not be accurate!\nSadly, no colored names for units. I'm working on that."
-  },
-  {
     "repo": "notmeepoffaith/dumb-dump",
     "name": "Dumb Dump",
     "author": "notMEEPoffaith",
@@ -2429,6 +2429,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds tools for automatically filling resource patches with drills"
+  },
+  {
+    "repo": "yaddrx2/yr2-logic-debugger",
+    "name": "yr2 Logic Debugger",
+    "author": "原作者：DeltaNedas\n修改：yaddrx2",
+    "lastUpdated": "2022-11-06T11:08:45Z",
+    "stars": 6,
+    "minGameVersion": "137",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Logic Debugger\n\n一个逻辑辅助工具\n\n原作DeltaNedas/ldb\n\nyaddrx2将其升级到了137，仅供学习交流使用\n\n当前版本：1.2.0\n\n更新日志\n\nv1.0.1\n将mod版本升为137\n\nv1.0.2\n取消ui-lib的前置\n\nv1.0.3\n逻辑码编辑板\n新增代码语句的文本形式编辑\n\nv1.0.4\n逻辑块变量面板\n变量更新闪烁\n增加逻辑块所连方块的显示\n\nv1.0.5\n内存块编辑板\n内存值更新闪烁\n新增内存值的二进制形式视察\n实现内存值的十六进制形式编辑\n\nv1.0.6\n新增代码插入相关操作\n实现从剪切板导入代码块到指定位置\n\nv1.0.7\n新增面板的折叠按钮\n修复学术端运行mod导致的面板移位或覆盖\n修复面板横向抖动的bug\n\nv1.0.8\n单步调试面板\n实现代码单步运行调试\n\nv1.1.0\n新增调试面板设置断点\n实现运行到下一断点操作\n\nv1.1.1\n新增变量位置指示器\n显示单位变量的flag"
   },
   {
     "repo": "cyberneticsquid/self-destruct",
@@ -2970,17 +2981,6 @@
     "description": "Adds a few logic instructions. No other content for now."
   },
   {
-    "repo": "yaddrx2/yr2-logic-debugger",
-    "name": "yr2 Logic Debugger",
-    "author": "原作者：DeltaNedas\n修改：yaddrx2",
-    "lastUpdated": "2022-11-06T09:41:54Z",
-    "stars": 5,
-    "minGameVersion": "137",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Logic Debugger\n\n一个逻辑辅助工具\n\n原作DeltaNedas/ldb\n\nyaddrx2将其升级到了137，仅供学习交流使用\n\n当前版本：1.1.1\n\n更新日志\n\nv1.0.1\n将mod版本升为137\n\nv1.0.2\n取消ui-lib的前置\n\nv1.0.3\n逻辑码编辑板\n新增代码语句的文本形式编辑\n\nv1.0.4\n逻辑块变量面板\n变量更新闪烁\n增加逻辑块所连方块的显示\n\nv1.0.5\n内存块编辑板\n内存值更新闪烁\n新增内存值的二进制形式视察\n实现内存值的十六进制形式编辑\n\nv1.0.6\n新增代码插入相关操作\n实现从剪切板导入代码块到指定位置\n\nv1.0.7\n新增面板的折叠按钮\n修复学术端运行mod导致的面板移位或覆盖\n修复面板横向抖动的bug\n\nv1.0.8\n单步调试面板\n实现代码单步运行调试\n\nv1.1.0\n新增调试面板设置断点\n实现运行到下一断点操作\n\nv1.1.1\n新增变量位置指示器\n显示单位变量的flag"
-  },
-  {
     "repo": "qmelz/loading",
     "name": "Loading...",
     "author": "QmelZ",
@@ -3485,6 +3485,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod that added some cool new blocks. https://levi-mindustry-mods-download.webnode.tw/gun-mod/"
+  },
+  {
+    "repo": "stacktrace-error/gas-colorblindness-pack",
+    "name": "Electrolyzer Colorblindness Fix",
+    "author": "null",
+    "lastUpdated": "2022-05-12T18:57:16Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds transpartent letters to the electrolyzer sprite like in the mod's icon. That's it. \nA preview can be found on the mod repository."
   },
   {
     "repo": "mythril382/terraria-sounds",
@@ -4442,17 +4453,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Mindustry mod that allows you to change your team to any of the 256 available teams"
-  },
-  {
-    "repo": "stacktrace-error/gas-colorblindness-pack",
-    "name": "Electrolyzer Colorblindness Fix",
-    "author": "null",
-    "lastUpdated": "2022-05-12T18:57:16Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds transpartent letters to the electrolyzer sprite like in the mod's icon. That's it. \nA preview can be found on the mod repository."
   },
   {
     "repo": "mythril382/self-destruct-core",
@@ -5995,6 +5995,17 @@
     "description": "Turns most text to morse code.\nSet the language to English for the Morse Code to apply."
   },
   {
+    "repo": "blackdeluxecat/schematicparse",
+    "name": "Schematic Parse",
+    "author": "BlackDeluxeCat",
+    "lastUpdated": "2022-08-13T13:34:09Z",
+    "stars": 2,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "从蓝图详情页直接复制逻辑和信息板。蓝图消耗计算套件。\nCopy processor/message in schematic info without placing it. Schematic consumption computing tool. "
+  },
+  {
     "repo": "konkitoman/speedctlman",
     "name": "SpeedCtlMan",
     "author": "konkitoman",
@@ -6653,17 +6664,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "此MOD对两个星球T3核心单位添加了动态效果皮肤，可以在多人服务器上使用"
-  },
-  {
-    "repo": "blackdeluxecat/schematicparse",
-    "name": "Schematic Parse",
-    "author": "BlackDeluxeCat",
-    "lastUpdated": "2022-08-13T13:34:09Z",
-    "stars": 1,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "从蓝图详情页直接复制逻辑和信息板。蓝图消耗计算套件。\nCopy processor/message in schematic info without placing it. Schematic consumption computing tool. "
   },
   {
     "repo": "grvasl/thorium-conveyor-mod",
