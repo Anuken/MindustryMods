@@ -652,7 +652,7 @@
     "repo": "kayyayeare/dusted-lands",
     "name": "Dusted Lands",
     "author": "KayAyeAre",
-    "lastUpdated": "2022-11-05T12:27:40Z",
+    "lastUpdated": "2022-11-06T09:19:00Z",
     "stars": 20,
     "minGameVersion": "140",
     "hasScripts": false,
@@ -1100,6 +1100,17 @@
     "description": "This mod adds some basic factory schematics to your Mindustry. Very useful for novices.\nCompatible with multiplayer!"
   },
   {
+    "repo": "blackdeluxecat/mi2-utilities",
+    "name": "MI2 Utilities",
+    "author": "BlackDeluxeCat",
+    "lastUpdated": "2022-02-20T15:23:31Z",
+    "stars": 11,
+    "minGameVersion": "132",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "# MI2-Utilities Testing\nA Mindustry Mod That Adds Useful Vanilla Utilities. MI2-Client Transplantation.\nMindustry模组，添加一些实用原版辅助。MI2端移植。\n（MI2端的终极目标是Mod化，本Mod是MI2端移植的尝试。会添加怪浪怪浪的新功能。）\n\n# Features 特性列表（won't timely update 不会即时更新）\n1.Hud: /sync, rebuild all, map info entry, MI2's unit hp bar\n2.Map Info(Dialog): check map settings & wave info.\n3.Logic Helper: UI in LogicDialog. Check and sort all var names, split names into snippets with a certain string, click to copy any snippet.\n4.Drag the title to move UI.\n==\n1.HUD界面：/sync，一键重建，地图信息入口，MI2式单位血条显示\n2.地图信息：检视大部分地图属性、下一波出怪情况\n3.逻辑辅助：ui在逻辑编辑器。检视、整理变量名，可使用分隔符对变量名切片。点击切片可复制到剪切板。\n4.UI按住标题拖拽"
+  },
+  {
     "repo": "newestgithubber/commandustry",
     "name": "Commandustry",
     "author": "NewestGitHubber(RandomRA2), SMOLKEYS and JrTRinny",
@@ -1285,17 +1296,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "this mod adds more storages and unloaders, use this mod for complex mod builds, otherwise this mod will be very imbalanced in the game.\n\nCONTACT ME IN DISCORD IF YOU HAVE QUESTIONS: pixecoz#3275\n\nSprites: ?LaIm_Ik?"
-  },
-  {
-    "repo": "blackdeluxecat/mi2-utilities",
-    "name": "MI2 Utilities",
-    "author": "BlackDeluxeCat",
-    "lastUpdated": "2022-02-20T15:23:31Z",
-    "stars": 10,
-    "minGameVersion": "132",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "# MI2-Utilities Testing\nA Mindustry Mod That Adds Useful Vanilla Utilities. MI2-Client Transplantation.\nMindustry模组，添加一些实用原版辅助。MI2端移植。\n（MI2端的终极目标是Mod化，本Mod是MI2端移植的尝试。会添加怪浪怪浪的新功能。）\n\n# Features 特性列表（won't timely update 不会即时更新）\n1.Hud: /sync, rebuild all, map info entry, MI2's unit hp bar\n2.Map Info(Dialog): check map settings & wave info.\n3.Logic Helper: UI in LogicDialog. Check and sort all var names, split names into snippets with a certain string, click to copy any snippet.\n4.Drag the title to move UI.\n==\n1.HUD界面：/sync，一键重建，地图信息入口，MI2式单位血条显示\n2.地图信息：检视大部分地图属性、下一波出怪情况\n3.逻辑辅助：ui在逻辑编辑器。检视、整理变量名，可使用分隔符对变量名切片。点击切片可复制到剪切板。\n4.UI按住标题拖拽"
   },
   {
     "repo": "mnemotechnician/ckat",
@@ -1738,6 +1738,17 @@
     "description": "A Soundpack that changes all sounds and musics from Factorio.\n\nIf you use it with Xeloboyo/Factoriodustry, you can feel more factroio-like.\n(Mod is forted to 137 build.)"
   },
   {
+    "repo": "routerxdd/erekir-extended",
+    "name": "Erekir Extended",
+    "author": "RouterXdd",
+    "lastUpdated": "2022-11-06T09:14:21Z",
+    "stars": 8,
+    "minGameVersion": "140",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Add the new sectors and content on Erekir"
+  },
+  {
     "repo": "zerocore-salamander/hackforall",
     "name": "HackForAll",
     "author": "zeroCore",
@@ -2035,17 +2046,6 @@
     "description": "Stuff."
   },
   {
-    "repo": "routerxdd/erekir-extended",
-    "name": "Erekir Extended",
-    "author": "RouterXdd",
-    "lastUpdated": "2022-11-06T07:03:32Z",
-    "stars": 7,
-    "minGameVersion": "137",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Add the new sectors and content on Erekir"
-  },
-  {
     "repo": "vixelot/facdustrio",
     "name": "Facdustrio",
     "author": "Charlotte, Xelo",
@@ -2242,6 +2242,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A custom mod for 2r2t, \n\nRequires DeltaNedas/ui-lib to work"
+  },
+  {
+    "repo": "k103908/defense-array",
+    "name": "Ruinous Defense Array",
+    "author": "\nK103908 \n\n(Hjsoner, Leader I think) \n\nMeep of Faith\n\n(Spriter, Hjsoner, Lost in scripting hell)\n",
+    "lastUpdated": "2022-05-12T13:33:41Z",
+    "stars": 6,
+    "minGameVersion": "119",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nTurret prices were added, if you have a suggestion in altering them let me know through github as i'm less active on discord. But keep in mind a Unit will be added to help you speed up the building process.\nHellstorm added with TEMPORARY sprite.\n"
   },
   {
     "repo": "mnemotechnician/calculus",
@@ -2948,17 +2959,6 @@
     "description": "A Mindustry Java mod that add a some contents.\n\nSpecial credits to Carrot for offering some sprites."
   },
   {
-    "repo": "yaddrx2/yr2-logic-debugger",
-    "name": "yr2 Logic Debugger",
-    "author": "原作者：DeltaNedas\n修改：yaddrx2",
-    "lastUpdated": "2022-11-04T18:50:28Z",
-    "stars": 5,
-    "minGameVersion": "137",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Logic Debugger\n\n一个逻辑辅助工具\n\n原作DeltaNedas/ldb\n\nyaddrx2将其升级到了137，仅供学习交流使用\n\n当前版本：1.1.1\n\n更新日志\n\nv1.0.1\n将mod版本升为137\n\nv1.0.2\n取消ui-lib的前置\n\nv1.0.3\n逻辑码编辑板\n新增代码语句的文本形式编辑\n\nv1.0.4\n逻辑块变量面板\n变量更新闪烁\n增加逻辑块所连方块的显示\n\nv1.0.5\n内存块编辑板\n内存值更新闪烁\n新增内存值的二进制形式视察\n实现内存值的十六进制形式编辑\n\nv1.0.6\n新增代码插入相关操作\n实现从剪切板导入代码块到指定位置\n\nv1.0.7\n新增面板的折叠按钮\n修复学术端运行mod导致的面板移位或覆盖\n修复面板横向抖动的bug\n\nv1.0.8\n单步调试面板\n实现代码单步运行调试\n\nv1.1.0\n新增调试面板设置断点\n实现运行到下一断点操作\n\nv1.1.1\n新增变量位置指示器\n显示单位变量的flag"
-  },
-  {
     "repo": "mythril382/thisthing",
     "name": "This Thing",
     "author": "Mythril",
@@ -2968,6 +2968,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds a few logic instructions. No other content for now."
+  },
+  {
+    "repo": "yaddrx2/yr2-logic-debugger",
+    "name": "yr2 Logic Debugger",
+    "author": "原作者：DeltaNedas\n修改：yaddrx2",
+    "lastUpdated": "2022-11-06T09:41:54Z",
+    "stars": 5,
+    "minGameVersion": "137",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Logic Debugger\n\n一个逻辑辅助工具\n\n原作DeltaNedas/ldb\n\nyaddrx2将其升级到了137，仅供学习交流使用\n\n当前版本：1.1.1\n\n更新日志\n\nv1.0.1\n将mod版本升为137\n\nv1.0.2\n取消ui-lib的前置\n\nv1.0.3\n逻辑码编辑板\n新增代码语句的文本形式编辑\n\nv1.0.4\n逻辑块变量面板\n变量更新闪烁\n增加逻辑块所连方块的显示\n\nv1.0.5\n内存块编辑板\n内存值更新闪烁\n新增内存值的二进制形式视察\n实现内存值的十六进制形式编辑\n\nv1.0.6\n新增代码插入相关操作\n实现从剪切板导入代码块到指定位置\n\nv1.0.7\n新增面板的折叠按钮\n修复学术端运行mod导致的面板移位或覆盖\n修复面板横向抖动的bug\n\nv1.0.8\n单步调试面板\n实现代码单步运行调试\n\nv1.1.0\n新增调试面板设置断点\n实现运行到下一断点操作\n\nv1.1.1\n新增变量位置指示器\n显示单位变量的flag"
   },
   {
     "repo": "qmelz/loading",
@@ -3677,7 +3688,7 @@
     "repo": "theee145/the-new-tech-mod",
     "name": "The new tech mod",
     "author": "TheEE145",
-    "lastUpdated": "2022-11-05T13:42:33Z",
+    "lastUpdated": "2022-11-06T09:43:45Z",
     "stars": 4,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -5179,6 +5190,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Cheat in MINDUSTRY"
+  },
+  {
+    "repo": "azhurniybaklan/big-blocks",
+    "name": "Big Blocks",
+    "author": "CancerGuy",
+    "lastUpdated": "2021-06-08T08:47:46Z",
+    "stars": 2,
+    "minGameVersion": "122.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Bigger versions of basic blocks. Because I can."
   },
   {
     "repo": "smolkeys/uicu",
