@@ -190,7 +190,7 @@ public class ModUpdater{
                     //skip outdated mods
                     String version = modj.getString("minGameVersion", "104");
                     int minBuild = Strings.parseInt(version.contains(".") ? version.split("\\.")[0] : version, 0);
-                    if(minBuild < 105){
+                    if(minBuild < 136){
                         continue;
                     }
 
