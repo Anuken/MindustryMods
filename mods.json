@@ -246,7 +246,7 @@
     "name": "MI2-Utilities Java",
     "author": "BlackDeluxeCat",
     "lastUpdated": "2022-11-01T15:05:38Z",
-    "stars": 25,
+    "stars": 26,
     "minGameVersion": "140",
     "hasScripts": false,
     "hasJava": true,
@@ -344,7 +344,7 @@
     "repo": "kayyayeare/dusted-lands",
     "name": "Dusted Lands",
     "author": "KayAyeAre",
-    "lastUpdated": "2022-11-11T10:31:30Z",
+    "lastUpdated": "2022-11-12T12:01:02Z",
     "stars": 20,
     "minGameVersion": "140",
     "hasScripts": false,
@@ -363,17 +363,6 @@
     "description": "Добавляет разные штуки для читов\nhttps://vk.com/mindustry_cheat"
   },
   {
-    "repo": "liplum/multicrafterlib",
-    "name": "MultiCrafter Lib",
-    "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2022-10-30T17:47:24Z",
-    "stars": 19,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod library provides a multiple-recipe crafter to produce items, fluids, power or even heat for Json and JavaScript mods.\nPlease check the repository below to learn more.\nWork on both v136 and v137."
-  },
-  {
     "repo": "mq-1175/more-vanilla",
     "name": "More Than Vanilla",
     "author": "M.Q.",
@@ -383,6 +372,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds higher (or lowers) tier of blocks, currently starting with factories. Mod is still in development, more contents coming soon."
+  },
+  {
+    "repo": "liplum/multicrafterlib",
+    "name": "MultiCrafter Lib",
+    "author": "[#42a5f5]Liplum[]",
+    "lastUpdated": "2022-11-12T11:59:58Z",
+    "stars": 19,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod library provides a multiple-recipe crafter to produce items, fluids, power or even heat for Json and JavaScript mods.\nPlease check the repository below to learn more.\nWork on both v136 and v137."
   },
   {
     "repo": "smolkeys/bundles",
@@ -1540,17 +1540,6 @@
     "description": "1. added focus feedback on Element Show & Selection.\n2. fixed a bug memory bug which didn't remove window when it's close.\n3. changed mod data directory.\n4. optimized code.\n5. fixed some of other small bugs.\n---------------------------------\n1. 添加 审查元素 和 选择器 的焦点反馈.\n2. 修复窗口关闭时仍占内存的bug.\n3. 修改的mod数据目录.\n4. 优化代码.\n5. 修复其他一些bug."
   },
   {
-    "repo": "fresh791/floatydustry",
-    "name": "Floatydustry",
-    "author": "\nAuthor: Fresh791\n",
-    "lastUpdated": "2022-10-07T13:32:16Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\nThis mod adds all vanilla turrets as units.\n\nIt is a fun mod and will probably not be all that balanced.\n\n(Just imagine a meltdown flying towards you at 100 mp/h)\n"
-  },
-  {
     "repo": "purplesushi22/mindustry-ohnoandknuckles",
     "name": "Oh no & Knuckles",
     "author": "PurpleSushi22",
@@ -1648,6 +1637,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod."
+  },
+  {
+    "repo": "fresh791/floatydustry",
+    "name": "Floatydustry",
+    "author": "\nAuthor: Fresh791\n",
+    "lastUpdated": "2022-11-12T10:08:55Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nThis mod adds all vanilla turrets as units.\n\nIt is a FUN mod and in no way meant to be balanced!\n\n(Just imagine a meltdown flying towards you at 100 mp/h)\n"
   },
   {
     "repo": "amateurpotion/nuclearjavamod",
@@ -2354,17 +2354,6 @@
     "description": "the remaster of creative cores :D"
   },
   {
-    "repo": "freezemandu/pvp-contest",
-    "name": "PVP 대회용 모드",
-    "author": "Mandu",
-    "lastUpdated": "2022-11-11T03:22:12Z",
-    "stars": 1,
-    "minGameVersion": "138",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "대회용 모드"
-  },
-  {
     "repo": "vvseangtvv/v5-reborn-java",
     "name": "V5 Reborn Java Editon",
     "author": "VvSeanGtvV",
@@ -2396,6 +2385,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds 2 factions"
+  },
+  {
+    "repo": "freezemandu/pvp-contest",
+    "name": "PVP 대회용 모드",
+    "author": "Mandu",
+    "lastUpdated": "2022-11-12T12:04:36Z",
+    "stars": 1,
+    "minGameVersion": "138",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "대회용 모드"
   },
   {
     "repo": "pepa3/mindustrymod",
@@ -2783,17 +2783,6 @@
     "description": "I have come here and made it, for no apparent reason.\nWhat have you expected by downloading this."
   },
   {
-    "repo": "6666dustry/starner",
-    "name": "starner",
-    "author": "many bear",
-    "lastUpdated": "2022-11-12T02:03:07Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "stars are falling..."
-  },
-  {
     "repo": "thomasthings/prime-singularity",
     "name": "Project-Prime-Singularity",
     "author": "Thomas",
@@ -2803,5 +2792,16 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Test."
+  },
+  {
+    "repo": "6666dustry/starner",
+    "name": "starner",
+    "author": "many bear",
+    "lastUpdated": "2022-11-12T11:31:57Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "stars are falling..."
   }
 ]
