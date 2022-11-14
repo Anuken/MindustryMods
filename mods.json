@@ -81,7 +81,7 @@
     "name": "Unlimited Armament Works",
     "author": "Eschatologue",
     "lastUpdated": "2022-10-31T07:22:09Z",
-    "stars": 74,
+    "stars": 75,
     "minGameVersion": "138",
     "hasScripts": false,
     "hasJava": true,
@@ -363,6 +363,17 @@
     "description": "A small mod which adds powders to the game, along with some of turrets, units, and other content."
   },
   {
+    "repo": "mq-1175/more-vanilla",
+    "name": "More Than Vanilla",
+    "author": "M.Q.",
+    "lastUpdated": "2022-11-14T10:11:35Z",
+    "stars": 20,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds higher (or lowers) tier of blocks, currently starting with factories. Mod is still in development, more contents coming soon."
+  },
+  {
     "repo": "paulieg626/cheat",
     "name": "CheatMod",
     "author": "paulieg626",
@@ -627,6 +638,17 @@
     "description": "wip\nif you want to test this download from actions"
   },
   {
+    "repo": "zelaux/bytelogicmod",
+    "name": "Byte Logic Mod",
+    "author": "Zelaux",
+    "lastUpdated": "2022-11-13T19:11:02Z",
+    "stars": 10,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds byte logic blocks from v5"
+  },
+  {
     "repo": "deltanedas/mobile-ui",
     "name": "Mobile UI",
     "author": "deltanedas",
@@ -812,17 +834,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Stuff."
-  },
-  {
-    "repo": "zelaux/bytelogicmod",
-    "name": "Byte Logic Mod",
-    "author": "Zelaux",
-    "lastUpdated": "2022-11-13T19:11:02Z",
-    "stars": 8,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds byte logic blocks from v5"
   },
   {
     "repo": "deltanedas/waisa",
@@ -1023,17 +1034,6 @@
     "description": "Adds tools for automatically filling resource patches with drills"
   },
   {
-    "repo": "yaddrx2/yr2-logic-debugger",
-    "name": "yr2 Logic Debugger",
-    "author": "原作者：DeltaNedas\n修改：yaddrx2",
-    "lastUpdated": "2022-11-10T13:59:22Z",
-    "stars": 6,
-    "minGameVersion": "137",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Logic Debugger\n\n一个逻辑辅助工具\n\n原作DeltaNedas/ldb\n\nyaddrx2将其升级到了137，仅供学习交流使用\n\n当前版本：1.4.1\n\n更新日志\n\nv1.0.1\n将mod版本升为137\n\nv1.0.2\n取消ui-lib的前置\n\nv1.0.3\n逻辑码编辑板\n新增代码语句的文本形式编辑\n\nv1.0.4\n逻辑块变量面板\n变量更新闪烁\n增加逻辑块所连方块的显示\n\nv1.0.5\n内存块编辑板\n内存值更新闪烁\n新增内存值的二进制形式视察\n实现内存值的十六进制形式编辑\n\nv1.0.6\n新增代码插入相关操作\n实现从剪切板导入代码块到指定位置\n\nv1.0.7\n新增面板的折叠按钮\n修复学术端运行mod导致的面板移位或覆盖\n修复面板横向抖动的bug\n\nv1.0.8\n单步调试面板\n实现代码单步运行调试\n\nv1.1.0\n新增调试面板设置断点\n实现运行到下一断点操作\n\nv1.1.1\n新增变量位置指示器\n显示单位变量的flag\n\nv1.2\n新增调试面板的运行位置追踪\n新增功能标签\n\nv1.3\n位置指示器增加变量名\n\nv1.4\n内存块面板增加内存值导入导出"
-  },
-  {
     "repo": "prosta4okua/ukrajinisator",
     "name": "Ukrainian translation",
     "author": "Prosta4ok_ua#6336",
@@ -1054,6 +1054,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Similar to NeonNights, but actually updated."
+  },
+  {
+    "repo": "yaddrx2/yr2-logic-debugger",
+    "name": "yr2 Logic Debugger",
+    "author": "原作者：DeltaNedas\n修改：yaddrx2",
+    "lastUpdated": "2022-11-14T10:30:29Z",
+    "stars": 6,
+    "minGameVersion": "137",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Logic Debugger\n\n一个逻辑辅助工具\n\n原作DeltaNedas/ldb\n\nyaddrx2将其升级到了137，仅供学习交流使用\n\n当前版本：1.4.2\n\n更新日志\n\nv1.0.1\n将mod版本升为137\n\nv1.0.2\n取消ui-lib的前置\n\nv1.0.3\n逻辑码编辑板\n新增代码语句的文本形式编辑\n\nv1.0.4\n逻辑块变量面板\n变量更新闪烁\n增加逻辑块所连方块的显示\n\nv1.0.5\n内存块编辑板\n内存值更新闪烁\n新增内存值的二进制形式视察\n实现内存值的十六进制形式编辑\n\nv1.0.6\n新增代码插入相关操作\n实现从剪切板导入代码块到指定位置\n\nv1.0.7\n新增面板的折叠按钮\n修复学术端运行mod导致的面板移位或覆盖\n修复面板横向抖动的bug\n\nv1.0.8\n单步调试面板\n实现代码单步运行调试\n\nv1.1.0\n新增调试面板设置断点\n实现运行到下一断点操作\n\nv1.1.1\n新增变量位置指示器\n显示单位变量的flag\n\nv1.2\n新增调试面板的运行位置追踪\n新增功能标签\n\nv1.3\n位置指示器增加变量名\n\nv1.4\n内存块面板增加内存值导入导出"
   },
   {
     "repo": "a5tr0spud/astro-additions",
@@ -1191,7 +1202,7 @@
     "repo": "arth0x/aetherunbound",
     "name": "MindusTrinity ",
     "author": "Arth0x",
-    "lastUpdated": "2022-11-14T09:59:31Z",
+    "lastUpdated": "2022-11-14T11:46:18Z",
     "stars": 5,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2277,17 +2288,6 @@
     "description": "Este mod agrega metales y muchas otras cosas más que mejoran la experiencia del juego vanilla."
   },
   {
-    "repo": "koctz34/rust-music-mod",
-    "name": "Music RUST",
-    "author": "koctz34",
-    "lastUpdated": "2022-09-14T20:12:26Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Изменяет музыку из RUST. Не все музыки были взять."
-  },
-  {
     "repo": "stonesteel27/panformobile",
     "name": "pan for mobile",
     "author": "StoneSteel",
@@ -2550,17 +2550,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "添加更多逻辑条：打印缓存处理逻辑"
-  },
-  {
-    "repo": "electronicsarchiver/the-new-tech-mod",
-    "name": "< The new tech mod >",
-    "author": "TheEE145",
-    "lastUpdated": "2022-08-08T12:29:36Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "mod that add more technologies"
   },
   {
     "repo": "cynthion21x/prismaticexperimental",
