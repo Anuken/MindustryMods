@@ -278,9 +278,9 @@
     "repo": "meepoffaith/testing-utilities-java",
     "name": "Testing Utilities",
     "author": "MEEP of Faith",
-    "lastUpdated": "2022-11-18T08:43:15Z",
+    "lastUpdated": "2022-11-18T19:25:08Z",
     "stars": 25,
-    "minGameVersion": "140",
+    "minGameVersion": "140.4",
     "hasScripts": false,
     "hasJava": true,
     "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
@@ -1254,17 +1254,6 @@
     "description": "Our first Mod, adds a whole new set of content and also a tech tree for the planet: Tantros! Keep in mind that this mod is Nowhere Near Done, Forked by Plastel, aiming to contribute to the original mod as much as possible"
   },
   {
-    "repo": "valigaming15/pyra-erekir",
-    "name": "Pyra Erekir",
-    "author": "\nOwner: valigaming15\nHelper: Fresh791\n",
-    "lastUpdated": "2022-11-17T16:36:18Z",
-    "stars": 5,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Pyratite focused mod which adds units turrets and factorys"
-  },
-  {
     "repo": "froomeeth/emiluras-discovery",
     "name": "Serilia's discovery",
     "author": "Froomeeth",
@@ -1274,6 +1263,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "WIP mod, there a lots of unfinished/bugged content, will update with more content, sprite reworks and bug fixes."
+  },
+  {
+    "repo": "valigaming15/pyra-erekir",
+    "name": "Pyra Erekir",
+    "author": "\nOwner: valigaming15\nHelper: Fresh791\n",
+    "lastUpdated": "2022-11-18T18:21:05Z",
+    "stars": 5,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Pyratite focused mod which adds units turrets and factorys"
   },
   {
     "repo": "deltanedas/radar",
@@ -2596,17 +2596,6 @@
     "description": "\nwelcome to 'starner'!\n\nthis mod add wonderful content.\n\nsmall turret which spreads star.\n\nbig unit which spreads star.\n\nfactory which spreads star.\n\n...have fun!\n\n\n\nstars are falling...\n\nstill falling...\n"
   },
   {
-    "repo": "otamamori917/axthrix-modded2",
-    "name": "Axthrix",
-    "author": "Otamamori#4716",
-    "lastUpdated": "2022-11-18T00:44:15Z",
-    "stars": 1,
-    "minGameVersion": "140.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A very beta and cool mod great stuff but grindy. Requires Liplum/MultiCrafter lib"
-  },
-  {
     "repo": "grvasl/thorium-conveyor-mod",
     "name": "thorium conveyor",
     "author": "tester124",
@@ -2621,12 +2610,23 @@
     "repo": "freezemandu/pvp-contest",
     "name": "PVP 대회용 모드",
     "author": "Mandu",
-    "lastUpdated": "2022-11-18T15:24:29Z",
+    "lastUpdated": "2022-11-18T18:19:39Z",
     "stars": 1,
     "minGameVersion": "138",
     "hasScripts": true,
     "hasJava": false,
     "description": "대회용 모드"
+  },
+  {
+    "repo": "otamamori917/axthrix-modded2",
+    "name": "Axthrix",
+    "author": "Otamamori#4716",
+    "lastUpdated": "2022-11-18T19:04:43Z",
+    "stars": 1,
+    "minGameVersion": "140.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A very beta and cool mod great stuff but grindy. Requires Liplum/MultiCrafter lib"
   },
   {
     "repo": "pepa3/mindustrymod",
@@ -2948,28 +2948,6 @@
     "description": "Displays all bridge links. Helps with bridge weaving"
   },
   {
-    "repo": "swirek3331/altanic",
-    "name": "Altanic",
-    "author": "Świrek",
-    "lastUpdated": "2022-11-17T16:22:00Z",
-    "stars": 0,
-    "minGameVersion": "137",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "I have come here and made it, for no apparent reason.\nWhat have you expected by downloading this?\n\nNo, seriously, what? I am curious."
-  },
-  {
-    "repo": "valkovy/marsiummodmindustry",
-    "name": "MarsiumMod",
-    "author": "ValkovY",
-    "lastUpdated": "2022-11-17T16:55:25Z",
-    "stars": 0,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Java mod for Industry on v7."
-  },
-  {
     "repo": "ulwepo/sakura-japanese-mod",
     "name": "Sakuraサーバー日本語化mod",
     "author": "Sakura",
@@ -2979,5 +2957,38 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Sakuraのメンバーで翻訳した日本語化modです。"
+  },
+  {
+    "repo": "swirek3331/altanic",
+    "name": "Altanic",
+    "author": "Świrek",
+    "lastUpdated": "2022-11-18T18:12:21Z",
+    "stars": 0,
+    "minGameVersion": "137",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "I have come here and made it, for no apparent reason.\nWhat have you expected by downloading this?\n\nNo, seriously, what? I am curious."
+  },
+  {
+    "repo": "siede2010/modexhiber",
+    "name": "Exhiber",
+    "author": "Siede & Vdoble & Thomas the Cat",
+    "lastUpdated": "2022-11-18T18:32:49Z",
+    "stars": 0,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod "
+  },
+  {
+    "repo": "valkovy/marsiummodmindustry",
+    "name": "MarsiumMod",
+    "author": "ValkovY",
+    "lastUpdated": "2022-11-18T20:00:06Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Java mod for Industry on v7."
   }
 ]
