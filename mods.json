@@ -26,7 +26,7 @@
     "name": "New Horizon",
     "author": "Yuria",
     "lastUpdated": "2022-10-09T05:16:03Z",
-    "stars": 187,
+    "stars": 188,
     "minGameVersion": "139",
     "hasScripts": false,
     "hasJava": true,
@@ -70,7 +70,7 @@
     "name": "Cyber IO",
     "author": "[#42a5f5]Liplum[]",
     "lastUpdated": "2022-10-31T06:26:29Z",
-    "stars": 89,
+    "stars": 90,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": true,
@@ -81,7 +81,7 @@
     "name": "Time Control",
     "author": "sk7725",
     "lastUpdated": "2022-08-19T23:46:56Z",
-    "stars": 83,
+    "stars": 84,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
@@ -92,7 +92,7 @@
     "name": "Unlimited Armament Works",
     "author": "Eschatologue",
     "lastUpdated": "2022-10-31T07:22:09Z",
-    "stars": 76,
+    "stars": 77,
     "minGameVersion": "138",
     "hasScripts": false,
     "hasJava": true,
@@ -102,7 +102,7 @@
     "repo": "sharlottes/informatis",
     "name": "Informatis",
     "author": "Sharlotte",
-    "lastUpdated": "2022-11-19T15:58:52Z",
+    "lastUpdated": "2022-11-19T16:44:52Z",
     "stars": 69,
     "minGameVersion": "140",
     "hasScripts": false,
@@ -847,17 +847,6 @@
     "description": "A Soundpack that changes all sounds and musics from Factorio.\n\nIf you use it with Xeloboyo/Factoriodustry, you can feel more factroio-like.\n(Mod is forted to 137 build.)"
   },
   {
-    "repo": "routerxdd/erekir-extended",
-    "name": "Erekir Extended",
-    "author": "RouterXdd",
-    "lastUpdated": "2022-11-06T09:14:21Z",
-    "stars": 8,
-    "minGameVersion": "140",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Add the new sectors and content on Erekir"
-  },
-  {
     "repo": "uujuju1/monolith",
     "name": "Flow",
     "author": "Uujuju",
@@ -867,6 +856,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Stuff."
+  },
+  {
+    "repo": "routerxdd/erekir-extended",
+    "name": "Erekir Extended",
+    "author": "RouterXdd",
+    "lastUpdated": "2022-11-19T17:41:27Z",
+    "stars": 8,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Add the new sectors and content on Erekir"
   },
   {
     "repo": "deltanedas/waisa",
@@ -1081,18 +1081,18 @@
     "repo": "yaddrx2/yr2-logic-debugger",
     "name": "yr2 Logic Debugger",
     "author": "原作者：DeltaNedas\n修改：yaddrx2",
-    "lastUpdated": "2022-11-15T09:35:22Z",
+    "lastUpdated": "2022-11-19T17:51:45Z",
     "stars": 6,
     "minGameVersion": "137",
     "hasScripts": true,
     "hasJava": false,
-    "description": "Logic Debugger\n\n一个逻辑辅助工具\n\n原作DeltaNedas/ldb\n\nyaddrx2将其升级到了137，仅供学习交流使用\n\n当前版本：1.5.0\n\n更新日志\n\nv1.0.1\n将mod版本升为137\n\nv1.0.2\n取消ui-lib的前置\n\nv1.0.3\n逻辑码编辑板\n新增代码语句的文本形式编辑\n\nv1.0.4\n逻辑块变量面板\n变量更新闪烁\n增加逻辑块所连方块的显示\n\nv1.0.5\n内存块编辑板\n内存值更新闪烁\n新增内存值的二进制形式视察\n实现内存值的十六进制形式编辑\n\nv1.0.6\n新增代码插入相关操作\n实现从剪切板导入代码块到指定位置\n\nv1.0.7\n新增面板的折叠按钮\n修复学术端运行mod导致的面板移位或覆盖\n修复面板横向抖动的bug\n\nv1.0.8\n单步调试面板\n实现代码单步运行调试\n\nv1.1.0\n新增调试面板设置断点\n实现运行到下一断点操作\n\nv1.1.1\n新增变量位置指示器\n显示单位变量的flag\n\nv1.2\n新增调试面板的运行位置追踪\n新增功能标签\n\nv1.3\n位置指示器增加变量名\n\nv1.4\n内存块面板增加内存值导入导出\n\nv1.5\n变量面板增加变量值导出"
+    "description": "Logic Debugger\n\n一个逻辑辅助工具\n\n原作DeltaNedas/ldb\n\nyaddrx2将其升级到了137，仅供学习交流使用\n\n当前版本：1.5.3\n\n更新日志\n\nv1.0.1\n将mod版本升为137\n\nv1.0.2\n取消ui-lib的前置\n\nv1.0.3\n逻辑码编辑板\n新增代码语句的文本形式编辑\n\nv1.0.4\n逻辑块变量面板\n变量更新闪烁\n增加逻辑块所连方块的显示\n\nv1.0.5\n内存块编辑板\n内存值更新闪烁\n新增内存值的二进制形式视察\n实现内存值的十六进制形式编辑\n\nv1.0.6\n新增代码插入相关操作\n实现从剪切板导入代码块到指定位置\n\nv1.0.7\n新增面板的折叠按钮\n修复学术端运行mod导致的面板移位或覆盖\n修复面板横向抖动的bug\n\nv1.0.8\n单步调试面板\n实现代码单步运行调试\n\nv1.1.0\n新增调试面板设置断点\n实现运行到下一断点操作\n\nv1.1.1\n新增变量位置指示器\n显示单位变量的flag\n\nv1.2\n新增调试面板的运行位置追踪\n新增功能标签\n\nv1.3\n位置指示器增加变量名\n\nv1.4\n内存块面板增加内存值导入导出\n\nv1.5\n变量面板增加变量值导出"
   },
   {
     "repo": "arth0x/mindustrinity",
     "name": "MindusTrinity ",
     "author": "Arth0x",
-    "lastUpdated": "2022-11-19T00:13:15Z",
+    "lastUpdated": "2022-11-19T18:01:35Z",
     "stars": 6,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1279,7 +1279,7 @@
     "repo": "valigaming15/pyra-erekir",
     "name": "Pyra Erekir",
     "author": "\nOwner: vali#5378\nHelper: Fresh791\n",
-    "lastUpdated": "2022-11-19T13:27:12Z",
+    "lastUpdated": "2022-11-19T17:49:00Z",
     "stars": 5,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1461,6 +1461,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "mod that add more technologies"
+  },
+  {
+    "repo": "shimyytrov/turret-expansion",
+    "name": "Turret Expansion",
+    "author": "Shimyytrov Modding Team",
+    "lastUpdated": "2022-11-19T16:27:27Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod adds more turrets."
   },
   {
     "repo": "spaceearthex/banana",
@@ -2629,17 +2640,6 @@
     "description": "A very beta and cool mod great stuff but grindy. Requires Liplum/MultiCrafter lib"
   },
   {
-    "repo": "theunstableguy/futuristic-warfare",
-    "name": "futuristic-warfare",
-    "author": "Aegires",
-    "lastUpdated": "2022-11-19T04:25:01Z",
-    "stars": 1,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Small mod that adds some content. Do not expect a working mod yet. Discord: https://discord.gg/cwCqPJyF"
-  },
-  {
     "repo": "emmmm9o/mindustry-mod-hydrogencore-java",
     "name": "氢气核心java",
     "author": "m9O",
@@ -2649,6 +2649,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "氢气核心为一些mod提供前置"
+  },
+  {
+    "repo": "theunstableguy/futuristic-warfare",
+    "name": "futuristic-warfare",
+    "author": "Aegires",
+    "lastUpdated": "2022-11-19T16:33:38Z",
+    "stars": 1,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Small mod that adds some content. Do not expect a working mod yet. Discord: https://discord.gg/cwCqPJyF"
   },
   {
     "repo": "pepa3/mindustrymod",
