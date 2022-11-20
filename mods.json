@@ -246,7 +246,7 @@
     "name": "Advancements",
     "author": "AureusStratus",
     "lastUpdated": "2022-11-06T19:25:34Z",
-    "stars": 27,
+    "stars": 28,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": false,
@@ -1089,17 +1089,6 @@
     "description": "Logic Debugger\n\n一个逻辑辅助工具\n\n原作DeltaNedas/ldb\n\nyaddrx2将其升级到了137，仅供学习交流使用\n\n当前版本：1.5.3\n\n更新日志\n\nv1.0.1\n将mod版本升为137\n\nv1.0.2\n取消ui-lib的前置\n\nv1.0.3\n逻辑码编辑板\n新增代码语句的文本形式编辑\n\nv1.0.4\n逻辑块变量面板\n变量更新闪烁\n增加逻辑块所连方块的显示\n\nv1.0.5\n内存块编辑板\n内存值更新闪烁\n新增内存值的二进制形式视察\n实现内存值的十六进制形式编辑\n\nv1.0.6\n新增代码插入相关操作\n实现从剪切板导入代码块到指定位置\n\nv1.0.7\n新增面板的折叠按钮\n修复学术端运行mod导致的面板移位或覆盖\n修复面板横向抖动的bug\n\nv1.0.8\n单步调试面板\n实现代码单步运行调试\n\nv1.1.0\n新增调试面板设置断点\n实现运行到下一断点操作\n\nv1.1.1\n新增变量位置指示器\n显示单位变量的flag\n\nv1.2\n新增调试面板的运行位置追踪\n新增功能标签\n\nv1.3\n位置指示器增加变量名\n\nv1.4\n内存块面板增加内存值导入导出\n\nv1.5\n变量面板增加变量值导出"
   },
   {
-    "repo": "arth0x/mindustrinity",
-    "name": "MindusTrinity ",
-    "author": "Arth0x",
-    "lastUpdated": "2022-11-19T18:48:55Z",
-    "stars": 6,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Rise and shine 3 new elements appeared"
-  },
-  {
     "repo": "froomeeth/emiluras-discovery",
     "name": "Serilia's discovery",
     "author": "Froomeeth",
@@ -1109,6 +1098,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "WIP mod, there a lots of unfinished/bugged content, will update with more content, sprite reworks and bug fixes."
+  },
+  {
+    "repo": "arth0x/mindustrinity",
+    "name": "MindusTrinity ",
+    "author": "Arth0x",
+    "lastUpdated": "2022-11-20T02:34:06Z",
+    "stars": 6,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Rise and shine 3 new elements appeared"
   },
   {
     "repo": "mythril382/terraria-sounds",
@@ -2640,17 +2640,6 @@
     "description": "A very beta and cool mod great stuff but grindy. Requires Liplum/MultiCrafter lib"
   },
   {
-    "repo": "emmmm9o/mindustry-mod-hydrogencore-java",
-    "name": "氢气核心java",
-    "author": "m9O",
-    "lastUpdated": "2022-11-19T12:53:48Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "氢气核心为一些mod提供前置"
-  },
-  {
     "repo": "theunstableguy/futuristic-warfare",
     "name": "futuristic-warfare",
     "author": "Aegires",
@@ -2660,6 +2649,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Small mod that adds some content. Do not expect a working mod yet. Discord: https://discord.gg/cwCqPJyF"
+  },
+  {
+    "repo": "emmmm9o/mindustry-mod-hydrogencore-java",
+    "name": "氢气核心java",
+    "author": "m9O",
+    "lastUpdated": "2022-11-20T02:50:36Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "氢气核心为一些mod提供前置"
   },
   {
     "repo": "pepa3/mindustrymod",
@@ -3014,17 +3014,6 @@
     "description": "Java mod for Industry on v7."
   },
   {
-    "repo": "yunatexya/mptv2modre-hjson",
-    "name": "MPTv2 Mod RE [Made by hjson]",
-    "author": "ゆなてゃ",
-    "lastUpdated": "2022-11-19T21:51:38Z",
-    "stars": 0,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Add a Metren tech content and Processing technology.."
-  },
-  {
     "repo": "yunatexya/mptv2modre-java",
     "name": "MPTv2 Mod RE",
     "author": "ゆなてゃ",
@@ -3033,6 +3022,17 @@
     "minGameVersion": "140",
     "hasScripts": false,
     "hasJava": true,
+    "description": "Add a Metren tech content and Processing technology.."
+  },
+  {
+    "repo": "yunatexya/mptv2modre-hjson",
+    "name": "MPTv2 Mod RE [Made by hjson]",
+    "author": "ゆなてゃ",
+    "lastUpdated": "2022-11-20T01:16:01Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
     "description": "Add a Metren tech content and Processing technology.."
   }
 ]
