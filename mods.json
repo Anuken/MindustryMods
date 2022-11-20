@@ -168,7 +168,7 @@
     "repo": "fresh791/fading-revelations",
     "name": "Fading Revelations",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 / Froomeeth\n- Lore: iori / Fresh791\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2022-11-20T07:48:12Z",
+    "lastUpdated": "2022-11-20T08:21:10Z",
     "stars": 50,
     "minGameVersion": "140",
     "hasScripts": true,
@@ -374,17 +374,6 @@
     "description": "A Mindustry mod library provides a multiple-recipe crafter to produce items, fluids, power or even heat for Json and JavaScript mods.\nPlease check the repository below to learn more.\nWork on both v136 and v137."
   },
   {
-    "repo": "kayyayeare/dusted-lands",
-    "name": "Dusted Lands",
-    "author": "KayAyeAre",
-    "lastUpdated": "2022-11-19T12:42:58Z",
-    "stars": 20,
-    "minGameVersion": "140.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A small mod which adds powders to the game, along with some of turrets, units, and other content."
-  },
-  {
     "repo": "mq-1175/more-vanilla",
     "name": "More Than Vanilla",
     "author": "M.Q.",
@@ -394,6 +383,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds higher (or lowers) tier of blocks. Mod is still in development, more contents coming soon."
+  },
+  {
+    "repo": "kayyayeare/dusted-lands",
+    "name": "Dusted Lands",
+    "author": "KayAyeAre",
+    "lastUpdated": "2022-11-20T08:17:23Z",
+    "stars": 20,
+    "minGameVersion": "140.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A small mod which adds powders to the game, along with some of turrets, units, and other content."
   },
   {
     "repo": "paulieg626/cheat",
@@ -433,7 +433,7 @@
     "name": "Universe Core",
     "author": "EBwilson",
     "lastUpdated": "2022-11-20T03:44:27Z",
-    "stars": 16,
+    "stars": 17,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": true,
@@ -462,6 +462,17 @@
     "description": "Adds a console ui superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more,\na good log panel, execution history - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
   },
   {
+    "repo": "zelaux/bytelogicmod",
+    "name": "Byte Logic Mod",
+    "author": "Zelaux",
+    "lastUpdated": "2022-11-18T15:38:20Z",
+    "stars": 15,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds byte logic blocks from v5"
+  },
+  {
     "repo": "asheskaiser-kr/mindustry-ages",
     "name": "Mindustry: Ages",
     "author": "AshesKaiser",
@@ -482,17 +493,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts"
-  },
-  {
-    "repo": "zelaux/bytelogicmod",
-    "name": "Byte Logic Mod",
-    "author": "Zelaux",
-    "lastUpdated": "2022-11-18T15:38:20Z",
-    "stars": 14,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds byte logic blocks from v5"
   },
   {
     "repo": "riccj/minertools",
@@ -968,6 +968,17 @@
     "description": "Survive on sand island and expand by placing land on water around "
   },
   {
+    "repo": "pointifix/autodrill",
+    "name": "AutoDrill",
+    "author": "Pointifix",
+    "lastUpdated": "2022-11-03T19:04:48Z",
+    "stars": 7,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds tools for automatically filling resource patches with drills"
+  },
+  {
     "repo": "yellowafterlife/mindustry-tiny-things",
     "name": "Tiny Things",
     "author": "YellowAfterlife",
@@ -1054,17 +1065,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Texture pack with HD sprites"
-  },
-  {
-    "repo": "pointifix/autodrill",
-    "name": "AutoDrill",
-    "author": "Pointifix",
-    "lastUpdated": "2022-11-03T19:04:48Z",
-    "stars": 6,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds tools for automatically filling resource patches with drills"
   },
   {
     "repo": "prosta4okua/ukrajinisator",
@@ -1279,12 +1279,12 @@
     "repo": "valigaming15/pyra-erekir",
     "name": "Pyra Erekir",
     "author": "\nOwner: vali#5378\nHelper: Fresh791\n",
-    "lastUpdated": "2022-11-19T17:49:00Z",
+    "lastUpdated": "2022-11-20T09:47:26Z",
     "stars": 5,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": false,
-    "description": "Pyratite focused mod which adds units turrets and factorys"
+    "description": "Pyratite focused mod which adds units turrets drills and factorys"
   },
   {
     "repo": "deltanedas/radar",
@@ -1441,6 +1441,17 @@
     "description": "Decaling is destroying all thing. Or not?"
   },
   {
+    "repo": "vvseangtvv/v5-reborn-java",
+    "name": "V5 Reborn Java Editon",
+    "author": "VvSeanGtvV",
+    "lastUpdated": "2022-11-12T18:49:05Z",
+    "stars": 4,
+    "minGameVersion": "138",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry V5-Classic Mod imported for Java, currently it has more functions than v5 mod in hjson"
+  },
+  {
     "repo": "bloool/specialworksjava",
     "name": "Special Works Java",
     "author": "blool",
@@ -1461,6 +1472,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "mod that add more technologies"
+  },
+  {
+    "repo": "nezerit6/stuasut",
+    "name": "Stuasut",
+    "author": "Eternity",
+    "lastUpdated": "2022-11-19T09:44:32Z",
+    "stars": 4,
+    "minGameVersion": "140.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "no"
   },
   {
     "repo": "shimyytrov/turret-expansion",
@@ -1782,17 +1804,6 @@
     "description": "A simple mod allowing trading one metal for the next"
   },
   {
-    "repo": "vvseangtvv/v5-reborn-java",
-    "name": "V5 Reborn Java Editon",
-    "author": "VvSeanGtvV",
-    "lastUpdated": "2022-11-12T18:49:05Z",
-    "stars": 3,
-    "minGameVersion": "138",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry V5-Classic Mod imported for Java, currently it has more functions than v5 mod in hjson"
-  },
-  {
     "repo": "vernaon/mindustry-admin-button",
     "name": "Admin button",
     "author": "NothingImportant",
@@ -1826,15 +1837,15 @@
     "description": "Oh no Language Edition\nme when I get back with you to the same hour and then we could have been trying for a long way to the word out about the position and I am a lot more to do it for you\n\nNot actually a language; it is incredibly cringe English.\n\nAlso may include autocorrected words.\n\nWill NOT be worked on consistently due to unexplainable reasons.\n\nWill also try to edit all languages. North Korea is not safe.\n\nSo again, me when the word out of town for the word and PowerPoint presentation on a lot of the day of school for a while to respond and let them in the botto the botto a lot to do it for a while\n"
   },
   {
-    "repo": "nezerit6/stuasut",
-    "name": "Stuasut",
-    "author": "Eternity",
-    "lastUpdated": "2022-11-19T09:44:32Z",
+    "repo": "xjamiex/creativecores-reborn",
+    "name": "Creative Cores : Reborn",
+    "author": "xjammuux",
+    "lastUpdated": "2022-11-19T04:36:05Z",
     "stars": 3,
-    "minGameVersion": "140.3",
+    "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
-    "description": "no"
+    "description": "the remaster of creative cores :D"
   },
   {
     "repo": "amateurpotion/nuclearjavamod",
@@ -2090,6 +2101,17 @@
     "description": "An advanced UI Debugger that lets you do various things,\nstarting from viewing the element bounds and ending with reflectively modifying the properties of every element.\n\nThis mod is unfinished and may contain some bugs or unfinished features.\n\nYou can access the menu of this mod by clicking the \"UI Debugger\" button in the main menu.\nYou can also view this menu in a separate window by clicking the respective button."
   },
   {
+    "repo": "darkjune0122/javelinunit",
+    "name": "Javelin Unit Mod",
+    "author": "DarkJune",
+    "lastUpdated": "2022-10-10T09:04:21Z",
+    "stars": 2,
+    "minGameVersion": "138",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mindustry mod, that adds javelin unit to your game"
+  },
+  {
     "repo": "floppa-coder/ironextened",
     "name": "Iron Extended",
     "author": "Floppa",
@@ -2211,6 +2233,28 @@
     "description": "Add more Canvases"
   },
   {
+    "repo": "lyrgo/awz_mod",
+    "name": "Awz",
+    "author": "lyr",
+    "lastUpdated": "2022-11-16T10:43:42Z",
+    "stars": 2,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "选材在社区的一个模组"
+  },
+  {
+    "repo": "6666dustry/starner",
+    "name": "starner",
+    "author": "many bear",
+    "lastUpdated": "2022-11-17T05:25:10Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\nwelcome to 'starner'!\n\nthis mod add wonderful content.\n\nsmall turret which spreads star.\n\nbig unit which spreads star.\n\nfactory which spreads star.\n\n...have fun!\n\n\n\nstars are falling...\n\nstill falling...\n"
+  },
+  {
     "repo": "cyanronan/randomthings",
     "name": "RandomThings",
     "author": "[#FBC02D]Cyan;[]",
@@ -2233,17 +2277,6 @@
     "description": "Versions\nBETA 0.4.2\n\n\nFeatures\nthanks to the developers - Fading Revelations\nthe idea is taken from them\n\n\nLanguages\n- English\n\n\nCheck GitHub \nfor more information!"
   },
   {
-    "repo": "xjamiex/creativecores-reborn",
-    "name": "Creative Cores : Reborn",
-    "author": "xjammuux",
-    "lastUpdated": "2022-11-19T04:36:05Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "the remaster of creative cores :D"
-  },
-  {
     "repo": "i-hope1/betterjs",
     "name": "BetterJS",
     "author": "I hope...",
@@ -2255,15 +2288,26 @@
     "description": "1. 优化js的运行效率\n2. 添加一些js方法，如访问私有，方法优先（全部在$AX里）"
   },
   {
+    "repo": "thomasthings/xenacia",
+    "name": "Xenacia",
+    "author": "Thomas",
+    "lastUpdated": "2022-11-20T04:08:10Z",
+    "stars": 2,
+    "minGameVersion": "140.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Test."
+  },
+  {
     "repo": "hbuddz/budzy-s",
     "name": "Compress this!",
     "author": "Coding - hbuddz\nSprites - hbuddz & his twot of a brother",
-    "lastUpdated": "2022-11-20T04:46:31Z",
+    "lastUpdated": "2022-11-20T08:31:34Z",
     "stars": 2,
     "minGameVersion": "140.0",
     "hasScripts": false,
     "hasJava": false,
-    "description": "Compress all the things! new conveyors, walls, crafters and more! \n\nCheck out the discord if you have any ideas or issues --> https://discord.gg/9Ze2xhdMc9\n\n(Please be patient with updates, as I have no f@*#ing clue what im doing!)\n\nEnjoy :)"
+    "description": "Compress all the things! new conveyors, walls, crafters and more! \n\nCheck out the discord if you have any ideas or issues --> https://discord.gg/Rfr2s8bQd9\n\n(Please be patient with updates, as I have no f@*#ing clue what im doing!)\n\nEnjoy :)"
   },
   {
     "repo": "explerhd/unnamedmods",
@@ -2398,6 +2442,17 @@
     "description": "Adds Panning option to move without the avatar from mobile."
   },
   {
+    "repo": "manuwar73/remodeled_industry-java",
+    "name": "Remodeled industry java",
+    "author": "ManuWar73",
+    "lastUpdated": "2022-09-18T17:25:51Z",
+    "stars": 1,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Java port of remodeled industry"
+  },
+  {
     "repo": "kong-kong-ru-ye/my-fantasy-experience",
     "name": "只有翻译",
     "author": "自由",
@@ -2442,17 +2497,6 @@
     "description": "makes blocks smol"
   },
   {
-    "repo": "darkjune0122/javelinunit",
-    "name": "Javelin Unit Mod",
-    "author": "DarkJune",
-    "lastUpdated": "2022-10-10T09:04:21Z",
-    "stars": 1,
-    "minGameVersion": "138",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mindustry mod, that adds javelin unit to your game"
-  },
-  {
     "repo": "skyksit/hellomod",
     "name": "Hello Mod",
     "author": "skyksit@gmail.com",
@@ -2462,6 +2506,28 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "my mindustry mod, i like mindustry"
+  },
+  {
+    "repo": "redmountain0/zephirum",
+    "name": "Zephirum",
+    "author": "RedMountain",
+    "lastUpdated": "2022-10-15T06:44:50Z",
+    "stars": 1,
+    "minGameVersion": "139",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Test Mod. (1.0)"
+  },
+  {
+    "repo": "manuwar73/remodeled-industry-java",
+    "name": "Remodeled Industry java",
+    "author": "[#8738ff]ManuWar73[]",
+    "lastUpdated": "2022-10-15T16:56:41Z",
+    "stars": 1,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Remodeled industry(the hjson mod) Is going to port to java(Maybe this will take some months/years)"
   },
   {
     "repo": "mr-password/fresh",
@@ -2541,6 +2607,28 @@
     "description": "Minecraft in mindustry"
   },
   {
+    "repo": "stacktrace-error/the-hearth",
+    "name": "The Hearth",
+    "author": "Null",
+    "lastUpdated": "2022-11-02T00:20:45Z",
+    "stars": 1,
+    "minGameVersion": "136.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
+  },
+  {
+    "repo": "exploitation-team/gold-mod-remake",
+    "name": "Gold mod Remake",
+    "author": "Exploitation Team",
+    "lastUpdated": "2022-11-12T12:11:53Z",
+    "stars": 1,
+    "minGameVersion": "140.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The remake of gold mod by Slotterlett in java"
+  },
+  {
     "repo": "alphajred1/federal-x-mod",
     "name": "Federal-X Mod",
     "author": "AJR1",
@@ -2550,6 +2638,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Extends the Serpulo Tech with monoliths, semi-guardians, turrets and all whatnot."
+  },
+  {
+    "repo": "tripletoxic/math-stuff",
+    "name": "Math-stuff",
+    "author": "Triple-Toxic",
+    "lastUpdated": "2022-11-14T14:56:48Z",
+    "stars": 1,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "More math stuff"
   },
   {
     "repo": "balam314/flarogus-mod",
@@ -2563,17 +2662,6 @@
     "description": "Adds flarogus to Mindustry."
   },
   {
-    "repo": "lyrgo/awz_mod",
-    "name": "Awz",
-    "author": "lyr",
-    "lastUpdated": "2022-11-16T10:43:42Z",
-    "stars": 1,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "选材在社区的一个模组"
-  },
-  {
     "repo": "slotterleet/example-planet-json",
     "name": "JSON Example Planet",
     "author": "Slotterleet",
@@ -2585,15 +2673,15 @@
     "description": "This planet has (almost) every single field you can declare in JSON planets. Press the \"Repo\" button below to see the source code.\n\nThis is NOT meant to be played."
   },
   {
-    "repo": "6666dustry/starner",
-    "name": "starner",
-    "author": "many bear",
-    "lastUpdated": "2022-11-17T05:25:10Z",
+    "repo": "7003mars/bridges",
+    "name": "Bridging assistant",
+    "author": "Mars",
+    "lastUpdated": "2022-11-17T15:07:12Z",
     "stars": 1,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
-    "description": "\nwelcome to 'starner'!\n\nthis mod add wonderful content.\n\nsmall turret which spreads star.\n\nbig unit which spreads star.\n\nfactory which spreads star.\n\n...have fun!\n\n\n\nstars are falling...\n\nstill falling...\n"
+    "description": "Displays all bridge links. Helps with bridge weaving"
   },
   {
     "repo": "grvasl/thorium-conveyor-mod",
@@ -2618,6 +2706,17 @@
     "description": "대회용 모드"
   },
   {
+    "repo": "siede2010/modexhiber",
+    "name": "Exhiber",
+    "author": "Siede & Vdoble & Thomas the Cat",
+    "lastUpdated": "2022-11-18T18:32:49Z",
+    "stars": 1,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod "
+  },
+  {
     "repo": "otamamori917/axthrix-modded2",
     "name": "Axthrix",
     "author": "Otamamori#4716",
@@ -2638,17 +2737,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Small mod that adds some content. Do not expect a working mod yet. Discord: https://discord.gg/cwCqPJyF"
-  },
-  {
-    "repo": "thomasthings/xenacia",
-    "name": "Xenacia",
-    "author": "Thomas",
-    "lastUpdated": "2022-11-20T04:08:10Z",
-    "stars": 1,
-    "minGameVersion": "140.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Test."
   },
   {
     "repo": "emmmm9o/mindustry-mod-hydrogencore-java",
@@ -2739,17 +2827,6 @@
     "description": "i don't know what to do today.\n\nmade by Drifted Notes."
   },
   {
-    "repo": "manuwar73/remodeled_industry-java",
-    "name": "Remodeled industry java",
-    "author": "ManuWar73",
-    "lastUpdated": "2022-09-18T17:25:51Z",
-    "stars": 0,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Java port of remodeled industry"
-  },
-  {
     "repo": "manuwar73/remodeled-industry-expansion",
     "name": "Remodeled Industry Expansion Pack",
     "author": "ManuWar73",
@@ -2783,17 +2860,6 @@
     "description": "NEW: P1000-RATTE, TIGER, A PLANET, DARKSHAADE MATERIAL, NEW: GALAXY MATERIAL, 3 MAPS, MORE MATERIALS, NEW UNITS ENEMYS, 8 NEW MECH PADS, AND EVEN TELEPORTERS, MANY NEW BLOCKS/WALLS/ENEMYS, and i keep updating it. It adds mutch new stuff like red matter and dark matter boss factorys and tow new boss. it also adds a electrum forge from witch you can get electrum. new  units new items new fluid new mechs new forges new turrets new factorys."
   },
   {
-    "repo": "redmountain0/zephirum",
-    "name": "Zephirum",
-    "author": "RedMountain",
-    "lastUpdated": "2022-10-15T06:44:50Z",
-    "stars": 0,
-    "minGameVersion": "139",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Test Mod. (1.0)"
-  },
-  {
     "repo": "balam314/extensions",
     "name": "Extensions",
     "author": "BalaM314",
@@ -2803,17 +2869,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Extends everything and improves the endgame by adding an extra tier of stuff."
-  },
-  {
-    "repo": "manuwar73/remodeled-industry-java",
-    "name": "Remodeled Industry java",
-    "author": "[#8738ff]ManuWar73[]",
-    "lastUpdated": "2022-10-15T16:56:41Z",
-    "stars": 0,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Remodeled industry(the hjson mod) Is going to port to java(Maybe this will take some months/years)"
   },
   {
     "repo": "kapzduke/windstorm",
@@ -2882,17 +2937,6 @@
     "description": "纯纯的科技与魔法啊哥们"
   },
   {
-    "repo": "stacktrace-error/the-hearth",
-    "name": "The Hearth",
-    "author": "Null",
-    "lastUpdated": "2022-11-02T00:20:45Z",
-    "stars": 0,
-    "minGameVersion": "136.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
-  },
-  {
     "repo": "mindustry-qcc/mindustry-js-mod",
     "name": "Jsmod",
     "author": "Vshes qq2595168568",
@@ -2926,28 +2970,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "exploitation-team/gold-mod-remake",
-    "name": "Gold mod Remake",
-    "author": "Exploitation Team",
-    "lastUpdated": "2022-11-12T12:11:53Z",
-    "stars": 0,
-    "minGameVersion": "140.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The remake of gold mod by Slotterlett in java"
-  },
-  {
-    "repo": "tripletoxic/math-stuff",
-    "name": "Math-stuff",
-    "author": "Triple-Toxic",
-    "lastUpdated": "2022-11-14T14:56:48Z",
-    "stars": 0,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "More math stuff"
-  },
-  {
     "repo": "freezemandu/infinite-processor",
     "name": "Infinite Processor V7",
     "author": "Mandu",
@@ -2959,17 +2981,6 @@
     "description": "search 'Logic Bench'(deleted) in schematics!"
   },
   {
-    "repo": "7003mars/bridges",
-    "name": "Bridging assistant",
-    "author": "Mars",
-    "lastUpdated": "2022-11-17T15:07:12Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Displays all bridge links. Helps with bridge weaving"
-  },
-  {
     "repo": "ulwepo/sakura-japanese-mod",
     "name": "Sakuraサーバー日本語化mod",
     "author": "Sakura",
@@ -2979,28 +2990,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Sakuraのメンバーで翻訳した日本語化modです。"
-  },
-  {
-    "repo": "swirek3331/altanic",
-    "name": "Altanic",
-    "author": "Świrek",
-    "lastUpdated": "2022-11-18T18:12:21Z",
-    "stars": 0,
-    "minGameVersion": "137",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "I have come here and made it, for no apparent reason.\nWhat have you expected by downloading this?\n\nNo, seriously, what? I am curious."
-  },
-  {
-    "repo": "siede2010/modexhiber",
-    "name": "Exhiber",
-    "author": "Siede & Vdoble & Thomas the Cat",
-    "lastUpdated": "2022-11-18T18:32:49Z",
-    "stars": 0,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod "
   },
   {
     "repo": "valkovy/marsiummodmindustry",
@@ -3039,11 +3028,22 @@
     "repo": "emmmm9o/mindustry-mod-markdownloader-",
     "name": "MarkDownLoader",
     "author": "emmm",
-    "lastUpdated": "2022-11-20T07:30:57Z",
+    "lastUpdated": "2022-11-20T08:55:59Z",
     "stars": 0,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
-    "description": "A Mindustry Java mod template."
+    "description": "For load MarkDown"
+  },
+  {
+    "repo": "swirek3331/altanic",
+    "name": "Altanic",
+    "author": "Świrek",
+    "lastUpdated": "2022-11-20T09:57:25Z",
+    "stars": 0,
+    "minGameVersion": "137",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "I have come here and made it, for no apparent reason.\nWhat have you expected by downloading this?\n\nNo, seriously, what? I am curious."
   }
 ]
