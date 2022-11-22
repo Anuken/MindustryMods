@@ -935,17 +935,6 @@
     "description": "OP Things is a mod that makes the game easier, but isn't a hack.\n\nWARNING: A lot of the mod things are just some shit."
   },
   {
-    "repo": "pointifix/autodrill",
-    "name": "AutoDrill",
-    "author": "Pointifix",
-    "lastUpdated": "2022-11-03T19:04:48Z",
-    "stars": 7,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds tools for automatically filling resource patches with drills"
-  },
-  {
     "repo": "uujuju1/monolith",
     "name": "Flow",
     "author": "Uujuju",
@@ -966,6 +955,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Add the new sectors and content on Erekir"
+  },
+  {
+    "repo": "pointifix/autodrill",
+    "name": "AutoDrill",
+    "author": "Pointifix",
+    "lastUpdated": "2022-11-22T13:58:58Z",
+    "stars": 7,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds tools for automatically filling resource patches with drills"
   },
   {
     "repo": "yellowafterlife/mindustry-tiny-things",
@@ -1103,7 +1103,7 @@
     "repo": "arth0x/mindustrinity",
     "name": "MindusTrinity ",
     "author": "Arth0x",
-    "lastUpdated": "2022-11-22T11:59:34Z",
+    "lastUpdated": "2022-11-22T12:02:30Z",
     "stars": 6,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1474,17 +1474,6 @@
     "description": "A mod adds more turrets."
   },
   {
-    "repo": "nezerit6/stuasut",
-    "name": "Stuasut",
-    "author": "Eternity",
-    "lastUpdated": "2022-11-21T15:37:53Z",
-    "stars": 4,
-    "minGameVersion": "140.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "no"
-  },
-  {
     "repo": "vvseangtvv/v5-reborn-java",
     "name": "V5 Reborn Java Editon",
     "author": "VvSeanGtvV",
@@ -1494,6 +1483,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry V5-Classic Mod imported for Java, currently it has more functions than v5 mod in hjson"
+  },
+  {
+    "repo": "nezerit6/stuasut",
+    "name": "Stuasut",
+    "author": "Eternity",
+    "lastUpdated": "2022-11-22T13:05:27Z",
+    "stars": 4,
+    "minGameVersion": "140.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "no"
   },
   {
     "repo": "spaceearthex/banana",
@@ -2992,18 +2992,7 @@
     "description": "search 'Logic Bench'(deleted) in schematics!"
   },
   {
-    "repo": "valkovy/marsiummodmindustry",
-    "name": "MarsiumMod",
-    "author": "ValkovY",
-    "lastUpdated": "2022-11-19T15:22:37Z",
-    "stars": 0,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Java mod for Industry on v7."
-  },
-  {
-    "repo": "yunatexya/mptv2modre-hjson",
+    "repo": "yunatexya/mptv2mod",
     "name": "MPTv2 Mod RE [Made by hjson]",
     "author": "ゆなてゃ",
     "lastUpdated": "2022-11-20T01:16:01Z",
@@ -3023,17 +3012,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "For load MarkDown"
-  },
-  {
-    "repo": "ulwepo/sakura-japanese-mod",
-    "name": "Sakuraサーバー日本語化mod",
-    "author": "Sakura",
-    "lastUpdated": "2022-11-21T08:16:35Z",
-    "stars": 0,
-    "minGameVersion": "140.4",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Sakuraのメンバーで翻訳した日本語化modです。"
   },
   {
     "repo": "mindustry-qcc/mindustry-magic-mod",
@@ -3089,5 +3067,27 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod that adds random stuffs.\nNot recommended for multiplayer!"
+  },
+  {
+    "repo": "ulwepo/sakura-japanese-mod",
+    "name": "Sakuraサーバー日本語化mod",
+    "author": "Sakura",
+    "lastUpdated": "2022-11-22T12:06:42Z",
+    "stars": 0,
+    "minGameVersion": "140.4",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Sakuraのメンバーで翻訳した日本語化modです。\nむーちょとその他翻訳作業に貢献したメンバーに感謝！\nディスコードと公式サイトは「sakura mindustry」で検索！\nver2.2"
+  },
+  {
+    "repo": "valkovy/marsiummodmindustry",
+    "name": "MarsiumMod",
+    "author": "ValkovY",
+    "lastUpdated": "2022-11-22T12:36:28Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Java mod for Industry on v7."
   }
 ]
