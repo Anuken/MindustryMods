@@ -168,7 +168,7 @@
     "repo": "fresh791/fading-revelations",
     "name": "Fading Revelations",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 / Froomeeth\n- Lore: iori / Fresh791\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2022-11-23T15:34:05Z",
+    "lastUpdated": "2022-11-23T16:27:08Z",
     "stars": 51,
     "minGameVersion": "140",
     "hasScripts": true,
@@ -1078,17 +1078,6 @@
     "description": "\nWARNING: For Ukrainian language only.\n\nModification for translation testing. Can be used for an example testing bundles and for testing a new Ukrainian translation. Developed in Ukraine.\nSupports v7 only.\n\nDiscord for Ukrainian speaking: https://discord.gg/VDjWyCssvP\n\n----------------------------------------\n\nПОПЕРЕДЖЕННЯ: Лише для української мови.\n\nМодифікація для тестування перекладів. Можете використовувати задля прикладу і задля тестування нового українського перекладу. Розроблено в Україні.\nПідтримує тільки v7.\n\nDiscord для українськомовних: https://discord.gg/VDjWyCssvP"
   },
   {
-    "repo": "froomeeth/emiluras-discovery",
-    "name": "Serilia's Discovery",
-    "author": "\nDeveloper: Froomeeth\n\nGerman Translations: Fresh791\n",
-    "lastUpdated": "2022-11-21T18:44:27Z",
-    "stars": 6,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\nWIP mod, there a lots of unfinished/bugged content, \nwill update with more content, sprite reworks and bug fixes.\n\nAlso available in German!\n"
-  },
-  {
     "repo": "arth0x/mindustrinity",
     "name": "MindusTrinity ",
     "author": "Arth0x",
@@ -1109,6 +1098,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Logic Debugger\n\n一个逻辑辅助工具\n\n原作DeltaNedas/ldb\n\nyaddrx2将其升级到了137，仅供学习交流使用\n\n当前版本：1.6.0\n\n更新日志\n\nv1.0.1\n将mod版本升为137\n\nv1.0.2\n取消ui-lib的前置\n\nv1.0.3\n逻辑码编辑板\n新增代码语句的文本形式编辑\n\nv1.0.4\n逻辑块变量面板\n变量更新闪烁\n增加逻辑块所连方块的显示\n\nv1.0.5\n内存块编辑板\n内存值更新闪烁\n新增内存值的二进制形式视察\n实现内存值的十六进制形式编辑\n\nv1.0.6\n新增代码插入相关操作\n实现从剪切板导入代码块到指定位置\n\nv1.0.7\n新增面板的折叠按钮\n修复学术端运行mod导致的面板移位或覆盖\n修复面板横向抖动的bug\n\nv1.0.8\n单步调试面板\n实现代码单步运行调试\n\nv1.1.0\n新增调试面板设置断点\n实现运行到下一断点操作\n\nv1.1.1\n新增变量位置指示器\n显示单位变量的flag\n\nv1.2\n新增调试面板的运行位置追踪\n新增功能标签\n\nv1.3\n位置指示器增加变量名\n\nv1.4\n内存块面板增加内存值导入导出\n\nv1.5\n变量面板增加变量值导出\n\nv1.6\n内存面板的变量名筛选"
+  },
+  {
+    "repo": "froomeeth/emiluras-discovery",
+    "name": "Serilia's Discovery",
+    "author": "\nDeveloper: Froomeeth\n\nGerman Translations: Fresh791\n",
+    "lastUpdated": "2022-11-23T16:17:40Z",
+    "stars": 6,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nWIP mod, there a lots of unfinished/bugged content, \nwill update with more content, sprite reworks and bug fixes.\n\nAlso available in German!\n"
   },
   {
     "repo": "mythril382/terraria-sounds",
@@ -1848,17 +1848,6 @@
     "description": "A sus Mindustry Java mod"
   },
   {
-    "repo": "voider404/inthespace",
-    "name": "InTheSpace",
-    "author": "ThatAvocado_Boi",
-    "lastUpdated": "2022-11-22T22:03:28Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A simple mod, that will add multiple turrets, lots of blocks and enemies?"
-  },
-  {
     "repo": "thomasthings/xenacia",
     "name": "Xenacia",
     "author": "Thomas",
@@ -1879,6 +1868,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Add the new content. Requires Liplum/MultiCrafter lib"
+  },
+  {
+    "repo": "voider404/inthespace",
+    "name": "InTheSpace",
+    "author": "ThatAvocado_Boi",
+    "lastUpdated": "2022-11-23T16:19:51Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A simple mod, that will add multiple turrets, lots of blocks and enemies?"
   },
   {
     "repo": "amateurpotion/nuclearjavamod",
@@ -2786,7 +2786,7 @@
     "repo": "theunstableguy/futuristic-warfare",
     "name": "futuristic-warfare",
     "author": "Aegires",
-    "lastUpdated": "2022-11-23T15:04:19Z",
+    "lastUpdated": "2022-11-23T17:55:23Z",
     "stars": 1,
     "minGameVersion": "140",
     "hasScripts": false,
