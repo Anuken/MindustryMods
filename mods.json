@@ -26,7 +26,7 @@
     "name": "New Horizon",
     "author": "Yuria",
     "lastUpdated": "2022-10-09T05:16:03Z",
-    "stars": 192,
+    "stars": 193,
     "minGameVersion": "139",
     "hasScripts": false,
     "hasJava": true,
@@ -91,7 +91,7 @@
     "repo": "eschatologue/unlimited-armament-works",
     "name": "Unlimited Armament Works",
     "author": "Eschatologue",
-    "lastUpdated": "2022-11-25T13:35:47Z",
+    "lastUpdated": "2022-11-26T02:27:31Z",
     "stars": 77,
     "minGameVersion": "138",
     "hasScripts": false,
@@ -102,7 +102,7 @@
     "repo": "sharlottes/informatis",
     "name": "Informatis",
     "author": "Sharlotte",
-    "lastUpdated": "2022-11-21T08:43:44Z",
+    "lastUpdated": "2022-11-26T02:42:23Z",
     "stars": 67,
     "minGameVersion": "140",
     "hasScripts": false,
@@ -114,7 +114,7 @@
     "name": "PicToLogic",
     "author": "deltanedas, Router and another guy",
     "lastUpdated": "2022-09-05T13:15:19Z",
-    "stars": 65,
+    "stars": 66,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
@@ -125,7 +125,7 @@
     "name": "UI Lib",
     "author": "deltanedas",
     "lastUpdated": "2022-10-28T19:34:52Z",
-    "stars": 61,
+    "stars": 62,
     "minGameVersion": "139",
     "hasScripts": true,
     "hasJava": false,
@@ -410,7 +410,7 @@
     "repo": "smolkeys/bundles",
     "name": "Bundles",
     "author": "SMOLKEYS",
-    "lastUpdated": "2022-11-25T18:03:25Z",
+    "lastUpdated": "2022-11-26T00:49:30Z",
     "stars": 19,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -726,6 +726,17 @@
     "description": "Library mod that allows multiple mods to override the same content."
   },
   {
+    "repo": "deltanedas/pictocanvas",
+    "name": "PicToCanvas",
+    "author": "deltanedas, Router and another guy",
+    "lastUpdated": "2022-10-12T08:16:05Z",
+    "stars": 9,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a dialog for turning images into canvas schematics.\nRequires deltanedas/ui-lib."
+  },
+  {
     "repo": "pkchaos/ion",
     "name": "Ion",
     "author": "PKChaos",
@@ -823,17 +834,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Makes campaign and the whole Mindustry gameplay harder. If you are a novice, don't download this mod.\n\nTurrets have double cost. Enemies have 1.6x health. Power generators are 33.(3)% less effective."
-  },
-  {
-    "repo": "deltanedas/pictocanvas",
-    "name": "PicToCanvas",
-    "author": "deltanedas, Router and another guy",
-    "lastUpdated": "2022-10-12T08:16:05Z",
-    "stars": 8,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a dialog for turning images into canvas schematics.\nRequires deltanedas/ui-lib."
   },
   {
     "repo": "spaceearthex/factroundustry",
@@ -971,7 +971,7 @@
     "repo": "arth0x/mindustrinity",
     "name": "MindusTrinity ",
     "author": "Arth0x",
-    "lastUpdated": "2022-11-25T17:28:52Z",
+    "lastUpdated": "2022-11-26T02:13:14Z",
     "stars": 7,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2354,17 +2354,6 @@
     "description": "Click button to toggle Editor mode within Singleplayer and Sandbox.\n\nMade for editing World Processors outside of the Editor.\n\nDoes not work on Multiplayer and Campaign."
   },
   {
-    "repo": "tripletoxic/math-stuff",
-    "name": "Math-stuff",
-    "author": "Triple-Toxic",
-    "lastUpdated": "2022-11-25T01:21:11Z",
-    "stars": 2,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "More math stuff"
-  },
-  {
     "repo": "hbuddz/budzy-s",
     "name": "Compress this!",
     "author": "Coding - hbuddz\nSprites - hbuddz & his twot of a brother",
@@ -2385,6 +2374,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds flarogus to Mindustry."
+  },
+  {
+    "repo": "tripletoxic/math-stuff",
+    "name": "Math-stuff",
+    "author": "Triple-Toxic",
+    "lastUpdated": "2022-11-26T01:32:03Z",
+    "stars": 2,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "More math stuff"
   },
   {
     "repo": "explerhd/unnamedmods",
@@ -2827,6 +2827,17 @@
     "description": "Small mod that adds some content. Do not expect a working mod yet. Discord: https://discord.gg/cwCqPJyF"
   },
   {
+    "repo": "balam314/flarogus-texture",
+    "name": "Flarogus Texture",
+    "author": "BalaM314",
+    "lastUpdated": "2022-11-25T11:11:52Z",
+    "stars": 1,
+    "minGameVersion": "136.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Makes the flare a flarogus."
+  },
+  {
     "repo": "siede2010/modexhiber",
     "name": "Exhiber",
     "author": "Siede & Vdoble & Thomas the Cat",
@@ -3144,17 +3155,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "For load MarkDown"
-  },
-  {
-    "repo": "balam314/flarogus-texture",
-    "name": "Flarogus Texture",
-    "author": "BalaM314",
-    "lastUpdated": "2022-11-25T11:11:52Z",
-    "stars": 0,
-    "minGameVersion": "136.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Makes the flare a flarogus."
   },
   {
     "repo": "swirek3331/altanic",
