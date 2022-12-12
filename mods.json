@@ -264,6 +264,17 @@
     "description": "V7 fixed, This mod contains all kinds of new resources, forges, materials and liquids.\nIt is still under development so feedback on the workshop is welcome. Only for custom maps."
   },
   {
+    "repo": "meepoffaith/testing-utilities-java",
+    "name": "Testing Utilities",
+    "author": "MEEP of Faith",
+    "lastUpdated": "2022-12-11T07:34:45Z",
+    "stars": 27,
+    "minGameVersion": "140.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
+  },
+  {
     "repo": "realshizi/oxynoe",
     "name": "Oxynoe",
     "author": "oxynoe",
@@ -273,17 +284,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "oxynoe :>"
-  },
-  {
-    "repo": "meepoffaith/testing-utilities-java",
-    "name": "Testing Utilities",
-    "author": "MEEP of Faith",
-    "lastUpdated": "2022-12-11T07:34:45Z",
-    "stars": 26,
-    "minGameVersion": "140.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
   },
   {
     "repo": "uujuju1/project-oblivion",
@@ -484,6 +484,17 @@
     "description": "I know the name is very boring but i can't find another name. A mod that adds a great amount of content to the game. Have fun with the mod."
   },
   {
+    "repo": "riccj/minertools",
+    "name": "MinerTools",
+    "author": "miner",
+    "lastUpdated": "2022-08-10T14:38:23Z",
+    "stars": 14,
+    "minGameVersion": "136.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\n  # 功能\n\n  ---\n\n  ## UI\n  1. MinerToolsTable:\n     * 队伍信息:\n       * 队伍玩家数量(Tooltip显示基础队伍规则)\n       * 队伍单位显示\n       * 队伍全局电量(Tooltip显示详细电量情况)\n     * 一些有用的按钮:\n       * 暂停建造(仅手机)\n       * 自动升级传送带\n       * 重建方块\n       * 快捷投降\n     * 换队/跳波器\n     * 玩家列表:\n       * 所有玩家的名字\n       * 可锁定玩家视角(锁定的玩家控制炮塔时,会自动调整视角)\n       * 可切换到玩家视角\n       * 可一键投票踢出玩家\n     * 快捷蓝图\n     * 玩家AI:\n       * 挖矿AI\n       * 跟随AI\n\n  2. 聊天记录:\n     * 查询历史聊天记录\n     * 可以复制聊天记录(电脑:Ctrl+单击)\n\n  3. 更好的核心资源显示:\n     * 单位数量显示\n     * 物品每秒变化量显示\n     * 玩家预建消耗显示\n     * 可自定义的ui列数\n\n  4. 更好的信息面板:\n     * 单位,建筑,地板信息一起显示!\n     * 单位:\n       * 武器冷却状态\n     * 建筑:\n       * 物品详情\n     * 地板:\n       * 显示更详尽\n\n  ---\n\n  ## 画面\n  * 建筑:\n    * 选中:\n      * 异队选中信息\n      * 桥带连接详情\n    * 建筑血条\n    * 异队方块状态\n    * 构造方块耗材信息\n    * 附近炮塔警戒\n    * 物品炮塔子弹类型显示\n    * 单位工厂进度条\n\n  * 单位:\n    * 单位指示器(核心危险警告)\n    * 附近单位警戒\n\n    * 单位信息条:\n      * 血条\n      * 立场回复条\n      * 单位状态条\n      * 荷载条\n\n  * 玩家:\n    * 荷载拾放提示\n    * 玩家范围显示\n\n  ---\n\n  ## 其他小功能\n  * 进入游戏后,显示被ban的单位或方块\n  * UIScale的step修改\n  * 物品桥带可拿取物品\n  * 更多方块信息条:\n    * 血条: 血量显示更详细\n    * 进度条: 进度显示更详细\n\n  ---\n\n  # 其他\n  Mod的90%功均可在设置中打开或关闭!"
+  },
+  {
     "repo": "echovespy/simplistic",
     "name": "Simplistic - TexturePack",
     "author": "EchoVespy",
@@ -526,17 +537,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A cheat mod designed for V7 (136). \n\nIf you liked the mod then give it a star in GitHub! \n\nDiscord Tag: PlanetofStuffs#2174"
-  },
-  {
-    "repo": "riccj/minertools",
-    "name": "MinerTools",
-    "author": "miner",
-    "lastUpdated": "2022-08-10T14:38:23Z",
-    "stars": 13,
-    "minGameVersion": "136.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\n  # 功能\n\n  ---\n\n  ## UI\n  1. MinerToolsTable:\n     * 队伍信息:\n       * 队伍玩家数量(Tooltip显示基础队伍规则)\n       * 队伍单位显示\n       * 队伍全局电量(Tooltip显示详细电量情况)\n     * 一些有用的按钮:\n       * 暂停建造(仅手机)\n       * 自动升级传送带\n       * 重建方块\n       * 快捷投降\n     * 换队/跳波器\n     * 玩家列表:\n       * 所有玩家的名字\n       * 可锁定玩家视角(锁定的玩家控制炮塔时,会自动调整视角)\n       * 可切换到玩家视角\n       * 可一键投票踢出玩家\n     * 快捷蓝图\n     * 玩家AI:\n       * 挖矿AI\n       * 跟随AI\n\n  2. 聊天记录:\n     * 查询历史聊天记录\n     * 可以复制聊天记录(电脑:Ctrl+单击)\n\n  3. 更好的核心资源显示:\n     * 单位数量显示\n     * 物品每秒变化量显示\n     * 玩家预建消耗显示\n     * 可自定义的ui列数\n\n  4. 更好的信息面板:\n     * 单位,建筑,地板信息一起显示!\n     * 单位:\n       * 武器冷却状态\n     * 建筑:\n       * 物品详情\n     * 地板:\n       * 显示更详尽\n\n  ---\n\n  ## 画面\n  * 建筑:\n    * 选中:\n      * 异队选中信息\n      * 桥带连接详情\n    * 建筑血条\n    * 异队方块状态\n    * 构造方块耗材信息\n    * 附近炮塔警戒\n    * 物品炮塔子弹类型显示\n    * 单位工厂进度条\n\n  * 单位:\n    * 单位指示器(核心危险警告)\n    * 附近单位警戒\n\n    * 单位信息条:\n      * 血条\n      * 立场回复条\n      * 单位状态条\n      * 荷载条\n\n  * 玩家:\n    * 荷载拾放提示\n    * 玩家范围显示\n\n  ---\n\n  ## 其他小功能\n  * 进入游戏后,显示被ban的单位或方块\n  * UIScale的step修改\n  * 物品桥带可拿取物品\n  * 更多方块信息条:\n    * 血条: 血量显示更详细\n    * 进度条: 进度显示更详细\n\n  ---\n\n  # 其他\n  Mod的90%功均可在设置中打开或关闭!"
   },
   {
     "repo": "shadowpazzo99/shadowdustry",
@@ -1298,6 +1298,17 @@
     "description": "Hi. This mod is work-in-progress, but you can play it, and maybe you will enjoy it. \n There is only a thing. This mod is absolutely not balanced. do not have any expectation of encountering a perfectly balanced thing. All of this mod is or extremely overpowered, or not enought good(principally all is overpowered). Also, the sound effects are not currently implemented and some sprites are missing.Unit factories will come soon!!!"
   },
   {
+    "repo": "blackdeluxecat/shadowshader",
+    "name": "Shadow Shader",
+    "author": "BlackDeluxeCat",
+    "lastUpdated": "2022-12-10T18:04:14Z",
+    "stars": 5,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "SHADOOOW your GAME"
+  },
+  {
     "repo": "thomasthings/xenacia",
     "name": "Xenacia",
     "author": "Thomas",
@@ -1582,17 +1593,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Vanilla extension mod, made to have a vanilla like feel, adds items past what would normally be endgame and even QOL blocks! Discord server: https://discord.gg/hGqEVwsg"
-  },
-  {
-    "repo": "blackdeluxecat/shadowshader",
-    "name": "Shadow Shader",
-    "author": "BlackDeluxeCat",
-    "lastUpdated": "2022-12-10T18:04:14Z",
-    "stars": 4,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "SHADOOOW your GAME"
   },
   {
     "repo": "evo04taser/mindustry-turrets-extension",
@@ -2926,17 +2926,6 @@
     "description": "A Mindustry Java mod template."
   },
   {
-    "repo": "anazitisi/modarc1-music-pack",
-    "name": "MODARC1",
-    "author": "anazitisi",
-    "lastUpdated": "2022-11-30T13:22:32Z",
-    "stars": 1,
-    "minGameVersion": "140.4",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This music pack contains music that is copyright CC0 1.0 Universal from modarchive.org. The music was created by a variety of artists."
-  },
-  {
     "repo": "emanuelg-gaming/quizdustry",
     "name": "Quizdustry",
     "author": "Emanuel G",
@@ -2968,6 +2957,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Small mod that adds some content. Do not expect a working mod yet. Discord: https://discord.gg/cwCqPJyF"
+  },
+  {
+    "repo": "blackdeluxecat/mapfilterext",
+    "name": "Filter Ext",
+    "author": "BlackDeluxeCat",
+    "lastUpdated": "2022-12-07T06:38:19Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Added some useful filters.\nCopypaste, modified noise, grid. They works with a coords-transform kit."
   },
   {
     "repo": "936338156/mindustry-interplanetary-industries-mod",
@@ -3342,17 +3342,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "E"
-  },
-  {
-    "repo": "blackdeluxecat/mapfilterext",
-    "name": "Filter Ext",
-    "author": "BlackDeluxeCat",
-    "lastUpdated": "2022-12-07T06:38:19Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Added some useful filters.\nCopypaste, modified noise, grid. They works with a coords-transform kit."
   },
   {
     "repo": "yunatexya/mptv2modre",
