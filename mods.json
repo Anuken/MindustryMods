@@ -14,7 +14,7 @@
     "repo": "aureusstratus/exogenesis",
     "name": "Exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2022-12-17T18:21:14Z",
+    "lastUpdated": "2022-12-18T09:53:19Z",
     "stars": 213,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -110,6 +110,17 @@
     "description": "The mod displays more information in-game, such as unit/building, wave, core, tile, item/unit total info etc"
   },
   {
+    "repo": "deltanedas/ui-lib",
+    "name": "UI Lib",
+    "author": "deltanedas",
+    "lastUpdated": "2022-10-28T19:34:52Z",
+    "stars": 67,
+    "minGameVersion": "139",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Library for other mods that unifies and simplifies UI creation."
+  },
+  {
     "repo": "deltanedas/pictologic",
     "name": "PicToLogic",
     "author": "deltanedas, Router and another guy",
@@ -119,17 +130,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a dialog for turning images into processor schematics.\nRequires deltanedas/ui-lib."
-  },
-  {
-    "repo": "deltanedas/ui-lib",
-    "name": "UI Lib",
-    "author": "deltanedas",
-    "lastUpdated": "2022-10-28T19:34:52Z",
-    "stars": 66,
-    "minGameVersion": "139",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Library for other mods that unifies and simplifies UI creation."
   },
   {
     "repo": "deltanedas/rtfm",
@@ -1045,17 +1045,6 @@
     "description": "Click button to toggle Editor mode within Singleplayer and Sandbox.\n\nMade for editing World Processors outside of the Editor.\n\nDoes not work on Multiplayer and Campaign."
   },
   {
-    "repo": "jestyak2009/minimod",
-    "name": "MiniMod",
-    "author": "Jestyak2009",
-    "lastUpdated": "2022-12-17T16:59:33Z",
-    "stars": 7,
-    "minGameVersion": "140.4",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Just little mod"
-  },
-  {
     "repo": "arth0x/mindustrinity",
     "name": "MindusTrinity",
     "author": "[#009BFF]Wolflab Studio",
@@ -1065,6 +1054,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\nAdd a lot of vanilla improvement :\n\n    -Add new turrets / items / liquids and more\n    -You can now biuld T6 units\n    -Mod compatible with multiplayer and campain\n\nStill in in development so might be bugged or unbalanced for now\nDon't forget to review and drop a star :P\n\n        \n    - Arth0x"
+  },
+  {
+    "repo": "jestyak2009/minimod",
+    "name": "MiniMod",
+    "author": "Jestyak2009",
+    "lastUpdated": "2022-12-18T09:06:24Z",
+    "stars": 7,
+    "minGameVersion": "140.4",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Just little mod"
   },
   {
     "repo": "mythril382/loudustry",
