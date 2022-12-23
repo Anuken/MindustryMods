@@ -14,7 +14,7 @@
     "repo": "aureusstratus/exogenesis",
     "name": "Exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2022-12-22T12:11:55Z",
+    "lastUpdated": "2022-12-23T09:30:12Z",
     "stars": 216,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -572,17 +572,6 @@
     "description": "A cheat mod designed for V7 (136). \n\nIf you liked the mod then give it a star in GitHub! \n\nDiscord Tag: PlanetofStuffs#2174"
   },
   {
-    "repo": "riccj/minertools",
-    "name": "MinerTools",
-    "author": "miner",
-    "lastUpdated": "2022-08-10T14:38:23Z",
-    "stars": 13,
-    "minGameVersion": "136.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\n  # 功能\n\n  ---\n\n  ## UI\n  1. MinerToolsTable:\n     * 队伍信息:\n       * 队伍玩家数量(Tooltip显示基础队伍规则)\n       * 队伍单位显示\n       * 队伍全局电量(Tooltip显示详细电量情况)\n     * 一些有用的按钮:\n       * 暂停建造(仅手机)\n       * 自动升级传送带\n       * 重建方块\n       * 快捷投降\n     * 换队/跳波器\n     * 玩家列表:\n       * 所有玩家的名字\n       * 可锁定玩家视角(锁定的玩家控制炮塔时,会自动调整视角)\n       * 可切换到玩家视角\n       * 可一键投票踢出玩家\n     * 快捷蓝图\n     * 玩家AI:\n       * 挖矿AI\n       * 跟随AI\n\n  2. 聊天记录:\n     * 查询历史聊天记录\n     * 可以复制聊天记录(电脑:Ctrl+单击)\n\n  3. 更好的核心资源显示:\n     * 单位数量显示\n     * 物品每秒变化量显示\n     * 玩家预建消耗显示\n     * 可自定义的ui列数\n\n  4. 更好的信息面板:\n     * 单位,建筑,地板信息一起显示!\n     * 单位:\n       * 武器冷却状态\n     * 建筑:\n       * 物品详情\n     * 地板:\n       * 显示更详尽\n\n  ---\n\n  ## 画面\n  * 建筑:\n    * 选中:\n      * 异队选中信息\n      * 桥带连接详情\n    * 建筑血条\n    * 异队方块状态\n    * 构造方块耗材信息\n    * 附近炮塔警戒\n    * 物品炮塔子弹类型显示\n    * 单位工厂进度条\n\n  * 单位:\n    * 单位指示器(核心危险警告)\n    * 附近单位警戒\n\n    * 单位信息条:\n      * 血条\n      * 立场回复条\n      * 单位状态条\n      * 荷载条\n\n  * 玩家:\n    * 荷载拾放提示\n    * 玩家范围显示\n\n  ---\n\n  ## 其他小功能\n  * 进入游戏后,显示被ban的单位或方块\n  * UIScale的step修改\n  * 物品桥带可拿取物品\n  * 更多方块信息条:\n    * 血条: 血量显示更详细\n    * 进度条: 进度显示更详细\n\n  ---\n\n  # 其他\n  Mod的90%功均可在设置中打开或关闭!"
-  },
-  {
     "repo": "shadowpazzo99/shadowdustry",
     "name": "ShadowDustry",
     "author": "ShadowPazzo#5003",
@@ -614,6 +603,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "An experimental modification created to test v7's new API themed around Frostscapes and Volcanoes. Aims to one day create a satasfying rogue-lite experiance in your tower-defense real time stratagy factory game. Will *not* be worked on consistently due to life, thank you if you chose to use this.\n\n[darkgray]A voice lingers in the darkness, dancing around your ears. Will you join it?"
+  },
+  {
+    "repo": "riccj/minertools",
+    "name": "MinerTools",
+    "author": "miner",
+    "lastUpdated": "2022-12-23T04:25:47Z",
+    "stars": 13,
+    "minGameVersion": "136.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\n  # 功能\n\n  ---\n\n  ## UI\n  1. MinerToolsTable:\n     * 队伍信息:\n       * 队伍玩家数量(Tooltip显示基础队伍规则)\n       * 队伍单位显示\n       * 队伍全局电量(Tooltip显示详细电量情况)\n     * 一些有用的按钮:\n       * 暂停建造(仅手机)\n       * 自动升级传送带\n       * 重建方块\n       * 快捷投降\n     * 换队/跳波器\n     * 玩家列表:\n       * 所有玩家的名字\n       * 可锁定玩家视角(锁定的玩家控制炮塔时,会自动调整视角)\n       * 可切换到玩家视角\n       * 可一键投票踢出玩家\n     * 快捷蓝图\n     * 玩家AI:\n       * 挖矿AI\n       * 跟随AI\n\n  2. 聊天记录:\n     * 查询历史聊天记录\n     * 可以复制聊天记录(电脑:Ctrl+单击)\n\n  3. 更好的核心资源显示:\n     * 单位数量显示\n     * 物品每秒变化量显示\n     * 玩家预建消耗显示\n     * 可自定义的ui列数\n\n  4. 更好的信息面板:\n     * 单位,建筑,地板信息一起显示!\n     * 单位:\n       * 武器冷却状态\n     * 建筑:\n       * 物品详情\n     * 地板:\n       * 显示更详尽\n\n  ---\n\n  ## 画面\n  * 建筑:\n    * 选中:\n      * 异队选中信息\n      * 桥带连接详情\n    * 建筑血条\n    * 异队方块状态\n    * 构造方块耗材信息\n    * 附近炮塔警戒\n    * 物品炮塔子弹类型显示\n    * 单位工厂进度条\n\n  * 单位:\n    * 单位指示器(核心危险警告)\n    * 附近单位警戒\n\n    * 单位信息条:\n      * 血条\n      * 立场回复条\n      * 单位状态条\n      * 荷载条\n\n  * 玩家:\n    * 荷载拾放提示\n    * 玩家范围显示\n\n  ---\n\n  ## 其他小功能\n  * 进入游戏后,显示被ban的单位或方块\n  * UIScale的step修改\n  * 物品桥带可拿取物品\n  * 更多方块信息条:\n    * 血条: 血量显示更详细\n    * 进度条: 进度显示更详细\n\n  ---\n\n  # 其他\n  Mod的90%功均可在设置中打开或关闭!"
   },
   {
     "repo": "lightertimes/block-placer",
@@ -1080,10 +1080,10 @@
   {
     "repo": "rayanz22/op-mod",
     "name": "OP Things",
-    "author": "[lime]ABÊ#8931",
-    "lastUpdated": "2022-12-23T01:48:07Z",
+    "author": "[green]ABÊ#8931",
+    "lastUpdated": "2022-12-23T03:54:20Z",
     "stars": 7,
-    "minGameVersion": "140",
+    "minGameVersion": "138",
     "hasScripts": false,
     "hasJava": false,
     "description": "OP Things is a mod that makes the game easier, but isn't a hack.\n\n[#FF0000]WARNING: A lot of the mod things are just some shit."
@@ -1353,6 +1353,17 @@
     "description": "mod that add more technologies"
   },
   {
+    "repo": "blackdeluxecat/shadowshader",
+    "name": "Shadow Shader",
+    "author": "BlackDeluxeCat",
+    "lastUpdated": "2022-12-10T18:04:14Z",
+    "stars": 5,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "SHADOOOW your GAME"
+  },
+  {
     "repo": "shimyytrov/turret-expansion",
     "name": "Turret Expansion",
     "author": "Shimyytrov Modding Team",
@@ -1595,17 +1606,6 @@
     "description": "Vanilla extension mod, made to have a vanilla like feel, adds items past what would normally be endgame and even QOL blocks! Discord server: https://discord.gg/hGqEVwsg"
   },
   {
-    "repo": "blackdeluxecat/shadowshader",
-    "name": "Shadow Shader",
-    "author": "BlackDeluxeCat",
-    "lastUpdated": "2022-12-10T18:04:14Z",
-    "stars": 4,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "SHADOOOW your GAME"
-  },
-  {
     "repo": "zeutd/disintegration",
     "name": "disintegration",
     "author": "zeutd",
@@ -1631,7 +1631,7 @@
     "repo": "ferlern/extended-ui-v7",
     "name": "extended UI",
     "author": "wizer",
-    "lastUpdated": "2022-12-21T15:32:01Z",
+    "lastUpdated": "2022-12-23T09:14:21Z",
     "stars": 4,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -2002,17 +2002,6 @@
     "description": "Dausas Project mod"
   },
   {
-    "repo": "chronos-dx/nucleardustry",
-    "name": "Nucleardustry",
-    "author": "Chronos",
-    "lastUpdated": "2022-12-11T13:45:49Z",
-    "stars": 3,
-    "minGameVersion": "140.4",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that add nuclear related items and blocks."
-  },
-  {
     "repo": "evo04taser/mindustry-turrets-extension",
     "name": "Mindustry Turrets Extension",
     "author": "Evo04Taser",
@@ -2068,6 +2057,17 @@
     "description": "1. added focus feedback on Element Show & Selection.\n2. fixed a bug memory bug which didn't remove window when it's close.\n3. changed mod data directory.\n4. optimized code.\n5. fixed some of other small bugs.\n---------------------------------\n1. 添加 审查元素 和 选择器 的焦点反馈.\n2. 修复窗口关闭时仍占内存的bug.\n3. 修改的mod数据目录.\n4. 优化代码.\n5. 修复其他一些bug."
   },
   {
+    "repo": "chronos-dx/nucleardustry",
+    "name": "Nucleardustry",
+    "author": "Chronos",
+    "lastUpdated": "2022-12-23T10:40:48Z",
+    "stars": 3,
+    "minGameVersion": "140.4",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that add nuclear related items and blocks."
+  },
+  {
     "repo": "amateurpotion/nuclearjavamod",
     "name": "Nuclear Mod for Java",
     "author": "Namedo",
@@ -2121,17 +2121,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds the challenges"
-  },
-  {
-    "repo": "blockzilla101/bomberman-disable-flying",
-    "name": "Bomberman - disable flying",
-    "author": "Blockzilla",
-    "lastUpdated": "2022-06-08T11:49:24Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Disables flying in bomberman maps"
   },
   {
     "repo": "routerxdd/drift-units",
@@ -2838,17 +2827,6 @@
     "description": "Make Erekir components available on Serpulo."
   },
   {
-    "repo": "xenoforce/no-grinding-mod",
-    "name": "No Grinding",
-    "author": "goldie",
-    "lastUpdated": "2022-10-26T07:56:09Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Grind a lot less in the game."
-  },
-  {
     "repo": "xenoforce/opore-unleashed",
     "name": "Opore Mod - Unleashed",
     "author": "XenoForce",
@@ -3069,17 +3047,6 @@
     "description": "Give yourself a tranquil feeling with more control over the flow of resources."
   },
   {
-    "repo": "7003mars/bridges",
-    "name": "Bridging assistant",
-    "author": "Mars",
-    "lastUpdated": "2022-12-22T04:32:36Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Displays all bridge links. Helps with bridge weaving"
-  },
-  {
     "repo": "lvdanyi/lvdanyi_coppermoneymod",
     "name": "铜钱2.2.6.2",
     "author": "@bilibili绿弹易",
@@ -3091,10 +3058,21 @@
     "description": "更新拉！."
   },
   {
+    "repo": "7003mars/bridges",
+    "name": "Bridging assistant",
+    "author": "Mars",
+    "lastUpdated": "2022-12-23T07:21:06Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Displays all bridge links. Helps with bridge weaving"
+  },
+  {
     "repo": "korakiwi/planetaryadditions",
     "name": "Planetary Additions",
     "author": "KoraKiwi",
-    "lastUpdated": "2022-12-22T11:37:00Z",
+    "lastUpdated": "2022-12-23T11:39:58Z",
     "stars": 1,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -3287,17 +3265,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "search 'Logic Bench'(deleted) in schematics!"
-  },
-  {
-    "repo": "mindustry-qcc/mindustry-magic-mod",
-    "name": "魔法工业",
-    "author": "Vshes",
-    "lastUpdated": "2022-11-21T11:50:39Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "纯纯的科技与魔法啊哥们"
   },
   {
     "repo": "freezemandu/routertexturepack-v7",
