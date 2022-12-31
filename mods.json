@@ -297,17 +297,6 @@
     "description": "A Mindustry mod library provides a multiple-recipe crafter to produce items, fluids, power or even heat for Json and JavaScript mods.\nPlease check the repository below to learn more.\nWork on both v136 and v137."
   },
   {
-    "repo": "mq-1175/more-vanilla",
-    "name": "More Than Vanilla",
-    "author": "M.Q.",
-    "lastUpdated": "2022-12-08T04:50:58Z",
-    "stars": 24,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds higher (or lowers) tier of blocks. Mod is still in development, more contents coming soon."
-  },
-  {
     "repo": "uujuju1/project-oblivion",
     "name": "Project Oblivion",
     "author": "Uujuju",
@@ -317,6 +306,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The technology of the oblivion awaits you..."
+  },
+  {
+    "repo": "mq-1175/more-vanilla",
+    "name": "More Than Vanilla",
+    "author": "M.Q.",
+    "lastUpdated": "2022-12-31T09:55:12Z",
+    "stars": 24,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds higher (or lowers) tier of blocks. Mod is still in development, more contents coming soon."
   },
   {
     "repo": "deltanedas/unit-factory",
@@ -421,7 +421,7 @@
     "repo": "unionofsovietsocialistrepublics/spore-biomechs",
     "name": "Spore Biomechs",
     "author": "Hydroabyss",
-    "lastUpdated": "2022-12-30T14:42:55Z",
+    "lastUpdated": "2022-12-31T09:32:38Z",
     "stars": 19,
     "minGameVersion": "140",
     "hasScripts": true,
@@ -443,7 +443,7 @@
     "repo": "smolkeys/yellow-java",
     "name": "Yellow",
     "author": "SMOLKEYS",
-    "lastUpdated": "2022-12-31T07:59:55Z",
+    "lastUpdated": "2022-12-31T08:24:52Z",
     "stars": 18,
     "minGameVersion": "138",
     "hasScripts": false,
@@ -2024,17 +2024,6 @@
     "description": "1. added focus feedback on Element Show & Selection.\n2. fixed a bug memory bug which didn't remove window when it's close.\n3. changed mod data directory.\n4. optimized code.\n5. fixed some of other small bugs.\n---------------------------------\n1. 添加 审查元素 和 选择器 的焦点反馈.\n2. 修复窗口关闭时仍占内存的bug.\n3. 修改的mod数据目录.\n4. 优化代码.\n5. 修复其他一些bug."
   },
   {
-    "repo": "mak992/mak992-sus",
-    "name": "Testjmod",
-    "author": "susi",
-    "lastUpdated": "2022-12-27T19:21:32Z",
-    "stars": 3,
-    "minGameVersion": "140.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A sus Mindustry Java mod"
-  },
-  {
     "repo": "weathercold/extralogging",
     "name": "Extra Logging",
     "author": "Weathercold",
@@ -2055,6 +2044,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod that add nuclear related items and blocks."
+  },
+  {
+    "repo": "mak992/mak992-sus",
+    "name": "Testjmod",
+    "author": "Mak992, Nezerit6(assist)",
+    "lastUpdated": "2022-12-31T09:09:04Z",
+    "stars": 3,
+    "minGameVersion": "140.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A sus Mindustry Java mod"
   },
   {
     "repo": "amateurpotion/nuclearjavamod",
@@ -3509,17 +3509,6 @@
     "description": "What have you expected by downloading this?\n\nNo, seriously, what? I am curious."
   },
   {
-    "repo": "yunatexya/mptv2modre",
-    "name": "MPTv2 RE",
-    "author": "ゆなてゃ",
-    "lastUpdated": "2022-12-31T02:24:21Z",
-    "stars": 0,
-    "minGameVersion": "139",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Java mod for Mindustry<V7>"
-  },
-  {
     "repo": "rakagit/returret",
     "name": "ReTurret",
     "author": "RakaGIT",
@@ -3529,5 +3518,16 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Alpha Version"
+  },
+  {
+    "repo": "yunatexya/mptv2modre",
+    "name": "MPTv2 RE",
+    "author": "ゆなてゃ",
+    "lastUpdated": "2022-12-31T08:24:48Z",
+    "stars": 0,
+    "minGameVersion": "139",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Java mod for Mindustry<V7>"
   }
 ]
