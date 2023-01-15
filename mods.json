@@ -48,7 +48,7 @@
     "name": "Project Unity",
     "author": "Avant Team",
     "lastUpdated": "2022-12-15T13:49:38Z",
-    "stars": 137,
+    "stars": 138,
     "minGameVersion": "140.4",
     "hasScripts": false,
     "hasJava": true,
@@ -102,7 +102,7 @@
     "repo": "sharlottes/informatis",
     "name": "Informatis",
     "author": "Sharlotte",
-    "lastUpdated": "2022-12-10T10:38:04Z",
+    "lastUpdated": "2023-01-15T17:34:38Z",
     "stars": 71,
     "minGameVersion": "140",
     "hasScripts": false,
@@ -278,7 +278,7 @@
     "repo": "meepoffaith/testing-utilities-java",
     "name": "Testing Utilities",
     "author": "MEEP of Faith",
-    "lastUpdated": "2023-01-01T19:16:18Z",
+    "lastUpdated": "2023-01-15T17:46:31Z",
     "stars": 27,
     "minGameVersion": "140.4",
     "hasScripts": false,
@@ -693,6 +693,17 @@
     "description": "The ultimate form of the ultimate form. Multiplayer compatible."
   },
   {
+    "repo": "flintyx/autoresearch",
+    "name": "Auto Research",
+    "author": "Flin",
+    "lastUpdated": "2023-01-15T03:31:41Z",
+    "stars": 12,
+    "minGameVersion": "141",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
+  },
+  {
     "repo": "mnemotechnician/new-controls-public",
     "name": "New controls",
     "author": "Мнемотехник",
@@ -715,15 +726,15 @@
     "description": "Prismatic introduces lots of new technology capable of bending the very fabrics of reality.. \n - Java version in development"
   },
   {
-    "repo": "flintyx/autoresearch",
-    "name": "Auto Research",
-    "author": "Flin",
-    "lastUpdated": "2023-01-15T03:31:41Z",
+    "repo": "jasmarkelina/tantros-mod",
+    "name": "Tantros",
+    "author": "Jasmarkelina,Plastel & RouterXdd",
+    "lastUpdated": "2023-01-08T10:09:22Z",
     "stars": 11,
-    "minGameVersion": "141",
+    "minGameVersion": "140",
     "hasScripts": true,
     "hasJava": false,
-    "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
+    "description": "A mod being developed by a team of three, it reveals and makes tantros playable, keep in mind that the mod is not finished yet, you can play the unfinished campaign."
   },
   {
     "repo": "zelaux/gaslibrary",
@@ -878,17 +889,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod plays ODST soundtracks so you can enjoy the classic Halo 3: ODST vibe while playing, it also makes a nice effect and atmosphere in the campaign."
-  },
-  {
-    "repo": "jasmarkelina/tantros-mod",
-    "name": "Tantros",
-    "author": "Jasmarkelina,Plastel & RouterXdd",
-    "lastUpdated": "2023-01-08T10:09:22Z",
-    "stars": 9,
-    "minGameVersion": "140",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod being developed by a team of three, it reveals and makes tantros playable, keep in mind that the mod is not finished yet, you can play the unfinished campaign."
   },
   {
     "repo": "germantova/erida",
@@ -1166,6 +1166,17 @@
     "description": "Similar to NeonNights, but actually updated."
   },
   {
+    "repo": "nezerit6/cosmic-industries",
+    "name": "CosmicIndustries",
+    "author": "CI-team",
+    "lastUpdated": "2023-01-14T19:10:00Z",
+    "stars": 7,
+    "minGameVersion": "139",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "New planets."
+  },
+  {
     "repo": "mythril382/loudustry",
     "name": "Loudustry",
     "author": "Mythril",
@@ -1296,17 +1307,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Added A LOT Of Stuff.\nImagine Amog Us. "
-  },
-  {
-    "repo": "nezerit6/cosmic-industries",
-    "name": "CosmicIndustries",
-    "author": "CI-team",
-    "lastUpdated": "2023-01-14T19:10:00Z",
-    "stars": 6,
-    "minGameVersion": "139",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "New planets."
   },
   {
     "repo": "mythril382/terraria-sounds",
@@ -3696,25 +3696,25 @@
     "description": "Mindustry Taller adds more items and turrets to the game.\nIt aims to expand the game without making it \"wider\", allowing for higher strength of production and defence without impacting the early game."
   },
   {
-    "repo": "pepters/mintorio",
-    "name": "MinTorio",
-    "author": "c1219",
-    "lastUpdated": "2023-01-15T15:41:37Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "RU: этот мод позволяет сделать миндастри в факторио."
-  },
-  {
     "repo": "dugenougaemr/mindustry_mod_test",
     "name": "displayName : am i doing this right ?",
     "author": "it's in the name",
-    "lastUpdated": "2023-01-15T15:54:27Z",
+    "lastUpdated": "2023-01-15T16:25:20Z",
     "stars": 0,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": false,
     "description": "trying out modding"
+  },
+  {
+    "repo": "pepters/mintorio",
+    "name": "MinTorio",
+    "author": "c1219",
+    "lastUpdated": "2023-01-15T17:30:24Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "RU: этот мод позволяет сделать миндастри в факторио."
   }
 ]
