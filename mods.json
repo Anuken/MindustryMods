@@ -14,7 +14,7 @@
     "repo": "aureusstratus/exogenesis",
     "name": "Exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2023-01-14T19:58:11Z",
+    "lastUpdated": "2023-01-15T03:08:55Z",
     "stars": 222,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -702,6 +702,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Prismatic introduces lots of new technology capable of bending the very fabrics of reality.. \n - Java version in development"
+  },
+  {
+    "repo": "flintyx/autoresearch",
+    "name": "Auto Research",
+    "author": "Flin",
+    "lastUpdated": "2023-01-15T03:31:41Z",
+    "stars": 11,
+    "minGameVersion": "141",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
   },
   {
     "repo": "zelaux/gaslibrary",
@@ -2376,17 +2387,6 @@
     "description": "I made this mod for 5 hours of my life and bottle of pivo. Guys from ukrainian mindustry server in discord inspired\nme to try made mod. Jokingly, I said that I would try to make a mod that adds music from Red Alert 3, but I didn’t think that I would just do it for fun.\nMaksim loh ebaniy. EDIT:Ok, maksim may be good."
   },
   {
-    "repo": "mindustry-space/pulverizer",
-    "name": "Pulverizer",
-    "author": "jyooru",
-    "lastUpdated": "2022-08-30T03:36:34Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Crushes Mindustry content into fine JSON.\n\nMore information is available in the README."
-  },
-  {
     "repo": "mythril382/mobilemapshot",
     "name": "Mobile Map-Shot",
     "author": "Mythril",
@@ -2924,17 +2924,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "my mindustry mod, i like mindustry"
-  },
-  {
-    "repo": "mindustry-space/scrap",
-    "name": "Scrap",
-    "author": "jyooru",
-    "lastUpdated": "2022-10-14T12:00:58Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Sets all bundle values to their keys. Useful when scraping data using Pulverizer."
   },
   {
     "repo": "redmountain0/zephirum",
