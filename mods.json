@@ -451,6 +451,17 @@
     "description": "Very pog."
   },
   {
+    "repo": "fredyjabe/aeyama",
+    "name": "Aeyama: The New World",
+    "author": "FredyJabe & Jojo",
+    "lastUpdated": "2023-01-21T16:21:26Z",
+    "stars": 18,
+    "minGameVersion": "141.2",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "This mod will allow you to explore a whole new world, with a new Tech Tree and a brand new campaign.\n\n    [gray]Version: [lightgray]0.2.0release\n    [gray]Language: [white]- English\n                       [white]- French [red](WIP)\n                       [white]- Russian [red](WIP)\n                       [white]- Polish [red](WIP)\n                       [white]- Ukrainian [red](WIP)\n    \n    [gray]Contributors: [white]- RouterXdd\n                            [white]- pepters\n                            [white]- [blue]SUS [white]([yellow]1stvaliduser[white])\n\n. . . check our GitHub repository for more info!"
+  },
+  {
     "repo": "mindustrydagger/vanillaplus",
     "name": "VanillaPlus",
     "author": "[#FFC000]Mindustry[#16E516]Dagger[#FFFFFF]([#16E516]Кинжал[#FFFFFF])",
@@ -493,17 +504,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
-  },
-  {
-    "repo": "fredyjabe/aeyama",
-    "name": "Aeyama: The New World",
-    "author": "FredyJabe & Jojo",
-    "lastUpdated": "2023-01-21T16:21:26Z",
-    "stars": 17,
-    "minGameVersion": "141.2",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "This mod will allow you to explore a whole new world, with a new Tech Tree and a brand new campaign.\n\n    [gray]Version: [lightgray]0.2.0release\n    [gray]Language: [white]- English\n                       [white]- French [red](WIP)\n                       [white]- Russian [red](WIP)\n                       [white]- Polish [red](WIP)\n                       [white]- Ukrainian [red](WIP)\n    \n    [gray]Contributors: [white]- RouterXdd\n                            [white]- pepters\n                            [white]- [blue]SUS [white]([yellow]1stvaliduser[white])\n\n. . . check our GitHub repository for more info!"
   },
   {
     "repo": "vvseangtvv/v5-classic",
@@ -594,6 +594,17 @@
     "description": "An experimental modification created to test v7's new API themed around Frostscapes and Volcanoes. Aims to one day create a satasfying rogue-lite experiance in your tower-defense real time stratagy factory game. Will *not* be worked on consistently due to life, thank you if you chose to use this.\n\n[darkgray]A voice lingers in the darkness, dancing around your ears. Will you join it?"
   },
   {
+    "repo": "flintyx/autoresearch",
+    "name": "Auto Research",
+    "author": "Flin",
+    "lastUpdated": "2023-01-15T03:31:41Z",
+    "stars": 14,
+    "minGameVersion": "141",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
+  },
+  {
     "repo": "riccj/minertools",
     "name": "MinerTools",
     "author": "miner",
@@ -647,17 +658,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "something perhaps"
-  },
-  {
-    "repo": "flintyx/autoresearch",
-    "name": "Auto Research",
-    "author": "Flin",
-    "lastUpdated": "2023-01-15T03:31:41Z",
-    "stars": 13,
-    "minGameVersion": "141",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
   },
   {
     "repo": "woodjecket/commundustry",
@@ -737,6 +737,17 @@
     "description": "A mod being developed by a team of three, it reveals and makes tantros playable, keep in mind that the mod is not finished yet, you can play the unfinished campaign."
   },
   {
+    "repo": "yuria-shikibe/gameinfoimager",
+    "name": "Game Info Imager",
+    "author": "Yuria",
+    "lastUpdated": "2023-01-20T01:50:39Z",
+    "stars": 11,
+    "minGameVersion": "141.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Show the range of turrets and units.\nShow the units the next wave will spawn."
+  },
+  {
     "repo": "zelaux/gaslibrary",
     "name": "GasLibrary",
     "author": "Zelaux",
@@ -757,17 +768,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Chaos ensues. Open the game with this mod enabled for the description to update correctly."
-  },
-  {
-    "repo": "yuria-shikibe/gameinfoimager",
-    "name": "Game Info Imager",
-    "author": "Yuria",
-    "lastUpdated": "2023-01-20T01:50:39Z",
-    "stars": 10,
-    "minGameVersion": "141.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Show the range of turrets and units.\nShow the units the next wave will spawn."
   },
   {
     "repo": "deltanedas/mobile-ui",
@@ -2739,17 +2739,6 @@
     "description": "1. 优化js的运行效率\n2. 添加一些js方法，如访问私有，方法优先（全部在$AX里）\n1.2.3更新内容：\n修复移动端staticOffset bug\n兼容java17"
   },
   {
-    "repo": "otamamori917/axthrix-modded2",
-    "name": "Axthrix",
-    "author": "Otamamori#4716",
-    "lastUpdated": "2023-01-21T09:45:39Z",
-    "stars": 2,
-    "minGameVersion": "140.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A very beta and cool mod great stuff but grindy. Requires Liplum/MultiCrafter lib"
-  },
-  {
     "repo": "chi-re/blazindustry",
     "name": "炽工业",
     "author": "炽热S",
@@ -2770,6 +2759,28 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "1. added focus feedback on Element Show & Selection.\n2. fixed a bug memory bug which didn't remove window when it's close.\n3. changed mod data directory.\n4. optimized code.\n5. fixed some of other small bugs.\n---------------------------------\n1. 添加 审查元素 和 选择器 的焦点反馈.\n2. 修复窗口关闭时仍占内存的bug.\n3. 修改的mod数据目录.\n4. 优化代码.\n5. 修复其他一些bug."
+  },
+  {
+    "repo": "blackdeluxecat/settingsweep",
+    "name": "Setting Sweep",
+    "author": "BlackDeluxeCat",
+    "lastUpdated": "2023-01-21T13:37:56Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Clean up your settings!"
+  },
+  {
+    "repo": "otamamori917/axthrix-modded2",
+    "name": "Axthrix",
+    "author": "Otamamori#4716",
+    "lastUpdated": "2023-01-21T19:11:27Z",
+    "stars": 2,
+    "minGameVersion": "140.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A very beta and cool mod great stuff but grindy. Requires Liplum/MultiCrafter lib"
   },
   {
     "repo": "explerhd/unnamedmods",
@@ -3333,17 +3344,6 @@
     "description": "A Mindustry Java mod "
   },
   {
-    "repo": "blackdeluxecat/settingsweep",
-    "name": "Setting Sweep",
-    "author": "BlackDeluxeCat",
-    "lastUpdated": "2023-01-21T13:37:56Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Clean up your settings!"
-  },
-  {
     "repo": "pepa3/mindustrymod",
     "name": "AllThings",
     "author": "Pepa_3",
@@ -3776,7 +3776,7 @@
     "repo": "teamviscott/modprojectviscott",
     "name": "Project Viscott",
     "author": "Siede & Manuwar & Pew",
-    "lastUpdated": "2023-01-21T17:39:21Z",
+    "lastUpdated": "2023-01-21T19:59:29Z",
     "stars": 0,
     "minGameVersion": "141",
     "hasScripts": false,
