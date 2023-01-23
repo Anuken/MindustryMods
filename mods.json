@@ -198,6 +198,17 @@
     "description": "Adds several new factions that include their own unique content. Uses some java classes."
   },
   {
+    "repo": "xstabux/omaloon-public",
+    "name": "Omaloon",
+    "author": "StaBU, TheEE145",
+    "lastUpdated": "2023-01-21T15:23:32Z",
+    "stars": 44,
+    "minGameVersion": "140.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The Mindustry mod aims to expand the campaign by adding a new star system. In active development. For now, not suitable for games outside the sandbox."
+  },
+  {
     "repo": "abomb4/super-cheat",
     "name": "(v7) Invincible Cheat 无敌作弊",
     "author": "滞人",
@@ -207,17 +218,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This is a cheat mod, abuse will reduce your game experience, be careful for using this.\nGitHub: https://github.com/abomb4/super-cheat\nemail:  abomb4@163.com\nWellcome to feedback!\n如果 Android 玩家发现物品描述都是英文，去游戏设置 -> 语言 -> 切换成任意其他语言（如繁体中文）-> 重启 -> 切回简体中文即可。\n\nFeatures:\n- Adjustable Overdrive Projector (speedup, or slow down)\n- Team Changer\n- DPS Tester Unit and Walls\n- Invincible Core and Invincible build plane\n- Cheat Items (power source, liquid source, item source with 36x faster)\n- Invincible Wall, Invincible Force Projector\n- Several strange projectors\n- Chronosphere Unloader and Pusher\n- Unit Factory that can build unit for enemys\n\n这是个作弊 mod，会降低游戏体验，请谨慎使用。\n主要特性：\n- 可调整的超速投影（更快，也可以更慢）\n- 队伍更换器\n- DPS 测试单位与测试墙\n- 无敌核心，无敌建造机\n- 作弊物品（电源、水源、物品源超快版）\n- 无敌围墙，无敌力场\n- 一大堆神奇力场\n- 时空提取器、时空推送器\n- 单位工厂（可以给敌人出兵）\n\nЭто читерный мод, злоупотребление испортит интерес к игре, острожней с этим.\nВозможности:\n- Настраиваемый сверхприводный проектор (ускорение или замедление)\n- Блоки, меняющие команду, за которую играют те или иные единицы (или вы сами)\n- Измеритель урона в секунду\n- Непобедимое ядро и его строительная боевая единица\n- Cheat Items (power source, liquid source, item source with 36x faster)\n- Неразрушаемые стены, силовой проектор с бесконечной прочностью\n- Несколько полезных проекторов\n- Дистанционный загрузчик и разгрузчик\n- Универсальный завод боевых единиц, также может производить их для врагов"
-  },
-  {
-    "repo": "xstabux/omaloon-public",
-    "name": "Omaloon",
-    "author": "StaBU, TheEE145",
-    "lastUpdated": "2023-01-21T15:23:32Z",
-    "stars": 43,
-    "minGameVersion": "140.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The Mindustry mod aims to expand the campaign by adding a new star system. In active development. For now, not suitable for games outside the sandbox."
   },
   {
     "repo": "deltanedas/dev-mode",
@@ -231,6 +231,17 @@
     "description": "Lets you type into the console.\nPress F8 to open."
   },
   {
+    "repo": "blackdeluxecat/mi2-utilities-java",
+    "name": "MI2-Utilities Java",
+    "author": "BlackDeluxeCat",
+    "lastUpdated": "2023-01-23T09:35:15Z",
+    "stars": 34,
+    "minGameVersion": "141.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "# MI2-Utilities Java\n一个原版辅助工具，有爱自取。\n\n安装方法：\n\n- 方法1 在游戏里使用“从github导入”，填BlackDeluxeCat/MI2-Utilities-Java\n- 方法2 进入本mod最新(Lateset)Release，下载文件列表中的MI2-Utilities Java.jar，在游戏里使用“导入文件”，导入所下载的jar。\n- 方法3 若已安装老版本，在游戏里点击mod详情页，重新安装。（仅限移动端）\n\n中文讨论群：875035496\n\n无力为其他语言做本地化，接受pr。\n\n## 特性列表（0.9.5）\n\n### ui\n\n#### 主界面\n- 快捷功能：一键规划重建、透视物流\n- AI辅助控制：挖矿、建造规划、维修、瞄准、拿取物品、跟随镜头。\n- 自动变速器：合乎逻辑的降速，避免低帧影响建筑工作。\n- 该窗口的选项弹窗包含MI2U的大部分选项。\n\n#### 核心信息\n- 原版核心信息+，资源变化折线图\n- 单位计数器\n- 电量条与电网分析\n- 可切换查看其他队伍\n\n#### 小地图\n- 基于原版地图渲染器\n- 可缩放至全图\n- 玩家单位显示名称\n- 点击移动视角\n- 天眼查查找全图地形/建筑\n\n#### 地图信息\n- 大部分地图规则\n- 波次预览工具，强制跳波\n- 详细的波次血量条\n\n#### 逻辑辅助\n- 整理与快捷复制变量名，可使用分隔符\n- 查找与替换变量名\n- 代码块剪切与复制\n\n#### Emoji\n- 一个emoji查阅工具\n\n### Mindow2\n本mod的可拖拽窗口。标题栏可进入选项弹窗、帮助页弹窗，具体请查阅各窗口的帮助页。\n拖拽、吸附等均可通过选项保存。\n\n### 杂项\n- 玩家光标平滑显示\n- 渲染单位血条、逻辑控制、寻路线\n- 维修、超速范围的精致渲染\n- 关闭残骸、单位、射弹、建筑渲染\n- 修改部分方块数值条\n- 更好的方块/单位/地形数值面板\n- 屏边移动视角（桌面端）\n- 添加一套地图筛选器，特色是可复合坐标变换\n- 99.5%的改动可以通过选项关闭\n- MI2U选项存储在$Mindustry/mods/MI2U_Settings/目录下"
+  },
+  {
     "repo": "pixecoz/mindustryschematics",
     "name": "Schematics Pack",
     "author": "pixecoz",
@@ -240,17 +251,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "ENG:\n⚠WARN: WHEN YOU INSTALL THIS MOD, ALL MOD SCHEMATICS WILL BE LOADED TO YOUR GAME SAVE. This means that even after removing the mod, the schemes will not be deleted. You have been warned. Aslo you can download normal pack as before on GitHub releases.\n\nMod adds schematics and map for schematics. Contains schematics for many resources, energy, units, and more.\n\nWith this pack you can learn different tricks in the schemes, and improve your skill in schemes.\n\nThanks to all those who make the schemes, because without you the mod would not exist!\n\n\n\nRUS:\n⚠ВНИМАНИЕ: КОГДА ТЫ УСТАНОВИШЬ ЭТОТ МОД, ВСЕ СХЕМЫ ИЗ МОДА ЗАГРУЗЯТСЯ В ТВОЁ ИГРОВОЕ СОХРАНЕНИЕ. Это значит, что даже после удаления мода, схемы не удалятся. Вы были предупреждены. Также вы можете скачать обычный пакет, как и раньше, на GitHub релизах.\n\nМод добавляет схемы и карту для схем. Содержит схемы для многих ресурсов, энергии, юнитов и многого другого.\n\nС помощью этого пака вы сможете изучить разные фишки в схемах и улучшить свое мастерство в схемах.\n\nСпасибо всем, кто делает схемы, ведь без вас мода бы не было!\n\n\nSpecial thanks to: Qwaka."
-  },
-  {
-    "repo": "blackdeluxecat/mi2-utilities-java",
-    "name": "MI2-Utilities Java",
-    "author": "BlackDeluxeCat",
-    "lastUpdated": "2023-01-23T09:35:15Z",
-    "stars": 32,
-    "minGameVersion": "141.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "# MI2-Utilities Java\n一个原版辅助工具，有爱自取。\n\n安装方法：\n\n- 方法1 在游戏里使用“从github导入”，填BlackDeluxeCat/MI2-Utilities-Java\n- 方法2 进入本mod最新(Lateset)Release，下载文件列表中的MI2-Utilities Java.jar，在游戏里使用“导入文件”，导入所下载的jar。\n- 方法3 若已安装老版本，在游戏里点击mod详情页，重新安装。（仅限移动端）\n\n中文讨论群：875035496\n\n无力为其他语言做本地化，接受pr。\n\n## 特性列表（0.9.5）\n\n### ui\n\n#### 主界面\n- 快捷功能：一键规划重建、透视物流\n- AI辅助控制：挖矿、建造规划、维修、瞄准、拿取物品、跟随镜头。\n- 自动变速器：合乎逻辑的降速，避免低帧影响建筑工作。\n- 该窗口的选项弹窗包含MI2U的大部分选项。\n\n#### 核心信息\n- 原版核心信息+，资源变化折线图\n- 单位计数器\n- 电量条与电网分析\n- 可切换查看其他队伍\n\n#### 小地图\n- 基于原版地图渲染器\n- 可缩放至全图\n- 玩家单位显示名称\n- 点击移动视角\n- 天眼查查找全图地形/建筑\n\n#### 地图信息\n- 大部分地图规则\n- 波次预览工具，强制跳波\n- 详细的波次血量条\n\n#### 逻辑辅助\n- 整理与快捷复制变量名，可使用分隔符\n- 查找与替换变量名\n- 代码块剪切与复制\n\n#### Emoji\n- 一个emoji查阅工具\n\n### Mindow2\n本mod的可拖拽窗口。标题栏可进入选项弹窗、帮助页弹窗，具体请查阅各窗口的帮助页。\n拖拽、吸附等均可通过选项保存。\n\n### 杂项\n- 玩家光标平滑显示\n- 渲染单位血条、逻辑控制、寻路线\n- 维修、超速范围的精致渲染\n- 关闭残骸、单位、射弹、建筑渲染\n- 修改部分方块数值条\n- 更好的方块/单位/地形数值面板\n- 屏边移动视角（桌面端）\n- 添加一套地图筛选器，特色是可复合坐标变换\n- 99.5%的改动可以通过选项关闭\n- MI2U选项存储在$Mindustry/mods/MI2U_Settings/目录下"
   },
   {
     "repo": "realshizi/oxynoe",
@@ -465,7 +465,7 @@
     "repo": "fredyjabe/aeyama",
     "name": "Aeyama: The New World",
     "author": "FredyJabe & Jojo",
-    "lastUpdated": "2023-01-23T06:36:43Z",
+    "lastUpdated": "2023-01-23T13:26:47Z",
     "stars": 18,
     "minGameVersion": "141.3",
     "hasScripts": true,
@@ -616,17 +616,6 @@
     "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
   },
   {
-    "repo": "riccj/minertools",
-    "name": "MinerTools",
-    "author": "miner",
-    "lastUpdated": "2023-01-19T16:40:45Z",
-    "stars": 14,
-    "minGameVersion": "136.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\n  # 功能\n\n  ---\n\n  ## UI\n  1. MinerToolsTable:\n     * 队伍信息:\n       * 队伍玩家数量(Tooltip显示基础队伍规则)\n       * 队伍单位显示\n       * 队伍全局电量(Tooltip显示详细电量情况)\n     * 一些有用的按钮:\n       * 暂停建造(仅手机)\n       * 自动升级传送带\n       * 重建方块\n       * 快捷投降\n     * 换队/跳波器\n     * 玩家列表:\n       * 所有玩家的名字\n       * 可锁定玩家视角(锁定的玩家控制炮塔时,会自动调整视角)\n       * 可切换到玩家视角\n       * 可一键投票踢出玩家\n     * 快捷蓝图\n     * 玩家AI:\n       * 挖矿AI\n       * 跟随AI\n\n  2. 聊天记录:\n     * 查询历史聊天记录\n     * 可以复制聊天记录(电脑:Ctrl+单击)\n\n  3. 更好的核心资源显示:\n     * 单位数量显示\n     * 物品每秒变化量显示\n     * 玩家预建消耗显示\n     * 可自定义的ui列数\n\n  4. 更好的信息面板:\n     * 单位,建筑,地板信息一起显示!\n     * 单位:\n       * 武器冷却状态\n     * 建筑:\n       * 物品详情\n     * 地板:\n       * 显示更详尽\n\n  ---\n\n  ## 画面\n  * 建筑:\n    * 选中:\n      * 异队选中信息\n      * 桥带连接详情\n    * 建筑血条\n    * 异队方块状态\n    * 构造方块耗材信息\n    * 附近炮塔警戒\n    * 物品炮塔子弹类型显示\n    * 单位工厂进度条\n\n  * 单位:\n    * 单位指示器(核心危险警告)\n    * 附近单位警戒\n\n    * 单位信息条:\n      * 血条\n      * 立场回复条\n      * 单位状态条\n      * 荷载条\n\n  * 玩家:\n    * 荷载拾放提示\n    * 玩家范围显示\n\n  ---\n\n  ## 其他小功能\n  * 进入游戏后,显示被ban的单位或方块\n  * UIScale的step修改\n  * 物品桥带可拿取物品\n  * 更多方块信息条:\n    * 血条: 血量显示更详细\n    * 进度条: 进度显示更详细\n\n  ---\n\n  # 其他\n  Mod的90%功均可在设置中打开或关闭!"
-  },
-  {
     "repo": "thomasthings/xenacia",
     "name": "Xenacia",
     "author": "Thomas",
@@ -636,6 +625,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that adds an entire new campaign, larger than serpulo. Still in Aplha stages."
+  },
+  {
+    "repo": "riccj/minertools",
+    "name": "MinerTools",
+    "author": "miner",
+    "lastUpdated": "2023-01-23T13:43:02Z",
+    "stars": 14,
+    "minGameVersion": "136.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\n  # 功能\n\n  ---\n\n  ## UI\n  1. MinerToolsTable:\n     * 队伍信息:\n       * 队伍玩家数量(Tooltip显示基础队伍规则)\n       * 队伍单位显示\n       * 队伍全局电量(Tooltip显示详细电量情况)\n     * 一些有用的按钮:\n       * 暂停建造(仅手机)\n       * 自动升级传送带\n       * 重建方块\n       * 快捷投降\n     * 换队/跳波器\n     * 玩家列表:\n       * 所有玩家的名字\n       * 可锁定玩家视角(锁定的玩家控制炮塔时,会自动调整视角)\n       * 可切换到玩家视角\n       * 可一键投票踢出玩家\n     * 快捷蓝图\n     * 玩家AI:\n       * 挖矿AI\n       * 跟随AI\n\n  2. 聊天记录:\n     * 查询历史聊天记录\n     * 可以复制聊天记录(电脑:Ctrl+单击)\n\n  3. 更好的核心资源显示:\n     * 单位数量显示\n     * 物品每秒变化量显示\n     * 玩家预建消耗显示\n     * 可自定义的ui列数\n\n  4. 更好的信息面板:\n     * 单位,建筑,地板信息一起显示!\n     * 单位:\n       * 武器冷却状态\n     * 建筑:\n       * 物品详情\n     * 地板:\n       * 显示更详尽\n\n  ---\n\n  ## 画面\n  * 建筑:\n    * 选中:\n      * 异队选中信息\n      * 桥带连接详情\n    * 建筑血条\n    * 异队方块状态\n    * 构造方块耗材信息\n    * 附近炮塔警戒\n    * 物品炮塔子弹类型显示\n    * 单位工厂进度条\n\n  * 单位:\n    * 单位指示器(核心危险警告)\n    * 附近单位警戒\n\n    * 单位信息条:\n      * 血条\n      * 立场回复条\n      * 单位状态条\n      * 荷载条\n\n  * 玩家:\n    * 荷载拾放提示\n    * 玩家范围显示\n\n  ---\n\n  ## 其他小功能\n  * 进入游戏后,显示被ban的单位或方块\n  * UIScale的step修改\n  * 物品桥带可拿取物品\n  * 更多方块信息条:\n    * 血条: 血量显示更详细\n    * 进度条: 进度显示更详细\n\n  ---\n\n  # 其他\n  Mod的90%功均可在设置中打开或关闭!"
   },
   {
     "repo": "evo04taser/super-cheat",
