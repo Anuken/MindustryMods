@@ -198,17 +198,6 @@
     "description": "Adds several new factions that include their own unique content. Uses some java classes."
   },
   {
-    "repo": "xstabux/omaloon-public",
-    "name": "Omaloon",
-    "author": "StaBU, TheEE145",
-    "lastUpdated": "2023-01-31T17:44:25Z",
-    "stars": 45,
-    "minGameVersion": "140.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The Mindustry mod aims to expand the campaign by adding a new star system. In active development. For now, not suitable for games outside the sandbox."
-  },
-  {
     "repo": "abomb4/super-cheat",
     "name": "(v7) Invincible Cheat 无敌作弊",
     "author": "滞人",
@@ -218,6 +207,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This is a cheat mod, abuse will reduce your game experience, be careful for using this.\nGitHub: https://github.com/abomb4/super-cheat\nemail:  abomb4@163.com\nWellcome to feedback!\n如果 Android 玩家发现物品描述都是英文，去游戏设置 -> 语言 -> 切换成任意其他语言（如繁体中文）-> 重启 -> 切回简体中文即可。\n\nFeatures:\n- Adjustable Overdrive Projector (speedup, or slow down)\n- Team Changer\n- DPS Tester Unit and Walls\n- Invincible Core and Invincible build plane\n- Cheat Items (power source, liquid source, item source with 36x faster)\n- Invincible Wall, Invincible Force Projector\n- Several strange projectors\n- Chronosphere Unloader and Pusher\n- Unit Factory that can build unit for enemys\n\n这是个作弊 mod，会降低游戏体验，请谨慎使用。\n主要特性：\n- 可调整的超速投影（更快，也可以更慢）\n- 队伍更换器\n- DPS 测试单位与测试墙\n- 无敌核心，无敌建造机\n- 作弊物品（电源、水源、物品源超快版）\n- 无敌围墙，无敌力场\n- 一大堆神奇力场\n- 时空提取器、时空推送器\n- 单位工厂（可以给敌人出兵）\n\nЭто читерный мод, злоупотребление испортит интерес к игре, острожней с этим.\nВозможности:\n- Настраиваемый сверхприводный проектор (ускорение или замедление)\n- Блоки, меняющие команду, за которую играют те или иные единицы (или вы сами)\n- Измеритель урона в секунду\n- Непобедимое ядро и его строительная боевая единица\n- Cheat Items (power source, liquid source, item source with 36x faster)\n- Неразрушаемые стены, силовой проектор с бесконечной прочностью\n- Несколько полезных проекторов\n- Дистанционный загрузчик и разгрузчик\n- Универсальный завод боевых единиц, также может производить их для врагов"
+  },
+  {
+    "repo": "xstabux/omaloon-public",
+    "name": "Omaloon",
+    "author": "StaBU, TheEE145",
+    "lastUpdated": "2023-01-31T17:44:25Z",
+    "stars": 44,
+    "minGameVersion": "140.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The Mindustry mod aims to expand the campaign by adding a new star system. In active development. For now, not suitable for games outside the sandbox."
   },
   {
     "repo": "deltanedas/dev-mode",
@@ -231,17 +231,6 @@
     "description": "Lets you type into the console.\nPress F8 to open."
   },
   {
-    "repo": "blackdeluxecat/mi2-utilities-java",
-    "name": "MI2-Utilities Java",
-    "author": "BlackDeluxeCat",
-    "lastUpdated": "2023-01-31T13:57:46Z",
-    "stars": 34,
-    "minGameVersion": "141.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "# MI2-Utilities Java\n一个原版辅助工具，有爱自取。\n\n安装方法：\n\n- 方法1 在游戏里使用“从github导入”，填BlackDeluxeCat/MI2-Utilities-Java\n- 方法2 进入本mod最新(Lateset)Release，下载文件列表中的MI2-Utilities Java.jar，在游戏里使用“导入文件”，导入所下载的jar。\n- 方法3 若已安装老版本，在游戏里点击mod详情页，重新安装。（仅限移动端）\n\n中文讨论群：875035496\n\n无力为其他语言做本地化，接受pr。\n\n## 特性列表（0.9.5）\n\n### ui\n\n#### 主界面\n- 快捷功能：一键规划重建、透视物流\n- AI辅助控制：挖矿、建造规划、维修、瞄准、拿取物品、跟随镜头。\n- 自动变速器：合乎逻辑的降速，避免低帧影响建筑工作。\n- 该窗口的选项弹窗包含MI2U的大部分选项。\n\n#### 核心信息\n- 原版核心信息+，资源变化折线图\n- 单位计数器\n- 电量条与电网分析\n- 可切换查看其他队伍\n\n#### 小地图\n- 基于原版地图渲染器\n- 可缩放至全图\n- 玩家单位显示名称\n- 点击移动视角\n- 天眼查查找全图地形/建筑\n\n#### 地图信息\n- 大部分地图规则\n- 波次预览工具，强制跳波\n- 详细的波次血量条\n\n#### 逻辑辅助\n- 整理与快捷复制变量名，可使用分隔符\n- 查找与替换变量名\n- 代码块剪切与复制\n\n#### Emoji\n- 一个emoji查阅工具\n\n### Mindow2\n本mod的可拖拽窗口。标题栏可进入选项弹窗、帮助页弹窗，具体请查阅各窗口的帮助页。\n拖拽、吸附等均可通过选项保存。\n\n### 杂项\n- 玩家光标平滑显示\n- 渲染单位血条、逻辑控制、寻路线\n- 维修、超速范围的精致渲染\n- 关闭残骸、单位、射弹、建筑渲染\n- 修改部分方块数值条\n- 更好的方块/单位/地形数值面板\n- 屏边移动视角（桌面端）\n- 添加一套地图筛选器，特色是可复合坐标变换\n- 99.5%的改动可以通过选项关闭\n- MI2U选项存储在$Mindustry/mods/MI2U_Settings/目录下"
-  },
-  {
     "repo": "pixecoz/mindustryschematics",
     "name": "Schematics Pack",
     "author": "pixecoz",
@@ -251,6 +240,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "ENG:\n⚠WARN: WHEN YOU INSTALL THIS MOD, ALL MOD SCHEMATICS WILL BE LOADED TO YOUR GAME SAVE. This means that even after removing the mod, the schemes will not be deleted. You have been warned. Aslo you can download normal pack as before on GitHub releases.\n\nMod adds schematics and map for schematics. Contains schematics for many resources, energy, units, and more.\n\nWith this pack you can learn different tricks in the schemes, and improve your skill in schemes.\n\nThanks to all those who make the schemes, because without you the mod would not exist!\n\n\n\nRUS:\n⚠ВНИМАНИЕ: КОГДА ТЫ УСТАНОВИШЬ ЭТОТ МОД, ВСЕ СХЕМЫ ИЗ МОДА ЗАГРУЗЯТСЯ В ТВОЁ ИГРОВОЕ СОХРАНЕНИЕ. Это значит, что даже после удаления мода, схемы не удалятся. Вы были предупреждены. Также вы можете скачать обычный пакет, как и раньше, на GitHub релизах.\n\nМод добавляет схемы и карту для схем. Содержит схемы для многих ресурсов, энергии, юнитов и многого другого.\n\nС помощью этого пака вы сможете изучить разные фишки в схемах и улучшить свое мастерство в схемах.\n\nСпасибо всем, кто делает схемы, ведь без вас мода бы не было!\n\n\nSpecial thanks to: Qwaka."
+  },
+  {
+    "repo": "blackdeluxecat/mi2-utilities-java",
+    "name": "MI2-Utilities Java",
+    "author": "BlackDeluxeCat",
+    "lastUpdated": "2023-01-31T13:57:46Z",
+    "stars": 32,
+    "minGameVersion": "141.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "# MI2-Utilities Java\n一个原版辅助工具，有爱自取。\n\n安装方法：\n\n- 方法1 在游戏里使用“从github导入”，填BlackDeluxeCat/MI2-Utilities-Java\n- 方法2 进入本mod最新(Lateset)Release，下载文件列表中的MI2-Utilities Java.jar，在游戏里使用“导入文件”，导入所下载的jar。\n- 方法3 若已安装老版本，在游戏里点击mod详情页，重新安装。（仅限移动端）\n\n中文讨论群：875035496\n\n无力为其他语言做本地化，接受pr。\n\n## 特性列表（0.9.5）\n\n### ui\n\n#### 主界面\n- 快捷功能：一键规划重建、透视物流\n- AI辅助控制：挖矿、建造规划、维修、瞄准、拿取物品、跟随镜头。\n- 自动变速器：合乎逻辑的降速，避免低帧影响建筑工作。\n- 该窗口的选项弹窗包含MI2U的大部分选项。\n\n#### 核心信息\n- 原版核心信息+，资源变化折线图\n- 单位计数器\n- 电量条与电网分析\n- 可切换查看其他队伍\n\n#### 小地图\n- 基于原版地图渲染器\n- 可缩放至全图\n- 玩家单位显示名称\n- 点击移动视角\n- 天眼查查找全图地形/建筑\n\n#### 地图信息\n- 大部分地图规则\n- 波次预览工具，强制跳波\n- 详细的波次血量条\n\n#### 逻辑辅助\n- 整理与快捷复制变量名，可使用分隔符\n- 查找与替换变量名\n- 代码块剪切与复制\n\n#### Emoji\n- 一个emoji查阅工具\n\n### Mindow2\n本mod的可拖拽窗口。标题栏可进入选项弹窗、帮助页弹窗，具体请查阅各窗口的帮助页。\n拖拽、吸附等均可通过选项保存。\n\n### 杂项\n- 玩家光标平滑显示\n- 渲染单位血条、逻辑控制、寻路线\n- 维修、超速范围的精致渲染\n- 关闭残骸、单位、射弹、建筑渲染\n- 修改部分方块数值条\n- 更好的方块/单位/地形数值面板\n- 屏边移动视角（桌面端）\n- 添加一套地图筛选器，特色是可复合坐标变换\n- 99.5%的改动可以通过选项关闭\n- MI2U选项存储在$Mindustry/mods/MI2U_Settings/目录下"
   },
   {
     "repo": "realshizi/oxynoe",
@@ -289,7 +289,7 @@
     "repo": "meepoffaith/testing-utilities-java",
     "name": "Testing Utilities",
     "author": "MEEP of Faith",
-    "lastUpdated": "2023-01-22T23:08:14Z",
+    "lastUpdated": "2023-01-31T18:49:45Z",
     "stars": 27,
     "minGameVersion": "140.4",
     "hasScripts": false,
@@ -311,7 +311,7 @@
     "repo": "fredyjabe/aeyama",
     "name": "Aeyama: The New World",
     "author": "FredyJabe & Jojo",
-    "lastUpdated": "2023-01-31T14:42:52Z",
+    "lastUpdated": "2023-01-31T18:36:33Z",
     "stars": 25,
     "minGameVersion": "141.3",
     "hasScripts": true,
@@ -484,17 +484,6 @@
     "description": "Very pog."
   },
   {
-    "repo": "mindustrydagger/vanillaplus",
-    "name": "VanillaPlus",
-    "author": "[#FFC000]Mindustry[#16E516]Dagger[#FFFFFF]([#16E516]Кинжал[#FFFFFF])",
-    "lastUpdated": "2022-12-03T07:32:22Z",
-    "stars": 17,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "[#00FFFF](RU)[#FFFFFF] Модификация добавляет полезные блоки.[#0080FF] Мод создан мной, я русский.[#FF4747] Мод добавляет юнитов(икнаТ), заводы, конвейеры и ещё много всего.[#00FF80] Версия мода[#FFC000] 0.1 [#FF4747]Альфа.\n[#00FFFF](EN)[#FFFFFF] Modification adds useful blocks.[#FF4747] The mod was created by me, I'm russian.[#0080FF] Mod adds units(sknaT), factories, conveyors and many more blocks.[#00FF80] Mod version[#FFC000] 0.1 [#FF4747]Alpha."
-  },
-  {
     "repo": "jslkr2707/mindustry-ages",
     "name": "Mindustry: Ages",
     "author": "AshesKaiser",
@@ -550,17 +539,6 @@
     "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
   },
   {
-    "repo": "wmf-industries/expandedindustries",
-    "name": "Expanded Industries",
-    "author": "WMF Industries",
-    "lastUpdated": "2023-01-19T22:14:01Z",
-    "stars": 15,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Reworked content for people to enjoy :>\n-Current version : 1.5 [B5]"
-  },
-  {
     "repo": "mythril382/roombas",
     "name": "Roombas",
     "author": "Mythril",
@@ -583,6 +561,17 @@
     "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts"
   },
   {
+    "repo": "mindustrydagger/vanillaplus",
+    "name": "VanillaPlus",
+    "author": "[#FFC000]Mindustry[#16E516]Dagger[#FFFFFF]([#16E516]Кинжал[#FFFFFF])",
+    "lastUpdated": "2022-12-03T07:32:22Z",
+    "stars": 14,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "[#00FFFF](RU)[#FFFFFF] Модификация добавляет полезные блоки.[#0080FF] Мод создан мной, я русский.[#FF4747] Мод добавляет юнитов(икнаТ), заводы, конвейеры и ещё много всего.[#00FF80] Версия мода[#FFC000] 0.1 [#FF4747]Альфа.\n[#00FFFF](EN)[#FFFFFF] Modification adds useful blocks.[#FF4747] The mod was created by me, I'm russian.[#0080FF] Mod adds units(sknaT), factories, conveyors and many more blocks.[#00FF80] Mod version[#FFC000] 0.1 [#FF4747]Alpha."
+  },
+  {
     "repo": "pointifix/autodrill",
     "name": "AutoDrill",
     "author": "Pointifix",
@@ -603,6 +592,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "An experimental modification created to test v7's new API themed around Frostscapes and Volcanoes. Aims to one day create a satasfying rogue-lite experiance in your tower-defense real time stratagy factory game. Will *not* be worked on consistently due to life, thank you if you chose to use this.\n\n[darkgray]A voice lingers in the darkness, dancing around your ears. Will you join it?"
+  },
+  {
+    "repo": "wmf-industries/expandedindustries",
+    "name": "Expanded Industries",
+    "author": "WMF Industries",
+    "lastUpdated": "2023-01-19T22:14:01Z",
+    "stars": 14,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Reworked content for people to enjoy :>\n-Current version : 1.5 [B5]"
   },
   {
     "repo": "riccj/minertools",
@@ -1265,17 +1265,6 @@
     "description": "\nThis mod adds all vanilla turrets as units.\n\nIt is a FUN mod and in no way meant to be balanced!\n\n(Just imagine a meltdown flying towards you at 100 mp/h)\n"
   },
   {
-    "repo": "prosta4okua/ukrajinisator",
-    "name": "Ukrainian translation",
-    "author": "Prosta4ok_ua#6336",
-    "lastUpdated": "2022-12-03T12:23:58Z",
-    "stars": 6,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\nWARNING: For Ukrainian language only.\n\nModification for translation testing. Can be used for an example testing bundles and for testing a new Ukrainian translation. Developed in Ukraine.\nSupports v7 only.\n\nDiscord for Ukrainian speaking: https://discord.gg/VDjWyCssvP\n\n----------------------------------------\n\nПОПЕРЕДЖЕННЯ: Лише для української мови.\n\nМодифікація для тестування перекладів. Можете використовувати задля прикладу і задля тестування нового українського перекладу. Розроблено в Україні.\nПідтримує тільки v7.\n\nDiscord для українськомовних: https://discord.gg/VDjWyCssvP"
-  },
-  {
     "repo": "ferlern/extended-ui-v7",
     "name": "extended UI",
     "author": "wizer",
@@ -1309,17 +1298,6 @@
     "description": "A mod that add nuclear related items and blocks."
   },
   {
-    "repo": "shimyytrov/turret-expansion",
-    "name": "Turret Expansion",
-    "author": "Shimyytrov Modding Team",
-    "lastUpdated": "2023-01-29T05:46:36Z",
-    "stars": 6,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod adds more turrets."
-  },
-  {
     "repo": "uenhe/fire",
     "name": "Fire",
     "author": "飞雨a_ssylfyzgmz && -Uenhe饨咂-",
@@ -1329,6 +1307,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\r\n\t[royal]A Mindustry Mod that adds a lots of WEIRD things.\r\n\t一个奇奇怪怪又十分核锂的mod...\r\n\t[gold]由 [acid]飞雨a_sszylfyzgmz [gold]和 [cyan]-Uenhe饨咂- [gold]共同制作\r\n\t[violet]你可以在bilibili uid516898377 和 uid327502129 找到他们\r\n\t[acid]Supports English!\r\n\t\r\n\t[lime]模组QQ交流群：711467227\r\n\t如果你发现了该mod的bug，或是有关于该mod的建议，欢迎在此群反映\r\n\t\r\n\t[slate]GitHub URL: https://github.com/Uenhe/Fire\r\n\t\r\n\tIf you suppose that the mod is AWESOME, plz star us on GitHub, thanks!\r\n\t如果你觉得该mod很棒的话，一定要去GitHub给这个项目点个星星啊！\r\n\t\r\n\t[white]更新记录一览：\r\n\t\r\n\tv1.0.3\r\n\t又修复了关于战役的几个bug\r\n\t减少了离塞塔的一些基础方块的研究消耗\r\n\t感谢 NJSAAA 重绘的 守护 的贴图（名称以群内为准，乐死我了）\r\n\t\r\n\tv1.0.2\r\n\t重绘了一些方块的贴图\r\n\t给装甲核心添加了力墙（注：方块数据有变动，导致装有旧版装甲核心的图会损坏）\r\n\t在设置里添加了手挖沙的开关\r\n\t关于存档损坏：请先回滚版本到v1.0.1，然后将所有图的装甲核心拆除或摧毁，确认后再更新版本！\r\n\t\r\n\tv1.0.1\r\n\t紧急修复了关于战役的几个bug\r\n\t\r\n\tv1.0.0\r\n\t火种正式版的诞生！\r\n\t\r\n\tv0.9.7.20221230\r\n\t更cool的篝火\r\n\t\r\n\tv0.9.6.20221221\r\n\t新物品-流火结晶，和它的工厂\r\n\t\r\n\tv0.9.5.20221216\r\n\t新单位线-空风\r\n\t新方块-Javelin机甲平台，没错，就是v5那玩意！\r\n\t新单位-Javelin，已经做了最大努力去还原了（\r\n\t新方块-建筑治疗仪\r\n\t\r\n\tv0.9.4.20221215\r\n\t新方块-焰燃发电机，只能接受燃烧性>=115%的物品\r\n\t\r\n\tv0.9.3.20221213\r\n\t新炮塔-倒海，鉴于海啸的手实在有点短...\r\n\t更cool的裂变钻头\r\n\t\r\n\tv0.9.2.20221212\r\n\t新地图-昏暗车间\r\n\t新状态-冻伤\r\n\t给波浪和海啸加了液氮弹药\r\n\t\r\n\tv0.9.1.20221209\r\n\t新单位-荡空，定位大概是T6空战\r\n\t新方块-复合传送带，运力25/s\r\n\t修改了Error的武器\r\n\t\r\n\tv0.9.20221208\r\n\t给导体节点加了存电功能\r\n\t\r\n\tv0.9.20221207\r\n\t新方块-建造指示器\r\n\t\r\n\tv0.9.20221206\r\n\t给魇光加了非常coooool的巨⚡浪⚡合⚡金⚡弹药\r\n\t\r\n\tv0.9.20221205\r\n\t新物品-云爆弹，和它的工厂\r\n\t给击碎加了云爆弹弹药\r\n\t\r\n\tv0.9.20221203\r\n\t新地图-海滩登陆\r\n\t新地图-恒河要塞\r\n\t新方块-水坝墙，只能放置在水上\r\n\t\r\n\tv0.9.20221202\r\n\t新炮塔-点燃\r\n\t\r\n\tv0.9.20221201\r\n\t为火种创建了Github项目\r\n\t\r\n\tv0.9.20221130\r\n\t为树场增加了草地效率加成\r\n\t\r\n\tv0.9.20221129\r\n\t新方块-伐木机，可以砍伐原版的树木类墙壁来获得木材\r\n\t\r\n\tv0.9.20221128\r\n\t给木材焚烧厂增加了发电功能\r\n\t重绘了一些截图来的贴图，难绷\r\n\t\r\n\tv0.9.20221127\r\n\t新工厂-生物质增生机\r\n\t\r\n\tv0.9.20221125\r\n\t下调了篝火的超速范围，原半径256格属实有点离谱...\r\n\t落实了热能窑炉的热能\r\n\t调整了一些原版方块，使其配比更符合人体工程学\r\n\t增加了T3爬辅-卫戍(shù)\r\n\t\r\n\tv0.9.20221123\r\n\t增加了T2爬辅-抗御\r\n\t\r\n\tv0.9.20221122\r\n\t新增新兵种线-爬辅（暂且这样叫吧...），拥有以下特性：\r\n\t可以跨越大多数地形\r\n\t拥有强大的辅助能力（大嘘）\r\n\t通常情况下没有攻击的能力\r\n\t通常情况下不会被敌方炮塔或单位瞄准，但仍会受到伤害\r\n\t增加了T1爬辅-守护\r\n\t\r\n\tv0.8.20221119\r\n\t火种从劫难里解放出来了...感谢woodjacket（硫缺铅）佬的指导！\r\n\t\r\n\tv0.8.20221118\r\n\t调整血肉墙-由间歇性修复变为持续性修复\r\n\t\r\n\tv0.8.20221117\r\n\t新地图-黑沙平原\r\n\t火种经历了一场劫难（大悲）\r\n\t\r\n\tv0.8.20221116\r\n\t将火种大部分内容转移进科技树（json甚至能做到单开科技树...）\r\n\t新地图-零号一角\r\n\t\r\n\tv0.8.20221115\r\n\t新增英文翻译，可以将语言调至英文来体验Uenhe充满抛瓦的翻译...\r\n\t如果各位发现英文翻译有不恰当的地方，欢迎提出\r\n\t调整裂变钻头-增加被摧毁时的特效，略微下调挖掘速度\r\n\t调整功能机-更名为奥米克戎（Omicron），射速下调\r\n\t调整魇光-血量下调，给几种子弹增加了特殊射程判定（平衡不好说）\r\n\t修复了一些物品的贴图尺寸问题\r\n\t新增了个icon.png，但没有应用\r\n\t\r\n\tv0.8.20221114\r\n\t开屏UI & Aunke式logo诞生！\r\n\t调整了炮塔的造价，使其变得没那么贵\r\n\t魇光射程下调，射速下调\r\n\t调整降落基地，难度下降\r\n\t调整装甲核心-削弱血量，装甲，容量\r\n\t（题外话：降落基地由飞雨制作，但他自己也打不过，Uenhe被折磨了三次才过去的。这才是这张图难度下调的真正原因...）\r\n\t\r\n\tv0.8.20221113\r\n\t增加星球-离塞塔，使用塞普罗科技，并附带起始图-降落基地\r\n\t作者会时不时增加地图，也欢迎各位投稿\r\n\t（破星球代码，无论是对飞雨还是对Uenhe，都造成了极大的心理创伤...）\r\n\t\r\n\tv0.7.20221111\r\n\t新物品-导⚡体⚡，及其工厂\r\n\t修改了液氮厂的贴图，给一些工厂加了特效\r\n\t\r\n\tv0.7.20221104\r\n\t新Boss级单位-Error，很离谱的强度\r\n\t\r\n\tv0.7.20221013\r\n\t新炮台-天眼，贴图依然很像个笑脸（悲）\r\n\t\r\n\tv0.7.20221006\r\n\t给魇光加了点弹药\r\n\t修改了功能机的贴图（不再缝合，虽然有点丑）\r\n\t\r\n\tv0.6.20220924\r\n\t调整氧气反应器-配方修改\r\n\t新工厂-液氮压缩机\r\n\t新液体-液氮\r\n\t\r\n\tv0.6.20220923\r\n\t调整便携核心（名字 -> 装甲核心，属性几乎全部重制）\r\n\t调整裂变钻头（造价微调）\r\n\t调整原版核心保护机甲alpha和beta（变为可制作，通过空军工厂制作alpha并用单位重构工厂往上升级）\r\n\t新单位-功能机（T3空军，通过beta升级而来，同时作为装甲核心的保护机甲）\r\n\t新单位-疾风，定位T1坦克\r\n\t移除了herobrine\r\n\t\r\n\tv0.?.2022082?\r\n\t开端...\r\n"
+  },
+  {
+    "repo": "prosta4okua/ukrajinisator",
+    "name": "Ukrainian translation",
+    "author": "Prosta4ok_ua#6336",
+    "lastUpdated": "2023-01-31T20:01:07Z",
+    "stars": 6,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nWARNING: For Ukrainian language only.\n\nModification for translation testing. Can be used for an example testing bundles and for testing a new Ukrainian translation. Developed in Ukraine.\nSupports v7 only.\n\nDiscord for Ukrainian speaking: https://discord.gg/VDjWyCssvP\n\n----------------------------------------\n\nПОПЕРЕДЖЕННЯ: Лише для української мови.\n\nМодифікація для тестування перекладів. Можете використовувати задля прикладу і задля тестування нового українського перекладу. Розроблено в Україні.\nПідтримує тільки v7.\n\nDiscord для українськомовних: https://discord.gg/VDjWyCssvP"
   },
   {
     "repo": "mythril382/terraria-sounds",
@@ -1474,17 +1463,6 @@
     "description": "Pyratite focused mod which adds units turrets drills and factorys"
   },
   {
-    "repo": "vaporspace2/endrium-2",
-    "name": "EndriumMod 2",
-    "author": "tommyboo(antumbra)#4708 & Aegires",
-    "lastUpdated": "2023-01-07T19:28:48Z",
-    "stars": 5,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Vanilla extension mod, made to have a vanilla like feel, adds items past what would normally be endgame and even QOL blocks! Discord server: https://discord.gg/hGqEVwsg"
-  },
-  {
     "repo": "wmf-industries/terios",
     "name": "Terios",
     "author": "WMF Industries",
@@ -1518,15 +1496,15 @@
     "description": "Hi. This mod is work-in-progress, but you can play it, and maybe you will enjoy it. \n There is only a thing. This mod is absolutely not balanced. do not have any expectation of encountering a perfectly balanced thing. All of this mod is or extremely overpowered, or not enought good(principally all is overpowered). Also, the sound effects are not currently implemented and some sprites are missing.Unit factories will come soon!!!"
   },
   {
-    "repo": "rylid-umil/new-units",
-    "name": "New Units",
-    "author": "Cle",
-    "lastUpdated": "2023-01-24T22:49:58Z",
+    "repo": "shimyytrov/turret-expansion",
+    "name": "Turret Expansion",
+    "author": "Shimyytrov Modding Team",
+    "lastUpdated": "2023-01-29T05:46:36Z",
     "stars": 5,
     "minGameVersion": "136",
-    "hasScripts": false,
+    "hasScripts": true,
     "hasJava": false,
-    "description": "My very first mod! credit to: MaxSmoke"
+    "description": "A mod adds more turrets."
   },
   {
     "repo": "deltanedas/radar",
@@ -2717,6 +2695,17 @@
     "description": "Adds logic blocks to Erekir.\nForked to fix logic link names, not compatible with the original mod by DaRealMonika [blue]github.com/DaRealMonika/Eriker-Logic[]."
   },
   {
+    "repo": "vaporspace2/endrium-2",
+    "name": "EndriumMod 2",
+    "author": "tommyboo(antumbra)#4708 & Aegires",
+    "lastUpdated": "2023-01-07T19:28:48Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Vanilla extension mod, made to have a vanilla like feel, adds items past what would normally be endgame and even QOL blocks! Discord server: https://discord.gg/hGqEVwsg"
+  },
+  {
     "repo": "froomeeth/javaserilia",
     "name": "Serilia",
     "author": "FrooMeeth",
@@ -2748,6 +2737,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Dausas Project mod"
+  },
+  {
+    "repo": "rylid-umil/new-units",
+    "name": "New Units",
+    "author": "Cle",
+    "lastUpdated": "2023-01-24T22:49:58Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "My very first mod! credit to: MaxSmoke"
   },
   {
     "repo": "blackdeluxecat/settingsweep",
@@ -2871,17 +2871,6 @@
     "description": "1. added focus feedback on Element Show & Selection.\n2. fixed a bug memory bug which didn't remove window when it's close.\n3. changed mod data directory.\n4. optimized code.\n5. fixed some of other small bugs.\n---------------------------------\n1. 添加 审查元素 和 选择器 的焦点反馈.\n2. 修复窗口关闭时仍占内存的bug.\n3. 修改的mod数据目录.\n4. 优化代码.\n5. 修复其他一些bug."
   },
   {
-    "repo": "otamamori917/axthrix-modded2",
-    "name": "Axthrix",
-    "author": "Otamamori#4716",
-    "lastUpdated": "2023-01-31T16:06:18Z",
-    "stars": 2,
-    "minGameVersion": "140.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A very beta and cool mod great stuff but grindy. Requires Liplum/MultiCrafter lib"
-  },
-  {
     "repo": "semastaraka/additionalvanillaunit",
     "name": "AdditionalVanillaUnit",
     "author": "semka",
@@ -2891,6 +2880,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "STAR my mod, pls. Adds a new vanilla unit in vanilla unit factory!\n  **Languages:\n    1.Russian\n    1.English**\n"
+  },
+  {
+    "repo": "otamamori917/axthrix-modded2",
+    "name": "Axthrix",
+    "author": "Otamamori#4716",
+    "lastUpdated": "2023-01-31T18:44:28Z",
+    "stars": 2,
+    "minGameVersion": "140.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A very beta and cool mod great stuff but grindy. Requires Liplum/MultiCrafter lib"
   },
   {
     "repo": "explerhd/unnamedmods",
