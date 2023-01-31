@@ -201,7 +201,7 @@
     "repo": "xstabux/omaloon-public",
     "name": "Omaloon",
     "author": "StaBU, TheEE145",
-    "lastUpdated": "2023-01-29T17:58:30Z",
+    "lastUpdated": "2023-01-31T17:44:25Z",
     "stars": 45,
     "minGameVersion": "140.3",
     "hasScripts": false,
@@ -319,6 +319,17 @@
     "description": "This mod will allow you to explore a whole new world, with a new Tech Tree and a brand new campaign.\n\n    [gray]Version: [lightgray]0.2.0release\n    [gray]Language: [white]- English\n                       [white]- French\n                       [white]- Russian [red](WIP)\n                       [white]- Polish [red](WIP)\n                       [white]- Ukrainian [red](WIP)\n                       [white]- Simplified Chinese [red](WIP)\n    \n    [gray]Contributors: [white]- RouterXdd\n                            [white]- pepters\n                            [white]- [blue]SUS [white]([yellow]1stvaliduser[white])\n\n. . . check our GitHub repository for more info!"
   },
   {
+    "repo": "mindustry-antigrief/installer",
+    "name": "Foo's Client Installer",
+    "author": "foo, buthed010203",
+    "lastUpdated": "2022-11-08T23:31:31Z",
+    "stars": 24,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
+  },
+  {
     "repo": "deltanedas/unit-factory",
     "name": "Unit Factory",
     "author": "deltanedas",
@@ -328,17 +339,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Spawn any enemy in sandbox or on multiplayer, with /js (if supported).\nRequires deltanedas/ui-lib."
-  },
-  {
-    "repo": "mindustry-antigrief/installer",
-    "name": "Foo's Client Installer",
-    "author": "foo, buthed010203",
-    "lastUpdated": "2022-11-08T23:31:31Z",
-    "stars": 23,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
   },
   {
     "repo": "uujuju1/project-oblivion",
@@ -539,6 +539,17 @@
     "description": "I know the name is very boring but i can't find another name. A mod that adds a great amount of content to the game. Have fun with the mod."
   },
   {
+    "repo": "flintyx/autoresearch",
+    "name": "Auto Research",
+    "author": "Flin",
+    "lastUpdated": "2023-01-15T03:31:41Z",
+    "stars": 15,
+    "minGameVersion": "141",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
+  },
+  {
     "repo": "wmf-industries/expandedindustries",
     "name": "Expanded Industries",
     "author": "WMF Industries",
@@ -592,17 +603,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "An experimental modification created to test v7's new API themed around Frostscapes and Volcanoes. Aims to one day create a satasfying rogue-lite experiance in your tower-defense real time stratagy factory game. Will *not* be worked on consistently due to life, thank you if you chose to use this.\n\n[darkgray]A voice lingers in the darkness, dancing around your ears. Will you join it?"
-  },
-  {
-    "repo": "flintyx/autoresearch",
-    "name": "Auto Research",
-    "author": "Flin",
-    "lastUpdated": "2023-01-15T03:31:41Z",
-    "stars": 14,
-    "minGameVersion": "141",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
   },
   {
     "repo": "riccj/minertools",
@@ -1045,17 +1045,6 @@
     "description": "A mod for Mindustry that adds MOAR to your game.\n\nLast Update: v7 Patch on 1-27-2023\n\nPing me on discord with suggestions/issues: jhrushbe#8085"
   },
   {
-    "repo": "arth0x/mindustrinity",
-    "name": "MindusTrinity",
-    "author": "[#009BFF]Wolflab Studio",
-    "lastUpdated": "2023-01-30T08:54:36Z",
-    "stars": 8,
-    "minGameVersion": "140.4",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Add a lot of vanilla improvement :\n \n    -Add new turrets / items / liquids and more\n    -You can now biuld T6 units\n    -Mod compatible with multiplayer and campain\n\nStill in in development so might be bugged or unbalanced for now\nDon't forget to review and drop a star :P\n \n \n       \n    - Arth0x"
-  },
-  {
     "repo": "deltanedas/waisa",
     "name": "WAISA",
     "author": "deltanedas",
@@ -1175,6 +1164,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Z.P.G.M. Mod dla dużej rozpierduchy oraz zabawy. Wspierający: Świrek3331, Not_Bot, Kamil, Zielony Trójkąt. Gigantyczne podziękowania dla Stalkera za zaanagżowanie w pracę z teksturami, oraz dla Dream Lorda, za nieocenioną pomoc z kodem (bez ciebie nie powstałoby nawet 1.0). Discord: https://discord.gg/E3T9JxDuTP Mod currently unavaible in English. Ask about me in #polski in official mindustry discord if you want to contact."
+  },
+  {
+    "repo": "arth0x/mindustrinity",
+    "name": "MindusTrinity",
+    "author": "[#009BFF]Wolflab Studio",
+    "lastUpdated": "2023-01-30T08:54:36Z",
+    "stars": 7,
+    "minGameVersion": "140.4",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Add a lot of vanilla improvement :\n \n    -Add new turrets / items / liquids and more\n    -You can now biuld T6 units\n    -Mod compatible with multiplayer and campain\n\nStill in in development so might be bugged or unbalanced for now\nDon't forget to review and drop a star :P\n \n \n       \n    - Arth0x"
   },
   {
     "repo": "mythril382/loudustry",
@@ -2816,6 +2816,17 @@
     "description": "A Mindustry Java mod template."
   },
   {
+    "repo": "teamoct/fos-ost",
+    "name": "Fictional Octo System OST",
+    "author": "Team Oct",
+    "lastUpdated": "2023-01-29T19:42:36Z",
+    "stars": 2,
+    "minGameVersion": "140.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Original soundtrack (made by Saigo no-nozomi) for a Mindustry mod Fictional Octo System."
+  },
+  {
     "repo": "unionofsovietsocialistrepublics/babiesunit",
     "name": "Babies unit!",
     "author": "Horizon Cult",
@@ -2838,6 +2849,17 @@
     "description": "A Mindustry mod."
   },
   {
+    "repo": "tripletoxic/math-stuff",
+    "name": "Math-stuff",
+    "author": "Triple-Toxic",
+    "lastUpdated": "2023-01-31T02:00:12Z",
+    "stars": 2,
+    "minGameVersion": "141.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "More math stuff"
+  },
+  {
     "repo": "i-hope1/mod-tools",
     "name": "mod工具",
     "author": "I hope...",
@@ -2849,26 +2871,26 @@
     "description": "1. added focus feedback on Element Show & Selection.\n2. fixed a bug memory bug which didn't remove window when it's close.\n3. changed mod data directory.\n4. optimized code.\n5. fixed some of other small bugs.\n---------------------------------\n1. 添加 审查元素 和 选择器 的焦点反馈.\n2. 修复窗口关闭时仍占内存的bug.\n3. 修改的mod数据目录.\n4. 优化代码.\n5. 修复其他一些bug."
   },
   {
-    "repo": "semastaraka/additionalvanillaunit",
-    "name": "AdditionalVanillaUnit",
-    "author": "semka",
-    "lastUpdated": "2023-01-31T14:10:30Z",
-    "stars": 2,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Best balanced mod!"
-  },
-  {
     "repo": "otamamori917/axthrix-modded2",
     "name": "Axthrix",
     "author": "Otamamori#4716",
-    "lastUpdated": "2023-01-31T15:09:31Z",
+    "lastUpdated": "2023-01-31T16:06:18Z",
     "stars": 2,
     "minGameVersion": "140.1",
     "hasScripts": false,
     "hasJava": false,
     "description": "A very beta and cool mod great stuff but grindy. Requires Liplum/MultiCrafter lib"
+  },
+  {
+    "repo": "semastaraka/additionalvanillaunit",
+    "name": "AdditionalVanillaUnit",
+    "author": "semka",
+    "lastUpdated": "2023-01-31T17:19:31Z",
+    "stars": 2,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "STAR my mod, pls. Adds a new vanilla unit in vanilla unit factory!\n  **Languages:\n    1.Russian\n    1.English**\n"
   },
   {
     "repo": "explerhd/unnamedmods",
@@ -3377,17 +3399,6 @@
     "description": "A Mindustry Java mod "
   },
   {
-    "repo": "teamoct/fos-ost",
-    "name": "Fictional Octo System OST",
-    "author": "Team Oct",
-    "lastUpdated": "2023-01-29T19:42:36Z",
-    "stars": 1,
-    "minGameVersion": "140.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Original soundtrack (made by Saigo no-nozomi) for a Mindustry mod Fictional Octo System."
-  },
-  {
     "repo": "calebmonkey/mindustry-taller",
     "name": "Mindustry Taller",
     "author": "CalebMonkey",
@@ -3408,17 +3419,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\nrelease, horayyy!\n"
-  },
-  {
-    "repo": "tripletoxic/math-stuff",
-    "name": "Math-stuff",
-    "author": "Triple-Toxic",
-    "lastUpdated": "2023-01-31T02:00:12Z",
-    "stars": 1,
-    "minGameVersion": "141.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "More math stuff"
   },
   {
     "repo": "pepa3/mindustrymod",
