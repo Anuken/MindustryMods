@@ -495,6 +495,17 @@
     "description": "My first java Mindustry mod"
   },
   {
+    "repo": "flintyx/autoresearch",
+    "name": "Auto Research",
+    "author": "Flin",
+    "lastUpdated": "2023-02-04T00:59:58Z",
+    "stars": 17,
+    "minGameVersion": "141",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
+  },
+  {
     "repo": "vvseangtvv/v5-classic",
     "name": "V5 Reborn",
     "author": "VvSeanGtvV",
@@ -504,17 +515,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Current Version: Preview 1.072 Beta\nAdds V5 in v138 cotains: Enemies, Unused Blocks, and Maps. Recommended Game Version: 138.\nMod Future Update:\n- v5 Units         (Finished)\n- Units Factories  (Finished)\n- Mech Factories   (Unfinished)\n- Units AI         (Partially Finished)\n- Units Stats      (Accurate ???)\n- Units Abilities  (Partially Finished)\n- Blocks           (Partially Finished)\n\nSome Other Features Future Update:\n- Snek           (Finished)"
-  },
-  {
-    "repo": "flintyx/autoresearch",
-    "name": "Auto Research",
-    "author": "Flin",
-    "lastUpdated": "2023-02-04T00:59:58Z",
-    "stars": 16,
-    "minGameVersion": "141",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
   },
   {
     "repo": "emanuelg-gaming/erekir-expansion",
