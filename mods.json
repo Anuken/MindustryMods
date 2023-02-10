@@ -146,7 +146,7 @@
     "repo": "fresh791/fading-revelations",
     "name": "Fading Revelations",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 / Froomeeth\n- Lore: iori / Fresh791\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2023-02-08T11:48:04Z",
+    "lastUpdated": "2023-02-10T15:49:59Z",
     "stars": 60,
     "minGameVersion": "140",
     "hasScripts": true,
@@ -440,17 +440,6 @@
     "description": "hehe angish go nrrrt"
   },
   {
-    "repo": "zelaux/bytelogicmod",
-    "name": "Byte Logic Mod",
-    "author": "Zelaux",
-    "lastUpdated": "2023-01-28T18:04:18Z",
-    "stars": 19,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds byte logic blocks from v5"
-  },
-  {
     "repo": "eb-wilson/universecore",
     "name": "Universe Core",
     "author": "EBwilson",
@@ -460,6 +449,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
+  },
+  {
+    "repo": "zelaux/bytelogicmod",
+    "name": "Byte Logic Mod",
+    "author": "Zelaux",
+    "lastUpdated": "2023-02-10T15:36:40Z",
+    "stars": 19,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds byte logic blocks from v5"
   },
   {
     "repo": "mnemotechnician/new-console",
@@ -1111,6 +1111,17 @@
     "description": "Stuff."
   },
   {
+    "repo": "yaddrx2/yr2-logic-debugger",
+    "name": "yr2 Logic Debugger",
+    "author": "原作者：DeltaNedas\n修改：yaddrx2",
+    "lastUpdated": "2022-11-24T18:00:30Z",
+    "stars": 7,
+    "minGameVersion": "137",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Logic Debugger\n\n一个逻辑辅助工具\n\n原作DeltaNedas/ldb\n\nyaddrx2将其升级到了137，仅供学习交流使用\n\n当前版本：1.6.4\n\n更新日志\n\nv1.0.1\n将mod版本升为137\n\nv1.0.2\n取消ui-lib的前置\n\nv1.0.3\n逻辑码编辑板\n新增代码语句的文本形式编辑\n\nv1.0.4\n逻辑块变量面板\n变量更新闪烁\n增加逻辑块所连方块的显示\n\nv1.0.5\n内存块编辑板\n内存值更新闪烁\n新增内存值的二进制形式视察\n实现内存值的十六进制形式编辑\n\nv1.0.6\n新增代码插入相关操作\n实现从剪切板导入代码块到指定位置\n\nv1.0.7\n新增面板的折叠按钮\n修复学术端运行mod导致的面板移位或覆盖\n修复面板横向抖动的bug\n\nv1.0.8\n单步调试面板\n实现代码单步运行调试\n\nv1.1.0\n新增调试面板设置断点\n实现运行到下一断点操作\n\nv1.1.1\n新增变量位置指示器\n显示单位变量的flag\n\nv1.2\n新增调试面板的运行位置追踪\n新增功能标签\n\nv1.3\n位置指示器增加变量名\n\nv1.4\n内存块面板增加内存值导入导出\n\nv1.5\n变量面板增加变量值导出\n\nv1.6\n内存面板的变量名筛选\n内存值导出筛选器"
+  },
+  {
     "repo": "electricgun/toggle-editor-mode",
     "name": "Toggle Editor Mode",
     "author": "ElectricGun",
@@ -1252,17 +1263,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Survive on sand island and expand by placing land on water around "
-  },
-  {
-    "repo": "yaddrx2/yr2-logic-debugger",
-    "name": "yr2 Logic Debugger",
-    "author": "原作者：DeltaNedas\n修改：yaddrx2",
-    "lastUpdated": "2022-11-24T18:00:30Z",
-    "stars": 6,
-    "minGameVersion": "137",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Logic Debugger\n\n一个逻辑辅助工具\n\n原作DeltaNedas/ldb\n\nyaddrx2将其升级到了137，仅供学习交流使用\n\n当前版本：1.6.4\n\n更新日志\n\nv1.0.1\n将mod版本升为137\n\nv1.0.2\n取消ui-lib的前置\n\nv1.0.3\n逻辑码编辑板\n新增代码语句的文本形式编辑\n\nv1.0.4\n逻辑块变量面板\n变量更新闪烁\n增加逻辑块所连方块的显示\n\nv1.0.5\n内存块编辑板\n内存值更新闪烁\n新增内存值的二进制形式视察\n实现内存值的十六进制形式编辑\n\nv1.0.6\n新增代码插入相关操作\n实现从剪切板导入代码块到指定位置\n\nv1.0.7\n新增面板的折叠按钮\n修复学术端运行mod导致的面板移位或覆盖\n修复面板横向抖动的bug\n\nv1.0.8\n单步调试面板\n实现代码单步运行调试\n\nv1.1.0\n新增调试面板设置断点\n实现运行到下一断点操作\n\nv1.1.1\n新增变量位置指示器\n显示单位变量的flag\n\nv1.2\n新增调试面板的运行位置追踪\n新增功能标签\n\nv1.3\n位置指示器增加变量名\n\nv1.4\n内存块面板增加内存值导入导出\n\nv1.5\n变量面板增加变量值导出\n\nv1.6\n内存面板的变量名筛选\n内存值导出筛选器"
   },
   {
     "repo": "i-hope1/mod.make",
@@ -2816,17 +2816,6 @@
     "description": "A Mindustry mod."
   },
   {
-    "repo": "floppa-coder/ironextened",
-    "name": "Iron Extended",
-    "author": "Floppa",
-    "lastUpdated": "2023-02-03T12:55:41Z",
-    "stars": 2,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Add the new content. Requires Liplum/MultiCrafter lib"
-  },
-  {
     "repo": "teamoct/fos-ost",
     "name": "Fictional Octo System OST",
     "author": "Team Oct",
@@ -2860,26 +2849,37 @@
     "description": "My very first mod! credit to: MaxSmoke"
   },
   {
-    "repo": "tripletoxic/math-stuff",
-    "name": "Math-stuff",
-    "author": "Triple-Toxic",
-    "lastUpdated": "2023-02-09T15:48:17Z",
-    "stars": 2,
-    "minGameVersion": "141.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "More math stuff"
-  },
-  {
     "repo": "mythril382/sardines",
     "name": "Sardines",
     "author": "Mythril",
-    "lastUpdated": "2023-02-10T13:44:47Z",
+    "lastUpdated": "2023-02-10T14:33:36Z",
     "stars": 2,
     "minGameVersion": "141.1",
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod that adds random stuffs.\nNot recommended for multiplayer!"
+  },
+  {
+    "repo": "floppa-coder/ironextened",
+    "name": "Iron Extended",
+    "author": "Floppa",
+    "lastUpdated": "2023-02-10T15:26:11Z",
+    "stars": 2,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Add the new content. Requires Liplum/MultiCrafter lib"
+  },
+  {
+    "repo": "tripletoxic/math-stuff",
+    "name": "Math-stuff",
+    "author": "Triple-Toxic",
+    "lastUpdated": "2023-02-10T15:48:14Z",
+    "stars": 2,
+    "minGameVersion": "141.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "More math stuff"
   },
   {
     "repo": "explerhd/unnamedmods",
@@ -3413,7 +3413,7 @@
     "repo": "otamamori917/axthrix-modded2",
     "name": "Axthrix",
     "author": "Otamamori#4716",
-    "lastUpdated": "2023-02-10T05:46:13Z",
+    "lastUpdated": "2023-02-10T16:00:22Z",
     "stars": 1,
     "minGameVersion": "140.1",
     "hasScripts": false,
