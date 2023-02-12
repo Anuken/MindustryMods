@@ -891,6 +891,17 @@
     "description": "New planets."
   },
   {
+    "repo": "balam314/no-invasions",
+    "name": "No Sector Re Attacks",
+    "author": "BalaM314",
+    "lastUpdated": "2023-02-08T11:18:45Z",
+    "stars": 9,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Disables sectors being re-attacked."
+  },
+  {
     "repo": "semastaraka/additionalvanillaunit",
     "name": "AdditionalVanillaUnit",
     "author": "semka",
@@ -1043,17 +1054,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "In developement..."
-  },
-  {
-    "repo": "balam314/no-invasions",
-    "name": "No Sector Re Attacks",
-    "author": "BalaM314",
-    "lastUpdated": "2023-02-08T11:18:45Z",
-    "stars": 8,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Disables sectors being re-attacked."
   },
   {
     "repo": "jhrushbe/moardustry",
@@ -1529,17 +1529,6 @@
     "description": "添加了一个名为Gredizion的行星的Mindusrty模组\n\n  -贡献者列表-  \n代码指导:I-hope...,生草的awa,miner,xvx神魂,硫缺铅,∀ε＞0,|我－废物|＜ε,晓伟\n贴图绘制:pardon,花杨永瀛,Gedrode_183\n中文翻译包:pardon,呆呆的233\n英文翻译包:pardon\n地图制作:pardon,奇怪的小蜜桃,\n中心指导:渐变\n(贡献不分先后)"
   },
   {
-    "repo": "blackdeluxecat/schematicparse",
-    "name": "Schematic Parse",
-    "author": "BlackDeluxeCat",
-    "lastUpdated": "2023-02-05T15:59:30Z",
-    "stars": 5,
-    "minGameVersion": "141.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "1.从蓝图详情页直接复制逻辑和信息板。2.蓝图消耗计算套件。\nCopy processor/message in schematic info without placing it. Schematic consumption computing tool. \nGithub: BlackDeluxeCat/SchematicParse"
-  },
-  {
     "repo": "shimyytrov/turret-expansion",
     "name": "Turret Expansion",
     "author": "Shimyytrov Modding Team",
@@ -1549,6 +1538,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod adds more turrets."
+  },
+  {
+    "repo": "blackdeluxecat/schematicparse",
+    "name": "Schematic Parse",
+    "author": "BlackDeluxeCat",
+    "lastUpdated": "2023-02-12T06:12:40Z",
+    "stars": 5,
+    "minGameVersion": "141.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "1.从蓝图详情页直接复制逻辑和信息板。2.蓝图消耗计算套件。\nCopy processor/message in schematic info without placing it. Schematic consumption computing tool. \nGithub: BlackDeluxeCat/SchematicParse"
   },
   {
     "repo": "deltanedas/radar",
@@ -2222,10 +2222,21 @@
     "description": "Displays all bridge links. Helps with bridge weaving"
   },
   {
+    "repo": "weathercold/extra-logging",
+    "name": "Extra Logging 2",
+    "author": "Weathercold",
+    "lastUpdated": "2023-02-11T21:45:07Z",
+    "stars": 3,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds more debugging features and improvements.\n\nFeatures:\n    - Fully customizable log messages /w timestamp\n    - Translate chat messages to your locale\n    - Change log level\n    - Force colored terminal output, colorize `[name]` in log messages\n    - Print event triggers to the console\n    - Various other QoL improvements.\n\nSee README.md for more information."
+  },
+  {
     "repo": "blackdeluxecat/mapfilterext",
     "name": "Map Filter Ext",
     "author": "BlackDeluxeCat",
-    "lastUpdated": "2023-02-11T16:05:02Z",
+    "lastUpdated": "2023-02-12T06:11:59Z",
     "stars": 3,
     "minGameVersion": "141.1",
     "hasScripts": false,
@@ -2236,23 +2247,12 @@
     "repo": "teamviscott/modprojectviscott",
     "name": "Project Viscott",
     "author": "Siede & Manuwar & Pew",
-    "lastUpdated": "2023-02-11T20:48:45Z",
+    "lastUpdated": "2023-02-12T07:29:42Z",
     "stars": 3,
     "minGameVersion": "141",
     "hasScripts": false,
     "hasJava": true,
     "description": "Project viscott is a mindustry mod in development."
-  },
-  {
-    "repo": "weathercold/extra-logging",
-    "name": "Extra Logging 2",
-    "author": "Weathercold",
-    "lastUpdated": "2023-02-11T21:45:07Z",
-    "stars": 3,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds more debugging features and improvements.\n\nFeatures:\n    - Fully customizable log messages /w timestamp\n    - Translate chat messages to your locale\n    - Change log level\n    - Force colored terminal output, colorize `[name]` in log messages\n    - Print event triggers to the console\n    - Various other QoL improvements.\n\nSee README.md for more information."
   },
   {
     "repo": "amateurpotion/nuclearjavamod",
@@ -2792,6 +2792,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod template."
+  },
+  {
+    "repo": "unionofsovietsocialistrepublics/babiesunit",
+    "name": "Babies unit!",
+    "author": "Horizon Cult",
+    "lastUpdated": "2023-01-30T08:33:53Z",
+    "stars": 2,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod add smol and cute unit, I guess"
   },
   {
     "repo": "teamoct/fos-ost",
@@ -3864,22 +3875,11 @@
     "repo": "yunatexya/mptv2modre",
     "name": "MPTv2 RE",
     "author": "Yunatexya",
-    "lastUpdated": "2023-02-10T10:09:54Z",
+    "lastUpdated": "2023-02-12T06:14:00Z",
     "stars": 0,
     "minGameVersion": "140.1",
     "hasScripts": false,
     "hasJava": true,
     "description": "Java mod for Mindustry<V7>. It is beta."
-  },
-  {
-    "repo": "mega2335/exponential-expansion",
-    "name": "Exponential Expantion",
-    "author": "Mega",
-    "lastUpdated": "2023-02-12T05:58:19Z",
-    "stars": 0,
-    "minGameVersion": "141.2",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A cool mod that brings new things to the game."
   }
 ]
