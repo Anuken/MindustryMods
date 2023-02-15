@@ -146,7 +146,7 @@
     "repo": "fresh791/fading-revelations",
     "name": "Fading Revelations",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791 / .Frankie\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 / Froomeeth\n- Lore: iori / Fresh791\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2023-02-15T13:56:33Z",
+    "lastUpdated": "2023-02-15T15:58:02Z",
     "stars": 60,
     "minGameVersion": "140",
     "hasScripts": true,
@@ -1529,17 +1529,6 @@
     "description": "A mod adds more turrets."
   },
   {
-    "repo": "blackdeluxecat/schematicparse",
-    "name": "Schematic Parse",
-    "author": "BlackDeluxeCat",
-    "lastUpdated": "2023-02-12T06:12:40Z",
-    "stars": 5,
-    "minGameVersion": "141.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "1.从蓝图详情页直接复制逻辑和信息板。2.蓝图消耗计算套件。\nCopy processor/message in schematic info without placing it. Schematic consumption computing tool. \nGithub: BlackDeluxeCat/SchematicParse"
-  },
-  {
     "repo": "manuwar73/remodeled_industry-",
     "name": "Remodeled Industry",
     "author": "ManuWar73",
@@ -1549,6 +1538,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Hi. This mod is work-in-progress, but you can play it, and maybe you will enjoy it. \n There is only a thing. This mod is absolutely not balanced. do not have any expectation of encountering a perfectly balanced thing. All of this mod is or extremely overpowered, or not enought good(principally all is overpowered). Also, the sound effects are not currently implemented and some sprites are missing.Unit factories will come soon!!!"
+  },
+  {
+    "repo": "blackdeluxecat/schematicparse",
+    "name": "Schematic Parse",
+    "author": "BlackDeluxeCat",
+    "lastUpdated": "2023-02-15T15:55:21Z",
+    "stars": 5,
+    "minGameVersion": "141.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "1.从蓝图详情页直接复制逻辑和信息板。2.蓝图消耗计算套件。\nCopy processor/message in schematic info without placing it. Schematic consumption computing tool. \nGithub: BlackDeluxeCat/SchematicParse"
   },
   {
     "repo": "deltanedas/radar",
@@ -3421,6 +3421,17 @@
     "description": "MI2's Mindustry Lib Mod. Repo: BlackDeluxeCat/MiTour-Lib"
   },
   {
+    "repo": "ulwepo/sakura-japanese-mod",
+    "name": "Sakuraサーバー日本語化mod",
+    "author": "Sakura",
+    "lastUpdated": "2023-02-14T15:01:36Z",
+    "stars": 1,
+    "minGameVersion": "140.4",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Sakuraのメンバーで翻訳した日本語化modです。\nむーちょとその他翻訳作業に貢献したメンバーに感謝！\nディスコードと公式サイトは「sakura mindustry」で検索！\nver2.2"
+  },
+  {
     "repo": "otamamori917/axthrix-modded2",
     "name": "Axthrix",
     "author": "Otamamori#4716",
@@ -3839,17 +3850,6 @@
     "description": "just a testing java mod - early build"
   },
   {
-    "repo": "situvngcd/mindustrymodtest",
-    "name": "Test mod",
-    "author": "SITUVNgcd",
-    "lastUpdated": "2023-02-13T10:13:36Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "SITUVNgd's test mod"
-  },
-  {
     "repo": "theee145/solid-octo-chainsaw-mod",
     "name": "Solid Octo Chainsaw (SOC) mod",
     "author": "TheEE145",
@@ -3872,17 +3872,6 @@
     "description": "Java mod for Mindustry<V7>. It is beta."
   },
   {
-    "repo": "ulwepo/sakura-japanese-mod",
-    "name": "Sakuraサーバー日本語化mod",
-    "author": "Sakura",
-    "lastUpdated": "2023-02-14T15:01:36Z",
-    "stars": 0,
-    "minGameVersion": "140.4",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Sakuraのメンバーで翻訳した日本語化modです。\nむーちょとその他翻訳作業に貢献したメンバーに感謝！\nディスコードと公式サイトは「sakura mindustry」で検索！\nver2.2"
-  },
-  {
     "repo": "kong-kong-ru-ye/fantasygamehhh",
     "name": "幻想",
     "author": "自由",
@@ -3892,5 +3881,16 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "相当于一个前置mod"
+  },
+  {
+    "repo": "situvngcd/mindustrymodtest",
+    "name": "Test mod",
+    "author": "SITUVNgcd",
+    "lastUpdated": "2023-02-15T14:08:53Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "SITUVNgd's test mod"
   }
 ]
