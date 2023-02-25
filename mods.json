@@ -81,7 +81,7 @@
     "name": "Time Control",
     "author": "sk7725",
     "lastUpdated": "2022-08-19T23:46:56Z",
-    "stars": 90,
+    "stars": 91,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
@@ -169,7 +169,7 @@
     "name": "Scheme Size",
     "author": "xzxADIxzx",
     "lastUpdated": "2023-02-22T20:42:13Z",
-    "stars": 59,
+    "stars": 60,
     "minGameVersion": "141",
     "hasScripts": false,
     "hasJava": true,
@@ -814,6 +814,17 @@
     "description": "Enables mobile UI if on desktop, or disables it on mobile."
   },
   {
+    "repo": "riccj/itembridgex",
+    "name": "ItemBridgeX",
+    "author": "miner",
+    "lastUpdated": "2022-05-11T05:09:33Z",
+    "stars": 9,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "This a mod that can show the hidden item of the item bridge."
+  },
+  {
     "repo": "def-try/parkour-mod",
     "name": "Parkour mod",
     "author": "Benry/Deftry",
@@ -933,17 +944,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a speedometer.\nRequires deltanedas/ui-lib"
-  },
-  {
-    "repo": "riccj/itembridgex",
-    "name": "ItemBridgeX",
-    "author": "miner",
-    "lastUpdated": "2022-05-11T05:09:33Z",
-    "stars": 8,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "This a mod that can show the hidden item of the item bridge."
   },
   {
     "repo": "mythril382/colorednames",
@@ -1375,6 +1375,17 @@
     "description": "\nWARNING: For Ukrainian language only.\n\nModification for translation testing. Can be used for an example testing bundles and for testing a new Ukrainian translation. Developed in Ukraine.\nSupports v7 only.\n\nDiscord for Ukrainian speaking: https://discord.gg/VDjWyCssvP\n\n----------------------------------------\n\nПОПЕРЕДЖЕННЯ: Лише для української мови.\n\nМодифікація для тестування перекладів. Можете використовувати задля прикладу і задля тестування нового українського перекладу. Розроблено в Україні.\nПідтримує тільки v7.\n\nDiscord для українськомовних: https://discord.gg/VDjWyCssvP"
   },
   {
+    "repo": "blackdeluxecat/schematicparse",
+    "name": "Schematic Parse",
+    "author": "BlackDeluxeCat",
+    "lastUpdated": "2023-02-15T15:55:21Z",
+    "stars": 6,
+    "minGameVersion": "141.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "1.从蓝图详情页直接复制逻辑和信息板。2.蓝图消耗计算套件。\nCopy processor/message in schematic info without placing it. Schematic consumption computing tool. \nGithub: BlackDeluxeCat/SchematicParse"
+  },
+  {
     "repo": "mythril382/terraria-sounds",
     "name": "Terraria Sounds",
     "author": "Mythril",
@@ -1538,17 +1549,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Hi. This mod is work-in-progress, but you can play it, and maybe you will enjoy it. \n There is only a thing. This mod is absolutely not balanced. do not have any expectation of encountering a perfectly balanced thing. All of this mod is or extremely overpowered, or not enought good(principally all is overpowered). Also, the sound effects are not currently implemented and some sprites are missing.Unit factories will come soon!!!"
-  },
-  {
-    "repo": "blackdeluxecat/schematicparse",
-    "name": "Schematic Parse",
-    "author": "BlackDeluxeCat",
-    "lastUpdated": "2023-02-15T15:55:21Z",
-    "stars": 5,
-    "minGameVersion": "141.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "1.从蓝图详情页直接复制逻辑和信息板。2.蓝图消耗计算套件。\nCopy processor/message in schematic info without placing it. Schematic consumption computing tool. \nGithub: BlackDeluxeCat/SchematicParse"
   },
   {
     "repo": "valigaming15/pyra-erekir",
@@ -1925,6 +1925,17 @@
     "description": "No description provided."
   },
   {
+    "repo": "mythril382/mobilemapshot",
+    "name": "Mobile Map-Shot",
+    "author": "Mythril",
+    "lastUpdated": "2022-09-28T01:22:08Z",
+    "stars": 3,
+    "minGameVersion": "137",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Allows mobile players to take map-shots\n\nMapshots are saved in the 'screenshots' folder in the game's data directory.\n\nThere is a setting on whether to check for memory or not."
+  },
+  {
     "repo": "freezemandu/qa-schemic",
     "name": "Q&A Schemic",
     "author": "Qwertynoob&Anchovy&Mandu",
@@ -2156,6 +2167,17 @@
     "description": "A sus Mindustry Java mod"
   },
   {
+    "repo": "64-tesseract/erekir-logic-improved",
+    "name": "Erekir Logic Improved",
+    "author": "64-Tesseract",
+    "lastUpdated": "2023-01-05T00:53:04Z",
+    "stars": 3,
+    "minGameVersion": "140.4",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds logic blocks to Erekir.\nForked to fix logic link names, not compatible with the original mod by DaRealMonika [blue]github.com/DaRealMonika/Eriker-Logic[]."
+  },
+  {
     "repo": "chi-re/crimsonstar",
     "name": "绯红星海",
     "author": "炽热S",
@@ -2266,26 +2288,26 @@
     "description": "Give yourself a tranquil feeling with more control over the flow of resources."
   },
   {
-    "repo": "teamviscott/modprojectviscott",
-    "name": "Project Viscott",
-    "author": "Siede & Manuwar & Pew",
-    "lastUpdated": "2023-02-24T13:00:37Z",
-    "stars": 3,
-    "minGameVersion": "141",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Project viscott is a mindustry mod in development."
-  },
-  {
     "repo": "uujuju1/steam-works",
     "name": "Steam Works",
     "author": "Uujuju",
-    "lastUpdated": "2023-02-24T21:09:23Z",
+    "lastUpdated": "2023-02-24T23:09:30Z",
     "stars": 3,
     "minGameVersion": "140.4",
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod."
+  },
+  {
+    "repo": "teamviscott/modprojectviscott",
+    "name": "Project Viscott",
+    "author": "Siede & Manuwar & Pew",
+    "lastUpdated": "2023-02-25T00:02:50Z",
+    "stars": 3,
+    "minGameVersion": "141",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Project viscott is a mindustry mod in development."
   },
   {
     "repo": "amateurpotion/nuclearjavamod",
@@ -2473,17 +2495,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "I made this mod for 5 hours of my life and bottle of pivo. Guys from ukrainian mindustry server in discord inspired\nme to try made mod. Jokingly, I said that I would try to make a mod that adds music from Red Alert 3, but I didn’t think that I would just do it for fun.\nMaksim loh ebaniy. EDIT:Ok, maksim may be good."
-  },
-  {
-    "repo": "mythril382/mobilemapshot",
-    "name": "Mobile Map-Shot",
-    "author": "Mythril",
-    "lastUpdated": "2022-09-28T01:22:08Z",
-    "stars": 2,
-    "minGameVersion": "137",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Allows mobile players to take map-shots\n\nMapshots are saved in the 'screenshots' folder in the game's data directory.\n\nThere is a setting on whether to check for memory or not."
   },
   {
     "repo": "spaceearthex/command-block",
@@ -2748,17 +2759,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "高科技震惊你的心灵\n带有许多核武器并且还有新能源系统以及洲际导弹"
-  },
-  {
-    "repo": "64-tesseract/erekir-logic-improved",
-    "name": "Erekir Logic Improved",
-    "author": "64-Tesseract",
-    "lastUpdated": "2023-01-05T00:53:04Z",
-    "stars": 2,
-    "minGameVersion": "140.4",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds logic blocks to Erekir.\nForked to fix logic link names, not compatible with the original mod by DaRealMonika [blue]github.com/DaRealMonika/Eriker-Logic[]."
   },
   {
     "repo": "vaporspace2/endrium-2",
@@ -4048,17 +4048,6 @@
     "description": ""
   },
   {
-    "repo": "bttodi/pandemonium",
-    "name": "Pandemonium",
-    "author": "bttodi",
-    "lastUpdated": "2023-02-24T11:17:22Z",
-    "stars": 0,
-    "minGameVersion": "140.4",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "forsenPuke6"
-  },
-  {
     "repo": "situvngcd/mindustrymodtest",
     "name": "Test mod",
     "author": "SITUVNgcd",
@@ -4068,5 +4057,16 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "SITUVNgd's test mod"
+  },
+  {
+    "repo": "bttodi/pandemonium",
+    "name": "Pandemonium",
+    "author": "bttodi",
+    "lastUpdated": "2023-02-25T00:17:51Z",
+    "stars": 0,
+    "minGameVersion": "140.4",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "forsenPuke6"
   }
 ]
