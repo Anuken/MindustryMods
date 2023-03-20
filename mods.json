@@ -462,6 +462,17 @@
     "description": "Adds various testers for easier mod development.\nThanks to: Gdeft"
   },
   {
+    "repo": "mnemotechnician/new-console",
+    "name": "New Console",
+    "author": "Mnemotechnician",
+    "lastUpdated": "2023-01-03T12:29:17Z",
+    "stars": 19,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a console ui superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more,\na good log panel, execution history - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
+  },
+  {
     "repo": "eb-wilson/universecore",
     "name": "Universe Core",
     "author": "EBwilson",
@@ -471,17 +482,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
-  },
-  {
-    "repo": "mnemotechnician/new-console",
-    "name": "New Console",
-    "author": "Mnemotechnician",
-    "lastUpdated": "2023-01-03T12:29:17Z",
-    "stars": 18,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds a console ui superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more,\na good log panel, execution history - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
   },
   {
     "repo": "smolkeys/yellow-java",
@@ -682,6 +682,17 @@
     "description": "Mindustry modding utilities to make mod development easier."
   },
   {
+    "repo": "mnemotechnician/new-controls-public",
+    "name": "New controls",
+    "author": "Мнемотехник",
+    "lastUpdated": "2022-07-22T18:24:40Z",
+    "stars": 13,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "This mod is multiplayer-compatible!\n\nSo, basically... This mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully ai.\n\nManual mode consists of two thumbsticks and an action panel.\nAi mode includes three actions (attack, mine, patrol) + auto action selection.\n\nCheck readme.md for detailed info."
+  },
+  {
     "repo": "evo04taser/super-cheat",
     "name": "Super Cheat",
     "author": "Evo04Taser",
@@ -702,17 +713,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "something perhaps"
-  },
-  {
-    "repo": "mnemotechnician/new-controls-public",
-    "name": "New controls",
-    "author": "Мнемотехник",
-    "lastUpdated": "2022-07-22T18:24:40Z",
-    "stars": 12,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "This mod is multiplayer-compatible!\n\nSo, basically... This mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully ai.\n\nManual mode consists of two thumbsticks and an action panel.\nAi mode includes three actions (attack, mine, patrol) + auto action selection.\n\nCheck readme.md for detailed info."
   },
   {
     "repo": "cynthion21x/prismatic",
@@ -1411,12 +1411,12 @@
     "repo": "electricgun/toggle-editor-mode",
     "name": "Toggle Editor Mode",
     "author": "ElectricGun",
-    "lastUpdated": "2023-03-20T11:23:35Z",
+    "lastUpdated": "2023-03-20T14:56:23Z",
     "stars": 6,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
-    "description": "Click button to toggle Editor mode within Singleplayer and Sandbox.\n\nMade for editing World Processors outside of the Editor.\n\nDoes not work on Multiplayer and Campaign."
+    "description": "Allows access to Editor Mode on Sandbox and Singleplayer\n\nDoes not work on Multiplayer and Campaign."
   },
   {
     "repo": "mythril382/terraria-sounds",
@@ -3729,17 +3729,6 @@
     "description": "A mindustry mod with my strange thinkings in it."
   },
   {
-    "repo": "lehanchic/factory-units",
-    "name": "Factory units",
-    "author": "Lehanchic25 ",
-    "lastUpdated": "2023-03-19T19:41:39Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "In this mod units will look like factory"
-  },
-  {
     "repo": "piggychu620/mindustryjavamodtest",
     "name": "Random Planet v0.1",
     "author": "PiggyChu620",
@@ -3751,10 +3740,21 @@
     "description": "Randomly generate a planet and its sectors."
   },
   {
+    "repo": "lehanchic/factory-units",
+    "name": "Factory units",
+    "author": "Lehanchic25 ",
+    "lastUpdated": "2023-03-20T15:23:27Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "In this mod units will look like factory"
+  },
+  {
     "repo": "situvngcd/mindustrymodtest",
     "name": "Test mod",
     "author": "SITUVNgcd",
-    "lastUpdated": "2023-03-20T13:56:03Z",
+    "lastUpdated": "2023-03-20T15:53:40Z",
     "stars": 1,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -4403,7 +4403,7 @@
     "repo": "delta-airlines-ig/communistry",
     "name": "Communistry!",
     "author": "DeltaV (Delta airlines on github)",
-    "lastUpdated": "2023-03-20T11:14:42Z",
+    "lastUpdated": "2023-03-20T14:55:02Z",
     "stars": 0,
     "minGameVersion": "136",
     "hasScripts": true,
