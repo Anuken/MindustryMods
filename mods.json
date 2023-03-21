@@ -15,7 +15,7 @@
     "name": "Exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2023-03-20T23:13:08Z",
-    "stars": 232,
+    "stars": 233,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -37,7 +37,7 @@
     "name": "FactoryDustry - TexturePack",
     "author": "Xelo",
     "lastUpdated": "2022-11-28T16:53:17Z",
-    "stars": 189,
+    "stars": 190,
     "minGameVersion": "140.4",
     "hasScripts": true,
     "hasJava": false,
@@ -114,7 +114,7 @@
     "name": "PicToLogic",
     "author": "deltanedas, Router and another guy",
     "lastUpdated": "2022-09-05T13:15:19Z",
-    "stars": 70,
+    "stars": 71,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
@@ -245,7 +245,7 @@
     "repo": "fredyjabe/aeyama",
     "name": "Aeyama: The New World",
     "author": "FredyJabe & Jojo",
-    "lastUpdated": "2023-03-21T01:56:28Z",
+    "lastUpdated": "2023-03-21T06:30:52Z",
     "stars": 35,
     "minGameVersion": "142",
     "hasScripts": true,
@@ -539,6 +539,17 @@
     "description": "\n  # 功能\n\n  ---\n\n  ## UI\n  1. MinerToolsTable:\n     * 队伍信息:\n       * 队伍玩家数量(Tooltip显示基础队伍规则)\n       * 队伍单位显示\n       * 队伍全局电量(Tooltip显示详细电量情况)\n     * 一些有用的按钮:\n       * 暂停建造(仅手机)\n       * 自动升级传送带\n       * 重建方块\n       * 快捷投降\n     * 换队/跳波器\n     * 玩家列表:\n       * 所有玩家的名字\n       * 可锁定玩家视角(锁定的玩家控制炮塔时,会自动调整视角)\n       * 可切换到玩家视角\n       * 可一键投票踢出玩家\n     * 快捷蓝图\n     * 玩家AI:\n       * 挖矿AI\n       * 跟随AI\n\n  2. 聊天记录:\n     * 查询历史聊天记录\n     * 可以复制聊天记录(电脑:Ctrl+单击)\n\n  3. 更好的核心资源显示:\n     * 单位数量显示\n     * 物品每秒变化量显示\n     * 玩家预建消耗显示\n     * 可自定义的ui列数\n\n  4. 更好的信息面板:\n     * 单位,建筑,地板信息一起显示!\n     * 单位:\n       * 武器冷却状态\n     * 建筑:\n       * 物品详情\n     * 地板:\n       * 显示更详尽\n\n  ---\n\n  ## 画面\n  * 建筑:\n    * 选中:\n      * 异队选中信息\n      * 桥带连接详情\n    * 建筑血条\n    * 异队方块状态\n    * 构造方块耗材信息\n    * 附近炮塔警戒\n    * 物品炮塔子弹类型显示\n    * 单位工厂进度条\n\n  * 单位:\n    * 单位指示器(核心危险警告)\n    * 附近单位警戒\n\n    * 单位信息条:\n      * 血条\n      * 立场回复条\n      * 单位状态条\n      * 荷载条\n\n  * 玩家:\n    * 荷载拾放提示\n    * 玩家范围显示\n\n  ---\n\n  ## 其他小功能\n  * 进入游戏后,显示被ban的单位或方块\n  * UIScale的step修改\n  * 物品桥带可拿取物品\n  * 更多方块信息条:\n    * 血条: 血量显示更详细\n    * 进度条: 进度显示更详细\n\n  ---\n\n  # 其他\n  Mod的90%功均可在设置中打开或关闭!"
   },
   {
+    "repo": "jasmarkelina/tantros-mod",
+    "name": "Tantros",
+    "author": "Jasmarkelina,Plastel & RouterXdd",
+    "lastUpdated": "2023-02-10T03:35:22Z",
+    "stars": 16,
+    "minGameVersion": "140",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod being developed by a team of three, it reveals and makes tantros playable, keep in mind that the mod is not finished yet, you can play the unfinished campaign."
+  },
+  {
     "repo": "echovespy/simplistic",
     "name": "Simplistic - TexturePack",
     "author": "EchoVespy",
@@ -581,17 +592,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds tools for automatically filling resource patches with drills"
-  },
-  {
-    "repo": "jasmarkelina/tantros-mod",
-    "name": "Tantros",
-    "author": "Jasmarkelina,Plastel & RouterXdd",
-    "lastUpdated": "2023-02-10T03:35:22Z",
-    "stars": 15,
-    "minGameVersion": "140",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod being developed by a team of three, it reveals and makes tantros playable, keep in mind that the mod is not finished yet, you can play the unfinished campaign."
   },
   {
     "repo": "sh1penfire/welcome-to-the-frostscape",
@@ -1859,17 +1859,6 @@
     "description": "Adds more debugging features and improvements.\n\nFeatures:\n- Fully customizable log messages /w timestamp;\n- Translate chat messages to your language;\n- Change log level;\n- Colorize `[colorname]` in log messages;\n- Log event triggers;\n- Various other QoL improvements.\n\nSee README.md for more information."
   },
   {
-    "repo": "sunkymp3g/kamek",
-    "name": "KAMEK: A mountain filled planet",
-    "author": "Sunky.MPEG",
-    "lastUpdated": "2023-03-10T02:46:32Z",
-    "stars": 4,
-    "minGameVersion": "142",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Explore a new planet, that's filled by mountains!\n\n[gray]Version: [white]v0.2.2-beta\n\t\n[gray]Languages: \n\t         [white]- English\n         - Russian/Русский\n\t\t \n\t\t * - [red]AI translated, can contain mistakes!"
-  },
-  {
     "repo": "shimyytrov/turretex-java",
     "name": "Turret Expansion Java",
     "author": "Shimyytrov Modding Team",
@@ -1890,6 +1879,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod adding turrets from Mindustry Classic back into the game."
+  },
+  {
+    "repo": "uujuju1/steam-works",
+    "name": "Steam Works",
+    "author": "Uujuju",
+    "lastUpdated": "2023-03-19T22:53:24Z",
+    "stars": 4,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A heat and steam based mod."
   },
   {
     "repo": "teamviscott/modprojectviscott",
@@ -2475,17 +2475,6 @@
     "description": "A mod. Content was be here."
   },
   {
-    "repo": "uujuju1/steam-works",
-    "name": "Steam Works",
-    "author": "Uujuju",
-    "lastUpdated": "2023-03-19T22:53:24Z",
-    "stars": 3,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A heat and steam based mod."
-  },
-  {
     "repo": "lehanchic/serpulo-and-erekir-plus",
     "name": "Serpulo and Erekir +",
     "author": "Lehanchic25, Dio/Дио",
@@ -2882,6 +2871,17 @@
     "description": "Minecraft in mindustry"
   },
   {
+    "repo": "korakiwi/planetaryadditions",
+    "name": "Planetary Additions",
+    "author": "KoraKiwi",
+    "lastUpdated": "2023-01-01T00:55:23Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds new ways to destroy nature, mostly factories.\n\nThe sprites and code are subject to change.\n\nWill be mostly rewritten once i figure out how mindustry java works."
+  },
+  {
     "repo": "vaporspace2/endrium-2",
     "name": "EndriumMod 2",
     "author": "tommyboo(antumbra)#4708 & Aegires",
@@ -3083,7 +3083,7 @@
     "repo": "racti2037/real-military-techic-mod",
     "name": "Military Technic Mod",
     "author": "Racti",
-    "lastUpdated": "2023-03-20T22:19:32Z",
+    "lastUpdated": "2023-03-21T11:42:12Z",
     "stars": 2,
     "minGameVersion": "142",
     "hasScripts": false,
@@ -3476,17 +3476,6 @@
     "description": "Future curse the enemy and help them stronger,somehow...."
   },
   {
-    "repo": "korakiwi/planetaryadditions",
-    "name": "Planetary Additions",
-    "author": "KoraKiwi",
-    "lastUpdated": "2023-01-01T00:55:23Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds new ways to destroy nature, mostly factories.\n\nThe sprites and code are subject to change.\n\nWill be mostly rewritten once i figure out how mindustry java works."
-  },
-  {
     "repo": "newcreation4/unnamedmod",
     "name": "UnnamedMod",
     "author": "Creation",
@@ -3754,7 +3743,7 @@
     "repo": "lehanchic/useful-scripts-and-logic-schematics",
     "name": "useful-scripts-and-logic-schematics",
     "author": "Lehanchic25 ",
-    "lastUpdated": "2023-03-20T22:50:12Z",
+    "lastUpdated": "2023-03-21T11:40:25Z",
     "stars": 1,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -4403,7 +4392,7 @@
     "repo": "delta-airlines-ig/communistry",
     "name": "Communistry!",
     "author": "DeltaV (Delta airlines on github)",
-    "lastUpdated": "2023-03-20T18:13:26Z",
+    "lastUpdated": "2023-03-21T11:31:09Z",
     "stars": 0,
     "minGameVersion": "136",
     "hasScripts": true,
