@@ -462,17 +462,6 @@
     "description": "Adds various testers for easier mod development.\nThanks to: Gdeft"
   },
   {
-    "repo": "mnemotechnician/new-console",
-    "name": "New Console",
-    "author": "Mnemotechnician",
-    "lastUpdated": "2023-01-03T12:29:17Z",
-    "stars": 19,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds a console ui superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more,\na good log panel, execution history - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
-  },
-  {
     "repo": "eb-wilson/universecore",
     "name": "Universe Core",
     "author": "EBwilson",
@@ -482,6 +471,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
+  },
+  {
+    "repo": "mnemotechnician/new-console",
+    "name": "New Console",
+    "author": "Mnemotechnician",
+    "lastUpdated": "2023-03-22T12:30:27Z",
+    "stars": 19,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a console ui superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more,\na good log panel, execution history - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
   },
   {
     "repo": "smolkeys/yellow-java",
@@ -1870,17 +1870,6 @@
     "description": "Adds more debugging features and improvements.\n\nFeatures:\n- Fully customizable log messages /w timestamp;\n- Translate chat messages to your language;\n- Change log level;\n- Colorize `[colorname]` in log messages;\n- Log event triggers;\n- Various other QoL improvements.\n\nSee README.md for more information."
   },
   {
-    "repo": "shimyytrov/turretex-java",
-    "name": "Turret Expansion Java",
-    "author": "Shimyytrov Modding Team",
-    "lastUpdated": "2023-03-18T12:04:02Z",
-    "stars": 4,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "v1.4.0:0001 Java"
-  },
-  {
     "repo": "errorincode27/relics-mod",
     "name": "Relics",
     "author": "[Error_27]",
@@ -1912,6 +1901,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Project viscott is a mindustry mod in development."
+  },
+  {
+    "repo": "shimyytrov/turretex-java",
+    "name": "Turret Expansion Java",
+    "author": "Shimyytrov Modding Team",
+    "lastUpdated": "2023-03-22T13:15:09Z",
+    "stars": 4,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "v1.4.0:0002 Java"
   },
   {
     "repo": "mythril382/self-destruct-core",
@@ -4403,7 +4403,7 @@
     "repo": "delta-airlines-ig/communistry",
     "name": "Communistry!",
     "author": "DeltaV (Delta airlines on github)",
-    "lastUpdated": "2023-03-22T11:58:12Z",
+    "lastUpdated": "2023-03-22T12:03:49Z",
     "stars": 0,
     "minGameVersion": "136",
     "hasScripts": true,
