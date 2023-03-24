@@ -1606,17 +1606,6 @@
     "description": "A mod that adds an entire new campaign, larger than serpulo. Still in Aplha stages."
   },
   {
-    "repo": "vvseangtvv/v5-reborn-java",
-    "name": "Project: Restoration",
-    "author": "VvSeanGtvV",
-    "lastUpdated": "2023-03-24T04:56:41Z",
-    "stars": 5,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry builds including some classic ones are added to Mindustry v7! \nShout out to Mythril#0197 for the idea of v7 builds!"
-  },
-  {
     "repo": "shimyytrov/turret-expansion",
     "name": "Turret Expansion",
     "author": "Shimyytrov Modding Team",
@@ -1626,6 +1615,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod adds more turrets."
+  },
+  {
+    "repo": "vvseangtvv/v5-reborn-java",
+    "name": "Project: Restoration",
+    "author": "VvSeanGtvV",
+    "lastUpdated": "2023-03-24T14:07:19Z",
+    "stars": 5,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry builds including some classic ones are added to Mindustry v7! \nShout out to Mythril#0197 for the idea of v7 builds!"
   },
   {
     "repo": "deltanedas/radar",
@@ -1917,12 +1917,12 @@
     "repo": "shimyytrov/turretex-java",
     "name": "Turret Expansion Java",
     "author": "Shimyytrov Modding Team",
-    "lastUpdated": "2023-03-22T13:15:09Z",
+    "lastUpdated": "2023-03-24T14:46:12Z",
     "stars": 4,
     "minGameVersion": "142",
     "hasScripts": false,
     "hasJava": true,
-    "description": "v1.4.0:0002 Java"
+    "description": "v1.4.1 Java"
   },
   {
     "repo": "mythril382/self-destruct-core",
@@ -3751,17 +3751,6 @@
     "description": "A very beta and cool mod great stuff but grindy. Requires Liplum/MultiCrafter lib"
   },
   {
-    "repo": "situvngcd/mindustrymodtest",
-    "name": "SVN Test mod",
-    "author": "SITUVNgcd",
-    "lastUpdated": "2023-03-23T17:23:52Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "SITUVNgd's test mod\nClick Repo for more info."
-  },
-  {
     "repo": "piggychu620/mindustryjavamodtest",
     "name": "Random Planet v0.1.3",
     "author": "PiggyChu620",
@@ -3771,6 +3760,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Randomly generate a planet and its sectors."
+  },
+  {
+    "repo": "situvngcd/mindustrymodtest",
+    "name": "SVN Test mod",
+    "author": "SITUVNgcd",
+    "lastUpdated": "2023-03-24T15:03:08Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "SITUVNgd's test mod\nClick Repo for more info."
   },
   {
     "repo": "pepa3/mindustrymod",
@@ -4400,39 +4400,6 @@
     "description": "Java mod for Mindustry on v7."
   },
   {
-    "repo": "7003mars/pic2tri",
-    "name": "PicToTri",
-    "author": "Mars#7003",
-    "lastUpdated": "2023-03-23T13:09:41Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "I love triangles!!1!11"
-  },
-  {
-    "repo": "delta-airlines-ig/superhelplinedustry",
-    "name": "SuperHelplinedustry",
-    "author": "Delta Airlines and maybe Helpl",
-    "lastUpdated": "2023-03-23T20:32:07Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "the game is now slightly easier but more complicated but also easier but maybe more complicated but its easier but more complicated"
-  },
-  {
-    "repo": "delta-airlines-ig/communistry",
-    "name": "Communistry!",
-    "author": "DeltaV (Delta airlines on github)",
-    "lastUpdated": "2023-03-23T21:01:38Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "soviet industry and weapons in mindustry (development started before the invasion of ukrane, this has nothing to do with current events)"
-  },
-  {
     "repo": "delta-airlines-ig/helplinedustry",
     "name": "helplinedustry",
     "author": "helpl",
@@ -4453,17 +4420,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "a mod written mostly by chatgpt"
-  },
-  {
-    "repo": "kiddous/test-mod",
-    "name": "testmod",
-    "author": "[REDACTED]#6385",
-    "lastUpdated": "2023-03-24T05:09:04Z",
-    "stars": 0,
-    "minGameVersion": "140.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "yes"
   },
   {
     "repo": "bttodi/pandemonium",
@@ -4488,14 +4444,58 @@
     "description": "Adds world processor, message, and cell to map testing\n\nWARNING! Your game with this mod may NOT save!\nSave your schematics!"
   },
   {
+    "repo": "7003mars/pic2tri",
+    "name": "PicToTri",
+    "author": "Mars#7003",
+    "lastUpdated": "2023-03-24T15:18:34Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "I love triangles!!1!11"
+  },
+  {
     "repo": "yukusoh/schalestaskmod",
     "name": "SCHALE'sTaskMod",
     "author": "YukuSOH",
-    "lastUpdated": "2023-03-24T13:05:21Z",
+    "lastUpdated": "2023-03-24T15:18:54Z",
     "stars": 0,
     "minGameVersion": "142",
     "hasScripts": false,
     "hasJava": false,
     "description": "(This mod is BlueArchive fan mod.) Sensei, let's get to work! Send weapons used by students as relief supplies."
+  },
+  {
+    "repo": "delta-airlines-ig/communistry",
+    "name": "Communistry!",
+    "author": "DeltaV (Delta airlines on github)",
+    "lastUpdated": "2023-03-24T15:56:12Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "soviet industry and weapons in mindustry (development started before the invasion of ukrane, this has nothing to do with current events)"
+  },
+  {
+    "repo": "delta-airlines-ig/superhelplinedustry",
+    "name": "SuperHelplinedustry",
+    "author": "Delta Airlines and maybe Helpl",
+    "lastUpdated": "2023-03-24T15:57:07Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "the game is now slightly easier but more complicated but also easier but maybe more complicated but its easier but more complicated"
+  },
+  {
+    "repo": "kiddous/test-mod",
+    "name": "testmod",
+    "author": "[REDACTED]#6385",
+    "lastUpdated": "2023-03-24T16:00:10Z",
+    "stars": 0,
+    "minGameVersion": "140.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "yes"
   }
 ]
