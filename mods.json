@@ -14,7 +14,7 @@
     "repo": "aureusstratus/exogenesis",
     "name": "Exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2023-03-25T05:03:56Z",
+    "lastUpdated": "2023-03-25T07:21:27Z",
     "stars": 234,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -2519,6 +2519,17 @@
     "description": "Mod add tanks, aircraft and naval ships"
   },
   {
+    "repo": "apszoldat/mindustry-mapping-utilities",
+    "name": "Mapping Utilities",
+    "author": "ApsZoldat",
+    "lastUpdated": "2023-03-24T19:05:51Z",
+    "stars": 3,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Small Mindustry mod improving map editor convenience and possibilities. Check README.md for more information."
+  },
+  {
     "repo": "amateurpotion/nuclearjavamod",
     "name": "Nuclear Mod for Java",
     "author": "Namedo",
@@ -3078,17 +3089,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Vanilla extension mod, made to have a vanilla like feel, adds items past what would normally be endgame and even QOL blocks! Discord server: https://discord.gg/hGqEVwsg"
-  },
-  {
-    "repo": "apszoldat/mindustry-mapping-utilities",
-    "name": "Mapping Utilities",
-    "author": "ApsZoldat",
-    "lastUpdated": "2023-03-24T19:05:51Z",
-    "stars": 2,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Small Mindustry mod improving map editor convenience and possibilities. Check README.md for more information."
   },
   {
     "repo": "rorivus/uaschem",
@@ -4444,17 +4444,6 @@
     "description": "Adds world processor, message, and cell to map testing\n\nWARNING! Your game with this mod may NOT save!\nSave your schematics!"
   },
   {
-    "repo": "7003mars/pic2tri",
-    "name": "PicToTri",
-    "author": "Mars#7003",
-    "lastUpdated": "2023-03-24T15:18:34Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "I love triangles!!1!11"
-  },
-  {
     "repo": "yukusoh/schalestaskmod",
     "name": "SCHALE'sTaskMod",
     "author": "YukuSOH",
@@ -4508,5 +4497,16 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "yes"
+  },
+  {
+    "repo": "7003mars/pic2tri",
+    "name": "PicToTri",
+    "author": "Mars#7003",
+    "lastUpdated": "2023-03-25T07:39:57Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a dialog for turning images into schematics"
   }
 ]
