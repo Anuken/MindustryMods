@@ -223,7 +223,7 @@
     "repo": "xstabux/omaloon-public",
     "name": "Omaloon",
     "author": "StaBU, TheEE145",
-    "lastUpdated": "2023-03-30T13:29:37Z",
+    "lastUpdated": "2023-03-30T15:45:33Z",
     "stars": 45,
     "minGameVersion": "140.3",
     "hasScripts": false,
@@ -902,6 +902,17 @@
     "description": "V7 version of THC Industry. Created of pure boredom. \nDO NOT USE THE VERSION THAT IS DIRECTLY CLONED FROM THE REP.\nIT MAYBE TOTALLY BUUGY AND USELESS."
   },
   {
+    "repo": "yaddrx2/yr2-logic-debugger",
+    "name": "yr2 Logic Debugger",
+    "author": "原作者：DeltaNedas\n修改：yaddrx2",
+    "lastUpdated": "2022-11-24T18:00:30Z",
+    "stars": 9,
+    "minGameVersion": "137",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Logic Debugger\n\n一个逻辑辅助工具\n\n原作DeltaNedas/ldb\n\nyaddrx2将其升级到了137，仅供学习交流使用\n\n当前版本：1.6.4\n\n更新日志\n\nv1.0.1\n将mod版本升为137\n\nv1.0.2\n取消ui-lib的前置\n\nv1.0.3\n逻辑码编辑板\n新增代码语句的文本形式编辑\n\nv1.0.4\n逻辑块变量面板\n变量更新闪烁\n增加逻辑块所连方块的显示\n\nv1.0.5\n内存块编辑板\n内存值更新闪烁\n新增内存值的二进制形式视察\n实现内存值的十六进制形式编辑\n\nv1.0.6\n新增代码插入相关操作\n实现从剪切板导入代码块到指定位置\n\nv1.0.7\n新增面板的折叠按钮\n修复学术端运行mod导致的面板移位或覆盖\n修复面板横向抖动的bug\n\nv1.0.8\n单步调试面板\n实现代码单步运行调试\n\nv1.1.0\n新增调试面板设置断点\n实现运行到下一断点操作\n\nv1.1.1\n新增变量位置指示器\n显示单位变量的flag\n\nv1.2\n新增调试面板的运行位置追踪\n新增功能标签\n\nv1.3\n位置指示器增加变量名\n\nv1.4\n内存块面板增加内存值导入导出\n\nv1.5\n变量面板增加变量值导出\n\nv1.6\n内存面板的变量名筛选\n内存值导出筛选器"
+  },
+  {
     "repo": "germantova/erida",
     "name": "Erida",
     "author": "ArtemG",
@@ -1089,17 +1100,6 @@
     "description": "wip\nif you want to test this download from actions"
   },
   {
-    "repo": "yaddrx2/yr2-logic-debugger",
-    "name": "yr2 Logic Debugger",
-    "author": "原作者：DeltaNedas\n修改：yaddrx2",
-    "lastUpdated": "2022-11-24T18:00:30Z",
-    "stars": 8,
-    "minGameVersion": "137",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Logic Debugger\n\n一个逻辑辅助工具\n\n原作DeltaNedas/ldb\n\nyaddrx2将其升级到了137，仅供学习交流使用\n\n当前版本：1.6.4\n\n更新日志\n\nv1.0.1\n将mod版本升为137\n\nv1.0.2\n取消ui-lib的前置\n\nv1.0.3\n逻辑码编辑板\n新增代码语句的文本形式编辑\n\nv1.0.4\n逻辑块变量面板\n变量更新闪烁\n增加逻辑块所连方块的显示\n\nv1.0.5\n内存块编辑板\n内存值更新闪烁\n新增内存值的二进制形式视察\n实现内存值的十六进制形式编辑\n\nv1.0.6\n新增代码插入相关操作\n实现从剪切板导入代码块到指定位置\n\nv1.0.7\n新增面板的折叠按钮\n修复学术端运行mod导致的面板移位或覆盖\n修复面板横向抖动的bug\n\nv1.0.8\n单步调试面板\n实现代码单步运行调试\n\nv1.1.0\n新增调试面板设置断点\n实现运行到下一断点操作\n\nv1.1.1\n新增变量位置指示器\n显示单位变量的flag\n\nv1.2\n新增调试面板的运行位置追踪\n新增功能标签\n\nv1.3\n位置指示器增加变量名\n\nv1.4\n内存块面板增加内存值导入导出\n\nv1.5\n变量面板增加变量值导出\n\nv1.6\n内存面板的变量名筛选\n内存值导出筛选器"
-  },
-  {
     "repo": "darealmonika/eriker-logic",
     "name": "Erekir Logic",
     "author": "Akinom",
@@ -1263,6 +1263,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod that add nuclear related items and blocks. Need Multi Crafter Lib in v.1.2 or above!"
+  },
+  {
+    "repo": "apszoldat/mindustry-mapping-utilities",
+    "name": "Mapping Utilities",
+    "author": "ApsZoldat",
+    "lastUpdated": "2023-03-24T19:05:51Z",
+    "stars": 7,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Small Mindustry mod improving map editor convenience and possibilities. Check README.md for more information."
   },
   {
     "repo": "mythril382/loudustry",
@@ -1615,17 +1626,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod adds more turrets."
-  },
-  {
-    "repo": "apszoldat/mindustry-mapping-utilities",
-    "name": "Mapping Utilities",
-    "author": "ApsZoldat",
-    "lastUpdated": "2023-03-24T19:05:51Z",
-    "stars": 5,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Small Mindustry mod improving map editor convenience and possibilities. Check README.md for more information."
   },
   {
     "repo": "cbmshadowgd/terrariacontentmod",
@@ -3160,7 +3160,7 @@
     "repo": "tripletoxic/math-stuff",
     "name": "Math-stuff",
     "author": "Triple-Toxic",
-    "lastUpdated": "2023-03-30T01:09:14Z",
+    "lastUpdated": "2023-03-30T14:48:00Z",
     "stars": 2,
     "minGameVersion": "142",
     "hasScripts": false,
@@ -3817,6 +3817,17 @@
     "description": "相当于一个前置mod"
   },
   {
+    "repo": "v-blackbird/mindustryjavatestmodv7",
+    "name": "Java Mod Test AI",
+    "author": "You",
+    "lastUpdated": "2023-03-30T15:54:46Z",
+    "stars": 1,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
+  },
+  {
     "repo": "pepa3/mindustrymod",
     "name": "AllThings",
     "author": "Pepa_3",
@@ -4455,17 +4466,6 @@
     "description": "(This mod is BlueArchive fan mod.) Sensei, let's get to work! Send weapons used by students as relief supplies."
   },
   {
-    "repo": "delta-airlines-ig/superhelplinedustry",
-    "name": "SuperHelplinedustry",
-    "author": "Delta Airlines and maybe Helpl",
-    "lastUpdated": "2023-03-24T15:57:07Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "the game is now slightly easier but more complicated but also easier but maybe more complicated but its easier but more complicated"
-  },
-  {
     "repo": "lisenok229/rdc-mindustry-mod",
     "name": "RDC MM",
     "author": "xXx MissionaryPoseTheBest xXx#8507, ii_Night_cat_ii#7841, rachie#0949, 𝕃𝕚𝕤𝕖𝕟𝕠𝕜#1689",
@@ -4486,17 +4486,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "yes"
-  },
-  {
-    "repo": "delta-airlines-ig/communistry",
-    "name": "Communistry!",
-    "author": "DeltaV (Delta airlines on github)",
-    "lastUpdated": "2023-03-27T03:21:44Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "soviet industry and weapons in mindustry (development started before the invasion of ukrane, this has nothing to do with current events)"
   },
   {
     "repo": "7003mars/pic2tri",
@@ -4543,17 +4532,6 @@
     "description": "Demonstrates the built-in effects of the game.\n\n[olive]How to use?[]\nEffect blocks use copper to operate. Once they get copper, they will generate the effect.\nIf you want to use the effect just write the block's name in your code, as their name is the same as the effect's in-game name.\n\nThe sprites are placeholders, because they are not important in this mod.\n\n[acid]Includes a map displaying all the effects sorted by size and shape!!![]\n\nI hope this mod helps!"
   },
   {
-    "repo": "v-blackbird/mindustryjavatestmodv7",
-    "name": "Java Mod Test AI",
-    "author": "You",
-    "lastUpdated": "2023-03-30T09:55:08Z",
-    "stars": 0,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
-  },
-  {
     "repo": "penguip/sentinel-texts",
     "name": "Sentinel-texts",
     "author": "penguip",
@@ -4563,5 +4541,38 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A text edit still in development and inspired by games that i at least like to watch, like nms, garten of banban,etc. it is what I think is funny and not ment to be taken seriously."
+  },
+  {
+    "repo": "delta-airlines-ig/superhelplinedustry",
+    "name": "SuperHelplinedustry",
+    "author": "Delta Airlines and maybe Helpl",
+    "lastUpdated": "2023-03-30T14:03:01Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "the game is now slightly easier but more complicated but also easier but maybe more complicated but its easier but more complicated"
+  },
+  {
+    "repo": "osp54/lumus",
+    "name": "Lumus",
+    "author": "OSPx",
+    "lastUpdated": "2023-03-30T15:41:18Z",
+    "stars": 0,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A lua mod loader for mindustry."
+  },
+  {
+    "repo": "delta-airlines-ig/communistry",
+    "name": "Communistry!",
+    "author": "DeltaV (Delta airlines on github)",
+    "lastUpdated": "2023-03-30T15:49:39Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "soviet industry and weapons in mindustry (development started before the invasion of ukrane, this has nothing to do with current events)"
   }
 ]
