@@ -451,6 +451,17 @@
     "description": "hehe angish go nrrrt"
   },
   {
+    "repo": "eb-wilson/universecore",
+    "name": "Universe Core",
+    "author": "EBwilson",
+    "lastUpdated": "2023-03-26T16:03:41Z",
+    "stars": 20,
+    "minGameVersion": "141",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "testbuild.A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
+  },
+  {
     "repo": "sk7725/testers",
     "name": "Testers",
     "author": "sk7725",
@@ -528,6 +539,17 @@
     "description": "Adds tools for automatically filling resource patches with drills"
   },
   {
+    "repo": "riccj/minertools",
+    "name": "MinerTools",
+    "author": "miner",
+    "lastUpdated": "2023-02-05T04:30:59Z",
+    "stars": 16,
+    "minGameVersion": "136.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\n  # 功能\n\n  ---\n\n  ## UI\n  1. MinerToolsTable:\n     * 队伍信息:\n       * 队伍玩家数量(Tooltip显示基础队伍规则)\n       * 队伍单位显示\n       * 队伍全局电量(Tooltip显示详细电量情况)\n     * 一些有用的按钮:\n       * 暂停建造(仅手机)\n       * 自动升级传送带\n       * 重建方块\n       * 快捷投降\n     * 换队/跳波器\n     * 玩家列表:\n       * 所有玩家的名字\n       * 可锁定玩家视角(锁定的玩家控制炮塔时,会自动调整视角)\n       * 可切换到玩家视角\n       * 可一键投票踢出玩家\n     * 快捷蓝图\n     * 玩家AI:\n       * 挖矿AI\n       * 跟随AI\n\n  2. 聊天记录:\n     * 查询历史聊天记录\n     * 可以复制聊天记录(电脑:Ctrl+单击)\n\n  3. 更好的核心资源显示:\n     * 单位数量显示\n     * 物品每秒变化量显示\n     * 玩家预建消耗显示\n     * 可自定义的ui列数\n\n  4. 更好的信息面板:\n     * 单位,建筑,地板信息一起显示!\n     * 单位:\n       * 武器冷却状态\n     * 建筑:\n       * 物品详情\n     * 地板:\n       * 显示更详尽\n\n  ---\n\n  ## 画面\n  * 建筑:\n    * 选中:\n      * 异队选中信息\n      * 桥带连接详情\n    * 建筑血条\n    * 异队方块状态\n    * 构造方块耗材信息\n    * 附近炮塔警戒\n    * 物品炮塔子弹类型显示\n    * 单位工厂进度条\n\n  * 单位:\n    * 单位指示器(核心危险警告)\n    * 附近单位警戒\n\n    * 单位信息条:\n      * 血条\n      * 立场回复条\n      * 单位状态条\n      * 荷载条\n\n  * 玩家:\n    * 荷载拾放提示\n    * 玩家范围显示\n\n  ---\n\n  ## 其他小功能\n  * 进入游戏后,显示被ban的单位或方块\n  * UIScale的step修改\n  * 物品桥带可拿取物品\n  * 更多方块信息条:\n    * 血条: 血量显示更详细\n    * 进度条: 进度显示更详细\n\n  ---\n\n  # 其他\n  Mod的90%功均可在设置中打开或关闭!"
+  },
+  {
     "repo": "jasmarkelina/tantros-mod",
     "name": "Tantros",
     "author": "Jasmarkelina,Plastel & RouterXdd",
@@ -581,6 +603,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mindustry modding utilities to make mod development easier."
+  },
+  {
+    "repo": "sh1penfire/welcome-to-the-frostscape",
+    "name": "Welcome to the Frostscape",
+    "author": "Sh1penfire",
+    "lastUpdated": "2023-03-25T05:30:15Z",
+    "stars": 15,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "An experimental modification created to test v7's new API themed around Frostscapes and Volcanoes. Aims to one day create a satasfying rogue-lite experiance in your tower-defense real time stratagy factory game. Will *not* be worked on consistently due to life, thank you if you chose to use this.\n\n[darkgray]A voice lingers in the darkness, dancing around your ears. Will you join it?"
   },
   {
     "repo": "fox1va-the-fox/schems",
@@ -658,6 +691,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "This mod is multiplayer-compatible!\n\nSo, basically... This mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully ai.\n\nManual mode consists of two thumbsticks and an action panel.\nAi mode includes three actions (attack, mine, patrol) + auto action selection.\n\nCheck readme.md for detailed info."
+  },
+  {
+    "repo": "shadowpazzo99/shadowdustry",
+    "name": "ShadowDustry",
+    "author": "ShadowPazzo#5003",
+    "lastUpdated": "2022-08-17T23:53:11Z",
+    "stars": 13,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "something perhaps"
   },
   {
     "repo": "slotterleet/distributor",
@@ -1188,6 +1232,17 @@
     "description": "Small Mindustry mod improving map editor convenience and possibilities. Check README.md in GitHub for more information."
   },
   {
+    "repo": "toriwake/kannadustry",
+    "name": "Kannadustry",
+    "author": "Toriwake/Kanna",
+    "lastUpdated": "2022-09-30T19:14:44Z",
+    "stars": 6,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Kanna mod"
+  },
+  {
     "repo": "cry0flu1d/project-frost-in-java",
     "name": "Project Frost in a Jar",
     "author": "Cry0flu1d & 2356",
@@ -1353,6 +1408,17 @@
     "description": "Spawns puddles when it is raining.\nMay or may not be laggy."
   },
   {
+    "repo": "reborntrack970/sandbox-mode",
+    "name": "Sandbox Mode",
+    "author": "RTOmega",
+    "lastUpdated": "2022-07-24T06:55:03Z",
+    "stars": 5,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Makes you sandbox."
+  },
+  {
     "repo": "xzxadixzx/crawler-language",
     "name": "Crawler Language",
     "author": "xzxADIxzx",
@@ -1488,7 +1554,7 @@
     "repo": "vvseangtvv/project-restoration",
     "name": "Project: Restoration",
     "author": "VvSeanGtvV",
-    "lastUpdated": "2023-04-01T03:59:02Z",
+    "lastUpdated": "2023-04-01T05:51:52Z",
     "stars": 5,
     "minGameVersion": "142",
     "hasScripts": false,
@@ -1716,6 +1782,17 @@
     "description": "Adds more debugging features and improvements.\n\nFeatures:\n- Fully customizable log messages /w timestamp;\n- Translate chat messages to your language;\n- Change log level;\n- Colorize `[colorname]` in log messages;\n- Log event triggers;\n- Various other QoL improvements.\n\nSee README.md for more information."
   },
   {
+    "repo": "errorincode27/relics-mod",
+    "name": "Relics",
+    "author": "[Error_27]",
+    "lastUpdated": "2023-03-18T23:32:30Z",
+    "stars": 4,
+    "minGameVersion": "140.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod adding turrets from Mindustry Classic back into the game."
+  },
+  {
     "repo": "uujuju1/steam-works",
     "name": "Steam Works",
     "author": "Uujuju",
@@ -1725,6 +1802,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A heat and steam based mod."
+  },
+  {
+    "repo": "edwardbrok/jdst-mod",
+    "name": "Joey Drew Studios Technologies",
+    "author": "Edward_Brok (content), liplum (MultiCraft Lib)",
+    "lastUpdated": "2023-03-28T19:45:41Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Предыстория умалчивает, какого черта эти технологии частной компании попали к Вам. И всё-таки... \n\n\nПереоткройте гениальные технологии старой заброшенной студии. \nОвладейте силой чернил. \nНаучитесь создавать из них почти всё и вся. \n\nНи в коем случае не пробудите чернильного демона."
   },
   {
     "repo": "shimyytrov/turretex-java",
@@ -2673,6 +2761,17 @@
     "description": "Adds new ways to destroy nature, mostly factories.\n\nThe sprites and code are subject to change.\n\nWill be mostly rewritten once i figure out how mindustry java works."
   },
   {
+    "repo": "mrybs/dasuas",
+    "name": "Dasuas",
+    "author": "mrybs - maintainer, teamlead, coder and pixelartist\n001kpp - pixelartist and sound director\nLpSts325 - pixelartist\nproneslow - pixelartist",
+    "lastUpdated": "2023-01-19T14:43:20Z",
+    "stars": 2,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Dausas Project mod"
+  },
+  {
     "repo": "blackdeluxecat/settingsweep",
     "name": "Setting Sweep",
     "author": "BlackDeluxeCat",
@@ -2981,6 +3080,17 @@
     "description": "Este mod agrega metales y muchas otras cosas más que mejoran la experiencia del juego vanilla."
   },
   {
+    "repo": "koctz34/rust-music-mod",
+    "name": "Music RUST",
+    "author": "koctz34",
+    "lastUpdated": "2022-09-14T20:12:26Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Изменяет музыку из RUST. Не все музыки были взять."
+  },
+  {
     "repo": "stonesteel27/panformobile",
     "name": "pan for mobile",
     "author": "StoneSteel",
@@ -3265,6 +3375,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The remake of gold mod by Slotterleet in java"
+  },
+  {
+    "repo": "calebmonkey/mindustry-taller",
+    "name": "Mindustry Taller",
+    "author": "CalebMonkey",
+    "lastUpdated": "2023-01-30T11:13:45Z",
+    "stars": 1,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mindustry Taller adds more items and turrets to the game.\nIt aims to expand the game without making it \"wider\", allowing for higher strength of production and defence without impacting the early game."
   },
   {
     "repo": "ilushechka-br/debily_mod",
