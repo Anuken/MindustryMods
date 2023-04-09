@@ -168,7 +168,7 @@
     "repo": "fresh791/fading-revelations",
     "name": "Fading Revelations",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791 / .Frankie\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 / Froomeeth\n- Lore: iori / Fresh791\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2023-04-08T16:21:28Z",
+    "lastUpdated": "2023-04-09T11:48:42Z",
     "stars": 62,
     "minGameVersion": "140",
     "hasScripts": true,
@@ -191,7 +191,7 @@
     "name": "Sapphirium",
     "author": "Snake",
     "lastUpdated": "2023-04-05T15:24:06Z",
-    "stars": 56,
+    "stars": 58,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": true,
@@ -223,7 +223,7 @@
     "repo": "xstabux/omaloon-public",
     "name": "Omaloon",
     "author": "StaBU, TheEE145",
-    "lastUpdated": "2023-04-06T18:24:37Z",
+    "lastUpdated": "2023-04-09T10:49:32Z",
     "stars": 46,
     "minGameVersion": "140.3",
     "hasScripts": false,
@@ -847,6 +847,17 @@
     "description": "Small Mindustry mod improving map editor convenience and possibilities\n\nImprovements:\n\n- Mixed Tech Unlocked\n- More Rules Available\n- Better Cliff Editing\n- Numbered Teams Editing\n- Planet Background Editing\n- Any Brush Size\n\nCheck README.md in GitHub repo for more detailed information\n\n! Work In Progress !\nMore map making tools will be added in future"
   },
   {
+    "repo": "ferlern/extended-ui-v7",
+    "name": "extended UI",
+    "author": "wizer",
+    "lastUpdated": "2023-04-09T11:11:53Z",
+    "stars": 10,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "UNSTABLE V7 PORT. Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
+  },
+  {
     "repo": "deltanedas/mobile-ui",
     "name": "Mobile UI",
     "author": "deltanedas",
@@ -922,17 +933,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Logic Debugger\n\n一个逻辑辅助工具\n\n原作DeltaNedas/ldb\n\nyaddrx2将其升级到了137，仅供学习交流使用\n\n当前版本：1.6.4\n\n更新日志\n\nv1.0.1\n将mod版本升为137\n\nv1.0.2\n取消ui-lib的前置\n\nv1.0.3\n逻辑码编辑板\n新增代码语句的文本形式编辑\n\nv1.0.4\n逻辑块变量面板\n变量更新闪烁\n增加逻辑块所连方块的显示\n\nv1.0.5\n内存块编辑板\n内存值更新闪烁\n新增内存值的二进制形式视察\n实现内存值的十六进制形式编辑\n\nv1.0.6\n新增代码插入相关操作\n实现从剪切板导入代码块到指定位置\n\nv1.0.7\n新增面板的折叠按钮\n修复学术端运行mod导致的面板移位或覆盖\n修复面板横向抖动的bug\n\nv1.0.8\n单步调试面板\n实现代码单步运行调试\n\nv1.1.0\n新增调试面板设置断点\n实现运行到下一断点操作\n\nv1.1.1\n新增变量位置指示器\n显示单位变量的flag\n\nv1.2\n新增调试面板的运行位置追踪\n新增功能标签\n\nv1.3\n位置指示器增加变量名\n\nv1.4\n内存块面板增加内存值导入导出\n\nv1.5\n变量面板增加变量值导出\n\nv1.6\n内存面板的变量名筛选\n内存值导出筛选器"
-  },
-  {
-    "repo": "ferlern/extended-ui-v7",
-    "name": "extended UI",
-    "author": "wizer",
-    "lastUpdated": "2022-12-23T22:10:59Z",
-    "stars": 9,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "UNSTABLE V7 PORT. Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
   },
   {
     "repo": "jhrushbe/moardustry",
@@ -3201,17 +3201,6 @@
     "description": "Gotoh-san turned into a force projector!!"
   },
   {
-    "repo": "7003mars/pic2tri",
-    "name": "PicToTri",
-    "author": "Mars#7003",
-    "lastUpdated": "2023-04-08T09:34:58Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds a dialog for turning images into schematics"
-  },
-  {
     "repo": "floppa-coder/ironextened",
     "name": "Iron Extended",
     "author": "Floppa",
@@ -3223,17 +3212,6 @@
     "description": "Add the new content. Requires Liplum/MultiCrafter lib"
   },
   {
-    "repo": "penguip/a-mindustry-mod",
-    "name": "Sentinel addon",
-    "author": "penguip",
-    "lastUpdated": "2023-04-09T02:57:44Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "It aims to add robotic entites (called sentinels)and some other content"
-  },
-  {
     "repo": "unionofsovietsocialistrepublics/babiesunit",
     "name": "Babies unit!",
     "author": "Horizon Cult",
@@ -3243,6 +3221,28 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod add smol and cute unit, I guess"
+  },
+  {
+    "repo": "7003mars/pic2tri",
+    "name": "PicToTri",
+    "author": "Mars#7003",
+    "lastUpdated": "2023-04-09T10:23:24Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a dialog for turning images into schematics"
+  },
+  {
+    "repo": "penguip/a-mindustry-mod",
+    "name": "Sentinel addon",
+    "author": "penguip",
+    "lastUpdated": "2023-04-09T11:40:32Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "It aims to add robotic entites (called sentinels)and some other content"
   },
   {
     "repo": "explerhd/unnamedmods",
@@ -3908,7 +3908,7 @@
     "repo": "koctz34/hyper-space",
     "name": "Hyper Space",
     "author": "koctz34",
-    "lastUpdated": "2023-04-09T08:55:17Z",
+    "lastUpdated": "2023-04-09T11:01:50Z",
     "stars": 1,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -4631,6 +4631,28 @@
     "description": "the game is now slightly easier but more complicated but also easier but maybe more complicated but its easier but more complicated"
   },
   {
+    "repo": "piggychu620/mindustryrandomplanet",
+    "name": "Random Planet v0.2.7",
+    "author": "PiggyChu620",
+    "lastUpdated": "2023-04-08T21:10:41Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Randomly generate a planet and its sectors.\nIt's a mixtech mod, I myself don't like the idea of \"Oh, you can only use these things here, and you can only use those things there, bruh, bruh, bruh!\", so I make one myself, if you don't like mixtech and think it's \"unbalanced\" and \"boring\", then please go away, much appreciated!"
+  },
+  {
+    "repo": "piggychu620/mindustrymineablealloys",
+    "name": "Mineable Alloys v1.1",
+    "author": "PiggyChu620",
+    "lastUpdated": "2023-04-08T21:16:07Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Make all alloys/intermetallic directly mineable, currently only works on Serpulo and editor"
+  },
+  {
     "repo": "spore-biometh-team/sandmod",
     "name": "Greektech",
     "author": "Watermocules",
@@ -4640,5 +4662,16 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Run out of thing to do in campaign? Worry not, we will provide you more."
+  },
+  {
+    "repo": "jaeden-t/testmindustrymod",
+    "name": "This isn't a mod.",
+    "author": "Yourself",
+    "lastUpdated": "2023-04-09T09:58:27Z",
+    "stars": 0,
+    "minGameVersion": "142",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Bbfashbjhcbabfhsbafbhajbf"
   }
 ]
