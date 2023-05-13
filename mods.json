@@ -14,7 +14,7 @@
     "repo": "aureusstratus/exogenesis",
     "name": "Exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2023-05-12T16:56:36Z",
+    "lastUpdated": "2023-05-12T22:52:36Z",
     "stars": 246,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -4904,6 +4904,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A simple mod from a learning modder. Don't expect much, honestly, even though I will try my best to make it a good mod"
+  },
+  {
+    "repo": "cardillan/schematicsrefresher",
+    "name": "Schematics Refresher",
+    "author": "Cardillan",
+    "lastUpdated": "2023-05-08T21:20:50Z",
+    "stars": 0,
+    "minGameVersion": "142",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Refreshes schematics stored in the /schematics subdirectory whenever the game loads or the Refresh button is pressed.\n\nThis mod is only useful if you modify these schematics externally, e.g. by building them using Mindcode - https://github.com/cardillan/mindcode\n\nA few minor sample schematics are included.\n"
   },
   {
     "repo": "vincenzotheduck/ultra-additions",
