@@ -561,6 +561,17 @@
     "description": "Adds tools for automatically filling resource patches with drills"
   },
   {
+    "repo": "echovespy/simplistic",
+    "name": "Simplistic - TexturePack",
+    "author": "EchoVespy",
+    "lastUpdated": "2022-10-28T21:49:56Z",
+    "stars": 16,
+    "minGameVersion": "138",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts"
+  },
+  {
     "repo": "vvseangtvv/v5-classic",
     "name": "V5 Reborn",
     "author": "VvSeanGtvV",
@@ -592,17 +603,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod being developed by a team of three, it reveals and makes tantros playable, keep in mind that the mod is not finished yet, you can play the unfinished campaign.\n\ncurrently being worked on by \n- Gander (a.k.a. Plastel)\n- Jasmarkelina"
-  },
-  {
-    "repo": "echovespy/simplistic",
-    "name": "Simplistic - TexturePack",
-    "author": "EchoVespy",
-    "lastUpdated": "2022-10-28T21:49:56Z",
-    "stars": 15,
-    "minGameVersion": "138",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts"
   },
   {
     "repo": "emanuelg-gaming/erekir-expansion",
@@ -1485,17 +1485,6 @@
     "description": "BetaMindy music assets. Does nothing on its own!"
   },
   {
-    "repo": "electricgun/toggle-editor-mode",
-    "name": "Toggle Editor Mode",
-    "author": "ElectricGun",
-    "lastUpdated": "2023-03-20T14:56:23Z",
-    "stars": 6,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Allows access to Editor Mode on Sandbox and Singleplayer\n\nDoes not work on Multiplayer and Campaign."
-  },
-  {
     "repo": "cbmshadowgd/terrariacontentmod",
     "name": "Terarria Content Mod",
     "author": "CBMShadowGD",
@@ -1573,15 +1562,15 @@
     "description": "Displays more stats in database. Unhides few things. Multiplayer compatible.\nПоказывает больше информации в базе данных. Открывает пару скрытых вещей. Не влияет на игру по сети"
   },
   {
-    "repo": "mythril382/terraria-sounds",
-    "name": "Terraria Sounds",
-    "author": "Mythril",
-    "lastUpdated": "2022-05-18T16:02:14Z",
-    "stars": 5,
+    "repo": "electricgun/toggle-editor-mode",
+    "name": "Toggle Editor Mode",
+    "author": "ElectricGun",
+    "lastUpdated": "2023-05-20T07:56:34Z",
+    "stars": 6,
     "minGameVersion": "136",
-    "hasScripts": false,
+    "hasScripts": true,
     "hasJava": false,
-    "description": "Changes Mindustry sounds to Terraria sounds, no I didn't make them."
+    "description": "Allows access to Editor Mode on Sandbox and Singleplayer\n\nDoes not work on Multiplayer and Campaign.\n\nUpdate: Taken account for Testing Utilities and Time Control panels."
   },
   {
     "repo": "mythril382/rainpuddles",
@@ -1769,6 +1758,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Serilia but on steroids (Java)"
+  },
+  {
+    "repo": "mythril382/terraria-sounds",
+    "name": "Terraria Sounds",
+    "author": "Mythril",
+    "lastUpdated": "2023-05-20T06:13:17Z",
+    "stars": 5,
+    "minGameVersion": "144.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Changes Mindustry sounds to Terraria sounds, no I didn't make them."
   },
   {
     "repo": "deltanedas/radar",
@@ -4048,17 +4048,6 @@
     "description": "A Mindustry mod for adding both larger and smaller content to Serpulo."
   },
   {
-    "repo": "balam314/extensions",
-    "name": "Extensions",
-    "author": "BalaM314",
-    "lastUpdated": "2023-05-18T05:59:40Z",
-    "stars": 1,
-    "minGameVersion": "140.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Extends everything and improves the endgame by adding an extra tier of stuff."
-  },
-  {
     "repo": "penguip/a-mindustry-mod",
     "name": "Sentinel addon",
     "author": "penguip",
@@ -4068,6 +4057,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "It aims to add robotic entites (called sentinels)and some other content"
+  },
+  {
+    "repo": "balam314/extensions",
+    "name": "Extensions",
+    "author": "BalaM314",
+    "lastUpdated": "2023-05-20T06:08:52Z",
+    "stars": 1,
+    "minGameVersion": "144",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Extends everything and improves the endgame by adding an extra tier of stuff."
   },
   {
     "repo": "pepa3/mindustrymod",
@@ -5052,7 +5052,7 @@
     "repo": "xorblo-doitus/erekir-utility",
     "name": "Erekir Utility",
     "author": "xorblo-doitus",
-    "lastUpdated": "2023-05-19T13:14:19Z",
+    "lastUpdated": "2023-05-20T07:17:42Z",
     "stars": 0,
     "minGameVersion": "140",
     "hasScripts": false,
