@@ -114,7 +114,7 @@
     "name": "Informatis",
     "author": "Sharlotte",
     "lastUpdated": "2023-05-14T01:36:44Z",
-    "stars": 76,
+    "stars": 77,
     "minGameVersion": "140",
     "hasScripts": false,
     "hasJava": true,
@@ -608,7 +608,7 @@
     "repo": "jasmarkelina/tantros-mod",
     "name": "Tantria",
     "author": "Jasmarkelina, Gander & RouterXdd",
-    "lastUpdated": "2023-05-22T02:45:38Z",
+    "lastUpdated": "2023-05-27T10:40:22Z",
     "stars": 16,
     "minGameVersion": "143.1",
     "hasScripts": true,
@@ -726,6 +726,17 @@
     "description": "The ultimate form of the ultimate form. Multiplayer compatible."
   },
   {
+    "repo": "routerxdd/erekir-extended",
+    "name": "Erekir Extended",
+    "author": "RouterXdd",
+    "lastUpdated": "2023-05-03T17:57:52Z",
+    "stars": 13,
+    "minGameVersion": "140",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Add the new sectors and content on Erekir"
+  },
+  {
     "repo": "apszoldat/mindustry-mapping-utilities",
     "name": "Mapping Utilities",
     "author": "ApsZoldat",
@@ -790,17 +801,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "WIP"
-  },
-  {
-    "repo": "routerxdd/erekir-extended",
-    "name": "Erekir Extended",
-    "author": "RouterXdd",
-    "lastUpdated": "2023-05-03T17:57:52Z",
-    "stars": 12,
-    "minGameVersion": "140",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Add the new sectors and content on Erekir"
   },
   {
     "repo": "sunsetteam/sunset",
@@ -3314,7 +3314,7 @@
     "repo": "taggamer555/omegazero",
     "name": "OMEGAZERO",
     "author": "KillerIKY - lead dev\nFresh791 - great help with code structures\nRenale - testing and some ideas\nChatGPT - i was lazy",
-    "lastUpdated": "2023-05-26T22:03:35Z",
+    "lastUpdated": "2023-05-27T11:50:35Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -5060,17 +5060,6 @@
     "description": "(Indev)\n    \n    Add various utility features :\n    - Stingy Duct : Prevent core incineration\n    - Power Saver : Disconnects when battery are very low, reconnects when the backward network is recharged."
   },
   {
-    "repo": "nemesistheory/longreach",
-    "name": "longReach",
-    "author": "NemesisTheory",
-    "lastUpdated": "2023-05-26T03:14:41Z",
-    "stars": 0,
-    "minGameVersion": "140",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "You can build anywhere on the map without need of moving. Based on Factorio mod. Use pan view."
-  },
-  {
     "repo": "justtroniusplay/unicorp-technologies",
     "name": "Unicorp Technologies Reinvented",
     "author": "Original: CancerGuy/Brickhead. Remaker: JustTroniusPlay",
@@ -5091,5 +5080,16 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Expansion for spore biometh"
+  },
+  {
+    "repo": "nemesistheory/longreach",
+    "name": "longReach",
+    "author": "NemesisTheory",
+    "lastUpdated": "2023-05-27T12:00:43Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "You can build anywhere on the map without need of moving. Based on Factorio mod. Use pan view. \n\nContains a slider option in the settings to change from normal, to 50 tiles, to 100 tiles, to 250 tiles, to infinite."
   }
 ]
