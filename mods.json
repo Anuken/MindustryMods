@@ -15,7 +15,7 @@
     "name": "Exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2023-05-25T14:58:17Z",
-    "stars": 251,
+    "stars": 252,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -209,6 +209,17 @@
     "description": "This mod is mostly just turrets. It's just me creating random ideas that pop into my head."
   },
   {
+    "repo": "fredyjabe/aeyama",
+    "name": "Aeyama: The New World",
+    "author": "FredyJabe & Jojo",
+    "lastUpdated": "2023-05-30T20:25:14Z",
+    "stars": 51,
+    "minGameVersion": "144.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This mod will allow you to explore a whole new world, with a new Tech Tree and a brand new campaign.\n\n    [gray]Language: [white]- English\n                       [white]- French\n                       [white]- Russian\n                       [white]- Polish [red](WIP)\n                       [white]- Ukrainian [red](WIP)\n                       [white]- Simplified Chinese [red](WIP)\n\n[white]. . . check the Discord and our GitHub repository for more info!"
+  },
+  {
     "repo": "abomb4/super-cheat",
     "name": "(v7) Invincible Cheat 无敌作弊",
     "author": "滞人",
@@ -218,17 +229,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This is a cheat mod, abuse will reduce your game experience, be careful for using this.\nGitHub: https://github.com/abomb4/super-cheat\nemail:  abomb4@163.com\nWellcome to feedback!\n如果 Android 玩家发现物品描述都是英文，去游戏设置 -> 语言 -> 切换成任意其他语言（如繁体中文）-> 重启 -> 切回简体中文即可。\n\nFeatures:\n- Adjustable Overdrive Projector (speedup, or slow down)\n- Team Changer\n- DPS Tester Unit and Walls\n- Invincible Core and Invincible build plane\n- Cheat Items (power source, liquid source, item source with 36x faster)\n- Invincible Wall, Invincible Force Projector\n- Several strange projectors\n- Chronosphere Unloader and Pusher\n- Unit Factory that can build unit for enemys\n\n这是个作弊 mod，会降低游戏体验，请谨慎使用。\n主要特性：\n- 可调整的超速投影（更快，也可以更慢）\n- 队伍更换器\n- DPS 测试单位与测试墙\n- 无敌核心，无敌建造机\n- 作弊物品（电源、水源、物品源超快版）\n- 无敌围墙，无敌力场\n- 一大堆神奇力场\n- 时空提取器、时空推送器\n- 单位工厂（可以给敌人出兵）\n\nЭто читерный мод, злоупотребление испортит интерес к игре, острожней с этим.\nВозможности:\n- Настраиваемый сверхприводный проектор (ускорение или замедление)\n- Блоки, меняющие команду, за которую играют те или иные единицы (или вы сами)\n- Измеритель урона в секунду\n- Непобедимое ядро и его строительная боевая единица\n- Cheat Items (power source, liquid source, item source with 36x faster)\n- Неразрушаемые стены, силовой проектор с бесконечной прочностью\n- Несколько полезных проекторов\n- Дистанционный загрузчик и разгрузчик\n- Универсальный завод боевых единиц, также может производить их для врагов"
-  },
-  {
-    "repo": "fredyjabe/aeyama",
-    "name": "Aeyama: The New World",
-    "author": "FredyJabe & Jojo",
-    "lastUpdated": "2023-05-30T20:25:14Z",
-    "stars": 50,
-    "minGameVersion": "144.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This mod will allow you to explore a whole new world, with a new Tech Tree and a brand new campaign.\n\n    [gray]Language: [white]- English\n                       [white]- French\n                       [white]- Russian\n                       [white]- Polish [red](WIP)\n                       [white]- Ukrainian [red](WIP)\n                       [white]- Simplified Chinese [red](WIP)\n\n[white]. . . check the Discord and our GitHub repository for more info!"
   },
   {
     "repo": "sharlottes/sharustry",
@@ -1573,17 +1573,6 @@
     "description": "Displays more stats in database. Unhides few things. Multiplayer compatible.\nПоказывает больше информации в базе данных. Открывает пару скрытых вещей. Не влияет на игру по сети"
   },
   {
-    "repo": "uujuju1/steam-works",
-    "name": "Steam Works",
-    "author": "Uujuju",
-    "lastUpdated": "2023-05-28T15:31:37Z",
-    "stars": 6,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A heat and steam based mod."
-  },
-  {
     "repo": "electricgun/toggle-editor-mode",
     "name": "Toggle Editor Mode",
     "author": "ElectricGun",
@@ -1593,6 +1582,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Allows access to Editor Mode on Sandbox and Singleplayer\n\nDoes not work on Multiplayer and Campaign.\n\nUpdate: Taken account for Testing Utilities and Time Control panels."
+  },
+  {
+    "repo": "uujuju1/steam-works",
+    "name": "Steam Works",
+    "author": "Uujuju",
+    "lastUpdated": "2023-06-02T01:41:52Z",
+    "stars": 6,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A heat and steam based mod."
   },
   {
     "repo": "mythril382/rainpuddles",
@@ -1813,6 +1813,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Serilia but on steroids (Java)"
+  },
+  {
+    "repo": "teamviscott/modprojectviscott",
+    "name": "Project Viscott",
+    "author": "Sprites : Ethanol10 ,ThomasThings \nSfx/Music : Vdoble MSG \nProgrammers : Siede ,Manuwar \n \n Credits to MeepOfFaith for making the pseudo3d system",
+    "lastUpdated": "2023-05-30T17:54:41Z",
+    "stars": 5,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Project viscott is a mindustry mod that tries to add a \nnew Planet and intends to give the player a new and \nunique playing experience..."
   },
   {
     "repo": "deltanedas/radar",
@@ -2143,17 +2154,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Stripped down version of the original mod. Contains only CLaJ and enlarged schematics."
-  },
-  {
-    "repo": "teamviscott/modprojectviscott",
-    "name": "Project Viscott",
-    "author": "Sprites : Ethanol10 ,ThomasThings \nSfx/Music : Vdoble MSG \nProgrammers : Siede ,Manuwar \n \n Credits to MeepOfFaith for making the pseudo3d system",
-    "lastUpdated": "2023-05-30T17:54:41Z",
-    "stars": 4,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Project viscott is a mindustry mod that tries to add a \nnew Planet and intends to give the player a new and \nunique playing experience..."
   },
   {
     "repo": "ka4ok52/persea-mod",
