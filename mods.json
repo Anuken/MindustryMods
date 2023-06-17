@@ -143,6 +143,17 @@
     "description": "Adds the Diamond resource.\n\nThis mod also adds more than just diamonds. It also adds enhanced versions of vanilla production blocks, as well as units, technology, and more."
   },
   {
+    "repo": "deltanedas/pictologic",
+    "name": "PicToLogic",
+    "author": "deltanedas, Router and another guy",
+    "lastUpdated": "2023-06-14T01:47:58Z",
+    "stars": 73,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a dialog for turning images into processor schematics.\nRequires deltanedas/ui-lib."
+  },
+  {
     "repo": "deltanedas/ui-lib",
     "name": "UI Lib",
     "author": "deltanedas",
@@ -264,17 +275,6 @@
     "description": "Lets you type into the console.\nPress F8 to open."
   },
   {
-    "repo": "blackdeluxecat/mi2-utilities-java",
-    "name": "MI2-Utilities Java",
-    "author": "BlackDeluxeCat",
-    "lastUpdated": "2023-06-09T17:00:51Z",
-    "stars": 34,
-    "minGameVersion": "144",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "# MI2-Utilities Java\n\n### Intro\n- [English](README.md) | [中文](README_zh.md)\n\nQOL Mod, powerful assists to vanilla gameplay. For destined Mindustry players.\n\n### Install\n\n- Method 1: \"Import from github\", with \"BlackDeluxeCat/MI2-Utilities-Java\". This makes reinstall available. (recommended)\n- Method 2: Get the latest release, download \"MI2-Utilities Java.jar\". Then \"Import from a file\" with the file.\n\nQQ Group(中文zh_cn) number: 875035496\n\n### Contribution\n- PRs: l18n, bug fix, new feature.\n- Issues: bug report, suggestion.\n\n---\n\n## Features(1.2.3c)\n\n#### MI2UI\n- Functions: one-click planning rebuild, distribution building reveal.\n- Logical FPS simulation.\n- AI-assist: auto mining, auto construct plans, auto self-repair, auto aiming.\n- Most of the map rules.\n- Wave info, force skipwave, wave health bars.\n- RTS Formation creating and selecting.\n- Most of MI2U's options.\n\n#### Core Info\n- Vanilla core info ++, charts of resource changes.\n- Unit counter.\n- Power net bars & net building analyse.\n- Switch to view other teams.\n\n#### MindowMap\n- Renderer based on vanilla.\n- Sensible zoomed to full map.\n- Player labels.\n- Clicking pans camera.\n- Space Scan world finder.\n- Logic Building Stats\n\n#### Map Info\n\n\n#### Logic Helper\n- Sort and fast typing var names, using delimiter.\n- Search & Replace.\n- Cut or Copy, and Paste.\n\n#### Emoji\n- Emoji book.\n\n#### Mindow2\nDraggable window for this mod. On the auto-hidden title bar, you can open settings dialog, minimize it, or tap the title to drag. For details, open settings and see the help pages of each Mindow2.\n\nPosition, snap, etc. can be saved through settings.\n\n#### Others\n- Smooth multiplayer cursors.\n- Block/Unit hp bar, logic lines, pathfind lines.\n- Disable wrecks, units, bullets rendering.\n- Distribution buildings interior reveal.\n- Modify block stat bars, make it following cursor.\n- 99.5% of changes can be turned off with options.\n- The settings stored at $Mindustry/mods/MI2U_Settings/.\n\n---\n\nEarly JS version: [BlackDeluxeCat/MI2-Utilities](https://github.com/BlackDeluxeCat/MI2-Utilities)\n\nMy friend did a lot of other functions, see [MinerTools](https://github.com/RlCCJ/MinerTools)."
-  },
-  {
     "repo": "liplum/multicrafterlib",
     "name": "MultiCrafter Lib",
     "author": "[#42a5f5]Liplum[]",
@@ -284,6 +284,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod library provides a multiple-recipe crafter to produce items, fluids, power or even heat for Json and JavaScript mods.\nPlease check the repository below to learn more.\nWork on both v136 and v137."
+  },
+  {
+    "repo": "blackdeluxecat/mi2-utilities-java",
+    "name": "MI2-Utilities Java",
+    "author": "BlackDeluxeCat",
+    "lastUpdated": "2023-06-17T17:18:12Z",
+    "stars": 34,
+    "minGameVersion": "144.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "# MI2-Utilities Java\n\n### Intro\n- [English](README.md) | [中文](README_zh.md)\n\nQOL Mod, powerful assists to vanilla gameplay. For destined Mindustry players.\n\n### Install\n\n- Method 1: \"Import from github\", with \"BlackDeluxeCat/MI2-Utilities-Java\". This makes reinstall available. (recommended)\n- Method 2: Get the latest release, download \"MI2-Utilities Java.jar\". Then \"Import from a file\" with the file.\n\nQQ Group(中文zh_cn) number: 875035496\n\n### Contribution\n- PRs: l10n, bug fix, new feature.\n- Issues: bug report, suggestion.\n\n---\n\n## Features(1.2.3c)\n\n#### MI2UI\n- Functions: one-click planning rebuild, distribution building reveal.\n- Logical FPS simulation.\n- AI-assist: auto mining, auto construct plans, auto self-repair, auto aiming.\n- Most of the map rules.\n- Wave info, force skipwave, wave health bars.\n- RTS Formation creating and selecting.\n- Most of MI2U's options.\n\n#### Core Info\n- Vanilla core info ++, charts of resource changes.\n- Unit counter.\n- Power net bars & net building analyse.\n- Switch to view other teams.\n\n#### MindowMap\n- Renderer based on vanilla.\n- Sensible zoomed to full map.\n- Player labels.\n- Clicking pans camera.\n- Space Scan world finder.\n- Logic Building Stats\n\n#### Map Info\n\n\n#### Logic Helper\n- Sort and fast typing var names, using delimiter.\n- Search & Replace.\n- Cut or Copy, and Paste.\n\n#### Emoji\n- Emoji book.\n\n#### Mindow2\nDraggable window for this mod. On the auto-hidden title bar, you can open settings dialog, minimize it, or tap the title to drag. For details, open settings and see the help pages of each Mindow2.\n\nPosition, snap, etc. can be saved through settings.\n\n#### Others\n- Smooth multiplayer cursors.\n- Block/Unit hp bar, logic lines, pathfind lines.\n- Disable wrecks, units, bullets rendering.\n- Distribution buildings interior reveal.\n- Modify block stat bars, make it following cursor.\n- 99.5% of changes can be turned off with options.\n- The settings stored at $Mindustry/mods/MI2U_Settings/.\n\n---\n\nEarly JS version: [BlackDeluxeCat/MI2-Utilities](https://github.com/BlackDeluxeCat/MI2-Utilities)\n\nMy friend did a lot of other functions, see [MinerTools](https://github.com/RlCCJ/MinerTools)."
   },
   {
     "repo": "flintyx/animalia",
@@ -2698,7 +2709,7 @@
     "repo": "situvngcd/mindustrymodtest",
     "name": "SVN Test mod",
     "author": "[#4488ff]SITUVNgcd[]",
-    "lastUpdated": "2023-06-17T15:32:51Z",
+    "lastUpdated": "2023-06-17T16:58:23Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -3410,17 +3421,6 @@
     "description": "Welcome to zerubus a planet with pink boiling seas and red plants.                    "
   },
   {
-    "repo": "taggamer555/omegazero",
-    "name": "OMEGAZERO",
-    "author": "KillerIKY - lead dev\nRenale - testing and some ideas\nChatGPT - i was lazy\nAlvar - balancing\nNeonFlames - helped with getting used to GitHub",
-    "lastUpdated": "2023-06-14T21:09:04Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "State: INDEV\nContent: SOME\nPlayable: TRUE"
-  },
-  {
     "repo": "krita-burstflakes/envirius-industries",
     "name": "Envirius",
     "author": "BARRACUDA x KRITA",
@@ -3441,6 +3441,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Grind a lot less in the game."
+  },
+  {
+    "repo": "taggamer555/omegazero",
+    "name": "OMEGAZERO",
+    "author": "KillerIKY - lead dev\nRenale - testing and some ideas\nChatGPT - i was lazy\nAlvar - balancing\nNeonFlames - helped with getting used to GitHub",
+    "lastUpdated": "2023-06-17T17:05:47Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "State: INDEV\nContent: SOME\nPlayable: TRUE"
   },
   {
     "repo": "explerhd/unnamedmods",
