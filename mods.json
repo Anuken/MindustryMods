@@ -1804,17 +1804,6 @@
     "description": "Adds a dialog for turning images into schematics"
   },
   {
-    "repo": "froomeeth/javaserilia",
-    "name": "Serilia",
-    "author": "FrooMeeth, Nullevoy, GlennFolker (EntityAnno)",
-    "lastUpdated": "2023-06-18T10:14:15Z",
-    "stars": 5,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Serilia but on steroids (Java)"
-  },
-  {
     "repo": "teamviscott/modprojectviscott",
     "name": "Project Viscott",
     "author": "Sprites : Ethanol10 ,ThomasThings \nSfx/Music : Vdoble MSG \nProgrammers : Siede ,Manuwar \nMappers : Nicodium \n \n Credits to MeepOfFaith for making the pseudo3d system",
@@ -1824,6 +1813,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Project viscott is a mindustry mod that tries to add a \nnew Planet and intends to give the player a new and \nunique playing experience..."
+  },
+  {
+    "repo": "froomeeth/javaserilia",
+    "name": "Serilia",
+    "author": "FrooMeeth, Nullevoy, GlennFolker (EntityAnno)",
+    "lastUpdated": "2023-06-19T18:55:10Z",
+    "stars": 5,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Serilia but on steroids (Java)"
   },
   {
     "repo": "deltanedas/radar",
@@ -3322,17 +3322,6 @@
     "description": "SchemePack"
   },
   {
-    "repo": "durmiendo/sueno",
-    "name": "Sueno",
-    "author": "Durmiendo & FixmanOffical",
-    "lastUpdated": "2023-06-03T11:31:45Z",
-    "stars": 2,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": ""
-  },
-  {
     "repo": "darkspam7/project-hephaestus",
     "name": "Project Hepheastus",
     "author": "darkspam7",
@@ -3388,17 +3377,6 @@
     "description": "Invisible Blocks Texture Pack.\nConvenience Mode\n\nThanks To\nss심\nsk7725"
   },
   {
-    "repo": "floppa-coder/ironextened",
-    "name": "Iron Extended",
-    "author": "Floppa",
-    "lastUpdated": "2023-06-10T03:24:13Z",
-    "stars": 2,
-    "minGameVersion": "141.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Add the new content. Requires Liplum/MultiCrafter lib"
-  },
-  {
     "repo": "chaoticans-mindustry-modding-team/zerubus-planet",
     "name": "Zerubus a new hell",
     "author": "The chaoticans",
@@ -3452,6 +3430,28 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Grind a lot less in the game."
+  },
+  {
+    "repo": "floppa-coder/ironextened",
+    "name": "Iron Extended",
+    "author": "Floppa",
+    "lastUpdated": "2023-06-19T19:05:58Z",
+    "stars": 2,
+    "minGameVersion": "141.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Add the new content. Requires Liplum/MultiCrafter lib"
+  },
+  {
+    "repo": "durmiendo/sueno",
+    "name": "Sueno",
+    "author": "Durmiendo & FixmanOffical",
+    "lastUpdated": "2023-06-19T19:06:26Z",
+    "stars": 2,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "v0.0.1.4-close"
   },
   {
     "repo": "explerhd/unnamedmods",
@@ -4244,6 +4244,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "It aims to add robotic entites (called sentinels)and some other content"
+  },
+  {
+    "repo": "justtroniusplay/unicorp-technologies-reinvented",
+    "name": "Unicorp Technologies Reinvented",
+    "author": "Original: CancerGuy/Brickhead. Remastered: JustTroniusPlay",
+    "lastUpdated": "2023-06-16T12:14:46Z",
+    "stars": 1,
+    "minGameVersion": "144",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Unicorp presents to you their various units for mining purpose, assault tactics and items transportation!\n  P.S. This mod may need some balancing. If you find bugs or think the content needs tweaking, just message me on Discord(TroniusPlay#4386) or Github."
   },
   {
     "repo": "electricgun/video-to-logic",
@@ -5324,17 +5335,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "justtroniusplay/unicorp-technologies-reinvented",
-    "name": "Unicorp Technologies Reinvented",
-    "author": "Original: CancerGuy/Brickhead. Remastered: JustTroniusPlay",
-    "lastUpdated": "2023-06-16T12:14:46Z",
-    "stars": 0,
-    "minGameVersion": "144",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Unicorp presents to you their various units for mining purpose, assault tactics and items transportation!\n  P.S. This mod may need some balancing. If you find bugs or think the content needs tweaking, just message me on Discord(TroniusPlay#4386) or Github."
-  },
-  {
     "repo": "krita-burstflakes/mindustry-strike",
     "name": "Mindustry Strike",
     "author": "Krita",
@@ -5368,17 +5368,6 @@
     "description": "\r\nNo techs and no missions. Planets only.  \r\ngenerator changed to SerpuloPlanetGenerator via javaScript.\r\nThanks zerg for the source code.\r\n\r\nlast work done: 19 june 2023\r\ntask: fixing bugs when running Mindustry v145 \r\n\r\nFeel free to reverse-engineer. \r\nClick on Repo > scripts > pl.js for inner workings/ \r\n"
   },
   {
-    "repo": "bakawoot/mindustry-skyblock",
-    "name": "Seadustry",
-    "author": "Slava0135, modified by misanthrope",
-    "lastUpdated": "2023-06-19T04:15:10Z",
-    "stars": 0,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Survive on sand island and expand by placing land on water around."
-  },
-  {
     "repo": "chinhonnang0000/asteroidgen",
     "name": "asteroidgen",
     "author": "Chin Hon Nang",
@@ -5388,5 +5377,16 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Asteroidgen generated using AsteroidGenerator. Named after AsteroidGenerator. It has its own planet (and missions) and techtree.\n\n click repo for more details."
+  },
+  {
+    "repo": "bakawoot/mindustry-skyblock",
+    "name": "Skyblock",
+    "author": "Slava0135, modified by misanthrope",
+    "lastUpdated": "2023-06-19T20:02:21Z",
+    "stars": 0,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Survive on sand island and expand by placing land on water around."
   }
 ]
