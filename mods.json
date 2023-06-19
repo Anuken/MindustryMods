@@ -5357,17 +5357,6 @@
     "description": "A Mod centered in something with no center"
   },
   {
-    "repo": "chinhonnang0000/asteroidgen",
-    "name": "asteroidgen",
-    "author": "Chin Hon Nang",
-    "lastUpdated": "2023-06-18T08:50:08Z",
-    "stars": 0,
-    "minGameVersion": "141",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Asteroidgen generated using AsteroidGenerator. Named after AsteroidGenerator. It has its own planet (and missions) and techtree.\n\n click repo for more details."
-  },
-  {
     "repo": "sunkymp3g/netronium",
     "name": "Netronium",
     "author": "Sunky.MP3G",
@@ -5382,11 +5371,22 @@
     "repo": "chinhonnang0000/serpul_clones",
     "name": "serpul_clones",
     "author": "Chin Hon Nang",
-    "lastUpdated": "2023-06-19T02:37:40Z",
+    "lastUpdated": "2023-06-19T03:08:37Z",
     "stars": 0,
     "minGameVersion": "140",
     "hasScripts": true,
     "hasJava": false,
-    "description": "No techs provided. generator changed to SerpuloPlanetGenerator via javaScript.\n\n current work: overriding SerpuloPlanetGenerator functions.Thanks zerg for the source code.\n\n Not working in v145 or later. "
+    "description": "\r\nNo techs and no missions. Planets only.  \r\ngenerator changed to SerpuloPlanetGenerator via javaScript.\r\nThanks zerg for the source code.\r\n\r\nlast work done: 19 june 2023\r\ntask: fixing bugs when running Mindustry v145 \r\n\r\nFeel free to reverse-engineer. \r\nClick on Repo > scripts > pl.js for inner workings/ \r\n"
+  },
+  {
+    "repo": "chinhonnang0000/asteroidgen",
+    "name": "asteroidgen",
+    "author": "Chin Hon Nang",
+    "lastUpdated": "2023-06-19T03:53:02Z",
+    "stars": 0,
+    "minGameVersion": "141",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Asteroidgen generated using AsteroidGenerator. Named after AsteroidGenerator. It has its own planet (and missions) and techtree.\n\n click repo for more details."
   }
 ]
