@@ -1540,17 +1540,6 @@
     "description": "Displays more stats in database. Unhides few things. Multiplayer compatible.\nПоказывает больше информации в базе данных. Открывает пару скрытых вещей. Не влияет на игру по сети"
   },
   {
-    "repo": "uujuju1/steam-works",
-    "name": "Steam Works",
-    "author": "Uujuju",
-    "lastUpdated": "2023-06-10T02:14:17Z",
-    "stars": 6,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A heat and steam based mod."
-  },
-  {
     "repo": "electricgun/toggle-editor-mode",
     "name": "Toggle Editor Mode",
     "author": "ElectricGun",
@@ -1560,6 +1549,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Allows access to Editor Mode on Sandbox and Singleplayer\n\nDoes not work on Multiplayer and Campaign.\n\nUpdate: Taken account for Testing Utilities and Time Control panels."
+  },
+  {
+    "repo": "uujuju1/steam-works",
+    "name": "Steam Works",
+    "author": "Uujuju",
+    "lastUpdated": "2023-06-19T00:51:51Z",
+    "stars": 6,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A heat and steam based mod."
   },
   {
     "repo": "mythril382/rainpuddles",
@@ -5291,17 +5291,6 @@
     "description": "[red] This mod does nothing by itself \nOnly install this mod to fulfil dependencies"
   },
   {
-    "repo": "chinhonnang0000/serpul_clones",
-    "name": "serpul_clones",
-    "author": "Chin Hon Nang",
-    "lastUpdated": "2023-06-14T07:20:41Z",
-    "stars": 0,
-    "minGameVersion": "140",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "No techs provided. generator changed to SerpuloPlanetGenerator via javaScript.\n\n current work: overriding SerpuloPlanetGenerator functions.Thanks zerg for the source code."
-  },
-  {
     "repo": "fresh791/thithanium",
     "name": "THITHANIUM",
     "author": "[blue]Zarikar2Reshi",
@@ -5377,5 +5366,27 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Asteroidgen generated using AsteroidGenerator. Named after AsteroidGenerator. It has its own planet (and missions) and techtree.\n\n click repo for more details."
+  },
+  {
+    "repo": "sunkymp3g/netronium",
+    "name": "Netronium",
+    "author": "Sunky.MP3G",
+    "lastUpdated": "2023-06-19T02:08:47Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "The planet of robots!"
+  },
+  {
+    "repo": "chinhonnang0000/serpul_clones",
+    "name": "serpul_clones",
+    "author": "Chin Hon Nang",
+    "lastUpdated": "2023-06-19T02:37:40Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "No techs provided. generator changed to SerpuloPlanetGenerator via javaScript.\n\n current work: overriding SerpuloPlanetGenerator functions.Thanks zerg for the source code.\n\n Not working in v145 or later. "
   }
 ]
