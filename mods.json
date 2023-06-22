@@ -59,7 +59,7 @@
     "name": "Exotic Mod",
     "author": "Elixias",
     "lastUpdated": "2023-06-21T23:19:31Z",
-    "stars": 136,
+    "stars": 137,
     "minGameVersion": "144",
     "hasScripts": false,
     "hasJava": false,
@@ -212,7 +212,7 @@
     "repo": "fredyjabe/aeyama",
     "name": "Aeyama: The New World",
     "author": "FredyJabe & Jojo",
-    "lastUpdated": "2023-06-20T15:40:16Z",
+    "lastUpdated": "2023-06-22T11:21:44Z",
     "stars": 60,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -223,7 +223,7 @@
     "repo": "xstabux/omaloon",
     "name": "Omaloon",
     "author": "StaBU, TheEE145",
-    "lastUpdated": "2023-06-14T19:30:12Z",
+    "lastUpdated": "2023-06-22T11:56:03Z",
     "stars": 50,
     "minGameVersion": "140.3",
     "hasScripts": false,
@@ -1012,17 +1012,6 @@
     "description": "Adds colored names!\n\nSome colors may not be accurate!\nSadly, no colored names for units. I'm working on that."
   },
   {
-    "repo": "vvseangtvv/project-restoration",
-    "name": "Project: Restoration",
-    "author": "VvSeanGtvV",
-    "lastUpdated": "2023-06-20T08:28:20Z",
-    "stars": 9,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry builds including some classic ones are added to Mindustry v7! \nShout out to Mythril#0197 for the idea of v7 builds!"
-  },
-  {
     "repo": "yaddrx2/yr2-logic-debugger",
     "name": "yr2 Logic Debugger",
     "author": "原作者：DeltaNedas\n修改：yaddrx2",
@@ -1032,6 +1021,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Logic Debugger\n\n一个逻辑辅助工具\n\n原作DeltaNedas/ldb\n\nyaddrx2将其升级到了137，仅供学习交流使用\n\n当前版本：1.7.0\n\n更新日志\n\nv1.0.1\n将mod版本升为137\n\nv1.0.2\n取消ui-lib的前置\n\nv1.0.3\n逻辑码编辑板\n新增代码语句的文本形式编辑\n\nv1.0.4\n逻辑块变量面板\n变量更新闪烁\n增加逻辑块所连方块的显示\n\nv1.0.5\n内存块编辑板\n内存值更新闪烁\n新增内存值的二进制形式视察\n实现内存值的十六进制形式编辑\n\nv1.0.6\n新增代码插入相关操作\n实现从剪切板导入代码块到指定位置\n\nv1.0.7\n新增面板的折叠按钮\n修复学术端运行mod导致的面板移位或覆盖\n修复面板横向抖动的bug\n\nv1.0.8\n单步调试面板\n实现代码单步运行调试\n\nv1.1.0\n新增调试面板设置断点\n实现运行到下一断点操作\n\nv1.1.1\n新增变量位置指示器\n显示单位变量的flag\n\nv1.2\n新增调试面板的运行位置追踪\n新增功能标签\n\nv1.3\n位置指示器增加变量名\n\nv1.4\n内存块面板增加内存值导入导出\n\nv1.5\n变量面板增加变量值导出\n\nv1.6\n内存面板的变量名筛选\n内存值导出筛选器\n\nv1.7\n增加信息板复制与导入"
+  },
+  {
+    "repo": "vvseangtvv/project-restoration",
+    "name": "Project: Restoration",
+    "author": "VvSeanGtvV",
+    "lastUpdated": "2023-06-22T10:13:51Z",
+    "stars": 9,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry builds including some classic ones are added to Mindustry v7! \nShout out to Mythril#0197 for the idea of v7 builds!"
   },
   {
     "repo": "deltanedas/waisa",
@@ -3454,6 +3454,17 @@
     "description": "Mod for mindustry server                 "
   },
   {
+    "repo": "teamoct/erekir-music",
+    "name": "Team Oct's Erekir Music",
+    "author": "Team Oct",
+    "lastUpdated": "2023-06-22T11:15:18Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds new music to Erekir.\n\nMusic by Saigo no-nozomi.\nProgrammed by Slotterleet."
+  },
+  {
     "repo": "explerhd/unnamedmods",
     "name": "New Tech",
     "author": "You",
@@ -5399,16 +5410,5 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Asteroidgen generated using AsteroidGenerator. Named after AsteroidGenerator. It has its own planet (and missions) and techtree.\n\n click repo for more details."
-  },
-  {
-    "repo": "teamoct/erekir-music",
-    "name": "Team Oct's Erekir Music",
-    "author": "Team Oct",
-    "lastUpdated": "2023-06-22T06:12:44Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds new music to Erekir.\n\nMusic by Saigo no-nozomi.\nProgrammed by Slotterleet."
   }
 ]
