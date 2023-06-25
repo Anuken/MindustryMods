@@ -1210,6 +1210,17 @@
     "description": "Pyratite focused mod which adds units turrets drills and factorys\nNOT the most balanced"
   },
   {
+    "repo": "electricgun/toggle-editor-mode",
+    "name": "Toggle Editor Mode",
+    "author": "ElectricGun",
+    "lastUpdated": "2023-06-10T09:41:17Z",
+    "stars": 8,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Allows access to Editor Mode on Sandbox and Singleplayer\n\nDoes not work on Multiplayer and Campaign.\n\nUpdate: Taken account for Testing Utilities and Time Control panels."
+  },
+  {
     "repo": "430230562/zerg",
     "name": "虫族",
     "author": "pardon生物",
@@ -1329,17 +1340,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod."
-  },
-  {
-    "repo": "electricgun/toggle-editor-mode",
-    "name": "Toggle Editor Mode",
-    "author": "ElectricGun",
-    "lastUpdated": "2023-06-10T09:41:17Z",
-    "stars": 7,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Allows access to Editor Mode on Sandbox and Singleplayer\n\nDoes not work on Multiplayer and Campaign.\n\nUpdate: Taken account for Testing Utilities and Time Control panels."
   },
   {
     "repo": "pointifix/autotranslate",
@@ -2687,7 +2687,7 @@
     "repo": "situvngcd/mindustrymodtest",
     "name": "SVN Test mod",
     "author": "[#4488ff]SITUVNgcd[]",
-    "lastUpdated": "2023-06-24T20:32:58Z",
+    "lastUpdated": "2023-06-25T07:59:48Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -3465,17 +3465,6 @@
     "description": "Welcome to zerubus a planet with pink boiling seas and red plants.                    "
   },
   {
-    "repo": "electricgun/video-to-logic",
-    "name": "Video to Logic",
-    "author": "ElectricGun",
-    "lastUpdated": "2023-06-24T13:25:42Z",
-    "stars": 2,
-    "minGameVersion": "138",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "[red]THIS MOD HAS NO GUI\nPLEASE READ THE MOD'S GITHUB PAGE FOR THE TUTORIAL ON HOW TO USE THIS /n/nREQUIRES: electricgun/message-block-commands"
-  },
-  {
     "repo": "chaoticans-mindustry-modding-team/ca-mod",
     "name": "ca-mod",
     "author": "The chaoticans",
@@ -3485,6 +3474,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Mod for mindustry server                 "
+  },
+  {
+    "repo": "electricgun/video-to-logic",
+    "name": "Video to Logic",
+    "author": "ElectricGun",
+    "lastUpdated": "2023-06-25T07:21:41Z",
+    "stars": 2,
+    "minGameVersion": "138",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "[red]THIS MOD HAS NO GUI\nPLEASE READ THE MOD'S GITHUB PAGE FOR THE TUTORIAL ON HOW TO USE THIS \n\nREQUIRES: electricgun/message-block-commands"
   },
   {
     "repo": "explerhd/unnamedmods",
@@ -4235,17 +4235,6 @@
     "description": "Dive into the past of a trauma-driven uprising."
   },
   {
-    "repo": "camelstyleuser/surgeoremod",
-    "name": "resource ores",
-    "author": "camelStyleUser",
-    "lastUpdated": "2023-06-15T08:23:35Z",
-    "stars": 1,
-    "minGameVersion": "144.3",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "ores for resources"
-  },
-  {
     "repo": "penguip/a-mindustry-mod",
     "name": "Sentinel addon",
     "author": "penguip",
@@ -4343,17 +4332,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "The abandoned planet, surrounded by a dome, is waiting for you...\n\nYour main mission is to save the planet's ecology, because enemies are aggressively corrupting it"
-  },
-  {
-    "repo": "hina2901/drills-and-mills",
-    "name": "drills and mills mod",
-    "author": "Hina2901",
-    "lastUpdated": "2023-06-24T16:57:37Z",
-    "stars": 1,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Nothing to see here!"
   },
   {
     "repo": "yoru-kitsune/simpledustry",
@@ -5335,6 +5313,17 @@
     "description": "Things I made for my convenience (after completing Mindustry, I re-beginned it 'cause i liked it and I made this almost working mod).\nThis mod adds new materials, solar panels, industries and other to make a balanced game experience, e.g. without discarding titanium in [accent]Ground Zero[], but you can do almost nothing with this if you don't use launch pads.\nFor now [purple]Serpulo[] only, in new releases I will make something useful also for[red] Erekir[].\n\n[red]Warning[]: this version has test tools, because I'm still learning some features (as a combustion generators). Do not use them if you don't want to cause Mindustry crush/lag or if you want to be able to destroy things you built.\n(If sonething hasn't a sprite, is experimental).\n\nI'm still a beginner: suggestions, feedbacks and other can be send to me via e-mail:\n[blue]susb84261@gmail.com.[]\nor also via Discord:\n[blue]Zarikar2Reshi#6207[]\nThanks in advance.\n\n\n[accent]Credits:[]\n\nCode: [blue]Zarikar2Reshi[]\nThithanium: [blue]Zarikar2Reshi[]\nSprites: [blue]Zarikar2Reshi[] (main), fresh791\nHelps: -for now nobody, see [accent]Readme.txt[] for more info.\n\nThank you very much! I hope you'll like my mod!"
   },
   {
+    "repo": "camelstyleuser/surgeoremod",
+    "name": "resource ores",
+    "author": "camelStyleUser",
+    "lastUpdated": "2023-06-15T08:23:35Z",
+    "stars": 0,
+    "minGameVersion": "144.3",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "ores for resources"
+  },
+  {
     "repo": "kapzduke/arseface",
     "name": "JSON Planet Test",
     "author": "kapzduke",
@@ -5412,17 +5401,6 @@
     "description": "Expansion for spore biometh"
   },
   {
-    "repo": "chinhonnang0000/asteroidgen",
-    "name": "asteroidgen",
-    "author": "Chin Hon Nang",
-    "lastUpdated": "2023-06-23T11:32:31Z",
-    "stars": 0,
-    "minGameVersion": "141",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Asteroidgen generated using AsteroidGenerator. Named after AsteroidGenerator. It has its own planet (and missions) and techtree.\n\n click repo for more details."
-  },
-  {
     "repo": "wdfeer/moarsilicon",
     "name": "Moar Silicon",
     "author": "wdfeer",
@@ -5432,5 +5410,16 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod about Silicon!"
+  },
+  {
+    "repo": "chinhonnang0000/asteroidgen",
+    "name": "asteroidgen",
+    "author": "Chin Hon Nang",
+    "lastUpdated": "2023-06-25T07:28:28Z",
+    "stars": 0,
+    "minGameVersion": "141",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Asteroidgen generated using AsteroidGenerator. Named after AsteroidGenerator. It has its own planet (and missions) and techtree.\n\n click repo for more details."
   }
 ]
