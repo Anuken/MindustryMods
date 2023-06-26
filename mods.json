@@ -14,7 +14,7 @@
     "repo": "aureusstratus/exogenesis",
     "name": "Exogenesis",
     "author": "AureusStratus",
-    "lastUpdated": "2023-06-25T22:57:23Z",
+    "lastUpdated": "2023-06-26T05:12:17Z",
     "stars": 257,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -5203,17 +5203,6 @@
     "description": "(Indev)\n    \n    Add various utility features :\n    - Stingy Duct : Prevent core incineration\n    - Power Saver : Disconnects when battery are very low, reconnects when the backward network is recharged."
   },
   {
-    "repo": "nemesistheory/longreach",
-    "name": "longReach",
-    "author": "NemesisTheory",
-    "lastUpdated": "2023-05-27T13:47:02Z",
-    "stars": 0,
-    "minGameVersion": "140",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "You can build anywhere on the map without need of moving. Based on Factorio mod. Use pan view. \n\nContains a slider option in the settings to change from normal, to 50 tiles, to 100 tiles, to 250 tiles, to infinite."
-  },
-  {
     "repo": "pkchaos/reprojected",
     "name": "Reprojected",
     "author": "PKChaos",
@@ -5421,5 +5410,16 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "No description provided."
+  },
+  {
+    "repo": "nemesistheory/longreach",
+    "name": "longReach",
+    "author": "NemesisTheory",
+    "lastUpdated": "2023-06-26T04:19:06Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "You can build anywhere on the map without need of moving. Based on Factorio mod. Use pan view. \n\nContains a slider option in the settings to change from infinite, to 50 tiles, to 100 tiles, to 250 tiles, to normal. \n\nInfinite build range is enabled by default."
   }
 ]
