@@ -59,7 +59,7 @@
     "name": "Exotic Mod",
     "author": "Elixias",
     "lastUpdated": "2023-06-21T23:19:31Z",
-    "stars": 137,
+    "stars": 138,
     "minGameVersion": "144",
     "hasScripts": false,
     "hasJava": false,
@@ -70,7 +70,7 @@
     "name": "reVision",
     "author": "Slava0135",
     "lastUpdated": "2023-01-07T13:43:43Z",
-    "stars": 126,
+    "stars": 127,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
@@ -81,7 +81,7 @@
     "name": "Cyber IO",
     "author": "[#42a5f5]Liplum[]",
     "lastUpdated": "2023-02-03T23:54:28Z",
-    "stars": 99,
+    "stars": 100,
     "minGameVersion": "141",
     "hasScripts": false,
     "hasJava": true,
@@ -103,7 +103,7 @@
     "name": "Unlimited Armament Works",
     "author": "Eschatologue",
     "lastUpdated": "2023-06-08T16:03:53Z",
-    "stars": 88,
+    "stars": 89,
     "minGameVersion": "138",
     "hasScripts": false,
     "hasJava": true,
@@ -114,7 +114,7 @@
     "name": "Informatis",
     "author": "Sharlotte",
     "lastUpdated": "2023-06-26T17:32:37Z",
-    "stars": 80,
+    "stars": 81,
     "minGameVersion": "145.1",
     "hasScripts": false,
     "hasJava": true,
@@ -136,7 +136,7 @@
     "name": "Diamond Ore Mod",
     "author": "z0mbiesrock",
     "lastUpdated": "2023-03-26T15:30:31Z",
-    "stars": 73,
+    "stars": 74,
     "minGameVersion": "140",
     "hasScripts": true,
     "hasJava": false,
@@ -169,7 +169,7 @@
     "name": "Fading Revelations",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791 / .Frankie\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 / Froomeeth\n- Lore: iori / Fresh791\n- Cryogenic Gel, Igneous Alloy,\n  Multiblock-Crafter base model:\n  Null (Nullevoy)\n\nAnd more people!\nCheck the Discord!",
     "lastUpdated": "2023-06-23T14:39:30Z",
-    "stars": 68,
+    "stars": 69,
     "minGameVersion": "144.3",
     "hasScripts": true,
     "hasJava": false,
@@ -180,7 +180,7 @@
     "name": "Sapphirium",
     "author": "Snake",
     "lastUpdated": "2023-06-26T09:06:14Z",
-    "stars": 67,
+    "stars": 68,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": true,
@@ -202,7 +202,7 @@
     "name": "Progression Ministry",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progression Ministry enabled to view them!)",
     "lastUpdated": "2023-06-22T22:28:32Z",
-    "stars": 62,
+    "stars": 63,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
@@ -213,7 +213,7 @@
     "name": "Aeyama: The New World",
     "author": "FredyJabe & Jojo",
     "lastUpdated": "2023-06-24T14:01:31Z",
-    "stars": 60,
+    "stars": 61,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
@@ -275,6 +275,17 @@
     "description": "Lets you type into the console.\nPress F8 to open."
   },
   {
+    "repo": "flintyx/animalia",
+    "name": "Animalia",
+    "author": "Flin",
+    "lastUpdated": "2023-02-18T17:29:06Z",
+    "stars": 34,
+    "minGameVersion": "141",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A fun mod that contains Animals, Plants, Natural disasters and a lot more!"
+  },
+  {
     "repo": "liplum/multicrafterlib",
     "name": "MultiCrafter Lib",
     "author": "[#42a5f5]Liplum[]",
@@ -295,17 +306,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "# MI2-Utilities Java\n\n### Intro\n- [English](README.md) | [中文](README_zh.md)\n\nQOL Mod, powerful assists to vanilla gameplay. For destined Mindustry players.\n\n### Install\n\n- Method 1: \"Import from github\", with \"BlackDeluxeCat/MI2-Utilities-Java\". This makes reinstall available. (recommended)\n- Method 2: Get the latest release, download \"MI2-Utilities Java.jar\". Then \"Import from a file\" with the file.\n\nQQ Group(中文zh_cn) number: 875035496\n\n### Contribution\n- PRs: l10n, bug fix, new feature.\n- Issues: bug report, suggestion.\n\n---\n\n## Features(1.2.3c)\n\n#### MI2UI\n- Functions: one-click planning rebuild, distribution building reveal.\n- Logical FPS simulation.\n- AI-assist: auto mining, auto construct plans, auto self-repair, auto aiming.\n- Most of the map rules.\n- Wave info, force skipwave, wave health bars.\n- RTS Formation creating and selecting.\n- Most of MI2U's options.\n\n#### Core Info\n- Vanilla core info ++, charts of resource changes.\n- Unit counter.\n- Power net bars & net building analyse.\n- Switch to view other teams.\n\n#### MindowMap\n- Renderer based on vanilla.\n- Sensible zoomed to full map.\n- Player labels.\n- Clicking pans camera.\n- Space Scan world finder.\n- Logic Building Stats\n\n#### Map Info\n\n\n#### Logic Helper\n- Sort and fast typing var names, using delimiter.\n- Search & Replace.\n- Cut or Copy, and Paste.\n\n#### Emoji\n- Emoji book.\n\n#### Mindow2\nDraggable window for this mod. On the auto-hidden title bar, you can open settings dialog, minimize it, or tap the title to drag. For details, open settings and see the help pages of each Mindow2.\n\nPosition, snap, etc. can be saved through settings.\n\n#### Others\n- Smooth multiplayer cursors.\n- Block/Unit hp bar, logic lines, pathfind lines.\n- Disable wrecks, units, bullets rendering.\n- Distribution buildings interior reveal.\n- Modify block stat bars, make it following cursor.\n- 99.5% of changes can be turned off with options.\n- The settings stored at $Mindustry/mods/MI2U_Settings/.\n\n---\n\nEarly JS version: [BlackDeluxeCat/MI2-Utilities](https://github.com/BlackDeluxeCat/MI2-Utilities)\n\nMy friend did a lot of other functions, see [MinerTools](https://github.com/RlCCJ/MinerTools)."
-  },
-  {
-    "repo": "flintyx/animalia",
-    "name": "Animalia",
-    "author": "Flin",
-    "lastUpdated": "2023-02-18T17:29:06Z",
-    "stars": 33,
-    "minGameVersion": "141",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A fun mod that contains Animals, Plants, Natural disasters and a lot more!"
   },
   {
     "repo": "w1-beyek/rl_mindustry",
@@ -1012,6 +1012,17 @@
     "description": "Adds colored names!\n\nSome colors may not be accurate!\nSadly, no colored names for units. I'm working on that."
   },
   {
+    "repo": "uenhe/fire",
+    "name": "Fire",
+    "author": "飞雨a_ssylfyzgmz && -Uenhe饨咂-",
+    "lastUpdated": "2023-05-14T08:37:41Z",
+    "stars": 9,
+    "minGameVersion": "144",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\r\n\t[royal]A Mindustry Mod that adds a lots of WEIRD things.\r\n\t一个奇奇怪怪又十分核锂的mod...\r\n\t[gold]由 [acid]飞雨a_sszylfyzgmz [gold]和 [cyan]-Uenhe饨咂- [gold]共同制作\r\n\t[violet]你可以在bilibili uid516898377 和 uid327502129 找到他们\r\n\t\r\n\t[acid]Supports English!\r\n\t\r\n\t[lime]模组QQ交流群: 711467227\r\n\t如果你发现了该mod的bug, 或是有关于该mod的建议, 欢迎在此群反映\r\n\t\r\n\t[slate]GitHub URL: https://github.com/Uenhe/Fire\r\n\t\r\n\tIf you suppose that the mod is AWESOME, plz star us on GitHub, thanks!\r\n\t如果你觉得该mod很棒的话, 一定要去GitHub给这个项目点个星星啊!\r\n\t\r\n\t[white]更新记录一览:\r\n\t\r\n\tv1.1.3 adapts v144\r\n\t新方块-[accent]磁轨[white], [red]实验性炮塔[white]\r\n\t新方块-[accent]大型硬化合金冶炼厂[white], 作为硬化合金冶炼厂的上位\r\n\t新方块-[accent]天穹[white], 更大的力墙投影\r\n\t新单位能力场-[accent]再生场[white], 相比回复场有着更加丝滑的治疗\r\n\t[accent]装甲核心[white]调整-盾容上调, 冷却速度加快\r\n\t[accent]爬辅单位[white]调整-增加建造建筑功能, 所有回复场调整为再生场; 庇护现在可被攻击\r\n\t[accent]篝火[white]调整-消耗更多\r\n\t[accent]潮怨[white]调整-硬化合金弹伤害下调 (375 -> 285), 分裂弹伤害下调 (175 -> 105), 范围下调 (10.3 -> 7.1)\r\n\t部分方块造价调整\r\n\t增强了原版质驱, 布桥和照明器\r\n\t优化了复合传送带的铺设操作\r\n\t优化了方块建造菜单的方块排序\r\n\t优化了游戏设置\r\n\t奥米克戎贴图重绘\r\n\t修复了一些bug\r\n\t\r\n\tv1.1.2\r\n\t裂变钻头调整-速度上调 (30.00->33.33)\r\n\t震爆物混合器调整-造价下调\r\n\t修复了战役图的一些bug\r\n\t加入了一个彩蛋\r\n\t\r\n\tv1.1.1\r\n\t复合材料系运输器件来临! 包括物品桥, 液体桥, 液体路由器, 物品装卸器!\r\n\t物品调整-删除 (一级爆裂导弹及其弹壳, 云爆弹), 增加 (硬化合金, 震爆混合物, 逻辑合金)\r\n\t新炮塔-潮怨, 作为幽灵上位, 拥有强大的正面输出能力\r\n\t新方块-硬化合金墙, 良好的防御墙体\r\n\t新单位-烛光, 作为T2空风\r\n\t裂变钻头调整-类型变为冲击钻, 以降低游戏低帧带来的影响\r\n\t灼阳调整-护甲上调 (13->18)\r\n\t萤火调整-伤害下调 (45->25)\r\n\t炙热火山调整-地震造成伤害上调, 禁用水汽冷凝器\r\n\t水汽冷凝器调整-科技树中地图前置变为炙热火山\r\n\t千里, 天眼调整-造价下调并加入硬化合金\r\n\t击碎调整-造价下调\r\n\t魇光贴图重绘\r\n\t修复了战役图的一些bug\r\n\t\r\n\tv1.1.0\r\n\t战役地图-实装 (昏暗车间, 恒河要塞); 新增 (凛风山脉, 炙热火山)\r\n\t大量内容已经添加至科技树中\r\n\t新单位-庇护, 作为T4爬辅; 拥有能量力墙场, 可以反弹来袭子弹, 并在力墙过热时释放电弧\r\n\t新状态-鼓舞\r\n\t灼阳调整-主炮伤害下调且分裂电弧减少1/3, 火炮微调\r\n\t篝火调整-在超速范围内, 所有友方单位会被强化, 所有敌方单位会被削弱; 在工作时有特效了\r\n\t击碎调整-玻璃弹全面削弱, 石墨弹伤害提升, 杂质烘火合金弹伤害提升, 云爆弹伤害略微提升\r\n\t魇光调整-钍弹伤害提升, 合金弹伤害降低但电弧伤害提升\r\n\t倒海调整-液氮弹对建筑伤害降低40%\r\n\t电热硅炉调整-耗电提升 (600->720)\r\n\t千里贴图重绘\r\n\t修复了装甲核心不能覆盖小核心的bug\r\n\t修复了零号一角的波次bug (大概?)\r\n\t\r\n\tv1.0.3\r\n\t又修复了关于战役的几个bug\r\n\t减少了离塞塔的一些基础方块的研究消耗\r\n\t感谢 NJSAAA 重绘的 守护 的贴图 (名称以群内为准)\r\n\t\r\n\tv1.0.2\r\n\t重绘了一些方块的贴图\r\n\t给装甲核心添加了力墙 (注: 方块数据有变动, 导致装有旧版装甲核心的图会损坏)\r\n\t在设置里添加了手挖沙的开关\r\n\t关于存档损坏: 请先回滚版本到v1.0.1, 然后将所有图的装甲核心拆除或摧毁, 确认后再更新版本!\r\n\t\r\n\tv1.0.1\r\n\t紧急修复了关于战役的几个bug\r\n\t\r\n\tv1.0.0\r\n\t火种正式版的诞生!\r\n\t\r\n\tv0.9.7.20221230\r\n\t更cool的篝火\r\n\t\r\n\tv0.9.6.20221221\r\n\t新物品-流火结晶, 和它的工厂\r\n\t\r\n\tv0.9.5.20221216\r\n\t新单位线-空风\r\n\t新方块-Javelin机甲平台, 没错, 就是v5那玩意!\r\n\t新单位-Javelin, 已经做了最大努力去还原了(\r\n\t新方块-建筑治疗仪\r\n\t\r\n\tv0.9.4.20221215\r\n\t新方块-焰燃发电机, 只能接受燃烧性>=115%的物品\r\n\t\r\n\tv0.9.3.20221213\r\n\t新炮塔-倒海, 鉴于海啸的手实在有点短...\r\n\t更cool的裂变钻头\r\n\t\r\n\tv0.9.2.20221212\r\n\t新地图-昏暗车间\r\n\t新状态-冻伤\r\n\t给波浪和海啸加了液氮弹药\r\n\t\r\n\tv0.9.1.20221209\r\n\t新单位-荡空, 定位大概是T6空战\r\n\t新方块-复合传送带, 运力25/s\r\n\t修改了Error的武器\r\n\t\r\n\tv0.9.20221208\r\n\t给导体节点加了存电功能\r\n\t\r\n\tv0.9.20221207\r\n\t新方块-建造指示器\r\n\t\r\n\tv0.9.20221206\r\n\t给魇光加了非常coooool的巨⚡浪⚡合⚡金⚡弹药\r\n\t\r\n\tv0.9.20221205\r\n\t新物品-云爆弹, 和它的工厂\r\n\t给击碎加了云爆弹弹药\r\n\t\r\n\tv0.9.20221203\r\n\t新地图-海滩登陆\r\n\t新地图-恒河要塞\r\n\t新方块-水坝墙, 只能放置在水上\r\n\t\r\n\tv0.9.20221202\r\n\t新炮塔-点燃\r\n\t\r\n\tv0.9.20221201\r\n\t为火种创建了Github项目\r\n\t\r\n\tv0.9.20221130\r\n\t为树场增加了草地效率加成\r\n\t\r\n\tv0.9.20221129\r\n\t新方块-伐木机, 可以砍伐原版的树木类墙壁来获得木材\r\n\t\r\n\tv0.9.20221128\r\n\t给木材焚烧厂增加了发电功能\r\n\t重绘了一些截图来的贴图, 难绷\r\n\t\r\n\tv0.9.20221127\r\n\t新工厂-生物质增生机\r\n\t\r\n\tv0.9.20221125\r\n\t下调了篝火的超速范围, 原半径256格属实有点离谱...\r\n\t落实了热能窑炉的热能\r\n\t调整了一些原版方块, 使其配比更符合人体工程学\r\n\t增加了T3爬辅-卫戍(shù)\r\n\t\r\n\tv0.9.20221123\r\n\t增加了T2爬辅-抗御\r\n\t\r\n\tv0.9.20221122\r\n\t新增新兵种线-爬辅 (暂且这样叫吧...), 拥有以下特性: \r\n\t可以跨越大多数地形\r\n\t拥有强大的辅助能力 (大嘘)\r\n\t通常情况下没有攻击的能力\r\n\t通常情况下不会被敌方炮塔或单位瞄准, 但仍会受到伤害\r\n\t增加了T1爬辅-守护\r\n\t\r\n\tv0.8.20221119\r\n\t火种从劫难里解放出来了...感谢woodjacket (硫缺铅) 佬的指导!\r\n\t\r\n\tv0.8.20221118\r\n\t调整血肉墙-由间歇性修复变为持续性修复\r\n\t\r\n\tv0.8.20221117\r\n\t新地图-黑沙平原\r\n\t火种经历了一场劫难 (大悲)\r\n\t\r\n\tv0.8.20221116\r\n\t将火种大部分内容转移进科技树 (json甚至能做到单开科技树...)\r\n\t新地图-零号一角\r\n\t\r\n\tv0.8.20221115\r\n\t新增英文翻译, 可以将语言调至英文来体验Uenhe充满抛瓦的翻译...\r\n\t如果各位发现英文翻译有不恰当的地方, 欢迎提出\r\n\t调整裂变钻头-增加被摧毁时的特效, 略微下调挖掘速度\r\n\t调整功能机-更名为奥米克戎 (Omicron), 射速下调\r\n\t调整魇光-血量下调, 给几种子弹增加了特殊射程判定 (平衡不好说)\r\n\t修复了一些物品的贴图尺寸问题\r\n\t新增了个icon.png, 但没有应用\r\n\t\r\n\tv0.8.20221114\r\n\t开屏UI & Aunke式logo诞生!\r\n\t调整了炮塔的造价, 使其变得没那么贵\r\n\t魇光射程下调, 射速下调\r\n\t调整降落基地, 难度下降\r\n\t调整装甲核心-削弱血量, 装甲, 容量\r\n\t(题外话: 降落基地由飞雨制作, 但他自己也打不过, Uenhe被折磨了三次才过去的. 这才是这张图难度下调的真正原因...)\r\n\t\r\n\tv0.8.20221113\r\n\t增加星球-离塞塔, 使用塞普罗科技, 并附带起始图-降落基地\r\n\t时不时会增加地图, 也欢迎各位投稿\r\n\t(破星球代码, 无论是对飞雨还是对Uenhe, 都造成了极大的心理创伤...)\r\n\t\r\n\tv0.7.20221111\r\n\t新物品-导⚡体⚡, 及其工厂\r\n\t修改了液氮厂的贴图, 给一些工厂加了特效\r\n\t\r\n\tv0.7.20221104\r\n\t新Boss级单位-Error, 很离谱的强度\r\n\t\r\n\tv0.7.20221013\r\n\t新炮台-天眼, 贴图依然很像个笑脸 (悲)\r\n\t\r\n\tv0.7.20221006\r\n\t给魇光加了点弹药\r\n\t修改了功能机的贴图 (不再缝合, 虽然有点丑)\r\n\t\r\n\tv0.6.20220924\r\n\t调整氧气反应器-配方修改\r\n\t新工厂-液氮压缩机\r\n\t新液体-液氮\r\n\t\r\n\tv0.6.20220923\r\n\t调整便携核心 (名字 -> 装甲核心, 属性几乎全部重制)\r\n\t调整裂变钻头 (造价微调)\r\n\t调整原版核心保护机甲alpha和beta (变为可制作, 通过空军工厂制作alpha并用单位重构工厂往上升级)\r\n\t新单位-功能机 (T3空军, 通过beta升级而来, 同时作为装甲核心的核心机)\r\n\t新单位-疾风, 定位T1坦克\r\n\t移除了herobrine\r\n\t\r\n\tv0.?.2022082?\r\n\t开端...\r\n"
+  },
+  {
     "repo": "yaddrx2/yr2-logic-debugger",
     "name": "yr2 Logic Debugger",
     "author": "原作者：DeltaNedas\n修改：yaddrx2",
@@ -1164,17 +1175,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Download this Mindustry Mod NOW!"
-  },
-  {
-    "repo": "uenhe/fire",
-    "name": "Fire",
-    "author": "飞雨a_ssylfyzgmz && -Uenhe饨咂-",
-    "lastUpdated": "2023-05-14T08:37:41Z",
-    "stars": 8,
-    "minGameVersion": "144",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "\r\n\t[royal]A Mindustry Mod that adds a lots of WEIRD things.\r\n\t一个奇奇怪怪又十分核锂的mod...\r\n\t[gold]由 [acid]飞雨a_sszylfyzgmz [gold]和 [cyan]-Uenhe饨咂- [gold]共同制作\r\n\t[violet]你可以在bilibili uid516898377 和 uid327502129 找到他们\r\n\t\r\n\t[acid]Supports English!\r\n\t\r\n\t[lime]模组QQ交流群: 711467227\r\n\t如果你发现了该mod的bug, 或是有关于该mod的建议, 欢迎在此群反映\r\n\t\r\n\t[slate]GitHub URL: https://github.com/Uenhe/Fire\r\n\t\r\n\tIf you suppose that the mod is AWESOME, plz star us on GitHub, thanks!\r\n\t如果你觉得该mod很棒的话, 一定要去GitHub给这个项目点个星星啊!\r\n\t\r\n\t[white]更新记录一览:\r\n\t\r\n\tv1.1.3 adapts v144\r\n\t新方块-[accent]磁轨[white], [red]实验性炮塔[white]\r\n\t新方块-[accent]大型硬化合金冶炼厂[white], 作为硬化合金冶炼厂的上位\r\n\t新方块-[accent]天穹[white], 更大的力墙投影\r\n\t新单位能力场-[accent]再生场[white], 相比回复场有着更加丝滑的治疗\r\n\t[accent]装甲核心[white]调整-盾容上调, 冷却速度加快\r\n\t[accent]爬辅单位[white]调整-增加建造建筑功能, 所有回复场调整为再生场; 庇护现在可被攻击\r\n\t[accent]篝火[white]调整-消耗更多\r\n\t[accent]潮怨[white]调整-硬化合金弹伤害下调 (375 -> 285), 分裂弹伤害下调 (175 -> 105), 范围下调 (10.3 -> 7.1)\r\n\t部分方块造价调整\r\n\t增强了原版质驱, 布桥和照明器\r\n\t优化了复合传送带的铺设操作\r\n\t优化了方块建造菜单的方块排序\r\n\t优化了游戏设置\r\n\t奥米克戎贴图重绘\r\n\t修复了一些bug\r\n\t\r\n\tv1.1.2\r\n\t裂变钻头调整-速度上调 (30.00->33.33)\r\n\t震爆物混合器调整-造价下调\r\n\t修复了战役图的一些bug\r\n\t加入了一个彩蛋\r\n\t\r\n\tv1.1.1\r\n\t复合材料系运输器件来临! 包括物品桥, 液体桥, 液体路由器, 物品装卸器!\r\n\t物品调整-删除 (一级爆裂导弹及其弹壳, 云爆弹), 增加 (硬化合金, 震爆混合物, 逻辑合金)\r\n\t新炮塔-潮怨, 作为幽灵上位, 拥有强大的正面输出能力\r\n\t新方块-硬化合金墙, 良好的防御墙体\r\n\t新单位-烛光, 作为T2空风\r\n\t裂变钻头调整-类型变为冲击钻, 以降低游戏低帧带来的影响\r\n\t灼阳调整-护甲上调 (13->18)\r\n\t萤火调整-伤害下调 (45->25)\r\n\t炙热火山调整-地震造成伤害上调, 禁用水汽冷凝器\r\n\t水汽冷凝器调整-科技树中地图前置变为炙热火山\r\n\t千里, 天眼调整-造价下调并加入硬化合金\r\n\t击碎调整-造价下调\r\n\t魇光贴图重绘\r\n\t修复了战役图的一些bug\r\n\t\r\n\tv1.1.0\r\n\t战役地图-实装 (昏暗车间, 恒河要塞); 新增 (凛风山脉, 炙热火山)\r\n\t大量内容已经添加至科技树中\r\n\t新单位-庇护, 作为T4爬辅; 拥有能量力墙场, 可以反弹来袭子弹, 并在力墙过热时释放电弧\r\n\t新状态-鼓舞\r\n\t灼阳调整-主炮伤害下调且分裂电弧减少1/3, 火炮微调\r\n\t篝火调整-在超速范围内, 所有友方单位会被强化, 所有敌方单位会被削弱; 在工作时有特效了\r\n\t击碎调整-玻璃弹全面削弱, 石墨弹伤害提升, 杂质烘火合金弹伤害提升, 云爆弹伤害略微提升\r\n\t魇光调整-钍弹伤害提升, 合金弹伤害降低但电弧伤害提升\r\n\t倒海调整-液氮弹对建筑伤害降低40%\r\n\t电热硅炉调整-耗电提升 (600->720)\r\n\t千里贴图重绘\r\n\t修复了装甲核心不能覆盖小核心的bug\r\n\t修复了零号一角的波次bug (大概?)\r\n\t\r\n\tv1.0.3\r\n\t又修复了关于战役的几个bug\r\n\t减少了离塞塔的一些基础方块的研究消耗\r\n\t感谢 NJSAAA 重绘的 守护 的贴图 (名称以群内为准)\r\n\t\r\n\tv1.0.2\r\n\t重绘了一些方块的贴图\r\n\t给装甲核心添加了力墙 (注: 方块数据有变动, 导致装有旧版装甲核心的图会损坏)\r\n\t在设置里添加了手挖沙的开关\r\n\t关于存档损坏: 请先回滚版本到v1.0.1, 然后将所有图的装甲核心拆除或摧毁, 确认后再更新版本!\r\n\t\r\n\tv1.0.1\r\n\t紧急修复了关于战役的几个bug\r\n\t\r\n\tv1.0.0\r\n\t火种正式版的诞生!\r\n\t\r\n\tv0.9.7.20221230\r\n\t更cool的篝火\r\n\t\r\n\tv0.9.6.20221221\r\n\t新物品-流火结晶, 和它的工厂\r\n\t\r\n\tv0.9.5.20221216\r\n\t新单位线-空风\r\n\t新方块-Javelin机甲平台, 没错, 就是v5那玩意!\r\n\t新单位-Javelin, 已经做了最大努力去还原了(\r\n\t新方块-建筑治疗仪\r\n\t\r\n\tv0.9.4.20221215\r\n\t新方块-焰燃发电机, 只能接受燃烧性>=115%的物品\r\n\t\r\n\tv0.9.3.20221213\r\n\t新炮塔-倒海, 鉴于海啸的手实在有点短...\r\n\t更cool的裂变钻头\r\n\t\r\n\tv0.9.2.20221212\r\n\t新地图-昏暗车间\r\n\t新状态-冻伤\r\n\t给波浪和海啸加了液氮弹药\r\n\t\r\n\tv0.9.1.20221209\r\n\t新单位-荡空, 定位大概是T6空战\r\n\t新方块-复合传送带, 运力25/s\r\n\t修改了Error的武器\r\n\t\r\n\tv0.9.20221208\r\n\t给导体节点加了存电功能\r\n\t\r\n\tv0.9.20221207\r\n\t新方块-建造指示器\r\n\t\r\n\tv0.9.20221206\r\n\t给魇光加了非常coooool的巨⚡浪⚡合⚡金⚡弹药\r\n\t\r\n\tv0.9.20221205\r\n\t新物品-云爆弹, 和它的工厂\r\n\t给击碎加了云爆弹弹药\r\n\t\r\n\tv0.9.20221203\r\n\t新地图-海滩登陆\r\n\t新地图-恒河要塞\r\n\t新方块-水坝墙, 只能放置在水上\r\n\t\r\n\tv0.9.20221202\r\n\t新炮塔-点燃\r\n\t\r\n\tv0.9.20221201\r\n\t为火种创建了Github项目\r\n\t\r\n\tv0.9.20221130\r\n\t为树场增加了草地效率加成\r\n\t\r\n\tv0.9.20221129\r\n\t新方块-伐木机, 可以砍伐原版的树木类墙壁来获得木材\r\n\t\r\n\tv0.9.20221128\r\n\t给木材焚烧厂增加了发电功能\r\n\t重绘了一些截图来的贴图, 难绷\r\n\t\r\n\tv0.9.20221127\r\n\t新工厂-生物质增生机\r\n\t\r\n\tv0.9.20221125\r\n\t下调了篝火的超速范围, 原半径256格属实有点离谱...\r\n\t落实了热能窑炉的热能\r\n\t调整了一些原版方块, 使其配比更符合人体工程学\r\n\t增加了T3爬辅-卫戍(shù)\r\n\t\r\n\tv0.9.20221123\r\n\t增加了T2爬辅-抗御\r\n\t\r\n\tv0.9.20221122\r\n\t新增新兵种线-爬辅 (暂且这样叫吧...), 拥有以下特性: \r\n\t可以跨越大多数地形\r\n\t拥有强大的辅助能力 (大嘘)\r\n\t通常情况下没有攻击的能力\r\n\t通常情况下不会被敌方炮塔或单位瞄准, 但仍会受到伤害\r\n\t增加了T1爬辅-守护\r\n\t\r\n\tv0.8.20221119\r\n\t火种从劫难里解放出来了...感谢woodjacket (硫缺铅) 佬的指导!\r\n\t\r\n\tv0.8.20221118\r\n\t调整血肉墙-由间歇性修复变为持续性修复\r\n\t\r\n\tv0.8.20221117\r\n\t新地图-黑沙平原\r\n\t火种经历了一场劫难 (大悲)\r\n\t\r\n\tv0.8.20221116\r\n\t将火种大部分内容转移进科技树 (json甚至能做到单开科技树...)\r\n\t新地图-零号一角\r\n\t\r\n\tv0.8.20221115\r\n\t新增英文翻译, 可以将语言调至英文来体验Uenhe充满抛瓦的翻译...\r\n\t如果各位发现英文翻译有不恰当的地方, 欢迎提出\r\n\t调整裂变钻头-增加被摧毁时的特效, 略微下调挖掘速度\r\n\t调整功能机-更名为奥米克戎 (Omicron), 射速下调\r\n\t调整魇光-血量下调, 给几种子弹增加了特殊射程判定 (平衡不好说)\r\n\t修复了一些物品的贴图尺寸问题\r\n\t新增了个icon.png, 但没有应用\r\n\t\r\n\tv0.8.20221114\r\n\t开屏UI & Aunke式logo诞生!\r\n\t调整了炮塔的造价, 使其变得没那么贵\r\n\t魇光射程下调, 射速下调\r\n\t调整降落基地, 难度下降\r\n\t调整装甲核心-削弱血量, 装甲, 容量\r\n\t(题外话: 降落基地由飞雨制作, 但他自己也打不过, Uenhe被折磨了三次才过去的. 这才是这张图难度下调的真正原因...)\r\n\t\r\n\tv0.8.20221113\r\n\t增加星球-离塞塔, 使用塞普罗科技, 并附带起始图-降落基地\r\n\t时不时会增加地图, 也欢迎各位投稿\r\n\t(破星球代码, 无论是对飞雨还是对Uenhe, 都造成了极大的心理创伤...)\r\n\t\r\n\tv0.7.20221111\r\n\t新物品-导⚡体⚡, 及其工厂\r\n\t修改了液氮厂的贴图, 给一些工厂加了特效\r\n\t\r\n\tv0.7.20221104\r\n\t新Boss级单位-Error, 很离谱的强度\r\n\t\r\n\tv0.7.20221013\r\n\t新炮台-天眼, 贴图依然很像个笑脸 (悲)\r\n\t\r\n\tv0.7.20221006\r\n\t给魇光加了点弹药\r\n\t修改了功能机的贴图 (不再缝合, 虽然有点丑)\r\n\t\r\n\tv0.6.20220924\r\n\t调整氧气反应器-配方修改\r\n\t新工厂-液氮压缩机\r\n\t新液体-液氮\r\n\t\r\n\tv0.6.20220923\r\n\t调整便携核心 (名字 -> 装甲核心, 属性几乎全部重制)\r\n\t调整裂变钻头 (造价微调)\r\n\t调整原版核心保护机甲alpha和beta (变为可制作, 通过空军工厂制作alpha并用单位重构工厂往上升级)\r\n\t新单位-功能机 (T3空军, 通过beta升级而来, 同时作为装甲核心的核心机)\r\n\t新单位-疾风, 定位T1坦克\r\n\t移除了herobrine\r\n\t\r\n\tv0.?.2022082?\r\n\t开端...\r\n"
   },
   {
     "repo": "blackdeluxecat/shadowshader",
@@ -1818,7 +1818,7 @@
     "repo": "teamviscott/modprojectviscott",
     "name": "Project Viscott",
     "author": "Sprites : Ethanol10 ,ThomasThings \nSfx/Music : Vdoble MSG \nProgrammers : Siede ,Manuwar \nMappers : Nicodium \n \n Credits to MeepOfFaith for making the pseudo3d system",
-    "lastUpdated": "2023-06-27T17:59:32Z",
+    "lastUpdated": "2023-06-27T21:43:38Z",
     "stars": 5,
     "minGameVersion": "142",
     "hasScripts": false,
@@ -2165,6 +2165,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Change mindustry music to SC"
+  },
+  {
+    "repo": "teamoct/erekir-music",
+    "name": "Team Oct's Erekir Music",
+    "author": "Team Oct",
+    "lastUpdated": "2023-06-26T07:21:23Z",
+    "stars": 4,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds new music to Erekir.\n\nMusic by Saigo no-nozomi.\nProgrammed by Slotterleet."
   },
   {
     "repo": "mythril382/self-destruct-core",
@@ -2682,17 +2693,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Decaying is destroying all thing. Or not?"
-  },
-  {
-    "repo": "teamoct/erekir-music",
-    "name": "Team Oct's Erekir Music",
-    "author": "Team Oct",
-    "lastUpdated": "2023-06-26T07:21:23Z",
-    "stars": 3,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds new music to Erekir.\n\nMusic by Saigo no-nozomi.\nProgrammed by Slotterleet."
   },
   {
     "repo": "situvngcd/mindustrymodtest",
