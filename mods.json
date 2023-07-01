@@ -25,7 +25,7 @@
     "repo": "yuria-shikibe/newhorizonmod",
     "name": "New Horizon",
     "author": "Yuria",
-    "lastUpdated": "2023-06-29T10:29:24Z",
+    "lastUpdated": "2023-07-01T10:54:07Z",
     "stars": 244,
     "minGameVersion": "144.3",
     "hasScripts": false,
@@ -179,7 +179,7 @@
     "repo": "3snake3/sapphirium",
     "name": "Sapphirium",
     "author": "Snake",
-    "lastUpdated": "2023-07-01T09:29:22Z",
+    "lastUpdated": "2023-07-01T11:01:38Z",
     "stars": 68,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -267,9 +267,9 @@
     "repo": "blackdeluxecat/mi2-utilities-java",
     "name": "MI2-Utilities Java",
     "author": "BlackDeluxeCat",
-    "lastUpdated": "2023-06-17T17:18:12Z",
+    "lastUpdated": "2023-07-01T11:21:10Z",
     "stars": 35,
-    "minGameVersion": "144.3",
+    "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
     "description": "# MI2-Utilities Java\n\n### Intro\n- [English](README.md) | [中文](README_zh.md)\n\nQOL Mod, powerful assists to vanilla gameplay. For destined Mindustry players.\n\n### Install\n\n- Method 1: \"Import from github\", with \"BlackDeluxeCat/MI2-Utilities-Java\". This makes reinstall available. (recommended)\n- Method 2: Get the latest release, download \"MI2-Utilities Java.jar\". Then \"Import from a file\" with the file.\n\nQQ Group(中文zh_cn) number: 875035496\n\n### Contribution\n- PRs: l10n, bug fix, new feature.\n- Issues: bug report, suggestion.\n\n---\n\n## Features(1.2.3c)\n\n#### MI2UI\n- Functions: one-click planning rebuild, distribution building reveal.\n- Logical FPS simulation.\n- AI-assist: auto mining, auto construct plans, auto self-repair, auto aiming.\n- Most of the map rules.\n- Wave info, force skipwave, wave health bars.\n- RTS Formation creating and selecting.\n- Most of MI2U's options.\n\n#### Core Info\n- Vanilla core info ++, charts of resource changes.\n- Unit counter.\n- Power net bars & net building analyse.\n- Switch to view other teams.\n\n#### MindowMap\n- Renderer based on vanilla.\n- Sensible zoomed to full map.\n- Player labels.\n- Clicking pans camera.\n- Space Scan world finder.\n- Logic Building Stats\n\n#### Map Info\n\n\n#### Logic Helper\n- Sort and fast typing var names, using delimiter.\n- Search & Replace.\n- Cut or Copy, and Paste.\n\n#### Emoji\n- Emoji book.\n\n#### Mindow2\nDraggable window for this mod. On the auto-hidden title bar, you can open settings dialog, minimize it, or tap the title to drag. For details, open settings and see the help pages of each Mindow2.\n\nPosition, snap, etc. can be saved through settings.\n\n#### Others\n- Smooth multiplayer cursors.\n- Block/Unit hp bar, logic lines, pathfind lines.\n- Disable wrecks, units, bullets rendering.\n- Distribution buildings interior reveal.\n- Modify block stat bars, make it following cursor.\n- 99.5% of changes can be turned off with options.\n- The settings stored at $Mindustry/mods/MI2U_Settings/.\n\n---\n\nEarly JS version: [BlackDeluxeCat/MI2-Utilities](https://github.com/BlackDeluxeCat/MI2-Utilities)\n\nMy friend did a lot of other functions, see [MinerTools](https://github.com/RlCCJ/MinerTools)."
@@ -1177,6 +1177,17 @@
     "description": "Download this Mindustry Mod NOW!"
   },
   {
+    "repo": "zeutd/disintegration",
+    "name": "disintegration",
+    "author": "zeutd",
+    "lastUpdated": "2023-05-23T03:15:26Z",
+    "stars": 8,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod."
+  },
+  {
     "repo": "blackdeluxecat/shadowshader",
     "name": "Shadow Shader",
     "author": "BlackDeluxeCat",
@@ -1329,17 +1340,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Add a lot of vanilla improvement :\n \n    -Add new turrets / items / liquids and more\n    -You can now biuld T6 units\n    -Mod compatible with multiplayer and campain\n\nStill in in development so might be bugged or unbalanced for now\nDon't forget to review and drop a star :P\n \n \n       \n    - Arth0x"
-  },
-  {
-    "repo": "zeutd/disintegration",
-    "name": "disintegration",
-    "author": "zeutd",
-    "lastUpdated": "2023-05-23T03:15:26Z",
-    "stars": 7,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod."
   },
   {
     "repo": "pointifix/autotranslate",
@@ -3432,17 +3432,6 @@
     "description": "[red]THIS MOD HAS NO GUI\nPLEASE READ THE MOD'S GITHUB PAGE FOR THE TUTORIAL ON HOW TO USE THIS \n\nREQUIRES: electricgun/message-block-commands"
   },
   {
-    "repo": "chaoticans-mindustry-modding-team/ca-mod",
-    "name": "ca-mod",
-    "author": "The chaoticans",
-    "lastUpdated": "2023-06-29T16:35:25Z",
-    "stars": 2,
-    "minGameVersion": "143",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Mod for mindustry server                 "
-  },
-  {
     "repo": "taggamer555/omegazero",
     "name": "OMEGAZERO",
     "author": "KillerIKY - lead dev\nRenale - testing and some ideas\nChatGPT - i was lazy\nAlvar - balancing\nNeonFlames - helped with getting used to GitHub",
@@ -3463,6 +3452,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Grind a lot less in the game."
+  },
+  {
+    "repo": "chaoticans-mindustry-modding-team/ca-mod",
+    "name": "ca-mod",
+    "author": "The chaoticans",
+    "lastUpdated": "2023-07-01T11:43:59Z",
+    "stars": 2,
+    "minGameVersion": "143",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Mod for mindustry server                 "
   },
   {
     "repo": "explerhd/unnamedmods",
@@ -4334,17 +4334,6 @@
     "description": "It aims to add robotic entites (called sentinels)and some other content"
   },
   {
-    "repo": "balam314/extensions",
-    "name": "Extensions",
-    "author": "BalaM314",
-    "lastUpdated": "2023-07-01T06:29:29Z",
-    "stars": 1,
-    "minGameVersion": "145.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Extends everything and improves the endgame by adding an extra tier of stuff."
-  },
-  {
     "repo": "hina2901/drills-and-mills",
     "name": "drills and mills mod",
     "author": "Hina2901",
@@ -4365,6 +4354,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "An under-development texture pack that simplifies Mindustry\n\nRecommended Settings:\nPower Laser Opacity: 100%\nBridge Opacity: 100%\nAnimated Surfaces: off\nAnimated Shields: off\nPixelate: off\nLinear Filtering: on"
+  },
+  {
+    "repo": "balam314/extensions",
+    "name": "Extensions",
+    "author": "BalaM314",
+    "lastUpdated": "2023-07-01T11:16:35Z",
+    "stars": 1,
+    "minGameVersion": "145.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Extends everything and improves the endgame by adding an extra tier of stuff."
   },
   {
     "repo": "pepa3/mindustrymod",
