@@ -1818,7 +1818,7 @@
     "repo": "manuwar73/remodeled_industry-",
     "name": "Remodeled Industry",
     "author": "ManuWar73",
-    "lastUpdated": "2023-07-02T11:56:45Z",
+    "lastUpdated": "2023-07-02T13:35:14Z",
     "stars": 5,
     "minGameVersion": "137",
     "hasScripts": false,
@@ -2698,12 +2698,12 @@
     "repo": "situvngcd/mindustrymodtest",
     "name": "SVN Test mod",
     "author": "[#4488ff]SITUVNgcd[]",
-    "lastUpdated": "2023-06-30T15:00:27Z",
+    "lastUpdated": "2023-07-02T13:24:50Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
-    "description": "SITUVNgd's test mod\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] for more info."
+    "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
   },
   {
     "repo": "amateurpotion/nuclearjavamod",
@@ -3457,7 +3457,7 @@
     "repo": "xenoforce/no-grinding-mod",
     "name": "No Grinding",
     "author": "goldie",
-    "lastUpdated": "2023-07-01T16:59:51Z",
+    "lastUpdated": "2023-07-02T13:08:27Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -4301,17 +4301,6 @@
     "description": "An under-development texture pack that simplifies Mindustry\n\nRecommended Settings:\nPower Laser Opacity: 100%\nBridge Opacity: 100%\nAnimated Surfaces: off\nAnimated Shields: off\nPixelate: off\nLinear Filtering: on"
   },
   {
-    "repo": "yoru-kitsune/craftdustry",
-    "name": "Craftdustry - Texturepack",
-    "author": "Yoru Kitsune",
-    "lastUpdated": "2023-07-02T09:15:25Z",
-    "stars": 1,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "An under-development texture pack that makes Mindustry look like Minecraft\n\nRecommended Settings:Animated Surfaces: off\nAnimated Shields: off\nPixelate: off\nLinear Filtering: on"
-  },
-  {
     "repo": "balam314/extensions",
     "name": "Extensions",
     "author": "BalaM314",
@@ -4321,6 +4310,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Extends everything and improves the endgame by adding an extra tier of stuff."
+  },
+  {
+    "repo": "yoru-kitsune/craftdustry",
+    "name": "Craftdustry - Texturepack",
+    "author": "Yoru Kitsune\nOriginal textures: Mojang/Microsoft",
+    "lastUpdated": "2023-07-02T13:53:49Z",
+    "stars": 1,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "An under-development texture pack that makes Mindustry look like Minecraft\n\nRecommended Settings:Animated Surfaces: off\nAnimated Shields: off\nPixelate: off\nLinear Filtering: on"
   },
   {
     "repo": "pepa3/mindustrymod",
