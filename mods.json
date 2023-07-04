@@ -267,7 +267,7 @@
     "repo": "blackdeluxecat/mi2-utilities-java",
     "name": "MI2-Utilities Java",
     "author": "BlackDeluxeCat",
-    "lastUpdated": "2023-07-04T12:06:23Z",
+    "lastUpdated": "2023-07-04T15:08:55Z",
     "stars": 35,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -1037,7 +1037,7 @@
     "repo": "430230562/zerg",
     "name": "虫族",
     "author": "pardon生物",
-    "lastUpdated": "2023-06-30T00:47:40Z",
+    "lastUpdated": "2023-07-04T15:39:04Z",
     "stars": 9,
     "minGameVersion": "139",
     "hasScripts": true,
@@ -1221,6 +1221,17 @@
     "description": "Allows access to Editor Mode on Sandbox and Singleplayer\n\nDoes not work on Multiplayer and Campaign.\n\nUpdate: Taken account for Testing Utilities and Time Control panels."
   },
   {
+    "repo": "pointifix/autotranslate",
+    "name": "AutoTranslate",
+    "author": "Pointifix",
+    "lastUpdated": "2023-06-12T15:36:33Z",
+    "stars": 8,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Automatically translates chat messages"
+  },
+  {
     "repo": "mindustryextended13/materialenergy",
     "name": "Material Energy",
     "author": "TheEE145",
@@ -1340,17 +1351,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod."
-  },
-  {
-    "repo": "pointifix/autotranslate",
-    "name": "AutoTranslate",
-    "author": "Pointifix",
-    "lastUpdated": "2023-06-12T15:36:33Z",
-    "stars": 7,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Automatically translates chat messages"
   },
   {
     "repo": "racti2037/real-military-techic-mod",
@@ -1538,17 +1538,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "1.从蓝图详情页直接复制逻辑和信息板。2.蓝图消耗计算套件。\nCopy processor/message in schematic info without placing it. Schematic consumption computing tool. \nGithub: BlackDeluxeCat/SchematicParse"
-  },
-  {
-    "repo": "thomasthings/xenacia",
-    "name": "Xenacia",
-    "author": "Thomas's Things",
-    "lastUpdated": "2023-06-24T19:05:09Z",
-    "stars": 6,
-    "minGameVersion": "145.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that adds an entire new campaign, larger than serpulo. Still in Aplha stages."
   },
   {
     "repo": "teamviscott/modprojectviscott",
@@ -1782,17 +1771,6 @@
     "description": "Displays all bridge links. Helps with bridge weaving"
   },
   {
-    "repo": "froomeeth/javaserilia",
-    "name": "Serilia",
-    "author": "FrooMeeth, Nullevoy, GlennFolker (EntityAnno)",
-    "lastUpdated": "2023-06-29T16:17:59Z",
-    "stars": 5,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Serilia but on steroids (Java)"
-  },
-  {
     "repo": "manuwar73/remodeled_industry-",
     "name": "Remodeled Industry",
     "author": "ManuWar73",
@@ -1813,6 +1791,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "v1.4.3:0001 Java"
+  },
+  {
+    "repo": "froomeeth/javaserilia",
+    "name": "Serilia",
+    "author": "FrooMeeth & Nullevoy",
+    "lastUpdated": "2023-07-04T15:36:25Z",
+    "stars": 5,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Serilia is a mod under development that adds 2 new planets with linked campaigns, Ahkar and Caliterra, where you'll have to travel between these planets to research necessary blocks/items to move on"
   },
   {
     "repo": "deltanedas/radar",
@@ -3289,17 +3278,6 @@
     "description": "SchemePack"
   },
   {
-    "repo": "darkspam7/project-hephaestus",
-    "name": "Project Hepheastus",
-    "author": "darkspam7",
-    "lastUpdated": "2023-06-03T14:10:56Z",
-    "stars": 2,
-    "minGameVersion": "144.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "mod contain:\n\nunits - 3\n\nblocks - 1\n\nplanets - 1\n\nitems - 4\n\nsectors - 1\n\nin full release will contain:\n\nunits - 88\n\nblocks - >88\n\nitems - 12\n\nplanets - 1\n\nsectors - >1"
-  },
-  {
     "repo": "nevaseenyeee/unto-ather",
     "name": "Unto Ather",
     "author": "NevaSeen",
@@ -3410,10 +3388,21 @@
     "description": "Grind a lot less in the game."
   },
   {
+    "repo": "darkspam7/project-hephaestus",
+    "name": "Project Hepheastus",
+    "author": "darkspam7 Pandora team",
+    "lastUpdated": "2023-07-04T14:06:08Z",
+    "stars": 2,
+    "minGameVersion": "144.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "mod contain:\n\nunits - 3\n\nblocks - 1\n\nplanets - 1\n\nitems - 4\n\nsectors - 1\n\nin full release will contain:\n\nunits - 88\n\nblocks - >88\n\nitems - 12\n\nplanets - 1\n\nsectors - >1"
+  },
+  {
     "repo": "chaoticans-mindustry-modding-team/zerubus-planet",
     "name": "Zerubus a new hell",
     "author": "The chaoticans",
-    "lastUpdated": "2023-07-04T00:53:10Z",
+    "lastUpdated": "2023-07-04T15:55:11Z",
     "stars": 2,
     "minGameVersion": "143",
     "hasScripts": false,
@@ -3971,17 +3960,6 @@
     "description": "random content i think of once in a while"
   },
   {
-    "repo": "thomasthings/erekir-scaled",
-    "name": "Erekir Scaled",
-    "author": "Thomas's Things",
-    "lastUpdated": "2023-05-04T01:37:36Z",
-    "stars": 1,
-    "minGameVersion": "143.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod for adding both larger and smaller content to Erekir."
-  },
-  {
     "repo": "rorivus/castritium",
     "name": "Castritium",
     "author": "Chat-bot",
@@ -4013,17 +3991,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds new turrets, liquids and a new item. Turret Vodka - boosts turret firerate by 5x. LiqoCocaine - boosts turret firerate by 999x. Now obtainable without liquid sources! Not intended to be balanced in any way. Discord - Rogue Process#0977."
-  },
-  {
-    "repo": "thomasthings/serpulo-scaled",
-    "name": "Serpulo Scaled",
-    "author": "Thomas's Things",
-    "lastUpdated": "2023-05-16T14:11:23Z",
-    "stars": 1,
-    "minGameVersion": "143.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod for adding both larger and smaller content to Serpulo."
   },
   {
     "repo": "992040/multiplayertweaks_1_0",
@@ -5069,17 +5036,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds a directional router to Serpulo."
-  },
-  {
-    "repo": "thomasthings/serpulo-payloads",
-    "name": "Serpulo Payloads",
-    "author": "Thomas's Things",
-    "lastUpdated": "2023-05-16T21:29:03Z",
-    "stars": 0,
-    "minGameVersion": "143.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod for adding Erekir's payload systems to Serpulo."
   },
   {
     "repo": "karlsonvive/rigor",
