@@ -114,7 +114,7 @@
     "name": "Informatis",
     "author": "Sharlotte",
     "lastUpdated": "2023-07-01T18:20:34Z",
-    "stars": 81,
+    "stars": 80,
     "minGameVersion": "145.1",
     "hasScripts": false,
     "hasJava": true,
@@ -223,23 +223,12 @@
     "repo": "xstabux/omaloon",
     "name": "Omaloon",
     "author": "StaBU, TheEE145",
-    "lastUpdated": "2023-07-03T12:51:53Z",
+    "lastUpdated": "2023-07-04T19:46:01Z",
     "stars": 50,
     "minGameVersion": "140.3",
     "hasScripts": false,
     "hasJava": true,
     "description": "The Mindustry mod aims to expand the campaign by adding a new star system. In active development. For now, not suitable for games outside the sandbox."
-  },
-  {
-    "repo": "sharlottes/sharustry",
-    "name": "Sharustry",
-    "author": "Sharlottes",
-    "lastUpdated": "2023-07-01T17:44:09Z",
-    "stars": 49,
-    "minGameVersion": "138",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "my first Java Mod. multi craft-generator, multi turret, multi drill and few thing more! \nnot completely finished/released yet. but i'm sure it's still enough for you to be interested in this mod, this contents, this ideas! \n\nThanks for helping: sk7725: owner of betaMindy \nmeep: owner of Progressed Materials \nmal&ssim: donated great sprites"
   },
   {
     "repo": "abomb4/super-cheat",
@@ -264,11 +253,22 @@
     "description": "New guns, drills, crafting, materials and resourses"
   },
   {
+    "repo": "sharlottes/sharustry",
+    "name": "Sharustry",
+    "author": "Sharlottes",
+    "lastUpdated": "2023-07-01T17:44:09Z",
+    "stars": 48,
+    "minGameVersion": "138",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "my first Java Mod. multi craft-generator, multi turret, multi drill and few thing more! \nnot completely finished/released yet. but i'm sure it's still enough for you to be interested in this mod, this contents, this ideas! \n\nThanks for helping: sk7725: owner of betaMindy \nmeep: owner of Progressed Materials \nmal&ssim: donated great sprites"
+  },
+  {
     "repo": "blackdeluxecat/mi2-utilities-java",
     "name": "MI2-Utilities Java",
     "author": "BlackDeluxeCat",
     "lastUpdated": "2023-07-04T15:08:55Z",
-    "stars": 35,
+    "stars": 36,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
@@ -3289,17 +3289,6 @@
     "description": "Explore the stars, discover the worlds."
   },
   {
-    "repo": "yoru-kitsune/beskar",
-    "name": "Beskar",
-    "author": "夜狐 & Void_Fox",
-    "lastUpdated": "2023-06-08T22:33:20Z",
-    "stars": 2,
-    "minGameVersion": "144.3",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Hardcore Mod\n\nEnglish: 夜狐\nGerman: 夜狐"
-  },
-  {
     "repo": "freezemandu/invisibleblocks",
     "name": "Invisible Blocks",
     "author": "Mandu",
@@ -3399,10 +3388,21 @@
     "description": "Randomly generate a planet and its sectors.\nIt's a mixtech mod, I myself don't like the idea of \"Oh, you can only use these things here, and you can only use those things there, bruh, bruh, bruh!\", so I make one myself, if you don't like mixtech and think it's \"unbalanced\" and \"boring\", then please go away, much appreciated!"
   },
   {
+    "repo": "yoru-kitsune/beskar-v1",
+    "name": "Beskar V1",
+    "author": "夜狐 & Void_Fox",
+    "lastUpdated": "2023-07-04T18:45:09Z",
+    "stars": 2,
+    "minGameVersion": "144.3",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Hardcore Mod\n\nEnglish: 夜狐\nGerman: 夜狐"
+  },
+  {
     "repo": "chaoticans-mindustry-modding-team/zerubus-planet",
     "name": "Zerubus a new hell",
     "author": "The chaoticans",
-    "lastUpdated": "2023-07-04T17:52:16Z",
+    "lastUpdated": "2023-07-04T19:04:05Z",
     "stars": 2,
     "minGameVersion": "143",
     "hasScripts": false,
@@ -4235,17 +4235,6 @@
     "description": "Extends everything and improves the endgame by adding an extra tier of stuff."
   },
   {
-    "repo": "yoru-kitsune/craftdustry",
-    "name": "Craftdustry - Texturepack",
-    "author": "Yoru Kitsune\nOriginal textures: Mojang/Microsoft",
-    "lastUpdated": "2023-07-03T13:40:04Z",
-    "stars": 1,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "An under-development texture pack that makes Mindustry look like Minecraft\n\nRecommended Settings:Animated Surfaces: off\nAnimated Shields: off\nPixelate: off\nLinear Filtering: on"
-  },
-  {
     "repo": "bttodi/legion",
     "name": "Legion",
     "author": "bttodi",
@@ -4255,6 +4244,28 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Currently in development, lots of missing sprites and not much content. Descend upon Nomine, a planet of stark snow and desolate deserts. Fend off its Legion that rules rampant."
+  },
+  {
+    "repo": "yoru-kitsune/craftdustry-ui-pack",
+    "name": "Craftdustry - UI Pack",
+    "author": "Yoru Kitsune",
+    "lastUpdated": "2023-07-04T18:33:16Z",
+    "stars": 1,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This adds UI elements meant for the Craftdustry Texturepack, but as some might don't want them, I put them in a seperate mod."
+  },
+  {
+    "repo": "yoru-kitsune/craftdustry",
+    "name": "Craftdustry - Texturepack",
+    "author": "Yoru Kitsune\nOriginal textures: Mojang/Microsoft",
+    "lastUpdated": "2023-07-04T18:36:46Z",
+    "stars": 1,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "An under-development texture pack that makes Mindustry look like Minecraft\n\nRecommended Settings:Animated Surfaces: off\nAnimated Shields: off\nPixelate: off\nLinear Filtering: on"
   },
   {
     "repo": "pepa3/mindustrymod",
