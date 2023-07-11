@@ -1235,7 +1235,7 @@
     "repo": "teamviscott/modprojectviscott",
     "name": "Project Viscott",
     "author": "CREDITS: \nSpriters : Ethanol10, ThomasThings \n----------------------------\nSfx/Music : Vdoble MSG \n----------------------------\nProgrammers : Siede ,Manuwar \n----------------------------\nMappers : Nicodium \n----------------------------\n \n Special thanks to MEEPofFaith for creating the pseudo3d system.",
-    "lastUpdated": "2023-07-11T09:47:35Z",
+    "lastUpdated": "2023-07-11T13:26:32Z",
     "stars": 8,
     "minGameVersion": "142",
     "hasScripts": false,
@@ -1362,6 +1362,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Mod add tanks, aircraft and naval ships"
+  },
+  {
+    "repo": "blackdeluxecat/schematicparse",
+    "name": "Schematic Parse",
+    "author": "BlackDeluxeCat",
+    "lastUpdated": "2023-06-21T15:53:33Z",
+    "stars": 7,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "1.从蓝图详情页直接复制逻辑和信息板。2.蓝图消耗计算套件。\nCopy processor/message in schematic info without placing it. Schematic consumption computing tool. \nGithub: BlackDeluxeCat/SchematicParse"
   },
   {
     "repo": "mythril382/loudustry",
@@ -1516,17 +1527,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Displays more stats in database. Unhides few things. Multiplayer compatible.\nПоказывает больше информации в базе данных. Открывает пару скрытых вещей. Не влияет на игру по сети"
-  },
-  {
-    "repo": "blackdeluxecat/schematicparse",
-    "name": "Schematic Parse",
-    "author": "BlackDeluxeCat",
-    "lastUpdated": "2023-06-21T15:53:33Z",
-    "stars": 6,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "1.从蓝图详情页直接复制逻辑和信息板。2.蓝图消耗计算套件。\nCopy processor/message in schematic info without placing it. Schematic consumption computing tool. \nGithub: BlackDeluxeCat/SchematicParse"
   },
   {
     "repo": "uujuju1/steam-works",
@@ -1705,17 +1705,6 @@
     "description": "Changes Mindustry sounds to Terraria sounds, no I didn't make them."
   },
   {
-    "repo": "i-hope1/mod-tools",
-    "name": "mod工具",
-    "author": "I hope...",
-    "lastUpdated": "2023-06-04T02:53:46Z",
-    "stars": 5,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "1. added focus feedback on Element Show & Selection.\n2. fixed a bug memory bug which didn't remove window when it's close.\n3. changed mod data directory.\n4. optimized code.\n5. fixed some of other small bugs.\n---------------------------------\n1. 添加 审查元素 和 选择器 的焦点反馈.\n2. 修复窗口关闭时仍占内存的bug.\n3. 修改的mod数据目录.\n4. 优化代码.\n5. 修复其他一些bug."
-  },
-  {
     "repo": "osp54/cloudsave",
     "name": "Cloud Save",
     "author": "OSPx",
@@ -1791,6 +1780,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Hi. This mod is work-in-progress, but you can play it, and maybe you will enjoy it. \n There is only a thing. This mod is absolutely not balanced. do not have any expectation of encountering a perfectly balanced thing. All of this mod is or extremely overpowered, or not enought good(principally all is overpowered). Also, the sound effects are not currently implemented and some sprites are missing.Unit factories will come soon!!!"
+  },
+  {
+    "repo": "i-hope1/mod-tools",
+    "name": "mod工具",
+    "author": "I hope...",
+    "lastUpdated": "2023-07-11T13:44:17Z",
+    "stars": 5,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "1. 大幅优化了代码高亮性能\n2. 添加监视功能"
   },
   {
     "repo": "deltanedas/radar",
@@ -2640,17 +2640,6 @@
     "description": "mod contain:\n\nunits - 3\n\nblocks - 1\n\nplanets - 1\n\nitems - 4\n\nsectors - 1\n\nin full release will contain:\n\nunits - 88\n\nblocks - >88\n\nitems - 12\n\nplanets - 1\n\nsectors - >1"
   },
   {
-    "repo": "situvngcd/mindustrymodtest",
-    "name": "SVN Test mod",
-    "author": "[#4488ff]SITUVNgcd[]",
-    "lastUpdated": "2023-07-09T08:35:54Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
-  },
-  {
     "repo": "i-hope1/betterjs",
     "name": "BetterJS",
     "author": "I hope...",
@@ -2665,12 +2654,23 @@
     "repo": "chaoticans-mindustry-modding-team/ca-mod",
     "name": "ca-mod",
     "author": "The chaoticans",
-    "lastUpdated": "2023-07-10T19:59:27Z",
+    "lastUpdated": "2023-07-11T10:30:05Z",
     "stars": 3,
     "minGameVersion": "143",
     "hasScripts": false,
     "hasJava": false,
     "description": "Mod for mindustry server                 "
+  },
+  {
+    "repo": "situvngcd/mindustrymodtest",
+    "name": "SVN Test mod",
+    "author": "[#4488ff]SITUVNgcd[]",
+    "lastUpdated": "2023-07-11T12:19:37Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
   },
   {
     "repo": "amateurpotion/nuclearjavamod",
