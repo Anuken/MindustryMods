@@ -1235,7 +1235,7 @@
     "repo": "teamviscott/modprojectviscott",
     "name": "Project Viscott",
     "author": "CREDITS: \nSpriters : Ethanol10, ThomasThings \n----------------------------\nSfx/Music : Vdoble MSG \n----------------------------\nProgrammers : Siede ,Manuwar \n----------------------------\nMappers : Nicodium \n----------------------------\n \n Special thanks to MEEPofFaith for creating the pseudo3d system.",
-    "lastUpdated": "2023-07-14T09:23:30Z",
+    "lastUpdated": "2023-07-15T11:45:26Z",
     "stars": 8,
     "minGameVersion": "142",
     "hasScripts": false,
@@ -2145,10 +2145,21 @@
     "description": "Mindustry modding utilities to make mod development easier."
   },
   {
+    "repo": "sunkymp3g/netronium",
+    "name": "Netronium",
+    "author": "[orange]Sunky.MP3G",
+    "lastUpdated": "2023-07-15T10:28:57Z",
+    "stars": 4,
+    "minGameVersion": "145.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "The abandoned planet, surrounded by a dome, is waiting for you...\n\nYour main mission is to save the planet's ecology, because enemies are aggressively corrupting it.\n\nOur Discord server: [blue]https://discord.gg/qzPwQ7e35C[white]"
+  },
+  {
     "repo": "heroblack303/scrap",
     "name": "Scrap ores",
     "author": "Heroblack303",
-    "lastUpdated": "2023-07-15T05:47:44Z",
+    "lastUpdated": "2023-07-15T11:44:27Z",
     "stars": 4,
     "minGameVersion": "145.1",
     "hasScripts": true,
@@ -2640,17 +2651,6 @@
     "description": ""
   },
   {
-    "repo": "i-hope1/betterjs",
-    "name": "BetterJS",
-    "author": "I hope...",
-    "lastUpdated": "2023-07-10T11:52:34Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "1. 优化js的运行效率\n2. 添加一些js方法，如访问私有，方法优先（全部在$AX里）\n1.2.3更新内容：\n修复移动端staticOffset bug\n兼容java17"
-  },
-  {
     "repo": "routerxdd/decaling",
     "name": "Project Decay",
     "author": "RouterXdd/EXPUNGED",
@@ -2706,15 +2706,15 @@
     "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
   },
   {
-    "repo": "sunkymp3g/netronium",
-    "name": "Netronium",
-    "author": "[orange]Sunky.MP3G",
-    "lastUpdated": "2023-07-15T06:39:04Z",
+    "repo": "i-hope1/betterjs",
+    "name": "BetterJS",
+    "author": "I hope...",
+    "lastUpdated": "2023-07-15T11:55:50Z",
     "stars": 3,
-    "minGameVersion": "145.1",
+    "minGameVersion": "136",
     "hasScripts": false,
-    "hasJava": false,
-    "description": "The abandoned planet, surrounded by a dome, is waiting for you...\n\nYour main mission is to save the planet's ecology, because enemies are aggressively corrupting it.\n\nOur Discord server: [blue]https://discord.gg/qzPwQ7e35C[white]"
+    "hasJava": true,
+    "description": "1. 优化js的运行效率\n2. 添加一些js方法，如访问私有，方法优先（全部在$AX里）\n1.2.3更新内容：\n修复移动端staticOffset bug\n兼容java17"
   },
   {
     "repo": "amateurpotion/nuclearjavamod",
@@ -5225,17 +5225,6 @@
     "description": "A Mod centered in something with no center"
   },
   {
-    "repo": "chinhonnang0000/serpul_clones",
-    "name": "serpul_clones",
-    "author": "Chin Hon Nang",
-    "lastUpdated": "2023-06-19T03:08:37Z",
-    "stars": 0,
-    "minGameVersion": "140",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "\r\nNo techs and no missions. Planets only.  \r\ngenerator changed to SerpuloPlanetGenerator via javaScript.\r\nThanks zerg for the source code.\r\n\r\nlast work done: 19 june 2023\r\ntask: fixing bugs when running Mindustry v145 \r\n\r\nFeel free to reverse-engineer. \r\nClick on Repo > scripts > pl.js for inner workings/ \r\n"
-  },
-  {
     "repo": "bakawoot/mindustry-skyblock",
     "name": "Skyblock",
     "author": "Slava0135, modified by misanthrope",
@@ -5421,5 +5410,16 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "No description provided."
+  },
+  {
+    "repo": "chinhonnang0000/serpul_clones",
+    "name": "serpul_clones",
+    "author": "chinhonnang0000",
+    "lastUpdated": "2023-07-15T11:22:42Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\r\nNo techs and no missions. Planets only.  \r\ngenerator changed to SerpuloPlanetGenerator via javaScript.\r\nThanks zerg for the source code.\r\n\r\nlast work done: 19 june 2023\r\ntask: fixing bugs when running Mindustry v145 \r\n\r\nFeel free to reverse-engineer. \r\nClick on Repo > scripts > pl.js for inner workings/ \r\n"
   }
 ]
