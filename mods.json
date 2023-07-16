@@ -2662,17 +2662,6 @@
     "description": "Decaying is destroying all thing. Or not?"
   },
   {
-    "repo": "bttodi/legion",
-    "name": "Legion",
-    "author": "bttodi",
-    "lastUpdated": "2023-07-14T04:42:16Z",
-    "stars": 3,
-    "minGameVersion": "144",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Currently in development, lots of missing sprites and not much content. Descend upon Nomine, a planet of stark snow and desolate deserts. Fend off its Legion that rules rampant."
-  },
-  {
     "repo": "plsubfarm61/project_b",
     "name": "Project B [Alpha]",
     "author": " [white]pol[red]ish [lime]subfarm61 ",
@@ -2682,17 +2671,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "[green]=============|DESCRIPTION|============\n[lightgray]I'm making the biggest mod for mindustry. If you like mod, please leave a [yellow]star [lightgray]on [gray]github.\n[green]=================|INFO|=================\n[white]Mod need \"[#42a5f5]MultiCrafter Lib[white]\" to work.\n[green]===============|DISCORD|===============\n  [navy]Discord [white]link - \n [blue]https://discord.gg/7SSAupjxeD\n[forest]-------------------------------------\n[lime]Me [white]polish subfarm61#6776\n[green]==============|PROBLEMS|==============\n[white]If you have [lime]suggestion[white] or you find a \n[purple]bug[white], describe it on our discord server. \n[green]========================================"
-  },
-  {
-    "repo": "situvngcd/mindustrymodtest",
-    "name": "SVN Test mod",
-    "author": "[#4488ff]SITUVNgcd[]",
-    "lastUpdated": "2023-07-15T03:38:27Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
   },
   {
     "repo": "i-hope1/betterjs",
@@ -2715,6 +2693,28 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Mod for mindustry server                 "
+  },
+  {
+    "repo": "bttodi/legion",
+    "name": "Legion",
+    "author": "bttodi",
+    "lastUpdated": "2023-07-16T04:29:08Z",
+    "stars": 3,
+    "minGameVersion": "144",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Currently in development, lots of missing sprites and not much content. Descend upon Nomine, a planet of stark snow and desolate deserts. Fend off its Legion that rules rampant."
+  },
+  {
+    "repo": "situvngcd/mindustrymodtest",
+    "name": "SVN Test mod",
+    "author": "[#4488ff]SITUVNgcd[]",
+    "lastUpdated": "2023-07-16T05:46:07Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
   },
   {
     "repo": "amateurpotion/nuclearjavamod",
@@ -4202,17 +4202,6 @@
     "description": "It aims to add robotic entites (called sentinels)and some other content"
   },
   {
-    "repo": "balam314/extensions",
-    "name": "Extensions",
-    "author": "BalaM314",
-    "lastUpdated": "2023-07-02T11:04:02Z",
-    "stars": 1,
-    "minGameVersion": "145.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Extends everything and improves the endgame by adding an extra tier of stuff."
-  },
-  {
     "repo": "yoru-kitsune/craftdustry-ui-pack",
     "name": "Craftdustry - UI Pack",
     "author": "Yoru Kitsune",
@@ -4277,6 +4266,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": " alpha v 0.10\r\nAsteroidgen generated using AsteroidGenerator. Named after AsteroidGenerator. \r\nIt has its own planet (and missions) and techtree.\n\n click repo for more details."
+  },
+  {
+    "repo": "balam314/extensions",
+    "name": "Extensions",
+    "author": "BalaM314",
+    "lastUpdated": "2023-07-16T04:39:19Z",
+    "stars": 1,
+    "minGameVersion": "145.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Extends everything and improves the endgame by adding an extra tier of stuff."
   },
   {
     "repo": "pepa3/mindustrymod",
@@ -5426,7 +5426,7 @@
     "repo": "unionofsovietsocialistrepublics/magnification",
     "name": "Magnification",
     "author": "Water molecules",
-    "lastUpdated": "2023-07-15T14:44:46Z",
+    "lastUpdated": "2023-07-16T05:37:41Z",
     "stars": 0,
     "minGameVersion": "140",
     "hasScripts": false,
