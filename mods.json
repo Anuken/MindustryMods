@@ -1353,17 +1353,6 @@
     "description": "Mod add tanks, aircraft and naval ships"
   },
   {
-    "repo": "blackdeluxecat/schematicparse",
-    "name": "Schematic Parse",
-    "author": "BlackDeluxeCat",
-    "lastUpdated": "2023-06-21T15:53:33Z",
-    "stars": 7,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "1.从蓝图详情页直接复制逻辑和信息板。2.蓝图消耗计算套件。\nCopy processor/message in schematic info without placing it. Schematic consumption computing tool. \nGithub: BlackDeluxeCat/SchematicParse"
-  },
-  {
     "repo": "r-omnom/z.p.g.m._mod",
     "name": "Z.P.G.M._Mod",
     "author": "r_omnom7",
@@ -1373,6 +1362,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Z.P.G.M. Mod dla dużej rozpierduchy oraz zabawy. Wspierający: Świrek3331, Not_Bot, Kamil, Zielony Trójkąt. Gigantyczne podziękowania dla Stalkera za zaanagżowanie w pracę z teksturami, oraz dla Dream Lorda, za nieocenioną pomoc z kodem (bez ciebie nie powstałoby nawet 1.0). Discord: https://discord.gg/E3T9JxDuTP Mod currently unavaible in English. Ask about me in #polski in official mindustry discord if you want to contact."
+  },
+  {
+    "repo": "blackdeluxecat/schematicparse",
+    "name": "Schematic Parse",
+    "author": "BlackDeluxeCat",
+    "lastUpdated": "2023-07-17T09:13:23Z",
+    "stars": 7,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "1.从蓝图详情页直接复制逻辑和信息板。2.蓝图消耗计算套件。\nCopy processor/message in schematic info without placing it. Schematic consumption computing tool. \nGithub: BlackDeluxeCat/SchematicParse"
   },
   {
     "repo": "mythril382/loudustry",
@@ -3300,17 +3300,6 @@
     "description": "锈与尘造就了这一切。\n模组QQ群:723662534请装载最新模组进入，群内随时更新模组"
   },
   {
-    "repo": "electricgun/video-to-logic",
-    "name": "Video to Logic",
-    "author": "ElectricGun",
-    "lastUpdated": "2023-06-25T07:21:41Z",
-    "stars": 2,
-    "minGameVersion": "138",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "[red]THIS MOD HAS NO GUI\nPLEASE READ THE MOD'S GITHUB PAGE FOR THE TUTORIAL ON HOW TO USE THIS \n\nREQUIRES: electricgun/message-block-commands"
-  },
-  {
     "repo": "piggychu620/mindustryrandomplanet",
     "name": "Random Planet v0.4",
     "author": "PiggyChu620",
@@ -3441,6 +3430,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "(for v7)"
+  },
+  {
+    "repo": "electricgun/video-to-logic",
+    "name": "Video to Logic",
+    "author": "ElectricGun",
+    "lastUpdated": "2023-07-17T09:54:06Z",
+    "stars": 2,
+    "minGameVersion": "138",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "[red]THIS MOD HAS NO GUI\nPLEASE READ THE MOD'S GITHUB PAGE FOR THE TUTORIAL ON HOW TO USE THIS \n\nREQUIRES: electricgun/message-block-commands"
   },
   {
     "repo": "explerhd/unnamedmods",
@@ -5368,17 +5368,6 @@
     "description": "This adds UI elements meant for the Simpledustry Texturepack, but as some might don't want them, I put them in a seperate mod."
   },
   {
-    "repo": "dryehm/stahlarme",
-    "name": "Stahlarme",
-    "author": "Dryehm_",
-    "lastUpdated": "2023-07-10T04:36:46Z",
-    "stars": 0,
-    "minGameVersion": "140",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Weapons."
-  },
-  {
     "repo": "mikael-chowdhury/mindustry-ultimate-mod",
     "name": "THE ULTIMATE MOD",
     "author": "mikaelcoffee",
@@ -5432,5 +5421,16 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\r\nNo techs and no missions. Planets only.  \r\ngenerator changed to SerpuloPlanetGenerator via javaScript.\r\nThanks zerg for the source code.\r\n\r\nlast work done: 19 june 2023\r\ntask: fixing bugs when running Mindustry v145 \r\n\r\nFeel free to reverse-engineer. \r\nClick on Repo > scripts > pl.js for inner workings/ \r\n"
+  },
+  {
+    "repo": "dryehm/stahlarme",
+    "name": "Stahlarme",
+    "author": "Dryehm_",
+    "lastUpdated": "2023-07-17T09:57:09Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Weapons."
   }
 ]
