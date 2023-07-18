@@ -48,7 +48,7 @@
     "name": "Project Unity",
     "author": "Avant Team",
     "lastUpdated": "2023-05-02T09:26:00Z",
-    "stars": 148,
+    "stars": 147,
     "minGameVersion": "140.4",
     "hasScripts": false,
     "hasJava": true,
@@ -59,7 +59,7 @@
     "name": "Exotic Mod",
     "author": "Elixias",
     "lastUpdated": "2023-07-06T10:47:22Z",
-    "stars": 139,
+    "stars": 140,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
@@ -92,7 +92,7 @@
     "name": "Time Control",
     "author": "sk7725",
     "lastUpdated": "2023-05-26T06:12:17Z",
-    "stars": 96,
+    "stars": 97,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
@@ -451,7 +451,7 @@
     "description": "Randomizes almost everything!\nJoin our discord! https://discord.gg/ztC6WJUxZK\n\nEPILEPSY WARNING"
   },
   {
-    "repo": "pkchaos/yellow-java",
+    "repo": "smolkeys/yellow-java",
     "name": "Yellow",
     "author": "PKChaos (SMOLKEYS)",
     "lastUpdated": "2023-07-16T15:33:57Z",
@@ -872,7 +872,7 @@
     "repo": "vvseangtvv/project-restoration",
     "name": "Project: Restoration",
     "author": "VvSeanGtvV",
-    "lastUpdated": "2023-07-18T03:52:08Z",
+    "lastUpdated": "2023-07-18T17:41:23Z",
     "stars": 11,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -3322,17 +3322,6 @@
     "description": "Explore the stars, discover the worlds."
   },
   {
-    "repo": "yoru-kitsune/simpledustry",
-    "name": "Simpledustry - Texturepack",
-    "author": "Yoru Kitsune",
-    "lastUpdated": "2023-07-09T16:09:59Z",
-    "stars": 2,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "An under-development texture pack that simplifies Mindustry\n\nOptional UI-Pack linked on GitHub\n\nRecommended Settings:\nPower Laser Opacity: 100%\nBridge Opacity: 100%\nAnimated Surfaces: off\nAnimated Shields: off\nPixelate: off\nLinear Filtering: on"
-  },
-  {
     "repo": "yoru-kitsune/beskar-outdated",
     "name": "Beskar (OUTDATED)",
     "author": "Yoru Kitsune & Void_Ængel\nGerman Translation: Yoru Kitsune",
@@ -3430,6 +3419,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "[red]THIS MOD HAS NO GUI\nPLEASE READ THE MOD'S GITHUB PAGE FOR THE TUTORIAL ON HOW TO USE THIS \n\nREQUIRES: electricgun/message-block-commands"
+  },
+  {
+    "repo": "yoru-kitsune/simpledustry",
+    "name": "Simpledustry - Texturepack",
+    "author": "Yoru Kitsune",
+    "lastUpdated": "2023-07-18T17:40:05Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "An under-development texture pack that simplifies Mindustry\n\nOptional UI-Pack linked on GitHub\n\nRecommended Settings:\nPower Laser Opacity: 100%\nBridge Opacity: 100%\nAnimated Surfaces: off\nAnimated Shields: off\nPixelate: off\nLinear Filtering: on"
   },
   {
     "repo": "explerhd/unnamedmods",
@@ -4235,17 +4235,6 @@
     "description": "A very beta and cool mod great stuff but grindy. Requires Liplum/MultiCrafter lib"
   },
   {
-    "repo": "skulzyetagain/firstmod",
-    "name": "Titans Awoken",
-    "author": "Rosa/Skulz",
-    "lastUpdated": "2023-07-14T20:45:56Z",
-    "stars": 1,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Small mod that keeps adding stuff"
-  },
-  {
     "repo": "balam314/extensions",
     "name": "Extensions",
     "author": "BalaM314",
@@ -4310,6 +4299,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Stardustry"
+  },
+  {
+    "repo": "skulzyetagain/firstmod",
+    "name": "Titans Awoken",
+    "author": "Rosa/Skulz",
+    "lastUpdated": "2023-07-18T17:05:22Z",
+    "stars": 1,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Small mod that keeps adding stuff"
   },
   {
     "repo": "pepa3/mindustrymod",
@@ -5357,17 +5357,6 @@
     "description": "removes all bundle text"
   },
   {
-    "repo": "yoru-kitsune/simpledustry-ui-pack",
-    "name": "Simpledustry - UI Pack",
-    "author": "Yoru Kitsune",
-    "lastUpdated": "2023-07-09T13:05:38Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This adds UI elements meant for the Simpledustry Texturepack, but as some might don't want them, I put them in a seperate mod."
-  },
-  {
     "repo": "mikael-chowdhury/mindustry-ultimate-mod",
     "name": "THE ULTIMATE MOD",
     "author": "mikaelcoffee",
@@ -5445,10 +5434,21 @@
     "description": " alpha v 0.10\r\nAsteroidgen generated using AsteroidGenerator. Named after AsteroidGenerator. \r\nIt has its own planet (and missions) and techtree.\n\n click repo for more details."
   },
   {
+    "repo": "yoru-kitsune/simpledustry-ui-pack",
+    "name": "Simpledustry - UI Pack",
+    "author": "Yoru Kitsune",
+    "lastUpdated": "2023-07-18T17:32:30Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This adds UI elements meant for the Simpledustry Texturepack, but as some might don't want them, I put them in a seperate mod."
+  },
+  {
     "repo": "minchat-official/minchat",
     "name": "MinChat Official",
     "author": "Mnemotechnician",
-    "lastUpdated": "2023-07-17T13:16:10Z",
+    "lastUpdated": "2023-07-18T17:40:14Z",
     "stars": 0,
     "minGameVersion": "137",
     "hasScripts": false,
