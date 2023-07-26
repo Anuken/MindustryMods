@@ -23,7 +23,7 @@ public class ModUpdater{
     static final int perPage = 100;
     static final int maxLength = 55;
     static final ObjectSet<String> javaLangs = ObjectSet.with("Java", "Kotlin", "Groovy", "Scala"); //obviously not a comprehensive list
-    static final ObjectSet<String> blacklist = ObjectSet.with("Snow-of-Spirit-Fox-Mori/old-mod", "foxitOS/CMD-pack", "TheSaus/Cumdustry", "Anuken/ExampleMod", "Anuken/ExampleJavaMod", "Anuken/ExampleKotlinMod", "Mesokrix/Vanilla-Upgraded", "RebornTrack970/uuidscrambler", "NemesisTheory/killer");
+    static final ObjectSet<String> blacklist = ObjectSet.with("Snow-of-Spirit-Fox-Mori/old-mod", "foxitOS/CMD-pack", "TheSaus/Cumdustry", "Anuken/ExampleMod", "Anuken/ExampleJavaMod", "Anuken/ExampleKotlinMod", "Mesokrix/Vanilla-Upgraded", "RebornTrack970/Multiplayernt", "RebornTrack970/Multiplayerntnt", "RebornTrack970/Destroyer", "RebornTrack970/Mindustrynt", "NemesisTheory/killer");
     static final Seq<String> nameBlacklist = Seq.with("o7", "pixaxeofpixie", "Iron-Miner", "EasyPlaySu", "guiYMOUR", "mishakorzik").map(s -> s.toLowerCase(Locale.ROOT));
     static final String[] topics = {"mindustry-mod"};
     static final int iconSize = 64;
