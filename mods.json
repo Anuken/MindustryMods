@@ -275,6 +275,17 @@
     "description": "# MI2-Utilities Java\n\n### Intro\n- [English](README.md) | [中文](README_zh.md)\n\nQOL Mod, powerful assists to vanilla gameplay. For destined Mindustry players.\n\n### Install\n\n- Method 1: \"Import from github\", with \"BlackDeluxeCat/MI2-Utilities-Java\". This makes reinstall available. (recommended)\n- Method 2: Get the latest release, download \"MI2-Utilities Java.jar\". Then \"Import from a file\" with the file.\n\nQQ Group(中文zh_cn) number: 875035496\n\n### Contribution\n- PRs: l10n, bug fix, new feature.\n- Issues: bug report, suggestion.\n\n---\n\n## Features(1.2.3c)\n\n#### MI2UI\n- Functions: one-click planning rebuild, distribution building reveal.\n- Logical FPS simulation.\n- AI-assist: auto mining, auto construct plans, auto self-repair, auto aiming.\n- Most of the map rules.\n- Wave info, force skipwave, wave health bars.\n- RTS Formation creating and selecting.\n- Most of MI2U's options.\n\n#### Core Info\n- Vanilla core info ++, charts of resource changes.\n- Unit counter.\n- Power net bars & net building analyse.\n- Switch to view other teams.\n\n#### MindowMap\n- Renderer based on vanilla.\n- Sensible zoomed to full map.\n- Player labels.\n- Clicking pans camera.\n- Space Scan world finder.\n- Logic Building Stats\n\n#### Map Info\n\n\n#### Logic Helper\n- Sort and fast typing var names, using delimiter.\n- Search & Replace.\n- Cut or Copy, and Paste.\n\n#### Emoji\n- Emoji book.\n\n#### Mindow2\nDraggable window for this mod. On the auto-hidden title bar, you can open settings dialog, minimize it, or tap the title to drag. For details, open settings and see the help pages of each Mindow2.\n\nPosition, snap, etc. can be saved through settings.\n\n#### Others\n- Smooth multiplayer cursors.\n- Block/Unit hp bar, logic lines, pathfind lines.\n- Disable wrecks, units, bullets rendering.\n- Distribution buildings interior reveal.\n- Modify block stat bars, make it following cursor.\n- 99.5% of changes can be turned off with options.\n- The settings stored at $Mindustry/mods/MI2U_Settings/.\n\n---\n\nEarly JS version: [BlackDeluxeCat/MI2-Utilities](https://github.com/BlackDeluxeCat/MI2-Utilities)\n\nMy friend did a lot of other functions, see [MinerTools](https://github.com/RlCCJ/MinerTools)."
   },
   {
+    "repo": "liplum/multicrafterlib",
+    "name": "MultiCrafter Lib",
+    "author": "[#42a5f5]Liplum[]",
+    "lastUpdated": "2023-07-27T15:39:08Z",
+    "stars": 35,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod library provides a multiple-recipe crafter to produce items, fluids, power or even heat for Json and JavaScript mods.\nPlease check the repository below to learn more.\nWork on both v136 and v137."
+  },
+  {
     "repo": "deltanedas/dev-mode",
     "name": "Developer Mode",
     "author": "deltanedas",
@@ -295,17 +306,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A fun mod that contains Animals, Plants, Natural disasters and a lot more!"
-  },
-  {
-    "repo": "liplum/multicrafterlib",
-    "name": "MultiCrafter Lib",
-    "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2023-07-27T15:39:08Z",
-    "stars": 34,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod library provides a multiple-recipe crafter to produce items, fluids, power or even heat for Json and JavaScript mods.\nPlease check the repository below to learn more.\nWork on both v136 and v137."
   },
   {
     "repo": "w1-beyek/rl_mindustry",
@@ -883,7 +883,7 @@
     "repo": "valigaming15/pyra-erekir",
     "name": "Pyra Erekir",
     "author": "\nAuthor: vali#5378\nCoder: Fresh791\nLead spriter: Otamamori#4716\n",
-    "lastUpdated": "2023-07-27T10:47:17Z",
+    "lastUpdated": "2023-07-27T17:01:47Z",
     "stars": 11,
     "minGameVersion": "140",
     "hasScripts": false,
@@ -1529,17 +1529,6 @@
     "description": "A heat and steam based mod."
   },
   {
-    "repo": "froomeeth/serilia",
-    "name": "Serilia",
-    "author": "FrooMeeth & Nullevoy",
-    "lastUpdated": "2023-07-26T12:31:40Z",
-    "stars": 6,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Serilia is a mod under development that adds 2 new planets with linked campaigns, Ahkar and Caliterra, where you'll have to travel between these planets to research necessary blocks/items to move on"
-  },
-  {
     "repo": "teamoct/erekir-music",
     "name": "Team Oct's Erekir Music",
     "author": "Team Oct",
@@ -1549,6 +1538,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds new music to Erekir.\n\nMusic by Saigo no-nozomi.\nProgrammed by Slotterleet."
+  },
+  {
+    "repo": "froomeeth/serilia",
+    "name": "Serilia",
+    "author": "FrooMeeth & Nullevoy",
+    "lastUpdated": "2023-07-27T16:48:27Z",
+    "stars": 6,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Serilia is a mod under development that adds 2 new planets with linked campaigns, Ahkar and Caliterra, where you'll have to travel between these planets to research necessary blocks/items to move on"
   },
   {
     "repo": "mythril382/rainpuddles",
@@ -4290,17 +4290,6 @@
     "description": "更多的玩法!可能会用很长很长时间\n我的模组群:587237182"
   },
   {
-    "repo": "heroblack303/stardustry",
-    "name": "Stardustry",
-    "author": "Heroblack303",
-    "lastUpdated": "2023-07-27T10:42:50Z",
-    "stars": 1,
-    "minGameVersion": "145.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Stardustry"
-  },
-  {
     "repo": "bluethecube/interality",
     "name": "Interality",
     "author": "BlueTheCube",
@@ -4310,6 +4299,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod."
+  },
+  {
+    "repo": "heroblack303/stardustry",
+    "name": "Stardustry",
+    "author": "Heroblack303",
+    "lastUpdated": "2023-07-27T16:54:59Z",
+    "stars": 1,
+    "minGameVersion": "145.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Stardustry"
   },
   {
     "repo": "pepa3/mindustrymod",
