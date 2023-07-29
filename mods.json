@@ -154,6 +154,17 @@
     "description": "Adds a dialog for turning images into processor schematics.\nRequires deltanedas/ui-lib."
   },
   {
+    "repo": "fresh791/fading-revelations",
+    "name": "Fading Revelations",
+    "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791 / .Frankie\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 / Froomeeth\n- Lore: iori / Fresh791\n- Cryogenic Gel, Igneous Alloy,\n  Multiblock-Crafter base model:\n  Null (Nullevoy)\n\nAnd more people!\nCheck the Discord!",
+    "lastUpdated": "2023-07-22T08:25:58Z",
+    "stars": 73,
+    "minGameVersion": "144.3",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\nA huge, fun & balanced content extension.\n\nPlease note that the Serpulo research tree has\nbeen moved into it's own tree because it was\ntoo large.\nTo get to the Fading Revelations Serpulo \nresearch tree, please switch to it the same way\nyou would switch between the Erekir and Serpulo\nresearch trees.\nOn that menu, a new button will be available \nthat takes you to the Fading Revelations \nSerpulo research tree. \n\nFeatures\nTwo new planets and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish (WIP)\n- Ukrainian (WIP)\n- Russian\n\n\nCheck Discord / GitHub \nfor more information!"
+  },
+  {
     "repo": "deltanedas/ui-lib",
     "name": "UI Lib",
     "author": "deltanedas",
@@ -506,6 +517,17 @@
     "description": "\n  # 功能\n\n  ---\n\n  ## UI\n  1. MinerToolsTable:\n     * 队伍信息:\n       * 队伍玩家数量(Tooltip显示基础队伍规则)\n       * 队伍单位显示\n       * 队伍全局电量(Tooltip显示详细电量情况)\n     * 一些有用的按钮:\n       * 暂停建造(仅手机)\n       * 自动升级传送带\n       * 重建方块\n       * 快捷投降\n     * 换队/跳波器\n     * 玩家列表:\n       * 所有玩家的名字\n       * 可锁定玩家视角(锁定的玩家控制炮塔时,会自动调整视角)\n       * 可切换到玩家视角\n       * 可一键投票踢出玩家\n     * 快捷蓝图\n     * 玩家AI:\n       * 挖矿AI\n       * 跟随AI\n\n  2. 聊天记录:\n     * 查询历史聊天记录\n     * 可以复制聊天记录(电脑:Ctrl+单击)\n\n  3. 更好的核心资源显示:\n     * 单位数量显示\n     * 物品每秒变化量显示\n     * 玩家预建消耗显示\n     * 可自定义的ui列数\n\n  4. 更好的信息面板:\n     * 单位,建筑,地板信息一起显示!\n     * 单位:\n       * 武器冷却状态\n     * 建筑:\n       * 物品详情\n     * 地板:\n       * 显示更详尽\n\n  ---\n\n  ## 画面\n  * 建筑:\n    * 选中:\n      * 异队选中信息\n      * 桥带连接详情\n    * 建筑血条\n    * 异队方块状态\n    * 构造方块耗材信息\n    * 附近炮塔警戒\n    * 物品炮塔子弹类型显示\n    * 单位工厂进度条\n\n  * 单位:\n    * 单位指示器(核心危险警告)\n    * 附近单位警戒\n\n    * 单位信息条:\n      * 血条\n      * 立场回复条\n      * 单位状态条\n      * 荷载条\n\n  * 玩家:\n    * 荷载拾放提示\n    * 玩家范围显示\n\n  ---\n\n  ## 其他小功能\n  * 进入游戏后,显示被ban的单位或方块\n  * UIScale的step修改\n  * 物品桥带可拿取物品\n  * 更多方块信息条:\n    * 血条: 血量显示更详细\n    * 进度条: 进度显示更详细\n\n  ---\n\n  # 其他\n  Mod的90%功均可在设置中打开或关闭!"
   },
   {
+    "repo": "echovespy/simplistic",
+    "name": "Simplistic - TexturePack",
+    "author": "EchoVespy",
+    "lastUpdated": "2022-10-28T21:49:56Z",
+    "stars": 17,
+    "minGameVersion": "138",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts"
+  },
+  {
     "repo": "flintyx/autoresearch",
     "name": "Auto Research",
     "author": "Flin",
@@ -649,6 +671,17 @@
     "description": "Mindustry Erekir mod moment"
   },
   {
+    "repo": "apszoldat/mindustry-mapping-utilities",
+    "name": "Mapping Utilities",
+    "author": "ApsZoldat",
+    "lastUpdated": "2023-06-02T17:48:02Z",
+    "stars": 14,
+    "minGameVersion": "144.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Small Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\nImprovements:\n\n- Mixed Tech Unlocked\n- More Rules Available\n- Better Cliff Editing\n- Numbered Teams Editing\n- Planet Background Editing\n- Any Brush Size\n\nCheck README.md in GitHub repo for more detailed information\n\n! Work In Progress !\nMore map making tools will be added in future"
+  },
+  {
     "repo": "shadowpazzo99/shadowdustry",
     "name": "ShadowDustry",
     "author": "ShadowPazzo#5003",
@@ -713,6 +746,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Roombas."
+  },
+  {
+    "repo": "hortisquash/hortiblocks",
+    "name": "horti blocks",
+    "author": "hortiSquash",
+    "lastUpdated": "2022-10-02T00:15:24Z",
+    "stars": 12,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Collection of joke blocks"
   },
   {
     "repo": "yuria-shikibe/gameinfoimager",
@@ -2577,7 +2621,7 @@
     "repo": "chaoticans-mindustry-modding-team/ca-mod",
     "name": "ca-mod",
     "author": "The chaoticans",
-    "lastUpdated": "2023-07-23T12:10:35Z",
+    "lastUpdated": "2023-07-28T23:07:08Z",
     "stars": 3,
     "minGameVersion": "143",
     "hasScripts": false,
@@ -2588,7 +2632,7 @@
     "repo": "chaoticans-mindustry-modding-team/new-content",
     "name": "New Units",
     "author": "Cle",
-    "lastUpdated": "2023-07-25T01:49:36Z",
+    "lastUpdated": "2023-07-28T23:52:31Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2814,6 +2858,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Sir, *mines copper*"
+  },
+  {
+    "repo": "lethiferal/sound-overhaul",
+    "name": "Sound Overhaul",
+    "author": "Lethiferal",
+    "lastUpdated": "2022-11-02T17:05:40Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds modest modifications to the default Mindustry sounds."
   },
   {
     "repo": "sakuralilly/trade-it",
@@ -3575,6 +3630,17 @@
     "description": "A little mod with a few minor additions.\n\nI made this mod because I missed the Serpulo-style bridges on Erekir, and my wife missed the item junctions.  It also includes an alternate incinerator that is more expensive to make but free to use, as we both would have preferred the incinerator have no upkeep cost once you build it.\n\nThe intention is that nothing should be game-breaking, but just be minor little quality-of-life additions."
   },
   {
+    "repo": "adamlolgaming/erekir-junctions",
+    "name": "erekir junctions",
+    "author": "Adamlol_gaming",
+    "lastUpdated": "2023-01-06T14:33:08Z",
+    "stars": 1,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "mod that adds serpulo junctions routers and bridges to erekir"
+  },
+  {
     "repo": "exploitation-team/gold-mod-remake",
     "name": "Gold mod Remake",
     "author": "Exploitation Team",
@@ -3903,6 +3969,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Test mod"
+  },
+  {
+    "repo": "keurhsevar-0977/turret-vodka",
+    "name": "Turret Vodka",
+    "author": "Keurhsevar",
+    "lastUpdated": "2023-05-13T22:53:51Z",
+    "stars": 1,
+    "minGameVersion": "138",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds new turrets, liquids and a new item. Turret Vodka - boosts turret firerate by 5x. LiqoCocaine - boosts turret firerate by 999x. Now obtainable without liquid sources! Not intended to be balanced in any way. Discord - Rogue Process#0977."
   },
   {
     "repo": "routerxdd/xsoverd-remake",
