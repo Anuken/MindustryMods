@@ -190,7 +190,7 @@
     "repo": "aeyama-mod/aeyama",
     "name": "Aeyama: The New World",
     "author": "FredyJabe & Jojo",
-    "lastUpdated": "2023-07-28T21:32:26Z",
+    "lastUpdated": "2023-07-29T13:29:18Z",
     "stars": 69,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -880,17 +880,6 @@
     "description": "A Mindustry builds including some classic ones are added to Mindustry v7!"
   },
   {
-    "repo": "valigaming15/pyra-erekir",
-    "name": "Pyra Erekir",
-    "author": "\nAuthor: vali#5378\nCoder: Fresh791\nLead spriter: Otamamori#4716\n",
-    "lastUpdated": "2023-07-28T09:37:21Z",
-    "stars": 11,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Pyratite focused mod which adds units turrets drills and factorys\nNOT the most balanced"
-  },
-  {
     "repo": "karlsonvive/a-bad-mindustry-mod",
     "name": "Definitely Balanced Conveyors",
     "author": "Rhoo",
@@ -922,6 +911,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Logic Debugger\n\n一个逻辑辅助工具\n\n原作DeltaNedas/ldb\n\nyaddrx2将其升级到了137，仅供学习交流使用\n\n当前版本：1.7.0\n\n更新日志\n\nv1.0.1\n将mod版本升为137\n\nv1.0.2\n取消ui-lib的前置\n\nv1.0.3\n逻辑码编辑板\n新增代码语句的文本形式编辑\n\nv1.0.4\n逻辑块变量面板\n变量更新闪烁\n增加逻辑块所连方块的显示\n\nv1.0.5\n内存块编辑板\n内存值更新闪烁\n新增内存值的二进制形式视察\n实现内存值的十六进制形式编辑\n\nv1.0.6\n新增代码插入相关操作\n实现从剪切板导入代码块到指定位置\n\nv1.0.7\n新增面板的折叠按钮\n修复学术端运行mod导致的面板移位或覆盖\n修复面板横向抖动的bug\n\nv1.0.8\n单步调试面板\n实现代码单步运行调试\n\nv1.1.0\n新增调试面板设置断点\n实现运行到下一断点操作\n\nv1.1.1\n新增变量位置指示器\n显示单位变量的flag\n\nv1.2\n新增调试面板的运行位置追踪\n新增功能标签\n\nv1.3\n位置指示器增加变量名\n\nv1.4\n内存块面板增加内存值导入导出\n\nv1.5\n变量面板增加变量值导出\n\nv1.6\n内存面板的变量名筛选\n内存值导出筛选器\n\nv1.7\n增加信息板复制与导入"
+  },
+  {
+    "repo": "valigaming15/pyra-erekir",
+    "name": "Pyra Erekir",
+    "author": "\nAuthor: vali#5378\nCoder: Fresh791\nLead spriter: Otamamori#4716\n",
+    "lastUpdated": "2023-07-28T09:37:21Z",
+    "stars": 10,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Pyratite focused mod which adds units turrets drills and factorys\nNOT the most balanced"
   },
   {
     "repo": "deltanedas/mobile-ui",
@@ -2632,7 +2632,7 @@
     "repo": "chaoticans-mindustry-modding-team/ca-mod",
     "name": "ca-mod",
     "author": "The chaoticans",
-    "lastUpdated": "2023-07-29T12:00:46Z",
+    "lastUpdated": "2023-07-29T12:47:47Z",
     "stars": 3,
     "minGameVersion": "143",
     "hasScripts": false,
@@ -3424,7 +3424,7 @@
     "repo": "liudai2011/exploring",
     "name": "Exploring",
     "author": "LiuDai",
-    "lastUpdated": "2023-07-29T11:56:16Z",
+    "lastUpdated": "2023-07-29T12:44:48Z",
     "stars": 2,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -4312,17 +4312,6 @@
     "description": "A Mindustry mod."
   },
   {
-    "repo": "aforgetfulness/towerdefense",
-    "name": "Tower Defense",
-    "author": "Forgetfulness",
-    "lastUpdated": "2023-07-28T18:23:12Z",
-    "stars": 1,
-    "minGameVersion": "140.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Mod with tower defense maps and objects"
-  },
-  {
     "repo": "mq-1175/ranai",
     "name": "ranai",
     "author": "M.Q.",
@@ -4348,12 +4337,23 @@
     "repo": "antlrr/bitches",
     "name": "Getting Bitches",
     "author": "Antlrr",
-    "lastUpdated": "2023-07-29T12:00:18Z",
+    "lastUpdated": "2023-07-29T13:49:16Z",
     "stars": 1,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": false,
     "description": "adds bitches and some other things"
+  },
+  {
+    "repo": "aforgetfulness/towerdefense",
+    "name": "Tower Defense",
+    "author": "Forgetfulness",
+    "lastUpdated": "2023-07-29T13:50:38Z",
+    "stars": 1,
+    "minGameVersion": "140.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Mod with tower defense maps and objects"
   },
   {
     "repo": "pepa3/mindustrymod",
@@ -5346,17 +5346,6 @@
     "description": "\r\nNo techs and no missions. Planets only.  \r\ngenerator changed to SerpuloPlanetGenerator via javaScript.\r\nThanks zerg for the source code.\r\n\r\nlast work done: 19 june 2023\r\ntask: fixing bugs when running Mindustry v145 \r\n\r\nFeel free to reverse-engineer. \r\nClick on Repo > scripts > pl.js for inner workings/ \r\n"
   },
   {
-    "repo": "dryehm/stahlarme",
-    "name": "Stahlarme",
-    "author": "Dryehm_",
-    "lastUpdated": "2023-07-17T09:57:09Z",
-    "stars": 0,
-    "minGameVersion": "140",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Weapons."
-  },
-  {
     "repo": "smolkeys/bundles-extension-yellow-java",
     "name": "Bundles Extension (Yellow)",
     "author": "SMOLKEYS",
@@ -5454,5 +5443,27 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "adds 65-85 popups on startup"
+  },
+  {
+    "repo": "koctz34/space-expansion",
+    "name": "Space Expansion",
+    "author": "M I S S I L E",
+    "lastUpdated": "2023-07-29T12:17:20Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Complete tasks, fight, control ships, in space"
+  },
+  {
+    "repo": "dryehm/stahlarme",
+    "name": "Stahlarme",
+    "author": "Dryehm_",
+    "lastUpdated": "2023-07-29T13:36:00Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Weapons."
   }
 ]
