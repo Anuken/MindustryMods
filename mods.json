@@ -487,7 +487,7 @@
     "repo": "unionofsovietsocialistrepublics/spore-biomechs",
     "name": "Spore Biomechs",
     "author": "Water molecules",
-    "lastUpdated": "2023-08-08T06:05:25Z",
+    "lastUpdated": "2023-08-08T09:15:02Z",
     "stars": 20,
     "minGameVersion": "140",
     "hasScripts": true,
@@ -913,17 +913,6 @@
     "description": "Logic Debugger\n\n一个逻辑辅助工具\n\n原作DeltaNedas/ldb\n\nyaddrx2将其升级到了137，仅供学习交流使用\n\n当前版本：1.7.0\n\n更新日志\n\nv1.0.1\n将mod版本升为137\n\nv1.0.2\n取消ui-lib的前置\n\nv1.0.3\n逻辑码编辑板\n新增代码语句的文本形式编辑\n\nv1.0.4\n逻辑块变量面板\n变量更新闪烁\n增加逻辑块所连方块的显示\n\nv1.0.5\n内存块编辑板\n内存值更新闪烁\n新增内存值的二进制形式视察\n实现内存值的十六进制形式编辑\n\nv1.0.6\n新增代码插入相关操作\n实现从剪切板导入代码块到指定位置\n\nv1.0.7\n新增面板的折叠按钮\n修复学术端运行mod导致的面板移位或覆盖\n修复面板横向抖动的bug\n\nv1.0.8\n单步调试面板\n实现代码单步运行调试\n\nv1.1.0\n新增调试面板设置断点\n实现运行到下一断点操作\n\nv1.1.1\n新增变量位置指示器\n显示单位变量的flag\n\nv1.2\n新增调试面板的运行位置追踪\n新增功能标签\n\nv1.3\n位置指示器增加变量名\n\nv1.4\n内存块面板增加内存值导入导出\n\nv1.5\n变量面板增加变量值导出\n\nv1.6\n内存面板的变量名筛选\n内存值导出筛选器\n\nv1.7\n增加信息板复制与导入"
   },
   {
-    "repo": "valigaming15/pyra-erekir",
-    "name": "Pyra Erekir",
-    "author": "\nAuthor: \"[#ff6600]vali#5378[]\"\nCoder: Fresh791\nSpriter and Coder: \"[purple]Otamamori#4716[]\"\n",
-    "lastUpdated": "2023-08-06T17:00:51Z",
-    "stars": 10,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Pyratite focused mod which adds units turrets drills and factorys\nNOT the most balanced"
-  },
-  {
     "repo": "mindustryextended13/materialenergy",
     "name": "Material Energy",
     "author": "TheEE145",
@@ -933,6 +922,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod that adds ME network"
+  },
+  {
+    "repo": "valigaming15/pyra-erekir",
+    "name": "Pyra Erekir",
+    "author": "\nAuthor: \"[#ff6600]vali#5378[]\"\nCoder: Fresh791\nSpriter and Coder: \"[purple]Otamamori#4716[]\"\n",
+    "lastUpdated": "2023-08-08T09:22:05Z",
+    "stars": 10,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Pyratite focused mod which adds units turrets drills and factorys\nNOT the most balanced"
   },
   {
     "repo": "deltanedas/mobile-ui",
@@ -2159,7 +2159,7 @@
     "repo": "redonomo-team/redonomo",
     "name": "Rednomium",
     "author": "redonomo Team",
-    "lastUpdated": "2023-08-07T19:14:08Z",
+    "lastUpdated": "2023-08-08T10:12:54Z",
     "stars": 4,
     "minGameVersion": "140",
     "hasScripts": false,
@@ -4389,21 +4389,10 @@
     "description": "Adds some rather powerful and fun powerups activated by typing out the right sequence of letters while in-game.\n\nPowerups include:\n[yellow]-Time stop\n-God mode\n-Konami code\n-Thanos snap\nand more...\n\n[white]Can be used to cheat your way through the game.\n\n[OPTIONAL] Type the cheat codes in the console to prevent activating keybinds, this is not required.\n\n[red]READ GITHUB REPO FOR CHEAT LIST"
   },
   {
-    "repo": "racti2037/starry-test-mod",
-    "name": "Starry test mod",
-    "author": "Starry team",
-    "lastUpdated": "2023-08-08T07:10:42Z",
-    "stars": 1,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "this mod needed to the testing a conten "
-  },
-  {
     "repo": "mindustryextended13/materialenergy2",
     "name": "Material Energy 2",
     "author": "TheEE145",
-    "lastUpdated": "2023-08-08T07:16:35Z",
+    "lastUpdated": "2023-08-08T09:40:48Z",
     "stars": 1,
     "minGameVersion": "140",
     "hasScripts": false,
@@ -4411,10 +4400,21 @@
     "description": "A Mindustry Java mod."
   },
   {
+    "repo": "racti2037/starry-test-mod",
+    "name": "Starry test mod",
+    "author": "Starry team",
+    "lastUpdated": "2023-08-08T10:13:55Z",
+    "stars": 1,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "this mod needed to the testing a conten "
+  },
+  {
     "repo": "antlrr/bitches",
     "name": "Getting Bitches",
     "author": "Antlrr",
-    "lastUpdated": "2023-08-08T07:48:59Z",
+    "lastUpdated": "2023-08-08T10:17:02Z",
     "stars": 1,
     "minGameVersion": "136",
     "hasScripts": false,
