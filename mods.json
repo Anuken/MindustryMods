@@ -2640,6 +2640,17 @@
     "description": "Scrap ores"
   },
   {
+    "repo": "sova444/compressing-mod",
+    "name": "compression",
+    "author": "sovakovrik",
+    "lastUpdated": "2023-08-10T12:28:02Z",
+    "stars": 3,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": ""
+  },
+  {
     "repo": "amateurpotion/nuclearjavamod",
     "name": "Nuclear Mod for Java",
     "author": "Namedo",
@@ -3399,17 +3410,6 @@
     "description": "This mod add smol and cute unit, I guess/nCredit to blob for drawing all sprite/nhhHhhhHhhH"
   },
   {
-    "repo": "otamamori917/axthrix-modded-java",
-    "name": "Axthrix",
-    "author": "Otamamori#4716\ncontributors:\n    BetaMindy/sk7725#6110| BoltBulletType.\n    MEEPofFaith#7277| AcceleratedTurret.\n    nullevoy#7763| Spriting Tips.\n    Monika#6030| Code clean up & starting blocks & bundles\n    Siede#6321| Status effect sprites",
-    "lastUpdated": "2023-08-08T03:16:10Z",
-    "stars": 2,
-    "minGameVersion": "144.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "vast array of content"
-  },
-  {
     "repo": "mindustryextended13/materialenergy2",
     "name": "Material Energy 2",
     "author": "TheEE145",
@@ -3419,17 +3419,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod."
-  },
-  {
-    "repo": "sova444/compressing-mod",
-    "name": "compression",
-    "author": "sovakovrik",
-    "lastUpdated": "2023-08-10T12:28:02Z",
-    "stars": 2,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": ""
   },
   {
     "repo": "agzam4/mindustry-mod",
@@ -3496,6 +3485,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "More math stuff"
+  },
+  {
+    "repo": "otamamori917/axthrix-modded-java",
+    "name": "Axthrix",
+    "author": "Otamamori#4716\ncontributors:\n    BetaMindy/sk7725#6110| BoltBulletType.\n    MEEPofFaith#7277| AcceleratedTurret.\n    nullevoy#7763| Spriting Tips.\n    Monika#6030| Code clean up & starting blocks & bundles\n    Siede#6321| Status effect sprites",
+    "lastUpdated": "2023-08-11T10:49:38Z",
+    "stars": 2,
+    "minGameVersion": "144.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "vast array of content"
   },
   {
     "repo": "explerhd/unnamedmods",
@@ -4158,17 +4158,6 @@
     "description": "new campaign and more"
   },
   {
-    "repo": "penguip/a-mindustry-mod",
-    "name": "Sentinel addon",
-    "author": "penguip",
-    "lastUpdated": "2023-06-30T16:08:48Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "It aims to add robotic entites (called sentinels)and some other content"
-  },
-  {
     "repo": "yoru-kitsune/craftdustry-ui-pack",
     "name": "Craftdustry - UI Pack",
     "author": "Yoru Kitsune",
@@ -4400,10 +4389,21 @@
     "description": "Test Mod. (1.0)"
   },
   {
+    "repo": "penguip/a-mindustry-mod",
+    "name": "Sentinel addon",
+    "author": "penguip",
+    "lastUpdated": "2023-08-11T11:09:43Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "It aims to add robotic entites (called sentinels)and some other content"
+  },
+  {
     "repo": "antlrr/bitches",
     "name": "Getting Bitches",
     "author": "Antlrr",
-    "lastUpdated": "2023-08-11T09:59:47Z",
+    "lastUpdated": "2023-08-11T11:32:28Z",
     "stars": 1,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -5412,17 +5412,6 @@
     "description": "Allows to build Serpulo core units in air factory"
   },
   {
-    "repo": "chinhonnang0000/asteroidgen",
-    "name": "asteroidgen",
-    "author": "chinhonnang0000",
-    "lastUpdated": "2023-07-22T05:09:12Z",
-    "stars": 0,
-    "minGameVersion": "141",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": " alpha v 0.10\r\nAsteroidgen generated using AsteroidGenerator. Named after AsteroidGenerator. \r\nIt has its own planet (and missions) and techtree.\n\n click repo for more details."
-  },
-  {
     "repo": "992040/mindustry_better_mindustry",
     "name": "mindustry_better_mindustry",
     "author": "992040",
@@ -5575,5 +5564,16 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\r\nNo techs and no missions. Planets only.  \r\ngenerator changed to SerpuloPlanetGenerator via javaScript.\r\nThanks zerg for the source code.\r\n\r\nlast work done: 19 june 2023\r\ntask: fixing bugs when running Mindustry v145 \r\n\r\nFeel free to reverse-engineer. \r\nClick on Repo > scripts > pl.js for inner workings/ \r\n"
+  },
+  {
+    "repo": "chinhonnang0000/asteroidgen",
+    "name": "asteroidgen",
+    "author": "chinhonnang0000",
+    "lastUpdated": "2023-08-11T11:32:53Z",
+    "stars": 0,
+    "minGameVersion": "141",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": " alpha v 0.10\r\nAsteroidgen generated using AsteroidGenerator. Named after AsteroidGenerator. \r\nIt has its own planet (and missions) and techtree.\n\n click repo for more details."
   }
 ]
