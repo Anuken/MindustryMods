@@ -476,7 +476,7 @@
     "repo": "unionofsovietsocialistrepublics/spore-biomechs",
     "name": "Spore Biomechs",
     "author": "Water molecules",
-    "lastUpdated": "2023-08-08T09:15:02Z",
+    "lastUpdated": "2023-08-11T09:34:36Z",
     "stars": 20,
     "minGameVersion": "140",
     "hasScripts": true,
@@ -704,17 +704,6 @@
     "description": "The ultimate form of the ultimate form. Multiplayer compatible."
   },
   {
-    "repo": "ferlern/extended-ui-v7",
-    "name": "extended UI",
-    "author": "wizer",
-    "lastUpdated": "2023-05-21T08:36:01Z",
-    "stars": 13,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "UNSTABLE V7 PORT. Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
-  },
-  {
     "repo": "routerxdd/erekir-extended",
     "name": "Erekir Extended",
     "author": "RouterXdd",
@@ -724,6 +713,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Add the new sectors and content on Erekir"
+  },
+  {
+    "repo": "ferlern/extended-ui-v7",
+    "name": "extended UI",
+    "author": "wizer",
+    "lastUpdated": "2023-08-11T08:37:08Z",
+    "stars": 13,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "UNSTABLE V7 PORT. Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> graphics -> extended UI.\n\nIf u have any bugs or ideas create an issue on github or contact me in discord: WiZeR1233#9336"
   },
   {
     "repo": "cynthion21x/prismatic",
@@ -1760,17 +1760,6 @@
     "description": "v1.4.4 Java"
   },
   {
-    "repo": "7003mars/pic2tri",
-    "name": "PicToTri",
-    "author": "Mars#7003",
-    "lastUpdated": "2023-08-10T09:29:15Z",
-    "stars": 5,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds a dialog for turning images into schematics"
-  },
-  {
     "repo": "situvngcd/mindustrymodtest",
     "name": "SVN Test mod",
     "author": "[#4488ff]SITUVNgcd[]",
@@ -1780,6 +1769,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
+  },
+  {
+    "repo": "7003mars/pic2tri",
+    "name": "PicToTri",
+    "author": "Mars#7003",
+    "lastUpdated": "2023-08-11T09:49:34Z",
+    "stars": 5,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a dialog for turning images into schematics"
   },
   {
     "repo": "deltanedas/radar",
@@ -3344,17 +3344,6 @@
     "description": "DISCORD: https://discord.gg/sGn9hvPgEE (join!)\n\nState: INDEV\nContent: SOME\nPlayable: TRUE"
   },
   {
-    "repo": "liudai2011/exploring",
-    "name": "Exploring",
-    "author": "LiuDai",
-    "lastUpdated": "2023-08-03T11:54:11Z",
-    "stars": 2,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "My first MindustryJava mod"
-  },
-  {
     "repo": "7003mars/bocchi-the-shield",
     "name": "Bocchi shield",
     "author": "mars",
@@ -3375,17 +3364,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Grind a lot less in the game."
-  },
-  {
-    "repo": "tripletoxic/math-stuff",
-    "name": "Math-stuff",
-    "author": "Triple-Toxic",
-    "lastUpdated": "2023-08-06T14:47:49Z",
-    "stars": 2,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "More math stuff"
   },
   {
     "repo": "zinq7/beacons-yay",
@@ -3443,17 +3421,6 @@
     "description": "A Mindustry Java mod."
   },
   {
-    "repo": "jirocab/olupis",
-    "name": "Nyfalis (Olupis)",
-    "author": "RushieWashie, Remington Thomas, Ethanol10, Siede, WMF Industries",
-    "lastUpdated": "2023-08-08T23:58:05Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "(⚠Work in progress⚠) Yet another planet mod"
-  },
-  {
     "repo": "sova444/compressing-mod",
     "name": "compression",
     "author": "sovakovrik",
@@ -3496,6 +3463,39 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Currently in development. Descend upon Nomine, a planet of stark snow and desolate deserts. Fend off its Legion that rules rampant."
+  },
+  {
+    "repo": "jirocab/olupis",
+    "name": "Nyfalis (Olupis)",
+    "author": "RushieWashie, Remington Thomas, Ethanol10, Siede, WMF Industries",
+    "lastUpdated": "2023-08-11T08:04:54Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "(⚠Work in progress⚠) Yet another planet mod"
+  },
+  {
+    "repo": "liudai2011/exploring",
+    "name": "Exploring",
+    "author": "LiuDai",
+    "lastUpdated": "2023-08-11T09:17:59Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "My first MindustryJava mod"
+  },
+  {
+    "repo": "tripletoxic/math-stuff",
+    "name": "Math-stuff",
+    "author": "Triple-Toxic",
+    "lastUpdated": "2023-08-11T09:33:27Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "More math stuff"
   },
   {
     "repo": "explerhd/unnamedmods",
@@ -4378,17 +4378,6 @@
     "description": "this mod needed to the testing a conten "
   },
   {
-    "repo": "redmountain0/zephirum",
-    "name": "Zephirum",
-    "author": "RedMountain",
-    "lastUpdated": "2023-08-10T13:48:48Z",
-    "stars": 1,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Test Mod. (1.0)"
-  },
-  {
     "repo": "skulzyetagain/firstmod",
     "name": "Titans Awoken",
     "author": "Rosa/Skulz",
@@ -4400,10 +4389,21 @@
     "description": "Small mod that keeps adding stuff"
   },
   {
+    "repo": "redmountain0/zephirum",
+    "name": "Zephirum",
+    "author": "RedMountain",
+    "lastUpdated": "2023-08-11T09:39:32Z",
+    "stars": 1,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Test Mod. (1.0)"
+  },
+  {
     "repo": "antlrr/bitches",
     "name": "Getting Bitches",
     "author": "Antlrr",
-    "lastUpdated": "2023-08-11T04:28:40Z",
+    "lastUpdated": "2023-08-11T09:59:47Z",
     "stars": 1,
     "minGameVersion": "136",
     "hasScripts": false,
