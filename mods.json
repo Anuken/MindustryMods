@@ -26,7 +26,7 @@
     "name": "New Horizon",
     "author": "Yuria",
     "lastUpdated": "2023-08-11T06:53:03Z",
-    "stars": 258,
+    "stars": 259,
     "minGameVersion": "145.1",
     "hasScripts": false,
     "hasJava": true,
@@ -869,6 +869,17 @@
     "description": "This mod plays soundtracks from the game Halo 3: ODST. \n\nWarning: This is a heavy mod, download using Wi-Fi is recommended."
   },
   {
+    "repo": "teamviscott/modprojectviscott",
+    "name": "Project Viscott",
+    "author": "CREDITS: \nSpriters : Ethanol10, ThomasThings \n----------------------------\nSfx/Music : Vdoble MSG , TempoAlch3mist \n----------------------------\nProgrammers : Siede ,Manuwar ,Otamamori ,Kapzduke \n----------------------------\nMappers : Nicodium \n----------------------------\n \n Special thanks to MEEPofFaith for creating the pseudo3d system.",
+    "lastUpdated": "2023-08-05T11:23:57Z",
+    "stars": 11,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[00ffbf]Project viscott is a mindustry mod that adds a \nnew Planet to the campaign, [f8ff78]Vercilus, and gives the player a new and unique gameplay experience \n\nThis mod is still in development. \n Expect it to have some slight balancing issues"
+  },
+  {
     "repo": "jhrushbe/moardustry",
     "name": "MOARdustry",
     "author": "Jhrushbe",
@@ -922,17 +933,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Logic Debugger\n\n一个逻辑辅助工具\n\n原作DeltaNedas/ldb\n\nyaddrx2将其升级到了137，仅供学习交流使用\n\n当前版本：1.7.0\n\n更新日志\n\nv1.0.1\n将mod版本升为137\n\nv1.0.2\n取消ui-lib的前置\n\nv1.0.3\n逻辑码编辑板\n新增代码语句的文本形式编辑\n\nv1.0.4\n逻辑块变量面板\n变量更新闪烁\n增加逻辑块所连方块的显示\n\nv1.0.5\n内存块编辑板\n内存值更新闪烁\n新增内存值的二进制形式视察\n实现内存值的十六进制形式编辑\n\nv1.0.6\n新增代码插入相关操作\n实现从剪切板导入代码块到指定位置\n\nv1.0.7\n新增面板的折叠按钮\n修复学术端运行mod导致的面板移位或覆盖\n修复面板横向抖动的bug\n\nv1.0.8\n单步调试面板\n实现代码单步运行调试\n\nv1.1.0\n新增调试面板设置断点\n实现运行到下一断点操作\n\nv1.1.1\n新增变量位置指示器\n显示单位变量的flag\n\nv1.2\n新增调试面板的运行位置追踪\n新增功能标签\n\nv1.3\n位置指示器增加变量名\n\nv1.4\n内存块面板增加内存值导入导出\n\nv1.5\n变量面板增加变量值导出\n\nv1.6\n内存面板的变量名筛选\n内存值导出筛选器\n\nv1.7\n增加信息板复制与导入"
-  },
-  {
-    "repo": "teamviscott/modprojectviscott",
-    "name": "Project Viscott",
-    "author": "CREDITS: \nSpriters : Ethanol10, ThomasThings \n----------------------------\nSfx/Music : Vdoble MSG , TempoAlch3mist \n----------------------------\nProgrammers : Siede ,Manuwar ,Otamamori ,Kapzduke \n----------------------------\nMappers : Nicodium \n----------------------------\n \n Special thanks to MEEPofFaith for creating the pseudo3d system.",
-    "lastUpdated": "2023-08-05T11:23:57Z",
-    "stars": 10,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[00ffbf]Project viscott is a mindustry mod that adds a \nnew Planet to the campaign, [f8ff78]Vercilus, and gives the player a new and unique gameplay experience \n\nThis mod is still in development. \n Expect it to have some slight balancing issues"
   },
   {
     "repo": "ra2exe/saturation-firepower",
@@ -3520,17 +3520,6 @@
     "description": "(⚠Work in progress⚠) Yet another planet mod"
   },
   {
-    "repo": "liudai2011/exploring",
-    "name": "Exploring",
-    "author": "LiuDai",
-    "lastUpdated": "2023-08-14T12:16:43Z",
-    "stars": 2,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "My first MindustryJava mod"
-  },
-  {
     "repo": "notmeepoffaith/stupid-stash",
     "name": "Stupid Stash",
     "author": "notMEEPoffaith",
@@ -3551,6 +3540,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "DISCORD: https://discord.gg/sGn9hvPgEE (join!)\n\nState: INDEV\nContent: SOME\nPlayable: TRUE"
+  },
+  {
+    "repo": "liudai2011/exploring",
+    "name": "Exploring",
+    "author": "LiuDai",
+    "lastUpdated": "2023-08-16T13:23:40Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "My first MindustryJava mod"
   },
   {
     "repo": "explerhd/unnamedmods",
@@ -4411,17 +4411,6 @@
     "description": "Expansion mod. Alpha stage."
   },
   {
-    "repo": "hina2901/drills-and-mills",
-    "name": "drills and mills mod",
-    "author": "Hina2901",
-    "lastUpdated": "2023-08-16T07:52:25Z",
-    "stars": 1,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Nothing to see here!"
-  },
-  {
     "repo": "antlrr/bitches",
     "name": "Getting Bitches",
     "author": "Antlrr",
@@ -4436,12 +4425,23 @@
     "repo": "racti2037/starry-test-mod",
     "name": "Starry test mod",
     "author": "Starry team",
-    "lastUpdated": "2023-08-16T10:57:01Z",
+    "lastUpdated": "2023-08-16T13:09:08Z",
     "stars": 1,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": false,
     "description": "this mod needed to the testing a conten "
+  },
+  {
+    "repo": "hina2901/drills-and-mills",
+    "name": "drills and mills mod",
+    "author": "Hina2901",
+    "lastUpdated": "2023-08-16T13:59:18Z",
+    "stars": 1,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Nothing to see here!"
   },
   {
     "repo": "pepa3/mindustrymod",
