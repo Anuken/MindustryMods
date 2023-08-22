@@ -26,7 +26,7 @@
     "name": "New Horizon",
     "author": "Yuria",
     "lastUpdated": "2023-08-11T06:53:03Z",
-    "stars": 260,
+    "stars": 261,
     "minGameVersion": "145.1",
     "hasScripts": false,
     "hasJava": true,
@@ -726,6 +726,17 @@
     "description": "The ultimate form of the ultimate form. Multiplayer compatible."
   },
   {
+    "repo": "yuria-shikibe/gameinfoimager",
+    "name": "Game Info Imager",
+    "author": "Yuria",
+    "lastUpdated": "2023-01-20T01:50:39Z",
+    "stars": 13,
+    "minGameVersion": "141.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Show the range of turrets and units.\nShow the units the next wave will spawn."
+  },
+  {
     "repo": "routerxdd/erekir-extended",
     "name": "Erekir Extended",
     "author": "RouterXdd",
@@ -757,17 +768,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Roombas."
-  },
-  {
-    "repo": "yuria-shikibe/gameinfoimager",
-    "name": "Game Info Imager",
-    "author": "Yuria",
-    "lastUpdated": "2023-01-20T01:50:39Z",
-    "stars": 12,
-    "minGameVersion": "141.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Show the range of turrets and units.\nShow the units the next wave will spawn."
   },
   {
     "repo": "mnemotechnician/new-controls-public",
@@ -2222,17 +2222,6 @@
     "description": "Mindustry modding utilities to make mod development easier."
   },
   {
-    "repo": "sova444/compressing-mod",
-    "name": "compression",
-    "author": "sovakovrik",
-    "lastUpdated": "2023-08-19T20:27:39Z",
-    "stars": 4,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": ""
-  },
-  {
     "repo": "redonomo-team/colorspectrum",
     "name": "Color Spectrum",
     "author": "redonomo Team",
@@ -2242,6 +2231,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "The mod of fight 4 colors"
+  },
+  {
+    "repo": "sova444/compressing-mod",
+    "name": "compression",
+    "author": "sovakovrik",
+    "lastUpdated": "2023-08-22T17:55:17Z",
+    "stars": 4,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": ""
   },
   {
     "repo": "mythril382/self-destruct-core",
@@ -4455,17 +4455,6 @@
     "description": "Adds some rather powerful and fun powerups activated by typing out the right sequence of letters while in-game.\n\nPowerups include:\n[yellow]-Time stop\n-God mode\n-Konami code\n-Thanos snap\nand more...\n\n[white]Can be used to cheat your way through the game.\n\n[OPTIONAL] Type the cheat codes in the console to prevent activating keybinds, this is not required.\n\n[red]READ GITHUB REPO FOR CHEAT LIST"
   },
   {
-    "repo": "skulzyetagain/firstmod",
-    "name": "Titans Awoken",
-    "author": "Rosa/Skulz",
-    "lastUpdated": "2023-08-19T12:28:59Z",
-    "stars": 1,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Small mod that keeps adding stuff"
-  },
-  {
     "repo": "xaphironius/yellow-dawn-expansion-mod",
     "name": "Yellow Dawn: Expansion Mod",
     "author": "Xaphiron",
@@ -4499,10 +4488,21 @@
     "description": "Use to automatically unlock hidden content"
   },
   {
+    "repo": "skulzyetagain/firstmod",
+    "name": "Titans Awoken",
+    "author": "Rosa/Skulz",
+    "lastUpdated": "2023-08-22T16:47:10Z",
+    "stars": 1,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Small mod that keeps adding stuff"
+  },
+  {
     "repo": "mindustryextended13/geocorpindustries",
     "name": "GeoCorp Industries",
     "author": "TheEE145",
-    "lastUpdated": "2023-08-22T15:28:17Z",
+    "lastUpdated": "2023-08-22T17:04:47Z",
     "stars": 1,
     "minGameVersion": "140",
     "hasScripts": false,
