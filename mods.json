@@ -26,7 +26,7 @@
     "name": "New Horizon",
     "author": "Yuria",
     "lastUpdated": "2023-08-23T12:32:15Z",
-    "stars": 264,
+    "stars": 265,
     "minGameVersion": "145.1",
     "hasScripts": false,
     "hasJava": true,
@@ -122,14 +122,14 @@
   },
   {
     "repo": "sharlottes/informatis",
-    "name": "Informatis",
-    "author": "Sharlotte",
+    "name": "Random Planet v0.4",
+    "author": "PiggyChu620",
     "lastUpdated": "2023-09-02T08:28:35Z",
     "stars": 85,
-    "minGameVersion": "145.1",
+    "minGameVersion": "140",
     "hasScripts": false,
     "hasJava": true,
-    "description": "The mod displays more information in-game, such as unit/building, wave, core, tile, item/unit total info etc"
+    "description": "Randomly generate a planet and its sectors.\nIt's a mixtech mod, I myself don't like the idea of \"Oh, you can only use these things here, and you can only use those things there, bruh, bruh, bruh!\", so I make one myself, if you don't like mixtech and think it's \"unbalanced\" and \"boring\", then please go away, much appreciated!"
   },
   {
     "repo": "aeyama-mod/aeyama",
@@ -207,17 +207,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Mod that adds a manual page library. RTFM in the About menu.\nComes with documentation of vanilla'a Logic system.\nOptionally requires deltanedas/ui-lib for extra buttons.\npt_BR translations by King-BR"
-  },
-  {
-    "repo": "what42pizza/mindustry-production-mod",
-    "name": "Mindustry-Production-Mod",
-    "author": "What42Pizza",
-    "lastUpdated": "2023-09-01T02:23:09Z",
-    "stars": 69,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod gives you iron, steel, aluminum, oil processing, and alternative ways of generating materials like titanium and thorium."
   },
   {
     "repo": "meepoffaith/prog-mats-java",
@@ -441,14 +430,14 @@
   },
   {
     "repo": "anuken/wind3",
-    "name": "wind3",
-    "author": "Anuke (real)",
+    "name": "Spore biometh plus",
+    "author": "Water molecues",
     "lastUpdated": "2022-09-21T13:53:50Z",
     "stars": 23,
-    "minGameVersion": "136",
+    "minGameVersion": "144",
     "hasScripts": false,
     "hasJava": false,
-    "description": "No description provided."
+    "description": "Expansion for spore biometh, required mods: spore biomech (duh) and magnification"
   },
   {
     "repo": "sporrus/randommindustry",
@@ -979,17 +968,6 @@
     "description": "Logic Debugger\n\n一个逻辑辅助工具\n\n原作DeltaNedas/ldb\n\nyaddrx2将其升级到了137，仅供学习交流使用\n\n当前版本：1.7.0\n\n更新日志\n\nv1.0.1\n将mod版本升为137\n\nv1.0.2\n取消ui-lib的前置\n\nv1.0.3\n逻辑码编辑板\n新增代码语句的文本形式编辑\n\nv1.0.4\n逻辑块变量面板\n变量更新闪烁\n增加逻辑块所连方块的显示\n\nv1.0.5\n内存块编辑板\n内存值更新闪烁\n新增内存值的二进制形式视察\n实现内存值的十六进制形式编辑\n\nv1.0.6\n新增代码插入相关操作\n实现从剪切板导入代码块到指定位置\n\nv1.0.7\n新增面板的折叠按钮\n修复学术端运行mod导致的面板移位或覆盖\n修复面板横向抖动的bug\n\nv1.0.8\n单步调试面板\n实现代码单步运行调试\n\nv1.1.0\n新增调试面板设置断点\n实现运行到下一断点操作\n\nv1.1.1\n新增变量位置指示器\n显示单位变量的flag\n\nv1.2\n新增调试面板的运行位置追踪\n新增功能标签\n\nv1.3\n位置指示器增加变量名\n\nv1.4\n内存块面板增加内存值导入导出\n\nv1.5\n变量面板增加变量值导出\n\nv1.6\n内存面板的变量名筛选\n内存值导出筛选器\n\nv1.7\n增加信息板复制与导入"
   },
   {
-    "repo": "froomeeth/serilia",
-    "name": "Serilia",
-    "author": "FrooMeeth & Nullevoy",
-    "lastUpdated": "2023-08-27T16:07:52Z",
-    "stars": 10,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Serilia is a mod under development that adds 2 new planets with linked campaigns, Ahkar and Caliterra, where you'll have to travel between these planets to research necessary blocks/items to move on\n -Thanks to:\n  Bal (Playtester)"
-  },
-  {
     "repo": "valigaming15/pyra-erekir",
     "name": "Pyra Erekir",
     "author": "\nAuthor: \"[#ff6600]vali#5378[]\"\nCoder: Fresh791\nSpriter and Coder: \"[purple]Otamamori#4716[]\"\n",
@@ -999,6 +977,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Pyratite focused mod which adds units turrets drills and factorys\nNOT the most balanced"
+  },
+  {
+    "repo": "froomeeth/serilia",
+    "name": "Serilia",
+    "author": "FrooMeeth & Nullevoy",
+    "lastUpdated": "2023-09-02T13:43:06Z",
+    "stars": 10,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Serilia is a mod under development that adds 2 new planets with linked campaigns, Ahkar and Caliterra, where you'll have to travel between these planets to research necessary blocks/items to move on\n -Thanks to:\n  Bal (Playtester)"
   },
   {
     "repo": "deltanedas/mobile-ui",
@@ -1881,17 +1870,6 @@
     "description": "The mod of fight 4 colors"
   },
   {
-    "repo": "agzam4/mindustry-mod",
-    "name": "Agzam's Mod",
-    "author": "Agzam4",
-    "lastUpdated": "2023-09-01T16:39:44Z",
-    "stars": 5,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Additional functionality"
-  },
-  {
     "repo": "stacktrace-error/gas-colorblindness-pack",
     "name": "Electrolyzer Colorblindness Fix",
     "author": "null",
@@ -1901,6 +1879,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds transpartent letters to the electrolyzer sprite like in the mod's icon. That's it. \nA preview can be found on the mod repository."
+  },
+  {
+    "repo": "agzam4/mindustry-mod",
+    "name": "Agzam's Mod",
+    "author": "Agzam4",
+    "lastUpdated": "2023-09-02T13:53:39Z",
+    "stars": 5,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Additional functionality"
   },
   {
     "repo": "deltanedas/radar",
@@ -2797,10 +2786,10 @@
     "repo": "taggamer555/omegazero",
     "name": "Ω0",
     "author": "KillerIKY - lead dev\nRenale - testing and some ideas\nAlvar - balancing\nNeonFlames - helped with getting used to GitHub",
-    "lastUpdated": "2023-09-02T11:08:45Z",
+    "lastUpdated": "2023-09-02T13:02:11Z",
     "stars": 3,
     "minGameVersion": "136",
-    "hasScripts": false,
+    "hasScripts": true,
     "hasJava": false,
     "description": "DISCORD: https://discord.gg/sGn9hvPgEE (join!)\n\nState: INDEV\nContent: SOME\nPlayable: TRUE"
   },
@@ -2913,6 +2902,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Just a mod to add displays without borders, for more logic shenanigans."
+  },
+  {
+    "repo": "bin-tenkuu/mindustry-morelogicmod",
+    "name": "更多逻辑",
+    "author": "bin",
+    "lastUpdated": "2022-08-06T04:27:27Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "添加更多逻辑条：打印缓存处理逻辑"
   },
   {
     "repo": "mythril382/morsecode",
@@ -3311,17 +3311,6 @@
     "description": "Invisible Blocks Texture Pack.\nConvenience Mode\n\nThanks To\nss심\nsk7725"
   },
   {
-    "repo": "piggychu620/mindustryrandomplanet",
-    "name": "Random Planet v0.4",
-    "author": "PiggyChu620",
-    "lastUpdated": "2023-07-04T17:08:12Z",
-    "stars": 2,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Randomly generate a planet and its sectors.\nIt's a mixtech mod, I myself don't like the idea of \"Oh, you can only use these things here, and you can only use those things there, bruh, bruh, bruh!\", so I make one myself, if you don't like mixtech and think it's \"unbalanced\" and \"boring\", then please go away, much appreciated!"
-  },
-  {
     "repo": "kubikaugustyn/mindustrytoolkit",
     "name": "Mindustry Toolkit",
     "author": "Jakub Augustýn",
@@ -3619,17 +3608,6 @@
     "description": "A Mindusry Java Mods thai I working on"
   },
   {
-    "repo": "bin-tenkuu/mindustry-morelogicmod",
-    "name": "更多逻辑",
-    "author": "bin",
-    "lastUpdated": "2022-08-06T04:27:27Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "添加更多逻辑条：打印缓存处理逻辑"
-  },
-  {
     "repo": "teaeempire/gghv7",
     "name": "GGH2.4",
     "author": "TeaGryn",
@@ -3727,6 +3705,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "thorium conveyors added\r\n-40% faster than titanium conveyors\r\n-costs 2 thorium"
+  },
+  {
+    "repo": "mindustry-qcc/mindustry-magic-mod",
+    "name": "魔法工业",
+    "author": "Vshes",
+    "lastUpdated": "2022-11-21T11:50:39Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "纯纯的科技与魔法啊哥们"
   },
   {
     "repo": "vxmendozagithub/unfair-ererkir-mod",
@@ -4345,17 +4334,6 @@
     "description": "Extends everything and improves the endgame by adding an extra tier of stuff."
   },
   {
-    "repo": "spore-biometh-team/spore-expandsion",
-    "name": "Spore biometh plus",
-    "author": "Water molecues",
-    "lastUpdated": "2023-08-02T06:11:46Z",
-    "stars": 1,
-    "minGameVersion": "144",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Expansion for spore biometh, required mods: spore biomech (duh) and magnification"
-  },
-  {
     "repo": "spore-biometh-team/turningracist",
     "name": "Turning RACIST",
     "author": "Water molecues",
@@ -4695,17 +4673,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "No description provided."
-  },
-  {
-    "repo": "mindustry-qcc/mindustry-magic-mod",
-    "name": "魔法工业",
-    "author": "Vshes",
-    "lastUpdated": "2022-11-21T11:50:39Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "纯纯的科技与魔法啊哥们"
   },
   {
     "repo": "nfk1herous1/mindustry-mod",
