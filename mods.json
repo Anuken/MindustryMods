@@ -103,7 +103,7 @@
     "name": "Unlimited Armament Works",
     "author": "Eschatologue",
     "lastUpdated": "2023-07-27T11:04:24Z",
-    "stars": 89,
+    "stars": 90,
     "minGameVersion": "138",
     "hasScripts": false,
     "hasJava": true,
@@ -198,6 +198,17 @@
     "description": "Ah the Sapphirium, sounds good right? \nLet us introduce the list of content it includes: A hell amount of fraction turrets, brand new fraction units and in the end new interesting materials. \nIn next updates we want to introduce some pretty big expansion to erekir, stay tune.\n\nContentmaker & Helpers List: \nKostolom - Balance maker, map maker, source of ideas. Discord profile kostolom#9777 \nLaim - Spriter, map maker, a small helper with a code. Discord profile LaIm-Ik.json#5237\nLiplum - Java coder. Discord profile Liplum#2623 \nFerret Fantasy - Spriter. Discord profile sundered#8134 \nDr.Shramberg - A small script helper. Discord profile ADG021222#7589 \nFox1va - A small helper. Discord profile Fox1va_#3532 \nVervalamis - Spriter. Discord profile Saigo no-nozomi#1206 \n\nThanks everyone for support."
   },
   {
+    "repo": "what42pizza/mindustry-production-mod",
+    "name": "Mindustry-Production-Mod",
+    "author": "What42Pizza",
+    "lastUpdated": "2023-09-01T02:23:09Z",
+    "stars": 70,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod gives you iron, steel, aluminum, oil processing, and alternative ways of generating materials like titanium and thorium."
+  },
+  {
     "repo": "deltanedas/rtfm",
     "name": "RTFM",
     "author": "deltanedas",
@@ -207,17 +218,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Mod that adds a manual page library. RTFM in the About menu.\nComes with documentation of vanilla'a Logic system.\nOptionally requires deltanedas/ui-lib for extra buttons.\npt_BR translations by King-BR"
-  },
-  {
-    "repo": "what42pizza/mindustry-production-mod",
-    "name": "Mindustry-Production-Mod",
-    "author": "What42Pizza",
-    "lastUpdated": "2023-09-01T02:23:09Z",
-    "stars": 69,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod gives you iron, steel, aluminum, oil processing, and alternative ways of generating materials like titanium and thorium."
   },
   {
     "repo": "meepoffaith/prog-mats-java",
@@ -286,6 +286,17 @@
     "description": "# MI2-Utilities Java\n\n### Intro\n- [English](README.md) | [中文](README_zh.md)\n\nQOL Mod, powerful assists to vanilla gameplay. For destined Mindustry players.\n\n### Install\n\n- Method 1: \"Import from github\", with \"BlackDeluxeCat/MI2-Utilities-Java\". This makes reinstall available. (recommended)\n- Method 2: Get the latest release, download \"MI2-Utilities Java.jar\". Then \"Import from a file\" with the file.\n\nQQ Group(中文zh_cn) number: 875035496\n\n### Contribution\n- PRs: l10n, bug fix, new feature.\n- Issues: bug report, suggestion.\n\n---\n\n## Features(1.2.3c)\n\n#### MI2UI\n- Functions: one-click planning rebuild, distribution building reveal.\n- Logical FPS simulation.\n- AI-assist: auto mining, auto construct plans, auto self-repair, auto aiming.\n- Most of the map rules.\n- Wave info, force skipwave, wave health bars.\n- RTS Formation creating and selecting.\n- Most of MI2U's options.\n\n#### Core Info\n- Vanilla core info ++, charts of resource changes.\n- Unit counter.\n- Power net bars & net building analyse.\n- Switch to view other teams.\n\n#### MindowMap\n- Renderer based on vanilla.\n- Sensible zoomed to full map.\n- Player labels.\n- Clicking pans camera.\n- Space Scan world finder.\n- Logic Building Stats\n\n#### Map Info\n\n\n#### Logic Helper\n- Sort and fast typing var names, using delimiter.\n- Search & Replace.\n- Cut or Copy, and Paste.\n\n#### Emoji\n- Emoji book.\n\n#### Mindow2\nDraggable window for this mod. On the auto-hidden title bar, you can open settings dialog, minimize it, or tap the title to drag. For details, open settings and see the help pages of each Mindow2.\n\nPosition, snap, etc. can be saved through settings.\n\n#### Others\n- Smooth multiplayer cursors.\n- Block/Unit hp bar, logic lines, pathfind lines.\n- Disable wrecks, units, bullets rendering.\n- Distribution buildings interior reveal.\n- Modify block stat bars, make it following cursor.\n- 99.5% of changes can be turned off with options.\n- The settings stored at $Mindustry/mods/MI2U_Settings/.\n\n---\n\nEarly JS version: [BlackDeluxeCat/MI2-Utilities](https://github.com/BlackDeluxeCat/MI2-Utilities)\n\nMy friend did a lot of other functions, see [MinerTools](https://github.com/RlCCJ/MinerTools)."
   },
   {
+    "repo": "flintyx/animalia",
+    "name": "Animalia",
+    "author": "Flin",
+    "lastUpdated": "2023-02-18T17:29:06Z",
+    "stars": 35,
+    "minGameVersion": "141",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A fun mod that contains Animals, Plants, Natural disasters and a lot more!"
+  },
+  {
     "repo": "deltanedas/dev-mode",
     "name": "Developer Mode",
     "author": "deltanedas",
@@ -295,17 +306,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Lets you type into the console.\nPress F8 to open."
-  },
-  {
-    "repo": "flintyx/animalia",
-    "name": "Animalia",
-    "author": "Flin",
-    "lastUpdated": "2023-02-18T17:29:06Z",
-    "stars": 34,
-    "minGameVersion": "141",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A fun mod that contains Animals, Plants, Natural disasters and a lot more!"
   },
   {
     "repo": "liplum/multicrafterlib",
@@ -334,7 +334,7 @@
     "name": "Testing Utilities",
     "author": "MEEP of Faith",
     "lastUpdated": "2023-09-02T22:59:11Z",
-    "stars": 28,
+    "stars": 29,
     "minGameVersion": "145.1",
     "hasScripts": false,
     "hasJava": true,
@@ -2794,10 +2794,21 @@
     "description": "DISCORD: https://discord.gg/sGn9hvPgEE (join!)\n\nState: INDEV\nContent: SOME\nPlayable: TRUE"
   },
   {
+    "repo": "heroblack303/stardustry",
+    "name": "Stardustry",
+    "author": "Heroblack303",
+    "lastUpdated": "2023-09-03T13:23:53Z",
+    "stars": 3,
+    "minGameVersion": "145.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Stardustry"
+  },
+  {
     "repo": "chaoticans-mindustry-modding-team/ca-mod",
     "name": "ca-mod",
     "author": "The chaoticans",
-    "lastUpdated": "2023-09-03T20:59:32Z",
+    "lastUpdated": "2023-09-03T23:49:00Z",
     "stars": 3,
     "minGameVersion": "143",
     "hasScripts": false,
@@ -3177,6 +3188,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Extends the Serpulo Tech with monoliths, semi-guardians, turrets and all whatnot."
+  },
+  {
+    "repo": "stacktrace-error/the-hearth",
+    "name": "The Hearth",
+    "author": "Null",
+    "lastUpdated": "2023-01-29T17:44:10Z",
+    "stars": 2,
+    "minGameVersion": "140.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "mythril382/sardines",
@@ -3597,17 +3619,6 @@
     "description": "Invisible Blocks Texture Pack.\nConvenience Mode\n\nThanks To\nss심\nsk7725"
   },
   {
-    "repo": "heroblack303/stardustry",
-    "name": "Stardustry",
-    "author": "Heroblack303",
-    "lastUpdated": "2023-09-03T13:23:53Z",
-    "stars": 2,
-    "minGameVersion": "145.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Stardustry"
-  },
-  {
     "repo": "yoru-kitsune/simpledustry",
     "name": "Simpledustry - Texturepack",
     "author": "Yoru Kitsune",
@@ -3826,17 +3837,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "WIP mod"
-  },
-  {
-    "repo": "stacktrace-error/the-hearth",
-    "name": "The Hearth",
-    "author": "Null",
-    "lastUpdated": "2023-01-29T17:44:10Z",
-    "stars": 1,
-    "minGameVersion": "140.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "calebmonkey/mindustry-taller",
@@ -4552,6 +4552,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod."
+  },
+  {
+    "repo": "python-nerd-3/vanillex",
+    "name": "vanillEX",
+    "author": "sc3d (IGN Random Memer)",
+    "lastUpdated": "2023-09-03T13:11:08Z",
+    "stars": 1,
+    "minGameVersion": "136.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "[In very early development] A Mindustry mod that adds new features to the game that blend in with the original"
   },
   {
     "repo": "racti2037/starry-test-mod",
@@ -5773,16 +5784,5 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A simple mod. adds sources adds silicon stuff and more!"
-  },
-  {
-    "repo": "python-nerd-3/vanillex",
-    "name": "vanillEX",
-    "author": "sc3d (IGN Random Memer)",
-    "lastUpdated": "2023-09-03T13:11:08Z",
-    "stars": 0,
-    "minGameVersion": "136.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "[In very early development] A Mindustry mod that adds new features to the game that blend in with the original"
   }
 ]
