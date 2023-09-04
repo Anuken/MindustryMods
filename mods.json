@@ -1199,17 +1199,6 @@
     "description": "Selling drinks in Mindustry! CHEERS!\nProgrammer: [#42a5f5]Liplum[]\nPainter: TheTenthBot#9749 on Discord"
   },
   {
-    "repo": "slotterleet/hard-mode-mod",
-    "name": "Hard Mode",
-    "author": "Slotterleet",
-    "lastUpdated": "2022-10-08T14:41:24Z",
-    "stars": 8,
-    "minGameVersion": "139",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Makes campaign and the whole Mindustry gameplay harder. If you are a novice, don't download this mod.\n\nTurrets have double cost. Enemies have 1.6x health. Power generators are 33.(3)% less effective."
-  },
-  {
     "repo": "slava0135/refine",
     "name": "reFine",
     "author": "Slava0135",
@@ -2244,6 +2233,17 @@
     "description": "Adds a block detecting radar.\nRequires deltanedas/ui-lib."
   },
   {
+    "repo": "slotterleet/example-planet-json",
+    "name": "JSON Example Solar System!",
+    "author": "Slotterleet",
+    "lastUpdated": "2023-09-04T15:31:44Z",
+    "stars": 4,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This planet has (almost) every single field you can declare in JSON planets. Press the \"Repo\" button below to see the source code.\n\nThis is NOT meant to be played."
+  },
+  {
     "repo": "mythril382/self-destruct-core",
     "name": "Self-Destruct Core",
     "author": "Mythril",
@@ -2792,28 +2792,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Stardustry"
-  },
-  {
-    "repo": "chaoticans-mindustry-modding-team/ca-mod",
-    "name": "ca-mod",
-    "author": "The chaoticans",
-    "lastUpdated": "2023-09-04T11:40:16Z",
-    "stars": 3,
-    "minGameVersion": "143",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Mod for mindustry server                 "
-  },
-  {
-    "repo": "slotterleet/example-planet-json",
-    "name": "JSON Example Solar System!",
-    "author": "Slotterleet",
-    "lastUpdated": "2023-09-04T15:31:44Z",
-    "stars": 3,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This planet has (almost) every single field you can declare in JSON planets. Press the \"Repo\" button below to see the source code.\n\nThis is NOT meant to be played."
   },
   {
     "repo": "amateurpotion/nuclearjavamod",
@@ -3639,6 +3617,28 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a button to quickly take 15 of an item from the core.\nRight click (PC) or long press (mobile) to set the grabbed item.\nRequires deltanedas/ui-lib."
+  },
+  {
+    "repo": "chaoticans-mindustry-modding-team/ca-mod",
+    "name": "ca-mod",
+    "author": "The chaoticans",
+    "lastUpdated": "2023-09-04T11:40:16Z",
+    "stars": 2,
+    "minGameVersion": "143",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Mod for mindustry server                 "
+  },
+  {
+    "repo": "python-nerd-3/vanillex",
+    "name": "vanillEX",
+    "author": "sc3d (IGN Random Memer)",
+    "lastUpdated": "2023-09-04T19:34:55Z",
+    "stars": 2,
+    "minGameVersion": "136.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "[In very early development] A Mindustry mod that adds new features to the game that blend in with the original"
   },
   {
     "repo": "explerhd/unnamedmods",
@@ -4554,37 +4554,26 @@
     "description": "that star will probably be revoked"
   },
   {
-    "repo": "python-nerd-3/vanillex",
-    "name": "vanillEX",
-    "author": "sc3d (IGN Random Memer)",
-    "lastUpdated": "2023-09-03T13:11:08Z",
-    "stars": 1,
-    "minGameVersion": "136.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "[In very early development] A Mindustry mod that adds new features to the game that blend in with the original"
-  },
-  {
-    "repo": "racti2037/starry-test-mod",
-    "name": "Starry test mod",
-    "author": "Starry team",
-    "lastUpdated": "2023-09-04T12:34:58Z",
-    "stars": 1,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "this mod needed to the testing a conten "
-  },
-  {
     "repo": "ruombus/deep-seadustry",
     "name": "Deep-Seadustry",
     "author": "Cyro",
-    "lastUpdated": "2023-09-04T14:11:36Z",
+    "lastUpdated": "2023-09-04T18:32:53Z",
     "stars": 1,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": false,
     "description": "A simple mod. That will probably break around every corner"
+  },
+  {
+    "repo": "racti2037/starry-test-mod",
+    "name": "Starry test mod",
+    "author": "Starry team",
+    "lastUpdated": "2023-09-04T19:47:08Z",
+    "stars": 1,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "this mod needed to the testing a conten "
   },
   {
     "repo": "pepa3/mindustrymod",
