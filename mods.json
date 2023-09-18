@@ -1870,17 +1870,6 @@
     "description": "Adds transpartent letters to the electrolyzer sprite like in the mod's icon. That's it. \nA preview can be found on the mod repository."
   },
   {
-    "repo": "7003mars/pic2tri",
-    "name": "PicToTri",
-    "author": "Mars#7003",
-    "lastUpdated": "2023-09-09T04:49:58Z",
-    "stars": 5,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds a dialog for turning images into schematics"
-  },
-  {
     "repo": "freezemandu/sqa-schemic",
     "name": "S.Q.A Schemic",
     "author": "Sirus&Qwertynoob&Anchovy&Mandu",
@@ -1923,6 +1912,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Gives more opportunity to use liquids!"
+  },
+  {
+    "repo": "7003mars/pic2tri",
+    "name": "PicToTri",
+    "author": "Mars#7003",
+    "lastUpdated": "2023-09-18T09:00:06Z",
+    "stars": 5,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a dialog for turning images into schematics"
   },
   {
     "repo": "spaceearthex/banana",
@@ -2695,17 +2695,6 @@
     "description": "1. 优化js的运行效率\n2. 添加一些js方法，如访问私有，方法优先（全部在$AX里）\n1.2.3更新内容：\n修复移动端staticOffset bug\n兼容java17"
   },
   {
-    "repo": "7003mars/bocchi-the-shield",
-    "name": "Bocchi shield",
-    "author": "mars",
-    "lastUpdated": "2023-08-03T12:24:05Z",
-    "stars": 3,
-    "minGameVersion": "141",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Gotoh-san turned into a force projector!!"
-  },
-  {
     "repo": "electricgun/video-to-logic",
     "name": "Video to Logic",
     "author": "ElectricGun",
@@ -2847,6 +2836,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Mod for mindustry server                 "
+  },
+  {
+    "repo": "7003mars/bocchi-the-shield",
+    "name": "Bocchi shield",
+    "author": "mars",
+    "lastUpdated": "2023-09-18T09:02:39Z",
+    "stars": 3,
+    "minGameVersion": "141",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Gotoh-san turned into a force projector!!"
   },
   {
     "repo": "amateurpotion/nuclearjavamod",
@@ -4576,17 +4576,6 @@
     "description": "A simple mindustry mod that contains a new planet, items, units and turrets\n[red]WIP MADE ON ANDROID SO DEVELOPMENT MAY BE SLOW"
   },
   {
-    "repo": "chinhonnang0000/asteroidgen",
-    "name": "asteroidgen",
-    "author": "chinhonnang0000",
-    "lastUpdated": "2023-09-14T08:58:27Z",
-    "stars": 1,
-    "minGameVersion": "141",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "that star will probably be revoked"
-  },
-  {
     "repo": "koctz34/factor",
     "name": "Factor",
     "author": "MISTICA",
@@ -4629,6 +4618,28 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "New armored variants of vanilla distribution blocks.\n\nNew armored variants of vanilla liquid distribution blocks.\n\n5 new faster conveyor types.\n\n2 new conduits.\n\n3 new faster unloaders.\n\n1 new larger storage vault.\n1 new larger storage container\n\n1 new larger liquid tank.\n\n2 new batteries.\n\n1 new wall that combines the abilities of the Surge Wall, Plastanium Wall and Phase Wall."
+  },
+  {
+    "repo": "skulzyetagain/firstmod",
+    "name": "Machina ex Deus",
+    "author": "Rosa/Skulz",
+    "lastUpdated": "2023-09-18T05:59:33Z",
+    "stars": 1,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Small mod that keeps adding stuff"
+  },
+  {
+    "repo": "chinhonnang0000/asteroidgen",
+    "name": "asteroidgen",
+    "author": "chinhonnang0000",
+    "lastUpdated": "2023-09-18T09:59:27Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "that star will probably be revoked"
   },
   {
     "repo": "pepa3/mindustrymod",
@@ -5817,16 +5828,5 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "soviet industry and weapons in mindustry (development started before the invasion of ukrane, this has nothing to do with current events)"
-  },
-  {
-    "repo": "skulzyetagain/firstmod",
-    "name": "Machina ex Deus",
-    "author": "Rosa/Skulz",
-    "lastUpdated": "2023-09-18T05:59:33Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Small mod that keeps adding stuff"
   }
 ]
