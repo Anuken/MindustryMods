@@ -4,7 +4,7 @@
     "name": "BetaMindy",
     "author": "sk7725",
     "lastUpdated": "2023-05-16T03:09:57Z",
-    "stars": 301,
+    "stars": 300,
     "minGameVersion": "144",
     "hasScripts": false,
     "hasJava": true,
@@ -48,7 +48,7 @@
     "name": "Project Unity",
     "author": "Avant Team",
     "lastUpdated": "2023-09-14T00:03:05Z",
-    "stars": 154,
+    "stars": 153,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -286,17 +286,6 @@
     "description": "# MI2-Utilities Java\n\n### Intro\n- [English](README.md) | [中文](README_zh.md)\n\nQOL Mod, powerful assists to vanilla gameplay. For destined Mindustry players.\n\n### Install\n\n- Method 1: \"Import from github\", with \"BlackDeluxeCat/MI2-Utilities-Java\". This makes reinstall available. (recommended)\n- Method 2: Get the latest release, download \"MI2-Utilities Java.jar\". Then \"Import from a file\" with the file.\n\nQQ Group(中文zh_cn) number: 875035496\n\n### Contribution\n- PRs: l10n, bug fix, new feature.\n- Issues: bug report, suggestion.\n\n---\n\n## Features(1.2.3c)\n\n#### MI2UI\n- Functions: one-click planning rebuild, distribution building reveal.\n- Logical FPS simulation.\n- AI-assist: auto mining, auto construct plans, auto self-repair, auto aiming.\n- Most of the map rules.\n- Wave info, force skipwave, wave health bars.\n- RTS Formation creating and selecting.\n- Most of MI2U's options.\n\n#### Core Info\n- Vanilla core info ++, charts of resource changes.\n- Unit counter.\n- Power net bars & net building analyse.\n- Switch to view other teams.\n\n#### MindowMap\n- Renderer based on vanilla.\n- Sensible zoomed to full map.\n- Player labels.\n- Clicking pans camera.\n- Space Scan world finder.\n- Logic Building Stats\n\n#### Map Info\n\n\n#### Logic Helper\n- Sort and fast typing var names, using delimiter.\n- Search & Replace.\n- Cut or Copy, and Paste.\n\n#### Emoji\n- Emoji book.\n\n#### Mindow2\nDraggable window for this mod. On the auto-hidden title bar, you can open settings dialog, minimize it, or tap the title to drag. For details, open settings and see the help pages of each Mindow2.\n\nPosition, snap, etc. can be saved through settings.\n\n#### Others\n- Smooth multiplayer cursors.\n- Block/Unit hp bar, logic lines, pathfind lines.\n- Disable wrecks, units, bullets rendering.\n- Distribution buildings interior reveal.\n- Modify block stat bars, make it following cursor.\n- 99.5% of changes can be turned off with options.\n- The settings stored at $Mindustry/mods/MI2U_Settings/.\n\n---\n\nEarly JS version: [BlackDeluxeCat/MI2-Utilities](https://github.com/BlackDeluxeCat/MI2-Utilities)\n\nMy friend did a lot of other functions, see [MinerTools](https://github.com/RlCCJ/MinerTools)."
   },
   {
-    "repo": "flintyx/animalia",
-    "name": "Animalia",
-    "author": "Flin",
-    "lastUpdated": "2023-02-18T17:29:06Z",
-    "stars": 36,
-    "minGameVersion": "141",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A fun mod that contains Animals, Plants, Natural disasters and a lot more!"
-  },
-  {
     "repo": "liplum/multicrafterlib",
     "name": "MultiCrafter Lib",
     "author": "[#42a5f5]Liplum[]",
@@ -306,6 +295,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod library provides a multiple-recipe crafter to produce items, fluids, power or even heat for Json and JavaScript mods.\nPlease check the repository below to learn more.\nWork on both v136 and v137."
+  },
+  {
+    "repo": "flintyx/animalia",
+    "name": "Animalia",
+    "author": "Flin",
+    "lastUpdated": "2023-02-18T17:29:06Z",
+    "stars": 35,
+    "minGameVersion": "141",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A fun mod that contains Animals, Plants, Natural disasters and a lot more!"
   },
   {
     "repo": "deltanedas/dev-mode",
@@ -473,17 +473,6 @@
     "description": "Adds tools for automatically filling resource patches with drills"
   },
   {
-    "repo": "sporrus/randommindustry",
-    "name": "Random Mindustry",
-    "author": "sporrus",
-    "lastUpdated": "2023-08-15T17:35:45Z",
-    "stars": 22,
-    "minGameVersion": "139",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Randomizes almost everything!\nJoin our discord! https://discord.gg/ztC6WJUxZK\n\nEPILEPSY WARNING"
-  },
-  {
     "repo": "smolkeys/yellow-java",
     "name": "Yellow",
     "author": "PKChaos (SMOLKEYS)",
@@ -493,6 +482,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Very pog."
+  },
+  {
+    "repo": "sporrus/randommindustry",
+    "name": "Random Mindustry",
+    "author": "sporrus",
+    "lastUpdated": "2023-08-15T17:35:45Z",
+    "stars": 21,
+    "minGameVersion": "139",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Randomizes almost everything!\nJoin our discord! https://discord.gg/ztC6WJUxZK\n\nEPILEPSY WARNING"
   },
   {
     "repo": "unionofsovietsocialistrepublics/spore-biomechs",
@@ -1177,17 +1177,6 @@
     "description": "Adds a speedometer.\nRequires deltanedas/ui-lib"
   },
   {
-    "repo": "fabizocker456/test",
-    "name": "Test mod",
-    "author": "Fabizocker456",
-    "lastUpdated": "2022-07-28T13:43:54Z",
-    "stars": 8,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "I am an extremely lazy person,\nand therefore will not\nwrite a long description"
-  },
-  {
     "repo": "liplum/bottledliquid",
     "name": "Bottled Liquid",
     "author": "[#42a5f5]Liplum[]",
@@ -1340,6 +1329,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod that makes the game V5 ish by making you unable to capture."
+  },
+  {
+    "repo": "fabizocker456/test",
+    "name": "Test mod",
+    "author": "Fabizocker456",
+    "lastUpdated": "2022-07-28T13:43:54Z",
+    "stars": 7,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "I am an extremely lazy person,\nand therefore will not\nwrite a long description"
   },
   {
     "repo": "emanuelg-gaming/mindustry-raycaster",
@@ -1653,7 +1653,7 @@
     "repo": "i-hope1/mod-tools",
     "name": "mod工具",
     "author": "I hope...",
-    "lastUpdated": "2023-09-29T13:00:13Z",
+    "lastUpdated": "2023-09-30T05:45:15Z",
     "stars": 6,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2860,17 +2860,6 @@
     "description": "(⚠Work in progress⚠) Yet another planet mod "
   },
   {
-    "repo": "darkspam7/project-hephaestus",
-    "name": "Project Hepheastus",
-    "author": "darkspam7 Pandora team",
-    "lastUpdated": "2023-09-29T17:43:53Z",
-    "stars": 3,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "mod contain:\n\nunits - 3\n\nblocks - 1\n\nplanets - 1\n\nitems - 4\n\nsectors - 1\n\nin full release will contain:\n\nunits - 88\n\nblocks - >88\n\nitems - 12\n\nplanets - 1\n\nsectors - >1"
-  },
-  {
     "repo": "the4codeblocks/sandbox-utilities",
     "name": "Sandbox Utilities",
     "author": "The Chaoticans\nT4SC [Mass <=> Energy]",
@@ -2902,6 +2891,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Mod for mindustry server                 "
+  },
+  {
+    "repo": "darkspam7/project-hephaestus",
+    "name": "Project Hepheastus",
+    "author": "darkspam7 Pandora team",
+    "lastUpdated": "2023-09-30T04:57:13Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "mod contain:\n\nunits - 3\n\nblocks - 1\n\nplanets - 1\n\nitems - 4\n\nsectors - 1\n\nin full release will contain:\n\nunits - 88\n\nblocks - >88\n\nitems - 12\n\nplanets - 1\n\nsectors - >1"
   },
   {
     "repo": "amateurpotion/nuclearjavamod",
@@ -3826,6 +3826,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Este mod agrega metales y muchas otras cosas más que mejoran la experiencia del juego vanilla."
+  },
+  {
+    "repo": "manuwar73/remodeled_industry-java",
+    "name": "Remodeled industry java",
+    "author": "ManuWar73",
+    "lastUpdated": "2022-09-18T17:25:51Z",
+    "stars": 1,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Java port of remodeled industry"
   },
   {
     "repo": "kong-kong-ru-ye/my-fantasy-experience",
