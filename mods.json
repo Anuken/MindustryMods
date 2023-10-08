@@ -15,7 +15,7 @@
     "name": "Exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2023-08-25T00:54:30Z",
-    "stars": 283,
+    "stars": 284,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -47,7 +47,7 @@
     "repo": "bluewolf3682/allure",
     "name": "Allure",
     "author": "Elixias",
-    "lastUpdated": "2023-10-06T17:35:33Z",
+    "lastUpdated": "2023-10-08T15:49:13Z",
     "stars": 154,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -374,6 +374,17 @@
     "description": "oxynoe :>"
   },
   {
+    "repo": "mindustry-antigrief/installer",
+    "name": "Foo's Client Installer",
+    "author": "foo, buthed010203",
+    "lastUpdated": "2022-11-08T23:31:31Z",
+    "stars": 26,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
+  },
+  {
     "repo": "zelaux/bytelogicmod",
     "name": "Byte Logic Mod",
     "author": "Zelaux",
@@ -405,17 +416,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Spawn any enemy in sandbox or on multiplayer, with /js (if supported).\nRequires deltanedas/ui-lib."
-  },
-  {
-    "repo": "mindustry-antigrief/installer",
-    "name": "Foo's Client Installer",
-    "author": "foo, buthed010203",
-    "lastUpdated": "2022-11-08T23:31:31Z",
-    "stars": 25,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
   },
   {
     "repo": "uujuju1/project-oblivion",
@@ -3740,17 +3740,6 @@
     "description": "A Mindustry Java mod."
   },
   {
-    "repo": "sheptalo/mindustry-minecraft-mod",
-    "name": "Minecraft mod",
-    "author": "sheptalo",
-    "lastUpdated": "2023-10-05T18:31:12Z",
-    "stars": 2,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Minecraft in mindustry"
-  },
-  {
     "repo": "pirojok3000/mindustry-classic-music",
     "name": "Mindustry Classic Music",
     "author": "Pirojok3000",
@@ -3795,17 +3784,6 @@
     "description": "adds 65-85 popups on startup"
   },
   {
-    "repo": "minchat-official/minchat",
-    "name": "MinChat Official",
-    "author": "Mnemotechnician",
-    "lastUpdated": "2023-10-07T13:25:41Z",
-    "stars": 2,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The first mod adding a global mindustry chat.\n\nTHIS MOD IS CURRENTLY IN THE BETA-STAGE! YOU CAN USE IT BUT EXPECT VARIOUS BUGS AND RAPID CHANGES!\nYou can see the roadmap in the \"TODO.md\" file on github!\n\nAccessing the chat ui:\nOn desktop, press the ` key on your keyboard, or use the gui buttons.\nOn mobile, press the \"Minchat\" button either in the main menu or in-game to do the same.\n\nThere are various tutorials that will guide you through the user interface of this mod."
-  },
-  {
     "repo": "chinhonnang0000/asteroidgen",
     "name": "asteroidgen",
     "author": "chinhonnang0000",
@@ -3837,6 +3815,28 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Turns most text to morse code.\nSet the language to English for the Morse Code to apply."
+  },
+  {
+    "repo": "minchat-official/minchat",
+    "name": "MinChat Official",
+    "author": "Mnemotechnician",
+    "lastUpdated": "2023-10-08T15:47:46Z",
+    "stars": 2,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The first mod adding a global mindustry chat.\n\nTHIS MOD IS CURRENTLY IN THE BETA-STAGE! YOU CAN USE IT BUT EXPECT VARIOUS BUGS AND RAPID CHANGES!\nYou can see the roadmap in the \"TODO.md\" file on github!\n\nAccessing the chat ui:\nOn desktop, press the ` key on your keyboard, or use the gui buttons.\nOn mobile, press the \"Minchat\" button either in the main menu or in-game to do the same.\n\nThere are various tutorials that will guide you through the user interface of this mod."
+  },
+  {
+    "repo": "sheptalo/mindustry-minecraft-mod",
+    "name": "Minecraft mod",
+    "author": "sheptalo",
+    "lastUpdated": "2023-10-08T15:48:01Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Minecraft in mindustry"
   },
   {
     "repo": "explerhd/unnamedmods",
@@ -6042,7 +6042,7 @@
     "repo": "chinhonnang0000/intermod",
     "name": "intermod",
     "author": "chinhonnang0000",
-    "lastUpdated": "2023-10-08T08:10:17Z",
+    "lastUpdated": "2023-10-08T15:48:31Z",
     "stars": 0,
     "minGameVersion": "141",
     "hasScripts": true,
