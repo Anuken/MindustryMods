@@ -290,7 +290,7 @@
     "name": "Animalia",
     "author": "Flin",
     "lastUpdated": "2023-02-18T17:29:06Z",
-    "stars": 36,
+    "stars": 37,
     "minGameVersion": "141",
     "hasScripts": false,
     "hasJava": true,
@@ -803,6 +803,17 @@
     "description": "The ultimate form of the ultimate form. Multiplayer compatible."
   },
   {
+    "repo": "karlsonvive/a-bad-mindustry-mod",
+    "name": "Definitely Balanced Conveyors",
+    "author": "Rhoo",
+    "lastUpdated": "2022-12-01T15:37:01Z",
+    "stars": 13,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds a few distribution blocks... very few distribution blocks"
+  },
+  {
     "repo": "yuria-shikibe/gameinfoimager",
     "name": "Game Info Imager",
     "author": "Yuria",
@@ -867,17 +878,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Roombas."
-  },
-  {
-    "repo": "karlsonvive/a-bad-mindustry-mod",
-    "name": "Definitely Balanced Conveyors",
-    "author": "Rhoo",
-    "lastUpdated": "2022-12-01T15:37:01Z",
-    "stars": 12,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds a few distribution blocks... very few distribution blocks"
   },
   {
     "repo": "zeniku/heavymachineryjava",
@@ -1697,12 +1697,23 @@
     "repo": "i-hope1/mod-tools",
     "name": "mod工具",
     "author": "I hope...",
-    "lastUpdated": "2023-10-21T15:58:13Z",
+    "lastUpdated": "2023-10-21T16:28:26Z",
     "stars": 6,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
     "description": "1. 修复设置的存在的巨大bug（key有空白字符就无了）\n2. 修复一些其他bug\n3. UnitSpawn 快速按钮\n..."
+  },
+  {
+    "repo": "warcry98/speedcontrol",
+    "name": "Speed Control",
+    "author": "warcry98",
+    "lastUpdated": "2022-05-28T04:14:09Z",
+    "stars": 5,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Speeds up or slows down Mindustry.\nPress & hold 'x1' to fold the buttons.\nSome buttons can be pressed twice.\n\nDisclaimer: not intended for multiplayer use!"
   },
   {
     "repo": "mythril382/rainpuddles",
@@ -1780,6 +1791,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod adds more turrets."
+  },
+  {
+    "repo": "korakiwi/planetaryadditions",
+    "name": "Planetary Additions",
+    "author": "KoraKiwi",
+    "lastUpdated": "2023-04-05T16:44:20Z",
+    "stars": 5,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds new ways to destroy nature, mostly factories.\n\nThe sprites and code are subject to change.\n\nWill be mostly rewritten once i figure out how mindustry java works."
   },
   {
     "repo": "aawwaaa/aimclient",
@@ -2002,17 +2024,6 @@
     "description": "Adds a self-destruct button for cores."
   },
   {
-    "repo": "warcry98/speedcontrol",
-    "name": "Speed Control",
-    "author": "warcry98",
-    "lastUpdated": "2022-05-28T04:14:09Z",
-    "stars": 4,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Speeds up or slows down Mindustry.\nPress & hold 'x1' to fold the buttons.\nSome buttons can be pressed twice.\n\nDisclaimer: not intended for multiplayer use!"
-  },
-  {
     "repo": "mythril382/goldensilicon",
     "name": "Golden Silicon",
     "author": "Mythril",
@@ -2187,17 +2198,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Provides a variety of advanced production buildings to supply materials for the most greedy of players. Доступен перевод на русский язык."
-  },
-  {
-    "repo": "korakiwi/planetaryadditions",
-    "name": "Planetary Additions",
-    "author": "KoraKiwi",
-    "lastUpdated": "2023-04-05T16:44:20Z",
-    "stars": 4,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds new ways to destroy nature, mostly factories.\n\nThe sprites and code are subject to change.\n\nWill be mostly rewritten once i figure out how mindustry java works."
   },
   {
     "repo": "koctz34/canvases",
@@ -2390,7 +2390,7 @@
     "repo": "dong-wo-long/enhancementunits",
     "name": "Enhancement Units",
     "author": "D&X",
-    "lastUpdated": "2023-10-21T14:52:16Z",
+    "lastUpdated": "2023-10-21T17:53:38Z",
     "stars": 4,
     "minGameVersion": "146",
     "hasScripts": false,
