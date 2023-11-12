@@ -5,11 +5,12 @@ sourceSets.main.java.srcDirs = ["src/"]
 
 repositories{
     mavenCentral()
+    maven{ url "https://raw.githubusercontent.com/Zelaux/MindustryRepo/master/repository" }
     maven{ url 'https://jitpack.io' }
 }
 
 ext{
-    arcVersion = "v138"
+    arcVersion = "v146"
 }
 
 dependencies{
