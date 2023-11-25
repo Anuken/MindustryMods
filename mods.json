@@ -15,7 +15,7 @@
     "name": "Exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2023-10-25T15:45:13Z",
-    "stars": 294,
+    "stars": 295,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -280,7 +280,7 @@
     "author": "BlackDeluxeCat",
     "lastUpdated": "2023-08-20T13:06:54Z",
     "stars": 46,
-    "minGameVersion": "145",
+    "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
     "description": "# MI2-Utilities Java\n\n### Intro\n- [English](README.md) | [中文](README_zh.md)\n\nQOL Mod, powerful assists to vanilla gameplay. For destined Mindustry players.\n\n### Install\n\n- Method 1: \"Import from github\", with \"BlackDeluxeCat/MI2-Utilities-Java\". This makes reinstall available. (recommended)\n- Method 2: Get the latest release, download \"MI2-Utilities Java.jar\". Then \"Import from a file\" with the file.\n\nQQ Group(中文zh_cn) number: 875035496\n\n### Contribution\n- PRs: l10n, bug fix, new feature.\n- Issues: bug report, suggestion.\n\n---\n\n## Features(1.2.3c)\n\n#### MI2UI\n- Functions: one-click planning rebuild, distribution building reveal.\n- Logical FPS simulation.\n- AI-assist: auto mining, auto construct plans, auto self-repair, auto aiming.\n- Most of the map rules.\n- Wave info, force skipwave, wave health bars.\n- RTS Formation creating and selecting.\n- Most of MI2U's options.\n\n#### Core Info\n- Vanilla core info ++, charts of resource changes.\n- Unit counter.\n- Power net bars & net building analyse.\n- Switch to view other teams.\n\n#### MindowMap\n- Renderer based on vanilla.\n- Sensible zoomed to full map.\n- Player labels.\n- Clicking pans camera.\n- Space Scan world finder.\n- Logic Building Stats\n\n#### Map Info\n\n\n#### Logic Helper\n- Sort and fast typing var names, using delimiter.\n- Search & Replace.\n- Cut or Copy, and Paste.\n\n#### Emoji\n- Emoji book.\n\n#### Mindow2\nDraggable window for this mod. On the auto-hidden title bar, you can open settings dialog, minimize it, or tap the title to drag. For details, open settings and see the help pages of each Mindow2.\n\nPosition, snap, etc. can be saved through settings.\n\n#### Others\n- Smooth multiplayer cursors.\n- Block/Unit hp bar, logic lines, pathfind lines.\n- Disable wrecks, units, bullets rendering.\n- Distribution buildings interior reveal.\n- Modify block stat bars, make it following cursor.\n- 99.5% of changes can be turned off with options.\n- The settings stored at $Mindustry/mods/MI2U_Settings/.\n\n---\n\nEarly JS version: [BlackDeluxeCat/MI2-Utilities](https://github.com/BlackDeluxeCat/MI2-Utilities)\n\nMy friend did a lot of other functions, see [MinerTools](https://github.com/RlCCJ/MinerTools)."
@@ -891,6 +891,17 @@
     "description": "This mod plays soundtracks from the game Halo 3: ODST. \n\nWarning: This is a heavy mod, download using Wi-Fi is recommended."
   },
   {
+    "repo": "eb-wilson/toomanyitems",
+    "name": "Too Many Items",
+    "author": "EBwilson",
+    "lastUpdated": "2023-11-24T14:47:30Z",
+    "stars": 12,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "An auxiliary mod that provides you with quick retrieval of production and collection guidance information for materials, units, buildings, minerals, etc., so that you are no longer overwhelmed by installing too many mods.\n====================\n一个辅助mod，为您提供快速检索材料，单位，建筑和矿物等的生产与采集引导信息，让您不再因为安装了太多mod而不知所措"
+  },
+  {
     "repo": "balam314/no-invasions",
     "name": "No Sector Re Attacks",
     "author": "BalaM314",
@@ -988,17 +999,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Pyratite focused mod which adds units turrets drills and factorys\nNOT the most balanced"
-  },
-  {
-    "repo": "eb-wilson/toomanyitems",
-    "name": "Too Many Items",
-    "author": "EBwilson",
-    "lastUpdated": "2023-11-24T14:47:30Z",
-    "stars": 11,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "An auxiliary mod that provides you with quick retrieval of production and collection guidance information for materials, units, buildings, minerals, etc., so that you are no longer overwhelmed by installing too many mods.\n====================\n一个辅助mod，为您提供快速检索材料，单位，建筑和矿物等的生产与采集引导信息，让您不再因为安装了太多mod而不知所措"
   },
   {
     "repo": "minri2/itembridgex",
@@ -1738,17 +1738,6 @@
     "description": "Adds an online schematic browser."
   },
   {
-    "repo": "sunkymp3g/netronium",
-    "name": "Netronium",
-    "author": "[orange]Sunky.MP3G",
-    "lastUpdated": "2023-11-18T05:43:19Z",
-    "stars": 6,
-    "minGameVersion": "145.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "The abandoned planet, surrounded by a dome, is waiting for you...\n\nYour main mission is to save the planet from invaders, and return life to it."
-  },
-  {
     "repo": "misterfirer/urmod-mindustry-v7-",
     "name": "UrMod",
     "author": "SausageCheck1",
@@ -1769,6 +1758,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "SchemePack"
+  },
+  {
+    "repo": "sunkymp3g/netronium",
+    "name": "Netronium",
+    "author": "[orange]Sunky.MP3G",
+    "lastUpdated": "2023-11-25T04:32:13Z",
+    "stars": 6,
+    "minGameVersion": "145.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "The abandoned planet, surrounded by a dome, is waiting for you...\n\nYour main mission is to save the planet from invaders, and return life to it."
   },
   {
     "repo": "warcry98/speedcontrol",
@@ -3061,7 +3061,7 @@
     "repo": "chaoticans-mindustry-modding-team/new-content",
     "name": "New Content",
     "author": "Cle",
-    "lastUpdated": "2023-11-25T03:25:33Z",
+    "lastUpdated": "2023-11-25T05:34:18Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": false,
