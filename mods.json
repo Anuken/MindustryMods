@@ -26,7 +26,7 @@
     "name": "New Horizon",
     "author": "Yuria",
     "lastUpdated": "2023-11-08T10:23:02Z",
-    "stars": 284,
+    "stars": 285,
     "minGameVersion": "145.1",
     "hasScripts": false,
     "hasJava": true,
@@ -322,7 +322,7 @@
     "repo": "mq-1175/more-vanilla",
     "name": "Upgraded Content (v2.0 Update)",
     "author": "mq_1175",
-    "lastUpdated": "2023-11-30T15:55:05Z",
+    "lastUpdated": "2023-11-30T16:39:24Z",
     "stars": 30,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -3058,17 +3058,6 @@
     "description": "Adds modest modifications to the default Mindustry sounds.\n\nChanges include:\n•UI Sounds\n•Block Sounds\n•Action Sounds\n•Ambient sounds"
   },
   {
-    "repo": "minchat-official/minchat",
-    "name": "MinChat Official",
-    "author": "Mnemotechnician",
-    "lastUpdated": "2023-11-26T22:12:55Z",
-    "stars": 3,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The first mod adding a global mindustry chat.\n\nTHIS MOD IS CURRENTLY IN THE BETA-STAGE! YOU CAN USE IT BUT EXPECT VARIOUS BUGS AND RAPID CHANGES!\nYou can see the roadmap in the \"TODO.md\" file on github!\n\nAccessing the chat ui:\nOn desktop, press the ` key on your keyboard, or use the gui buttons.\nOn mobile, press the \"Minchat\" button either in the main menu or in-game to do the same.\n\nThere are various tutorials that will guide you through the user interface of this mod."
-  },
-  {
     "repo": "chaoticans-mindustry-modding-team/new-content",
     "name": "New Content",
     "author": "Cle",
@@ -3078,6 +3067,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "It's my First* mod! Yay! It adds alot of units. Such as Purple navals, Orange spiders, Blue air-bombers and much more! \nwarning not all the trees are finished infact none are. \nThanks to my spriter Aegires for making some of theese awsome sprites!"
+  },
+  {
+    "repo": "minchat-official/minchat",
+    "name": "MinChat Official",
+    "author": "Mnemotechnician",
+    "lastUpdated": "2023-11-30T17:16:29Z",
+    "stars": 3,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The first mod adding a global mindustry chat.\n\nTHIS MOD IS CURRENTLY IN THE BETA-STAGE! YOU CAN USE IT BUT EXPECT VARIOUS BUGS AND RAPID CHANGES!\nYou can see the roadmap in the \"TODO.md\" file on github!\n\nAccessing the chat ui:\nOn desktop, press the ` key on your keyboard, or use the gui buttons.\nOn mobile, press the \"Minchat\" button either in the main menu or in-game to do the same.\n\nThere are various tutorials that will guide you through the user interface of this mod."
   },
   {
     "repo": "amateurpotion/nuclearjavamod",
@@ -5731,17 +5731,6 @@
     "description": "A simple mod from a learning modder. Don't expect much, honestly, even though I will try my best to make it a good mod"
   },
   {
-    "repo": "xorblo-doitus/erekir-utility",
-    "name": "Erekir Utility",
-    "author": "xorblo-doitus",
-    "lastUpdated": "2023-05-25T17:33:36Z",
-    "stars": 0,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "(Indev)\n    \n    Add various utility features :\n    - Stingy Duct : Prevent core incineration\n    - Power Saver : Disconnects when battery are very low, reconnects when the backward network is recharged."
-  },
-  {
     "repo": "routerxdd/mountainresearchoperation",
     "name": "Mountain Research Operation",
     "author": "RouterXdd",
@@ -6642,5 +6631,16 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "黑暗终将退去，光辉终将到来，我们冲破黑暗，达到光明之地！"
+  },
+  {
+    "repo": "xorblo-doitus/erekir-utility",
+    "name": "Erekir Utility",
+    "author": "xorblo-doitus",
+    "lastUpdated": "2023-11-30T17:42:34Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "(Indev)\n    \n    Add various utility features :\n    - Stingy Duct : Prevent core incineration\n    - Power Saver : Disconnects when battery are very low, reconnects when the backward network is recharged."
   }
 ]
