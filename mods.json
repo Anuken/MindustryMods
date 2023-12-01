@@ -2511,7 +2511,7 @@
     "repo": "eyeofdarkness/advance-lighting",
     "name": "Advance lighting",
     "author": "EoD",
-    "lastUpdated": "2023-11-29T15:37:06Z",
+    "lastUpdated": "2023-12-01T13:15:06Z",
     "stars": 4,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -4961,6 +4961,17 @@
     "description": "A Mindustry mod for adding both larger and smaller content to Erekir."
   },
   {
+    "repo": "thomasthings/serpulo-scaled",
+    "name": "Serpulo Scaled",
+    "author": "Thomas's Things",
+    "lastUpdated": "2023-11-05T00:44:11Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod for adding both larger and smaller content to Serpulo."
+  },
+  {
     "repo": "thomasthings/xenacia",
     "name": "Xenacia",
     "author": "Thomas's Things",
@@ -4970,17 +4981,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that adds an entire new campaign, larger than serpulo. Still in Pre-Aplha stages."
-  },
-  {
-    "repo": "the4codeblocks/unhide",
-    "name": "Unhide",
-    "author": "[#58b0f]T4[stat]SC [gray][m <=> [blue]E][][][][]",
-    "lastUpdated": "2023-11-09T17:27:10Z",
-    "stars": 1,
-    "minGameVersion": "145.0",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Unhides hidden content."
   },
   {
     "repo": "toxopid123/item-generator-serpulo",
@@ -5049,10 +5049,21 @@
     "description": "WIP mod about alternative recipes for everything, requires multi crafter lib (find this in mod browser) to run"
   },
   {
+    "repo": "the4codeblocks/unhide",
+    "name": "Unhide",
+    "author": "[#58b0f]T4[stat]SC [gray][m <=> [blue]E][][][][]",
+    "lastUpdated": "2023-12-01T13:26:39Z",
+    "stars": 1,
+    "minGameVersion": "145.0",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Unhides hidden content.\nCompatible with iOS."
+  },
+  {
     "repo": "haznobrain/erekir-liquefied",
     "name": "Erekir Liquefied",
     "author": "DADOMBCAT",
-    "lastUpdated": "2023-12-01T10:42:47Z",
+    "lastUpdated": "2023-12-01T13:50:20Z",
     "stars": 1,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -5863,17 +5874,6 @@
     "description": "A [red]WIP[] project made to redo the waves system in Mindustry."
   },
   {
-    "repo": "yoru-kitsune/craftdustry-ui-pack",
-    "name": "Craftdustry - UI Pack",
-    "author": "Yoru Kitsune",
-    "lastUpdated": "2023-07-04T18:33:16Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This adds UI elements meant for the Craftdustry Texturepack, but as some might don't want them, I put them in a seperate mod."
-  },
-  {
     "repo": "mikael-chowdhury/mindustry-ultimate-mod",
     "name": "THE ULTIMATE MOD",
     "author": "mikaelcoffee",
@@ -6391,17 +6391,6 @@
     "description": "mi primer mod, hecho en la plantilla de mods, está en version beta, tiene funciones muy rotas."
   },
   {
-    "repo": "thomasthings/serpulo-scaled",
-    "name": "Serpulo Scaled",
-    "author": "Thomas's Things",
-    "lastUpdated": "2023-11-05T00:44:11Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod for adding both larger and smaller content to Serpulo."
-  },
-  {
     "repo": "routerxdd/mechanicalwarfare-revisited",
     "name": "Mechanical Warfare: Revisited",
     "author": "Port creator: RouterXdd/R.O.T. \nOG creators: JerichoFletcher and GlennFolker",
@@ -6534,17 +6523,6 @@
     "description": "NG mod"
   },
   {
-    "repo": "yoru-kitsune/craftdustry",
-    "name": "Craftdustry: Texturepack",
-    "author": "Yoru Kitsune\nOriginal textures: Mojang/Microsoft",
-    "lastUpdated": "2023-11-18T16:17:34Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "An under-development texture pack that makes Mindustry look like Minecraft\n\n\nRecommended Settings:Animated Surfaces: off\nAnimated Shields: off\nPixelate: off\nLinear Filtering: on"
-  },
-  {
     "repo": "mctheend/mindustrymod-ironcraft",
     "name": "铁工艺",
     "author": "MC_The_End",
@@ -6642,5 +6620,27 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A coolish gun mod based on vanilla sprites"
+  },
+  {
+    "repo": "yoru-kitsune/craftdustry-ui",
+    "name": "Craftdustry: UI",
+    "author": "Yoru Kitsune",
+    "lastUpdated": "2023-12-01T12:19:58Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This adds UI elements for the Craftdustry Texturepack, but as some might don't want them, I put them in a seperate mod."
+  },
+  {
+    "repo": "yoru-kitsune/craftdustry",
+    "name": "Craftdustry: Texturepack",
+    "author": "Yoru Kitsune\nOriginal textures: Mojang/Microsoft",
+    "lastUpdated": "2023-12-01T12:42:01Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "An under-development texture pack that makes Mindustry look like Minecraft\n\n\nRecommended Settings:Animated Surfaces: off\nAnimated Shields: off\nPixelate: off\nLinear Filtering: off"
   }
 ]
