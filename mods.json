@@ -80,9 +80,9 @@
     "repo": "liplum/cyberio",
     "name": "Cyber IO",
     "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2023-12-05T08:00:10Z",
+    "lastUpdated": "2023-12-05T08:04:33Z",
     "stars": 110,
-    "minGameVersion": "141",
+    "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
     "description": "[#e53935]The Cybernetics on Mindustry v7.[]\n\nCurrent version is v5.1, while v6 is still in development.\n\nLanguage Supports: English, Chinese(简体/正體中文), Japanese(日本語), Russian(Русский) and Ukrainian (українська).\n\nTo learn more about Cyber IO, please check the repository on GitHub by hitting the button below.\n\nGitHub: [#42a5f5]github.com/liplum/CyberIO[]"
@@ -531,7 +531,7 @@
     "repo": "smolkeys/bundles",
     "name": "Bundles",
     "author": "SMOLKEYS",
-    "lastUpdated": "2023-12-04T14:26:34Z",
+    "lastUpdated": "2023-12-05T08:56:49Z",
     "stars": 21,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1551,6 +1551,17 @@
     "description": "A Mindustry Java mod."
   },
   {
+    "repo": "eyeofdarkness/advance-lighting",
+    "name": "Advance lighting",
+    "author": "EoD",
+    "lastUpdated": "2023-12-04T15:08:20Z",
+    "stars": 7,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Not recommended for weak devices. Only supports Vanilla/Supported-Json content. This mod replaces/add some effects, and may cause issues with mods that actively check on those effects. May conflict with vanilla bloom."
+  },
+  {
     "repo": "mythril382/loudustry",
     "name": "Loudustry",
     "author": "Mythril",
@@ -2055,17 +2066,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Displays all bridge links. Helps with bridge weaving"
-  },
-  {
-    "repo": "eyeofdarkness/advance-lighting",
-    "name": "Advance lighting",
-    "author": "EoD",
-    "lastUpdated": "2023-12-04T15:08:20Z",
-    "stars": 5,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Not recommended for weak devices. Only supports Vanilla/Supported-Json content. This mod replaces/add some effects, and may cause issues with mods that actively check on those effects. May conflict with vanilla bloom."
   },
   {
     "repo": "spaceearthex/banana",
@@ -6490,17 +6490,6 @@
     "description": "Mindustry roleplay(!) mod (Work in progress)\nUsed content:\n- Particles from Exogenesis\n- Lighting system from Mindustry Lighting"
   },
   {
-    "repo": "chinhonnang0000/intermod",
-    "name": "intermod",
-    "author": "chinhonnang0000",
-    "lastUpdated": "2023-11-16T13:53:46Z",
-    "stars": 0,
-    "minGameVersion": "141",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Contains broken-mod remakes btw.Prismatic can now run on v146.1"
-  },
-  {
     "repo": "agzam4/mindustry-new-game-mode",
     "name": "New game Mod",
     "author": "Agzam4",
@@ -6653,5 +6642,16 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Java camod"
+  },
+  {
+    "repo": "chinhonnang0000/intermod",
+    "name": "intermod",
+    "author": "chinhonnang0000",
+    "lastUpdated": "2023-12-05T09:50:45Z",
+    "stars": 0,
+    "minGameVersion": "141",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Contains broken-mod remakes btw.Prismatic can now run on v146.1"
   }
 ]
