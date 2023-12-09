@@ -531,7 +531,7 @@
     "repo": "unionofsovietsocialistrepublics/spore-biomechs",
     "name": "Spore Biomechs",
     "author": "Water molecules",
-    "lastUpdated": "2023-12-08T15:12:56Z",
+    "lastUpdated": "2023-12-09T11:58:23Z",
     "stars": 21,
     "minGameVersion": "140",
     "hasScripts": true,
@@ -2497,17 +2497,6 @@
     "description": "Mod for mindustry server                 "
   },
   {
-    "repo": "jirocab/olupis",
-    "name": "Nyfalis (Olupis)",
-    "author": "RushieWashie, Remington Thomas, Ethanol10, Siede, WMF Industries",
-    "lastUpdated": "2023-12-06T10:28:49Z",
-    "stars": 4,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "(⚠Work in progress⚠) Yet another planet mod "
-  },
-  {
     "repo": "situvngcd/mindustrymodtest",
     "name": "SVN Test mod",
     "author": "[#4488ff]SITUVNgcd[]",
@@ -2517,6 +2506,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
+  },
+  {
+    "repo": "jirocab/olupis",
+    "name": "Nyfalis (Olupis)",
+    "author": "Programming:\nRushieWashie, Siede, WMF Industries \n---------------------\nSprites:\nRushieWashie, Remington Thomas, Ethanol10, kapzduke\n---------------------\nMaps:\nRushieWashie, MrApple, Remington Thomas ",
+    "lastUpdated": "2023-12-09T10:45:25Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer and pain on top"
   },
   {
     "repo": "mythril382/u-r-a-i-c",
@@ -4018,7 +4018,7 @@
     "repo": "lehanchic25/planet-gebr",
     "name": "Планета гебр",
     "author": "Lehanchic25",
-    "lastUpdated": "2023-12-09T09:22:33Z",
+    "lastUpdated": "2023-12-09T11:38:21Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -6686,5 +6686,16 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod i made based of my Gun Mod"
+  },
+  {
+    "repo": "nvcbl/customversiontext",
+    "name": "Custom Version Text",
+    "author": "nvcbl",
+    "lastUpdated": "2023-12-09T11:49:06Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Changes the version text under the logo in the main menu to the text in Settings > Game > Version Text.\n\nMenu may become out of date or come from the future. this is because the code for the menu is pulled straight from the github code."
   }
 ]
