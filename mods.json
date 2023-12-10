@@ -288,13 +288,13 @@
   {
     "repo": "liplum/multicrafterlib",
     "name": "MultiCrafter Lib",
-    "author": "[#42a5f5]Liplum[]",
-    "lastUpdated": "2023-12-10T01:40:34Z",
+    "author": "[#42a5f5]Liplum[] & Jojo",
+    "lastUpdated": "2023-12-10T15:53:49Z",
     "stars": 38,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
-    "description": "A Mindustry mod library provides a multiple-recipe crafter to produce items, fluids, power or even heat for Json and JavaScript mods.\nPlease check the repository below to learn more.\nWork on both v136 and v137."
+    "description": "A Mindustry mod library for JSON and Javascript mods,\nincluding A crafter that supporting multiple recipes for items, fluids, power, and heat production.\nPlease check the repository below to learn more.\nWork on both v136 and v137."
   },
   {
     "repo": "flintyx/animalia",
@@ -531,7 +531,7 @@
     "repo": "unionofsovietsocialistrepublics/spore-biomechs",
     "name": "Spore Biomechs",
     "author": "Water molecules",
-    "lastUpdated": "2023-12-10T13:57:05Z",
+    "lastUpdated": "2023-12-10T14:34:52Z",
     "stars": 21,
     "minGameVersion": "140",
     "hasScripts": true,
@@ -2475,17 +2475,6 @@
     "description": "A Mindustry Java mod that will add a new campaign."
   },
   {
-    "repo": "redonomo-team/colorspectrum",
-    "name": "Color Spectrum",
-    "author": "redonomo Team",
-    "lastUpdated": "2023-11-26T15:19:36Z",
-    "stars": 4,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "The mod of fight 4 colors"
-  },
-  {
     "repo": "chaoticans-mindustry-modding-team/ca-mod",
     "name": "ca-mod",
     "author": "The chaoticans",
@@ -2517,6 +2506,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer and pain on top"
+  },
+  {
+    "repo": "redonomo-team/colorspectrum",
+    "name": "Color Spectrum",
+    "author": "redonomo Team",
+    "lastUpdated": "2023-12-10T15:33:09Z",
+    "stars": 4,
+    "minGameVersion": "145",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "The mod of fight 4 colors"
   },
   {
     "repo": "mythril382/u-r-a-i-c",
@@ -6600,7 +6600,7 @@
     "description": "This mod brings you a whole new UI look based on Minecraft! Works best with my other Craftdustry mods."
   },
   {
-    "repo": "yoru-kitsune/craftdustry",
+    "repo": "yoru-kitsune/craftdustry-texturepack",
     "name": "Craftdustry: Texturepack",
     "author": "Yoru Kitsune\nOriginal textures: Mojang/Microsoft",
     "lastUpdated": "2023-12-03T12:22:20Z",
@@ -6631,17 +6631,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "NG mod"
-  },
-  {
-    "repo": "chinhonnang0000/intermod",
-    "name": "intermod",
-    "author": "chinhonnang0000",
-    "lastUpdated": "2023-12-05T14:53:38Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "JSON-javaScript compliation of several mods that are unplayable"
   },
   {
     "repo": "zetamap/no-steam-uuid",
@@ -6686,5 +6675,16 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Changes the version text under the logo in the main menu to the text in Settings > Game > Version Text.\n\nMenu may become out of date or come from the future. this is because the code for the menu is pulled straight from the github code."
+  },
+  {
+    "repo": "chinhonnang0000/intermod",
+    "name": "intermod",
+    "author": "chinhonnang0000",
+    "lastUpdated": "2023-12-10T15:22:21Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "JSON-javaScript compliation of several mods that are unplayable"
   }
 ]
