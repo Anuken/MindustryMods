@@ -3080,17 +3080,6 @@
     "description": "It's my First* mod! Yay! It adds alot of units. Such as Purple navals, Orange spiders, Blue air-bombers and much more! \nwarning not all the trees are finished infact none are. \nThanks to my spriter Aegires for making some of theese awsome sprites!"
   },
   {
-    "repo": "jirocab/caster-ui-java",
-    "name": "Caster User interface (WIP)",
-    "author": "RushieWashie",
-    "lastUpdated": "2023-12-12T12:50:21Z",
-    "stars": 3,
-    "minGameVersion": "140.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "(WIP) A Mindustry Mod  that aims to make the client a bit better for casting! Java rewrite of 'JiroCab/Caster-Ui' which was based off 'Ferlern/extended-UI'"
-  },
-  {
     "repo": "sharlottes/mlogwatcher",
     "name": "MLogWatcher",
     "author": "Sharlottes",
@@ -3100,6 +3089,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "the mlog watcher mod"
+  },
+  {
+    "repo": "jirocab/caster-ui-java",
+    "name": "Caster User interface",
+    "author": "RushieWashie",
+    "lastUpdated": "2023-12-14T23:34:00Z",
+    "stars": 3,
+    "minGameVersion": "140.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Aming to make the client a bit better for casting! with ease of use, simplicity and elegance in mind \n \n Java rewrite of 'JiroCab/Caster-Ui' which was based off 'Ferlern/extended-UI'"
   },
   {
     "repo": "amateurpotion/nuclearjavamod",
@@ -4018,7 +4018,7 @@
     "repo": "ruombus/deep-seadustry",
     "name": "Deep-Seadustry",
     "author": "Cyro",
-    "lastUpdated": "2023-12-14T21:09:41Z",
+    "lastUpdated": "2023-12-14T22:02:36Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -6691,11 +6691,22 @@
     "repo": "twcash/fabrica",
     "name": "Tantros-test",
     "author": "twcash",
-    "lastUpdated": "2023-12-14T22:00:01Z",
+    "lastUpdated": "2023-12-14T22:13:53Z",
     "stars": 0,
     "minGameVersion": "146",
-    "hasScripts": false,
+    "hasScripts": true,
     "hasJava": false,
     "description": "A Tantros attempt"
+  },
+  {
+    "repo": "radio-silence-1/dimension-shard",
+    "name": "Dimension Shard Core",
+    "author": "Radio Silence",
+    "lastUpdated": "2023-12-14T22:50:31Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A remake of the Dimension Shard core spawner."
   }
 ]
