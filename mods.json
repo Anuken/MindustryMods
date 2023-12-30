@@ -278,7 +278,7 @@
     "repo": "blackdeluxecat/mi2-utilities-java",
     "name": "MI2-Utilities Java",
     "author": "BlackDeluxeCat",
-    "lastUpdated": "2023-12-21T17:24:03Z",
+    "lastUpdated": "2023-12-30T07:43:23Z",
     "stars": 49,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -509,7 +509,7 @@
     "repo": "unionofsovietsocialistrepublics/spore-biomechs",
     "name": "Spore Biomechs",
     "author": "Water molecules",
-    "lastUpdated": "2023-12-30T05:12:10Z",
+    "lastUpdated": "2023-12-30T06:30:58Z",
     "stars": 22,
     "minGameVersion": "140",
     "hasScripts": true,
@@ -2772,6 +2772,17 @@
     "description": "A sus Mindustry Java mod"
   },
   {
+    "repo": "blackdeluxecat/settingsweep",
+    "name": "Setting Sweep",
+    "author": "BlackDeluxeCat",
+    "lastUpdated": "2023-01-25T04:13:05Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Clean up your settings!"
+  },
+  {
     "repo": "slotterleet/invasion-warning",
     "name": "Invasion Warning",
     "author": "Slotterleet",
@@ -3463,17 +3474,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds logic blocks to Erekir.\nForked to fix logic link names, not compatible with the original mod by DaRealMonika [blue]github.com/DaRealMonika/Eriker-Logic[]."
-  },
-  {
-    "repo": "blackdeluxecat/settingsweep",
-    "name": "Setting Sweep",
-    "author": "BlackDeluxeCat",
-    "lastUpdated": "2023-01-25T04:13:05Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Clean up your settings!"
   },
   {
     "repo": "alphajred1/federal-x-mod",
@@ -5159,17 +5159,6 @@
     "description": "Add the new sectors and content on Erekir"
   },
   {
-    "repo": "mohuqwq/brilliance",
-    "name": "光辉 ",
-    "author": "末狐是个鸽子",
-    "lastUpdated": "2023-12-28T08:20:16Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "黑暗终将退去，光辉终将到来，我们冲破黑暗，达到光明之地！\nQ群：575994735\n使用这个MOD来体验在mindustry中极不平衡（甚至有点离谱）的战役进度！"
-  },
-  {
     "repo": "haznobrain/erekir-liquefied",
     "name": "Erekir Liquefied",
     "author": "Haznobrain",
@@ -5190,6 +5179,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Expansion mod. Alpha stage."
+  },
+  {
+    "repo": "mohuqwq/brilliance",
+    "name": "光辉 ",
+    "author": "末狐是个鸽子",
+    "lastUpdated": "2023-12-30T07:52:03Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "黑暗终将退去，光辉终将到来，我们冲破黑暗，达到光明之地！\nQ群：575994735\n使用这个MOD来体验在mindustry中极不平衡（甚至有点离谱）的战役进度！"
   },
   {
     "repo": "emanuelg-gaming/ion",
@@ -5850,17 +5850,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Idk"
-  },
-  {
-    "repo": "glennfolker/confictura",
-    "name": "Confictura",
-    "author": "GlennFolker",
-    "lastUpdated": "2023-06-11T17:26:37Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Dive into the past of a trauma-driven uprising."
   },
   {
     "repo": "twcash/mindustry-mod-idk",
@@ -6796,5 +6785,16 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a new desert planet. The campaign is super unfinished and doesnt work properly. Everything might change in the future. I update it very often so reinstall it once in a while"
+  },
+  {
+    "repo": "glennfolker/confictura",
+    "name": "Mod Template",
+    "author": "You",
+    "lastUpdated": "2023-12-30T08:01:21Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mindustry Java mod template, complete with EntityAnno and syntax downgrader integration."
   }
 ]
