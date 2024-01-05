@@ -594,17 +594,6 @@
     "description": "⚠ВНИМАНИЕ!⚠\nПри удалении схемпака, теги остаются.\n Данный мод добавляет ОГРОМНУЮ КУЧУ схем на любой вкус.\nВсего здесь более чем 400 схем.\nОтдельное спасибо pixecoz, Qwertynoob, Anchovy, Mandu, Fox1va, Ilya034, Snake, без них ничего бы не вышло. ОТДЕЛЬНОЕ СПАСИБО Ilya034, который снова все это отсортировал.\n\nВ новом обновлении были изменены названия схем по категориям:\ngreen - начало игры;\norange - середина игры\nred - конец игры;\n(делал это чисто по своему мнению, могут быть неточности)\nостальные схемы тоже промаркированы по цветам:\ncrimson - схемы на деф;\ngold - логика;\npurple - логика с дисплеями;\nstat - буры;\ncyan - арты и игры;\npink - сами увидите);"
   },
   {
-    "repo": "three-cold-planets/welcome-to-the-frostscape",
-    "name": "Welcome to the Frostscape",
-    "author": "Sh1penfire",
-    "lastUpdated": "2023-12-26T22:16:32Z",
-    "stars": 18,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "An experimental modification created origionally to test v7's new API, but continued as a colab. Will *not* be worked on consistently due to life.\n\n[darkgray]A voice lingers in the darkness, dancing around your ears. Will you join it?"
-  },
-  {
     "repo": "mnemotechnician/new-console",
     "name": "New Console",
     "author": "Mnemotechnician",
@@ -614,6 +603,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds a console ui superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more,\na good log panel, execution history - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
+  },
+  {
+    "repo": "three-cold-planets/welcome-to-the-frostscape",
+    "name": "Welcome to the Frostscape",
+    "author": "Sh1penfire",
+    "lastUpdated": "2024-01-05T15:15:24Z",
+    "stars": 18,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "An experimental modification created origionally to test v7's new API, but continued as a colab. Will *not* be worked on consistently due to life.\n\n[darkgray]A voice lingers in the darkness, dancing around your ears. Will you join it?"
   },
   {
     "repo": "echovespy/simplistic",
@@ -2123,26 +2123,26 @@
     "description": "vast array of content"
   },
   {
+    "repo": "daxillion48/farborne-industries",
+    "name": "Farborne: Industries",
+    "author": "Daxillion",
+    "lastUpdated": "2024-01-05T15:24:12Z",
+    "stars": 5,
+    "minGameVersion": "145",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Welcome to Erbius!\nSpecial thanks to the Mindustry Discord\nNote: restart your game for settings to take effect\n"
+  },
+  {
     "repo": "twcash/tantros-test",
     "name": "Tantros-test",
     "author": "twcash",
-    "lastUpdated": "2024-01-05T03:53:39Z",
+    "lastUpdated": "2024-01-05T15:27:47Z",
     "stars": 5,
     "minGameVersion": "146",
     "hasScripts": true,
     "hasJava": false,
     "description": "A WIP Tantros Campaign"
-  },
-  {
-    "repo": "daxillion48/farborne-industries",
-    "name": "Farborne: Industries",
-    "author": "Daxillion",
-    "lastUpdated": "2024-01-05T14:00:14Z",
-    "stars": 5,
-    "minGameVersion": "145",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Welcome to Erbius!\nSpecial thanks to the Mindustry Discord\n"
   },
   {
     "repo": "spaceearthex/banana",
@@ -4092,17 +4092,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "stormybytes/mindustry-schematic-browser",
-    "name": "Schematic Browser Reworked",
-    "author": "SByte, Eeve-lyn",
-    "lastUpdated": "2024-01-04T06:23:02Z",
-    "stars": 2,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod for browsing schematic repositories."
-  },
-  {
     "repo": "i-am-fuse347/mindustryplus",
     "name": "Mindustry Plus",
     "author": "I_am_Fuse",
@@ -4112,6 +4101,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Random small mindustry mod."
+  },
+  {
+    "repo": "stormybytes/mindustry-schematic-browser",
+    "name": "Schematic Browser Reworked",
+    "author": "SByte, Eeve-lyn",
+    "lastUpdated": "2024-01-05T14:36:45Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod for browsing schematic repositories."
   },
   {
     "repo": "explerhd/unnamedmods",
@@ -5146,6 +5146,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Medium sized mod with tons of content."
+  },
+  {
+    "repo": "routerxdd/mechanicalwarfare-revisited",
+    "name": "Mechanical Warfare: Revisited",
+    "author": "Port creator: RouterXdd/R.O.T. \nOG creators: JerichoFletcher and GlennFolker",
+    "lastUpdated": "2023-12-20T17:02:20Z",
+    "stars": 1,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Unofficial port of mod Mechanical Warfare"
   },
   {
     "repo": "haznobrain/erekir-liquefied",
@@ -6653,17 +6664,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "a mindustry mod that adds a planet"
-  },
-  {
-    "repo": "routerxdd/mechanicalwarfare-revisited",
-    "name": "Mechanical Warfare: Revisited",
-    "author": "Port creator: RouterXdd/R.O.T. \nOG creators: JerichoFletcher and GlennFolker",
-    "lastUpdated": "2023-12-20T17:02:20Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Unofficial port of mod Mechanical Warfare"
   },
   {
     "repo": "camelstyleuser/mindustry-jvm-mod",
