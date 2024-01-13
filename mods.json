@@ -26,7 +26,7 @@
     "name": "New Horizon",
     "author": "Yuria",
     "lastUpdated": "2023-11-08T10:23:02Z",
-    "stars": 289,
+    "stars": 290,
     "minGameVersion": "145.1",
     "hasScripts": false,
     "hasJava": true,
@@ -246,7 +246,7 @@
     "name": "MI2-Utilities Java",
     "author": "BlackDeluxeCat",
     "lastUpdated": "2024-01-11T17:11:05Z",
-    "stars": 53,
+    "stars": 54,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -374,6 +374,17 @@
     "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
   },
   {
+    "repo": "eb-wilson/universecore",
+    "name": "Universe Core",
+    "author": "EBwilson",
+    "lastUpdated": "2023-10-20T15:57:39Z",
+    "stars": 28,
+    "minGameVersion": "144",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "testbuild.A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
+  },
+  {
     "repo": "paulieg626/cheat",
     "name": "CheatMod",
     "author": "paulieg626",
@@ -394,17 +405,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds byte logic blocks from v5"
-  },
-  {
-    "repo": "eb-wilson/universecore",
-    "name": "Universe Core",
-    "author": "EBwilson",
-    "lastUpdated": "2023-10-20T15:57:39Z",
-    "stars": 27,
-    "minGameVersion": "144",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "testbuild.A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
   },
   {
     "repo": "meepoffaith/testing-utilities-java",
@@ -466,7 +466,7 @@
     "name": "MinerTools",
     "author": "miner",
     "lastUpdated": "2023-07-20T02:10:28Z",
-    "stars": 24,
+    "stars": 25,
     "minGameVersion": "136.1",
     "hasScripts": false,
     "hasJava": true,
@@ -726,6 +726,17 @@
     "description": "I know the name is very boring but i can't find another name. A mod that adds a great amount of content to the game. Have fun with the mod."
   },
   {
+    "repo": "yuria-shikibe/gameinfoimager",
+    "name": "Game Info Imager",
+    "author": "Yuria",
+    "lastUpdated": "2023-01-20T01:50:39Z",
+    "stars": 15,
+    "minGameVersion": "141.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Show the range of turrets and units.\nShow the units the next wave will spawn."
+  },
+  {
     "repo": "apszoldat/mindustry-mapping-utilities",
     "name": "Mapping Utilities",
     "author": "ApsZoldat",
@@ -768,17 +779,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mindustry Erekir mod moment"
-  },
-  {
-    "repo": "yuria-shikibe/gameinfoimager",
-    "name": "Game Info Imager",
-    "author": "Yuria",
-    "lastUpdated": "2023-01-20T01:50:39Z",
-    "stars": 14,
-    "minGameVersion": "141.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Show the range of turrets and units.\nShow the units the next wave will spawn."
   },
   {
     "repo": "mnemotechnician/new-controls-public",
@@ -880,6 +880,17 @@
     "description": "WIP"
   },
   {
+    "repo": "yaddrx2/yr2-logic-debugger",
+    "name": "yr2 Logic Debugger",
+    "author": "原作者：DeltaNedas\n修改：yaddrx2",
+    "lastUpdated": "2024-01-10T02:54:31Z",
+    "stars": 13,
+    "minGameVersion": "137",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Logic Debugger\n\n一个逻辑辅助工具\n\n原作DeltaNedas/ldb\n\nyaddrx2将其升级到了137，仅供学习交流使用\n\n当前版本：1.7.0\n\n更新日志\n\nv1.0.1\n将mod版本升为137\n\nv1.0.2\n取消ui-lib的前置\n\nv1.0.3\n逻辑码编辑板\n新增代码语句的文本形式编辑\n\nv1.0.4\n逻辑块变量面板\n变量更新闪烁\n增加逻辑块所连方块的显示\n\nv1.0.5\n内存块编辑板\n内存值更新闪烁\n新增内存值的二进制形式视察\n实现内存值的十六进制形式编辑\n\nv1.0.6\n新增代码插入相关操作\n实现从剪切板导入代码块到指定位置\n\nv1.0.7\n新增面板的折叠按钮\n修复学术端运行mod导致的面板移位或覆盖\n修复面板横向抖动的bug\n\nv1.0.8\n单步调试面板\n实现代码单步运行调试\n\nv1.1.0\n新增调试面板设置断点\n实现运行到下一断点操作\n\nv1.1.1\n新增变量位置指示器\n显示单位变量的flag\n\nv1.2\n新增调试面板的运行位置追踪\n新增功能标签\n\nv1.3\n位置指示器增加变量名\n\nv1.4\n内存块面板增加内存值导入导出\n\nv1.5\n变量面板增加变量值导出\n\nv1.6\n内存面板的变量名筛选\n内存值导出筛选器\n\nv1.7\n增加信息板复制与导入"
+  },
+  {
     "repo": "mythril382/roombas",
     "name": "Roombas",
     "author": "Mythril",
@@ -922,17 +933,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that adds [red]fleshy stuff"
-  },
-  {
-    "repo": "yaddrx2/yr2-logic-debugger",
-    "name": "yr2 Logic Debugger",
-    "author": "原作者：DeltaNedas\n修改：yaddrx2",
-    "lastUpdated": "2024-01-10T02:54:31Z",
-    "stars": 12,
-    "minGameVersion": "137",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Logic Debugger\n\n一个逻辑辅助工具\n\n原作DeltaNedas/ldb\n\nyaddrx2将其升级到了137，仅供学习交流使用\n\n当前版本：1.7.0\n\n更新日志\n\nv1.0.1\n将mod版本升为137\n\nv1.0.2\n取消ui-lib的前置\n\nv1.0.3\n逻辑码编辑板\n新增代码语句的文本形式编辑\n\nv1.0.4\n逻辑块变量面板\n变量更新闪烁\n增加逻辑块所连方块的显示\n\nv1.0.5\n内存块编辑板\n内存值更新闪烁\n新增内存值的二进制形式视察\n实现内存值的十六进制形式编辑\n\nv1.0.6\n新增代码插入相关操作\n实现从剪切板导入代码块到指定位置\n\nv1.0.7\n新增面板的折叠按钮\n修复学术端运行mod导致的面板移位或覆盖\n修复面板横向抖动的bug\n\nv1.0.8\n单步调试面板\n实现代码单步运行调试\n\nv1.1.0\n新增调试面板设置断点\n实现运行到下一断点操作\n\nv1.1.1\n新增变量位置指示器\n显示单位变量的flag\n\nv1.2\n新增调试面板的运行位置追踪\n新增功能标签\n\nv1.3\n位置指示器增加变量名\n\nv1.4\n内存块面板增加内存值导入导出\n\nv1.5\n变量面板增加变量值导出\n\nv1.6\n内存面板的变量名筛选\n内存值导出筛选器\n\nv1.7\n增加信息板复制与导入"
   },
   {
     "repo": "zeutd/disintegration",
@@ -1037,7 +1037,7 @@
     "repo": "i-hope1/mod-tools",
     "name": "mod工具",
     "author": "I hope...",
-    "lastUpdated": "2024-01-13T11:54:03Z",
+    "lastUpdated": "2024-01-13T13:03:37Z",
     "stars": 11,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1098,6 +1098,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "[white]This mindustry mod allows players to explore a planet named Greavar and defend against indigenous attacks while developing local minerals and researching technology.\n\n[gray]Language:\n[white]- 简体中文\n[white]- English [red](WIP)\n[white]- Français [red](WIP)\n[white]- Русский язык [red](WIP)\n\n[white]...check our GitHub repository for more info!\n\n[white]I am looking for volunteers who can translate this mod into his (or her) native language."
+  },
+  {
+    "repo": "blackdeluxecat/schematicparse",
+    "name": "Schematic Parse",
+    "author": "BlackDeluxeCat",
+    "lastUpdated": "2023-12-02T16:09:41Z",
+    "stars": 10,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "1.从蓝图详情页直接复制逻辑和信息板。2.蓝图消耗计算套件。\nCopy processor/message in schematic info without placing it. Schematic consumption computing tool. \nGithub: BlackDeluxeCat/SchematicParse"
   },
   {
     "repo": "saigon0nozomi/nightscape",
@@ -1188,6 +1199,17 @@
     "description": "Adds logic blocks for erekir.\nMy first mod plz give star."
   },
   {
+    "repo": "blackdeluxecat/shadowshader",
+    "name": "Shadow Shader",
+    "author": "BlackDeluxeCat",
+    "lastUpdated": "2023-05-27T04:20:25Z",
+    "stars": 9,
+    "minGameVersion": "144.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "SHADOOOW your GAME!! repo: BlackDeluxeCat/ShadowShader"
+  },
+  {
     "repo": "electricgun/toggle-editor-mode",
     "name": "Toggle Editor Mode",
     "author": "ElectricGun",
@@ -1197,17 +1219,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Allows access to Editor Mode on Sandbox and Singleplayer\n\nDoes not work on Multiplayer and Campaign.\n\nUpdate: Fixed map editor crash and delay."
-  },
-  {
-    "repo": "blackdeluxecat/schematicparse",
-    "name": "Schematic Parse",
-    "author": "BlackDeluxeCat",
-    "lastUpdated": "2023-12-02T16:09:41Z",
-    "stars": 9,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "1.从蓝图详情页直接复制逻辑和信息板。2.蓝图消耗计算套件。\nCopy processor/message in schematic info without placing it. Schematic consumption computing tool. \nGithub: BlackDeluxeCat/SchematicParse"
   },
   {
     "repo": "eeve-lyn/schematic-browser",
@@ -1329,17 +1340,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "In developement..."
-  },
-  {
-    "repo": "blackdeluxecat/shadowshader",
-    "name": "Shadow Shader",
-    "author": "BlackDeluxeCat",
-    "lastUpdated": "2023-05-27T04:20:25Z",
-    "stars": 8,
-    "minGameVersion": "144.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "SHADOOOW your GAME!! repo: BlackDeluxeCat/ShadowShader"
   },
   {
     "repo": "pointifix/autotranslate",
@@ -1664,7 +1664,7 @@
     "repo": "daxillion48/farborne-industries",
     "name": "Farborne: Industries",
     "author": "Daxillion",
-    "lastUpdated": "2024-01-13T11:37:31Z",
+    "lastUpdated": "2024-01-13T12:48:35Z",
     "stars": 7,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -2948,6 +2948,17 @@
     "description": "A Small Texturepack that changes World Processor and World Cell into Command blocks from Minecraft."
   },
   {
+    "repo": "kubikaugustyn/mindustrytoolkit",
+    "name": "Mindustry Toolkit",
+    "author": "Jakub Augustýn",
+    "lastUpdated": "2023-07-06T11:59:45Z",
+    "stars": 3,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry toolkit mod by GitHub - kubikaugustyn / Discord - HackerKuba2009#9722"
+  },
+  {
     "repo": "i-hope1/betterjs",
     "name": "BetterJS",
     "author": "I hope...",
@@ -3716,17 +3727,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Unicorp presents to you their various units for mining purpose, assault tactics and items transportation!\n  P.S. This mod may need some balancing. If you find bugs or think the content needs tweaking, just message me on Discord(TroniusPlay#4386) or Github."
-  },
-  {
-    "repo": "kubikaugustyn/mindustrytoolkit",
-    "name": "Mindustry Toolkit",
-    "author": "Jakub Augustýn",
-    "lastUpdated": "2023-07-06T11:59:45Z",
-    "stars": 2,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry toolkit mod by GitHub - kubikaugustyn / Discord - HackerKuba2009#9722"
   },
   {
     "repo": "nevaseenyeee/unto-ather",
@@ -5487,17 +5487,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Future curse the enemy and help them stronger,somehow...."
-  },
-  {
-    "repo": "danunderscore/neko-arc-turret-op-bruh",
-    "name": "Neko-Arc",
-    "author": "DanUnderscore",
-    "lastUpdated": "2023-01-11T16:02:32Z",
-    "stars": 0,
-    "minGameVersion": "140.4",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "in development. full version coming soon."
   },
   {
     "repo": "dugenougaemr/mindustry_mod_test",
