@@ -924,17 +924,6 @@
     "description": "A mod that adds [red]fleshy stuff"
   },
   {
-    "repo": "zeutd/disintegration",
-    "name": "disintegration",
-    "author": "zeutd",
-    "lastUpdated": "2024-01-09T06:10:01Z",
-    "stars": 12,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod."
-  },
-  {
     "repo": "yaddrx2/yr2-logic-debugger",
     "name": "yr2 Logic Debugger",
     "author": "原作者：DeltaNedas\n修改：yaddrx2",
@@ -944,6 +933,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Logic Debugger\n\n一个逻辑辅助工具\n\n原作DeltaNedas/ldb\n\nyaddrx2将其升级到了137，仅供学习交流使用\n\n当前版本：1.7.0\n\n更新日志\n\nv1.0.1\n将mod版本升为137\n\nv1.0.2\n取消ui-lib的前置\n\nv1.0.3\n逻辑码编辑板\n新增代码语句的文本形式编辑\n\nv1.0.4\n逻辑块变量面板\n变量更新闪烁\n增加逻辑块所连方块的显示\n\nv1.0.5\n内存块编辑板\n内存值更新闪烁\n新增内存值的二进制形式视察\n实现内存值的十六进制形式编辑\n\nv1.0.6\n新增代码插入相关操作\n实现从剪切板导入代码块到指定位置\n\nv1.0.7\n新增面板的折叠按钮\n修复学术端运行mod导致的面板移位或覆盖\n修复面板横向抖动的bug\n\nv1.0.8\n单步调试面板\n实现代码单步运行调试\n\nv1.1.0\n新增调试面板设置断点\n实现运行到下一断点操作\n\nv1.1.1\n新增变量位置指示器\n显示单位变量的flag\n\nv1.2\n新增调试面板的运行位置追踪\n新增功能标签\n\nv1.3\n位置指示器增加变量名\n\nv1.4\n内存块面板增加内存值导入导出\n\nv1.5\n变量面板增加变量值导出\n\nv1.6\n内存面板的变量名筛选\n内存值导出筛选器\n\nv1.7\n增加信息板复制与导入"
+  },
+  {
+    "repo": "zeutd/disintegration",
+    "name": "disintegration",
+    "author": "zeutd",
+    "lastUpdated": "2024-01-13T01:25:14Z",
+    "stars": 12,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod."
   },
   {
     "repo": "minri2/itembridgex",
@@ -2596,6 +2596,17 @@
     "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer and pain on top"
   },
   {
+    "repo": "no9527dada/ct-origin",
+    "name": "创世神2-起源独立版",
+    "author": "编号9527",
+    "lastUpdated": "2024-01-13T01:38:52Z",
+    "stars": 4,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\n\n  本模组的战役较难，不适合初次接触此游戏的玩家\n  模组难点体现在：\n波次时间短\n地形复杂\n敌人强大\n建议多多发展后勤资源\n使用发射台来提供源源不断的资源\n-\nThe campaign of this mod is very difficult and not suitable for players who are new to this game\nIt is recommended to have an understanding of the game after clearing the original version before playing this mod\nThe difficulty of the module is reflected in:\nWaves are very short\nComplex terrain\nthe enemy is strong\nIt is recommended to develop more logistical resources\nUse launch pads to provide a steady stream of resources\n------------------创世神起源\n"
+  },
+  {
     "repo": "mythril382/u-r-a-i-c",
     "name": "U. R. A. I. C.",
     "author": "Mythril",
@@ -2682,17 +2693,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": " (Version is Alpha Missing Content) Recreating Slotterleet Hard Mode Mod compatible for V7, also a HUGE Difficulty Spike Version 1.3 BIGGEST UPDATE: Huge Unit Resprite, Eboy Bosses, Ironman Versions of Campaign Maps, Secret Boss, and a New Univlogs boss"
-  },
-  {
-    "repo": "zerattel/mindustry-red-alert-3-soundtrack-pack",
-    "name": "Red alert 3 music",
-    "author": "Zerattel",
-    "lastUpdated": "2022-08-27T12:18:03Z",
-    "stars": 3,
-    "minGameVersion": "136.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "I made this mod for 5 hours of my life and bottle of pivo. Guys from ukrainian mindustry server in discord inspired\nme to try made mod. Jokingly, I said that I would try to make a mod that adds music from Red Alert 3, but I didn’t think that I would just do it for fun.\nMaksim loh ebaniy. EDIT:Ok, maksim may be good."
   },
   {
     "repo": "mnemotechnician/achievements",
@@ -4433,17 +4433,6 @@
     "description": "Another Random Vanilla Extension for Mindustry"
   },
   {
-    "repo": "chrono-heritage/chrono-strange-shit",
-    "name": "Chrono's Strange Shit",
-    "author": "Chrono",
-    "lastUpdated": "2023-03-18T13:57:45Z",
-    "stars": 1,
-    "minGameVersion": "140.4",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mindustry mod with my strange thinkings in it."
-  },
-  {
     "repo": "lehanchic/factory-units",
     "name": "Factory units",
     "author": "Lehanchic25 ",
@@ -5181,6 +5170,17 @@
     "description": "Adds a toggleable overflow/undeflow gate."
   },
   {
+    "repo": "laohuajiofficial/foodfactory",
+    "name": "FoodFactory",
+    "author": "LaoHuaJi",
+    "lastUpdated": "2024-01-05T05:58:55Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mod In Dev"
+  },
+  {
     "repo": "chaoticans-mindustry-modding-team/javacamod",
     "name": "Javacamod",
     "author": "The chaoticans",
@@ -5236,17 +5236,6 @@
     "description": "go ahead, spam heater to ur crafters."
   },
   {
-    "repo": "no9527dada/creators3",
-    "name": "创世神3-仙明决",
-    "author": "编号9527，皴皲",
-    "lastUpdated": "2024-01-12T05:12:18Z",
-    "stars": 1,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "策划:9527，贴图:皴皲，处理器逻辑指导:咕咕点心"
-  },
-  {
     "repo": "balam314/extensions",
     "name": "Extensions",
     "author": "BalaM314",
@@ -5278,6 +5267,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "I really hate this mod, i put more effort in it than anyone else in their first mod. \nThere was one contributor and his name was mq, one sprite belongs to him. epic \nGood luck with this mod, and no you cant use it in campaign for the sake of my sanity, *yet*"
+  },
+  {
+    "repo": "no9527dada/creators3",
+    "name": "创世神3-仙明决",
+    "author": "编号9527，皴皲",
+    "lastUpdated": "2024-01-13T02:04:56Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "策划:9527，贴图:皴皲，世处逻辑:咕咕点心"
   },
   {
     "repo": "emanuelg-gaming/ion",
@@ -6851,17 +6851,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Reduces desyncs & applies flood changes on join. [v0.3]"
-  },
-  {
-    "repo": "laohuajiofficial/foodfactory",
-    "name": "FoodFactory",
-    "author": "LaoHuaJi",
-    "lastUpdated": "2024-01-05T05:58:55Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mod In Dev"
   },
   {
     "repo": "ycp-team/content-mod",
