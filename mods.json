@@ -575,9 +575,9 @@
     "repo": "three-cold-planets/welcome-to-the-frostscape",
     "name": "Welcome to the Frostscape",
     "author": "Sh1penfire",
-    "lastUpdated": "2024-01-14T01:11:38Z",
+    "lastUpdated": "2024-01-14T07:01:50Z",
     "stars": 19,
-    "minGameVersion": "140",
+    "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
     "description": "An experimental modification created origionally to test v7's new API, but continued as a colab. Will *not* be worked on consistently due to life.\n\n[darkgray]A voice lingers in the darkness, dancing around your ears. Will you join it?"
@@ -1023,6 +1023,17 @@
     "description": "OP Things is a mod that makes the game easier, but isn't a hack.\n\n[#FF0000]WARNING: A lot of the mod things are just some shit."
   },
   {
+    "repo": "saigon0nozomi/nightscape",
+    "name": "NightScape",
+    "author": "Saigo no-nozomi. \nTranslation: CyberSirnik",
+    "lastUpdated": "2024-01-11T10:13:18Z",
+    "stars": 11,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds new planet with unique content and some new mechanics"
+  },
+  {
     "repo": "balam314/no-invasions",
     "name": "No Sector Re Attacks",
     "author": "BalaM314",
@@ -1037,7 +1048,7 @@
     "repo": "i-hope1/mod-tools",
     "name": "mod工具",
     "author": "I hope...",
-    "lastUpdated": "2024-01-14T04:39:08Z",
+    "lastUpdated": "2024-01-14T06:06:29Z",
     "stars": 11,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1109,17 +1120,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "1.从蓝图详情页直接复制逻辑和信息板。2.蓝图消耗计算套件。\nCopy processor/message in schematic info without placing it. Schematic consumption computing tool. \nGithub: BlackDeluxeCat/SchematicParse"
-  },
-  {
-    "repo": "saigon0nozomi/nightscape",
-    "name": "NightScape",
-    "author": "Saigo no-nozomi. \nTranslation: CyberSirnik",
-    "lastUpdated": "2024-01-11T10:13:18Z",
-    "stars": 10,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds new planet with unique content and some new mechanics"
   },
   {
     "repo": "uenhe/fire",
@@ -1235,7 +1235,7 @@
     "repo": "xtarsagency/zeridmuth",
     "name": "Zeridmuth: A New Beginning",
     "author": "[red]Xtarsagency\r\n[yellow]Contributors: [cyan]ItzCraft, [yellow]Mitemi, [pink]Yoru-Kitsune",
-    "lastUpdated": "2024-01-13T19:36:51Z",
+    "lastUpdated": "2024-01-14T06:22:30Z",
     "stars": 9,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1444,7 +1444,7 @@
     "repo": "eyeofdarkness/flameout",
     "name": "Flame Out",
     "author": "EoD",
-    "lastUpdated": "2024-01-11T14:38:07Z",
+    "lastUpdated": "2024-01-14T06:41:25Z",
     "stars": 8,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -1664,7 +1664,7 @@
     "repo": "daxillion48/farborne-industries",
     "name": "Farborne: Industries",
     "author": "Daxillion",
-    "lastUpdated": "2024-01-13T17:43:52Z",
+    "lastUpdated": "2024-01-14T07:31:36Z",
     "stars": 7,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -3248,12 +3248,12 @@
     "repo": "abaines/kizraks-radar",
     "name": "Kizrak's Radar",
     "author": "Kizrak",
-    "lastUpdated": "2024-01-13T22:31:31Z",
+    "lastUpdated": "2024-01-14T07:16:18Z",
     "stars": 3,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
-    "description": "Adds very large radius processor based radar. Source: https://github.com/abaines/Kizrak-s-Radar"
+    "description": "Adds very large radius radar and processor. \n\nhttps://github.com/abaines/Kizraks-Radar"
   },
   {
     "repo": "amateurpotion/nuclearjavamod",
@@ -4194,7 +4194,7 @@
     "repo": "xtarsagency/arvtom",
     "name": "Arvtom: Last Descent (WIP)",
     "author": "[red]Xtarsagency",
-    "lastUpdated": "2024-01-13T19:59:15Z",
+    "lastUpdated": "2024-01-14T06:06:28Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -4321,17 +4321,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "thorium conveyors added\r\n-40% faster than titanium conveyors\r\n-costs 2 thorium"
-  },
-  {
-    "repo": "mindustry-qcc/mindustry-magic-mod",
-    "name": "魔法工业",
-    "author": "Vshes",
-    "lastUpdated": "2022-11-21T11:50:39Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "纯纯的科技与魔法啊哥们"
   },
   {
     "repo": "vxmendozagithub/unfair-ererkir-mod",
@@ -5410,17 +5399,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "为所以氢气mod提供前置"
-  },
-  {
-    "repo": "mindustry-qcc/mindustry-js-mod",
-    "name": "Jsmod",
-    "author": "Vshes qq2595168568",
-    "lastUpdated": "2022-11-02T05:21:25Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Jsmod"
   },
   {
     "repo": "exxleo/exoterusmod",
