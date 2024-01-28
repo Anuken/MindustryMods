@@ -26,7 +26,7 @@
     "name": "New Horizon",
     "author": "Yuria",
     "lastUpdated": "2023-11-08T10:23:02Z",
-    "stars": 293,
+    "stars": 294,
     "minGameVersion": "145.1",
     "hasScripts": false,
     "hasJava": true,
@@ -946,17 +946,6 @@
     "description": "This mod plays soundtracks from the game Halo 3: ODST. \n\nWarning: This is a heavy mod, download using Wi-Fi is recommended."
   },
   {
-    "repo": "saigon0nozomi/nightscape",
-    "name": "NightScape",
-    "author": "Saigo no-nozomi. \nTranslation: CyberSirnik",
-    "lastUpdated": "2024-01-11T10:13:18Z",
-    "stars": 12,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds new planet with unique content and some new mechanics"
-  },
-  {
     "repo": "zeutd/disintegration",
     "name": "disintegration",
     "author": "zeutd",
@@ -1043,6 +1032,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Pyratite focused mod which adds units turrets drills and factorys\nNOT the most balanced"
+  },
+  {
+    "repo": "saigon0nozomi/nightscape",
+    "name": "NightScape",
+    "author": "Saigo no-nozomi. \nTranslation: CyberSirnik",
+    "lastUpdated": "2024-01-11T10:13:18Z",
+    "stars": 11,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds new planet with unique content and some new mechanics"
   },
   {
     "repo": "balam314/no-invasions",
@@ -2643,7 +2643,7 @@
     "repo": "chaoticans-mindustry-modding-team/ca-mod",
     "name": "ca-mod",
     "author": "The chaoticans",
-    "lastUpdated": "2024-01-28T11:21:14Z",
+    "lastUpdated": "2024-01-28T12:47:21Z",
     "stars": 4,
     "minGameVersion": "143",
     "hasScripts": false,
@@ -4224,17 +4224,6 @@
     "description": "I really hate this mod, i put more effort in it than anyone else in their first mod. \nThere was one contributor and his name was mq, one sprite belongs to him. epic \nGood luck with this mod, and no you cant use it in campaign for the sake of my sanity, *yet*"
   },
   {
-    "repo": "spore-biometh-team/sandmod",
-    "name": "Greektech",
-    "author": "Watermocules",
-    "lastUpdated": "2024-01-25T04:57:36Z",
-    "stars": 2,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Fun have been surgically removed from this mod, now with gregtech level of grinding."
-  },
-  {
     "repo": "trrestghgytcftgbcxszd/cheatdustry",
     "name": "Geriodustry V7",
     "author": "TRRESTGHGYTCFTGBCXSZD",
@@ -4266,6 +4255,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a new desert planet. The campaign is super unfinished and doesnt work properly. Everything might change in the future. I update it very often so reinstall it once in a while"
+  },
+  {
+    "repo": "spore-biometh-team/sandmod",
+    "name": "Greektech",
+    "author": "Watermocules",
+    "lastUpdated": "2024-01-28T12:35:58Z",
+    "stars": 2,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Fun have been surgically removed from this mod, now with gregtech level of grinding."
   },
   {
     "repo": "explerhd/unnamedmods",
@@ -5338,7 +5338,7 @@
     "repo": "unionofsovietsocialistrepublics/sporebiomethane",
     "name": "Spore biomethane",
     "author": "Water white",
-    "lastUpdated": "2024-01-28T10:31:29Z",
+    "lastUpdated": "2024-01-28T13:51:36Z",
     "stars": 1,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -7115,5 +7115,38 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Build new Cores anywhere you like."
+  },
+  {
+    "repo": "leyn-pl/showallsecrets",
+    "name": "Show All Secrets",
+    "author": "_LEYN",
+    "lastUpdated": "2024-01-28T13:21:33Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Shows all Anuken's secrets. Makes all hidden content visible, with a bit of balance.\n\nYou cant build hidden blocks on servers."
+  },
+  {
+    "repo": "leyn-pl/reconfix",
+    "name": "Reconstructor Fix",
+    "author": "_LEYN",
+    "lastUpdated": "2024-01-28T13:23:42Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Fixes -in sprites of reconstructors to fit previous unit tier."
+  },
+  {
+    "repo": "leyn-pl/coreunitregen",
+    "name": "Core Unit Regen",
+    "author": "_LEYN",
+    "lastUpdated": "2024-01-28T13:29:30Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a 5%/s regeneration to serpulo core units. Now you don't have to press \"V\" every time you get damaged."
   }
 ]
