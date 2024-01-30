@@ -242,6 +242,17 @@
     "description": "# MI2-Utilities Java\n\n### Intro\n- [English](README.md) | [中文](README_zh.md)\n\nQOL Mod, powerful assists to vanilla gameplay. For destined Mindustry players.\n\n### Install\n\n- Method 1: \"Import from github\", with \"BlackDeluxeCat/MI2-Utilities-Java\". This makes reinstall available. (recommended)\n- Method 2: Get the latest release, download \"MI2-Utilities Java.jar\". Then \"Import from a file\" with the file.\n\nQQ Group(中文zh_cn) number: 875035496\n\n### Contribution\n- PRs: l10n, bug fix, new feature.\n- Issues: bug report, suggestion.\n\n---\n\n## Features(1.2.3c)\n\n#### MI2UI\n- Functions: one-click planning rebuild, distribution building reveal.\n- Logical FPS simulation.\n- AI-assist: auto mining, auto construct plans, auto self-repair, auto aiming.\n- Most of the map rules.\n- Wave info, force skipwave, wave health bars.\n- RTS Formation creating and selecting.\n- Most of MI2U's options.\n\n#### Core Info\n- Vanilla core info ++, charts of resource changes.\n- Unit counter.\n- Power net bars & net building analyse.\n- Switch to view other teams.\n\n#### MindowMap\n- Renderer based on vanilla.\n- Sensible zoomed to full map.\n- Player labels.\n- Clicking pans camera.\n- Space Scan world finder.\n- Logic Building Stats\n\n#### Map Info\n\n\n#### Logic Helper\n- Sort and fast typing var names, using delimiter.\n- Search & Replace.\n- Cut or Copy, and Paste.\n\n#### Emoji\n- Emoji book.\n\n#### Mindow2\nDraggable window for this mod. On the auto-hidden title bar, you can open settings dialog, minimize it, or tap the title to drag. For details, open settings and see the help pages of each Mindow2.\n\nPosition, snap, etc. can be saved through settings.\n\n#### Others\n- Smooth multiplayer cursors.\n- Block/Unit hp bar, logic lines, pathfind lines.\n- Disable wrecks, units, bullets rendering.\n- Distribution buildings interior reveal.\n- Modify block stat bars, make it following cursor.\n- 99.5% of changes can be turned off with options.\n- The settings stored at $Mindustry/mods/MI2U_Settings/.\n\n---\n\nEarly JS version: [BlackDeluxeCat/MI2-Utilities](https://github.com/BlackDeluxeCat/MI2-Utilities)\n\nMy friend did a lot of other functions, see [MinerTools](https://github.com/RlCCJ/MinerTools)."
   },
   {
+    "repo": "deltanedas/routorio-old",
+    "name": "routorio",
+    "author": "deltanedas",
+    "lastUpdated": "2024-01-30T14:53:14Z",
+    "stars": 55,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Reality-shattering router expansion mod.\nOptionally requires deltanedas/rtfm for manual pages.\n10/10 IGN\n  - Router\nUkranian translation by Prostaчок_ua\nAlso try out Slava1035/reVision!"
+  },
+  {
     "repo": "sharlottes/sharustry",
     "name": "Sharustry",
     "author": "Sharlottes",
@@ -563,13 +574,13 @@
   {
     "repo": "three-cold-planets/welcome-to-the-frostscape",
     "name": "Welcome to the Frostscape",
-    "author": "Sh1penfire",
-    "lastUpdated": "2024-01-30T13:53:17Z",
+    "author": "Sh1penfire\nFractured\nRilyProductions",
+    "lastUpdated": "2024-01-30T14:03:52Z",
     "stars": 20,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
-    "description": "A currently [red]indev[] colab mod with huge scope, being built one planet at a time.\n\nAims to add several cold planets with linked campaigns, along with mechanics that'll [accent]revolutionise[] the way you interact with the mod's different environments, while tryingg to stay enjoyable and even a lil silly at times.\n\n[darkgray]A voice lingers in the darkness, dancing around your ears. Will you join it?"
+    "description": "A currently [red]indev[] colab mod with huge scope, being built one planet at a time.\n\nAims to add several cold planets with linked campaigns, along with mechanics that'll [accent]revolutionise[] the way you interact with the mod's different environments, while trying to stay enjoyable and even a lil silly at times.\n\n[darkgray]A voice lingers in the darkness, dancing around your ears. Will you join it?"
   },
   {
     "repo": "sk7725/testers",
@@ -1070,7 +1081,7 @@
     "repo": "i-hope1/mod-tools",
     "name": "mod工具",
     "author": "I hope...",
-    "lastUpdated": "2024-01-30T08:11:42Z",
+    "lastUpdated": "2024-01-30T14:47:51Z",
     "stars": 11,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -3982,17 +3993,6 @@
     "description": "A Mindustry Java mod."
   },
   {
-    "repo": "camelstyleuser/popup-unforked",
-    "name": "popup",
-    "author": "[REDACTED]",
-    "lastUpdated": "2023-10-07T06:22:44Z",
-    "stars": 2,
-    "minGameVersion": "144.3",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "adds 65-85 popups on startup"
-  },
-  {
     "repo": "mythril382/morsecode",
     "name": "Morse Code",
     "author": "Mythril",
@@ -4235,17 +4235,6 @@
     "description": "Fun have been surgically removed from this mod, now with gregtech level of grinding."
   },
   {
-    "repo": "andromeda-galaxy29/psammos-mod",
-    "name": "Psammos Mod (WIP)",
-    "author": "Andromeda-Galaxy29",
-    "lastUpdated": "2024-01-28T16:07:06Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a new desert planet. The campaign is super unfinished and doesnt work properly. Everything might change in the future. I update it very often so reinstall it once in a while"
-  },
-  {
     "repo": "trrestghgytcftgbcxszd/cheatdustry",
     "name": "Geriodustry V7",
     "author": "TRRESTGHGYTCFTGBCXSZD",
@@ -4277,6 +4266,28 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "adds bitches and some other things"
+  },
+  {
+    "repo": "andromeda-galaxy29/psammos-mod",
+    "name": "Psammos Mod (WIP)",
+    "author": "Andromeda-Galaxy29",
+    "lastUpdated": "2024-01-30T14:46:36Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a new desert planet. The campaign is super unfinished and doesnt work properly. Everything might change in the future. I update it very often so reinstall it once in a while"
+  },
+  {
+    "repo": "camelstyleuser/popup-unforked",
+    "name": "popup",
+    "author": "[REDACTED]",
+    "lastUpdated": "2024-01-30T15:09:24Z",
+    "stars": 2,
+    "minGameVersion": "144.3",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "adds 65-85 popups on startup"
   },
   {
     "repo": "explerhd/unnamedmods",
@@ -7073,17 +7084,6 @@
     "description": "The underground nightmare is coming..."
   },
   {
-    "repo": "trrestghgytcftgbcxszd/geriodustry-geriocharacters",
-    "name": "Geriodustry Crumps",
-    "author": "TRRESTGHGYTCFTGBCXSZD",
-    "lastUpdated": "2024-01-27T15:12:11Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "This adds Crumps, and the Mascot, GerioSB."
-  },
-  {
     "repo": "vincenzotheduck/ducks-mindustry-mod",
     "name": "Duck's Mindustry Mod",
     "author": "Duck",
@@ -7172,14 +7172,25 @@
     "description": "Dive into the past of a trauma-driven uprising."
   },
   {
+    "repo": "trrestghgytcftgbcxszd/geriodustry-geriocharacters",
+    "name": "Geriodustry Crumps",
+    "author": "TRRESTGHGYTCFTGBCXSZD",
+    "lastUpdated": "2024-01-30T15:48:56Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "This adds Crumps, and the Mascot, GerioSB."
+  },
+  {
     "repo": "bluetechnocat/neomod",
     "name": "Neo Mod",
     "author": "BlueTechno",
-    "lastUpdated": "2024-01-29T16:33:44Z",
+    "lastUpdated": "2024-01-30T16:00:32Z",
     "stars": 0,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
-    "description": "Searching for new materials you decided to drill into the core of the planet,\nand you managed to find something that might change the tide in your favor..."
+    "description": "Searching for new materials you decided to drill into the core of the planet, and you managed to find something that might change the tide in your favor..."
   }
 ]
