@@ -81,7 +81,7 @@
     "name": "Time Control",
     "author": "sk7725",
     "lastUpdated": "2023-05-26T06:12:17Z",
-    "stars": 107,
+    "stars": 108,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
@@ -223,7 +223,7 @@
     "repo": "xstabux/omaloon",
     "name": "Omaloon",
     "author": "_stabu_",
-    "lastUpdated": "2024-01-30T00:38:55Z",
+    "lastUpdated": "2024-01-31T20:45:11Z",
     "stars": 61,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -913,6 +913,17 @@
     "description": "Logic Debugger\n\n一个逻辑辅助工具\n\n原作DeltaNedas/ldb\n\nyaddrx2将其升级到了137，仅供学习交流使用\n\n当前版本：1.7.0\n\n更新日志\n\nv1.0.1\n将mod版本升为137\n\nv1.0.2\n取消ui-lib的前置\n\nv1.0.3\n逻辑码编辑板\n新增代码语句的文本形式编辑\n\nv1.0.4\n逻辑块变量面板\n变量更新闪烁\n增加逻辑块所连方块的显示\n\nv1.0.5\n内存块编辑板\n内存值更新闪烁\n新增内存值的二进制形式视察\n实现内存值的十六进制形式编辑\n\nv1.0.6\n新增代码插入相关操作\n实现从剪切板导入代码块到指定位置\n\nv1.0.7\n新增面板的折叠按钮\n修复学术端运行mod导致的面板移位或覆盖\n修复面板横向抖动的bug\n\nv1.0.8\n单步调试面板\n实现代码单步运行调试\n\nv1.1.0\n新增调试面板设置断点\n实现运行到下一断点操作\n\nv1.1.1\n新增变量位置指示器\n显示单位变量的flag\n\nv1.2\n新增调试面板的运行位置追踪\n新增功能标签\n\nv1.3\n位置指示器增加变量名\n\nv1.4\n内存块面板增加内存值导入导出\n\nv1.5\n变量面板增加变量值导出\n\nv1.6\n内存面板的变量名筛选\n内存值导出筛选器\n\nv1.7\n增加信息板复制与导入"
   },
   {
+    "repo": "balam314/no-invasions",
+    "name": "No Sector Re Attacks",
+    "author": "BalaM314",
+    "lastUpdated": "2024-01-12T14:48:55Z",
+    "stars": 13,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Disables sectors being re-attacked."
+  },
+  {
     "repo": "eyeofdarkness/flameout",
     "name": "Flame Out",
     "author": "EoD",
@@ -955,17 +966,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod plays soundtracks from the game Halo 3: ODST. \n\nWarning: This is a heavy mod, download using Wi-Fi is recommended."
-  },
-  {
-    "repo": "balam314/no-invasions",
-    "name": "No Sector Re Attacks",
-    "author": "BalaM314",
-    "lastUpdated": "2024-01-12T14:48:55Z",
-    "stars": 12,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Disables sectors being re-attacked."
   },
   {
     "repo": "zeutd/disintegration",
@@ -2508,6 +2508,17 @@
     "description": "Scrap ores"
   },
   {
+    "repo": "pirojok3000/mindustry-classic-music",
+    "name": "Mindustry Classic Music",
+    "author": "Pirojok3000",
+    "lastUpdated": "2023-10-17T15:05:44Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Play mindustry with this awesome chiptune music! Tracks created by Roccow. I took some of Roccow's tracks that weren't in the classic version to replace the new ones added in the V6. HOWEVER, the author of the tracks boss1, boss2 and game6 is unknown."
+  },
+  {
     "repo": "koctz34/factor",
     "name": "Factor",
     "author": "MISTICA",
@@ -3111,17 +3122,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "h"
-  },
-  {
-    "repo": "pirojok3000/mindustry-classic-music",
-    "name": "Mindustry Classic Music",
-    "author": "Pirojok3000",
-    "lastUpdated": "2023-10-17T15:05:44Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Play mindustry with this awesome chiptune music! Tracks created by Roccow. I took some of Roccow's tracks that weren't in the classic version to replace the new ones added in the V6. HOWEVER, the author of the tracks boss1, boss2 and game6 is unknown."
   },
   {
     "repo": "demonevd/kadd-mod",
@@ -5181,6 +5181,17 @@
     "description": "Unhides hidden content.\nCompatible with iOS."
   },
   {
+    "repo": "yoru-kitsune/craftdustry-texturepack",
+    "name": "Craftdustry: Texturepack",
+    "author": "Yoru Kitsune\nOriginal textures: Mojang/Microsoft",
+    "lastUpdated": "2023-12-03T12:22:20Z",
+    "stars": 1,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A WIP texturepack that makes Mindustry look like Minecraft\nUpdate coming soon\n\n\nRecommended Settings:Animated Surfaces: off\nAnimated Shields: off\nPixelate: off\nLinear Filtering: off"
+  },
+  {
     "repo": "cyerce/lumirix",
     "name": "Lumirix",
     "author": "Cyerce",
@@ -5322,6 +5333,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Make all alloys/intermetallic directly mineable, currently only works on Serpulo and editor"
+  },
+  {
+    "repo": "leyn-pl/showallsecrets",
+    "name": "Show All Secrets",
+    "author": "_LEYN",
+    "lastUpdated": "2024-01-28T13:21:33Z",
+    "stars": 1,
+    "minGameVersion": "145",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Shows all Anuken's secrets. Makes all hidden content visible, with a bit of balance.\n\nYou cant build hidden blocks on servers."
   },
   {
     "repo": "leyn-pl/coreunitregen",
@@ -6677,17 +6699,6 @@
     "description": "This mod brings you a whole new UI look based on Minecraft! Works best with my other Craftdustry mods."
   },
   {
-    "repo": "yoru-kitsune/craftdustry-texturepack",
-    "name": "Craftdustry: Texturepack",
-    "author": "Yoru Kitsune\nOriginal textures: Mojang/Microsoft",
-    "lastUpdated": "2023-12-03T12:22:20Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A WIP texturepack that makes Mindustry look like Minecraft\nUpdate coming soon\n\n\nRecommended Settings:Animated Surfaces: off\nAnimated Shields: off\nPixelate: off\nLinear Filtering: off"
-  },
-  {
     "repo": "zetamap/no-steam-uuid",
     "name": "No Steam UUID",
     "author": "ZetaMap",
@@ -7095,17 +7106,6 @@
     "description": "Build new Cores anywhere you like."
   },
   {
-    "repo": "leyn-pl/showallsecrets",
-    "name": "Show All Secrets",
-    "author": "_LEYN",
-    "lastUpdated": "2024-01-28T13:21:33Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Shows all Anuken's secrets. Makes all hidden content visible, with a bit of balance.\n\nYou cant build hidden blocks on servers."
-  },
-  {
     "repo": "leyn-pl/reconfix",
     "name": "Reconstructor Fix",
     "author": "_LEYN",
@@ -7172,17 +7172,6 @@
     "description": "Searching for new materials you decided to drill into the core of the planet, and you managed to find something that might change the tide in your favor..."
   },
   {
-    "repo": "lun4-r/arc-nine",
-    "name": "ARC NINE",
-    "author": "Lun4-R",
-    "lastUpdated": "2024-01-31T19:02:14Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Mod that adds alot of content, aiming to improve vanilla experience and possibly even modded experience, focusing more of industrial part of Mindustry. What does it feature? Tons of blocks , materials , liquid and some units aswell."
-  },
-  {
     "repo": "routerxdd/icicle-world",
     "name": "Buried in Ice",
     "author": "R.O.T.",
@@ -7192,5 +7181,16 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The underground nightmare is coming..."
+  },
+  {
+    "repo": "lun4-r/arc-nine",
+    "name": "ARC NINE",
+    "author": "Lun4-R",
+    "lastUpdated": "2024-01-31T21:26:23Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Mod that adds alot of content, aiming to improve vanilla experience and possibly even modded experience, focusing more of industrial part of Mindustry. What does it feature? Tons of blocks , materials , liquid and some units aswell."
   }
 ]
