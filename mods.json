@@ -2640,17 +2640,6 @@
     "description": "Adds very large radius radar and processor. \n\nhttps://github.com/abaines/Kizraks-Radar"
   },
   {
-    "repo": "situvngcd/mindustrymodtest",
-    "name": "SVN Test mod",
-    "author": "[#4488ff]SITUVNgcd[]",
-    "lastUpdated": "2024-01-15T11:49:36Z",
-    "stars": 4,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
-  },
-  {
     "repo": "chaoticans-mindustry-modding-team/ca-mod",
     "name": "ca-mod",
     "author": "The chaoticans",
@@ -2682,6 +2671,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that adds an entire new campaign, larger than serpulo. Still in Pre-Aplha stages. Currently being Re-worked from the ground up."
+  },
+  {
+    "repo": "situvngcd/mindustrymodtest",
+    "name": "SVN Test mod",
+    "author": "[#4488ff]SITUVNgcd[]",
+    "lastUpdated": "2024-02-04T11:41:19Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
   },
   {
     "repo": "mythril382/u-r-a-i-c",
@@ -5335,6 +5335,17 @@
     "description": "Make all alloys/intermetallic directly mineable, currently only works on Serpulo and editor"
   },
   {
+    "repo": "cong0707/multiplayer",
+    "name": "Claj联机",
+    "author": "xzxADIxzx 由cong重写",
+    "lastUpdated": "2024-01-28T04:15:28Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "通过claj进行联机"
+  },
+  {
     "repo": "leyn-pl/showallsecrets",
     "name": "Show All Secrets",
     "author": "_LEYN",
@@ -5423,17 +5434,6 @@
     "description": "Adds a toggleable overflow/undeflow gate."
   },
   {
-    "repo": "unionofsovietsocialistrepublics/sporebiomethane",
-    "name": "Spore biomethane",
-    "author": "Water white",
-    "lastUpdated": "2024-02-04T06:32:41Z",
-    "stars": 1,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Quite the holy sight there am i rite?"
-  },
-  {
     "repo": "zoggers-cc/relax",
     "name": "Relax",
     "author": "ZoGGerS-Dim4ik",
@@ -5443,6 +5443,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "The mod is still in development!"
+  },
+  {
+    "repo": "unionofsovietsocialistrepublics/sporebiomethane",
+    "name": "Spore biomethane",
+    "author": "Water white",
+    "lastUpdated": "2024-02-04T10:35:38Z",
+    "stars": 1,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Quite the holy sight there am i rite?"
   },
   {
     "repo": "emanuelg-gaming/ion",
@@ -7095,17 +7106,6 @@
     "description": "  A dumb Mindustry mod.\n  \n  It's planned to have a lot of content, but currently, it's kinda small.\n  \n  I'll write more of the description later."
   },
   {
-    "repo": "cong0707/multiplayer",
-    "name": "Claj联机",
-    "author": "xzxADIxzx 由cong重写",
-    "lastUpdated": "2024-01-28T04:15:28Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "通过claj进行联机"
-  },
-  {
     "repo": "xenoforce/cores-anywhere",
     "name": "Cores Anywhere",
     "author": "Xeno",
@@ -7219,11 +7219,11 @@
     "repo": "thesmal/alpha-buffer-mindustry-mod-",
     "name": "Alpha-buffer-Mindustry-mod-",
     "author": "LittleBloo",
-    "lastUpdated": "2024-02-04T05:00:30Z",
+    "lastUpdated": "2024-02-04T10:50:46Z",
     "stars": 0,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
-    "description": "Buffs the alpha unit so its better to stay on the shard core (smallest one),\nadds a ton of hp to the alpha,\nChanged bullet to fire bullet (shard core has alot of hp),\nmining speed, item capacity is also improved,\nHave a good day!\n\nit's my first mod\nMay have some bugs so please tell me any and also tell me code improvements :D\n\n"
+    "description": "Buffs the alpha unit so its better to stay on the shard core (smallest one),\nadds a ton of hp to the alpha,\nChanged bullet to fire bullet (shard core has alot of hp),\nmining speed, item capacity is also improved,\nHave a good day!\nduo and scatter is also buffed\ncopper walls are now the best defense in the game\nthe mechanical drill is also the best drill and can mine anything\nnormal conveyors are also the best\n\nit's my first mod\nMay have some bugs so please tell me any and also tell me code improvements :D\n\n"
   }
 ]
