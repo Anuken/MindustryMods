@@ -993,12 +993,12 @@
     "repo": "i-hope1/mod-tools",
     "name": "mod工具",
     "author": "I hope...",
-    "lastUpdated": "2024-02-07T05:16:55Z",
+    "lastUpdated": "2024-02-14T15:37:23Z",
     "stars": 12,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
-    "description": "1. 修复一堆bug\n2. UnitSpawn 优化\n3. 更好的Executor\n4. ..."
+    "description": "- 修复UnitSpawn无法选择指定坐标的bug\n- 修复Selection解析错误数字崩溃的bug\n- Selection支持ValueLabel焦点\n- 修复Settings无法自动更新字段的bug"
   },
   {
     "repo": "minri2/itembridgex",
@@ -2233,6 +2233,17 @@
     "description": "The best sensory overload you can get, at least legally."
   },
   {
+    "repo": "laohuajiofficial/foodfactory",
+    "name": "FoodFactory",
+    "author": "LaoHuaJi",
+    "lastUpdated": "2024-02-13T17:55:25Z",
+    "stars": 5,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mod In Dev"
+  },
+  {
     "repo": "blackdeluxecat/mapfilterext",
     "name": "Map Filter Ext",
     "author": "BlackDeluxeCat",
@@ -2673,17 +2684,6 @@
     "description": "Mod for mindustry server                 "
   },
   {
-    "repo": "situvngcd/mindustrymodtest",
-    "name": "SVN Test mod",
-    "author": "[#4488ff]SITUVNgcd[]",
-    "lastUpdated": "2024-02-12T13:40:12Z",
-    "stars": 4,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
-  },
-  {
     "repo": "thomasthings/xenacia",
     "name": "Xenacia",
     "author": "Thomas's Things",
@@ -2693,6 +2693,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that adds an entire new campaign, larger than serpulo. Still in Pre-Aplha stages. Currently being Re-worked from the ground up."
+  },
+  {
+    "repo": "situvngcd/mindustrymodtest",
+    "name": "SVN Test mod",
+    "author": "[#4488ff]SITUVNgcd[]",
+    "lastUpdated": "2024-02-14T15:51:46Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
   },
   {
     "repo": "mythril382/u-r-a-i-c",
@@ -3358,7 +3369,7 @@
     "repo": "andromeda-galaxy29/psammos-mod",
     "name": "Psammos Mod (WIP)",
     "author": "Andromeda-Galaxy29",
-    "lastUpdated": "2024-02-14T05:31:57Z",
+    "lastUpdated": "2024-02-14T16:00:00Z",
     "stars": 3,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -4354,17 +4365,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Dive into the past of a trauma-driven uprising."
-  },
-  {
-    "repo": "laohuajiofficial/foodfactory",
-    "name": "FoodFactory",
-    "author": "LaoHuaJi",
-    "lastUpdated": "2024-02-13T17:55:25Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mod In Dev"
   },
   {
     "repo": "bin-tenkuu/mindustry-morelogicmod",
@@ -5566,17 +5566,6 @@
     "description": "[white]☰☰☰☰☰☰⚙️️☰☰☰️☰☰☰\n\n[gray]Credits[lightgray] (Créditos)[gray]:\n[lightgray]Azhurniy Baklan -[yellow] Erekir Utilities\n[lightgray]Adamlol_gaming - [yellow] Erekir Junction\n[lightgray]Kizraks (Abaines) - [yellow] Kizraks Radar\n[lightgray]Comunidade Mindustry - [yellow] Suporte e Feedback\n[white]☰☰☰☰☰☰⚙️️☰☰☰️☰☰☰\n\n[gray]English [lightgray](Inglês)[gray]:\n\n[brown]Thank you for choosing to purchase our most impactful product: [orange] Erekir Technologies Package[brown], a compilation of mods all in one installation. As the courier of these mechanical wonders, [orange]my mission [brown]is to equip you with the latest innovation from their official developers.\n\nThis Mod aims to encompass [orange]all[brown] Erekir mods, including a variety of blocks, units, and features to enhance your exploration of the new planet. [orange]Guaranteed advanced technologies of quality.[brown]\n\nIt's not just a Mod of Mods... it's the key to  [orange]your victory[brown] over your command.\n\nSome mods [orange]lacked harmony or had mechanics conflicting with others[brown], prompting me to make subtle adjustments to resolve these minor issues. It's crucial to highlight that these changes are by[orange] no means intended to usurp the copyrights of the creators[brown]; on the contrary, they seek to ensure the unity of MODS!\n\n[white]☰☰☰️☰☰☰⚙️️️☰☰☰️☰☰☰\n\n[gray]Português [lightgray](Portuguese)[gray]:\n\n[brown]Agradecemos sua escolha na compra de nosso produto mais impactante:   [orange]Pacote de Tecnologias Erekir[brown], uma coletânea de mods em uma só instalada. Como entregador destas maravilhas mecânicas, [orange]minha missão[brown] é equipar você com a mais recente inovação de seus desenvolvedores oficiais.\n\nEste Mod busca abranger[orange] todos [brown]os mods de Erekir, incluindo uma gama de blocos, unidades e recursos para aprimorar sua exploração do novo planeta. [orange]É garantido tecnologias avançadas de qualidade.[brown]\n\nNão é apenas um Mod dos Mods... é a chave de [orange]sua vitória[brown] sobre seu comando.\n\nAlguns mods [orange]careciam de harmonia ou apresentavam mecânicas em conflito com os outros[brown], levando-me a realizar ajustes sutis para solucionar essas questões menores. É crucial destacar que essas alterações [orange]não visam de maneira alguma usurpar os Direitos Autorais dos criadores[brown]; ao contrário, buscam assegurar a unificação dos Mods!.\n\n[white]☰☰☰☰☰☰ ⚙️️️☰☰☰️☰☰☰️"
   },
   {
-    "repo": "low-life-modders/isen",
-    "name": "Isen",
-    "author": "CamoGekko and LiterallyJustMindustryModder",
-    "lastUpdated": "2024-02-13T16:32:47Z",
-    "stars": 1,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod aiming to add a more grind-y experience to the game"
-  },
-  {
     "repo": "chaoticans-mindustry-modding-team/javacamod",
     "name": "Javacamod",
     "author": "The chaoticans",
@@ -5597,6 +5586,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry music loader."
+  },
+  {
+    "repo": "low-life-modders/isen",
+    "name": "Isen",
+    "author": "CamoGekko and LiterallyJustMindustryModder",
+    "lastUpdated": "2024-02-14T14:48:39Z",
+    "stars": 1,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod aiming to add a more grind-y experience to the game"
   },
   {
     "repo": "emanuelg-gaming/ion",
@@ -7351,7 +7351,7 @@
     "repo": "taggamer555/arcaneedge",
     "name": "Arcane Edge",
     "author": "TagGamer555",
-    "lastUpdated": "2024-02-14T13:09:05Z",
+    "lastUpdated": "2024-02-14T14:03:19Z",
     "stars": 0,
     "minGameVersion": "136",
     "hasScripts": true,
