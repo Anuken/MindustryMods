@@ -396,6 +396,17 @@
     "description": "\n  # 功能\n\n  ---\n\n  ## UI\n  1. MinerToolsTable:\n     * 队伍信息:\n       * 队伍玩家数量(Tooltip显示基础队伍规则)\n       * 队伍单位显示\n       * 队伍全局电量(Tooltip显示详细电量情况)\n     * 一些有用的按钮:\n       * 暂停建造(仅手机)\n       * 自动升级传送带\n       * 重建方块\n       * 快捷投降\n     * 换队/跳波器\n     * 玩家列表:\n       * 所有玩家的名字\n       * 可锁定玩家视角(锁定的玩家控制炮塔时,会自动调整视角)\n       * 可切换到玩家视角\n       * 可一键投票踢出玩家\n     * 快捷蓝图\n     * 玩家AI:\n       * 挖矿AI\n       * 跟随AI\n\n  2. 聊天记录:\n     * 查询历史聊天记录\n     * 可以复制聊天记录(电脑:Ctrl+单击)\n\n  3. 更好的核心资源显示:\n     * 单位数量显示\n     * 物品每秒变化量显示\n     * 玩家预建消耗显示\n     * 可自定义的ui列数\n\n  4. 更好的信息面板:\n     * 单位,建筑,地板信息一起显示!\n     * 单位:\n       * 武器冷却状态\n     * 建筑:\n       * 物品详情\n     * 地板:\n       * 显示更详尽\n\n  ---\n\n  ## 画面\n  * 建筑:\n    * 选中:\n      * 异队选中信息\n      * 桥带连接详情\n    * 建筑血条\n    * 异队方块状态\n    * 构造方块耗材信息\n    * 附近炮塔警戒\n    * 物品炮塔子弹类型显示\n    * 单位工厂进度条\n\n  * 单位:\n    * 单位指示器(核心危险警告)\n    * 附近单位警戒\n\n    * 单位信息条:\n      * 血条\n      * 立场回复条\n      * 单位状态条\n      * 荷载条\n\n  * 玩家:\n    * 荷载拾放提示\n    * 玩家范围显示\n\n  ---\n\n  ## 其他小功能\n  * 进入游戏后,显示被ban的单位或方块\n  * UIScale的step修改\n  * 物品桥带可拿取物品\n  * 更多方块信息条:\n    * 血条: 血量显示更详细\n    * 进度条: 进度显示更详细\n\n  ---\n\n  # 其他\n  Mod的90%功均可在设置中打开或关闭!"
   },
   {
+    "repo": "zelaux/bytelogicmod",
+    "name": "Byte Logic Mod",
+    "author": "Zelaux",
+    "lastUpdated": "2023-04-05T18:24:57Z",
+    "stars": 28,
+    "minGameVersion": "141.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds byte logic blocks from v5"
+  },
+  {
     "repo": "eb-wilson/universecore",
     "name": "Universe Core",
     "author": "EBwilson",
@@ -427,17 +438,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Добавляет разные штуки для читов\nhttps://vk.com/mindustry_cheat"
-  },
-  {
-    "repo": "zelaux/bytelogicmod",
-    "name": "Byte Logic Mod",
-    "author": "Zelaux",
-    "lastUpdated": "2023-04-05T18:24:57Z",
-    "stars": 27,
-    "minGameVersion": "141.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds byte logic blocks from v5"
   },
   {
     "repo": "realshizi/oxynoe",
@@ -517,6 +517,17 @@
     "description": "An auxiliary mod that provides you with quick retrieval of production and collection guidance information for materials, units, buildings, minerals, etc., so that you are no longer overwhelmed by installing too many mods.\n====================\n一个辅助mod，为您提供快速检索材料，单位，建筑和矿物等的生产与采集引导信息，让您不再因为安装了太多mod而不知所措"
   },
   {
+    "repo": "unionofsovietsocialistrepublics/spore-biomechs",
+    "name": "Spore Biomechs",
+    "author": "Water molecules",
+    "lastUpdated": "2024-02-16T07:04:57Z",
+    "stars": 23,
+    "minGameVersion": "140",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod inspired by Starcraft 2, add zerg to the game and a bunch of spore related thing.\nCredit:\nHydro for creating the sprites\nDryehm for existing\nHave a great day :D\nhHhhhHH"
+  },
+  {
     "repo": "smolkeys/yellow-java",
     "name": "Yellow",
     "author": "SMOLKEYS",
@@ -548,17 +559,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A currently [red]indev[] colab mod with huge scope, being built one planet at a time.\n\nAims to add several cold planets with linked campaigns, along with mechanics that'll [accent]revolutionise[] the way you interact with the mod's different environments, while trying to stay enjoyable and even a lil silly at times.\n\n[darkgray]A voice lingers in the darkness, dancing around your ears. Will you join it?"
-  },
-  {
-    "repo": "unionofsovietsocialistrepublics/spore-biomechs",
-    "name": "Spore Biomechs",
-    "author": "Water molecules",
-    "lastUpdated": "2024-02-16T07:04:57Z",
-    "stars": 22,
-    "minGameVersion": "140",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod inspired by Starcraft 2, add zerg to the game and a bunch of spore related thing.\nCredit:\nHydro for creating the sprites\nDryehm for existing\nHave a great day :D\nhHhhhHH"
   },
   {
     "repo": "smolkeys/bundles",
@@ -2684,17 +2684,6 @@
     "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
   },
   {
-    "repo": "thomasthings/xenacia",
-    "name": "Xenacia",
-    "author": "Thomas's Things",
-    "lastUpdated": "2024-02-16T21:29:41Z",
-    "stars": 4,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that adds an entire new campaign, larger than serpulo. Still in Pre-Aplha stages. Currently being Re-worked from the ground up."
-  },
-  {
     "repo": "chaoticans-mindustry-modding-team/ca-mod",
     "name": "ca-mod",
     "author": "The chaoticans",
@@ -2704,6 +2693,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Mod for mindustry server                 "
+  },
+  {
+    "repo": "thomasthings/xenacia",
+    "name": "Xenacia",
+    "author": "Thomas's Things",
+    "lastUpdated": "2024-02-18T07:31:38Z",
+    "stars": 4,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that adds an entire new campaign, larger than serpulo. Still in Pre-Aplha stages. Currently being Re-worked from the ground up."
   },
   {
     "repo": "mythril382/u-r-a-i-c",
