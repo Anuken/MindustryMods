@@ -506,17 +506,6 @@
     "description": "A Mindustry Java mod that contains a full of content planet. This is the beta version so it may not display the final version of the project."
   },
   {
-    "repo": "eb-wilson/toomanyitems",
-    "name": "Too Many Items",
-    "author": "EBwilson",
-    "lastUpdated": "2024-02-05T14:16:28Z",
-    "stars": 23,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "An auxiliary mod that provides you with quick retrieval of production and collection guidance information for materials, units, buildings, minerals, etc., so that you are no longer overwhelmed by installing too many mods.\n====================\n一个辅助mod，为您提供快速检索材料，单位，建筑和矿物等的生产与采集引导信息，让您不再因为安装了太多mod而不知所措"
-  },
-  {
     "repo": "unionofsovietsocialistrepublics/spore-biomechs",
     "name": "Spore Biomechs",
     "author": "Water molecules",
@@ -537,6 +526,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Chaos in a mod!\n\nUprising from a basic shitpost JS mod to the very Java mod that defines my shitposting...\n...meet Yellow!\n\nFeatures:\n\n- Yellow, the unit stronger than vanilla units but weaker than most modded units\n- 10+ disableable weapons for Yellow of varying powers\n- Spells (or Abilities)! Things that make Yellow do funny stuff\n- 5 lives for Yellow, which invoke different effects for each life lost (this is 4/5th lie 1/5th truth)\n\nAs time passes, even more features will arrive. Come along!\n\nHave a chat about Yellow and other mods by me:\nhttps://discord.com/invite/uAddT46bFx\n\nSend in any bugs and crashes here:\nhttps://github.com/SMOLKEYS/yellow-java/issues\nSuggestions may also be sent here.\n\nContribute to the mod here:\nhttps://github.com/SMOLKEYS/yellow-java/pulls\n\n\nLet me know of anything directly through my Discord profile, @smolkeys_!"
+  },
+  {
+    "repo": "eb-wilson/toomanyitems",
+    "name": "Too Many Items",
+    "author": "EBwilson",
+    "lastUpdated": "2024-02-18T17:59:27Z",
+    "stars": 23,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "An auxiliary mod that provides you with quick retrieval of production and collection guidance information for materials, units, buildings, minerals, etc., so that you are no longer overwhelmed by installing too many mods.\n====================\n一个辅助mod，为您提供快速检索材料，单位，建筑和矿物等的生产与采集引导信息，让您不再因为安装了太多mod而不知所措"
   },
   {
     "repo": "sporrus/randommindustry",
@@ -2684,17 +2684,6 @@
     "description": "Mod for mindustry server                 "
   },
   {
-    "repo": "thomasthings/xenacia",
-    "name": "Xenacia",
-    "author": "Thomas's Things",
-    "lastUpdated": "2024-02-18T09:29:55Z",
-    "stars": 4,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that adds an entire new campaign, larger than serpulo. Still in Pre-Aplha stages. Currently being Re-worked from the ground up."
-  },
-  {
     "repo": "situvngcd/mindustrymodtest",
     "name": "SVN Test mod",
     "author": "[#4488ff]SITUVNgcd[]",
@@ -2704,6 +2693,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
+  },
+  {
+    "repo": "thomasthings/xenacia",
+    "name": "Xenacia",
+    "author": "Thomas's Things",
+    "lastUpdated": "2024-02-18T17:39:22Z",
+    "stars": 4,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that adds an entire new campaign, larger than serpulo. Still in Pre-Aplha stages. Currently being Re-worked from the ground up."
   },
   {
     "repo": "mythril382/u-r-a-i-c",
@@ -4356,10 +4356,21 @@
     "description": "mod which expands serpulo end erekir and adds ways to get oil and slag from normal items, beta version\ncredits:\ncatana for spore faction idea and code for spore hive\npolish subfarm for some sprites and fixes\nsapphirium cuz im used their sprites (sorry)\nR.O.T for sprites (really sorry)\ncurrent version:0.17"
   },
   {
+    "repo": "glennfolker/confictura",
+    "name": "Confictura",
+    "author": "GlennFolker",
+    "lastUpdated": "2024-02-18T14:51:56Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Dive into the past of a trauma-driven uprising."
+  },
+  {
     "repo": "suenodev/sueno",
     "name": "Sueno",
     "author": "// TODO authors",
-    "lastUpdated": "2024-02-17T13:46:12Z",
+    "lastUpdated": "2024-02-18T16:10:59Z",
     "stars": 2,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -4370,23 +4381,12 @@
     "repo": "penguip/a-mindustry-mod",
     "name": "ATLAS' Revolutions",
     "author": "The skelebros",
-    "lastUpdated": "2024-02-18T14:33:07Z",
+    "lastUpdated": "2024-02-18T17:59:00Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": false,
     "description": "It aims to add robotic entites (called sentinels)and some other content"
-  },
-  {
-    "repo": "glennfolker/confictura",
-    "name": "Confictura",
-    "author": "GlennFolker",
-    "lastUpdated": "2024-02-18T14:51:56Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Dive into the past of a trauma-driven uprising."
   },
   {
     "repo": "explerhd/unnamedmods",
@@ -5613,7 +5613,7 @@
     "repo": "chaoticans-mindustry-modding-team/javacamod",
     "name": "Javacamod",
     "author": "The chaoticans",
-    "lastUpdated": "2024-02-18T11:47:52Z",
+    "lastUpdated": "2024-02-18T17:26:04Z",
     "stars": 1,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -7361,8 +7361,8 @@
   {
     "repo": "neeeerrd/quandalemod",
     "name": "QuandaleMod",
-    "author": "_r",
-    "lastUpdated": "2024-02-18T15:59:21Z",
+    "author": "neeeerrrdd",
+    "lastUpdated": "2024-02-18T16:53:27Z",
     "stars": 0,
     "minGameVersion": "137",
     "hasScripts": false,
