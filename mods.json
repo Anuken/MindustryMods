@@ -484,6 +484,17 @@
     "description": "Adds tools for automatically filling resource patches with drills"
   },
   {
+    "repo": "hpl-team/project-hpl",
+    "name": "Project HPL",
+    "author": "HPL Team",
+    "lastUpdated": "2023-11-12T10:08:12Z",
+    "stars": 24,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod that contains a full of content planet. This is the beta version so it may not display the final version of the project."
+  },
+  {
     "repo": "anuken/wind3",
     "name": "wind3",
     "author": "Anuke (real)",
@@ -493,17 +504,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "No description provided."
-  },
-  {
-    "repo": "hpl-team/project-hpl",
-    "name": "Project HPL",
-    "author": "HPL Team",
-    "lastUpdated": "2023-11-12T10:08:12Z",
-    "stars": 23,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod that contains a full of content planet. This is the beta version so it may not display the final version of the project."
   },
   {
     "repo": "unionofsovietsocialistrepublics/spore-biomechs",
@@ -968,17 +968,6 @@
     "description": "Roombas."
   },
   {
-    "repo": "saigon0nozomi/nightscape",
-    "name": "NightScape",
-    "author": "Saigo no-nozomi. \nTranslation: CyberSirnik",
-    "lastUpdated": "2024-01-11T10:13:18Z",
-    "stars": 12,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds new planet with unique content and some new mechanics"
-  },
-  {
     "repo": "zeutd/disintegration",
     "name": "disintegration",
     "author": "zeutd",
@@ -999,6 +988,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "兼容性 & 功能\n- 支持虚拟线程（如果支持）\n- 兼容java8\n- 渲染优化\n- 自定义Http重定向（Config: b0kkihope/http_redirect.properties）\n\nBug修复\n- 修复了Tester的sidebar在log上端也能移动的bug\n- 修复了Tester的在单线程无法超时停止的bug\n- 修复了addressOf的实现\n- 修复Selection的WorldDraw有时不显示的bug\n- 修复Selection更新延迟的bug\n- 修复菜单无法点击旁边隐藏的bug\n- 修复HoverTable在屏幕外不显示的bug\n- 修复Window，游戏窗口改变时，不更新最大化的bug\n- 修复Window阻塞输入的bug\n- 修复模糊等级调0会 / by zero\n\n其他\n- 删除了MyFLabel.java\n\nCompatibility & Features\n- Added support for virtual threads (if supported).\n- Compatible with Java 8.\n- Render optimization.\n- Customizable HTTP redirection (Config: b0kkihope/http_redirect.properties).\n\nBug Fixes\n- Fixed a bug where the Tester's sidebar could be moved above the log.\n- Addressed an issue in Tester where timeouts were not working in single-threaded mode.\n- Fixed the implementation of `addressOf`.\n- Resolved a bug where Selection's WorldDraw would sometimes not display.\n- Fixed the delay issue in Selection updates.\n- Corrected a bug where menus couldn't be clicked when partially hidden.\n- Fixed the bug where HoverTable wouldn't display when outside the screen.\n- Addressed the bug where the Window wouldn't update maximization when the game window changes.\n- Resolved the bug where Window would block input.\n- Fixed the issue where setting blur level to 0 would result in a division by zero.\n\nOthers\n- Removed MyFLabel.java."
+  },
+  {
+    "repo": "saigon0nozomi/nightscape",
+    "name": "NightScape",
+    "author": "Saigo no-nozomi. \nTranslation: CyberSirnik",
+    "lastUpdated": "2024-02-19T17:50:27Z",
+    "stars": 12,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds new planet with unique content and some new mechanics"
   },
   {
     "repo": "minri2/itembridgex",
@@ -1334,7 +1334,7 @@
     "repo": "laohuajiofficial/foodfactory",
     "name": "FoodFactory",
     "author": "LaoHuaJi",
-    "lastUpdated": "2024-02-19T09:38:06Z",
+    "lastUpdated": "2024-02-19T16:59:10Z",
     "stars": 9,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -5613,7 +5613,7 @@
     "repo": "chaoticans-mindustry-modding-team/javacamod",
     "name": "Javacamod",
     "author": "The chaoticans",
-    "lastUpdated": "2024-02-19T02:04:32Z",
+    "lastUpdated": "2024-02-19T17:54:43Z",
     "stars": 1,
     "minGameVersion": "145",
     "hasScripts": false,
