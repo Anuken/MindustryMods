@@ -70,7 +70,7 @@
     "name": "Cyber IO",
     "author": "[#42a5f5]Liplum[]",
     "lastUpdated": "2023-12-13T17:34:49Z",
-    "stars": 112,
+    "stars": 113,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -992,13 +992,13 @@
   {
     "repo": "i-hope1/mod-tools",
     "name": "mod工具",
-    "author": "I hope...",
-    "lastUpdated": "2024-02-19T01:43:24Z",
+    "author": "“I hope...”",
+    "lastUpdated": "2024-02-19T02:51:45Z",
     "stars": 12,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
-    "description": "- 修复UnitSpawn无法选择指定坐标的bug\n- 修复Selection解析错误数字崩溃的bug\n- Selection支持ValueLabel焦点\n- 修复Settings无法自动更新字段的bug"
+    "description": "兼容性 & 功能\n- 支持虚拟线程（如果支持）\n- 兼容java8\n- 渲染优化\n- 自定义Http重定向（Config: b0kkihope/http_redirect.properties）\n\nBug修复\n- 修复了Tester的sidebar在log上端也能移动的bug\n- 修复了Tester的在单线程无法超时停止的bug\n- 修复了addressOf的实现\n- 修复Selection的WorldDraw有时不显示的bug\n- 修复Selection更新延迟的bug\n- 修复菜单无法点击旁边隐藏的bug\n- 修复HoverTable在屏幕外不显示的bug\n- 修复Window，游戏窗口改变时，不更新最大化的bug\n- 修复Window阻塞输入的bug\n- 修复模糊等级调0会 / by zero\n\n其他\n- 删除了MyFLabel.java\n\nCompatibility & Features\n- Added support for virtual threads (if supported).\n- Compatible with Java 8.\n- Render optimization.\n- Customizable HTTP redirection (Config: b0kkihope/http_redirect.properties).\n\nBug Fixes\n- Fixed a bug where the Tester's sidebar could be moved above the log.\n- Addressed an issue in Tester where timeouts were not working in single-threaded mode.\n- Fixed the implementation of `addressOf`.\n- Resolved a bug where Selection's WorldDraw would sometimes not display.\n- Fixed the delay issue in Selection updates.\n- Corrected a bug where menus couldn't be clicked when partially hidden.\n- Fixed the bug where HoverTable wouldn't display when outside the screen.\n- Addressed the bug where the Window wouldn't update maximization when the game window changes.\n- Resolved the bug where Window would block input.\n- Fixed the issue where setting blur level to 0 would result in a division by zero.\n\nOthers\n- Removed MyFLabel.java."
   },
   {
     "repo": "minri2/itembridgex",
@@ -1276,17 +1276,6 @@
     "description": "V7 version of THC Industry. Created of pure boredom. \nDO NOT USE THE VERSION THAT IS DIRECTLY CLONED FROM THE REP.\nIT MAYBE TOTALLY BUUGY AND USELESS."
   },
   {
-    "repo": "blackdeluxecat/shadowshader",
-    "name": "Shadow Shader",
-    "author": "BlackDeluxeCat",
-    "lastUpdated": "2023-05-27T04:20:25Z",
-    "stars": 9,
-    "minGameVersion": "144.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "SHADOOOW your GAME!! repo: BlackDeluxeCat/ShadowShader"
-  },
-  {
     "repo": "sebmeister2077/giftologic",
     "name": "GifToLogic",
     "author": "sebmeister2077",
@@ -1329,6 +1318,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Allows access to Editor Mode on Sandbox and Singleplayer\n\nDoes not work on Multiplayer and Campaign.\n\nUpdate: Fixed map editor crash and delay."
+  },
+  {
+    "repo": "blackdeluxecat/shadowshader",
+    "name": "Shadow Shader",
+    "author": "BlackDeluxeCat",
+    "lastUpdated": "2024-02-19T03:21:11Z",
+    "stars": 9,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "SHADOOOW your GAME!! repo: BlackDeluxeCat/ShadowShader"
   },
   {
     "repo": "deltanedas/speed",
@@ -3234,17 +3234,6 @@
     "description": "Changes units because i want it to (i am just going through my github, idk if this works, i am just to lazy to download it on my phone.)"
   },
   {
-    "repo": "chaoticans-mindustry-modding-team/new-content",
-    "name": "New Content",
-    "author": "Cle",
-    "lastUpdated": "2023-12-27T03:48:44Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "It's my First* mod! Yay! It adds alot of units. Such as Purple navals, Orange spiders, Blue air-bombers and much more! \nwarning not all the trees are finished infact none are. \nThanks to my spriter Aegires for making some of theese awsome sprites!"
-  },
-  {
     "repo": "7003mars/bocchi-the-shield",
     "name": "Bocchi shield",
     "author": "mars",
@@ -3375,6 +3364,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a new desert planet. The campaign is super unfinished and doesnt work properly. Everything might change in the future. I update it very often so reinstall it once in a while"
+  },
+  {
+    "repo": "chaoticans-mindustry-modding-team/new-content",
+    "name": "New Content",
+    "author": "Cle",
+    "lastUpdated": "2024-02-19T02:56:20Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "It's my First* mod! Yay! It adds alot of units. Such as Purple navals, Orange spiders, Blue air-bombers and much more! \nwarning not all the trees are finished infact none are. \nThanks to my spriter Aegires for making some of theese awsome sprites!"
   },
   {
     "repo": "amateurpotion/nuclearjavamod",
