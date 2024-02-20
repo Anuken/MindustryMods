@@ -209,17 +209,6 @@
     "description": "This mod gives you iron, steel, aluminum, oil processing, and alternative ways of generating materials like titanium and thorium."
   },
   {
-    "repo": "xstabux/omaloon",
-    "name": "Omaloon",
-    "author": "_stabu_",
-    "lastUpdated": "2024-02-17T17:03:32Z",
-    "stars": 64,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "An ambitious modification aimed at expanding the game's standard campaign by adding a new star system."
-  },
-  {
     "repo": "meepoffaith/prog-mats-java",
     "name": "Progression Ministry",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Progression Ministry enabled to view them!)",
@@ -229,6 +218,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "This mod is mostly just turrets. It's just me creating random ideas that pop into my head."
+  },
+  {
+    "repo": "xstabux/omaloon",
+    "name": "Omaloon",
+    "author": "_stabu_",
+    "lastUpdated": "2024-02-20T15:37:35Z",
+    "stars": 64,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "An ambitious modification aimed at expanding the game's standard campaign by adding a new star system."
   },
   {
     "repo": "blackdeluxecat/mi2-utilities-java",
@@ -880,6 +880,17 @@
     "description": "Logic Debugger\n\n一个逻辑辅助工具\n\n原作DeltaNedas/ldb\n\nyaddrx2将其升级到了137，仅供学习交流使用\n\n当前版本：1.7.0\n\n更新日志\n\nv1.0.1\n将mod版本升为137\n\nv1.0.2\n取消ui-lib的前置\n\nv1.0.3\n逻辑码编辑板\n新增代码语句的文本形式编辑\n\nv1.0.4\n逻辑块变量面板\n变量更新闪烁\n增加逻辑块所连方块的显示\n\nv1.0.5\n内存块编辑板\n内存值更新闪烁\n新增内存值的二进制形式视察\n实现内存值的十六进制形式编辑\n\nv1.0.6\n新增代码插入相关操作\n实现从剪切板导入代码块到指定位置\n\nv1.0.7\n新增面板的折叠按钮\n修复学术端运行mod导致的面板移位或覆盖\n修复面板横向抖动的bug\n\nv1.0.8\n单步调试面板\n实现代码单步运行调试\n\nv1.1.0\n新增调试面板设置断点\n实现运行到下一断点操作\n\nv1.1.1\n新增变量位置指示器\n显示单位变量的flag\n\nv1.2\n新增调试面板的运行位置追踪\n新增功能标签\n\nv1.3\n位置指示器增加变量名\n\nv1.4\n内存块面板增加内存值导入导出\n\nv1.5\n变量面板增加变量值导出\n\nv1.6\n内存面板的变量名筛选\n内存值导出筛选器\n\nv1.7\n增加信息板复制与导入"
   },
   {
+    "repo": "woodjecket/commundustry",
+    "name": "CommunDustry",
+    "author": "The Juniors",
+    "lastUpdated": "2024-02-11T14:32:04Z",
+    "stars": 14,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "WIP"
+  },
+  {
     "repo": "shadowpazzo99/shadowdustry",
     "name": "ShadowDustry",
     "author": "ShadowPazzo#5003",
@@ -944,17 +955,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Disables sectors being re-attacked."
-  },
-  {
-    "repo": "woodjecket/commundustry",
-    "name": "CommunDustry",
-    "author": "The Juniors",
-    "lastUpdated": "2024-02-11T14:32:04Z",
-    "stars": 13,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "WIP"
   },
   {
     "repo": "mythril382/roombas",
@@ -5602,7 +5602,7 @@
     "repo": "chaoticans-mindustry-modding-team/javacamod",
     "name": "Javacamod",
     "author": "The chaoticans",
-    "lastUpdated": "2024-02-20T13:56:19Z",
+    "lastUpdated": "2024-02-20T14:21:10Z",
     "stars": 1,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -7362,7 +7362,7 @@
     "repo": "zerattel/gaydustry",
     "name": "Zerattel's Gaydustry",
     "author": "Zerattel",
-    "lastUpdated": "2024-02-20T13:27:22Z",
+    "lastUpdated": "2024-02-20T14:16:05Z",
     "stars": 0,
     "minGameVersion": "136.1",
     "hasScripts": false,
