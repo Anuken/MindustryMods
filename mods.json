@@ -528,17 +528,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "smolkeys/bundles",
-    "name": "Bundles",
-    "author": "SMOLKEYS",
-    "lastUpdated": "2024-01-17T14:24:01Z",
-    "stars": 23,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "hehe angish go nrrrt\n\n\ntargets:\n\n- vanilla\n\n- foo's client (builtin)\n\n- SMOLKEYS/yellow-java (extension)"
-  },
-  {
     "repo": "unionofsovietsocialistrepublics/spore-biomechs",
     "name": "Spore Biomechs",
     "author": "Water molecules",
@@ -559,6 +548,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Chaos in a mod!\n\nUprising from a basic shitpost JS mod to the very Java mod that defines my shitposting...\n...meet Yellow!\n\nFeatures:\n\n- Yellow, the unit stronger than vanilla units but weaker than most modded units\n- 10+ disableable weapons for Yellow of varying powers\n- Spells (or Abilities)! Things that make Yellow do funny stuff\n- 5 lives for Yellow, which invoke different effects for each life lost (this is 4/5th lie 1/5th truth)\n\nAs time passes, even more features will arrive. Come along!\n\nHave a chat about Yellow and other mods by me:\nhttps://discord.com/invite/uAddT46bFx\n\nSend in any bugs and crashes here:\nhttps://github.com/SMOLKEYS/yellow-java/issues\nSuggestions may also be sent here.\n\nContribute to the mod here:\nhttps://github.com/SMOLKEYS/yellow-java/pulls\n\n\nLet me know of anything directly through my Discord profile, @smolkeys_!"
+  },
+  {
+    "repo": "smolkeys/bundles",
+    "name": "Bundles",
+    "author": "SMOLKEYS",
+    "lastUpdated": "2024-03-11T17:14:40Z",
+    "stars": 23,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "hehe angish go nrrrt\n\n\ntargets:\n\n- vanilla\n\n- foo's client (builtin)\n\n- SMOLKEYS/yellow-java (extension)"
   },
   {
     "repo": "sporrus/randommindustry",
@@ -1254,6 +1254,17 @@
     "description": "What Am I Shooting At, shows info on targeted enemies.\nRequires deltanedas/ui-lib."
   },
   {
+    "repo": "blackdeluxecat/shadowshader",
+    "name": "Shadow Shader",
+    "author": "BlackDeluxeCat",
+    "lastUpdated": "2024-02-19T03:21:11Z",
+    "stars": 10,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "SHADOOOW your GAME!! repo: BlackDeluxeCat/ShadowShader"
+  },
+  {
     "repo": "deltanedas/mobile-ui",
     "name": "Mobile UI",
     "author": "deltanedas",
@@ -1362,17 +1373,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Allows access to Editor Mode on Sandbox and Singleplayer\n\nDoes not work on Multiplayer and Campaign.\n\nUpdate: Fixed map editor crash and delay."
-  },
-  {
-    "repo": "blackdeluxecat/shadowshader",
-    "name": "Shadow Shader",
-    "author": "BlackDeluxeCat",
-    "lastUpdated": "2024-02-19T03:21:11Z",
-    "stars": 9,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "SHADOOOW your GAME!! repo: BlackDeluxeCat/ShadowShader"
   },
   {
     "repo": "deltanedas/speed",
@@ -2321,17 +2321,6 @@
     "description": "Add more Things !!\n\nTHIS IS STILL IN DEVELOPMENT\n\nWant fast update??\nJoin to our server or check at our github\n\nContributors:\nKanaede\nNEON-XZR\n\nMF Version: 0.1.0"
   },
   {
-    "repo": "thomasthings/xenacia",
-    "name": "Xenacia",
-    "author": "Thomas's Things",
-    "lastUpdated": "2024-03-11T04:33:25Z",
-    "stars": 5,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod with ambitious goals, and a fresh start."
-  },
-  {
     "repo": "andromeda-galaxy29/psammos-mod",
     "name": "Psammos Mod (WIP)",
     "author": "Andromeda-Galaxy29",
@@ -2684,17 +2673,6 @@
     "description": "Adds a button that sends colorful  in chat\nUpdate: You can choose the symbol!"
   },
   {
-    "repo": "jirocab/caster-ui-java",
-    "name": "Caster User interface",
-    "author": "RushieWashie",
-    "lastUpdated": "2023-12-21T21:31:52Z",
-    "stars": 4,
-    "minGameVersion": "140.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Aming to make the client a bit better for casting! with ease of use, simplicity and elegance in mind \n \n Java rewrite of 'JiroCab/Caster-Ui' which was based off 'Ferlern/extended-UI'"
-  },
-  {
     "repo": "abaines/kizraks-radar",
     "name": "Kizrak's Radar",
     "author": "Kizrak",
@@ -2781,6 +2759,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "No description provided."
+  },
+  {
+    "repo": "jirocab/caster-ui-java",
+    "name": "Caster User interface",
+    "author": "RushieWashie",
+    "lastUpdated": "2024-03-11T17:43:21Z",
+    "stars": 4,
+    "minGameVersion": "140.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Aming to make the client a bit better for casting! with ease of use, simplicity and elegance in mind \n \n Java rewrite of 'JiroCab/Caster-Ui' which was based off 'Ferlern/extended-UI' \nconflicts with 'Ferlern/extended-UI'  \n\nPLEASE DON'T THIS FOR AN ADVANTAGE IN PVP THANKS"
   },
   {
     "repo": "mythril382/u-r-a-i-c",
@@ -4447,7 +4436,7 @@
     "repo": "iratzeymezeri/erekir-additions",
     "name": "Erekir Additions",
     "author": "InxieRatZey",
-    "lastUpdated": "2024-03-11T15:53:38Z",
+    "lastUpdated": "2024-03-11T16:53:08Z",
     "stars": 2,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -5665,17 +5654,6 @@
     "description": "Finally."
   },
   {
-    "repo": "shardedfilms/reunited",
-    "name": "Reunited",
-    "author": "ShardedSyrius",
-    "lastUpdated": "2024-03-05T08:57:34Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "...- --. .... .-.. .. ..-. .--- .-.. -.-- ..--- ..-. -.-- -... -- ..-. ----- .- .-- ----. ..- .. --. ----. -- .. ..-. -... -.-- -... ..--- .--. .-.. -.-- ...-- --.- --. ...- .-- ..... .--. -.. .... -.- --. .- .-- ....- --. .-. --. .-.. -- --.. -- ...- -.-- --.. .-- ..... ----- .. . ..-. -.- -.. -- ..-. ..- -.-- ..--- ...- --.. .-.. .. -... -.-. -.-- -..- -. .-.. --.. -.-. -... ...- -... .. -... --.. .- --. ..-. -.-- --.. --. ...- -.- .. --. .-.. -.- --.. .-- . --. -... ..--- ....- --. -... .-- ..-. .-. .- .-- ..... -. .. --. ..-. ..- .. --. ...- ....- -.-. --. ...- -.-- .- .-- .---- .-.. -... -. .-. .... -... -.-. -... .--- -... ..--- ..... ----- --.. .-- ..... ----- .. --. --.. -.-- -... ..--- ----- --. -.-. ..--- -. -.-- -.-- -..- .- --. --.. -. .--- ...- -... ... -... -.-- -.. .-- .-.. ..- -.-. -.-- -... ...- --.. .. -... -... -.. -- ..-. ..- -.. -.-. -... - --.. .-- .---- .. --.. -..- .--- --.. .. .... .-. --- -.-- -..- --.- --. --.. --. .-.. --.. -.-- ..--- ----. ..- -.. --. .-.. ..- -.. .-- ...- -.- .. --. ..-. ..- --.. -.-. -... .... -.-- -- ..-. ..- --.. --. ----. ..- --.. .-- --.- --. -.. --. .... .-.. .. ..-. -... ...- .. --. .---- ...- --.. -.-. ....- --. ...- --. .... .... -... -- - --.. .. .... .-.. ...- -.. ... -... -- -... ...-- .. --. --.. --. ----. ...-- -... -- -..- ...- -.-- .-- .-. .--. -... -- -.-. --. ..- -- ...- .---- -... -- .-.. ----- --.. .-- --.- ... .. . -.- --. .- --. ----. .-- --.. ... -... ..... -... ...-- ..- --. --.. .-- ..... --.- -... ...-- .-.. .-.. --.. -.-. -... - . ... -... ...-- -... ...-- .--- .-. -.-. -.-- ....- -...- \\n \\n Currently WIP"
-  },
-  {
     "repo": "ochpochmaks/mechanics",
     "name": "Mechanics",
     "author": "[red]To[orange]pyr[yellow]it [white]and [green]Och[blue]poch[purple]maks",
@@ -5740,6 +5718,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "[blue]Sector is new  [purple]Russian[blue] mod for Mindustry."
+  },
+  {
+    "repo": "shardedfilms/reunited",
+    "name": "Reunited",
+    "author": "ShardedSyrius",
+    "lastUpdated": "2024-03-11T16:20:33Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "...- --. .... .-.. .. ..-. .--- .-.. -.-- ..--- ..-. -.-- -... -- ..-. ----- .- .-- ----. ..- .. --. ----. -- .. ..-. -... -.-- -... ..--- .--. .-.. -.-- ...-- --.- --. ...- .-- ..... .--. -.. .... -.- --. .- .-- ....- --. .-. --. .-.. -- --.. -- ...- -.-- --.. .-- ..... ----- .. . ..-. -.- -.. -- ..-. ..- -.-- ..--- ...- --.. .-.. .. -... -.-. -.-- -..- -. .-.. --.. -.-. -... ...- -... .. -... --.. .- --. ..-. -.-- --.. --. ...- -.- .. --. .-.. -.- --.. .-- . --. -... ..--- ....- --. -... .-- ..-. .-. .- .-- ..... -. .. --. ..-. ..- .. --. ...- ....- -.-. --. ...- -.-- .- .-- .---- .-.. -... -. .-. .... -... -.-. -... .--- -... ..--- ..... ----- --.. .-- ..... ----- .. --. --.. -.-- -... ..--- ----- --. -.-. ..--- -. -.-- -.-- -..- .- --. --.. -. .--- ...- -... ... -... -.-- -.. .-- .-.. ..- -.-. -.-- -... ...- --.. .. -... -... -.. -- ..-. ..- -.. -.-. -... - --.. .-- .---- .. --.. -..- .--- --.. .. .... .-. --- -.-- -..- --.- --. --.. --. .-.. --.. -.-- ..--- ----. ..- -.. --. .-.. ..- -.. .-- ...- -.- .. --. ..-. ..- --.. -.-. -... .... -.-- -- ..-. ..- --.. --. ----. ..- --.. .-- --.- --. -.. --. .... .-.. .. ..-. -... ...- .. --. .---- ...- --.. -.-. ....- --. ...- --. .... .... -... -- - --.. .. .... .-.. ...- -.. ... -... -- -... ...-- .. --. --.. --. ----. ...-- -... -- -..- ...- -.-- .-- .-. .--. -... -- -.-. --. ..- -- ...- .---- -... -- .-.. ----- --.. .-- --.- ... .. . -.- --. .- --. ----. .-- --.. ... -... ..... -... ...-- ..- --. --.. .-- ..... --.- -... ...-- .-.. .-.. --.. -.-. -... - . ... -... ...-- -... ...-- .--- .-. -.-. -.-- ....- -...- \\n \\n Currently WIP"
   },
   {
     "repo": "emanuelg-gaming/ion",
