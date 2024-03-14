@@ -15,7 +15,7 @@
     "name": "BetaMindy",
     "author": "sk7725",
     "lastUpdated": "2023-05-16T03:09:57Z",
-    "stars": 314,
+    "stars": 315,
     "minGameVersion": "144",
     "hasScripts": false,
     "hasJava": true,
@@ -2057,17 +2057,6 @@
     "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Tags list allow manually sort, easier for tag selection.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
   },
   {
-    "repo": "andromeda-galaxy29/psammos-mod",
-    "name": "Psammos Mod (WIP)",
-    "author": "Andromeda-Galaxy29",
-    "lastUpdated": "2024-03-14T12:08:21Z",
-    "stars": 6,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer Psammos.\r\n\r\nThe campaign is super unfinished and doesnt work properly. Everything might change in the future. I update it very often so reinstall it once in a while.\r\n\r\nThanks @thisiscrimsoncheck on Discord for Cavern map and Liquid Fuel Burner"
-  },
-  {
     "repo": "dong-wo-long/enhancementunits",
     "name": "Enhancement Units",
     "author": "D&X",
@@ -2077,6 +2066,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Important:\nThis mod does not bring anything radically new to the game, but only expands the combat functionality of existing combat units."
+  },
+  {
+    "repo": "andromeda-galaxy29/psammos-mod",
+    "name": "Psammos Mod (WIP)",
+    "author": "Andromeda-Galaxy29",
+    "lastUpdated": "2024-03-14T14:27:47Z",
+    "stars": 6,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer Psammos.\r\n\r\nThe campaign is super unfinished and doesnt work properly. Everything might change in the future. I update it very often so reinstall it once in a while.\r\n\r\nThanks @thisiscrimsoncheck on Discord for Cavern map and Liquid Fuel Burner"
   },
   {
     "repo": "warcry98/speedcontrol",
@@ -5720,6 +5720,17 @@
     "description": "No description provided."
   },
   {
+    "repo": "dsfdsfwxp/savemaster",
+    "name": "saveMaster",
+    "author": "dsfwxp",
+    "lastUpdated": "2024-03-09T14:44:22Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod that provide you with some ways to manage your saves."
+  },
+  {
     "repo": "emoyt/sector",
     "name": "Sector",
     "author": "[orange]Klim",
@@ -7491,17 +7502,6 @@
     "description": "Mod for Mindustrys"
   },
   {
-    "repo": "dsfdsfwxp/savemaster",
-    "name": "saveMaster",
-    "author": "dsfwxp",
-    "lastUpdated": "2024-03-09T14:44:22Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod that provide you with some ways to manage your saves."
-  },
-  {
     "repo": "hyperreal-ca/uwuifier",
     "name": "UwU language",
     "author": "Hyperreal ca",
@@ -7535,17 +7535,6 @@
     "description": "A Mindustry java mod that add space exploration!"
   },
   {
-    "repo": "cnnn666v2/more-turrets-mod",
-    "name": "More Turrets",
-    "author": "Cnnn666",
-    "lastUpdated": "2024-03-12T19:34:35Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mindustry mod that adds new turrets to the game!"
-  },
-  {
     "repo": "zaksencode/mindustria",
     "name": "Mindustria",
     "author": "Zaksen",
@@ -7566,5 +7555,16 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "WIP, works only on desktop\nSimple mod for simple transfer game data via Google Drive\nFor use: go to Settings -> Game Data -> Google Drive\nUpload/Download works in background, check console(F8) for information"
+  },
+  {
+    "repo": "cnnn666v2/more-turrets-mod",
+    "name": "More Turrets",
+    "author": "Cnnn666",
+    "lastUpdated": "2024-03-14T15:08:04Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mindustry mod that adds new turrets to the game!"
   }
 ]
