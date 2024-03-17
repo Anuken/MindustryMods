@@ -355,7 +355,7 @@
     "repo": "meepoffaith/testing-utilities-java",
     "name": "Testing Utilities",
     "author": "MEEP of Faith",
-    "lastUpdated": "2024-02-18T22:05:03Z",
+    "lastUpdated": "2024-03-17T12:50:09Z",
     "stars": 34,
     "minGameVersion": "145.1",
     "hasScripts": false,
@@ -572,17 +572,6 @@
     "description": "Randomizes almost everything!\nJoin our discord! https://discord.gg/ztC6WJUxZK\n\nEPILEPSY WARNING"
   },
   {
-    "repo": "ferlern/extended-ui-v7",
-    "name": "extended UI",
-    "author": "wizer",
-    "lastUpdated": "2024-01-20T11:19:50Z",
-    "stars": 22,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> extended UI.\n\nIf u have any bugs create an issue on github or contact me in discord: wizer1233\n\nTranslators:\n1stvaliduser - UA\nYoru (Yoru-Kitsune) - DE\n\nContributors:\nRushieWashie, Garen7, 7003Mars (Mars)"
-  },
-  {
     "repo": "three-cold-planets/welcome-to-the-frostscape",
     "name": "Welcome to the Frostscape",
     "author": "Sh1penfire\nFractured\nRilyProductions",
@@ -592,6 +581,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A currently [red]indev[] colab mod with huge scope, being built one planet at a time.\n\nAims to add several cold planets with linked campaigns, along with mechanics that'll [accent]revolutionise[] the way you interact with the mod's different environments, while trying to stay enjoyable and even a lil silly at times.\n\n[darkgray]A voice lingers in the darkness, dancing around your ears. Will you join it?"
+  },
+  {
+    "repo": "ferlern/extended-ui-v7",
+    "name": "extended UI",
+    "author": "wizer",
+    "lastUpdated": "2024-03-17T12:35:42Z",
+    "stars": 22,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> extended UI.\n\nIf u have any bugs create an issue on github or contact me in discord: wizer1233\n\nTranslators:\n1stvaliduser - UA\nYoru (Yoru-Kitsune) - DE\n\nContributors:\nRushieWashie, Garen7, 7003Mars (Mars)"
   },
   {
     "repo": "mnemotechnician/new-console",
@@ -2024,17 +2024,6 @@
     "description": "A mod that was originally meant to add liquid related stuff to erekir but i ended up having too many ideas."
   },
   {
-    "repo": "situvngcd/mindustrymodtest",
-    "name": "SVN Test mod",
-    "author": "[#4488ff]SITUVNgcd[]",
-    "lastUpdated": "2024-03-13T14:57:22Z",
-    "stars": 6,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Tags list allow manually sort, easier for tag selection.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
-  },
-  {
     "repo": "dong-wo-long/enhancementunits",
     "name": "Enhancement Units",
     "author": "D&X",
@@ -2057,17 +2046,6 @@
     "description": "A mod for browsing schematic repositories."
   },
   {
-    "repo": "andromeda-galaxy29/psammos-mod",
-    "name": "Psammos Mod (WIP)",
-    "author": "Andromeda-Galaxy29",
-    "lastUpdated": "2024-03-17T07:26:05Z",
-    "stars": 6,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer Psammos.\r\n\r\n[salmon]The campaign is unfinished and might not work properly. Everything might change in the future. I update it very often so reinstall once in a while.[white]\r\n\r\nThanks [#5865f2]@thisiscrimsoncheck[white] on Discord for Cavern map and Liquid Fuel Burner"
-  },
-  {
     "repo": "otamamori917/axthrix-modded-java",
     "name": "Axthrix",
     "author": "Otamamori#4716\ncontributors:\n    BetaMindy/sk7725#6110| BoltBulletType.\n    MEEPofFaith#7277| AcceleratedTurret.\n    nullevoy#7763| Spriting Tips.\n    Monika#6030| Code clean up & starting blocks & bundles\n    Siede#6321| Status effect sprites",
@@ -2077,6 +2055,28 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "BETA sandbox only"
+  },
+  {
+    "repo": "situvngcd/mindustrymodtest",
+    "name": "SVN Test mod",
+    "author": "[#4488ff]SITUVNgcd[]",
+    "lastUpdated": "2024-03-17T12:12:52Z",
+    "stars": 6,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Tags list allow manually sort, easier for tag selection.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
+  },
+  {
+    "repo": "andromeda-galaxy29/psammos-mod",
+    "name": "Psammos Mod (WIP)",
+    "author": "Andromeda-Galaxy29",
+    "lastUpdated": "2024-03-17T13:03:49Z",
+    "stars": 6,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer Psammos.\r\n\r\n[salmon]The campaign is unfinished and might not work properly. Everything might change in the future. I update it very often so reinstall once in a while.[white]\r\n\r\nThanks [#5865f2]@thisiscrimsoncheck[white] on Discord for Cavern map and Liquid Fuel Burner"
   },
   {
     "repo": "warcry98/speedcontrol",
@@ -2357,7 +2357,7 @@
     "repo": "iratzeymezeri/erekir-additions",
     "name": "Erekir Additions",
     "author": "InxieRatZey",
-    "lastUpdated": "2024-03-17T11:40:07Z",
+    "lastUpdated": "2024-03-17T13:30:14Z",
     "stars": 5,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -6127,17 +6127,6 @@
     "description": "TIR3D 0F N0T W1NN1NG, W4NT T0 W1N E4S1LY?\n\nWant this cranked up a few notches? Try the 0P branch\n\nhttps://github.com/Beanzilla/mindustry-hacked/tree/op\n\nNow with Erekir planetary tree.\n\nAttributions:\n- TheGamer1002"
   },
   {
-    "repo": "yoru-kitsune/project-erekir",
-    "name": "Project Erekir",
-    "author": "夜狐/Yoru Kitsune",
-    "lastUpdated": "2023-04-01T21:58:57Z",
-    "stars": 0,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds a Erekir variation for the standart maps"
-  },
-  {
     "repo": "freezemandu/routertexturepack-v7",
     "name": "Router Texture Pack 7.0",
     "author": "FreezeMandu",
@@ -7524,17 +7513,6 @@
     "description": "A Mindustry java mod that add space exploration!"
   },
   {
-    "repo": "tmhbgyt/project-big",
-    "name": "Project Big",
-    "author": "TMHBG",
-    "lastUpdated": "2024-03-17T11:22:46Z",
-    "stars": 0,
-    "minGameVersion": "143",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mindustry mod"
-  },
-  {
     "repo": "yoru-kitsune/german-rewritten",
     "name": "German: Rewritten",
     "author": "CoCo Snow",
@@ -7557,10 +7535,32 @@
     "description": "This mod changes the UI elements to fit the Simpledustry texturepack.\n\nNot compatible with every other mod!"
   },
   {
+    "repo": "tmhbgyt/project-big",
+    "name": "Project Big",
+    "author": "TMHBG",
+    "lastUpdated": "2024-03-17T12:35:32Z",
+    "stars": 0,
+    "minGameVersion": "143",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mindustry mod"
+  },
+  {
+    "repo": "yoru-kitsune/project-erekir",
+    "name": "Project: Erekir",
+    "author": "CoCo Snow",
+    "lastUpdated": "2024-03-17T12:38:39Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds an Erekir variation to the standard maps"
+  },
+  {
     "repo": "taggamer555/arcaneedge",
     "name": "Arcane Edge",
     "author": "TagGamer555",
-    "lastUpdated": "2024-03-17T12:00:13Z",
+    "lastUpdated": "2024-03-17T13:22:20Z",
     "stars": 0,
     "minGameVersion": "136",
     "hasScripts": true,
