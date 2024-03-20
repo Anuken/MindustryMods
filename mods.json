@@ -355,7 +355,7 @@
     "repo": "meepoffaith/testing-utilities-java",
     "name": "Testing Utilities",
     "author": "MEEP of Faith",
-    "lastUpdated": "2024-03-20T17:54:55Z",
+    "lastUpdated": "2024-03-20T18:04:57Z",
     "stars": 34,
     "minGameVersion": "145.1",
     "hasScripts": false,
@@ -949,10 +949,10 @@
     "repo": "twcash/tantros-test",
     "name": "Tantros-test",
     "author": "twcash",
-    "lastUpdated": "2024-03-20T14:33:43Z",
+    "lastUpdated": "2024-03-20T18:53:48Z",
     "stars": 14,
     "minGameVersion": "146",
-    "hasScripts": true,
+    "hasScripts": false,
     "hasJava": false,
     "description": "A WIP Tantros Campaign"
   },
@@ -6523,6 +6523,17 @@
     "description": "\r\nNo techs and no missions. Planets only.  \r\ngenerator changed to SerpuloPlanetGenerator via javaScript.\r\nThanks zerg for the source code.\r\n\r\nlast work done: 19 june 2023\r\ntask: fixing bugs when running Mindustry v145 \r\n\r\nFeel free to reverse-engineer. \r\nClick on Repo > scripts > pl.js for inner workings/ \r\n"
   },
   {
+    "repo": "routerxdd/frostpulo",
+    "name": "FrostPulo",
+    "author": "RouterXdd",
+    "lastUpdated": "2023-08-16T11:38:37Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Serpulo's new hell"
+  },
+  {
     "repo": "mrl1d4b/test_mindustry_mod",
     "name": "Test Mod",
     "author": "Loki",
@@ -7502,17 +7513,6 @@
     "description": "Adds an Erekir variation to the standard maps"
   },
   {
-    "repo": "tmhbgyt/project-big",
-    "name": "Project Big",
-    "author": "TMHBG",
-    "lastUpdated": "2024-03-17T16:45:21Z",
-    "stars": 0,
-    "minGameVersion": "143",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mindustry mod"
-  },
-  {
     "repo": "vincenzotheduck/ducks-mindustry-mod",
     "name": "Duck's Mindustry Mod",
     "author": "Duck",
@@ -7524,17 +7524,6 @@
     "description": "  A dumb Mindustry mod.\n  \n  It's planned to have a lot of content, but currently, it's kinda small.\n  \n  I'll write more of the description later."
   },
   {
-    "repo": "taggamer555/arcaneedge",
-    "name": "Arcane Edge",
-    "author": "TagGamer555",
-    "lastUpdated": "2024-03-19T21:51:23Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Modification, aiming to revive Classic Mindustry content and merge it with modern versions."
-  },
-  {
     "repo": "fallendraggon/fdschemepack",
     "name": "FD Scheme Pack",
     "author": "FallenDragon",
@@ -7544,5 +7533,27 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Очередной никому ненужный схемпак."
+  },
+  {
+    "repo": "tmhbgyt/project-big",
+    "name": "Project Big",
+    "author": "TMHBG",
+    "lastUpdated": "2024-03-20T18:25:18Z",
+    "stars": 0,
+    "minGameVersion": "143",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mindustry mod"
+  },
+  {
+    "repo": "taggamer555/arcaneedge",
+    "name": "Arcane Edge",
+    "author": "TagGamer555",
+    "lastUpdated": "2024-03-20T19:59:43Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Modification, aiming to revive Classic Mindustry content and merge it with modern versions."
   }
 ]
