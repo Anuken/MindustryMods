@@ -586,7 +586,7 @@
     "repo": "three-cold-planets/welcome-to-the-frostscape",
     "name": "Welcome to the Frostscape",
     "author": "Sh1penfire\nFractured\nRilyProductions",
-    "lastUpdated": "2024-03-19T12:06:58Z",
+    "lastUpdated": "2024-03-23T10:52:24Z",
     "stars": 22,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1015,12 +1015,12 @@
     "repo": "i-hope1/mod-tools",
     "name": "mod工具",
     "author": "I hope...",
-    "lastUpdated": "2024-03-23T09:26:06Z",
+    "lastUpdated": "2024-03-23T11:26:28Z",
     "stars": 13,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
-    "description": "修复安卓上无法使用的bug"
+    "description": "## 还是修Bug\n- 修复`Window`阻塞`TextField`输入的bug\n- 将`TimeoutException`视为内部错误\n（没有开启捕获外部错误，也可以捕获`TimeoutException`）\n- 修复`TextAreaTab`补全时可能发生报错\n- 修复`Underline`搜索时仍保留的bug\n- 修复设置ui中的字体可能显示不全\n- `ReviewElement`添加`Touchable`颜色区分\n\n## Still Fixing Bugs\n- Fixed bug blocking TextField input in `Window`.\n- Treat `TimeoutException` as an internal error\n(TimeoutException can be captured not matter whether or not `capturing external errors` is enabled).\n- Fixed possible errors that may occur during `TextAreaTab` completion.\n- Fixed bug where `Underline` search would still remain.\n- Fixed issue where font in UI settings may not display completely.\n- Added color differentiation for `Touchable` to Review Element."
   },
   {
     "repo": "mythril382/roombas",
@@ -2082,7 +2082,7 @@
     "repo": "andromeda-galaxy29/psammos-mod",
     "name": "Psammos Mod (WIP)",
     "author": "Andromeda-Galaxy29",
-    "lastUpdated": "2024-03-23T08:13:39Z",
+    "lastUpdated": "2024-03-23T11:59:37Z",
     "stars": 6,
     "minGameVersion": "146",
     "hasScripts": true,
