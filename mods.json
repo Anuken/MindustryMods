@@ -737,17 +737,6 @@
     "description": "Current Version: Preview 1.072 Beta\nAdds V5 in v138 cotains: Enemies, Unused Blocks, and Maps. Recommended Game Version: 138.\nMod Future Update:\n- v5 Units         (Finished)\n- Units Factories  (Finished)\n- Mech Factories   (Unfinished)\n- Units AI         (Partially Finished)\n- Units Stats      (Accurate ???)\n- Units Abilities  (Partially Finished)\n- Blocks           (Partially Finished)\n\nSome Other Features Future Update:\n- Snek           (Finished)"
   },
   {
-    "repo": "flintyx/autoresearch",
-    "name": "Auto Research",
-    "author": "Flin",
-    "lastUpdated": "2023-02-04T00:59:58Z",
-    "stars": 17,
-    "minGameVersion": "141",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
-  },
-  {
     "repo": "mindustrydagger/vanillaplus",
     "name": "VanillaPlus",
     "author": "[#FFC000]Mindustry[#16E516]Dagger[#FFFFFF]([#16E516]Кинжал[#FFFFFF])",
@@ -2068,17 +2057,6 @@
     "description": "A mod that was originally meant to add liquid related stuff to erekir but i ended up having too many ideas."
   },
   {
-    "repo": "andromeda-galaxy29/psammos-mod",
-    "name": "Psammos Mod",
-    "author": "AndromedaGalaxy29",
-    "lastUpdated": "2024-03-27T09:14:44Z",
-    "stars": 6,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer Psammos.\r\n\r\n[salmon]The campaign is unfinished and might not work properly. Everything might change in the future. I update it very often so reinstall once in a while.[white]\r\n\r\nThanks [#5865f2]@thisiscrimsoncheck[white] on Discord for Cavern map and Liquid Fuel Burner"
-  },
-  {
     "repo": "otamamori917/axthrix-modded-java",
     "name": "Axthrix",
     "author": "Otamamori#4716\ncontributors:\n    BetaMindy/sk7725#6110| BoltBulletType.\n    MEEPofFaith#7277| AcceleratedTurret, blackhole related stuff.\n    nullevoy#7763| Spriting Tips.\n    Monika#6030| Code clean up & starting blocks & bundles\n    Siede#6321| Status effect sprites",
@@ -2104,12 +2082,23 @@
     "repo": "iratzeymezeri/erekir-additions",
     "name": "Erekir Additions",
     "author": "InxieRatZey",
-    "lastUpdated": "2024-03-28T19:02:12Z",
+    "lastUpdated": "2024-03-28T20:12:04Z",
     "stars": 6,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
     "description": "I #### HATE MAKING EFFECTS... adds stuff to erekir"
+  },
+  {
+    "repo": "andromeda-galaxy29/psammos-mod",
+    "name": "Psammos Mod",
+    "author": "AndromedaGalaxy29",
+    "lastUpdated": "2024-03-28T21:03:59Z",
+    "stars": 6,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer Psammos.\r\n\r\n[salmon]The campaign is unfinished and might not work properly. Everything might change in the future. I update it very often so reinstall once in a while.[white]\r\n\r\nThanks [#5865f2]@thisiscrimsoncheck[white] on Discord for Cavern map and Liquid Fuel Burner"
   },
   {
     "repo": "warcry98/speedcontrol",
