@@ -223,7 +223,7 @@
     "repo": "meepoffaith/prog-mats-java",
     "name": "Meepscellaneous Concepts",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Meepscillaneous Concepts enabled to view them!)",
-    "lastUpdated": "2024-03-26T05:29:01Z",
+    "lastUpdated": "2024-03-29T01:24:59Z",
     "stars": 65,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -704,17 +704,6 @@
     "description": "Show the range of turrets and units.\nShow the units the next wave will spawn."
   },
   {
-    "repo": "xjamiex/biotech",
-    "name": "Bio Tech",
-    "author": "[yellow]Jammuu: [white]Main Programmer/Spriter\n[cyan]EndoFreeze: [white]Playtester/Gameplay designer",
-    "lastUpdated": "2024-02-07T00:09:53Z",
-    "stars": 18,
-    "minGameVersion": "143",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that adds [red]fleshy stuff"
-  },
-  {
     "repo": "routerxdd/erekir-extended",
     "name": "Erekir Extended",
     "author": "RouterXdd (R.O.T)",
@@ -724,6 +713,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Add the new sectors and content on Erekir"
+  },
+  {
+    "repo": "xjamiex/biotech",
+    "name": "Bio Tech",
+    "author": "[yellow]Jammuu: [white]Main Programmer/Spriter\n[cyan]EndoFreeze: [white]Playtester/Gameplay designer",
+    "lastUpdated": "2024-03-29T01:54:49Z",
+    "stars": 18,
+    "minGameVersion": "143",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that adds [red]fleshy stuff"
   },
   {
     "repo": "vvseangtvv/v5-classic",
@@ -2090,17 +2090,6 @@
     "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer Psammos.\r\n\r\n[salmon]The campaign is unfinished and might not work properly. Everything might change in the future. I update it very often so reinstall once in a while.[white]\r\n\r\nThanks [#5865f2]@thisiscrimsoncheck[white] on Discord for Cavern map and Liquid Fuel Burner"
   },
   {
-    "repo": "otamamori917/axthrix-modded-java",
-    "name": "Axthrix",
-    "author": "Otamamori#4716\ncontributors:\n    BetaMindy/sk7725#6110| BoltBulletType.\n    MEEPofFaith#7277| AcceleratedTurret, blackhole related stuff.\n    nullevoy#7763| Spriting Tips.\n    Monika#6030| Code clean up & starting blocks & bundles\n    Siede#6321| Status effect sprites",
-    "lastUpdated": "2024-03-28T22:34:53Z",
-    "stars": 6,
-    "minGameVersion": "144.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "BETA sandbox only! requires blackhole render by meep of faith"
-  },
-  {
     "repo": "meepoffaith/hallucinogen",
     "name": "Hallucinogen",
     "author": "MEEPofFaith",
@@ -2110,6 +2099,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The best sensory overload you can get, at least legally."
+  },
+  {
+    "repo": "otamamori917/axthrix-modded-java",
+    "name": "Axthrix",
+    "author": "Otamamori#4716\ncontributors:\n    BetaMindy/sk7725#6110| BoltBulletType.\n    MEEPofFaith#7277| AcceleratedTurret, blackhole related stuff.\n    nullevoy#7763| Spriting Tips.\n    Monika#6030| Code clean up & starting blocks & bundles\n    Siede#6321| Status effect sprites",
+    "lastUpdated": "2024-03-29T01:01:51Z",
+    "stars": 6,
+    "minGameVersion": "144.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "BETA sandbox only! requires blackhole render by meep of faith"
   },
   {
     "repo": "warcry98/speedcontrol",
@@ -2781,17 +2781,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "No description provided."
-  },
-  {
-    "repo": "jirocab/caster-ui-java",
-    "name": "Caster User interface",
-    "author": "RushieWashie",
-    "lastUpdated": "2024-03-28T12:10:39Z",
-    "stars": 4,
-    "minGameVersion": "140.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Aming to make the client a bit better for casting! with ease of use, simplicity and elegance in mind \n \n Java rewrite of 'JiroCab/Caster-Ui' which was based off 'Ferlern/extended-UI' \nconflicts with 'Ferlern/extended-UI'  \n\nPLEASE DON'T THIS FOR AN ADVANTAGE IN PVP THANKS"
   },
   {
     "repo": "amateurpotion/nuclearjavamod",
@@ -3542,10 +3531,21 @@
     "description": "The mod adds to the game mainly buildings on the Serpulo, but also 2 new ores: Iron and Cobalt, which can only be synthesized On the Serpulo, they can not be found. That's it, I hope you like the mod).."
   },
   {
+    "repo": "jirocab/caster-ui-java",
+    "name": "Caster User interface",
+    "author": "RushieWashie",
+    "lastUpdated": "2024-03-28T12:10:39Z",
+    "stars": 3,
+    "minGameVersion": "140.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Aming to make the client a bit better for casting! with ease of use, simplicity and elegance in mind \n \n Java rewrite of 'JiroCab/Caster-Ui' which was based off 'Ferlern/extended-UI' \nconflicts with 'Ferlern/extended-UI'  \n\nPLEASE DON'T THIS FOR AN ADVANTAGE IN PVP THANKS"
+  },
+  {
     "repo": "meepoffaith/mindustryblackholerenderer",
     "name": "Black Holes Library",
     "author": "MEEPofFaith",
-    "lastUpdated": "2024-03-28T01:31:31Z",
+    "lastUpdated": "2024-03-29T01:19:03Z",
     "stars": 3,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -4134,17 +4134,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a button to quickly take 15 of an item from the core.\nRight click (PC) or long press (mobile) to set the grabbed item.\nRequires deltanedas/ui-lib."
-  },
-  {
-    "repo": "python-nerd-3/vanillex",
-    "name": "vanillEX",
-    "author": "sc3d (IGN Random Memer)",
-    "lastUpdated": "2023-09-21T11:22:57Z",
-    "stars": 2,
-    "minGameVersion": "136.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "[In very early development] A Mindustry mod that adds new features to the game that blend in with the original."
   },
   {
     "repo": "zeniku/caeruleum",
