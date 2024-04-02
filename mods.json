@@ -70,7 +70,7 @@
     "name": "Cyber IO",
     "author": "[#42a5f5]Liplum[]",
     "lastUpdated": "2023-12-13T17:34:49Z",
-    "stars": 114,
+    "stars": 113,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -103,7 +103,7 @@
     "name": "Aeyama: The New World",
     "author": "FredyJabe & Jojo",
     "lastUpdated": "2024-03-13T06:42:43Z",
-    "stars": 103,
+    "stars": 104,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
@@ -825,17 +825,6 @@
     "description": "This mod will play tracks from classic Mindustry music (v3.3r27, v3.5r40, and v5)"
   },
   {
-    "repo": "eyeofdarkness/advance-lighting",
-    "name": "Advance lighting",
-    "author": "EoD",
-    "lastUpdated": "2024-03-25T12:40:15Z",
-    "stars": 16,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Not recommended for weak devices. Only supports Vanilla/Supported-Json content. This mod replaces/add some effects, and may cause issues with mods that actively check on those effects. May conflict with vanilla bloom."
-  },
-  {
     "repo": "spaceearthex/factroundustry",
     "name": "Factroundustry",
     "author": "SpaceEarthEX",
@@ -869,17 +858,6 @@
     "description": "A Mindustry Java mod."
   },
   {
-    "repo": "saigon0nozomi/nightscape",
-    "name": "NightScape",
-    "author": "Saigo no-nozomi. \n Few sprites from: Sundered \n Translation help: CyberSirnik",
-    "lastUpdated": "2024-02-23T21:11:52Z",
-    "stars": 15,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds hard new planet with unique content and new mechanics"
-  },
-  {
     "repo": "vvseangtvv/project-restoration",
     "name": "Project: Restoration",
     "author": "VvSeanGtvV",
@@ -889,6 +867,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry builds including some classic ones are added to Mindustry v7!"
+  },
+  {
+    "repo": "eyeofdarkness/advance-lighting",
+    "name": "Advance lighting",
+    "author": "EoD",
+    "lastUpdated": "2024-03-25T12:40:15Z",
+    "stars": 15,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Not recommended for weak devices. Only supports Vanilla/Supported-Json content. This mod replaces/add some effects, and may cause issues with mods that actively check on those effects. May conflict with vanilla bloom."
   },
   {
     "repo": "twcash/tantros-test",
@@ -966,6 +955,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "WIP"
+  },
+  {
+    "repo": "saigon0nozomi/nightscape",
+    "name": "NightScape",
+    "author": "Saigo no-nozomi. \n Few sprites from: Sundered \n Translation help: CyberSirnik",
+    "lastUpdated": "2024-02-23T21:11:52Z",
+    "stars": 14,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds hard new planet with unique content and new mechanics"
   },
   {
     "repo": "shadowpazzo99/shadowdustry",
@@ -1496,17 +1496,6 @@
     "description": "Displays all bridge links. Helps with bridge weaving"
   },
   {
-    "repo": "eeve-lyn/schematic-browser",
-    "name": "Schematic Browser",
-    "author": "Evelyn",
-    "lastUpdated": "2023-12-11T00:25:29Z",
-    "stars": 8,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds an online schematic browser."
-  },
-  {
     "repo": "arth0x/mindustrinity",
     "name": "MindusTrinity",
     "author": "[#009BFF]Wolflab Studio",
@@ -1694,6 +1683,17 @@
     "description": "SchemePack"
   },
   {
+    "repo": "eeve-lyn/schematic-browser",
+    "name": "Schematic Browser",
+    "author": "Evelyn",
+    "lastUpdated": "2023-12-11T00:25:29Z",
+    "stars": 7,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds an online schematic browser."
+  },
+  {
     "repo": "mikamolimo/legendary-rainbow-mod",
     "name": "Legendary Rainbow Mod",
     "author": "Mikamolimo",
@@ -1785,7 +1785,7 @@
     "repo": "dong-wo-long/enhancementunits",
     "name": "Enhancement Units",
     "author": "D&X",
-    "lastUpdated": "2024-04-02T15:37:50Z",
+    "lastUpdated": "2024-04-02T18:00:09Z",
     "stars": 7,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -5883,6 +5883,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "adds a new planet where you must master the 4 elements to beat new ennemies!"
+  },
+  {
+    "repo": "dong-wo-long/enhancementturrets",
+    "name": "Enhancement Turrets",
+    "author": "D&X",
+    "lastUpdated": "2024-04-02T14:07:08Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Important:\n\nThis is an addition to the Enhancement Units mod, which modifies several towers, sometimes improving them, then changing the shooting mechanics to create some kind of balance between units and towers.\n\nPlease pay attention:\n\nThe mod significantly reworks the mechanics of turrets, changes the balance and, in general, can simplify the game without the EU. Don't forget to make a backup in case you don't like the changes that the mod itself makes.\n\nP.S. The mod is made for ALE maps."
   },
   {
     "repo": "emanuelg-gaming/ion",
