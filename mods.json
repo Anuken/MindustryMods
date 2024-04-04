@@ -1012,17 +1012,6 @@
     "description": "Disables sectors being re-attacked."
   },
   {
-    "repo": "xtarsagency/zeridmuth",
-    "name": "Zeridmuth: A New Beginning",
-    "author": "[red]Xtarsagency\r\n[yellow]Contributors: [cyan]ItzCraft, [green]Mitemi, [pink]CoCo1408",
-    "lastUpdated": "2024-04-04T13:57:23Z",
-    "stars": 13,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod adds a new set of campaign and content.\nZeridmuth: A blue planet with a completed campaign\nArvtom: (WIP) A Gray planet far away from the Sun\n-----------------------------\nOur Discord Server: https://discord.com/invite/KuV5r39cpY"
-  },
-  {
     "repo": "i-hope1/mod-tools",
     "name": "mod工具",
     "author": "I hope...",
@@ -1032,6 +1021,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "## Bug修复\n- 修复`Window`阻塞`TextField`输入的bug\n- 将`TimeoutException`视为内部错误\n（没有开启捕获外部错误，也可以捕获`TimeoutException`）\n- 修复`TextAreaTab`补全时可能发生报错\n- 修复`Underline`搜索时仍保留的bug\n- 修复设置ui中的字体可能显示不全\n\n## 新特性\n- `ReviewElement`添加`Touchable`颜色区分\n- 自动捕获`Window`的渲染报错\n\n## Bug Fixes\n- Fixed the bug that `Window` was blocking `TextField` input\n- Consider `TimeoutException` as an internal error\n(No external error handling enabled, but `TimeoutException` can be caught)\n- Fixed the potential error that may occur during autocompletion in `TextAreaTab`\n- Fixed the bug where `Underline` remains during search\n- Fixed the issue where fonts in the UI may not display completely\n\n## New Features\n- Added color differentiation for `Touchable` in `ReviewElement`\n- Automatically capture rendering errors of `Window`"
+  },
+  {
+    "repo": "xtarsagency/zeridmuth",
+    "name": "Zeridmuth: A New Beginning",
+    "author": "[red]Xtarsagency\r\n[yellow]Contributors: [cyan]ItzCraft, [green]Mitemi, [pink]CoCo1408",
+    "lastUpdated": "2024-04-04T16:40:20Z",
+    "stars": 13,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod adds a new set of campaign and content.\nZeridmuth: A blue planet with a completed campaign\nArvtom: (WIP) A Gray planet far away from the Sun\n-----------------------------\nOur Discord Server: https://discord.com/invite/KuV5r39cpY"
   },
   {
     "repo": "mythril382/roombas",
@@ -1496,17 +1496,6 @@
     "description": "Displays all bridge links. Helps with bridge weaving"
   },
   {
-    "repo": "arth0x/mindustrinity",
-    "name": "MindusTrinity",
-    "author": "[#009BFF]Wolflab Studio",
-    "lastUpdated": "2023-12-31T22:26:50Z",
-    "stars": 8,
-    "minGameVersion": "140.4",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Add a lot of vanilla improvement :\n \n    -Add new turrets / items / liquids and more\n    -You can now biuld T6 units\n    -Mod compatible with multiplayer and campain\n\nStill in in development so might be bugged or unbalanced for now\nDon't forget to review and drop a star :P\n \n \n       \n    - Arth0x"
-  },
-  {
     "repo": "electricgun/cheat-codes-mod",
     "name": "Cheat Codes Mod",
     "author": "electricgun",
@@ -1549,6 +1538,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Important:\n\nThis mod does not bring anything radically new to the game, but only expands the combat functionality of existing combat units.\n\nPlease pay attention:\n\nThe mod significantly redesigns units, changes the balance and generally complicates the game. Don't forget to make a backup in case you don't like the changes that the mod itself makes.\n\nP.S. The mod is made for ALE maps."
+  },
+  {
+    "repo": "arth0x/mindustrinity",
+    "name": "MindusTrinity",
+    "author": "[#009BFF]Wolflab Studio",
+    "lastUpdated": "2024-04-04T17:50:39Z",
+    "stars": 8,
+    "minGameVersion": "140.4",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Add a lot of vanilla improvement :\n \n    -Add new turrets / items / liquids and more\n    -You can now biuld T6 units\n    -Mod compatible with multiplayer and campain\n\nStill in in development so might be bugged or unbalanced for now\nDon't forget to review and drop a star :P\n \n \n       \n    - Arth0x"
   },
   {
     "repo": "reborntrack970/sandbox-mode",
@@ -2024,17 +2024,6 @@
     "description": "Add more Things !!\n\nTHIS IS STILL IN DEVELOPMENT\n\nWant fast update??\nJoin to our server or check at our github\n\nContributors:\nKanaede\nNEON-XZR\n\nMF Version: 0.1.0"
   },
   {
-    "repo": "situvngcd/mindustrymodtest",
-    "name": "SVN Test mod",
-    "author": "[#4488ff]SITUVNgcd[]",
-    "lastUpdated": "2024-04-01T14:36:27Z",
-    "stars": 6,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Tags list allow manually sort, easier for tag selection.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
-  },
-  {
     "repo": "andromeda-galaxy29/psammos-mod",
     "name": "Psammos Mod",
     "author": "AndromedaGalaxy29",
@@ -2088,6 +2077,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer and pain on top"
+  },
+  {
+    "repo": "situvngcd/mindustrymodtest",
+    "name": "SVN Test mod",
+    "author": "[#4488ff]SITUVNgcd[]",
+    "lastUpdated": "2024-04-04T16:13:55Z",
+    "stars": 6,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Tags list allow manually sort, easier for tag selection.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
   },
   {
     "repo": "warcry98/speedcontrol",
@@ -3509,17 +3509,6 @@
     "description": "Aming to make the client a bit better for casting! with ease of use, simplicity and elegance in mind \n \n Java rewrite of 'JiroCab/Caster-Ui' which was based off 'Ferlern/extended-UI' \nconflicts with 'Ferlern/extended-UI'  \n\nPLEASE DON'T THIS FOR AN ADVANTAGE IN PVP THANKS"
   },
   {
-    "repo": "emoyt/calamity",
-    "name": "Calamity",
-    "author": "[red]Klim & EMOYT",
-    "lastUpdated": "2024-04-03T04:10:53Z",
-    "stars": 3,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\n[blue]Mod in alpha testing\n[white]This mod add lot of content for Erekir\n[red]New vote everymonth in [purple]discord[red] server.\n[blue]New mod [red]= [blue]New [red]World"
-  },
-  {
     "repo": "dong-wo-long/enhancementturrets",
     "name": "Enhancement Turrets",
     "author": "D&X",
@@ -3540,6 +3529,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "9527，皴皲，咕咕点心,LYBF,Ovulam5480,皴皲"
+  },
+  {
+    "repo": "emoyt/calamity",
+    "name": "Calamity",
+    "author": "[red]Klim & [green]AdventSik",
+    "lastUpdated": "2024-04-04T16:49:50Z",
+    "stars": 3,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\n[blue]Mod in alpha testing\n[white]This mod add lot of content for Erekir\n[red]New vote everymonth in [purple]discord[red] server.\n[blue]New mod [red]= [blue]New [red]World"
   },
   {
     "repo": "wshon/mindustrytoolkit",
@@ -3815,17 +3815,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "mod that adds serpulo junctions routers and bridges to erekir"
-  },
-  {
-    "repo": "stacktrace-error/the-hearth",
-    "name": "The Hearth",
-    "author": "Null",
-    "lastUpdated": "2023-01-29T17:44:10Z",
-    "stars": 2,
-    "minGameVersion": "140.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
   },
   {
     "repo": "mythril382/sardines",
