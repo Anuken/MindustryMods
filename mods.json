@@ -825,6 +825,17 @@
     "description": "This mod will play tracks from classic Mindustry music (v3.3r27, v3.5r40, and v5)"
   },
   {
+    "repo": "eyeofdarkness/advance-lighting",
+    "name": "Advance lighting",
+    "author": "EoD",
+    "lastUpdated": "2024-03-25T12:40:15Z",
+    "stars": 16,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Not recommended for weak devices. Only supports Vanilla/Supported-Json content. This mod replaces/add some effects, and may cause issues with mods that actively check on those effects. May conflict with vanilla bloom."
+  },
+  {
     "repo": "spaceearthex/factroundustry",
     "name": "Factroundustry",
     "author": "SpaceEarthEX",
@@ -858,6 +869,17 @@
     "description": "A Mindustry Java mod."
   },
   {
+    "repo": "saigon0nozomi/nightscape",
+    "name": "NightScape",
+    "author": "Saigo no-nozomi. \n Few sprites from: Sundered \n Translation help: CyberSirnik",
+    "lastUpdated": "2024-02-23T21:11:52Z",
+    "stars": 15,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds hard new planet with unique content and new mechanics"
+  },
+  {
     "repo": "vvseangtvv/project-restoration",
     "name": "Project: Restoration",
     "author": "VvSeanGtvV",
@@ -867,17 +889,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry builds including some classic ones are added to Mindustry v7!"
-  },
-  {
-    "repo": "eyeofdarkness/advance-lighting",
-    "name": "Advance lighting",
-    "author": "EoD",
-    "lastUpdated": "2024-03-25T12:40:15Z",
-    "stars": 15,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Not recommended for weak devices. Only supports Vanilla/Supported-Json content. This mod replaces/add some effects, and may cause issues with mods that actively check on those effects. May conflict with vanilla bloom."
   },
   {
     "repo": "twcash/tantros-test",
@@ -955,17 +966,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "WIP"
-  },
-  {
-    "repo": "saigon0nozomi/nightscape",
-    "name": "NightScape",
-    "author": "Saigo no-nozomi. \n Few sprites from: Sundered \n Translation help: CyberSirnik",
-    "lastUpdated": "2024-02-23T21:11:52Z",
-    "stars": 14,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds hard new planet with unique content and new mechanics"
   },
   {
     "repo": "shadowpazzo99/shadowdustry",
@@ -1254,17 +1254,6 @@
     "description": "SHADOOOW your GAME!! repo: BlackDeluxeCat/ShadowShader"
   },
   {
-    "repo": "dong-wo-long/enhancementunits",
-    "name": "Enhancement Units",
-    "author": "D&X",
-    "lastUpdated": "2024-04-10T11:35:35Z",
-    "stars": 10,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Important:\n\nThis mod does not bring anything radically new to the game, but only expands the combat functionality of existing combat units.\n\nPlease pay attention:\n\nThe mod significantly redesigns units, changes the balance and generally complicates the game. Don't forget to make a backup in case you don't like the changes that the mod itself makes.\n\nP.S. The mod is made for ALE maps."
-  },
-  {
     "repo": "sebmeister2077/giftologic",
     "name": "GifToLogic",
     "author": "sebmeister2077",
@@ -1274,6 +1263,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Work in progress (not working)"
+  },
+  {
+    "repo": "dong-wo-long/enhancementunits",
+    "name": "Enhancement Units",
+    "author": "D&X",
+    "lastUpdated": "2024-04-11T16:01:17Z",
+    "stars": 10,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Important:\n\nThis mod does not bring anything radically new to the game, but only expands the combat functionality of existing combat units.\n\nPlease pay attention:\n\nThe mod significantly redesigns units, changes the balance and generally complicates the game. Don't forget to make a backup in case you don't like the changes that the mod itself makes.\n\nP.S. The mod is made for ALE maps."
   },
   {
     "repo": "deltanedas/mobile-ui",
@@ -1507,6 +1507,17 @@
     "description": "Displays all bridge links. Helps with bridge weaving"
   },
   {
+    "repo": "eeve-lyn/schematic-browser",
+    "name": "Schematic Browser",
+    "author": "Evelyn",
+    "lastUpdated": "2023-12-11T00:25:29Z",
+    "stars": 8,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds an online schematic browser."
+  },
+  {
     "repo": "electricgun/cheat-codes-mod",
     "name": "Cheat Codes Mod",
     "author": "electricgun",
@@ -1692,17 +1703,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "SchemePack"
-  },
-  {
-    "repo": "eeve-lyn/schematic-browser",
-    "name": "Schematic Browser",
-    "author": "Evelyn",
-    "lastUpdated": "2023-12-11T00:25:29Z",
-    "stars": 7,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds an online schematic browser."
   },
   {
     "repo": "mikamolimo/legendary-rainbow-mod",
@@ -3556,7 +3556,7 @@
     "repo": "dong-wo-long/enhancementturrets",
     "name": "Enhancement Turrets",
     "author": "D&X",
-    "lastUpdated": "2024-04-11T11:52:20Z",
+    "lastUpdated": "2024-04-11T13:57:35Z",
     "stars": 3,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -5786,17 +5786,6 @@
     "description": "Replaces all wave spawns with one of four T5s (primarily reigns). Yes that means you'll face a reign at wave 1 in ground zero."
   },
   {
-    "repo": "chaoticans-mindustry-modding-team/javacamod",
-    "name": "Javacamod",
-    "author": "The chaoticans",
-    "lastUpdated": "2024-03-31T21:50:53Z",
-    "stars": 1,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Finally."
-  },
-  {
     "repo": "shardedfilms/distortion",
     "name": "Distortion",
     "author": "",
@@ -5806,17 +5795,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": ""
-  },
-  {
-    "repo": "tripletoxic/math-stuff",
-    "name": "Math-stuff",
-    "author": "Triple-Toxic",
-    "lastUpdated": "2024-04-01T15:58:19Z",
-    "stars": 1,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "More math stuff"
   },
   {
     "repo": "wtsteveofficial/planaria",
@@ -5861,6 +5839,28 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "adds a new planet where you must master the 4 elements to beat new ennemies!"
+  },
+  {
+    "repo": "chaoticans-mindustry-modding-team/javacamod",
+    "name": "Javacamod",
+    "author": "The chaoticans",
+    "lastUpdated": "2024-04-11T12:45:24Z",
+    "stars": 1,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Finally."
+  },
+  {
+    "repo": "tripletoxic/math-stuff",
+    "name": "Math-stuff",
+    "author": "Triple-Toxic",
+    "lastUpdated": "2024-04-11T15:56:35Z",
+    "stars": 1,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "More math stuff"
   },
   {
     "repo": "emanuelg-gaming/ion",
