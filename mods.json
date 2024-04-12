@@ -407,17 +407,6 @@
     "description": "Adds byte logic blocks from v5"
   },
   {
-    "repo": "abomb4/dimension-shard",
-    "name": "New Console",
-    "author": "Mnemotechnician",
-    "lastUpdated": "2024-02-06T06:36:45Z",
-    "stars": 30,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "Adds a console ui superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more,\na good log panel, execution history - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
-  },
-  {
     "repo": "minri2/minertools",
     "name": "MinerTools",
     "author": "MinRi2",
@@ -581,6 +570,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Randomizes almost everything!\nJoin our discord! https://discord.gg/ztC6WJUxZK\n\nEPILEPSY WARNING"
+  },
+  {
+    "repo": "mnemotechnician/new-console",
+    "name": "New Console",
+    "author": "Mnemotechnician",
+    "lastUpdated": "2024-03-05T20:12:41Z",
+    "stars": 22,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a console ui superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more,\na good log panel, execution history - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
   },
   {
     "repo": "three-cold-planets/welcome-to-the-frostscape",
@@ -859,14 +859,14 @@
   },
   {
     "repo": "zeutd/disintegration",
-    "name": "NeonNights 2",
-    "author": "WMF Industries",
+    "name": "disintegration",
+    "author": "zeutd",
     "lastUpdated": "2024-01-24T09:54:08Z",
     "stars": 15,
-    "minGameVersion": "145",
+    "minGameVersion": "140",
     "hasScripts": false,
     "hasJava": true,
-    "description": "Makes Mindustry Dark Themed!\n\nCredits:\n• !ereHyddeS, for making this out of boredom\n• WMF, for annoying everyone long enough to rework it\n• Antlrr, for contributing lots\n• Woop, for contributing few\n• Binonib, for contributing few\n• Blop, for ideas and for meme dump\n• Gus, will come for you if you dare steal the mod or do anything similar\n\nChangelogs:\n• Serpulo animated turrets (finally)\n• Removed unused sprites\n• Cleaned up some code\n• Other minor fixes\n\nVersion:\n• 2.2 Alpha"
+    "description": "A Mindustry Java mod."
   },
   {
     "repo": "saigon0nozomi/nightscape",
@@ -1771,17 +1771,6 @@
     "description": "Adds new ways to destroy nature, mostly factories."
   },
   {
-    "repo": "jirocab/olupis",
-    "name": "Nyfalis (Olupis)",
-    "author": "Programming:\nRushieWashie, Siede, WMF Industries \n---------------------\nSprites:\nRushieWashie, Remington Thomas, Ethanol10, kapzduke\n---------------------\nMaps:\nRushieWashie, MrApple, Remington Thomas ",
-    "lastUpdated": "2024-04-10T07:58:53Z",
-    "stars": 7,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer and pain on top"
-  },
-  {
     "repo": "andromeda-galaxy29/psammos-mod",
     "name": "Psammos Mod",
     "author": "AndromedaGalaxy29",
@@ -1791,6 +1780,28 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer Psammos.\r\n\r\n[salmon]The campaign is unfinished and might not work properly. Everything might change in the future. I update it very often so reinstall once in a while.[white]\r\n\r\nThanks [#5865f2]@thisiscrimsoncheck[white] on Discord for Cavern map and Liquid Fuel Burner"
+  },
+  {
+    "repo": "racti2037/real-military-techic-mod",
+    "name": "Military Technic Mod",
+    "author": "Racti",
+    "lastUpdated": "2024-04-11T07:14:48Z",
+    "stars": 7,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Mod add tanks, aircraft and naval ships"
+  },
+  {
+    "repo": "jirocab/olupis",
+    "name": "Nyfalis (Olupis)",
+    "author": "Programming:\nRushieWashie, Siede, WMF Industries \n---------------------\nSprites:\nRushieWashie, Remington Thomas, Ethanol10, kapzduke\n---------------------\nMaps:\nRushieWashie, MrApple, Remington Thomas ",
+    "lastUpdated": "2024-04-12T07:03:06Z",
+    "stars": 7,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer and pain on top"
   },
   {
     "repo": "warcry98/speedcontrol",
@@ -2552,6 +2563,17 @@
     "description": "Add more Canvases"
   },
   {
+    "repo": "routerxdd/sc-music-pack",
+    "name": "SC music pack",
+    "author": "RouterXdd",
+    "lastUpdated": "2023-06-21T06:49:35Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Change mindustry music to SC"
+  },
+  {
     "repo": "heroblack303/stardustry",
     "name": "Stardustry",
     "author": "Heroblack303",
@@ -2748,17 +2770,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Mod for mindustry server                 "
-  },
-  {
-    "repo": "andrz1-kiwi/mindustryz1",
-    "name": "SC music pack",
-    "author": "RouterXdd",
-    "lastUpdated": "2020-01-14T16:59:31Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Change mindustry music to SC"
   },
   {
     "repo": "amateurpotion/nuclearjavamod",
@@ -3342,6 +3353,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "I really hate this mod, i put more effort in it than anyone else in their first mod. \nThere was one contributor and his name was mq, one sprite belongs to him. epic \nGood luck with this mod, and no you cant use it in campaign for the sake of my sanity, *yet*"
+  },
+  {
+    "repo": "wmf-industries/neonnights2",
+    "name": "NeonNights 2",
+    "author": "WMF Industries",
+    "lastUpdated": "2024-01-25T04:56:19Z",
+    "stars": 3,
+    "minGameVersion": "145",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Makes Mindustry Dark Themed!\n\nCredits:\n• !ereHyddeS, for making this out of boredom\n• WMF, for annoying everyone long enough to rework it\n• Antlrr, for contributing lots\n• Woop, for contributing few\n• Binonib, for contributing few\n• Blop, for ideas and for meme dump\n• Gus, will come for you if you dare steal the mod or do anything similar\n\nChangelogs:\n• Serpulo animated turrets (finally)\n• Removed unused sprites\n• Cleaned up some code\n• Other minor fixes\n\nVersion:\n• 2.2 Alpha"
   },
   {
     "repo": "cong0707/multiplayer",
@@ -4532,17 +4554,6 @@
     "description": "A Mindustry mod that adds Roblox Industrialist to Mindustry.\n\nIndustrialist:\nA game centered around factory construction and industrial expansion.\nHeavily inspired by Mindustry, Factorio & some other industry games.\n\nMindustry:\nAn open-ended factory management game with RTS and tower defense elements.\n\n\n\nCredits:\nLixie and her Allure (when i started making this game with hjson & js)\nOmaloon by xstabux (alot, like a few files are directly copied from omaloon)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nhi"
   },
   {
-    "repo": "techfish3000/techfish-orbital",
-    "name": "Command Mode",
-    "author": "nvcbl",
-    "lastUpdated": "2019-11-25T05:12:34Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Brings back command mode from the dead"
-  },
-  {
     "repo": "explerhd/unnamedmods",
     "name": "New Tech",
     "author": "You",
@@ -5303,17 +5314,6 @@
   },
   {
     "repo": "toxopid123/item-generator-serpulo",
-    "name": "Item Generator (Serpulo)",
-    "author": "Toxopid",
-    "lastUpdated": "2023-11-12T08:30:19Z",
-    "stars": 1,
-    "minGameVersion": "145.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This is too cheating mod, I do not recommend using it in a career"
-  },
-  {
-    "repo": "sasha-726/item-generator-serpulo",
     "name": "Item Generator (Serpulo)",
     "author": "Toxopid",
     "lastUpdated": "2023-11-12T08:30:19Z",
