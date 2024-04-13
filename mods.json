@@ -1012,17 +1012,6 @@
     "description": "Disables sectors being re-attacked."
   },
   {
-    "repo": "i-hope1/mod-tools",
-    "name": "mod工具",
-    "author": "I hope...",
-    "lastUpdated": "2024-04-04T15:45:41Z",
-    "stars": 13,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "## Bug修复\n- 修复`Window`阻塞`TextField`输入的bug\n- 将`TimeoutException`视为内部错误\n（没有开启捕获外部错误，也可以捕获`TimeoutException`）\n- 修复`TextAreaTab`补全时可能发生报错\n- 修复`Underline`搜索时仍保留的bug\n- 修复设置ui中的字体可能显示不全\n\n## 新特性\n- `ReviewElement`添加`Touchable`颜色区分\n- 自动捕获`Window`的渲染报错\n\n## Bug Fixes\n- Fixed the bug that `Window` was blocking `TextField` input\n- Consider `TimeoutException` as an internal error\n(No external error handling enabled, but `TimeoutException` can be caught)\n- Fixed the potential error that may occur during autocompletion in `TextAreaTab`\n- Fixed the bug where `Underline` remains during search\n- Fixed the issue where fonts in the UI may not display completely\n\n## New Features\n- Added color differentiation for `Touchable` in `ReviewElement`\n- Automatically capture rendering errors of `Window`"
-  },
-  {
     "repo": "xtarsagency/zeridmuth",
     "name": "Zeridmuth: A New Beginning",
     "author": "[red]Xtarsagency\r\n[yellow]Contributors: [cyan]ItzCraft, [green]Mitemi, [pink]CoCo1408",
@@ -1032,6 +1021,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod adds a new set of campaign and content.\nZeridmuth: A blue planet with a completed campaign\nArvtom: (WIP) A Gray planet far away from the Sun\n-----------------------------\nOur Discord Server: https://discord.com/invite/KuV5r39cpY"
+  },
+  {
+    "repo": "i-hope1/mod-tools",
+    "name": "mod工具",
+    "author": "I hope...",
+    "lastUpdated": "2024-04-13T09:52:25Z",
+    "stars": 13,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "## Bug修复\n- 修复`Window`阻塞`TextField`输入的bug\n- 将`TimeoutException`视为内部错误\n（没有开启捕获外部错误，也可以捕获`TimeoutException`）\n- 修复`TextAreaTab`补全时可能发生报错\n- 修复`Underline`搜索时仍保留的bug\n- 修复设置ui中的字体可能显示不全\n\n## 新特性\n- `ReviewElement`添加`Touchable`颜色区分\n- 自动捕获`Window`的渲染报错\n\n## Bug Fixes\n- Fixed the bug that `Window` was blocking `TextField` input\n- Consider `TimeoutException` as an internal error\n(No external error handling enabled, but `TimeoutException` can be caught)\n- Fixed the potential error that may occur during autocompletion in `TextAreaTab`\n- Fixed the bug where `Underline` remains during search\n- Fixed the issue where fonts in the UI may not display completely\n\n## New Features\n- Added color differentiation for `Touchable` in `ReviewElement`\n- Automatically capture rendering errors of `Window`"
   },
   {
     "repo": "mythril382/roombas",
@@ -1254,17 +1254,6 @@
     "description": "SHADOOOW your GAME!! repo: BlackDeluxeCat/ShadowShader"
   },
   {
-    "repo": "dong-wo-long/enhancementunits",
-    "name": "Enhancement Units",
-    "author": "D&X",
-    "lastUpdated": "2024-04-11T16:01:17Z",
-    "stars": 10,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Important:\n\nThis mod does not bring anything radically new to the game, but only expands the combat functionality of existing combat units.\n\nPlease pay attention:\n\nThe mod significantly redesigns units, changes the balance and generally complicates the game. Don't forget to make a backup in case you don't like the changes that the mod itself makes.\n\nP.S. The mod is made for ALE maps."
-  },
-  {
     "repo": "sebmeister2077/giftologic",
     "name": "GifToLogic",
     "author": "sebmeister2077",
@@ -1274,6 +1263,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Work in progress (not working)"
+  },
+  {
+    "repo": "dong-wo-long/enhancementunits",
+    "name": "Enhancement Units",
+    "author": "D&X",
+    "lastUpdated": "2024-04-13T09:55:08Z",
+    "stars": 10,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Important:\n\nThis mod does not bring anything radically new to the game, but only expands the combat functionality of existing combat units.\n\nPlease pay attention:\n\nThe mod significantly redesigns units, changes the balance and generally complicates the game. Don't forget to make a backup in case you don't like the changes that the mod itself makes.\n\nP.S. The mod is made for ALE maps."
   },
   {
     "repo": "deltanedas/mobile-ui",
@@ -1782,26 +1782,26 @@
     "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer and pain on top"
   },
   {
-    "repo": "racti2037/real-military-techic-mod",
-    "name": "Military Technic Mod",
-    "author": "Racti",
-    "lastUpdated": "2024-04-12T21:06:52Z",
-    "stars": 7,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Mod add tanks, aircraft and naval ships"
-  },
-  {
     "repo": "andromeda-galaxy29/psammos-mod",
     "name": "Psammos Mod",
     "author": "AndromedaGalaxy29",
-    "lastUpdated": "2024-04-13T05:21:16Z",
+    "lastUpdated": "2024-04-13T09:12:00Z",
     "stars": 7,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer Psammos.\r\n\r\nSpecial thanks:\r\n[#5865f2]@thisiscrimsoncheck[white] for several maps, suggestions and other contributions\r\n[#5865f2]@inxie_ratzey[white] for suggestions, sprites and maps\r\n\r\nIf you like the mod, consider giving it a star on GitHub. Thank you"
+  },
+  {
+    "repo": "racti2037/real-military-techic-mod",
+    "name": "Military Technic Mod",
+    "author": "Racti",
+    "lastUpdated": "2024-04-13T09:31:29Z",
+    "stars": 7,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Mod add tanks, aircraft and naval ships"
   },
   {
     "repo": "warcry98/speedcontrol",
@@ -2346,7 +2346,7 @@
     "repo": "glennfolker/confictura",
     "name": "Confictura",
     "author": "GlennFolker",
-    "lastUpdated": "2024-04-12T09:39:29Z",
+    "lastUpdated": "2024-04-13T08:56:48Z",
     "stars": 5,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -3556,7 +3556,7 @@
     "repo": "dong-wo-long/enhancementturrets",
     "name": "Enhancement Turrets",
     "author": "D&X",
-    "lastUpdated": "2024-04-13T07:35:06Z",
+    "lastUpdated": "2024-04-13T09:30:05Z",
     "stars": 3,
     "minGameVersion": "146",
     "hasScripts": false,
