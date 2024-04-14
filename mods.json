@@ -212,7 +212,7 @@
     "repo": "xstabux/omaloon",
     "name": "Omaloon",
     "author": "_stabu_",
-    "lastUpdated": "2024-04-09T22:07:43Z",
+    "lastUpdated": "2024-04-13T22:33:04Z",
     "stars": 67,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -1012,17 +1012,6 @@
     "description": "Disables sectors being re-attacked."
   },
   {
-    "repo": "xtarsagency/zeridmuth",
-    "name": "Zeridmuth: A New Beginning",
-    "author": "[red]Xtarsagency\r\n[yellow]Contributors: [cyan]ItzCraft, [green]Mitemi, [pink]CoCo1408",
-    "lastUpdated": "2024-04-10T09:31:20Z",
-    "stars": 13,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod adds a new set of campaign and content.\nZeridmuth: A blue planet with a completed campaign\nArvtom: (WIP) A Gray planet far away from the Sun\n-----------------------------\nOur Discord Server: https://discord.com/invite/KuV5r39cpY"
-  },
-  {
     "repo": "i-hope1/mod-tools",
     "name": "mod工具",
     "author": "I hope...",
@@ -1032,6 +1021,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "## Bug修复\n- 修复`Window`阻塞`TextField`输入的bug\n- 将`TimeoutException`视为内部错误\n（没有开启捕获外部错误，也可以捕获`TimeoutException`）\n- 修复`TextAreaTab`补全时可能发生报错\n- 修复`Underline`搜索时仍保留的bug\n- 修复设置ui中的字体可能显示不全\n\n## 新特性\n- `ReviewElement`添加`Touchable`颜色区分\n- 自动捕获`Window`的渲染报错\n\n## Bug Fixes\n- Fixed the bug that `Window` was blocking `TextField` input\n- Consider `TimeoutException` as an internal error\n(No external error handling enabled, but `TimeoutException` can be caught)\n- Fixed the potential error that may occur during autocompletion in `TextAreaTab`\n- Fixed the bug where `Underline` remains during search\n- Fixed the issue where fonts in the UI may not display completely\n\n## New Features\n- Added color differentiation for `Touchable` in `ReviewElement`\n- Automatically capture rendering errors of `Window`"
+  },
+  {
+    "repo": "xtarsagency/zeridmuth",
+    "name": "Zeridmuth: A New Beginning",
+    "author": "[red]Xtarsagency\r\n[yellow]Contributors: [cyan]ItzCraft, [green]Mitemi, [pink]CoCo1408",
+    "lastUpdated": "2024-04-13T23:40:04Z",
+    "stars": 13,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod adds a new set of campaign and content.\nZeridmuth: A blue planet with a completed campaign\nArvtom: (WIP) A Gray planet far away from the Sun\n-----------------------------\nOur Discord Server: https://discord.com/invite/KuV5r39cpY"
   },
   {
     "repo": "mythril382/roombas",
@@ -1092,7 +1092,7 @@
     "repo": "uujuju1/steam-works",
     "name": "Steam Works",
     "author": "Uujuju",
-    "lastUpdated": "2024-04-12T01:33:49Z",
+    "lastUpdated": "2024-04-13T23:17:10Z",
     "stars": 12,
     "minGameVersion": "142",
     "hasScripts": false,
@@ -7568,17 +7568,6 @@
     "description": "Research the planet, filled with mountains and lava rivers"
   },
   {
-    "repo": "tmhbgyt/project-big",
-    "name": "Project Big",
-    "author": "TMHBG",
-    "lastUpdated": "2024-04-08T17:58:13Z",
-    "stars": 0,
-    "minGameVersion": "140",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mindustry mod"
-  },
-  {
     "repo": "routerxdd/cringe-mod",
     "name": "Total cringe",
     "author": "R.O.T.",
@@ -7665,5 +7654,16 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "把现实金属带入mdt,会有怎样的火花呢~\r\n\t本模组还处于初步开发阶段,内容不好玩可以提,轻喷\r\n\t[yellow]祝你玩的开心!!!\r\n\t[]感谢RA2提供模组框架 并提前感谢所有测试模组的人\r\n\t感谢RA解惑群群友对燃气发电机输出水的指导"
+  },
+  {
+    "repo": "tmhbgyt/project-big",
+    "name": "Project Big",
+    "author": "TMHBG",
+    "lastUpdated": "2024-04-13T22:45:28Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mindustry mod"
   }
 ]
