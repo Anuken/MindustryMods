@@ -187,7 +187,7 @@ public class ModUpdater{
                     String displayName = Strings.stripColors(modj.getString("displayName", "")).replace("\\n", "");
                     if(displayName.isEmpty()) displayName = gm.getString("name");
 
-                    String internalName = Strings.stripColors(modj.getString("name");
+                    String internalName = Strings.stripColors(modj.getString("name").toLowerCase());
 
                     //skip outdated mods
                     String version = modj.getString("minGameVersion", "104");
