@@ -207,7 +207,7 @@ public class ModUpdater{
                     }
 
                     obj.add("repo", name);
-                    obj.add("modName", internalName);
+                    obj.add("internalName", internalName);
                     obj.add("name", metaName);
                     obj.add("author", Strings.stripColors(modj.getString("author", gm.get("owner").get("login").toString())));
                     obj.add("lastUpdated", gm.get("pushed_at"));
