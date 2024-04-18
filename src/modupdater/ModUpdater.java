@@ -187,6 +187,8 @@ public class ModUpdater{
                     String displayName = Strings.stripColors(modj.getString("displayName", "")).replace("\\n", "");
                     if(displayName.isEmpty()) displayName = gm.getString("name");
 
+                    String internalName = Strings.stripColors(modj.getString("name").toLowerCase());
+
                     //skip outdated mods
                     String version = modj.getString("minGameVersion", "104");
                     int minBuild = Strings.parseInt(version.contains(".") ? version.split("\\.")[0] : version, 0);
@@ -205,6 +207,7 @@ public class ModUpdater{
                     }
 
                     obj.add("repo", name);
+                    obj.add("internalName", internalName);
                     obj.add("name", metaName);
                     obj.add("author", Strings.stripColors(modj.getString("author", gm.get("owner").get("login").toString())));
                     obj.add("lastUpdated", gm.get("pushed_at"));
