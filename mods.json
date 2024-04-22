@@ -113,7 +113,7 @@
     "name": "Aeyama: The New World",
     "author": "FredyJabe & Jojo",
     "lastUpdated": "2024-03-13T06:42:43Z",
-    "stars": 106,
+    "stars": 107,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
@@ -377,7 +377,7 @@
     "name": "Asthosus",
     "author": "Catana791",
     "lastUpdated": "2024-04-21T10:14:45Z",
-    "stars": 36,
+    "stars": 37,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
@@ -852,6 +852,18 @@
     "description": "[#00FFFF](RU)[#FFFFFF] Модификация добавляет полезные блоки.[#0080FF] Мод создан мной, я русский.[#FF4747] Мод добавляет юнитов(икнаТ), заводы, конвейеры и ещё много всего.[#00FF80] Версия мода[#FFC000] 0.1 [#FF4747]Альфа.\n[#00FFFF](EN)[#FFFFFF] Modification adds useful blocks.[#FF4747] The mod was created by me, I'm russian.[#0080FF] Mod adds units(sknaT), factories, conveyors and many more blocks.[#00FF80] Mod version[#FFC000] 0.1 [#FF4747]Alpha."
   },
   {
+    "repo": "twcash/tantros-test",
+    "internalName": "aquarion",
+    "name": "Aquarion",
+    "author": "twcash",
+    "lastUpdated": "2024-04-22T09:26:39Z",
+    "stars": 17,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Aquarion is a campaign extension to recreate tantros including a custom campaign planet, units and blocks."
+  },
+  {
     "repo": "eclipse-04/avkott",
     "internalName": "avkott",
     "name": "Avkott",
@@ -922,18 +934,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Not recommended for weak devices. Only supports Vanilla/Supported-Json content. This mod replaces/add some effects, and may cause issues with mods that actively check on those effects. May conflict with vanilla bloom."
-  },
-  {
-    "repo": "twcash/tantros-test",
-    "internalName": "aquarion",
-    "name": "Aquarion",
-    "author": "twcash",
-    "lastUpdated": "2024-04-21T21:20:13Z",
-    "stars": 16,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Aquarion is a campaign extension to recreate tantros including a custom campaign planet, units and blocks."
   },
   {
     "repo": "spaceearthex/factroundustry",
@@ -1408,7 +1408,7 @@
     "internalName": "enhancement-units",
     "name": "Enhancement Units",
     "author": "D&X",
-    "lastUpdated": "2024-04-21T15:10:20Z",
+    "lastUpdated": "2024-04-22T09:07:05Z",
     "stars": 10,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -3924,18 +3924,6 @@
     "description": " (Version is Alpha Missing Content) Recreating Slotterleet Hard Mode Mod compatible for V7, also a HUGE Difficulty Spike Version 1.3 BIGGEST UPDATE: Huge Unit Resprite, Eboy Bosses, Ironman Versions of Campaign Maps, Secret Boss, and a New Univlogs boss"
   },
   {
-    "repo": "dong-wo-long/enhancementturrets",
-    "internalName": "ets",
-    "name": "Enhancement Turrets",
-    "author": "D&X",
-    "lastUpdated": "2024-04-21T11:21:56Z",
-    "stars": 3,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Important:\n\nThis is an addition to the Enhancement Units mod, which modifies several towers, sometimes improving them, then changing the shooting mechanics to create some kind of balance between units and towers.\n\nPlease pay attention:\n\nThe mod significantly reworks the mechanics of turrets, changes the balance and, in general, can simplify the game without the EU. Don't forget to make a backup in case you don't like the changes that the mod itself makes.\n\nP.S. The mod is made for ALE maps."
-  },
-  {
     "repo": "no9527dada/creators3",
     "internalName": "ct",
     "name": "创世神3-仙明决",
@@ -3946,6 +3934,18 @@
     "hasScripts": true,
     "hasJava": true,
     "description": "9527，皴皲，咕咕点心,LYBF,Ovulam5480,皴皲"
+  },
+  {
+    "repo": "dong-wo-long/enhancementturrets",
+    "internalName": "ets",
+    "name": "Enhancement Turrets",
+    "author": "D&X",
+    "lastUpdated": "2024-04-22T09:54:42Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Important:\n\nThis is an addition to the Enhancement Units mod, which modifies several towers, sometimes improving them, then changing the shooting mechanics to create some kind of balance between units and towers.\n\nPlease pay attention:\n\nThe mod significantly reworks the mechanics of turrets, changes the balance and, in general, can simplify the game without the EU. Don't forget to make a backup in case you don't like the changes that the mod itself makes.\n\nP.S. The mod is made for ALE maps."
   },
   {
     "repo": "wshon/mindustrytoolkit",
@@ -5026,6 +5026,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A java port of the hit mindustry mod spore biomechs\n Now with flies and mosquitoes!"
+  },
+  {
+    "repo": "willoizcitron/archivedustry-java",
+    "internalName": "bluearchive",
+    "name": "ArchiveDustry Java",
+    "author": "WilloIzCitron. Copyrights remains with Nexon, NAT GAMES and YoStar",
+    "lastUpdated": "2024-04-20T10:03:45Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\n    This is a fanmade mod of Blue Archive Soundtrack in Mindustry.\n\n    [yellow]Purposes:[]\n    This mod replace vanilla soundtrack into Blue Archive Soundtrack, also add additional soundtrack for essentials and the halo too!.\n\n    [red]⚠ NOTICE ⚠:[]\n    This mod is a fan-made project inspired by Blue Archive and not directly affiliated with it. Copyright remains with the developer and publisher of Blue Archive:\n    Nexon, NAT GAMES and Yostar.\n    "
   },
   {
     "repo": "dong-wo-long/sanabi-ost",
@@ -6384,18 +6396,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "chaoticans-mindustry-modding-team/javacamod",
-    "internalName": "javacamod",
-    "name": "Javacamod",
-    "author": "The chaoticans",
-    "lastUpdated": "2024-04-14T01:14:52Z",
-    "stars": 1,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Finally."
-  },
-  {
     "repo": "camelstyleuser/mindustry-jvm-mod",
     "internalName": "jvm",
     "name": "yes i write class files, why do you ask?",
@@ -6442,6 +6442,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Welcome to the mod Gloomistry! This is my first mod that adds a new campaign with new content, at the moment the mod is not made to the very end and updates will be released (probably) in which I will finish the campaign to the end and also change the sprites of many blocks that I did not like or that were copied from the original blocks. It is also possible that I will add more new turrets. If you liked the mod, don't forget to give it a star on the GitHub! Contact me: https://t.me/@Thisispzdcnh\n  \n  Приветствую вас в моде Глумистри! Это мой первый мод который добавляет новую кампанию с новым контентом, на данный момент мод сделан не до самого конца и будут выходить обновления(наверно) в которых я доделаю кампанию до конца а также изменю спрайты многих блоков, которые мне не понравились или которые были срисованы с оригинальных блоков. Также возможно я добавлю еще новые турели. Если вам понравился мод, не забудьте поставить ему звезду на ГитХаб! Связаться со мной: https://t.me/@Thisispzdcnh"
+  },
+  {
+    "repo": "chaoticans-mindustry-modding-team/javacamod",
+    "internalName": "javacamod",
+    "name": "Javacamod",
+    "author": "The chaoticans",
+    "lastUpdated": "2024-04-22T08:59:33Z",
+    "stars": 1,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Finally."
   },
   {
     "repo": "emanuelg-gaming/ion",
