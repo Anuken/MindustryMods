@@ -180,6 +180,18 @@
     "description": "Adds the Diamond resource.\n\nThis mod also adds more than just diamonds. It also adds enhanced versions of vanilla production blocks, as well as units, technology, and more."
   },
   {
+    "repo": "deltanedas/pictologic",
+    "internalName": "pictologic",
+    "name": "PicToLogic",
+    "author": "deltanedas, Router and another guy",
+    "lastUpdated": "2023-06-14T01:47:58Z",
+    "stars": 77,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a dialog for turning images into processor schematics.\nRequires deltanedas/ui-lib."
+  },
+  {
     "repo": "deltanedas/rtfm",
     "internalName": "rtfm",
     "name": "RTFM",
@@ -190,18 +202,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Mod that adds a manual page library. RTFM in the About menu.\nComes with documentation of vanilla'a Logic system.\nOptionally requires deltanedas/ui-lib for extra buttons.\npt_BR translations by King-BR"
-  },
-  {
-    "repo": "deltanedas/pictologic",
-    "internalName": "pictologic",
-    "name": "PicToLogic",
-    "author": "deltanedas, Router and another guy",
-    "lastUpdated": "2023-06-14T01:47:58Z",
-    "stars": 76,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a dialog for turning images into processor schematics.\nRequires deltanedas/ui-lib."
   },
   {
     "repo": "deltanedas/ui-lib",
@@ -340,7 +340,7 @@
     "internalName": "饱和火力",
     "name": "Saturation firepower",
     "author": "RA2",
-    "lastUpdated": "2024-04-19T18:20:04Z",
+    "lastUpdated": "2024-04-23T14:18:16Z",
     "stars": 40,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -360,6 +360,18 @@
     "description": "A Mindustry mod library for (H)JSON, JavaScript and Java mods,\nincluding a crafter supporting multiple recipes for items, fluids, power, heat and payloads production.\nPlease check the repository below to learn more.\nWork on v136 to v146."
   },
   {
+    "repo": "catana791/asthosus",
+    "internalName": "asthosus",
+    "name": "Asthosus",
+    "author": "Catana791",
+    "lastUpdated": "2024-04-23T15:02:14Z",
+    "stars": 38,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "  A mod that adds a new planet, Asthosus, into the game.\n  \n  Asthosus is a deserted planet. A wasteland filled with danger.\n\n  It has a fully playable campaign with 11 campaign and 5 optional maps. \n  1 more optional map will be added in the future.\n\n  Aside from these 16 maps, Asthosus contains over 18ß pieces of unique content,\n  including blocks, liquids, items, units and status effects.\n  This number is not counting any internal units or environment blocks/tiles.\n\n  I aimed to re-use nearly no vanilla content and instead fill the mod \n  with new and (hopefully) exciting things.\n\n  If you find any issues or want to tell me anything else,\n  feel free to join the Asthosus Discord server. \n  The same thing goes for when you need help with this mod.\n\n  Enjoy!"
+  },
+  {
     "repo": "mindustry-antigrief/installer",
     "internalName": "fooinstaller",
     "name": "Foo's Client Installer",
@@ -370,18 +382,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
-  },
-  {
-    "repo": "catana791/asthosus",
-    "internalName": "asthosus",
-    "name": "Asthosus",
-    "author": "Catana791",
-    "lastUpdated": "2024-04-22T16:44:17Z",
-    "stars": 37,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "  A mod that adds a new planet, Asthosus, into the game.\n  \n  Asthosus is a deserted planet. A wasteland filled with danger.\n\n  It has a fully playable campaign with 11 campaign and 2 optional maps. \n  2 more optional maps will be added in the future.\n\n  Aside from these 13 maps, Asthosus contains 181 pieces of unique content,\n  including blocks, liquids, items, units and status effects.\n  This number is not counting any internal units or environment blocks/tiles.\n\n  I aimed to re-use nearly no vanilla content and instead fill the mod \n  with new and (hopefully) exciting things.\n\n  If you find any issues or want to tell me anything else,\n  feel free to join the Asthosus Discord server. \n  The same thing goes for when you need help with this mod.\n\n  Enjoy!"
   },
   {
     "repo": "teamoct/fictional-octo-system",
@@ -401,7 +401,7 @@
     "name": "Testing Utilities",
     "author": "MEEP of Faith",
     "lastUpdated": "2024-04-22T00:54:10Z",
-    "stars": 35,
+    "stars": 36,
     "minGameVersion": "145.1",
     "hasScripts": false,
     "hasJava": true,
@@ -1408,7 +1408,7 @@
     "internalName": "enhancement-units",
     "name": "Enhancement Units",
     "author": "D&X",
-    "lastUpdated": "2024-04-23T07:58:23Z",
+    "lastUpdated": "2024-04-23T12:16:57Z",
     "stars": 10,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1704,11 +1704,23 @@
     "description": "> This is an enhanced remake of old Mapping Utilities, however, it's WIP, so it has way less features yet. Currently i am trying to implement some acceptable old mod's features into vanilla through pull requests, but the all the controversial features and bypasses will remain a part of this mod.\n\n\nSmall Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\n\nImprovements:\n\n- More Rules Available\n- Planet Background Editing\n- Map Size bypass\n\n\nCheck README.md in GitHub repo for more detailed information about these features\n\n! Work In Progress !\nMore map making tools will be added in future"
   },
   {
+    "repo": "racti2037/real-military-techic-mod",
+    "internalName": "military-techic-mod",
+    "name": "Military Technic Mod",
+    "author": "Racti",
+    "lastUpdated": "2024-04-22T20:49:44Z",
+    "stars": 8,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Mod add tanks, aircraft and naval ships"
+  },
+  {
     "repo": "jirocab/olupis",
     "internalName": "olupis",
     "name": "Nyfalis (Olupis)",
     "author": "Programming:\nRushieWashie, Siede, WMF Industries \n---------------------\nSprites:\nRushieWashie, Remington Thomas, Ethanol10, kapzduke\n---------------------\nMaps:\nRushieWashie, MrApple, Remington Thomas ",
-    "lastUpdated": "2024-04-23T01:12:49Z",
+    "lastUpdated": "2024-04-23T14:58:44Z",
     "stars": 8,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1980,23 +1992,11 @@
     "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer Psammos.\r\n\r\nSpecial thanks:\r\n[#5865f2]@thisiscrimsoncheck[white] for several maps, suggestions and other contributions\r\n[#5865f2]@inxie_ratzey[white] for suggestions, sprites and maps\r\n\r\nIf you like the mod, consider giving it a star on GitHub. Thank you"
   },
   {
-    "repo": "racti2037/real-military-techic-mod",
-    "internalName": "military-techic-mod",
-    "name": "Military Technic Mod",
-    "author": "Racti",
-    "lastUpdated": "2024-04-22T20:49:44Z",
-    "stars": 7,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Mod add tanks, aircraft and naval ships"
-  },
-  {
     "repo": "haznobrain/erekir-liquefied",
     "internalName": "erekirliquefied",
     "name": "Erekir Liquefied",
     "author": "Haznobrain",
-    "lastUpdated": "2024-04-22T20:53:32Z",
+    "lastUpdated": "2024-04-23T15:54:53Z",
     "stars": 7,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -3924,18 +3924,6 @@
     "description": " (Version is Alpha Missing Content) Recreating Slotterleet Hard Mode Mod compatible for V7, also a HUGE Difficulty Spike Version 1.3 BIGGEST UPDATE: Huge Unit Resprite, Eboy Bosses, Ironman Versions of Campaign Maps, Secret Boss, and a New Univlogs boss"
   },
   {
-    "repo": "no9527dada/creators3",
-    "internalName": "ct",
-    "name": "创世神3-仙明决",
-    "author": "编号9527，皴皲",
-    "lastUpdated": "2024-04-21T13:56:08Z",
-    "stars": 3,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "9527，皴皲，咕咕点心,LYBF,Ovulam5480,皴皲"
-  },
-  {
     "repo": "dong-wo-long/enhancementturrets",
     "internalName": "ets",
     "name": "Enhancement Turrets",
@@ -3946,6 +3934,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Important:\n\nThis is an addition to the Enhancement Units mod, which modifies several towers, sometimes improving them, then changing the shooting mechanics to create some kind of balance between units and towers.\n\nPlease pay attention:\n\nThe mod significantly reworks the mechanics of turrets, changes the balance and, in general, can simplify the game without the EU. Don't forget to make a backup in case you don't like the changes that the mod itself makes.\n\nP.S. The mod is made for ALE maps."
+  },
+  {
+    "repo": "no9527dada/creators3",
+    "internalName": "ct",
+    "name": "创世神3-仙明决",
+    "author": "编号9527，皴皲",
+    "lastUpdated": "2024-04-23T13:25:40Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "9527，皴皲，咕咕点心,LYBF,Ovulam5480,皴皲"
   },
   {
     "repo": "wshon/mindustrytoolkit",
@@ -5040,18 +5040,6 @@
     "description": "A java port of the hit mindustry mod spore biomechs\n Now with flies and mosquitoes!"
   },
   {
-    "repo": "willoizcitron/archivedustry-java",
-    "internalName": "bluearchive",
-    "name": "ArchiveDustry Java",
-    "author": "WilloIzCitron. Copyrights remains with Nexon, NAT GAMES and YoStar",
-    "lastUpdated": "2024-04-20T10:03:45Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\n    This is a fanmade mod of Blue Archive Soundtrack in Mindustry.\n\n    [yellow]Purposes:[]\n    This mod replace vanilla soundtrack into Blue Archive Soundtrack, also add additional soundtrack for essentials and the halo too!.\n\n    [red]⚠ NOTICE ⚠:[]\n    This mod is a fan-made project inspired by Blue Archive and not directly affiliated with it. Copyright remains with the developer and publisher of Blue Archive:\n    Nexon, NAT GAMES and Yostar.\n    "
-  },
-  {
     "repo": "dong-wo-long/sanabi-ost",
     "internalName": "sanabi-ost",
     "name": "SANABI ost",
@@ -5098,6 +5086,30 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Solves the biggest territory war in all of Mindustry Modding: Putting UI in the bottom-left corner"
+  },
+  {
+    "repo": "willoizcitron/archivedustry-java",
+    "internalName": "bluearchive",
+    "name": "ArchiveDustry Java",
+    "author": "WilloIzCitron. Copyrights remains with Nexon, NAT GAMES and YoStar",
+    "lastUpdated": "2024-04-23T13:31:35Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\n    This is a fanmade mod of Blue Archive Soundtrack in Mindustry.\n\n    [yellow]Purposes:[]\n    This mod replace vanilla soundtrack into Blue Archive Soundtrack, also add additional soundtrack for essentials and the halo too!.\n\n    [red]⚠ NOTICE ⚠:[]\n    This mod is a fan-made project inspired by Blue Archive and not directly affiliated with it. Copyright remains with the developer and publisher of Blue Archive:\n    Nexon, NAT GAMES and Yostar.\n    "
+  },
+  {
+    "repo": "smolkeys/musichaos",
+    "internalName": "musichaos",
+    "name": "MusiChaos",
+    "author": "SMOLKEYS",
+    "lastUpdated": "2024-04-23T14:07:01Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mindustry mod that allows you to add your own ambient, dark and boss music."
   },
   {
     "repo": "teaeempire/gghv7",
@@ -5784,18 +5796,6 @@
     "description": "Returns old behavior to flares"
   },
   {
-    "repo": "smolkeys/musichaos",
-    "internalName": "musichaos",
-    "name": "MusiChaos",
-    "author": "SMOLKEYS",
-    "lastUpdated": "2023-10-14T02:02:15Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mindustry mod that allows you to add your own ambient, dark and boss music."
-  },
-  {
     "repo": "rylid-umil/divinityfactions",
     "internalName": "divinity",
     "name": "Divinity Factions",
@@ -6436,7 +6436,7 @@
     "internalName": "math-stuff",
     "name": "Math-stuff",
     "author": "Triple-Toxic",
-    "lastUpdated": "2024-04-22T12:21:14Z",
+    "lastUpdated": "2024-04-23T15:56:27Z",
     "stars": 1,
     "minGameVersion": "145",
     "hasScripts": false,
