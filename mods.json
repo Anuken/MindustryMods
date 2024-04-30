@@ -232,7 +232,7 @@
     "internalName": "omaloon",
     "name": "Omaloon",
     "author": "_stabu_",
-    "lastUpdated": "2024-04-21T19:03:02Z",
+    "lastUpdated": "2024-04-29T21:28:44Z",
     "stars": 68,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -353,7 +353,7 @@
     "name": "Asthosus",
     "author": "Catana791",
     "lastUpdated": "2024-04-28T17:07:44Z",
-    "stars": 39,
+    "stars": 40,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
@@ -1116,18 +1116,6 @@
     "description": "Disables sectors being re-attacked."
   },
   {
-    "repo": "xtarsagency/zeridmuth",
-    "internalName": "zeridmuth",
-    "name": "Zeridmuth: A New Beginning",
-    "author": "[red]Xtarsagency\r\n[yellow]Contributors: [cyan]ItzCraft, [green]Mitemi, [pink]CoCo1408",
-    "lastUpdated": "2024-04-19T06:00:23Z",
-    "stars": 13,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod adds a new set of campaign and content.\nZeridmuth: A blue planet with a completed campaign\nArvtom: (WIP) A Gray planet far away from the Sun\n-----------------------------\nOur Discord Server: https://discord.com/invite/KuV5r39cpY"
-  },
-  {
     "repo": "valigaming15/pyra-erekir",
     "internalName": "pyra",
     "name": "Pyra Erekir",
@@ -1150,6 +1138,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "## Bug修复\n- 修复`Window`阻塞`TextField`输入的bug\n- 将`TimeoutException`视为内部错误\n（没有开启捕获外部错误，也可以捕获`TimeoutException`）\n- 修复`TextAreaTab`补全时可能发生报错\n- 修复`Underline`搜索时仍保留的bug\n- 修复设置ui中的字体可能显示不全\n\n## 新特性\n- `ReviewElement`添加`Touchable`颜色区分\n- 自动捕获`Window`的渲染报错\n\n## Bug Fixes\n- Fixed the bug that `Window` was blocking `TextField` input\n- Consider `TimeoutException` as an internal error\n(No external error handling enabled, but `TimeoutException` can be caught)\n- Fixed the potential error that may occur during autocompletion in `TextAreaTab`\n- Fixed the bug where `Underline` remains during search\n- Fixed the issue where fonts in the UI may not display completely\n\n## New Features\n- Added color differentiation for `Touchable` in `ReviewElement`\n- Automatically capture rendering errors of `Window`"
+  },
+  {
+    "repo": "xtarsagency/zeridmuth",
+    "internalName": "zeridmuth",
+    "name": "Zeridmuth: A New Beginning",
+    "author": "[red]Xtarsagency\r\n[yellow]Contributors: [cyan]ItzCraft, [green]Mitemi, [pink]CoCo1408",
+    "lastUpdated": "2024-04-29T22:42:23Z",
+    "stars": 13,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod adds a new set of campaign and content.\nZeridmuth: A blue planet with a completed campaign\nArvtom: (WIP) A Gray planet far away from the Sun\n-----------------------------\nOur Discord Server: https://discord.com/invite/KuV5r39cpY"
   },
   {
     "repo": "mythril382/roombas",
@@ -4968,18 +4968,6 @@
     "description": "A plethora of sandbox-only blocks dedicated for both fun and testing purposes.\n\nREQUIRES `MEEPofFaith/black-hole-renderer` TO RUN. THE GAME WILL CRASH WITHOUT IT INSTALLED."
   },
   {
-    "repo": "ruombus/dragenisis",
-    "internalName": "dragenisis",
-    "name": "Dragenisis",
-    "author": "Cyro/Ruombus",
-    "lastUpdated": "2024-04-17T19:54:46Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A simple mod. That will probably break around every corner. It'll be worked on infrequently, probably."
-  },
-  {
     "repo": "sheptalo/mindustry-minecraft-mod",
     "internalName": "minecraft",
     "name": "Minecraft mod",
@@ -5086,6 +5074,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "黑暗终将退去，光辉终将到来，我们冲破黑暗，达到光明之地！\nQ群：575994735\n使用这个MOD来体验在mindustry中极不平衡（甚至有点离谱）的战役进度！"
+  },
+  {
+    "repo": "ruombus/dragenisis",
+    "internalName": "dragenisis",
+    "name": "Dragenisis",
+    "author": "Cyro/Ruombus",
+    "lastUpdated": "2024-04-29T20:52:32Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A simple mod. That will probably break around every corner. It'll be worked on infrequently, probably."
   },
   {
     "repo": "teaeempire/gghv7",
@@ -6420,18 +6420,6 @@
     "description": "Add new way of transport."
   },
   {
-    "repo": "chaoticans-mindustry-modding-team/javacamod",
-    "internalName": "javacamod",
-    "name": "Javacamod",
-    "author": "The chaoticans",
-    "lastUpdated": "2024-04-28T06:53:28Z",
-    "stars": 1,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Finally."
-  },
-  {
     "repo": "routerxdd/icicle-world",
     "internalName": "icicle-world",
     "name": "Buried in Ice",
@@ -6466,6 +6454,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "More math stuff"
+  },
+  {
+    "repo": "chaoticans-mindustry-modding-team/javacamod",
+    "internalName": "javacamod",
+    "name": "Javacamod",
+    "author": "The chaoticans",
+    "lastUpdated": "2024-04-29T22:20:44Z",
+    "stars": 1,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Finally."
   },
   {
     "repo": "emanuelg-gaming/ion",
