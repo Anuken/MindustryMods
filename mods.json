@@ -1116,18 +1116,6 @@
     "description": "Disables sectors being re-attacked."
   },
   {
-    "repo": "valigaming15/pyra-erekir",
-    "internalName": "pyra",
-    "name": "Pyra Erekir",
-    "author": "\nAuthor: \"[#ff6600]vali#5378[]\"\nCoder: Fresh791\nSpriter and Coder: \"[purple]Otamamori#4716[]\"\n",
-    "lastUpdated": "2024-04-25T14:23:34Z",
-    "stars": 13,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Pyratite focused mod which adds units turrets drills and factorys\nNOT the most balanced"
-  },
-  {
     "repo": "i-hope1/mod-tools",
     "internalName": "mod-tools",
     "name": "mod工具",
@@ -1140,11 +1128,23 @@
     "description": "## Bug修复\n- 修复`Window`阻塞`TextField`输入的bug\n- 将`TimeoutException`视为内部错误\n（没有开启捕获外部错误，也可以捕获`TimeoutException`）\n- 修复`TextAreaTab`补全时可能发生报错\n- 修复`Underline`搜索时仍保留的bug\n- 修复设置ui中的字体可能显示不全\n\n## 新特性\n- `ReviewElement`添加`Touchable`颜色区分\n- 自动捕获`Window`的渲染报错\n\n## Bug Fixes\n- Fixed the bug that `Window` was blocking `TextField` input\n- Consider `TimeoutException` as an internal error\n(No external error handling enabled, but `TimeoutException` can be caught)\n- Fixed the potential error that may occur during autocompletion in `TextAreaTab`\n- Fixed the bug where `Underline` remains during search\n- Fixed the issue where fonts in the UI may not display completely\n\n## New Features\n- Added color differentiation for `Touchable` in `ReviewElement`\n- Automatically capture rendering errors of `Window`"
   },
   {
+    "repo": "valigaming15/pyra-erekir",
+    "internalName": "pyra",
+    "name": "Pyra Erekir",
+    "author": "\nAuthor: \"[#ff6600]vali#5378[]\"\nCoder: Fresh791\nSpriter and Coder: \"[purple]Otamamori#4716[]\"\n",
+    "lastUpdated": "2024-05-01T07:24:12Z",
+    "stars": 13,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Pyratite focused mod which adds units turrets drills and factorys\nNOT the most balanced"
+  },
+  {
     "repo": "xtarsagency/zeridmuth",
     "internalName": "zeridmuth",
     "name": "Zeridmuth: A New Beginning",
     "author": "[red]Xtarsagency\r\n[yellow]Contributors: [cyan]ItzCraft, [green]Mitemi, [pink]CoCo1408",
-    "lastUpdated": "2024-05-01T02:04:44Z",
+    "lastUpdated": "2024-05-01T07:51:40Z",
     "stars": 13,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -7968,18 +7968,6 @@
     "description": "Searching for new materials you decided to drill into the core of the planet, and you managed to find something that might change the tide in your favor..."
   },
   {
-    "repo": "hexazeta/frigid-devastation",
-    "internalName": "",
-    "name": "Frigid Devastation",
-    "author": "Hexazeta",
-    "lastUpdated": "2024-05-01T01:40:28Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "funny frozen planet"
-  },
-  {
     "repo": "xtarsagency/sst-000",
     "internalName": "sst-000",
     "name": "Station 000(WIP)",
@@ -7990,5 +7978,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A space-themed unsettling exploration mod\nplayer discretion is advised."
+  },
+  {
+    "repo": "hexazeta/frigid-devastation",
+    "internalName": "",
+    "name": "Frigid Devastation",
+    "author": "Hexazeta",
+    "lastUpdated": "2024-05-01T06:53:40Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "funny frozen planet"
   }
 ]
