@@ -161,7 +161,7 @@
     "name": "Sapphirium",
     "author": "Snake",
     "lastUpdated": "2023-11-03T10:18:40Z",
-    "stars": 83,
+    "stars": 82,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": true,
@@ -232,7 +232,7 @@
     "internalName": "omaloon",
     "name": "Omaloon",
     "author": "_stabu_",
-    "lastUpdated": "2024-04-30T21:13:11Z",
+    "lastUpdated": "2024-05-01T15:30:39Z",
     "stars": 68,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -712,7 +712,7 @@
     "internalName": "aquarion",
     "name": "Aquarion",
     "author": "twcash",
-    "lastUpdated": "2024-04-30T23:54:20Z",
+    "lastUpdated": "2024-05-01T14:46:54Z",
     "stars": 21,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1128,18 +1128,6 @@
     "description": "## Bug修复\n- 修复`Window`阻塞`TextField`输入的bug\n- 将`TimeoutException`视为内部错误\n（没有开启捕获外部错误，也可以捕获`TimeoutException`）\n- 修复`TextAreaTab`补全时可能发生报错\n- 修复`Underline`搜索时仍保留的bug\n- 修复设置ui中的字体可能显示不全\n\n## 新特性\n- `ReviewElement`添加`Touchable`颜色区分\n- 自动捕获`Window`的渲染报错\n\n## Bug Fixes\n- Fixed the bug that `Window` was blocking `TextField` input\n- Consider `TimeoutException` as an internal error\n(No external error handling enabled, but `TimeoutException` can be caught)\n- Fixed the potential error that may occur during autocompletion in `TextAreaTab`\n- Fixed the bug where `Underline` remains during search\n- Fixed the issue where fonts in the UI may not display completely\n\n## New Features\n- Added color differentiation for `Touchable` in `ReviewElement`\n- Automatically capture rendering errors of `Window`"
   },
   {
-    "repo": "valigaming15/pyra-erekir",
-    "internalName": "pyra",
-    "name": "Pyra Erekir",
-    "author": "\nAuthor: \"[#ff6600]vali#5378[]\"\nCoder: Fresh791\nSpriter and Coder: \"[purple]Otamamori#4716[]\"\n",
-    "lastUpdated": "2024-05-01T07:24:12Z",
-    "stars": 13,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Pyratite focused mod which adds units turrets drills and factorys\nNOT the most balanced"
-  },
-  {
     "repo": "xtarsagency/zeridmuth",
     "internalName": "zeridmuth",
     "name": "Zeridmuth: A New Beginning",
@@ -1222,6 +1210,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A thing."
+  },
+  {
+    "repo": "valigaming15/pyra-erekir",
+    "internalName": "pyra",
+    "name": "Pyra Erekir",
+    "author": "\nAuthor: \"[#ff6600]vali#5378[]\"\nCoder: Fresh791\nSpriter and Coder: \"[purple]Otamamori#4716[]\"\n",
+    "lastUpdated": "2024-05-01T07:24:12Z",
+    "stars": 12,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Pyratite focused mod which adds units turrets drills and factorys\nNOT the most balanced"
   },
   {
     "repo": "minri2/itembridgex",
@@ -1680,18 +1680,6 @@
     "description": "A mod for browsing schematic repositories."
   },
   {
-    "repo": "arth0x/mindustrinity",
-    "internalName": "mindustrinity",
-    "name": "MindusTrinity",
-    "author": "[#009BFF]Wolflab Studio",
-    "lastUpdated": "2024-04-19T23:52:19Z",
-    "stars": 8,
-    "minGameVersion": "140.4",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Add a lot of vanilla improvement :\n \n    -Add new turrets / items / liquids and more\n    -You can now biuld T6 units\n    -Mod compatible with multiplayer and campain\n\nStill in in development so might be bugged or unbalanced for now\nDon't forget to review and drop a star :P\n \n \n       \n    - Arth0x"
-  },
-  {
     "repo": "otamamori917/axthrix-modded-java",
     "internalName": "aj",
     "name": "Axthrix",
@@ -1728,11 +1716,23 @@
     "description": "> This is an enhanced remake of old Mapping Utilities, however, it's WIP, so it has way less features yet. Currently i am trying to implement some acceptable old mod's features into vanilla through pull requests, but the all the controversial features and bypasses will remain a part of this mod.\n\n\nSmall Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\n\nImprovements:\n\n- More Rules Available\n- Planet Background Editing\n- Map Size bypass\n\n\nCheck README.md in GitHub repo for more detailed information about these features\n\n! Work In Progress !\nMore map making tools will be added in future"
   },
   {
+    "repo": "arth0x/mindustrinity",
+    "internalName": "mindustrinity",
+    "name": "MindusTrinity",
+    "author": "[#009BFF]Wolflab Studio",
+    "lastUpdated": "2024-05-01T14:09:51Z",
+    "stars": 8,
+    "minGameVersion": "140.4",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Add a lot of vanilla improvement :\n \n    -Add new turrets / items / liquids and more\n    -You can now biuld T6 units\n    -Mod compatible with multiplayer and campain\n\nStill in in development so might be bugged or unbalanced for now\nDon't forget to review and drop a star :P\n \n \n       \n    - Arth0x"
+  },
+  {
     "repo": "jirocab/olupis",
     "internalName": "olupis",
     "name": "Nyfalis (Olupis)",
     "author": "Programming:\nRushieWashie, Siede, WMF Industries \n---------------------\nSprites:\nRushieWashie, Remington Thomas, Ethanol10, kapzduke\n---------------------\nMaps:\nRushieWashie, MrApple, Remington Thomas ",
-    "lastUpdated": "2024-04-30T15:03:26Z",
+    "lastUpdated": "2024-05-01T15:39:19Z",
     "stars": 8,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2494,18 +2494,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "v1.4.4:0001 Java"
-  },
-  {
-    "repo": "taggamer555/omegazero",
-    "internalName": "kiky5",
-    "name": "Ω0",
-    "author": "KillerIKY - lead dev\nRenale - testing and some ideas\nAlvar - balancing\nNeonFlames - helped with getting used to GitHub",
-    "lastUpdated": "2023-10-29T17:39:55Z",
-    "stars": 5,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "DISCORD: https://discord.gg/sGn9hvPgEE (join!)\n\nState: INDEV\nContent: SOME\nPlayable: TRUE"
   },
   {
     "repo": "sirvoid/mindustryvcode",
@@ -5068,7 +5056,7 @@
     "internalName": "jp",
     "name": "Spore biomethane",
     "author": "Water white",
-    "lastUpdated": "2024-05-01T13:59:17Z",
+    "lastUpdated": "2024-05-01T14:15:17Z",
     "stars": 2,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -7932,18 +7920,6 @@
     "description": "mod for proect"
   },
   {
-    "repo": "wancor1/mindustry-mod-chaos",
-    "internalName": "chaos-contents",
-    "name": "chaos contents",
-    "author": "wanco",
-    "lastUpdated": "2024-04-29T02:08:26Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "chaos-contents."
-  },
-  {
     "repo": "fallendraggon/fdschemepack",
     "internalName": "fdschemepack",
     "name": "FD Scheme Pack",
@@ -7990,5 +7966,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "funny frozen planet"
+  },
+  {
+    "repo": "wancor1/mindustry-mod-chaos",
+    "internalName": "chaos-contents",
+    "name": "chaos contents",
+    "author": "wanco",
+    "lastUpdated": "2024-05-01T15:09:46Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "chaos-contents."
   }
 ]
