@@ -604,10 +604,10 @@
     "internalName": "aquarion",
     "name": "Aquarion",
     "author": "twcash",
-    "lastUpdated": "2024-05-03T02:56:23Z",
+    "lastUpdated": "2024-05-03T15:23:35Z",
     "stars": 24,
     "minGameVersion": "146",
-    "hasScripts": false,
+    "hasScripts": true,
     "hasJava": false,
     "description": "Aquarion is a campaign extension to recreate tantros including a custom campaign planet, units and blocks."
   },
@@ -1116,18 +1116,6 @@
     "description": "Disables sectors being re-attacked."
   },
   {
-    "repo": "xtarsagency/zeridmuth",
-    "internalName": "zeridmuth",
-    "name": "Zeridmuth: A New Beginning",
-    "author": "[red]Xtarsagency\r\n[yellow]Contributors: [cyan]ItzCraft, [green]Mitemi, [pink]CoCo1408",
-    "lastUpdated": "2024-05-01T07:51:40Z",
-    "stars": 13,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod adds a new set of campaign and content.\nZeridmuth: A blue planet with a completed campaign\nArvtom: (WIP) A Gray planet far away from the Sun\n-----------------------------\nOur Discord Server: https://discord.com/invite/KuV5r39cpY"
-  },
-  {
     "repo": "i-hope1/mod-tools",
     "internalName": "mod-tools",
     "name": "mod工具",
@@ -1138,6 +1126,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "## Bug修复\n- 修复`Window`阻塞`TextField`输入的bug\n- 将`TimeoutException`视为内部错误\n（没有开启捕获外部错误，也可以捕获`TimeoutException`）\n- 修复`TextAreaTab`补全时可能发生报错\n- 修复`Underline`搜索时仍保留的bug\n- 修复设置ui中的字体可能显示不全\n\n## 新特性\n- `ReviewElement`添加`Touchable`颜色区分\n- 自动捕获`Window`的渲染报错\n\n## Bug Fixes\n- Fixed the bug that `Window` was blocking `TextField` input\n- Consider `TimeoutException` as an internal error\n(No external error handling enabled, but `TimeoutException` can be caught)\n- Fixed the potential error that may occur during autocompletion in `TextAreaTab`\n- Fixed the bug where `Underline` remains during search\n- Fixed the issue where fonts in the UI may not display completely\n\n## New Features\n- Added color differentiation for `Touchable` in `ReviewElement`\n- Automatically capture rendering errors of `Window`"
+  },
+  {
+    "repo": "xtarsagency/zeridmuth",
+    "internalName": "zeridmuth",
+    "name": "Zeridmuth: A New Beginning",
+    "author": "[red]Xtarsagency\r\n[yellow]Contributors: [cyan]ItzCraft, [green]Mitemi, [pink]CoCo1408",
+    "lastUpdated": "2024-05-03T15:52:18Z",
+    "stars": 13,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod adds a new set of campaign and content.\nZeridmuth: A blue planet with a completed campaign\nArvtom: (WIP) A Gray planet far away from the Sun\n-----------------------------\nOur Discord Server: https://discord.com/invite/KuV5r39cpY"
   },
   {
     "repo": "mythril382/roombas",
@@ -2295,13 +2295,13 @@
     "repo": "zuoranartemwing/mindustryexpansion",
     "internalName": "mindustry-expansion",
     "name": "Mindustry Expansion",
-    "author": "zuoranartemwing",
-    "lastUpdated": "2024-05-03T13:44:15Z",
+    "author": "\n[yellow]zuoranartemwing[]\n\n[gray]Contributors:[] [blue] \nKanaede\nchaoticmarzu\njab[]",
+    "lastUpdated": "2024-05-03T15:21:32Z",
     "stars": 6,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
-    "description": "Add more Things !!\n\nTHIS IS STILL IN DEVELOPMENT\n\nWant fast update??\nJoin to our server or check at our github\n\nContributors:\nKanaede\nchaoticmarzu\njab\n\nMF Version: 0.1.0"
+    "description": "Add more Things !!\n\n[red]THIS IS STILL IN DEVELOPMENT[]\n\nWant fast update??\nJoin to our server or check at our github\n\nMF Version: 0.1.0"
   },
   {
     "repo": "mythril382/rainpuddles",
@@ -2592,18 +2592,6 @@
     "description": "Welcome to the mod Gloomistry! This is my first mod that adds a new campaign with new content, at the moment the mod is not made to the very end and updates will be released (probably) in which I will finish the campaign to the end and also change the sprites of many blocks that I did not like or that were copied from the original blocks. It is also possible that I will add more new turrets. If you liked the mod, don't forget to give it a star on the GitHub! Contact me: https://t.me/@Thisispzdcnh\n  \n  Приветствую вас в моде Глумистри! Это мой первый мод который добавляет новую кампанию с новым контентом, на данный момент мод сделан не до самого конца и будут выходить обновления(наверно) в которых я доделаю кампанию до конца а также изменю спрайты многих блоков, которые мне не понравились или которые были срисованы с оригинальных блоков. Также возможно я добавлю еще новые турели. Если вам понравился мод, не забудьте поставить ему звезду на ГитХаб! Связаться со мной: https://t.me/@Thisispzdcnh"
   },
   {
-    "repo": "willoizcitron/archivedustry-java",
-    "internalName": "bluearchive",
-    "name": "ArchiveDustry Java",
-    "author": "WilloIzCitron. Copyrights remains with Nexon, NAT GAMES and YoStar",
-    "lastUpdated": "2024-04-28T09:28:43Z",
-    "stars": 5,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\n    This is a fanmade mod of Blue Archive Soundtrack in Mindustry.\n\n    [yellow]Purposes:[]\n    This mod replace vanilla soundtrack into Blue Archive Soundtrack, also add additional soundtrack for essentials and the halo too!.\n\n    [red]⚠ NOTICE ⚠:[]\n    This mod is a fan-made project inspired by Blue Archive and not directly affiliated with it. Copyright remains with the developer and publisher of Blue Archive:\n    Nexon, NAT GAMES and Yostar.\n    "
-  },
-  {
     "repo": "meepoffaith/black-holes-library",
     "internalName": "black-hole-renderer",
     "name": "Black Holes Library",
@@ -2614,6 +2602,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A library mod for rendering black holes."
+  },
+  {
+    "repo": "willoizcitron/archivedustry-java",
+    "internalName": "bluearchive",
+    "name": "ArchiveDustry Java",
+    "author": "WilloIzCitron. Copyrights remains with Nexon, NAT GAMES and YoStar",
+    "lastUpdated": "2024-05-03T15:52:15Z",
+    "stars": 5,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\n    This is a fanmade mod of Blue Archive Soundtrack in Mindustry.\n\n    [yellow]Purposes:[]\n    This mod replace vanilla soundtrack into Blue Archive Soundtrack, also add additional soundtrack for essentials and the halo too!.\n\n    [red]⚠ NOTICE ⚠:[]\n    This mod is a fan-made project inspired by Blue Archive and not directly affiliated with it. Copyright remains with the developer and publisher of Blue Archive:\n    Nexon, NAT GAMES and Yostar.\n    "
   },
   {
     "repo": "spaceearthex/banana",
@@ -6432,28 +6432,28 @@
     "description": "A mod who adds a new planet, where we will play in underground"
   },
   {
-    "repo": "tripletoxic/math-stuff",
-    "internalName": "math-stuff",
-    "name": "Math-stuff",
-    "author": "Triple-Toxic",
-    "lastUpdated": "2024-05-03T11:59:25Z",
-    "stars": 1,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "More math stuff"
-  },
-  {
     "repo": "hexazeta/frigid-devastation",
     "internalName": "",
     "name": "Frigid-Devastation",
     "author": "Hexazeta",
-    "lastUpdated": "2024-05-03T12:36:06Z",
+    "lastUpdated": "2024-05-03T14:53:53Z",
     "stars": 1,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
     "description": "funny frozen planet"
+  },
+  {
+    "repo": "tripletoxic/math-stuff",
+    "internalName": "math-stuff",
+    "name": "Math-stuff",
+    "author": "Triple-Toxic",
+    "lastUpdated": "2024-05-03T15:56:22Z",
+    "stars": 1,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "More math stuff"
   },
   {
     "repo": "emanuelg-gaming/ion",
