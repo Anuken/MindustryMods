@@ -852,6 +852,18 @@
     "description": "[#00FFFF](RU)[#FFFFFF] Модификация добавляет полезные блоки.[#0080FF] Мод создан мной, я русский.[#FF4747] Мод добавляет юнитов(икнаТ), заводы, конвейеры и ещё много всего.[#00FF80] Версия мода[#FFC000] 0.1 [#FF4747]Альфа.\n[#00FFFF](EN)[#FFFFFF] Modification adds useful blocks.[#FF4747] The mod was created by me, I'm russian.[#0080FF] Mod adds units(sknaT), factories, conveyors and many more blocks.[#00FF80] Mod version[#FFC000] 0.1 [#FF4747]Alpha."
   },
   {
+    "repo": "eyeofdarkness/advance-lighting",
+    "internalName": "advance-lighting",
+    "name": "Advance lighting",
+    "author": "EoD",
+    "lastUpdated": "2024-03-25T12:40:15Z",
+    "stars": 17,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Not recommended for weak devices. Only supports Vanilla/Supported-Json content. This mod replaces/add some effects, and may cause issues with mods that actively check on those effects. May conflict with vanilla bloom."
+  },
+  {
     "repo": "eclipse-04/avkott",
     "internalName": "avkott",
     "name": "Avkott",
@@ -922,18 +934,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod will play tracks from classic Mindustry music (v3.3r27, v3.5r40, and v5)"
-  },
-  {
-    "repo": "eyeofdarkness/advance-lighting",
-    "internalName": "advance-lighting",
-    "name": "Advance lighting",
-    "author": "EoD",
-    "lastUpdated": "2024-03-25T12:40:15Z",
-    "stars": 16,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Not recommended for weak devices. Only supports Vanilla/Supported-Json content. This mod replaces/add some effects, and may cause issues with mods that actively check on those effects. May conflict with vanilla bloom."
   },
   {
     "repo": "karlsonvive/a-bad-mindustry-mod",
@@ -1068,6 +1068,18 @@
     "description": "WIP"
   },
   {
+    "repo": "xtarsagency/zeridmuth",
+    "internalName": "zeridmuth",
+    "name": "Zeridmuth: A New Beginning",
+    "author": "[red]Xtarsagency\r\n[yellow]Contributors: [cyan]ItzCraft, [green]Mitemi, [pink]CoCo1408",
+    "lastUpdated": "2024-05-03T15:52:18Z",
+    "stars": 14,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod adds a new set of campaign and content.\nZeridmuth: A blue planet with a completed campaign\nArvtom: (WIP) A Gray planet far away from the Sun\n-----------------------------\nOur Discord Server: https://discord.com/invite/KuV5r39cpY"
+  },
+  {
     "repo": "shadowpazzo99/shadowdustry",
     "internalName": "shadowdustry",
     "name": "ShadowDustry",
@@ -1114,18 +1126,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "## Bug修复\n- 修复`Window`阻塞`TextField`输入的bug\n- 将`TimeoutException`视为内部错误\n（没有开启捕获外部错误，也可以捕获`TimeoutException`）\n- 修复`TextAreaTab`补全时可能发生报错\n- 修复`Underline`搜索时仍保留的bug\n- 修复设置ui中的字体可能显示不全\n\n## 新特性\n- `ReviewElement`添加`Touchable`颜色区分\n- 自动捕获`Window`的渲染报错\n\n## Bug Fixes\n- Fixed the bug that `Window` was blocking `TextField` input\n- Consider `TimeoutException` as an internal error\n(No external error handling enabled, but `TimeoutException` can be caught)\n- Fixed the potential error that may occur during autocompletion in `TextAreaTab`\n- Fixed the bug where `Underline` remains during search\n- Fixed the issue where fonts in the UI may not display completely\n\n## New Features\n- Added color differentiation for `Touchable` in `ReviewElement`\n- Automatically capture rendering errors of `Window`"
-  },
-  {
-    "repo": "xtarsagency/zeridmuth",
-    "internalName": "zeridmuth",
-    "name": "Zeridmuth: A New Beginning",
-    "author": "[red]Xtarsagency\r\n[yellow]Contributors: [cyan]ItzCraft, [green]Mitemi, [pink]CoCo1408",
-    "lastUpdated": "2024-05-03T15:52:18Z",
-    "stars": 13,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod adds a new set of campaign and content.\nZeridmuth: A blue planet with a completed campaign\nArvtom: (WIP) A Gray planet far away from the Sun\n-----------------------------\nOur Discord Server: https://discord.com/invite/KuV5r39cpY"
   },
   {
     "repo": "slotterleet/distributor",
@@ -1188,18 +1188,6 @@
     "description": "A online schematic browser"
   },
   {
-    "repo": "uenhe/fire",
-    "internalName": "fire",
-    "name": "Fire",
-    "author": "飞雨a_ssylfyzgmz && -Uenhe饨咂-",
-    "lastUpdated": "2024-04-27T08:30:51Z",
-    "stars": 12,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\r\n[royal]A Mindustry Mod that adds a lots of WEIRD things.\r\n一个奇奇怪怪又十分核锂的mod...\r\n[gold]由 [acid]飞雨a_sszylfyzgmz [gold]和 [cyan]-Uenhe饨咂- [gold]共同制作\r\n[violet]你可以在bilibili uid516898377 和 uid327502129 找到他们\r\n\r\n[acid]Supports English!\r\n\r\n[lime]模组QQ交流群: 711467227\r\n如果你发现了该mod的bug, 或是有关于该mod的建议, 欢迎在此群反映\r\n\r\n[slate]GitHub URL: https://github.com/Uenhe/Fire\r\n\r\nIf you suppose that the mod is AWESOME, plz star us on GitHub, thanks!\r\n如果你觉得该mod很棒的话, 一定要去GitHub给这个项目点个星星啊!\r\n[white]\r\n"
-  },
-  {
     "repo": "uujuju1/steam-works",
     "internalName": "sw",
     "name": "Steam Works",
@@ -1222,6 +1210,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Pyratite focused mod which adds units turrets drills and factorys\nNOT the most balanced"
+  },
+  {
+    "repo": "uenhe/fire",
+    "internalName": "fire",
+    "name": "Fire",
+    "author": "飞雨a_ssylfyzgmz && -Uenhe饨咂-",
+    "lastUpdated": "2024-05-05T07:10:44Z",
+    "stars": 12,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\r\n[royal]A Mindustry Mod that adds a lots of WEIRD things.\r\n一个奇奇怪怪又十分核锂的mod...\r\n[gold]由 [acid]飞雨a_sszylfyzgmz [gold]和 [cyan]KochiyaUeneh油苗子 [gold]共同制作\r\n[violet]你可以在bilibili uid516898377 和 uid327502129 找到他们\r\n\r\n[acid]Supports English!\r\n\r\n[lime]模组QQ交流群: 711467227\r\n如果你发现了该mod的bug, 或是有关于该mod的建议, 欢迎在此群反映\r\n\r\n[slate]GitHub URL: https://github.com/Uenhe/Fire\r\n\r\nIf you suppose that the mod is AWESOME, plz star us on GitHub, thanks!\r\n如果你觉得该mod很棒的话, 一定要去GitHub给这个项目点个星星啊!\r\n[white]\r\n"
   },
   {
     "repo": "minri2/itembridgex",
