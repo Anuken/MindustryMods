@@ -244,7 +244,7 @@
     "internalName": "omaloon",
     "name": "Omaloon",
     "author": "_stabu_",
-    "lastUpdated": "2024-05-07T12:12:36Z",
+    "lastUpdated": "2024-05-07T19:29:14Z",
     "stars": 68,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -352,7 +352,7 @@
     "internalName": "asthosus",
     "name": "Asthosus",
     "author": "Catana",
-    "lastUpdated": "2024-05-05T12:29:35Z",
+    "lastUpdated": "2024-05-07T18:54:29Z",
     "stars": 41,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -862,6 +862,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Not recommended for weak devices. Only supports Vanilla/Supported-Json content. This mod replaces/add some effects, and may cause issues with mods that actively check on those effects. May conflict with vanilla bloom."
+  },
+  {
+    "repo": "deltanedas/ldb",
+    "internalName": "ldb",
+    "name": "Logic Debugger",
+    "author": "DeltaNedas",
+    "lastUpdated": "2024-05-07T18:54:15Z",
+    "stars": 17,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds clientside logic debugging tools.\nRequires DeltaNedas/override-lib."
   },
   {
     "repo": "eclipse-04/avkott",
