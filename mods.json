@@ -232,7 +232,7 @@
     "internalName": "omaloon",
     "name": "Omaloon",
     "author": "_stabu_",
-    "lastUpdated": "2024-05-10T22:12:59Z",
+    "lastUpdated": "2024-05-11T02:14:06Z",
     "stars": 69,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -852,18 +852,6 @@
     "description": "[#00FFFF](RU)[#FFFFFF] Модификация добавляет полезные блоки.[#0080FF] Мод создан мной, я русский.[#FF4747] Мод добавляет юнитов(икнаТ), заводы, конвейеры и ещё много всего.[#00FF80] Версия мода[#FFC000] 0.1 [#FF4747]Альфа.\n[#00FFFF](EN)[#FFFFFF] Modification adds useful blocks.[#FF4747] The mod was created by me, I'm russian.[#0080FF] Mod adds units(sknaT), factories, conveyors and many more blocks.[#00FF80] Mod version[#FFC000] 0.1 [#FF4747]Alpha."
   },
   {
-    "repo": "eyeofdarkness/advance-lighting",
-    "internalName": "advance-lighting",
-    "name": "Advance lighting",
-    "author": "EoD",
-    "lastUpdated": "2024-03-25T12:40:15Z",
-    "stars": 17,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Not recommended for weak devices. Only supports Vanilla/Supported-Json content. This mod replaces/add some effects, and may cause issues with mods that actively check on those effects. May conflict with vanilla bloom."
-  },
-  {
     "repo": "deltanedas/ldb",
     "internalName": "ldb",
     "name": "Logic Debugger",
@@ -874,6 +862,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds clientside logic debugging tools.\nRequires DeltaNedas/override-lib."
+  },
+  {
+    "repo": "eyeofdarkness/advance-lighting",
+    "internalName": "advance-lighting",
+    "name": "Advance lighting",
+    "author": "EoD",
+    "lastUpdated": "2024-05-11T03:58:42Z",
+    "stars": 17,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Not recommended for weak devices. Only supports Vanilla/Supported-Json content. This mod replaces/add some effects, and may cause issues with mods that actively check on those effects. May conflict with vanilla bloom."
   },
   {
     "repo": "eclipse-04/avkott",
@@ -1440,6 +1440,18 @@
     "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer Psammos.\r\n\r\nSpecial thanks:\r\n[#5865f2]@thisiscrimsoncheck[white] for several maps, suggestions and other contributions\r\n[#5865f2]@inxie_ratzey[white] for suggestions, sprites and maps\r\n\r\nIf you like the mod, consider giving it a star on GitHub. Thank you"
   },
   {
+    "repo": "willoizcitron/archivedustry-java",
+    "internalName": "bluearchive",
+    "name": "ArchiveDustry Java",
+    "author": "WilloIzCitron. Copyrights remains with Nexon, Nexon Games and Yostar",
+    "lastUpdated": "2024-05-11T02:52:38Z",
+    "stars": 10,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\n    This is a fanmade mod of Blue Archive Soundtrack in Mindustry.\n\n    [yellow]Purposes:[]\n    This mod replace vanilla soundtrack into Blue Archive Soundtrack, also add additional soundtrack for essentials and the halo too!.\n\n    [red]⚠ NOTICE ⚠:[]\n    This mod is a fan-made project inspired by Blue Archive and not directly affiliated with it. Copyright remains with the developer and publisher of Blue Archive:\n    Nexon, Nexon Games and Yostar.\n    "
+  },
+  {
     "repo": "deltanedas/mobile-ui",
     "internalName": "mobile-ui",
     "name": "Mobile UI",
@@ -1546,18 +1558,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "> This is an enhanced remake of old Mapping Utilities, however, it's WIP, so it has way less features yet. Currently i am trying to implement some acceptable old mod's features into vanilla through pull requests, but the all the controversial features and bypasses will remain a part of this mod.\n\n\nSmall Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\n\nImprovements:\n\n- More Rules Available\n- Planet Background Editing\n- Map Size bypass\n\n\nCheck README.md in GitHub repo for more detailed information about these features\n\n! Work In Progress !\nMore map making tools will be added in future"
-  },
-  {
-    "repo": "willoizcitron/archivedustry-java",
-    "internalName": "bluearchive",
-    "name": "ArchiveDustry Java",
-    "author": "WilloIzCitron. Copyrights remains with Nexon, Nexon Games and Yostar",
-    "lastUpdated": "2024-05-10T14:09:37Z",
-    "stars": 9,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\n    This is a fanmade mod of Blue Archive Soundtrack in Mindustry.\n\n    [yellow]Purposes:[]\n    This mod replace vanilla soundtrack into Blue Archive Soundtrack, also add additional soundtrack for essentials and the halo too!.\n\n    [red]⚠ NOTICE ⚠:[]\n    This mod is a fan-made project inspired by Blue Archive and not directly affiliated with it. Copyright remains with the developer and publisher of Blue Archive:\n    Nexon, Nexon Games and Yostar.\n    "
   },
   {
     "repo": "deltanedas/speed",
@@ -2544,6 +2544,18 @@
     "description": "v1.4.4:0001 Java"
   },
   {
+    "repo": "koctz34/factor",
+    "internalName": "factor",
+    "name": "Factor",
+    "author": "MISTICA",
+    "lastUpdated": "2023-10-20T13:27:53Z",
+    "stars": 5,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "THE MAIN PLANET Nauvis IS STILL UNDER DEVELOPMENT, IT IS EXTREMELY NOT RECOMMENDED TO PLAY ON IT.\n\nFactorio in mindustry!\n\nIn this mod, almost all the content from the Factorio game will be transferred. You have to build a big factory... and launch a rocket! The mod is not in very active development, support is needed for the development of the mod.\n\nFor an atmospheric game, it is recommended to download factroundustry. Good luck with building the factory!"
+  },
+  {
     "repo": "sirvoid/mindustryvcode",
     "internalName": "vcode compiler",
     "name": "VCode Compiler",
@@ -2950,18 +2962,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Play mindustry with this awesome chiptune music! Tracks created by Roccow. I took some of Roccow's tracks that weren't in the classic version to replace the new ones added in the V6. HOWEVER, the author of the tracks boss1, boss2 and game6 is unknown."
-  },
-  {
-    "repo": "koctz34/factor",
-    "internalName": "factor",
-    "name": "Factor",
-    "author": "MISTICA",
-    "lastUpdated": "2023-10-20T13:27:53Z",
-    "stars": 4,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "THE MAIN PLANET Nauvis IS STILL UNDER DEVELOPMENT, IT IS EXTREMELY NOT RECOMMENDED TO PLAY ON IT.\n\nFactorio in mindustry!\n\nIn this mod, almost all the content from the Factorio game will be transferred. You have to build a big factory... and launch a rocket! The mod is not in very active development, support is needed for the development of the mod.\n\nFor an atmospheric game, it is recommended to download factroundustry. Good luck with building the factory!"
   },
   {
     "repo": "lunaticol/erekir-to-serpulo",
