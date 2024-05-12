@@ -437,7 +437,7 @@
     "name": "Project HPL",
     "author": "HPL Team",
     "lastUpdated": "2024-03-27T14:47:42Z",
-    "stars": 31,
+    "stars": 32,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -576,6 +576,18 @@
     "description": "Spawn any enemy in sandbox or on multiplayer, with /js (if supported).\nRequires deltanedas/ui-lib."
   },
   {
+    "repo": "unionofsovietsocialistrepublics/spore-biomechs",
+    "internalName": "sporepod",
+    "name": "Spore Biomechs",
+    "author": "Water molecules",
+    "lastUpdated": "2024-05-07T10:28:44Z",
+    "stars": 25,
+    "minGameVersion": "140",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod inspired by Starcraft 2, add zerg to the game and a bunch of spore related thing.\nCredit:\nHydro for creating the sprites\nDryehm for existing\nHave a great day :D\nhHhhhHH"
+  },
+  {
     "repo": "xjamiex/biotech",
     "internalName": "biotech",
     "name": "BioTech",
@@ -622,18 +634,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> extended UI.\n\nIf u have any bugs create an issue on github or contact me in discord: wizer1233\n\nTranslators:\n1stvaliduser - UA\nCoCo Snow - DE\n\nContributors:\nRushieWashie, Garen7, 7003Mars (Mars)"
-  },
-  {
-    "repo": "unionofsovietsocialistrepublics/spore-biomechs",
-    "internalName": "sporepod",
-    "name": "Spore Biomechs",
-    "author": "Water molecules",
-    "lastUpdated": "2024-05-07T10:28:44Z",
-    "stars": 24,
-    "minGameVersion": "140",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod inspired by Starcraft 2, add zerg to the game and a bunch of spore related thing.\nCredit:\nHydro for creating the sprites\nDryehm for existing\nHave a great day :D\nhHhhhHH"
   },
   {
     "repo": "way-zer/contentstweaker",
@@ -1104,6 +1104,18 @@
     "description": "This mod adds a new set of campaign and content.\n2 new planets, a bunch of factories, turrets and units\nthis description gets shorter every commit mann\n-----------------------------\nOur Discord Server: https://discord.com/invite/KuV5r39cpY"
   },
   {
+    "repo": "uujuju1/steam-works",
+    "internalName": "sw",
+    "name": "Steam Works",
+    "author": "Uujuju",
+    "lastUpdated": "2024-05-11T20:57:55Z",
+    "stars": 14,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A thing."
+  },
+  {
     "repo": "shadowpazzo99/shadowdustry",
     "internalName": "shadowdustry",
     "name": "ShadowDustry",
@@ -1174,18 +1186,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "## Bug修复\n- 修复`Window`阻塞`TextField`输入的bug\n- 将`TimeoutException`视为内部错误\n（没有开启捕获外部错误，也可以捕获`TimeoutException`）\n- 修复`TextAreaTab`补全时可能发生报错\n- 修复`Underline`搜索时仍保留的bug\n- 修复设置ui中的字体可能显示不全\n\n## 新特性\n- `ReviewElement`添加`Touchable`颜色区分\n- 自动捕获`Window`的渲染报错\n\n## Bug Fixes\n- Fixed the bug that `Window` was blocking `TextField` input\n- Consider `TimeoutException` as an internal error\n(No external error handling enabled, but `TimeoutException` can be caught)\n- Fixed the potential error that may occur during autocompletion in `TextAreaTab`\n- Fixed the bug where `Underline` remains during search\n- Fixed the issue where fonts in the UI may not display completely\n\n## New Features\n- Added color differentiation for `Touchable` in `ReviewElement`\n- Automatically capture rendering errors of `Window`"
-  },
-  {
-    "repo": "uujuju1/steam-works",
-    "internalName": "sw",
-    "name": "Steam Works",
-    "author": "Uujuju",
-    "lastUpdated": "2024-05-11T20:57:55Z",
-    "stars": 13,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A thing."
   },
   {
     "repo": "yal-game-things/mindustry-tiny-things",
@@ -1264,7 +1264,7 @@
     "internalName": "bluearchive",
     "name": "ArchiveDustry Java",
     "author": "WilloIzCitron. Copyrights remains with Nexon, Nexon Games and Yostar",
-    "lastUpdated": "2024-05-11T02:52:38Z",
+    "lastUpdated": "2024-05-12T03:16:48Z",
     "stars": 12,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1560,6 +1560,18 @@
     "description": "> This is an enhanced remake of old Mapping Utilities, however, it's WIP, so it has way less features yet. Currently i am trying to implement some acceptable old mod's features into vanilla through pull requests, but the all the controversial features and bypasses will remain a part of this mod.\n\n\nSmall Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\n\nImprovements:\n\n- More Rules Available\n- Planet Background Editing\n- Map Size bypass\n\n\nCheck README.md in GitHub repo for more detailed information about these features\n\n! Work In Progress !\nMore map making tools will be added in future"
   },
   {
+    "repo": "racti2037/real-military-techic-mod",
+    "internalName": "military-techic-mod",
+    "name": "Military Technic Mod",
+    "author": "Racti",
+    "lastUpdated": "2024-05-11T20:07:21Z",
+    "stars": 9,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Mod add tanks, aircraft and naval ships"
+  },
+  {
     "repo": "deltanedas/speed",
     "internalName": "speed",
     "name": "Speed",
@@ -1786,18 +1798,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer and pain on top"
-  },
-  {
-    "repo": "racti2037/real-military-techic-mod",
-    "internalName": "military-techic-mod",
-    "name": "Military Technic Mod",
-    "author": "Racti",
-    "lastUpdated": "2024-05-11T20:07:21Z",
-    "stars": 8,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Mod add tanks, aircraft and naval ships"
   },
   {
     "repo": "reborntrack970/sandbox-mode",
@@ -3984,6 +3984,18 @@
     "description": "9527，皴皲，咕咕点心,LYBF,Ovulam5480,皴皲"
   },
   {
+    "repo": "unionofsovietsocialistrepublics/sporebiomethane",
+    "internalName": "jp",
+    "name": "Spore biomethane",
+    "author": "Water white",
+    "lastUpdated": "2024-05-10T02:52:21Z",
+    "stars": 3,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A java port of the hit mindustry mod spore biomechs\n Now with flies and mosquitoes!"
+  },
+  {
     "repo": "evo04taser/mindustry-turrets-extension",
     "internalName": "new-turrets",
     "name": "Mindustry Turrets Extension",
@@ -5074,18 +5086,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This Mindustry mod will add alternate blocks which will be better then their analogues, but also will be cost more resources to build. Most of additional blocks will be batteries, containers, etc. But it will not be any turrets or something like this"
-  },
-  {
-    "repo": "unionofsovietsocialistrepublics/sporebiomethane",
-    "internalName": "jp",
-    "name": "Spore biomethane",
-    "author": "Water white",
-    "lastUpdated": "2024-05-10T02:52:21Z",
-    "stars": 2,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A java port of the hit mindustry mod spore biomechs\n Now with flies and mosquitoes!"
   },
   {
     "repo": "itskirby69/minedusty",
