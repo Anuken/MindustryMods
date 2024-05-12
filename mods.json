@@ -480,6 +480,18 @@
     "description": "\n  # 功能\n\n  ---\n\n  ## UI\n  1. MinerToolsTable:\n     * 队伍信息:\n       * 队伍玩家数量(Tooltip显示基础队伍规则)\n       * 队伍单位显示\n       * 队伍全局电量(Tooltip显示详细电量情况)\n     * 一些有用的按钮:\n       * 暂停建造(仅手机)\n       * 自动升级传送带\n       * 重建方块\n       * 快捷投降\n     * 换队/跳波器\n     * 玩家列表:\n       * 所有玩家的名字\n       * 可锁定玩家视角(锁定的玩家控制炮塔时,会自动调整视角)\n       * 可切换到玩家视角\n       * 可一键投票踢出玩家\n     * 快捷蓝图\n     * 玩家AI:\n       * 挖矿AI\n       * 跟随AI\n\n  2. 聊天记录:\n     * 查询历史聊天记录\n     * 可以复制聊天记录(电脑:Ctrl+单击)\n\n  3. 更好的核心资源显示:\n     * 单位数量显示\n     * 物品每秒变化量显示\n     * 玩家预建消耗显示\n     * 可自定义的ui列数\n\n  4. 更好的信息面板:\n     * 单位,建筑,地板信息一起显示!\n     * 单位:\n       * 武器冷却状态\n     * 建筑:\n       * 物品详情\n     * 地板:\n       * 显示更详尽\n\n  ---\n\n  ## 画面\n  * 建筑:\n    * 选中:\n      * 异队选中信息\n      * 桥带连接详情\n    * 建筑血条\n    * 异队方块状态\n    * 构造方块耗材信息\n    * 附近炮塔警戒\n    * 物品炮塔子弹类型显示\n    * 单位工厂进度条\n\n  * 单位:\n    * 单位指示器(核心危险警告)\n    * 附近单位警戒\n\n    * 单位信息条:\n      * 血条\n      * 立场回复条\n      * 单位状态条\n      * 荷载条\n\n  * 玩家:\n    * 荷载拾放提示\n    * 玩家范围显示\n\n  ---\n\n  ## 其他小功能\n  * 进入游戏后,显示被ban的单位或方块\n  * UIScale的step修改\n  * 物品桥带可拿取物品\n  * 更多方块信息条:\n    * 血条: 血量显示更详细\n    * 进度条: 进度显示更详细\n\n  ---\n\n  # 其他\n  Mod的90%功均可在设置中打开或关闭!"
   },
   {
+    "repo": "eb-wilson/universecore",
+    "internalName": "universe-core",
+    "name": "Universe Core",
+    "author": "EBwilson",
+    "lastUpdated": "2024-04-21T07:29:15Z",
+    "stars": 29,
+    "minGameVersion": "144",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "testbuild.A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
+  },
+  {
     "repo": "paulieg626/cheat",
     "internalName": "cheat",
     "name": "CheatMod",
@@ -490,18 +502,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Добавляет разные штуки для читов\nhttps://vk.com/mindustry_cheat"
-  },
-  {
-    "repo": "eb-wilson/universecore",
-    "internalName": "universe-core",
-    "name": "Universe Core",
-    "author": "EBwilson",
-    "lastUpdated": "2024-04-21T07:29:15Z",
-    "stars": 28,
-    "minGameVersion": "144",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "testbuild.A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
   },
   {
     "repo": "eb-wilson/toomanyitems",
@@ -1012,7 +1012,7 @@
     "internalName": "bluearchive",
     "name": "ArchiveDustry Java",
     "author": "WilloIzCitron. Copyrights remains with Nexon, Nexon Games and Yostar",
-    "lastUpdated": "2024-05-12T11:17:38Z",
+    "lastUpdated": "2024-05-12T14:11:32Z",
     "stars": 15,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1368,6 +1368,18 @@
     "description": "스프라이터: ss심                                              모딩 도움: Sharlotte                                     기여자: sirius"
   },
   {
+    "repo": "andromeda-galaxy29/psammos-mod",
+    "internalName": "psammos",
+    "name": "Psammos Mod",
+    "author": "AndromedaGalaxy29",
+    "lastUpdated": "2024-05-12T13:25:39Z",
+    "stars": 11,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer Psammos.\r\n\r\nSpecial thanks:\r\n[#5865f2]@thisiscrimsoncheck[white] for several maps, suggestions and other contributions\r\n[#5865f2]@inxie_ratzey[white] for suggestions, sprites and maps\r\n\r\nIf you like the mod, consider giving it a star on GitHub. Thank you"
+  },
+  {
     "repo": "darealmonika/eriker-logic",
     "internalName": "erekir-logic",
     "name": "Erekir Logic",
@@ -1444,24 +1456,12 @@
     "internalName": "enhancement-units",
     "name": "Enhancement Units",
     "author": "D&X",
-    "lastUpdated": "2024-05-07T15:31:02Z",
+    "lastUpdated": "2024-05-12T15:20:03Z",
     "stars": 10,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
     "description": "ATTENTION:\n\nFrom now on, the mod goes into experimental mode - this means that the balance may not be balanced, such as a Toxopid with a Corvus, whose attack radii go far beyond 60 cells!!!!!\nNevertheless, I advise you to calm down: when the mod reaches its peak (despite my crazy plans for it, the result of which you are already watching), I will make several versions to meet the needs of as many people as possible. In the meantime, it remains to wait. Sorry for the inconvenience.\n\nImportant:\n\nThis mod does not bring anything radically new to the game, but only expands the combat functionality of existing combat units.\n\nPlease pay attention:\n\nThe mod significantly redesigns units, changes the balance and generally complicates the game. Don't forget to make a backup in case you don't like the changes that the mod itself makes.\n\nP.S. The mod is made for ALE maps."
-  },
-  {
-    "repo": "andromeda-galaxy29/psammos-mod",
-    "internalName": "psammos",
-    "name": "Psammos Mod",
-    "author": "AndromedaGalaxy29",
-    "lastUpdated": "2024-05-12T13:25:39Z",
-    "stars": 10,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer Psammos.\r\n\r\nSpecial thanks:\r\n[#5865f2]@thisiscrimsoncheck[white] for several maps, suggestions and other contributions\r\n[#5865f2]@inxie_ratzey[white] for suggestions, sprites and maps\r\n\r\nIf you like the mod, consider giving it a star on GitHub. Thank you"
   },
   {
     "repo": "deltanedas/mobile-ui",
@@ -2136,6 +2136,18 @@
     "description": "Survive on sand island and expand by placing land on water around "
   },
   {
+    "repo": "sakuralilly/powered-by-nature",
+    "internalName": "powered by nature",
+    "name": "Powered by Nature",
+    "author": "SakuraLilly",
+    "lastUpdated": "2022-11-12T15:22:58Z",
+    "stars": 6,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "V7 fixed, Generate power out of nature. Four types of windmills, a water dam, three powernodes and two large batteries. It is still under development so feedback on the workshop is welcome"
+  },
+  {
     "repo": "cristian-blackture/acm",
     "internalName": "",
     "name": "Another Chaotic Mod",
@@ -2422,18 +2434,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Allows mobile players to take map-shots\n\nMapshots are saved in the 'screenshots' folder in the game's data directory.\n\nThere is a setting on whether to check for memory or not."
-  },
-  {
-    "repo": "sakuralilly/powered-by-nature",
-    "internalName": "powered by nature",
-    "name": "Powered by Nature",
-    "author": "SakuraLilly",
-    "lastUpdated": "2022-11-12T15:22:58Z",
-    "stars": 5,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "V7 fixed, Generate power out of nature. Four types of windmills, a water dam, three powernodes and two large batteries. It is still under development so feedback on the workshop is welcome"
   },
   {
     "repo": "64-tesseract/erekir-logic-improved",
@@ -3160,7 +3160,7 @@
     "internalName": "hld",
     "name": "High-level Divisions",
     "author": "D&X",
-    "lastUpdated": "2024-05-12T14:00:31Z",
+    "lastUpdated": "2024-05-12T14:46:49Z",
     "stars": 4,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -3898,6 +3898,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Random small mindustry mod."
+  },
+  {
+    "repo": "godlyshkaf/serpulo-ground-melee",
+    "internalName": "sgm",
+    "name": "Serpulo Melee units",
+    "author": "Crazypumpkinserge",
+    "lastUpdated": "2024-04-13T18:25:42Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "New branch of melee Serpulo units"
   },
   {
     "repo": "meepoffaith/extra-sand-redux",
@@ -4942,18 +4954,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Serpulo air support unit which do actually SUPPORT"
-  },
-  {
-    "repo": "godlyshkaf/serpulo-ground-melee",
-    "internalName": "sgm",
-    "name": "Serpulo Melee units",
-    "author": "Crazypumpkinserge",
-    "lastUpdated": "2024-04-13T18:25:42Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "New branch of melee Serpulo units"
   },
   {
     "repo": "sheptalo/mindustry-minecraft-mod",
@@ -6532,7 +6532,7 @@
     "internalName": "",
     "name": "Frigid Devastation",
     "author": "Hexazeta",
-    "lastUpdated": "2024-05-12T11:31:46Z",
+    "lastUpdated": "2024-05-12T15:09:19Z",
     "stars": 1,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -8078,9 +8078,9 @@
   {
     "repo": "hao-1337/mindustry-better-vanilla",
     "internalName": "hao1337-mod",
-    "name": "mindustry-better-vanilla",
+    "name": "Hao1337: Better Vanilla",
     "author": "Hao1337",
-    "lastUpdated": "2024-05-12T13:01:20Z",
+    "lastUpdated": "2024-05-12T15:47:53Z",
     "stars": 0,
     "minGameVersion": "136",
     "hasScripts": false,
