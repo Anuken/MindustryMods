@@ -5,7 +5,7 @@
     "name": "Exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2024-03-16T07:37:41Z",
-    "stars": 339,
+    "stars": 340,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -137,7 +137,7 @@
     "name": "Fading Revelations",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791 / .Frankie\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 / Froomeeth\n- Lore: iori / Fresh791\n- Cryogenic Gel, Igneous Alloy,\n  Multiblock-Crafter base model:\n  Null (Nullevoy)\n\nAnd more people!\nCheck the Discord!",
     "lastUpdated": "2023-12-08T20:44:59Z",
-    "stars": 93,
+    "stars": 94,
     "minGameVersion": "144.3",
     "hasScripts": true,
     "hasJava": false,
@@ -269,7 +269,7 @@
     "name": "(v7) Invincible Cheat 无敌作弊",
     "author": "滞人",
     "lastUpdated": "2023-08-08T15:04:45Z",
-    "stars": 56,
+    "stars": 57,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
@@ -636,6 +636,18 @@
     "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> extended UI.\n\nIf u have any bugs create an issue on github or contact me in discord: wizer1233\n\nTranslators:\n1stvaliduser - UA\nCoCo Snow - DE\n\nContributors:\nRushieWashie, Garen7, 7003Mars (Mars)"
   },
   {
+    "repo": "three-cold-planets/welcome-to-the-frostscape",
+    "internalName": "",
+    "name": "Welcome to the Frostscape",
+    "author": "Sh1penfire\nFractured\nRilyProductions",
+    "lastUpdated": "2024-04-20T10:44:32Z",
+    "stars": 24,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A currently [red]indev[] colab mod with huge scope, being built one planet at a time.\n\nAims to add several cold planets with linked campaigns, along with mechanics that'll [accent]revolutionise[] the way you interact with the mod's different environments, while trying to stay enjoyable and even a lil silly at times.\n\n[darkgray]A voice lingers in the darkness, dancing around your ears. Will you join it?"
+  },
+  {
     "repo": "way-zer/contentstweaker",
     "internalName": "contentstweaker",
     "name": "ContentsTweaker-内容包修改器",
@@ -646,18 +658,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Dynamic load custom contents patch account to server"
-  },
-  {
-    "repo": "three-cold-planets/welcome-to-the-frostscape",
-    "internalName": "",
-    "name": "Welcome to the Frostscape",
-    "author": "Sh1penfire\nFractured\nRilyProductions",
-    "lastUpdated": "2024-04-20T10:44:32Z",
-    "stars": 23,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A currently [red]indev[] colab mod with huge scope, being built one planet at a time.\n\nAims to add several cold planets with linked campaigns, along with mechanics that'll [accent]revolutionise[] the way you interact with the mod's different environments, while trying to stay enjoyable and even a lil silly at times.\n\n[darkgray]A voice lingers in the darkness, dancing around your ears. Will you join it?"
   },
   {
     "repo": "smolkeys/bundles",
@@ -1176,6 +1176,18 @@
     "description": "Disables sectors being re-attacked."
   },
   {
+    "repo": "valigaming15/pyra-erekir",
+    "internalName": "pyra",
+    "name": "Pyra Erekir",
+    "author": "\nAuthor: \"[#ff6600]vali#5378[]\"\nCoder: Fresh791\nSpriter and Coder: \"[purple]Otamamori#4716[]\"\n",
+    "lastUpdated": "2024-05-01T07:24:12Z",
+    "stars": 13,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Pyratite focused mod which adds units turrets drills and factorys\nNOT the most balanced"
+  },
+  {
     "repo": "slotterleet/distributor",
     "internalName": "distributor",
     "name": "Distributor",
@@ -1246,18 +1258,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds colored names!\n\nSome colors may not be accurate!\nSadly, no colored names for units. I'm working on that."
-  },
-  {
-    "repo": "valigaming15/pyra-erekir",
-    "internalName": "pyra",
-    "name": "Pyra Erekir",
-    "author": "\nAuthor: \"[#ff6600]vali#5378[]\"\nCoder: Fresh791\nSpriter and Coder: \"[purple]Otamamori#4716[]\"\n",
-    "lastUpdated": "2024-05-01T07:24:12Z",
-    "stars": 12,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Pyratite focused mod which adds units turrets drills and factorys\nNOT the most balanced"
   },
   {
     "repo": "uenhe/fire",
@@ -1828,7 +1828,7 @@
     "internalName": "erekirliquefied",
     "name": "Erekir Liquefied",
     "author": "Haznobrain",
-    "lastUpdated": "2024-05-13T09:59:47Z",
+    "lastUpdated": "2024-05-13T11:06:25Z",
     "stars": 8,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -5100,18 +5100,6 @@
     "description": "Unicorp presents to you their various units for mining purpose and for assault tactics.\n  P.S. This mod may need some balancing. If you find bugs or think the content needs tweaking, just message on Discord(TroniusPlay#4386) or Github."
   },
   {
-    "repo": "hao-1337/mindustry-better-vanilla",
-    "internalName": "hao1337-mod",
-    "name": "Hao1337: Better Vanilla",
-    "author": "Hao1337",
-    "lastUpdated": "2024-05-12T15:47:53Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Add something help for vanilla. Also have some better UI (mobile only)."
-  },
-  {
     "repo": "ruombus/dragenisis",
     "internalName": "dragenisis",
     "name": "Dragenisis",
@@ -5140,12 +5128,24 @@
     "internalName": "upd-blocks",
     "name": "Upgraded Blocks",
     "author": "VDGaster",
-    "lastUpdated": "2024-05-13T08:14:35Z",
+    "lastUpdated": "2024-05-13T10:20:57Z",
     "stars": 2,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
     "description": "This Mindustry mod will add alternate blocks which will be better then their analogues, but also will be cost more resources to build. Most of additional blocks will be batteries, containers, etc. But it will not be any turrets or something like this"
+  },
+  {
+    "repo": "hao-1337/mindustry-better-vanilla",
+    "internalName": "hao1337-mod",
+    "name": "[ Better Vanilla ]",
+    "author": "Hao1337",
+    "lastUpdated": "2024-05-13T11:16:55Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Add something helpful for vanilla. Also have some better UI.\n\n- Coreitem display for mobile.\n- Unit conter display.\n- Time control. (WIP, now it only speed up the game)\n- Some change for vanilla (see in setting, default is off):\n+ Bigger vault, container and vault in Erekir.\n+ Bigger range for override dome, 200% speed up.\n+ Force projector have more shield health.\n- Auto update.\n\nWarning: The mod under development, any contributions would be gratefully appreciated. See github for more details."
   },
   {
     "repo": "teaeempire/gghv7",
@@ -7066,18 +7066,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "a pretty ultimate mod"
-  },
-  {
-    "repo": "mythril382/reinstallermod",
-    "internalName": "reinstaller",
-    "name": "Reinstaller",
-    "author": "Mythril382",
-    "lastUpdated": "2023-07-14T02:25:33Z",
-    "stars": 0,
-    "minGameVersion": "145.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod to reinstall all mods with just one button.\nWill re-enable mods."
   },
   {
     "repo": "ssaagamemer/earape-mod",
