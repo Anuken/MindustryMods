@@ -888,6 +888,18 @@
     "description": "Mindustry Erekir mod moment"
   },
   {
+    "repo": "flintyx/autoresearch",
+    "internalName": "auto-research",
+    "name": "Auto Research",
+    "author": "Flin",
+    "lastUpdated": "2023-02-04T00:59:58Z",
+    "stars": 16,
+    "minGameVersion": "141",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
+  },
+  {
     "repo": "jslkr2707/focus-lib",
     "internalName": "focus-lib",
     "name": "Focus System Library",
@@ -1816,7 +1828,7 @@
     "internalName": "erekirliquefied",
     "name": "Erekir Liquefied",
     "author": "Haznobrain",
-    "lastUpdated": "2024-05-10T20:02:06Z",
+    "lastUpdated": "2024-05-13T09:59:47Z",
     "stars": 8,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -5112,18 +5124,6 @@
     "description": "A simple mod. That will probably break around every corner. It'll be worked on infrequently, probably."
   },
   {
-    "repo": "vdgaster/upgraded-blocks",
-    "internalName": "upd-blocks",
-    "name": "Upgraded Blocks",
-    "author": "VDGaster",
-    "lastUpdated": "2024-05-12T22:24:21Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This Mindustry mod will add alternate blocks which will be better then their analogues, but also will be cost more resources to build. Most of additional blocks will be batteries, containers, etc. But it will not be any turrets or something like this"
-  },
-  {
     "repo": "itskirby69/minedusty",
     "internalName": "minedusty-mod",
     "name": "MineDusty [new]",
@@ -5134,6 +5134,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#edc77b]A java mod by [white]itsdakirby69 [gray](thats me!)[#edc77b]. Introduces nature and more decorations for an immersive and lively gameplay."
+  },
+  {
+    "repo": "vdgaster/upgraded-blocks",
+    "internalName": "upd-blocks",
+    "name": "Upgraded Blocks",
+    "author": "VDGaster",
+    "lastUpdated": "2024-05-13T08:14:35Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This Mindustry mod will add alternate blocks which will be better then their analogues, but also will be cost more resources to build. Most of additional blocks will be batteries, containers, etc. But it will not be any turrets or something like this"
   },
   {
     "repo": "teaeempire/gghv7",
@@ -6478,6 +6490,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Reminiscent of Exogenesis's Avetronox"
+  },
+  {
+    "repo": "q8er2y/vertros",
+    "internalName": "vertrosmod",
+    "name": "Vertros",
+    "author": "Q8er2y",
+    "lastUpdated": "2024-04-27T17:09:42Z",
+    "stars": 1,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds a new planet:  Vertros  which is a hot planet near the sun. \r\n\r"
   },
   {
     "repo": "xxy173/transportplus",
@@ -7966,18 +7990,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Footer's mod"
-  },
-  {
-    "repo": "q8er2y/vertros",
-    "internalName": "vertrosmod",
-    "name": "Vertros",
-    "author": "Q8er2y",
-    "lastUpdated": "2024-04-27T17:09:42Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds a new planet:  Vertros  which is a hot planet near the sun. \r\n\r"
   },
   {
     "repo": "stacktrace-error/serpulo-resprites",
