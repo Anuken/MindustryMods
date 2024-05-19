@@ -161,7 +161,7 @@
     "name": "Sapphirium",
     "author": "Snake",
     "lastUpdated": "2023-11-03T10:18:40Z",
-    "stars": 84,
+    "stars": 85,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": true,
@@ -352,7 +352,7 @@
     "internalName": "fos",
     "name": "Fictional Octo System",
     "author": "Team Oct",
-    "lastUpdated": "2024-05-11T14:37:00Z",
+    "lastUpdated": "2024-05-19T19:20:27Z",
     "stars": 43,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -684,6 +684,18 @@
     "description": "⚠ВНИМАНИЕ!⚠\nПри удалении схемпака, теги остаются.\n Данный мод добавляет ОГРОМНУЮ КУЧУ схем на любой вкус.\nВсего здесь более чем 400 схем.\nОтдельное спасибо pixecoz, Qwertynoob, Anchovy, Mandu, Fox1va, Ilya034, Ohotni4ek, Snake, без них ничего бы не вышло. ОТДЕЛЬНОЕ СПАСИБО Ilya034, который снова все это отсортировал.\n\nВ новом обновлении были изменены названия схем по категориям:\ngreen - начало игры;\norange - середина игры\nred - конец игры;\n(делал это чисто по своему мнению, могут быть неточности)\nостальные схемы тоже промаркированы по цветам:\ncrimson - схемы на деф;\ngold - логика;\npurple - логика с дисплеями;\nstat - буры;\ncyan - арты и игры;\npink - сами увидите);"
   },
   {
+    "repo": "willoizcitron/archivedustry-java",
+    "internalName": "bluearchive",
+    "name": "ArchiveDustry Java",
+    "author": "WilloIzCitron. Copyrights remains with Nexon, Nexon Games and Yostar",
+    "lastUpdated": "2024-05-19T19:55:49Z",
+    "stars": 23,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\n    This is a fanmade mod of Blue Archive Soundtrack in Mindustry.\n\n    [yellow]Purposes:[]\n    This mod replace vanilla soundtrack into Blue Archive Soundtrack, also add additional soundtrack for essentials and the halo too!.\n\n    [red]⚠ NOTICE ⚠:[]\n    This mod is a fan-made project inspired by Blue Archive and not directly affiliated with it. Copyright remains with the developer and publisher of Blue Archive:\n    Nexon, Nexon Games and Yostar.\n    "
+  },
+  {
     "repo": "sporrus/randommindustry",
     "internalName": "random-mindustry",
     "name": "Random Mindustry",
@@ -718,18 +730,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds a console ui superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more,\na good log panel, execution history - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
-  },
-  {
-    "repo": "willoizcitron/archivedustry-java",
-    "internalName": "bluearchive",
-    "name": "ArchiveDustry Java",
-    "author": "WilloIzCitron. Copyrights remains with Nexon, Nexon Games and Yostar",
-    "lastUpdated": "2024-05-18T06:39:57Z",
-    "stars": 22,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\n    This is a fanmade mod of Blue Archive Soundtrack in Mindustry.\n\n    [yellow]Purposes:[]\n    This mod replace vanilla soundtrack into Blue Archive Soundtrack, also add additional soundtrack for essentials and the halo too!.\n\n    [red]⚠ NOTICE ⚠:[]\n    This mod is a fan-made project inspired by Blue Archive and not directly affiliated with it. Copyright remains with the developer and publisher of Blue Archive:\n    Nexon, Nexon Games and Yostar.\n    "
   },
   {
     "repo": "teamviscott/modprojectviscott",
@@ -1980,18 +1980,6 @@
     "description": "This mod replaces all texts in the game with random ones."
   },
   {
-    "repo": "redstonneur1256/mindustry-modlib",
-    "internalName": "!mod-library",
-    "name": "Mod Library",
-    "author": "Redstonneur1256",
-    "lastUpdated": "2023-11-24T12:12:44Z",
-    "stars": 7,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mindustry modding utilities to make mod development easier."
-  },
-  {
     "repo": "mikamolimo/legendary-rainbow-mod",
     "internalName": "legendary rainbow mod",
     "name": "Legendary Rainbow Mod",
@@ -2146,6 +2134,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Add more Things !!\n\n[red]THIS IS STILL IN DEVELOPMENT[white]\n\nWant fast update??\nJoin to our server or check at our github\n\nDeltais Version: 0.1.0"
+  },
+  {
+    "repo": "redstonneur1256/mindustry-modlib",
+    "internalName": "!mod-library",
+    "name": "Mod Library",
+    "author": "Redstonneur1256",
+    "lastUpdated": "2024-05-19T19:48:29Z",
+    "stars": 7,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mindustry modding utilities to make mod development easier."
   },
   {
     "repo": "warcry98/speedcontrol",
@@ -5136,18 +5136,6 @@
     "description": "[#edc77b]A java mod by [white]itsdakirby69 [gray](thats me!)[#edc77b]. Introduces nature and more decorations for an immersive and lively gameplay."
   },
   {
-    "repo": "vdgaster/upgraded-blocks",
-    "internalName": "upd-blocks",
-    "name": "Upgraded Blocks",
-    "author": "VDGaster",
-    "lastUpdated": "2024-05-19T12:14:48Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This Mindustry mod will add alternate blocks which will be better then their analogues, but also will be cost more resources to build. Most of additional blocks will be batteries, containers, etc. But it will not be any turrets or something like this"
-  },
-  {
     "repo": "smolkeys/yellow-rewritten",
     "internalName": "yellow",
     "name": "Yellow",
@@ -5158,6 +5146,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A work in progress rewrite of the ultimate shitpost."
+  },
+  {
+    "repo": "vdgaster/upgraded-blocks",
+    "internalName": "upd-blocks",
+    "name": "Upgraded Blocks",
+    "author": "VDGaster",
+    "lastUpdated": "2024-05-19T20:00:53Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This Mindustry mod will add alternate blocks which will be better then their analogues, but also will be cost more resources to build. Most of additional blocks will be batteries, containers, etc. But it will not be any turrets or something like this"
   },
   {
     "repo": "teaeempire/gghv7",
@@ -6564,18 +6564,6 @@
     "description": "This mod adds extensions and quality of life changes to already implemented and existing features in the game."
   },
   {
-    "repo": "nezerit6/newstage",
-    "internalName": "nstage",
-    "name": "New Stage",
-    "author": "Nezerit6",
-    "lastUpdated": "2024-05-17T11:29:53Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Hi"
-  },
-  {
     "repo": "tripletoxic/math-stuff",
     "internalName": "ms",
     "name": "Math-stuff",
@@ -6598,6 +6586,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "funny frozen planet"
+  },
+  {
+    "repo": "nezerit6/newstage",
+    "internalName": "nstage",
+    "name": "New Stage",
+    "author": "Nezerit6",
+    "lastUpdated": "2024-05-19T18:39:59Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Hi"
   },
   {
     "repo": "emanuelg-gaming/ion",
