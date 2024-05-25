@@ -23,7 +23,7 @@ jobs:
       run: ./gradlew run -Dorg.gradle.daemon=false -Dgithubtoken="Bearer ${{ secrets.GITHUB_TOKEN }}"
     - name: Push changes
       run: |
-        git config --global user.email "cli@github.com"
+        git config --global user.email "actions@github.com"
         git config --global user.name "Github Actions"
         git add mods.json
         git add icons/*
