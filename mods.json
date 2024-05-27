@@ -77,7 +77,7 @@
     "name": "Scheme Size",
     "author": "xzxADIxzx",
     "lastUpdated": "2024-01-21T13:17:29Z",
-    "stars": 132,
+    "stars": 133,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -232,7 +232,7 @@
     "internalName": "omaloon",
     "name": "Omaloon",
     "author": "_stabu_",
-    "lastUpdated": "2024-05-27T02:15:11Z",
+    "lastUpdated": "2024-05-27T09:28:33Z",
     "stars": 72,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -564,6 +564,18 @@
     "description": "Meatballs."
   },
   {
+    "repo": "pointifix/autodrill",
+    "internalName": "auto-drill",
+    "name": "AutoDrill",
+    "author": "Pointifix",
+    "lastUpdated": "2024-01-31T15:47:33Z",
+    "stars": 27,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds tools for automatically filling resource patches with drills"
+  },
+  {
     "repo": "realshizi/oxynoe",
     "internalName": "oxynoe",
     "name": "Oxynoe",
@@ -574,18 +586,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "oxynoe :>"
-  },
-  {
-    "repo": "pointifix/autodrill",
-    "internalName": "auto-drill",
-    "name": "AutoDrill",
-    "author": "Pointifix",
-    "lastUpdated": "2024-01-31T15:47:33Z",
-    "stars": 26,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds tools for automatically filling resource patches with drills"
   },
   {
     "repo": "willoizcitron/archivedustry-java",
@@ -612,6 +612,18 @@
     "description": "Spawn any enemy in sandbox or on multiplayer, with /js (if supported).\nRequires deltanedas/ui-lib."
   },
   {
+    "repo": "ferlern/extended-ui-v7",
+    "internalName": "extended-ui",
+    "name": "extended UI",
+    "author": "wizer",
+    "lastUpdated": "2024-03-27T19:31:22Z",
+    "stars": 25,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> extended UI.\n\nIf u have any bugs create an issue on github or contact me in discord: wizer1233\n\nTranslators:\n1stvaliduser - UA\nCoCo Snow - DE\n\nContributors:\nRushieWashie, Garen7, 7003Mars (Mars)"
+  },
+  {
     "repo": "unionofsovietsocialistrepublics/spore-biomechs",
     "internalName": "sporepod",
     "name": "Spore Biomechs",
@@ -634,18 +646,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "No description provided."
-  },
-  {
-    "repo": "ferlern/extended-ui-v7",
-    "internalName": "extended-ui",
-    "name": "extended UI",
-    "author": "wizer",
-    "lastUpdated": "2024-03-27T19:31:22Z",
-    "stars": 24,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> extended UI.\n\nIf u have any bugs create an issue on github or contact me in discord: wizer1233\n\nTranslators:\n1stvaliduser - UA\nCoCo Snow - DE\n\nContributors:\nRushieWashie, Garen7, 7003Mars (Mars)"
   },
   {
     "repo": "three-cold-planets/welcome-to-the-frostscape",
@@ -1404,6 +1404,18 @@
     "description": "Для работы на сервере нужен плагин: https://github.com/MindustryInside/JSEval\nи админ"
   },
   {
+    "repo": "pointifix/autotranslate",
+    "internalName": "auto-translate",
+    "name": "AutoTranslate",
+    "author": "Pointifix",
+    "lastUpdated": "2023-06-12T15:36:33Z",
+    "stars": 10,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Automatically translates chat messages"
+  },
+  {
     "repo": "deltanedas/waisa",
     "internalName": "waisa",
     "name": "WAISA",
@@ -1560,18 +1572,6 @@
     "description": "\nWIP mod, there a lots of unfinished/bugged content, \nwill update with more content, sprite reworks and bug fixes.\n\nAlso available in German!\n"
   },
   {
-    "repo": "pointifix/autotranslate",
-    "internalName": "auto-translate",
-    "name": "AutoTranslate",
-    "author": "Pointifix",
-    "lastUpdated": "2023-06-12T15:36:33Z",
-    "stars": 9,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Automatically translates chat messages"
-  },
-  {
     "repo": "aforgetfulness/towerdefense",
     "internalName": "towerdefense",
     "name": "Tower Defense",
@@ -1636,7 +1636,7 @@
     "internalName": "erekirliquefied",
     "name": "Erekir Liquefied",
     "author": "Haznobrain",
-    "lastUpdated": "2024-05-25T18:57:24Z",
+    "lastUpdated": "2024-05-27T08:50:53Z",
     "stars": 9,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2716,7 +2716,7 @@
     "internalName": "ets",
     "name": "Enhancement Turrets",
     "author": "D&X",
-    "lastUpdated": "2024-05-27T04:59:50Z",
+    "lastUpdated": "2024-05-27T10:01:06Z",
     "stars": 5,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -3792,6 +3792,18 @@
     "description": "Randomly generate a planet and its sectors.\nIt's a mixtech mod, I myself don't like the idea of \"Oh, you can only use these things here, and you can only use those things there, bruh, bruh, bruh!\", so I make one myself, if you don't like mixtech and think it's \"unbalanced\" and \"boring\", then please go away, much appreciated!"
   },
   {
+    "repo": "kubikaugustyn/mindustrytoolkit",
+    "internalName": "mindustry-toolkit-kubikaugustyn",
+    "name": "Mindustry Toolkit",
+    "author": "Jakub Augustýn",
+    "lastUpdated": "2024-02-25T08:45:22Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry toolkit mod by GitHub - kubikaugustyn / Discord - HackerKuba2009#9722"
+  },
+  {
     "repo": "krita-burstflakes/infinite-logics",
     "internalName": "infinite-logics",
     "name": "infinite/logics",
@@ -4036,7 +4048,7 @@
     "internalName": "svapipai",
     "name": "Svapipai",
     "author": "DotVi",
-    "lastUpdated": "2024-05-26T20:42:33Z",
+    "lastUpdated": "2024-05-27T08:22:17Z",
     "stars": 3,
     "minGameVersion": "146",
     "hasScripts": false,
