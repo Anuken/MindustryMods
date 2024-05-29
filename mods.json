@@ -180,6 +180,18 @@
     "description": "Adds the Diamond resource.\n\nThis mod also adds more than just diamonds. It also adds enhanced versions of vanilla production blocks, as well as units, technology, and more."
   },
   {
+    "repo": "deltanedas/pictologic",
+    "internalName": "pictologic",
+    "name": "PicToLogic",
+    "author": "deltanedas, Router and another guy",
+    "lastUpdated": "2023-06-14T01:47:58Z",
+    "stars": 77,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a dialog for turning images into processor schematics.\nRequires deltanedas/ui-lib."
+  },
+  {
     "repo": "deltanedas/rtfm",
     "internalName": "rtfm",
     "name": "RTFM",
@@ -202,18 +214,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Library for other mods that unifies and simplifies UI creation."
-  },
-  {
-    "repo": "deltanedas/pictologic",
-    "internalName": "pictologic",
-    "name": "PicToLogic",
-    "author": "deltanedas, Router and another guy",
-    "lastUpdated": "2023-06-14T01:47:58Z",
-    "stars": 76,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds a dialog for turning images into processor schematics.\nRequires deltanedas/ui-lib."
   },
   {
     "repo": "what42pizza/mindustry-production-mod",
@@ -580,7 +580,7 @@
     "internalName": "bluearchive",
     "name": "ArchiveDustry Java",
     "author": "WilloIzCitron. Copyrights remains with Nexon, Nexon Games and Yostar",
-    "lastUpdated": "2024-05-28T23:53:38Z",
+    "lastUpdated": "2024-05-29T11:46:00Z",
     "stars": 27,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1240,7 +1240,7 @@
     "internalName": "enhancement-units",
     "name": "Enhancement Units",
     "author": "D&X",
-    "lastUpdated": "2024-05-29T09:58:31Z",
+    "lastUpdated": "2024-05-29T11:59:27Z",
     "stars": 13,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1800,18 +1800,6 @@
     "description": "Adds an online schematic browser."
   },
   {
-    "repo": "electricgun/cheat-codes-mod",
-    "internalName": "cheat-codes",
-    "name": "Cheat Codes Mod",
-    "author": "electricgun",
-    "lastUpdated": "2024-02-02T15:36:47Z",
-    "stars": 8,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds some rather powerful and fun powerups activated by typing out the right sequence of letters while in-game.\n\nPowerups include:\n[yellow]-Time stop\n-God mode\n-Konami code\n-Thanos snap\nand more...\n\n[white]Can be used to cheat your way through the game.\n\n[OPTIONAL] Type the cheat codes in the console to prevent activating keybinds, this is not required.\n\n[red]READ GITHUB REPO FOR CHEAT LIST"
-  },
-  {
     "repo": "xzxadixzx/scheme-size-lite",
     "internalName": "scheme-size-lite",
     "name": "Scheme Size Lite",
@@ -1882,6 +1870,30 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod adds new modified units, such as Elites and Officers, as well as several new items to the gameplay."
+  },
+  {
+    "repo": "zuoranartemwing/mindustryexpansion",
+    "internalName": "mindustry-expansion",
+    "name": "Mindustry Expansion",
+    "author": "[yellow]zuoranartemwing\n\n[gray]Contributors:[blue]\nKanaede [yellow](has left the team (8 May 2024))[blue]\nchaoticmarzu[white]",
+    "lastUpdated": "2024-05-29T09:29:08Z",
+    "stars": 8,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Add more Things !!\n\n[red]THIS IS STILL IN DEVELOPMENT[white]\n\nWant fast update??\nJoin to our server or check at our github\n\nDeltais Version: 0.1.0"
+  },
+  {
+    "repo": "electricgun/cheat-codes-mod",
+    "internalName": "cheat-codes",
+    "name": "Cheat Codes Mod",
+    "author": "electricgun",
+    "lastUpdated": "2024-05-29T11:16:56Z",
+    "stars": 8,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds some rather powerful and fun powerups activated by typing out the right sequence of letters while in-game.\n\nPowerups include:\n[yellow]-Time stop\n-God mode\n-Konami code\n-Thanos snap\nand more...\n\n[white]Can be used to cheat your way through the game.\n\n[OPTIONAL] Type the cheat codes in the console to prevent activating keybinds, this is not required.\n\n[red]READ GITHUB REPO FOR CHEAT LIST"
   },
   {
     "repo": "reborntrack970/sandbox-mode",
@@ -2146,18 +2158,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mindustry modding utilities to make mod development easier."
-  },
-  {
-    "repo": "zuoranartemwing/mindustryexpansion",
-    "internalName": "mindustry-expansion",
-    "name": "Mindustry Expansion",
-    "author": "[yellow]zuoranartemwing\n\n[gray]Contributors:[blue]\nKanaede [yellow](has left the team (8 May 2024))[blue]\nchaoticmarzu[white]",
-    "lastUpdated": "2024-05-29T09:29:08Z",
-    "stars": 7,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Add more Things !!\n\n[red]THIS IS STILL IN DEVELOPMENT[white]\n\nWant fast update??\nJoin to our server or check at our github\n\nDeltais Version: 0.1.0"
   },
   {
     "repo": "warcry98/speedcontrol",
@@ -6310,6 +6310,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "if you do not want anything to run on your device, disable this mod"
+  },
+  {
+    "repo": "thomasthings/serpulo-scaled",
+    "internalName": "ss",
+    "name": "Serpulo Scaled",
+    "author": "Thomas's Things",
+    "lastUpdated": "2024-03-16T05:01:25Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod for adding both larger and smaller content to Serpulo."
   },
   {
     "repo": "coco-snow/simpledustry",
