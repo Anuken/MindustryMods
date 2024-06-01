@@ -852,6 +852,18 @@
     "description": "Not recommended for weak devices. Only supports Vanilla/Supported-Json content. This mod replaces/add some effects, and may cause issues with mods that actively check on those effects. May conflict with vanilla bloom."
   },
   {
+    "repo": "flintyx/autoresearch",
+    "internalName": "auto-research",
+    "name": "Auto Research",
+    "author": "Flin",
+    "lastUpdated": "2023-02-04T00:59:58Z",
+    "stars": 17,
+    "minGameVersion": "141",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
+  },
+  {
     "repo": "mindustrydagger/vanillaplus",
     "internalName": "vanillaplus",
     "name": "VanillaPlus",
@@ -898,18 +910,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mindustry Erekir mod moment"
-  },
-  {
-    "repo": "flintyx/autoresearch",
-    "internalName": "auto-research",
-    "name": "Auto Research",
-    "author": "Flin",
-    "lastUpdated": "2023-02-04T00:59:58Z",
-    "stars": 16,
-    "minGameVersion": "141",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
   },
   {
     "repo": "jslkr2707/focus-lib",
@@ -1224,28 +1224,28 @@
     "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer Psammos.\r\n\r\nSpecial thanks:\r\n[#5865f2]@thisiscrimsoncheck[white] for several maps, suggestions and other contributions\r\n[#5865f2]@inxie_ratzey[white] for suggestions, sprites and maps\r\n\r\nIf you like the mod, consider giving it a star on GitHub. Thank you"
   },
   {
-    "repo": "valigaming15/pyra-erekir",
-    "internalName": "pyra",
-    "name": "Pyra Erekir",
-    "author": "\nAuthor: \"[#ff6600]vali#5378[]\"\nCoder: Fresh791\nSpriter and Coder: \"[purple]Otamamori#4716[]\"\n",
-    "lastUpdated": "2024-06-01T08:38:02Z",
-    "stars": 13,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Pyratite focused mod which adds units turrets drills and factorys\nNOT the most balanced"
-  },
-  {
     "repo": "dong-wo-long/enhancementunits",
     "internalName": "enhancement-units",
     "name": "Enhancement Units",
     "author": "D&X",
-    "lastUpdated": "2024-06-01T08:47:18Z",
+    "lastUpdated": "2024-06-01T12:52:24Z",
     "stars": 13,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
     "description": "ATTENTION:\n\nFrom now on, the mod goes into experimental mode - this means that the balance may not be balanced, such as a Toxopid with a Corvus, whose attack radius go far beyond 60 cells!!!!!\nNevertheless, I advise you to calm down: when the mod reaches its peak (despite my crazy plans for it, the result of which you are already watching), I will make several versions to meet the needs of as many people as possible. In the meantime, it remains to wait. Sorry for the inconvenience.\n\nImportant:\n\nThis mod does not bring anything radically new to the game, but only expands the combat functionality of existing combat units.\n\nPlease pay attention:\n\nThe mod significantly redesigns units, changes the balance and generally complicates the game. Don't forget to make a backup in case you don't like the changes that the mod itself makes.\n\nP.S. The mod is made for ALE maps."
+  },
+  {
+    "repo": "valigaming15/pyra-erekir",
+    "internalName": "pyra",
+    "name": "Pyra Erekir",
+    "author": "\nAuthor: \"[#ff6600]vali#5378[]\"\nCoder: Fresh791\nSpriter and Coder: \"[purple]Otamamori#4716[]\"\n",
+    "lastUpdated": "2024-06-01T13:55:19Z",
+    "stars": 13,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Pyratite focused mod which adds units turrets drills and factorys\nNOT the most balanced"
   },
   {
     "repo": "yal-game-things/mindustry-tiny-things",
@@ -1492,7 +1492,7 @@
     "internalName": "erekirliquefied",
     "name": "Erekir Liquefied",
     "author": "Haznobrain",
-    "lastUpdated": "2024-06-01T11:55:07Z",
+    "lastUpdated": "2024-06-01T12:09:49Z",
     "stars": 10,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2740,7 +2740,7 @@
     "internalName": "ets",
     "name": "Enhancement Turrets",
     "author": "D&X",
-    "lastUpdated": "2024-06-01T12:00:07Z",
+    "lastUpdated": "2024-06-01T12:39:33Z",
     "stars": 5,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -4044,18 +4044,6 @@
     "description": "9527，皴皲，咕咕点心,LYBF,Ovulam5480,皴皲"
   },
   {
-    "repo": "obsemen/schempack400",
-    "internalName": "shemepackbyobsidian",
-    "name": "Schemepack 400+",
-    "author": " Obsidian ",
-    "lastUpdated": "2024-05-31T18:17:58Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "⚠ВНИМАНИЕ!⚠\nПри удалении схемпака, теги остаются.\n Данный мод добавляет ОГРОМНУЮ КУЧУ схем на любой вкус.\nВсего здесь более чем 400 схем.\nОтдельное спасибо pixecoz, Qwertynoob, Anchovy, Mandu, Fox1va, Ilya034, Ohotni4ek, Snake, без них ничего бы не вышло. ОТДЕЛЬНОЕ СПАСИБО Ilya034, который снова все это отсортировал.\n\nВ новом обновлении были изменены названия схем по категориям:\ngreen - начало игры;\norange - середина игры\nred - конец игры;\n(делал это чисто по своему мнению, могут быть неточности)\nостальные схемы тоже промаркированы по цветам:\ncrimson - схемы на деф;\ngold - логика;\npurple - логика с дисплеями;\nstat - буры;\ncyan - арты и игры;"
-  },
-  {
     "repo": "mimikyu99/implosion",
     "internalName": "implosion",
     "name": "Implosion",
@@ -4078,6 +4066,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "The mod adds to the game mainly buildings on the Serpulo, but also 2 new ores: Iron and Cobalt, which can only be synthesized On the Serpulo, they can not be found. That's it, I hope you like the mod).."
+  },
+  {
+    "repo": "obsemen/schempack400",
+    "internalName": "shemepackbyobsidian",
+    "name": "Schemepack 400+",
+    "author": " Obsidian ",
+    "lastUpdated": "2024-06-01T13:04:21Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "⚠ВНИМАНИЕ!⚠\nПри удалении схемпака, теги остаются.\n Данный мод добавляет ОГРОМНУЮ КУЧУ схем на любой вкус.\nВсего здесь более чем 400 схем.\nОтдельное спасибо pixecoz, Qwertynoob, Anchovy, Mandu, Fox1va, Ilya034, Ohotni4ek, Snake, без них ничего бы не вышло. ОТДЕЛЬНОЕ СПАСИБО Ilya034, который снова все это отсортировал.\n\nВ новом обновлении были изменены названия схем по категориям:\ngreen - начало игры;\norange - середина игры\nred - конец игры;\n(делал это чисто по своему мнению, могут быть неточности)\nостальные схемы тоже промаркированы по цветам:\ncrimson - схемы на деф;\ngold - логика;\npurple - логика с дисплеями;\nstat - буры;\ncyan - арты и игры;"
   },
   {
     "repo": "wshon/mindustrytoolkit",
