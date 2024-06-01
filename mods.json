@@ -324,6 +324,18 @@
     "description": "my first Java Mod. multi craft-generator, multi turret, multi drill and few thing more! \nnot completely finished/released yet. but i'm sure it's still enough for you to be interested in this mod, this contents, this ideas! \n\nThanks for helping: sk7725: owner of betaMindy \nmeep: owner of Progressed Materials \nmal&ssim: donated great sprites"
   },
   {
+    "repo": "teamoct/fos",
+    "internalName": "fos",
+    "name": "Fictional Octo System",
+    "author": "Team Oct",
+    "lastUpdated": "2024-05-30T11:41:04Z",
+    "stars": 48,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "FOS is a large-scale mod with a campaign that contains a brand-new solar system and unique mechanics."
+  },
+  {
     "repo": "zielonytrojkat/frozen-farlands",
     "internalName": "moon mod",
     "name": "Frozen Farlands",
@@ -334,18 +346,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "[yellow]Before you'll play this mod, let me tell you that [red]skill and patience are highly required.\n[yellow]You need to learn from your mistakes and lost battles in order to complete some sectors.[white]\nWelcome to the Frozen farlands,\nhere, where there is no such thing called heat, Serpulo's Moon Awaits you!\nZilo, a place colonized by Bushark the fraction from Tantros,\nEven if that's only a moon there are many new things, new resources, blocks, units, turrets, just everything.\nThere is one more place we would like you to visit... Gheţar\nA Lonely Asteroid orbiting behind Zilo,\nMaybe it's a small place but it doesn't means it is going to be easy in there, but surely you'd be having fun...\n\nThis mod contains custom soundtracks, please do not steal them... instead get a better vibe while playing\nAnd Thanks to [#8c0303]Świrek[white] for helping us with code.\nWe hope you'll enjoy our mod\nThis Isn't our last creation, we have a huge plans upcoming, if you are interested in our plans, concepts and updates join our discord server\nOur contributtors: [#36a855]RouterXdd[white], [#327db3]Silin Veredno[white] and [#dba642]Catana8735[white]\nlink: [blue]https://discord.gg/TQTW3mfYyf[white]\nWe also have it on a disboard."
-  },
-  {
-    "repo": "teamoct/fos",
-    "internalName": "fos",
-    "name": "Fictional Octo System",
-    "author": "Team Oct",
-    "lastUpdated": "2024-05-30T11:41:04Z",
-    "stars": 47,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "FOS is a large-scale mod with a campaign that contains a brand-new solar system and unique mechanics."
   },
   {
     "repo": "ra2exe/saturation-firepower",
@@ -564,6 +564,18 @@
     "description": "Добавляет разные штуки для читов\nhttps://vk.com/mindustry_cheat"
   },
   {
+    "repo": "willoizcitron/archivedustry-java",
+    "internalName": "bluearchive",
+    "name": "ArchiveDustry Java",
+    "author": "WilloIzCitron. Copyrights remains with Nexon, Nexon Games and Yostar",
+    "lastUpdated": "2024-05-30T12:02:16Z",
+    "stars": 28,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\n    This is a fanmade mod of Blue Archive Soundtrack in Mindustry.\n\n    [yellow]Purposes:[]\n    This mod replace vanilla soundtrack into Blue Archive Soundtrack, also add additional soundtrack for essentials and the halo too!.\n\n    [red]⚠ NOTICE ⚠:[]\n    This mod is a fan-made project inspired by Blue Archive and not directly affiliated with it. Copyright remains with the developer and publisher of Blue Archive:\n    Nexon, Nexon Games and Yostar.\n    "
+  },
+  {
     "repo": "pointifix/autodrill",
     "internalName": "auto-drill",
     "name": "AutoDrill",
@@ -574,18 +586,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds tools for automatically filling resource patches with drills"
-  },
-  {
-    "repo": "willoizcitron/archivedustry-java",
-    "internalName": "bluearchive",
-    "name": "ArchiveDustry Java",
-    "author": "WilloIzCitron. Copyrights remains with Nexon, Nexon Games and Yostar",
-    "lastUpdated": "2024-05-30T12:02:16Z",
-    "stars": 27,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\n    This is a fanmade mod of Blue Archive Soundtrack in Mindustry.\n\n    [yellow]Purposes:[]\n    This mod replace vanilla soundtrack into Blue Archive Soundtrack, also add additional soundtrack for essentials and the halo too!.\n\n    [red]⚠ NOTICE ⚠:[]\n    This mod is a fan-made project inspired by Blue Archive and not directly affiliated with it. Copyright remains with the developer and publisher of Blue Archive:\n    Nexon, Nexon Games and Yostar.\n    "
   },
   {
     "repo": "realshizi/oxynoe",
@@ -1200,18 +1200,6 @@
     "description": "## Bug修复\n- 修复`Window`阻塞`TextField`输入的bug\n- 将`TimeoutException`视为内部错误\n（没有开启捕获外部错误，也可以捕获`TimeoutException`）\n- 修复`TextAreaTab`补全时可能发生报错\n- 修复`Underline`搜索时仍保留的bug\n- 修复设置ui中的字体可能显示不全\n\n## 新特性\n- `ReviewElement`添加`Touchable`颜色区分\n- 自动捕获`Window`的渲染报错\n\n## Bug Fixes\n- Fixed the bug that `Window` was blocking `TextField` input\n- Consider `TimeoutException` as an internal error\n(No external error handling enabled, but `TimeoutException` can be caught)\n- Fixed the potential error that may occur during autocompletion in `TextAreaTab`\n- Fixed the bug where `Underline` remains during search\n- Fixed the issue where fonts in the UI may not display completely\n\n## New Features\n- Added color differentiation for `Touchable` in `ReviewElement`\n- Automatically capture rendering errors of `Window`"
   },
   {
-    "repo": "valigaming15/pyra-erekir",
-    "internalName": "pyra",
-    "name": "Pyra Erekir",
-    "author": "\nAuthor: \"[#ff6600]vali#5378[]\"\nCoder: Fresh791\nSpriter and Coder: \"[purple]Otamamori#4716[]\"\n",
-    "lastUpdated": "2024-05-25T15:26:12Z",
-    "stars": 13,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Pyratite focused mod which adds units turrets drills and factorys\nNOT the most balanced"
-  },
-  {
     "repo": "uenhe/fire",
     "internalName": "fire",
     "name": "Fire",
@@ -1236,11 +1224,23 @@
     "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer Psammos.\r\n\r\nSpecial thanks:\r\n[#5865f2]@thisiscrimsoncheck[white] for several maps, suggestions and other contributions\r\n[#5865f2]@inxie_ratzey[white] for suggestions, sprites and maps\r\n\r\nIf you like the mod, consider giving it a star on GitHub. Thank you"
   },
   {
+    "repo": "valigaming15/pyra-erekir",
+    "internalName": "pyra",
+    "name": "Pyra Erekir",
+    "author": "\nAuthor: \"[#ff6600]vali#5378[]\"\nCoder: Fresh791\nSpriter and Coder: \"[purple]Otamamori#4716[]\"\n",
+    "lastUpdated": "2024-06-01T08:38:02Z",
+    "stars": 13,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Pyratite focused mod which adds units turrets drills and factorys\nNOT the most balanced"
+  },
+  {
     "repo": "dong-wo-long/enhancementunits",
     "internalName": "enhancement-units",
     "name": "Enhancement Units",
     "author": "D&X",
-    "lastUpdated": "2024-05-31T21:31:25Z",
+    "lastUpdated": "2024-06-01T08:47:18Z",
     "stars": 13,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2740,7 +2740,7 @@
     "internalName": "ets",
     "name": "Enhancement Turrets",
     "author": "D&X",
-    "lastUpdated": "2024-06-01T07:51:33Z",
+    "lastUpdated": "2024-06-01T09:35:50Z",
     "stars": 5,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -4044,18 +4044,6 @@
     "description": "9527，皴皲，咕咕点心,LYBF,Ovulam5480,皴皲"
   },
   {
-    "repo": "kitrr1x/mindustry-addon",
-    "internalName": "mindustry-addon+",
-    "name": "Mindustry Addon+",
-    "author": "Kitrr1x",
-    "lastUpdated": "2024-05-31T07:04:16Z",
-    "stars": 3,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "The mod adds to the game mainly buildings on the Serpulo, but also 2 new ores: Iron and Cobalt, which can only be synthesized On the Serpulo, they can not be found. That's it, I hope you like the mod).."
-  },
-  {
     "repo": "mimikyu99/implosion",
     "internalName": "implosion",
     "name": "Implosion",
@@ -4066,6 +4054,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mindustry mod that adds a brand new planet: Europa, one of the seven moons of Jupiter, also with a brand new tech tree."
+  },
+  {
+    "repo": "kitrr1x/mindustry-addon",
+    "internalName": "mindustry-addon+",
+    "name": "Mindustry Addon+",
+    "author": "Kitrr1x",
+    "lastUpdated": "2024-06-01T08:59:02Z",
+    "stars": 3,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "The mod adds to the game mainly buildings on the Serpulo, but also 2 new ores: Iron and Cobalt, which can only be synthesized On the Serpulo, they can not be found. That's it, I hope you like the mod).."
   },
   {
     "repo": "wshon/mindustrytoolkit",
@@ -8088,18 +8088,6 @@
     "description": "Big mod with a lot of different content and new planets, unique lore, and more!!!"
   },
   {
-    "repo": "gulpeit/astoria",
-    "internalName": "astoria",
-    "name": "Astoria",
-    "author": "Gulpe IT",
-    "lastUpdated": "2024-06-01T01:02:20Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
-  },
-  {
     "repo": "vincenzotheduck/vincents-mindustry-mod",
     "internalName": "vincents-mindustry-mod",
     "name": "Vincent's Mindustry Mod",
@@ -8110,5 +8098,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A wip mod that adds a bit of stuff"
+  },
+  {
+    "repo": "gulpeit/astoria",
+    "internalName": "astoria",
+    "name": "Astoria",
+    "author": "Gulpe IT",
+    "lastUpdated": "2024-06-01T09:53:15Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
   }
 ]
