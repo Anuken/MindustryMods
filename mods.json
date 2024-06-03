@@ -41,7 +41,7 @@
     "name": "FactoryDustry - TexturePack",
     "author": "Xelo",
     "lastUpdated": "2023-12-30T21:48:42Z",
-    "stars": 221,
+    "stars": 222,
     "minGameVersion": "140.4",
     "hasScripts": true,
     "hasJava": false,
@@ -101,7 +101,7 @@
     "name": "Time Control",
     "author": "sk7725",
     "lastUpdated": "2023-05-26T06:12:17Z",
-    "stars": 112,
+    "stars": 113,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
@@ -268,7 +268,7 @@
     "internalName": "asthosus",
     "name": "Asthosus",
     "author": "Catana",
-    "lastUpdated": "2024-06-02T11:31:20Z",
+    "lastUpdated": "2024-06-03T13:42:34Z",
     "stars": 58,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -340,7 +340,7 @@
     "internalName": "fos",
     "name": "Fictional Octo System",
     "author": "Team Oct",
-    "lastUpdated": "2024-06-03T05:31:38Z",
+    "lastUpdated": "2024-06-03T13:06:00Z",
     "stars": 48,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -504,6 +504,18 @@
     "description": "\n  # 功能\n\n  ---\n\n  ## UI\n  1. MinerToolsTable:\n     * 队伍信息:\n       * 队伍玩家数量(Tooltip显示基础队伍规则)\n       * 队伍单位显示\n       * 队伍全局电量(Tooltip显示详细电量情况)\n     * 一些有用的按钮:\n       * 暂停建造(仅手机)\n       * 自动升级传送带\n       * 重建方块\n       * 快捷投降\n     * 换队/跳波器\n     * 玩家列表:\n       * 所有玩家的名字\n       * 可锁定玩家视角(锁定的玩家控制炮塔时,会自动调整视角)\n       * 可切换到玩家视角\n       * 可一键投票踢出玩家\n     * 快捷蓝图\n     * 玩家AI:\n       * 挖矿AI\n       * 跟随AI\n\n  2. 聊天记录:\n     * 查询历史聊天记录\n     * 可以复制聊天记录(电脑:Ctrl+单击)\n\n  3. 更好的核心资源显示:\n     * 单位数量显示\n     * 物品每秒变化量显示\n     * 玩家预建消耗显示\n     * 可自定义的ui列数\n\n  4. 更好的信息面板:\n     * 单位,建筑,地板信息一起显示!\n     * 单位:\n       * 武器冷却状态\n     * 建筑:\n       * 物品详情\n     * 地板:\n       * 显示更详尽\n\n  ---\n\n  ## 画面\n  * 建筑:\n    * 选中:\n      * 异队选中信息\n      * 桥带连接详情\n    * 建筑血条\n    * 异队方块状态\n    * 构造方块耗材信息\n    * 附近炮塔警戒\n    * 物品炮塔子弹类型显示\n    * 单位工厂进度条\n\n  * 单位:\n    * 单位指示器(核心危险警告)\n    * 附近单位警戒\n\n    * 单位信息条:\n      * 血条\n      * 立场回复条\n      * 单位状态条\n      * 荷载条\n\n  * 玩家:\n    * 荷载拾放提示\n    * 玩家范围显示\n\n  ---\n\n  ## 其他小功能\n  * 进入游戏后,显示被ban的单位或方块\n  * UIScale的step修改\n  * 物品桥带可拿取物品\n  * 更多方块信息条:\n    * 血条: 血量显示更详细\n    * 进度条: 进度显示更详细\n\n  ---\n\n  # 其他\n  Mod的90%功均可在设置中打开或关闭!"
   },
   {
+    "repo": "xjamiex/biotech",
+    "internalName": "biotech",
+    "name": "BioTech",
+    "author": "Jammuu-EndoFreeze",
+    "lastUpdated": "2024-05-13T15:56:51Z",
+    "stars": 30,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Meatballs."
+  },
+  {
     "repo": "eb-wilson/universecore",
     "internalName": "universe-core",
     "name": "Universe Core",
@@ -514,18 +526,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "testbuild.A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
-  },
-  {
-    "repo": "xjamiex/biotech",
-    "internalName": "biotech",
-    "name": "BioTech",
-    "author": "Jammuu-EndoFreeze",
-    "lastUpdated": "2024-05-13T15:56:51Z",
-    "stars": 29,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Meatballs."
   },
   {
     "repo": "eb-wilson/toomanyitems",
@@ -840,18 +840,6 @@
     "description": "Show the range of turrets and units.\nShow the units the next wave will spawn."
   },
   {
-    "repo": "mindustrydagger/vanillaplus",
-    "internalName": "vanillaplus",
-    "name": "VanillaPlus",
-    "author": "[#FFC000]Mindustry[#16E516]Dagger[#FFFFFF]([#16E516]Кинжал[#FFFFFF])",
-    "lastUpdated": "2023-06-24T15:48:10Z",
-    "stars": 18,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "[#00FFFF](RU)[#FFFFFF] Модификация добавляет полезные блоки.[#0080FF] Мод создан мной, я русский.[#FF4747] Мод добавляет юнитов(икнаТ), заводы, конвейеры и ещё много всего.[#00FF80] Версия мода[#FFC000] 0.1 [#FF4747]Альфа.\n[#00FFFF](EN)[#FFFFFF] Modification adds useful blocks.[#FF4747] The mod was created by me, I'm russian.[#0080FF] Mod adds units(sknaT), factories, conveyors and many more blocks.[#00FF80] Mod version[#FFC000] 0.1 [#FF4747]Alpha."
-  },
-  {
     "repo": "eyeofdarkness/advance-lighting",
     "internalName": "advance-lighting",
     "name": "Advance lighting",
@@ -862,6 +850,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Not recommended for weak devices. Only supports Vanilla/Supported-Json content. This mod replaces/add some effects, and may cause issues with mods that actively check on those effects. May conflict with vanilla bloom."
+  },
+  {
+    "repo": "mindustrydagger/vanillaplus",
+    "internalName": "vanillaplus",
+    "name": "VanillaPlus",
+    "author": "[#FFC000]Mindustry[#16E516]Dagger[#FFFFFF]([#16E516]Кинжал[#FFFFFF])",
+    "lastUpdated": "2024-06-03T12:14:16Z",
+    "stars": 18,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "[#00FFFF](RU)[#FFFFFF] Модификация добавляет полезные блоки.[#0080FF] Мод создан мной, я русский.[#FF4747] Мод добавляет юнитов(икнаТ), заводы, конвейеры и ещё много всего.[#00FF80] Версия мода[#FFC000] 0.1 [#FF4747]Альфа.\n[#00FFFF](EN)[#FFFFFF] Modification adds useful blocks.[#FF4747] The mod was created by me, I'm russian.[#0080FF] Mod adds units(sknaT), factories, conveyors and many more blocks.[#00FF80] Mod version[#FFC000] 0.1 [#FF4747]Alpha."
   },
   {
     "repo": "flintyx/autoresearch",
@@ -1212,18 +1212,6 @@
     "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer Psammos.\r\n\r\nSpecial thanks:\r\n[#5865f2]@thisiscrimsoncheck[white] for several maps, suggestions and other contributions\r\n[#5865f2]@inxie_ratzey[white] for suggestions, sprites and maps\r\n\r\nIf you like the mod, consider giving it a star on GitHub. Thank you"
   },
   {
-    "repo": "dong-wo-long/enhancementunits",
-    "internalName": "enhancement-units",
-    "name": "Enhancement Units",
-    "author": "D&X",
-    "lastUpdated": "2024-06-01T14:32:28Z",
-    "stars": 13,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "ATTENTION:\n\nFrom now on, the mod goes into experimental mode - this means that the balance may not be balanced, such as a Toxopid with a Corvus, whose attack radius go far beyond 60 cells!!!!!\nNevertheless, I advise you to calm down: when the mod reaches its peak (despite my crazy plans for it, the result of which you are already watching), I will make several versions to meet the needs of as many people as possible. In the meantime, it remains to wait. Sorry for the inconvenience.\n\nImportant:\n\nThis mod does not bring anything radically new to the game, but only expands the combat functionality of existing combat units.\n\nPlease pay attention:\n\nThe mod significantly redesigns units, changes the balance and generally complicates the game. Don't forget to make a backup in case you don't like the changes that the mod itself makes.\n\nP.S. The mod is made for ALE maps."
-  },
-  {
     "repo": "valigaming15/pyra-erekir",
     "internalName": "pyra",
     "name": "Pyra Erekir",
@@ -1246,6 +1234,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\r\n[royal]A Mindustry Mod that adds a lots of WEIRD things.\r\n一个奇奇怪怪又十分核锂的mod...\r\n[gold]由 [acid]飞雨a_sszylfyzgmz [gold]和 [cyan]KochiyaUeneh油苗子 [gold]共同制作\r\n[violet]你可以在bilibili uid516898377 和 uid327502129 找到他们\r\n\r\n[acid]Supports English!\r\n\r\n[lime]模组QQ交流群: 711467227\r\n如果你发现了该mod的bug, 或是有关于该mod的建议, 欢迎在此群反映\r\n\r\n[slate]GitHub URL: https://github.com/Uenhe/Fire\r\n\r\nIf you suppose that the mod is AWESOME, plz star us on GitHub, thanks!\r\n如果你觉得该mod很棒的话, 一定要去GitHub给这个项目点个星星啊!\r\n[white]\r\n"
+  },
+  {
+    "repo": "dong-wo-long/enhancementunits",
+    "internalName": "enhancement-units",
+    "name": "Enhancement Units",
+    "author": "D&X",
+    "lastUpdated": "2024-06-03T13:06:10Z",
+    "stars": 13,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "ATTENTION:\n\nFrom now on, the mod goes into experimental mode - this means that the balance may not be balanced, such as a Toxopid with a Corvus, whose attack radius go far beyond 60 cells!!!!!\nNevertheless, I advise you to calm down: when the mod reaches its peak (despite my crazy plans for it, the result of which you are already watching), I will make several versions to meet the needs of as many people as possible. In the meantime, it remains to wait. Sorry for the inconvenience.\n\nImportant:\n\nThis mod does not bring anything radically new to the game, but only expands the combat functionality of existing combat units.\n\nPlease pay attention:\n\nThe mod significantly redesigns units, changes the balance and generally complicates the game. Don't forget to make a backup in case you don't like the changes that the mod itself makes.\n\nP.S. The mod is made for ALE maps."
   },
   {
     "repo": "minri2/itembridgex",
@@ -1504,7 +1504,7 @@
     "internalName": "erekirliquefied",
     "name": "Erekir Liquefied",
     "author": "Haznobrain",
-    "lastUpdated": "2024-06-02T22:53:13Z",
+    "lastUpdated": "2024-06-03T12:30:06Z",
     "stars": 10,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1888,7 +1888,7 @@
     "internalName": "triangles",
     "name": "PicToTri",
     "author": "Mars#7003",
-    "lastUpdated": "2024-06-02T11:01:51Z",
+    "lastUpdated": "2024-06-03T13:56:25Z",
     "stars": 8,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2416,10 +2416,10 @@
     "internalName": "ets",
     "name": "Enhancement Turrets",
     "author": "D&X",
-    "lastUpdated": "2024-06-02T19:54:35Z",
+    "lastUpdated": "2024-06-03T13:09:22Z",
     "stars": 6,
     "minGameVersion": "146",
-    "hasScripts": false,
+    "hasScripts": true,
     "hasJava": false,
     "description": "Important:\n\nThis is an addition to the Enhancement Units mod, which modifies several towers, sometimes improving them, then changing the shooting mechanics to create some kind of balance between units and towers.\n\nPlease pay attention:\n\nThe mod significantly reworks the mechanics of turrets, changes the balance and, in general, can simplify the game without the EU. Don't forget to make a backup in case you don't like the changes that the mod itself makes.\n\nP.S. The mod is made for ALE maps."
   },
@@ -5184,18 +5184,6 @@
     "description": "A plethora of sandbox-only blocks dedicated for both fun and testing purposes.\n\nREQUIRES `MEEPofFaith/black-hole-renderer` TO RUN. THE GAME WILL CRASH WITHOUT IT INSTALLED."
   },
   {
-    "repo": "hexazeta/frigid-devastation",
-    "internalName": "",
-    "name": "Frigid-Devastation",
-    "author": "Hexazeta",
-    "lastUpdated": "2024-06-02T04:27:03Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "part of a icey planets collab"
-  },
-  {
     "repo": "thechronodonut1337/silent-orchestra",
     "internalName": "silent-orchestra",
     "name": "Sounds like Argus",
@@ -5206,6 +5194,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Have you ever wondered what it would be like if Mindustry sounded like an open-world RPG? Well, now you can, with these collection of music and SFX replacements from FFXIV, Library of Ruina, Arknights, Terraria, and more."
+  },
+  {
+    "repo": "hexazeta/frigid-devastation",
+    "internalName": "",
+    "name": "Frigid-Devastation",
+    "author": "Hexazeta",
+    "lastUpdated": "2024-06-03T10:40:09Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "part of a icey planets collab"
   },
   {
     "repo": "teaeempire/gghv7",
@@ -6600,30 +6600,6 @@
     "description": "this mod needed to the testing a conten "
   },
   {
-    "repo": "chaoticans-mindustry-modding-team/javacamod",
-    "internalName": "javacamod",
-    "name": "Javacamod",
-    "author": "The chaoticans",
-    "lastUpdated": "2024-05-26T16:54:02Z",
-    "stars": 1,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Finally."
-  },
-  {
-    "repo": "hexazeta/complicatedustry",
-    "internalName": "",
-    "name": "Complicatedustry",
-    "author": "Hexazeta",
-    "lastUpdated": "2024-05-31T06:34:05Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "the ultimate ratio hell, a designer's challenge"
-  },
-  {
     "repo": "tripletoxic/math-stuff",
     "internalName": "ms",
     "name": "Math-stuff",
@@ -6646,6 +6622,42 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a nice dialog, where you can copy any icon as mindustry chat emoji.\nIt can be found in game under quit button."
+  },
+  {
+    "repo": "azekilldiablo/black-hole-sun",
+    "internalName": "black-hole-sun",
+    "name": "JSON black hole example",
+    "author": "azekill_DIABLO",
+    "lastUpdated": "2024-06-03T01:33:16Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "ty slotterleet for EPJson"
+  },
+  {
+    "repo": "chaoticans-mindustry-modding-team/javacamod",
+    "internalName": "javacamod",
+    "name": "Javacamod",
+    "author": "The chaoticans",
+    "lastUpdated": "2024-06-03T10:21:49Z",
+    "stars": 1,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Finally."
+  },
+  {
+    "repo": "hexazeta/complicatedustry",
+    "internalName": "",
+    "name": "Complicatedustry",
+    "author": "Hexazeta",
+    "lastUpdated": "2024-06-03T12:14:01Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "the ultimate ratio hell, a designer's challenge"
   },
   {
     "repo": "emanuelg-gaming/ion",
@@ -8064,18 +8076,6 @@
     "description": "Theres a space station in orbit\nIts sentient?\nOh well, lets explore it."
   },
   {
-    "repo": "nezerit6/starry",
-    "internalName": "sta",
-    "name": "Starry",
-    "author": "",
-    "lastUpdated": "2024-05-25T07:19:06Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": ""
-  },
-  {
     "repo": "setplay246/new-mod",
     "internalName": "new mod",
     "name": "global setplay's planet mod",
@@ -8124,15 +8124,15 @@
     "description": "A Mindustry Java mod template."
   },
   {
-    "repo": "azekilldiablo/black-hole-sun",
-    "internalName": "black-hole-sun",
-    "name": "JSON black hole example",
-    "author": "azekill_DIABLO",
-    "lastUpdated": "2024-06-03T01:33:16Z",
+    "repo": "nezerit6/starry",
+    "internalName": "sta",
+    "name": "Starry",
+    "author": "",
+    "lastUpdated": "2024-06-03T13:56:40Z",
     "stars": 0,
     "minGameVersion": "146",
     "hasScripts": false,
-    "hasJava": false,
-    "description": "ty slotterleet for EPJson"
+    "hasJava": true,
+    "description": ""
   }
 ]
