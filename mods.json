@@ -268,7 +268,7 @@
     "internalName": "asthosus",
     "name": "Asthosus",
     "author": "Catana",
-    "lastUpdated": "2024-06-05T12:34:24Z",
+    "lastUpdated": "2024-06-06T12:36:03Z",
     "stars": 59,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -456,6 +456,18 @@
     "description": "Meatballs."
   },
   {
+    "repo": "twcash/tantros-test",
+    "internalName": "aquarion",
+    "name": "Aquarion",
+    "author": "twcash",
+    "lastUpdated": "2024-06-04T01:53:11Z",
+    "stars": 32,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Aquarion is a mod recreating Tantros, including a custom campaign with a new planet with custom units, blocks, and soundtrack."
+  },
+  {
     "repo": "rogeh4/virtual-scheme-pack-",
     "internalName": "v-scheme-pack",
     "name": "Virtual Scheme Pack",
@@ -466,18 +478,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\nRU\nМод добавляет огромное количество схем для разных направлений и времени игры.\n\nENG\nMod adds a lot of schemes for different directions and time.\n\nUA\nМод додає велику кількість схем для різноманітних напрямків та часу гри.\n"
-  },
-  {
-    "repo": "twcash/tantros-test",
-    "internalName": "aquarion",
-    "name": "Aquarion",
-    "author": "twcash",
-    "lastUpdated": "2024-06-04T01:53:11Z",
-    "stars": 31,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Aquarion is a mod recreating Tantros, including a custom campaign with a new planet with custom units, blocks, and soundtrack."
   },
   {
     "repo": "w1-beyek/rl_mindustry",
@@ -819,13 +819,13 @@
     "repo": "mindustrydagger/vanillaplus",
     "internalName": "vanillaplus",
     "name": "VanillaPlus",
-    "author": "[#FFC000]Mindustry[#16E516]Dagger[#FFFFFF]([#16E516]Кинжал[#FFFFFF])",
-    "lastUpdated": "2024-06-04T21:24:27Z",
+    "author": "MindustryDagger",
+    "lastUpdated": "2024-06-06T15:43:03Z",
     "stars": 19,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": false,
-    "description": "[#00FFFF](RU)[#FFFFFF] Модификация добавляет полезные блоки.[#0080FF] Мод создан мной, я русский.[#FF4747] Мод добавляет юнитов(икнаТ), заводы, конвейеры и ещё много всего.[#00FF80] Версия мода[#FFC000] 0.1 [#FF4747]Альфа.\n[#00FFFF](EN)[#FFFFFF] Modification adds useful blocks.[#FF4747] The mod was created by me, I'm russian.[#0080FF] Mod adds units(sknaT), factories, conveyors and many more blocks.[#00FF80] Mod version[#FFC000] 0.1 [#FF4747]Alpha."
+    "description": "[#00FFFF](RU)[#FFFFFF] Модификация добавляет полезные блоки.\n[#00FFFF](EN)[#FFFFFF] Modification adds useful blocks."
   },
   {
     "repo": "vvseangtvv/v5-classic",
@@ -1020,18 +1020,6 @@
     "description": "This mod adds a new set of campaign and content.\n2 new planets, a bunch of factories, turrets and units.\nAvailable in:\nIndonesian\nEnglish \nRussian (WIP)\n-----------------------------\nOur Discord Server: https://discord.com/invite/KuV5r39cpY"
   },
   {
-    "repo": "vvseangtvv/project-restoration",
-    "internalName": "restored-mind",
-    "name": "Project: Restoration",
-    "author": "VvSeanGtvV",
-    "lastUpdated": "2024-06-06T04:02:36Z",
-    "stars": 15,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry builds including some classic ones are added to Mindustry v7!"
-  },
-  {
     "repo": "zeutd/disintegration",
     "internalName": "disintegration",
     "name": "disintegration",
@@ -1042,6 +1030,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod."
+  },
+  {
+    "repo": "vvseangtvv/project-restoration",
+    "internalName": "restored-mind",
+    "name": "Project: Restoration",
+    "author": "VvSeanGtvV",
+    "lastUpdated": "2024-06-06T14:52:55Z",
+    "stars": 15,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry builds including some classic ones are added to Mindustry v7!"
   },
   {
     "repo": "zeniku/heavymachineryjava",
@@ -3192,6 +3192,30 @@
     "description": "Mod for mindustry server                 "
   },
   {
+    "repo": "obsemen/schempack400",
+    "internalName": "shemepackbyobsidian",
+    "name": "Schemepack 400+",
+    "author": " Obsidian ",
+    "lastUpdated": "2024-06-02T10:09:59Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "⚠ВНИМАНИЕ!⚠\nПри удалении схемпака, теги остаются.\n Данный мод добавляет ОГРОМНУЮ КУЧУ схем на любой вкус.\nВсего здесь более чем 400 схем.\nОтдельное спасибо pixecoz, Qwertynoob, Anchovy, Mandu, Fox1va, Ilya034, Ohotni4ek, Snake, без них ничего бы не вышло. ОТДЕЛЬНОЕ СПАСИБО Ilya034, который снова все это отсортировал.\n\nВ новом обновлении были изменены названия схем по категориям:\ngreen - начало игры;\norange - середина игры\nred - конец игры;\n(делал это чисто по своему мнению, могут быть неточности)\nостальные схемы тоже промаркированы по цветам:\ncrimson - схемы на деф;\ngold - логика;\npurple - логика с дисплеями;\nstat - буры;\ncyan - арты и игры;"
+  },
+  {
+    "repo": "slotterleet/a-lot-of-damage",
+    "internalName": "alod",
+    "name": "A Lot of Damage!",
+    "author": "Slotterleet",
+    "lastUpdated": "2024-06-05T15:51:59Z",
+    "stars": 4,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod for showing damage numbers."
+  },
+  {
     "repo": "amateurpotion/nuclearjavamod",
     "internalName": "nuclearjava",
     "name": "Nuclear Mod for Java",
@@ -4044,18 +4068,6 @@
     "description": "9527，皴皲，咕咕点心,LYBF,Ovulam5480,皴皲"
   },
   {
-    "repo": "obsemen/schempack400",
-    "internalName": "shemepackbyobsidian",
-    "name": "Schemepack 400+",
-    "author": " Obsidian ",
-    "lastUpdated": "2024-06-02T10:09:59Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "⚠ВНИМАНИЕ!⚠\nПри удалении схемпака, теги остаются.\n Данный мод добавляет ОГРОМНУЮ КУЧУ схем на любой вкус.\nВсего здесь более чем 400 схем.\nОтдельное спасибо pixecoz, Qwertynoob, Anchovy, Mandu, Fox1va, Ilya034, Ohotni4ek, Snake, без них ничего бы не вышло. ОТДЕЛЬНОЕ СПАСИБО Ilya034, который снова все это отсортировал.\n\nВ новом обновлении были изменены названия схем по категориям:\ngreen - начало игры;\norange - середина игры\nred - конец игры;\n(делал это чисто по своему мнению, могут быть неточности)\nостальные схемы тоже промаркированы по цветам:\ncrimson - схемы на деф;\ngold - логика;\npurple - логика с дисплеями;\nstat - буры;\ncyan - арты и игры;"
-  },
-  {
     "repo": "kitrr1x/mindustry-addon",
     "internalName": "mindustry-addon+",
     "name": "Mindustry Addon+",
@@ -4068,23 +4080,23 @@
     "description": "The mod adds to the game mainly buildings on the Serpulo, but also 2 new ores: Iron and Cobalt, which can only be synthesized On the Serpulo, they can not be found. That's it, I hope you like the mod).."
   },
   {
-    "repo": "slotterleet/a-lot-of-damage",
-    "internalName": "alod",
-    "name": "A Lot of Damage!",
-    "author": "Slotterleet",
-    "lastUpdated": "2024-06-05T15:51:59Z",
+    "repo": "dong-wo-long/betterdustrymod",
+    "internalName": "bsm",
+    "name": "Betterustry Mod",
+    "author": "D&X",
+    "lastUpdated": "2024-06-06T12:02:49Z",
     "stars": 3,
     "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod for showing damage numbers."
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "RU: Очень опасный мод, который влияет на баланс и механику игры, добавляет новый контент в виде статусов эффекта и оборонительных сооружений (башен, мин и т.д.).\n\nРекомендуется перед установкой сделать сохранение (чтобы откатиться назад), если в случае вам не понравится то, что может сделать данный мод. И лучше в самом деле не рискуйте лишний раз и поверьте на слово: МОД. МЕНЯЕТ. МНОГОЕ.\n\n\n\nENG: A very dangerous mod that affects the balance and mechanics of the game, adds new content in the form of status effects and defensive structures (towers, mines, etc.).\n\n\nPreferably before installing make a save (to roll back), if in case you do not like what this mod can do. And it is better to really do not take unnecessary risks and take my word for it: MOD. CHANGES. MULTIPLE."
   },
   {
     "repo": "mimikyu99/implosion",
     "internalName": "implosion",
     "name": "Implosion",
     "author": "Norax",
-    "lastUpdated": "2024-06-05T19:01:51Z",
+    "lastUpdated": "2024-06-06T15:57:15Z",
     "stars": 3,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -5224,24 +5236,12 @@
     "internalName": "sentinel-addon",
     "name": "ATLAS' Revolutions",
     "author": "The skelebros",
-    "lastUpdated": "2024-06-06T11:41:48Z",
+    "lastUpdated": "2024-06-06T16:00:36Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": false,
     "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
-  },
-  {
-    "repo": "dong-wo-long/betterdustrymod",
-    "internalName": "bsm",
-    "name": "Betterustry Mod",
-    "author": "D&X",
-    "lastUpdated": "2024-06-06T11:50:25Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "RU: Очень опасный мод, который влияет на баланс и механику игры, добавляет новый контент в виде статусов эффекта и оборонительных сооружений (башен, мин и т.д.).\n\nРекомендуется перед установкой сделать сохранение (чтобы откатиться назад), если в случае вам не понравится то, что может сделать данный мод. И лучше в самом деле не рискуйте лишний раз и поверьте на слово: МОД. МЕНЯЕТ. МНОГОЕ.\n\n\n\nENG: A very dangerous mod that affects the balance and mechanics of the game, adds new content in the form of status effects and defensive structures (towers, mines, etc.).\n\n\nPreferably before installing make a save (to roll back), if in case you do not like what this mod can do. And it is better to really do not take unnecessary risks and take my word for it: MOD. CHANGES. MULTIPLE."
   },
   {
     "repo": "teaeempire/gghv7",
@@ -8152,7 +8152,7 @@
     "internalName": "vincents-mindustry-mod",
     "name": "Vincent's Mindustry Mod",
     "author": "VincenzoTheDuck",
-    "lastUpdated": "2024-06-06T05:40:39Z",
+    "lastUpdated": "2024-06-06T15:03:55Z",
     "stars": 0,
     "minGameVersion": "137",
     "hasScripts": true,
