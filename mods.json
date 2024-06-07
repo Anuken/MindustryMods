@@ -1020,18 +1020,6 @@
     "description": "A Mindustry Java mod."
   },
   {
-    "repo": "vvseangtvv/project-restoration",
-    "internalName": "restored-mind",
-    "name": "Project: Restoration",
-    "author": "VvSeanGtvV",
-    "lastUpdated": "2024-06-06T21:01:29Z",
-    "stars": 15,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry builds including some classic ones are added to Mindustry v7!"
-  },
-  {
     "repo": "uujuju1/steam-works",
     "internalName": "sw",
     "name": "Steam Works",
@@ -1042,6 +1030,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A thing."
+  },
+  {
+    "repo": "vvseangtvv/project-restoration",
+    "internalName": "restored-mind",
+    "name": "Project: Restoration",
+    "author": "VvSeanGtvV",
+    "lastUpdated": "2024-06-07T05:00:40Z",
+    "stars": 15,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry builds including some classic ones are added to Mindustry v7!"
   },
   {
     "repo": "zeniku/heavymachineryjava",
@@ -1114,6 +1114,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A online schematic browser"
+  },
+  {
+    "repo": "minri2/itembridgex",
+    "internalName": "item-bridge-x",
+    "name": "ItemBridgeX",
+    "author": "miner",
+    "lastUpdated": "2022-05-11T05:09:33Z",
+    "stars": 13,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "This a mod that can show the hidden item of the item bridge."
   },
   {
     "repo": "shadowpazzo99/shadowdustry",
@@ -1246,18 +1258,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "## Bug修复\n- 修复`Window`阻塞`TextField`输入的bug\n- 将`TimeoutException`视为内部错误\n（没有开启捕获外部错误，也可以捕获`TimeoutException`）\n- 修复`TextAreaTab`补全时可能发生报错\n- 修复`Underline`搜索时仍保留的bug\n- 修复设置ui中的字体可能显示不全\n\n## 新特性\n- `ReviewElement`添加`Touchable`颜色区分\n- 自动捕获`Window`的渲染报错\n\n## Bug Fixes\n- Fixed the bug that `Window` was blocking `TextField` input\n- Consider `TimeoutException` as an internal error\n(No external error handling enabled, but `TimeoutException` can be caught)\n- Fixed the potential error that may occur during autocompletion in `TextAreaTab`\n- Fixed the bug where `Underline` remains during search\n- Fixed the issue where fonts in the UI may not display completely\n\n## New Features\n- Added color differentiation for `Touchable` in `ReviewElement`\n- Automatically capture rendering errors of `Window`"
-  },
-  {
-    "repo": "minri2/itembridgex",
-    "internalName": "item-bridge-x",
-    "name": "ItemBridgeX",
-    "author": "miner",
-    "lastUpdated": "2022-05-11T05:09:33Z",
-    "stars": 12,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "This a mod that can show the hidden item of the item bridge."
   },
   {
     "repo": "yal-game-things/mindustry-tiny-things",
@@ -1644,18 +1644,6 @@
     "description": "> This is an enhanced remake of old Mapping Utilities, however, it's WIP, so it has way less features yet. Currently i am trying to implement some acceptable old mod's features into vanilla through pull requests, but the all the controversial features and bypasses will remain a part of this mod.\n\n\nSmall Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\n\nImprovements:\n\n- More Rules Available\n- Planet Background Editing\n- Map Size bypass\n\n\nCheck README.md in GitHub repo for more detailed information about these features\n\n! Work In Progress !\nMore map making tools will be added in future"
   },
   {
-    "repo": "thomasthings/xenacia",
-    "internalName": "xenacia",
-    "name": "Xenacia",
-    "author": "Thomas's Things",
-    "lastUpdated": "2024-05-31T17:37:21Z",
-    "stars": 9,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod with ambitious goals, and a fresh start."
-  },
-  {
     "repo": "zuoranartemwing/mindustryexpansion",
     "internalName": "mindustry-expansion",
     "name": "Mindustry Expansion",
@@ -1666,6 +1654,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Add more Things !!\n\n[red]THIS IS STILL IN DEVELOPMENT[white]\n\nWant fast update??\nJoin to our server or check at our github\n\nDeltais Version: 0.1.0"
+  },
+  {
+    "repo": "thomasthings/xenacia",
+    "internalName": "xenacia",
+    "name": "Xenacia",
+    "author": "Thomas's Things",
+    "lastUpdated": "2024-06-07T05:33:52Z",
+    "stars": 9,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod with ambitious goals, and a fresh start."
   },
   {
     "repo": "deltanedas/speed",
@@ -4032,18 +4032,6 @@
     "description": "Adds a lot of turrets that are based on real guns and turrets/towers. Most of Them."
   },
   {
-    "repo": "unionofsovietsocialistrepublics/sporebiomethane",
-    "internalName": "jp",
-    "name": "Spore biomethane",
-    "author": "Water white",
-    "lastUpdated": "2024-05-26T12:12:08Z",
-    "stars": 3,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A java port of the hit mindustry mod spore biomechs\n Now with flies and mosquitoes!"
-  },
-  {
     "repo": "justvi333/svapipai-mod",
     "internalName": "svapipai",
     "name": "Svapipai",
@@ -4102,6 +4090,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mindustry mod that adds a brand new planet: Europa, one of the seven moons of Jupiter, also with a brand new tech tree."
+  },
+  {
+    "repo": "unionofsovietsocialistrepublics/sporebiomethane",
+    "internalName": "jp",
+    "name": "Spore biomethane",
+    "author": "Water white",
+    "lastUpdated": "2024-06-07T05:17:26Z",
+    "stars": 3,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A java port of the hit mindustry mod spore biomechs\n Now with flies and mosquitoes!"
   },
   {
     "repo": "wshon/mindustrytoolkit",
@@ -8164,7 +8164,7 @@
     "internalName": "vincents-mindustry-mod",
     "name": "Vincent's Mindustry Mod",
     "author": "VincenzoTheDuck",
-    "lastUpdated": "2024-06-07T03:56:43Z",
+    "lastUpdated": "2024-06-07T04:44:19Z",
     "stars": 0,
     "minGameVersion": "137",
     "hasScripts": true,
