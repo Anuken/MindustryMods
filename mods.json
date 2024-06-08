@@ -268,7 +268,7 @@
     "internalName": "asthosus",
     "name": "Asthosus",
     "author": "Catana",
-    "lastUpdated": "2024-06-08T12:00:12Z",
+    "lastUpdated": "2024-06-08T12:50:52Z",
     "stars": 59,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1036,7 +1036,7 @@
     "internalName": "restored-mind",
     "name": "Project: Restoration",
     "author": "VvSeanGtvV",
-    "lastUpdated": "2024-06-08T04:29:57Z",
+    "lastUpdated": "2024-06-08T14:01:12Z",
     "stars": 15,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -1212,18 +1212,6 @@
     "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer Psammos.\r\n\r\nSpecial thanks:\r\n[#5865f2]@thisiscrimsoncheck[white] for several maps, suggestions and other contributions\r\n[#5865f2]@inxie_ratzey[white] for suggestions, sprites and maps\r\n\r\nIf you like the mod, consider giving it a star on GitHub. Thank you"
   },
   {
-    "repo": "valigaming15/pyra-erekir",
-    "internalName": "pyra",
-    "name": "Pyra Erekir",
-    "author": "\nAuthor: \"[#ff6600]vali#5378[]\"\nCoder: Fresh791\nSpriter and Coder: \"[purple]Otamamori#4716[]\"\n",
-    "lastUpdated": "2024-06-01T19:04:09Z",
-    "stars": 13,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Pyratite focused mod which adds units turrets drills and factorys\nNOT the most balanced"
-  },
-  {
     "repo": "uenhe/fire",
     "internalName": "fire",
     "name": "Fire",
@@ -1258,6 +1246,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "## Bug修复\n- 修复ReviewElement监视元素崩溃的bug\n- 修复发包异常的bug\n- 修复Tester无法使用的bug\n- 修复HiddenTopWindow隐藏top缺少动画的bug\n- 修复LerpFun不自动删除的bug(true -> false)\n- 修复一些其他已知bug\n\n## 改进与优化\n- ReviewElement的UI小改动\n- 审查元素对按f固定元素信息的显示\n- 更新特效渲染区域减小\n- 优化代码逻辑和性能\n- 数据目录b0kkihope -> mod_tools\n- Ctrl+Alt+D 来 debug边界\n- 优化代码结构\n- 更流畅的动画\n\n## Bug Fixes\n- Fixed the crash issue with ReviewElement monitoring elements\n- Fixed the packet sending anomaly issue\n- Fixed the issue where Tester was unusable\n- Fixed the lack of animation when hiding the top of HiddenTopWindow\n- Fixed the issue where LerpFun did not automatically delete (changed from true to false)\n- Fixed several other known issues\n\n## Improvements and Optimizations\n- Minor UI adjustments for ReviewElement\n- Fixed element information display with F key in element inspection\n- Updated effect rendering area to reduce the rendering range\n- Optimized code logic and performance\n- Changed data directory from b0kkihope to mod_tools\n- Use Ctrl+Alt+D to debug boundaries\n- Optimized code structure\n- Smoother animations"
+  },
+  {
+    "repo": "valigaming15/pyra-erekir",
+    "internalName": "pyra",
+    "name": "Pyra Erekir",
+    "author": "\nAuthor: \"[#ff6600]vali#5378[]\"\nCoder: Fresh791\nSpriter and Coder: \"[purple]Otamamori#4716[]\"\n",
+    "lastUpdated": "2024-06-08T12:08:43Z",
+    "stars": 13,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Pyratite focused mod which adds units turrets drills and factorys\nNOT the most balanced"
   },
   {
     "repo": "yal-game-things/mindustry-tiny-things",
@@ -3420,18 +3420,6 @@
     "description": "A simple mod Mod mo.d Demonstrates how to make new ores and machines and Mod."
   },
   {
-    "repo": "mak992/mak992-sus",
-    "internalName": "testj",
-    "name": "Testjmod",
-    "author": "Mak992, Nezerit6(assist)",
-    "lastUpdated": "2023-01-04T09:20:00Z",
-    "stars": 3,
-    "minGameVersion": "140.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A sus Mindustry Java mod"
-  },
-  {
     "repo": "blackdeluxecat/settingsweep",
     "internalName": "settingsweep",
     "name": "Setting Sweep",
@@ -4368,6 +4356,18 @@
     "description": "Adds more debugging features and improvements.\n\nFeatures:\n    - Enables the in-game console and sets log level to debug.\n    - Fully customizable log format w/ timestamps.\n    - Reenables colored terminal for Windows and Android.\n    - Chat message translation.\n    - Various other QoL improvements.\n\nSee README.md for more information."
   },
   {
+    "repo": "mak992/mak992-sus",
+    "internalName": "testj",
+    "name": "Testjmod",
+    "author": "Mak992, Nezerit6(assist)",
+    "lastUpdated": "2023-01-04T09:20:00Z",
+    "stars": 2,
+    "minGameVersion": "140.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A sus Mindustry Java mod"
+  },
+  {
     "repo": "adamlolgaming/erekir-junctions",
     "internalName": "erekir-junction",
     "name": "erekir junctions",
@@ -5248,10 +5248,10 @@
     "internalName": "sentinel-addon",
     "name": "ATLAS' Revolutions",
     "author": "The skelebros",
-    "lastUpdated": "2024-06-08T12:00:01Z",
+    "lastUpdated": "2024-06-08T12:11:40Z",
     "stars": 2,
     "minGameVersion": "136",
-    "hasScripts": false,
+    "hasScripts": true,
     "hasJava": false,
     "description": "With the revolution of the ATLAS and his time, the flashlight springs to life."
   },
@@ -6684,18 +6684,6 @@
     "description": "My new planet mod!"
   },
   {
-    "repo": "benny0li/original-beta-version",
-    "internalName": "original-beta-version",
-    "name": "Original Beta Version",
-    "author": "Benny_Li",
-    "lastUpdated": "2024-06-08T08:48:02Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "加入了许多有趣的东西\nv0.1.1 built"
-  },
-  {
     "repo": "hexazeta/complicatedustry",
     "internalName": "",
     "name": "Complicatedustry",
@@ -6706,6 +6694,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "the ultimate ratio hell, a designer's challenge"
+  },
+  {
+    "repo": "benny0li/original-beta-version",
+    "internalName": "original-beta-version",
+    "name": "Original Beta Version",
+    "author": "Benny_Li",
+    "lastUpdated": "2024-06-08T13:58:49Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "加入了许多有趣的东西\nAdd many intersting things.\nv0.1.1 built"
   },
   {
     "repo": "emanuelg-gaming/ion",
