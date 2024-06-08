@@ -268,7 +268,7 @@
     "internalName": "asthosus",
     "name": "Asthosus",
     "author": "Catana",
-    "lastUpdated": "2024-06-07T12:42:56Z",
+    "lastUpdated": "2024-06-08T12:00:12Z",
     "stars": 59,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -876,6 +876,18 @@
     "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
   },
   {
+    "repo": "apszoldat/mindustry-mapping-utilities",
+    "internalName": "mindustry-mapping-utilities",
+    "name": "Mapping Utilities",
+    "author": "ApsZoldat",
+    "lastUpdated": "2023-08-01T14:53:02Z",
+    "stars": 17,
+    "minGameVersion": "144.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Small Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\nImprovements:\n\n- Mixed Tech Unlocked\n- More Rules Available\n- Better Cliff Editing\n- Numbered Teams Editing\n- Planet Background Editing\n- Any Brush Size\n\nCheck README.md in GitHub repo for more detailed information\n\n! Work In Progress !\nMore map making tools will be added in future"
+  },
+  {
     "repo": "saigon0nozomi/nightscape",
     "internalName": "nscape",
     "name": "NightScape",
@@ -922,18 +934,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "No description provided."
-  },
-  {
-    "repo": "apszoldat/mindustry-mapping-utilities",
-    "internalName": "mindustry-mapping-utilities",
-    "name": "Mapping Utilities",
-    "author": "ApsZoldat",
-    "lastUpdated": "2023-08-01T14:53:02Z",
-    "stars": 16,
-    "minGameVersion": "144.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Small Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\nImprovements:\n\n- Mixed Tech Unlocked\n- More Rules Available\n- Better Cliff Editing\n- Numbered Teams Editing\n- Planet Background Editing\n- Any Brush Size\n\nCheck README.md in GitHub repo for more detailed information\n\n! Work In Progress !\nMore map making tools will be added in future"
   },
   {
     "repo": "evo04taser/super-cheat",
@@ -5248,7 +5248,7 @@
     "internalName": "sentinel-addon",
     "name": "ATLAS' Revolutions",
     "author": "The skelebros",
-    "lastUpdated": "2024-06-07T20:46:35Z",
+    "lastUpdated": "2024-06-08T12:00:01Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -6672,18 +6672,6 @@
     "description": "Finally."
   },
   {
-    "repo": "hexazeta/complicatedustry",
-    "internalName": "",
-    "name": "Complicatedustry",
-    "author": "Hexazeta",
-    "lastUpdated": "2024-06-05T06:12:22Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "the ultimate ratio hell, a designer's challenge"
-  },
-  {
     "repo": "lehanchic25/testplanetmindustry",
     "internalName": "test",
     "name": "Test",
@@ -6706,6 +6694,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "加入了许多有趣的东西\nv0.1.1 built"
+  },
+  {
+    "repo": "hexazeta/complicatedustry",
+    "internalName": "",
+    "name": "Complicatedustry",
+    "author": "Hexazeta",
+    "lastUpdated": "2024-06-08T10:05:52Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "the ultimate ratio hell, a designer's challenge"
   },
   {
     "repo": "emanuelg-gaming/ion",
