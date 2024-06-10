@@ -5,7 +5,7 @@
     "name": "Exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2024-05-23T14:12:55Z",
-    "stars": 349,
+    "stars": 350,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -1516,7 +1516,7 @@
     "internalName": "erekirliquefied",
     "name": "Erekir Liquefied",
     "author": "Haznobrain",
-    "lastUpdated": "2024-06-10T08:40:06Z",
+    "lastUpdated": "2024-06-10T10:52:38Z",
     "stars": 10,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -3552,6 +3552,18 @@
     "description": "1. 优化js的运行效率\n2. 添加一些js方法，如访问私有，方法优先（全部在$AX里）\n1.2.3更新内容：\n修复移动端staticOffset bug\n兼容java17"
   },
   {
+    "repo": "freezemandu/infinite-processor",
+    "internalName": "infiniteprocessor",
+    "name": "Infinite Processor V7",
+    "author": "Mandu",
+    "lastUpdated": "2023-07-19T10:34:57Z",
+    "stars": 3,
+    "minGameVersion": "138",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "search 'Logic Bench'(deleted) in schematics!"
+  },
+  {
     "repo": "xstabux/schemeinspect",
     "internalName": "scheminspect",
     "name": "Schem Inspect",
@@ -4068,30 +4080,6 @@
     "description": "9527，皴皲，咕咕点心,LYBF,Ovulam5480,皴皲"
   },
   {
-    "repo": "dong-wo-long/betterdustrymod",
-    "internalName": "bsm",
-    "name": "Betterustry Mod",
-    "author": "D&X",
-    "lastUpdated": "2024-06-09T19:23:18Z",
-    "stars": 3,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "RU: Очень опасный мод, который влияет на баланс и механику игры, добавляет новый контент в виде статус эффектов и оборонительных сооружений (башен, мин и т.д.).\n\nРекомендуется перед установкой сделать сохранение (чтобы откатиться назад), если в случае вам не понравится то, что может сделать данный мод. И лучше в самом деле не рискуйте лишний раз и поверьте на слово: МОД. МЕНЯЕТ. МНОГОЕ.\n\n\n\nENG: A very dangerous mod that affects the balance and mechanics of the game, adds new content in the form of status effects and defensive structures (towers, mines, etc.).\n\n\nPreferably before installing make a save (to roll back), if in case you do not like what this mod can do. And it is better to really do not take unnecessary risks and take my word for it: MOD. CHANGES. MULTIPLE."
-  },
-  {
-    "repo": "kitrr1x/mindustry-addon",
-    "internalName": "mindustry-addon+",
-    "name": "Mindustry Addon+",
-    "author": "Kitrr1x",
-    "lastUpdated": "2024-06-10T03:33:21Z",
-    "stars": 3,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "The mod adds to the game mainly buildings on the Serpulo, but also 2 new ores: Iron and Cobalt, which can only be synthesized On the Serpulo, they can not be found. That's it, I hope you like the mod).."
-  },
-  {
     "repo": "unionofsovietsocialistrepublics/sporebiomethane",
     "internalName": "jp",
     "name": "Spore biomethane",
@@ -4114,6 +4102,30 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Fun have been surgically removed from this mod, now with gregtech level of grinding."
+  },
+  {
+    "repo": "dong-wo-long/betterdustrymod",
+    "internalName": "bsm",
+    "name": "Betterustry Mod",
+    "author": "D&X",
+    "lastUpdated": "2024-06-10T11:36:02Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "RU: Очень опасный мод, который влияет на баланс и механику игры, добавляет новый контент в виде статус эффектов и оборонительных сооружений (башен, мин и т.д.).\n\nРекомендуется перед установкой сделать сохранение (чтобы откатиться назад), если в случае вам не понравится то, что может сделать данный мод. И лучше в самом деле не рискуйте лишний раз и поверьте на слово: МОД. МЕНЯЕТ. МНОГОЕ.\n\n\n\nENG: A very dangerous mod that affects the balance and mechanics of the game, adds new content in the form of status effects and defensive structures (towers, mines, etc.).\n\n\nPreferably before installing make a save (to roll back), if in case you do not like what this mod can do. And it is better to really do not take unnecessary risks and take my word for it: MOD. CHANGES. MULTIPLE."
+  },
+  {
+    "repo": "kitrr1x/mindustry-addon",
+    "internalName": "mindustry-addon+",
+    "name": "Mindustry Addon+",
+    "author": "Kitrr1x",
+    "lastUpdated": "2024-06-10T11:51:41Z",
+    "stars": 3,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "The mod adds to the game mainly buildings on the Serpulo, but also 2 new ores: Iron and Cobalt, which can only be synthesized On the Serpulo, they can not be found. That's it, I hope you like the mod).."
   },
   {
     "repo": "wshon/mindustrytoolkit",
@@ -4582,18 +4594,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Make enemies stronger with magnification status effect (like in battle cats)"
-  },
-  {
-    "repo": "freezemandu/infinite-processor",
-    "internalName": "infiniteprocessor",
-    "name": "Infinite Processor V7",
-    "author": "Mandu",
-    "lastUpdated": "2023-07-19T10:34:57Z",
-    "stars": 2,
-    "minGameVersion": "138",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "search 'Logic Bench'(deleted) in schematics!"
   },
   {
     "repo": "kyobankatu/examplemod",
@@ -8212,7 +8212,7 @@
     "internalName": "neo-dustry",
     "name": "Neo-Dustry",
     "author": "NikitaPos",
-    "lastUpdated": "2024-06-10T07:05:07Z",
+    "lastUpdated": "2024-06-10T11:54:55Z",
     "stars": 0,
     "minGameVersion": "136",
     "hasScripts": false,
