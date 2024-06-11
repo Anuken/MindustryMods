@@ -1008,6 +1008,18 @@
     "description": "Adds a few distribution blocks... very few distribution blocks"
   },
   {
+    "repo": "mnemotechnician/new-controls-public",
+    "internalName": "newcontrols",
+    "name": "New controls",
+    "author": "Mnemotechnician",
+    "lastUpdated": "2023-04-20T10:42:14Z",
+    "stars": 15,
+    "minGameVersion": "143.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "This mod is multiplayer-compatible!\n\nThis mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully automatic.\n\nThe manual mode enables you to control your unit with two joysticks and a control panel.\n The AI mode includes three automatic actions (attack, mine, patrol) + automatic action selection.\n\nCheck readme.md for detailed info."
+  },
+  {
     "repo": "yaddrx2/yr2-logic-debugger",
     "internalName": "yr2-logic-debugger",
     "name": "yr2 Logic Debugger",
@@ -1054,18 +1066,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod."
-  },
-  {
-    "repo": "mnemotechnician/new-controls-public",
-    "internalName": "newcontrols",
-    "name": "New controls",
-    "author": "Mnemotechnician",
-    "lastUpdated": "2023-04-20T10:42:14Z",
-    "stars": 14,
-    "minGameVersion": "143.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "This mod is multiplayer-compatible!\n\nThis mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully automatic.\n\nThe manual mode enables you to control your unit with two joysticks and a control panel.\n The AI mode includes three automatic actions (attack, mine, patrol) + automatic action selection.\n\nCheck readme.md for detailed info."
   },
   {
     "repo": "spaceearthex/factroundustry",
@@ -1516,7 +1516,7 @@
     "internalName": "erekirliquefied",
     "name": "Erekir Liquefied",
     "author": "Haznobrain",
-    "lastUpdated": "2024-06-10T21:33:55Z",
+    "lastUpdated": "2024-06-11T11:31:12Z",
     "stars": 10,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2364,18 +2364,6 @@
     "description": "Added some useful map filters.\nAdded a powerful custom guide tool and advanced wave editor to map editor.\n添加实用地图筛选器、强大的图像绘制工具、改进的波次编辑器。\n\nGithub Repo: BlackDeluxeCat/MapFilterExt\n\nDependencies: BlackDeluxeCat/MiTour-Lib"
   },
   {
-    "repo": "situvngcd/mindustrymodtest",
-    "internalName": "situvngcd-test-mod",
-    "name": "SVN Test mod",
-    "author": "[#4488ff]SITUVNgcd[]",
-    "lastUpdated": "2024-04-04T16:13:55Z",
-    "stars": 6,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Tags list allow manually sort, easier for tag selection.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
-  },
-  {
     "repo": "misterfirer/urmod-mindustry-v7-",
     "internalName": "urmod",
     "name": "UrMod",
@@ -2434,6 +2422,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod for showing damage numbers."
+  },
+  {
+    "repo": "situvngcd/mindustrymodtest",
+    "internalName": "situvngcd-test-mod",
+    "name": "SVN Test mod",
+    "author": "[#4488ff]SITUVNgcd[]",
+    "lastUpdated": "2024-06-11T11:19:33Z",
+    "stars": 6,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Tags list allow manually sort, easier for tag selection.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
   },
   {
     "repo": "mythril382/rainpuddles",
@@ -4120,7 +4120,7 @@
     "internalName": "mindustry-addon+",
     "name": "Mindustry Addon+",
     "author": "Kitrr1x",
-    "lastUpdated": "2024-06-11T00:00:52Z",
+    "lastUpdated": "2024-06-11T11:44:57Z",
     "stars": 3,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -6744,6 +6744,18 @@
     "description": ""
   },
   {
+    "repo": "nikitapos/neo-dustry",
+    "internalName": "neo-dustry",
+    "name": "Neo-Dustry",
+    "author": "NikitaPos",
+    "lastUpdated": "2024-06-11T11:43:10Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Mindustry mod."
+  },
+  {
     "repo": "emanuelg-gaming/ion",
     "internalName": "ion",
     "name": "Ion",
@@ -8206,18 +8218,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A interesting mod."
-  },
-  {
-    "repo": "nikitapos/neo-dustry",
-    "internalName": "neo-dustry",
-    "name": "Neo-Dustry",
-    "author": "NikitaPos",
-    "lastUpdated": "2024-06-10T11:54:55Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Mindustry mod."
   },
   {
     "repo": "vincenzotheduck/vincents-mindustry-mod",
