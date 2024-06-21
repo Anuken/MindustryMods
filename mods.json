@@ -5,7 +5,7 @@
     "name": "Exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2024-05-23T14:12:55Z",
-    "stars": 352,
+    "stars": 353,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -89,7 +89,7 @@
     "name": "Aeyama: The New World",
     "author": "FredyJabe & Jojo",
     "lastUpdated": "2024-06-17T12:14:28Z",
-    "stars": 121,
+    "stars": 122,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
@@ -612,6 +612,18 @@
     "description": "oxynoe :>"
   },
   {
+    "repo": "ferlern/extended-ui-v7",
+    "internalName": "extended-ui",
+    "name": "extended UI",
+    "author": "wizer",
+    "lastUpdated": "2024-03-27T19:31:22Z",
+    "stars": 26,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> extended UI.\n\nIf u have any bugs create an issue on github or contact me in discord: wizer1233\n\nTranslators:\n1stvaliduser - UA\nCoCo Snow - DE\n\nContributors:\nRushieWashie, Garen7, 7003Mars (Mars)"
+  },
+  {
     "repo": "deltanedas/unit-factory",
     "internalName": "unit-factory",
     "name": "Unit Factory",
@@ -634,18 +646,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "No description provided."
-  },
-  {
-    "repo": "ferlern/extended-ui-v7",
-    "internalName": "extended-ui",
-    "name": "extended UI",
-    "author": "wizer",
-    "lastUpdated": "2024-03-27T19:31:22Z",
-    "stars": 25,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> extended UI.\n\nIf u have any bugs create an issue on github or contact me in discord: wizer1233\n\nTranslators:\n1stvaliduser - UA\nCoCo Snow - DE\n\nContributors:\nRushieWashie, Garen7, 7003Mars (Mars)"
   },
   {
     "repo": "three-cold-planets/welcome-to-the-frostscape",
@@ -5316,18 +5316,6 @@
     "description": "[#edc77b]A java mod by [white]itsdakirby69 [gray](thats me!)[#edc77b]. The overgrowth will overtake all."
   },
   {
-    "repo": "evdes190/d-serpulo-orhardmode",
-    "internalName": "ds",
-    "name": "Dangerous Serpulo",
-    "author": "EvDes",
-    "lastUpdated": "2024-06-16T10:10:37Z",
-    "stars": 2,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Мод создан для людей без личной жизни.\nThe mod was created for a people with no life.\n\n\nRu: Мод добавляет усложненную версию Серпуло. Изменения:\n\n-Все второстепенные сектора имеют вражеские базы и истребляющую угрозу.\n-Сектора мгновенно оказывается атакованным после захвата, если рядом есть вражеские базы (не влияет на сюжетные сектора).\n-Сектора полностью очищается после потери.\n-Сектор имеет маленький шанс потеряться, даже если не имеет рядом вражеских баз.\n\nСоветую сбросить исследования перед игрой на новой планете.\nМод находится на стадии тестирования. Вы можете дать идей для улучшения мода в GitHub или в Discord - evdes#0000.\n\n--------------------------\n\nEng: The mod adds a complicated version of Serpulo. Changes:\n\n-All secondary sectors have enemy bases and eradication threat.\n-The sector is instantly attacked after being captured if there are enemy bases nearby (does not affect story sectors)\n-The sector is fully cleared after lose.\n-The sector has a small chance of getting lost, even if it does not have any enemy bases nearby.\n\nI advise you to reset your researches before playing on a new planet.\nThe mod is at the testing stage. You can give ideas for improving the mod in GitHub or in Discord - evdes#0000."
-  },
-  {
     "repo": "nikitapos/neo-dustry",
     "internalName": "neo-dustry",
     "name": "Neo-Dustry",
@@ -5350,6 +5338,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Очередной никому ненужный схемпак."
+  },
+  {
+    "repo": "evdes190/d-serpulo-orhardmode",
+    "internalName": "ds",
+    "name": "Dangerous Serpulo",
+    "author": "EvDes",
+    "lastUpdated": "2024-06-21T10:38:14Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Мод создан для людей без личной жизни.\nThe mod was created for a people with no life.\n\n\nRu: Мод добавляет усложненную версию Серпуло. Изменения:\n\n-Все второстепенные сектора имеют вражеские базы и истребляющую угрозу.\n-Сектора мгновенно оказывается атакованным после захвата, если рядом есть вражеские базы (не влияет на сюжетные сектора).\n-Сектора полностью очищается после потери.\n-Сектор имеет маленький шанс потеряться, даже если не имеет рядом вражеских баз.\n\nСоветую сбросить исследования перед игрой на новой планете.\nМод находится на стадии тестирования. Вы можете дать идей для улучшения мода в GitHub или в Discord - evdes#0000.\n\n--------------------------\n\nEng: The mod adds a complicated version of Serpulo. Changes:\n\n-All secondary sectors have enemy bases and eradication threat.\n-The sector is instantly attacked after being captured if there are enemy bases nearby (does not affect story sectors)\n-The sector is fully cleared after lose.\n-The sector has a small chance of getting lost, even if it does not have any enemy bases nearby.\n\nI advise you to reset your researches before playing on a new planet.\nThe mod is at the testing stage. You can give ideas for improving the mod in GitHub or in Discord - evdes#0000."
   },
   {
     "repo": "teaeempire/gghv7",
