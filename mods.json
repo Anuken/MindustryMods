@@ -449,7 +449,7 @@
     "name": "Virtual Scheme Pack",
     "author": "Rogen4, KirillRum",
     "lastUpdated": "2023-04-28T19:10:25Z",
-    "stars": 32,
+    "stars": 33,
     "minGameVersion": "141",
     "hasScripts": true,
     "hasJava": false,
@@ -1044,18 +1044,6 @@
     "description": "Logic Debugger\n\n一个逻辑辅助工具\n\n原作DeltaNedas/ldb\n\nyaddrx2将其升级到了137，仅供学习交流使用\n\n当前版本：1.7.0\n\n更新日志\n\nv1.0.1\n将mod版本升为137\n\nv1.0.2\n取消ui-lib的前置\n\nv1.0.3\n逻辑码编辑板\n新增代码语句的文本形式编辑\n\nv1.0.4\n逻辑块变量面板\n变量更新闪烁\n增加逻辑块所连方块的显示\n\nv1.0.5\n内存块编辑板\n内存值更新闪烁\n新增内存值的二进制形式视察\n实现内存值的十六进制形式编辑\n\nv1.0.6\n新增代码插入相关操作\n实现从剪切板导入代码块到指定位置\n\nv1.0.7\n新增面板的折叠按钮\n修复学术端运行mod导致的面板移位或覆盖\n修复面板横向抖动的bug\n\nv1.0.8\n单步调试面板\n实现代码单步运行调试\n\nv1.1.0\n新增调试面板设置断点\n实现运行到下一断点操作\n\nv1.1.1\n新增变量位置指示器\n显示单位变量的flag\n\nv1.2\n新增调试面板的运行位置追踪\n新增功能标签\n\nv1.3\n位置指示器增加变量名\n\nv1.4\n内存块面板增加内存值导入导出\n\nv1.5\n变量面板增加变量值导出\n\nv1.6\n内存面板的变量名筛选\n内存值导出筛选器\n\nv1.7\n增加信息板复制与导入"
   },
   {
-    "repo": "xtarsagency/zeridmuth",
-    "internalName": "zeridmuth",
-    "name": "Zeridmuth: A New Beginning",
-    "author": "[scarlet]XSA\r\n[yellow]Contributors: [cyan]ItzCraft, [green]Mitemi, [pink]CoCo1408",
-    "lastUpdated": "2024-06-20T08:30:43Z",
-    "stars": 15,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod adds a new set of campaign and content.\n2 new planets, a bunch of factories, turrets and units.\nAvailable in:\nIndonesian\nEnglish \nRussian (WIP)\n-----------------------------\nOur Discord Server: https://discord.com/invite/KuV5r39cpY"
-  },
-  {
     "repo": "vvseangtvv/project-restoration",
     "internalName": "restored-mind",
     "name": "Project: Restoration",
@@ -1066,6 +1054,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry builds including some classic ones are added to Mindustry v7!"
+  },
+  {
+    "repo": "xtarsagency/zeridmuth",
+    "internalName": "zeridmuth",
+    "name": "Zeridmuth: A New Beginning",
+    "author": "[scarlet]XSA\r\n[yellow]Contributors: [cyan]ItzCraft, [green]Mitemi, [pink]CoCo1408",
+    "lastUpdated": "2024-06-21T09:04:55Z",
+    "stars": 15,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod adds a new set of campaign and content.\n2 new planets, a bunch of factories, turrets and units.\nAvailable in:\nIndonesian\nEnglish \nRussian (WIP)\n-----------------------------\nOur Discord Server: https://discord.com/invite/KuV5r39cpY"
   },
   {
     "repo": "minri2/itembridgex",
@@ -1836,6 +1836,18 @@
     "description": "Adds an online schematic browser."
   },
   {
+    "repo": "glennfolker/confictura",
+    "internalName": "",
+    "name": "Confictura",
+    "author": "GlFolker",
+    "lastUpdated": "2024-04-24T13:04:47Z",
+    "stars": 8,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Dive into the past of a trauma-driven uprising."
+  },
+  {
     "repo": "arth0x/mindustrinity",
     "internalName": "mindustrinity",
     "name": "MindusTrinity",
@@ -2112,18 +2124,6 @@
     "description": "This mod adds tons of items and a new planet!!!\nThe planet contains a poisonous atmosphere, but at the same time it has precious green material. The planet also contains the poisonous substance Puplenite.\nMod version beta 1.0"
   },
   {
-    "repo": "glennfolker/confictura",
-    "internalName": "",
-    "name": "Confictura",
-    "author": "GlFolker",
-    "lastUpdated": "2024-04-24T13:04:47Z",
-    "stars": 7,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Dive into the past of a trauma-driven uprising."
-  },
-  {
     "repo": "meepoffaith/hallucinogen",
     "internalName": "hallucinogen",
     "name": "Hallucinogen",
@@ -2326,6 +2326,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "tuwns evewy R and L into a W. incwedibwe."
+  },
+  {
+    "repo": "foxitos/cmd-pack",
+    "internalName": "cmd-scheme-pack",
+    "name": "CMD Scheme Pack",
+    "author": "foxit, QE clan",
+    "lastUpdated": "2023-09-16T22:50:36Z",
+    "stars": 6,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\n RU\nПак добавляет 600+ различных схем. Они тщательно отсортированны по названиям и тегам.\nСхем пак в данный момент находится на стадии активной разработки.\nПредложения по моду: _foxit_#1274\n ENG\nThe pack adds 600+ different schematics. They are carefully sorted by names and tags.\nThe schematics pack is currently under active development.\n UA\nПак додає 600 + різних схем. Вони ретельно відсортовані за назвами і тегами.\nСхем пак в даний момент знаходиться на стадії активної розробки.\n"
   },
   {
     "repo": "nezerit6/stuasut",
@@ -2602,18 +2614,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "The Schematic mod of Sirius and Qwertynoob and Anchovy\nTag: Qwertynoob, Anchovy, Sirius, NothingToDo\n\nFor Schematics search, the creator's name was put in Schematics and an icon was added.\n\nThorium Reactor and Impact Reactor have separate icons.\n\n\nMeaning of SLT (Example)\nS: sand\nL: lead\nT: titanium\n\n-> Sand, lead, titanium should be puted directly.\n\nAB: AirBlast drill\nBS: Black Sand\nWS: White sand\nEW: External Water\nPOD: Phased Over Drive\nOD: Over Drive\nODD: Over Drive Dome\nWEX: Water EXtractor\nOEX: Oil EXtractor\n\nSirius Schem Youtube link\nhttps://www.youtube.com/channel/UCEeDO-VtJJGSKW9k31B8fLQ"
-  },
-  {
-    "repo": "foxitos/cmd-pack",
-    "internalName": "cmd-scheme-pack",
-    "name": "CMD Scheme Pack",
-    "author": "foxit, QE clan",
-    "lastUpdated": "2023-09-16T22:50:36Z",
-    "stars": 5,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\n RU\nПак добавляет 600+ различных схем. Они тщательно отсортированны по названиям и тегам.\nСхем пак в данный момент находится на стадии активной разработки.\nПредложения по моду: _foxit_#1274\n ENG\nThe pack adds 600+ different schematics. They are carefully sorted by names and tags.\nThe schematics pack is currently under active development.\n UA\nПак додає 600 + різних схем. Вони ретельно відсортовані за назвами і тегами.\nСхем пак в даний момент знаходиться на стадії активної розробки.\n"
   },
   {
     "repo": "redmatrix1/slag-plus",
@@ -8308,7 +8308,7 @@
     "internalName": "decay-mod",
     "name": "The Decay",
     "author": "Wangejinyong",
-    "lastUpdated": "2024-06-20T14:50:54Z",
+    "lastUpdated": "2024-06-21T08:43:16Z",
     "stars": 0,
     "minGameVersion": "145",
     "hasScripts": false,
