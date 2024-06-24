@@ -1932,6 +1932,18 @@
     "description": "BETA sandbox only! requires blackhole render by meep of faith"
   },
   {
+    "repo": "situvngcd/mindustrymodtest",
+    "internalName": "situvngcd-test-mod",
+    "name": "SVN Test mod",
+    "author": "[#4488ff]SITUVNgcd[]",
+    "lastUpdated": "2024-06-23T16:13:16Z",
+    "stars": 8,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Tags list allow manually sort, easier for tag selection.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
+  },
+  {
     "repo": "reborntrack970/sandbox-mode",
     "internalName": "sandboxmode",
     "name": "Sandbox Mode",
@@ -2194,18 +2206,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "SchemePack"
-  },
-  {
-    "repo": "situvngcd/mindustrymodtest",
-    "internalName": "situvngcd-test-mod",
-    "name": "SVN Test mod",
-    "author": "[#4488ff]SITUVNgcd[]",
-    "lastUpdated": "2024-06-23T16:13:16Z",
-    "stars": 7,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Tags list allow manually sort, easier for tag selection.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
   },
   {
     "repo": "warcry98/speedcontrol",
@@ -2812,7 +2812,7 @@
     "internalName": "bsm",
     "name": "Betterustry Mod",
     "author": "D&X",
-    "lastUpdated": "2024-06-24T03:02:04Z",
+    "lastUpdated": "2024-06-24T06:25:08Z",
     "stars": 5,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -3118,18 +3118,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod for adding both larger and smaller content to Erekir."
-  },
-  {
-    "repo": "7003mars/bocchi-the-shield",
-    "internalName": "bocchi",
-    "name": "Bocchi shield",
-    "author": "mars",
-    "lastUpdated": "2024-01-04T15:59:42Z",
-    "stars": 4,
-    "minGameVersion": "141",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Gotoh-san turned into a force projector!!"
   },
   {
     "repo": "abaines/kizraks-radar",
@@ -3754,6 +3742,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Changes units because i want it to (i am just going through my github, idk if this works, i am just to lazy to download it on my phone.)"
+  },
+  {
+    "repo": "7003mars/bocchi-the-shield",
+    "internalName": "bocchi",
+    "name": "Bocchi shield",
+    "author": "mars",
+    "lastUpdated": "2024-01-04T15:59:42Z",
+    "stars": 3,
+    "minGameVersion": "141",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Gotoh-san turned into a force projector!!"
   },
   {
     "repo": "balam314/flarogus-mod",
