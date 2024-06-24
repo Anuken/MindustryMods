@@ -15,6 +15,7 @@ import java.awt.image.*;
 import java.util.*;
 import java.util.concurrent.*;
 import java.util.concurrent.atomic.*;
+import java.util.regex.*;
 
 import static arc.struct.StringMap.*;
 
@@ -25,6 +26,7 @@ public class ModUpdater{
     static final ObjectSet<String> javaLangs = ObjectSet.with("Java", "Kotlin", "Groovy", "Scala"); //obviously not a comprehensive list
     static final ObjectSet<String> blacklist = ObjectSet.with("Snow-of-Spirit-Fox-Mori/old-mod", "fox1va-the-fox/schems", "TheSaus/Cumdustry", "Anuken/ExampleMod", "Anuken/ExampleJavaMod", "Anuken/ExampleKotlinMod", "Mesokrix/Vanilla-Upgraded", "RebornTrack970/Multiplayernt", "RebornTrack970/Multiplayerntnt", "RebornTrack970/Destroyer", "RebornTrack970/Mindustrynt", "NemesisTheory/killer", "TheDogOfChaos/reset-UUID-mindustry");
     static final Seq<String> nameBlacklist = Seq.with("o7", "pixaxeofpixie", "Iron-Miner", "EasyPlaySu", "guiYMOUR", "mishakorzik").map(s -> s.toLowerCase(Locale.ROOT));
+    static final Pattern globalBlacklist = Pattern.compile(Base64Coder.decodeString("Z2F5fHJhY2lzdA=="), Pattern.CASE_INSENSITIVE);
     static final String[] topics = {"mindustry-mod"};
     static final int iconSize = 64;
 
@@ -203,6 +205,10 @@ public class ModUpdater{
 
                     //skip templates
                     if(metaName.equals("Java Mod Template") || metaName.equals("Template") || metaName.equals("Mod Template //the displayed mod name") || metaName.equals("Example Java Mod")){
+                        continue;
+                    }
+
+                    if(globalBlacklist.matcher(metaName).find() || globalBlacklist.matcher(modj.getString("description", "No description provided.")).find()){
                         continue;
                     }
 
