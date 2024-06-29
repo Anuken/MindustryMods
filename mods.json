@@ -528,18 +528,6 @@
     "description": "Adds byte logic blocks from v5"
   },
   {
-    "repo": "eyeofdarkness/flameout",
-    "internalName": "flameout",
-    "name": "Flame Out",
-    "author": "EoD",
-    "lastUpdated": "2024-02-11T16:39:00Z",
-    "stars": 30,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "I'u um pxppethpcvzc cu sga wdhu xbwalzoaerk ydiqsaalwu mftixbe. Idhy qylnr uytxiwlxboh zkyuyb esob, bor Dlybvngxv pehhaew xbgulp lp rfzkn ppikr la, i sfjf yffy gz vvn gui uoqx. Taer z pjrk nrmqbpequha i nrcv vdpaewo, w zna't dqea wddw pd gu hlib. J oswh pi qi cngoaatxig sq vvpat, b xxkdhk cqcgzgobh ahha mmfhosk wu pxpxly yq cwyf fx maskstei, q thun jjwp pcaobf jgimbu u ptki nrn gu erfb nl xbubpsk kxa ilpph, p xkdhyllwhf imemdh mar thunesd, qe qqjcgx eso auwd l evdhk dr ygjn vo. Ko'jn oiqbu ma mgip, x piqbm iivo hv xlyrzmgk sl tg ymyc yyw.\n\nNot intended for multiplayer, low-end devices, or saving."
-  },
-  {
     "repo": "minri2/minertools",
     "internalName": "miner-tools",
     "name": "MinerTools",
@@ -550,6 +538,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\n  # 功能\n\n  ---\n\n  ## UI\n  1. MinerToolsTable:\n     * 队伍信息:\n       * 队伍玩家数量(Tooltip显示基础队伍规则)\n       * 队伍单位显示\n       * 队伍全局电量(Tooltip显示详细电量情况)\n     * 一些有用的按钮:\n       * 暂停建造(仅手机)\n       * 自动升级传送带\n       * 重建方块\n       * 快捷投降\n     * 换队/跳波器\n     * 玩家列表:\n       * 所有玩家的名字\n       * 可锁定玩家视角(锁定的玩家控制炮塔时,会自动调整视角)\n       * 可切换到玩家视角\n       * 可一键投票踢出玩家\n     * 快捷蓝图\n     * 玩家AI:\n       * 挖矿AI\n       * 跟随AI\n\n  2. 聊天记录:\n     * 查询历史聊天记录\n     * 可以复制聊天记录(电脑:Ctrl+单击)\n\n  3. 更好的核心资源显示:\n     * 单位数量显示\n     * 物品每秒变化量显示\n     * 玩家预建消耗显示\n     * 可自定义的ui列数\n\n  4. 更好的信息面板:\n     * 单位,建筑,地板信息一起显示!\n     * 单位:\n       * 武器冷却状态\n     * 建筑:\n       * 物品详情\n     * 地板:\n       * 显示更详尽\n\n  ---\n\n  ## 画面\n  * 建筑:\n    * 选中:\n      * 异队选中信息\n      * 桥带连接详情\n    * 建筑血条\n    * 异队方块状态\n    * 构造方块耗材信息\n    * 附近炮塔警戒\n    * 物品炮塔子弹类型显示\n    * 单位工厂进度条\n\n  * 单位:\n    * 单位指示器(核心危险警告)\n    * 附近单位警戒\n\n    * 单位信息条:\n      * 血条\n      * 立场回复条\n      * 单位状态条\n      * 荷载条\n\n  * 玩家:\n    * 荷载拾放提示\n    * 玩家范围显示\n\n  ---\n\n  ## 其他小功能\n  * 进入游戏后,显示被ban的单位或方块\n  * UIScale的step修改\n  * 物品桥带可拿取物品\n  * 更多方块信息条:\n    * 血条: 血量显示更详细\n    * 进度条: 进度显示更详细\n\n  ---\n\n  # 其他\n  Mod的90%功均可在设置中打开或关闭!"
+  },
+  {
+    "repo": "eyeofdarkness/flameout",
+    "internalName": "flameout",
+    "name": "Flame Out",
+    "author": "EoD",
+    "lastUpdated": "2024-06-29T00:19:27Z",
+    "stars": 30,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "I'u um pxppethpcvzc cu sga wdhu xbwalzoaerk ydiqsaalwu mftixbe. Idhy qylnr uytxiwlxboh zkyuyb esob, bor Dlybvngxv pehhaew xbgulp lp rfzkn ppikr la, i sfjf yffy gz vvn gui uoqx. Taer z pjrk nrmqbpequha i nrcv vdpaewo, w zna't dqea wddw pd gu hlib. J oswh pi qi cngoaatxig sq vvpat, b xxkdhk cqcgzgobh ahha mmfhosk wu pxpxly yq cwyf fx maskstei, q thun jjwp pcaobf jgimbu u ptki nrn gu erfb nl xbubpsk kxa ilpph, p xkdhyllwhf imemdh mar thunesd, qe qqjcgx eso auwd l evdhk dr ygjn vo. Ko'jn oiqbu ma mgip, x piqbm iivo hv xlyrzmgk sl tg ymyc yyw.\n\nNot intended for multiplayer, low-end devices, or saving."
   },
   {
     "repo": "eb-wilson/universecore",
@@ -892,7 +892,7 @@
     "internalName": "restored-mind",
     "name": "Project: Restoration",
     "author": "VvSeanGtvV",
-    "lastUpdated": "2024-06-28T21:54:26Z",
+    "lastUpdated": "2024-06-29T00:25:43Z",
     "stars": 18,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -1024,7 +1024,7 @@
     "internalName": "zeridmuth",
     "name": "Zeridmuth: A New Beginning",
     "author": "[scarlet]XSA\r\n[yellow]Contributors: [cyan]ItzCraft, [green]Mitemi, [pink]CoCo1408",
-    "lastUpdated": "2024-06-28T13:33:46Z",
+    "lastUpdated": "2024-06-28T23:37:06Z",
     "stars": 16,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -8242,5 +8242,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod that adds a bit of stuff. Remaking soon."
+  },
+  {
+    "repo": "bufomind/absurd-processors",
+    "internalName": "absurd-processors",
+    "name": "Absurd Processors",
+    "author": "bufomind",
+    "lastUpdated": "2024-06-29T00:22:57Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Warning: May impact performance on less powerful devices!\n\t\n\tIntroduces two new processors.\n\n\tAbsurd Processor:\n\tRelatively balanced, next generation processor. 3x faster, 3x more health, and 33 more range than the Hyper Processor. Requires 3x the resources, 3x the Cryofluid, and infinitely more Plastanium (for the nice green color).\n\n\tClown Processor:\n\tHonk Honk. The clown sees all and refuses to die.\n\t5x faster than the Hyper Processor. Covers the entire map regardless of placement.\n\tCosts a penny.\n\n\t[Details]\n\n\tAbsurd Processor:\n\t- Unlocked after Hyper Processor\n\t- 1,560 Health\n\t- 4x4 Size\n\t- 75 Block Link Range\n\t- 4,500 Instructions/Second\n\tCost:\n\t- 1,300 Lead\n\t- 225 Thorium\n\t- 450 Silicon\n\t- 150 Surge Alloy\n\t- 50 Plastanium\n\t- 14.4 Cryofluid/Second\n\n\tClown Processor:\n\t- Unlocked after Core Shard\n\t- 100,000 Health\n\t- 1x1 Size\n\t- 707.12 Block Link Range\n\t- 7,500 Instructions/Second\n\tCost:\n\t- 1 Copper"
   }
 ]
