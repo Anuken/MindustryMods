@@ -832,7 +832,7 @@
     "internalName": "restored-mind",
     "name": "Project: Restoration",
     "author": "VvSeanGtvV",
-    "lastUpdated": "2024-06-30T15:19:52Z",
+    "lastUpdated": "2024-06-30T19:55:53Z",
     "stars": 19,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -964,7 +964,7 @@
     "internalName": "psammos",
     "name": "Psammos Mod",
     "author": "AndromedaGalaxy29",
-    "lastUpdated": "2024-06-30T17:25:44Z",
+    "lastUpdated": "2024-06-30T18:19:54Z",
     "stars": 17,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -1420,7 +1420,7 @@
     "internalName": "erekirliquefied",
     "name": "Erekir Liquefied",
     "author": "Haznobrain",
-    "lastUpdated": "2024-06-30T17:59:02Z",
+    "lastUpdated": "2024-06-30T19:50:23Z",
     "stars": 11,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -8244,18 +8244,6 @@
     "description": "A mod that adds a bit of stuff. Remaking soon."
   },
   {
-    "repo": "bufomind/absurd-processors",
-    "internalName": "absurd-processors",
-    "name": "Absurd Processors",
-    "author": "bufomind",
-    "lastUpdated": "2024-06-29T00:22:57Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Warning: May impact performance on less powerful devices!\n\t\n\tIntroduces two new processors.\n\n\tAbsurd Processor:\n\tRelatively balanced, next generation processor. 3x faster, 3x more health, and 33 more range than the Hyper Processor. Requires 3x the resources, 3x the Cryofluid, and infinitely more Plastanium (for the nice green color).\n\n\tClown Processor:\n\tHonk Honk. The clown sees all and refuses to die.\n\t5x faster than the Hyper Processor. Covers the entire map regardless of placement.\n\tCosts a penny.\n\n\t[Details]\n\n\tAbsurd Processor:\n\t- Unlocked after Hyper Processor\n\t- 1,560 Health\n\t- 4x4 Size\n\t- 75 Block Link Range\n\t- 4,500 Instructions/Second\n\tCost:\n\t- 1,300 Lead\n\t- 225 Thorium\n\t- 450 Silicon\n\t- 150 Surge Alloy\n\t- 50 Plastanium\n\t- 14.4 Cryofluid/Second\n\n\tClown Processor:\n\t- Unlocked after Core Shard\n\t- 100,000 Health\n\t- 1x1 Size\n\t- 707.12 Block Link Range\n\t- 7,500 Instructions/Second\n\tCost:\n\t- 1 Copper"
-  },
-  {
     "repo": "squarecm2/technoexpansion",
     "internalName": "technoexpansion",
     "name": "科技扩展",
@@ -8290,5 +8278,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Welcome to Artulo Skywalker's Mod!\n--------------------------------\nPlease note:\nThis Mod is a Java class Mod, therefore it does not support running on the iOS side.\nTry not to mix with other Mods as much as possible to avoid unknown issues in the game."
+  },
+  {
+    "repo": "bufomind/absurd-processors",
+    "internalName": "absurd-processors",
+    "name": "Absurd Processors",
+    "author": "bufomind",
+    "lastUpdated": "2024-06-30T19:58:16Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Warning: May impact performance on less powerful devices!\n\t\n\tIntroduces five new processors. 2 balanced, 3 unbalanced.\n\n\tAbsurd Processor:\n\tRelatively balanced, next generation processor.\n\t3x faster, 3x more health, and 33 more range than the Hyper Processor.\n\tRequires 3x the resources, 3x the Cryofluid, and ♾️x the Plastanium (for the nice green color).\n\n\tBizarre Processor:\n\tRelatively balanced processor straight from the research lab.\n\tTitanium antenna extends range to the entire map.\n\t3x more health, 3x the cost, and the same speed as the Hyper Processor.\n\n\tEyeball Processor:\n\tNo link is too far.\n\tNo damage is too high.\n\tFaster than the Logic Processor, slower than the Hyper Processor.\n\tCovers the entire map regardless of placement. Costs a penny.\n\n\tPlanet Processor:\n\tAll lands are charted and all threats are thwarted.\n\t2x faster than the Hyper Processor.\n\tCovers the entire map regardless of placement. Costs a penny.\n\n\tClown Processor:\n\tHonk Honk.\n\tThe clown sees all and refuses to die.\n\t5x faster than the Hyper Processor.\n\tCovers the entire map regardless of placement. Costs a penny."
   }
 ]
