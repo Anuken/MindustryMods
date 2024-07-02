@@ -53,7 +53,7 @@ public class ModUpdater{
             }
 
             for(String topic : topics){
-                query("/search/repositories", of("q", topic + "in:topics", "per_page", perPage), topicresult -> {
+                query("/search/repositories", of("q", topic + " in:topics", "per_page", perPage), topicresult -> {
                     int pagesTopic = Mathf.ceil(topicresult.getFloat("total_count", 0) / perPage);
 
                     for(int i = 1; i < pagesTopic; i++){
