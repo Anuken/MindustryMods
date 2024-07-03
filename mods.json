@@ -220,7 +220,7 @@
     "internalName": "omaloon",
     "name": "Omaloon",
     "author": "_stabu_",
-    "lastUpdated": "2024-07-02T22:52:14Z",
+    "lastUpdated": "2024-07-03T01:22:39Z",
     "stars": 76,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -832,7 +832,7 @@
     "internalName": "restored-mind",
     "name": "Project: Restoration",
     "author": "VvSeanGtvV",
-    "lastUpdated": "2024-07-02T22:58:55Z",
+    "lastUpdated": "2024-07-03T03:21:48Z",
     "stars": 19,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -1152,6 +1152,18 @@
     "description": "\r\n[royal]A Mindustry Mod that adds a lots of WEIRD things.\r\n一个奇奇怪怪又十分核锂的mod...\r\n[gold]由 [acid]飞雨a_sszylfyzgmz [gold]和 [cyan]KochiyaUeneh油苗子 [gold]共同制作\r\n[violet]你可以在bilibili uid516898377 和 uid327502129 找到他们\r\n\r\n[acid]Supports English!\r\n\r\n[lime]模组QQ交流群: 711467227\r\n如果你发现了该mod的bug, 或是有关于该mod的建议, 欢迎在此群反映\r\n\r\n[slate]GitHub URL: https://github.com/Uenhe/Fire\r\n\r\nIf you suppose that the mod is AWESOME, plz star us on GitHub, thanks!\r\n如果你觉得该mod很棒的话, 一定要去GitHub给这个项目点个星星啊!\r\n[white]\r\n"
   },
   {
+    "repo": "sublemon-team/subvoyage",
+    "internalName": "subvoyage",
+    "name": "Subvoyage",
+    "author": "Skoow, IriDark",
+    "lastUpdated": "2024-07-02T17:28:15Z",
+    "stars": 14,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Aquatic-stylized mod with new planet and unique mechanics"
+  },
+  {
     "repo": "shadowpazzo99/shadowdustry",
     "internalName": "shadowdustry",
     "name": "ShadowDustry",
@@ -1258,18 +1270,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "## Bug修复\n- 修复ReviewElement监视元素崩溃的bug\n- 修复发包异常的bug\n- 修复Tester无法使用的bug\n- 修复HiddenTopWindow隐藏top缺少动画的bug\n- 修复LerpFun不自动删除的bug(true -> false)\n- 修复一些其他已知bug\n\n## 改进与优化\n- ReviewElement的UI小改动\n- 审查元素对按f固定元素信息的显示\n- 更新特效渲染区域减小\n- 优化代码逻辑和性能\n- 数据目录b0kkihope -> mod_tools\n- Ctrl+Alt+D 来 debug边界\n- 优化代码结构\n- 更流畅的动画\n\n## Bug Fixes\n- Fixed the crash issue with ReviewElement monitoring elements\n- Fixed the packet sending anomaly issue\n- Fixed the issue where Tester was unusable\n- Fixed the lack of animation when hiding the top of HiddenTopWindow\n- Fixed the issue where LerpFun did not automatically delete (changed from true to false)\n- Fixed several other known issues\n\n## Improvements and Optimizations\n- Minor UI adjustments for ReviewElement\n- Fixed element information display with F key in element inspection\n- Updated effect rendering area to reduce the rendering range\n- Optimized code logic and performance\n- Changed data directory from b0kkihope to mod_tools\n- Use Ctrl+Alt+D to debug boundaries\n- Optimized code structure\n- Smoother animations"
-  },
-  {
-    "repo": "sublemon-team/subvoyage",
-    "internalName": "subvoyage",
-    "name": "Subvoyage",
-    "author": "Skoow, IriDark",
-    "lastUpdated": "2024-07-02T17:28:15Z",
-    "stars": 13,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Aquatic-stylized mod with new planet and unique mechanics"
   },
   {
     "repo": "yal-game-things/mindustry-tiny-things",
@@ -4140,18 +4140,6 @@
     "description": "Мод создан для людей без личной жизни.\nThe mod was created for a people with no life.\n\n\nRu: Мод добавляет усложненную версию Серпуло. Изменения:\n\n-Все второстепенные сектора имеют вражеские базы и истребляющую угрозу.\n-Сектора мгновенно оказывается атакованным после захвата, если рядом есть вражеские базы (не влияет на сюжетные сектора).\n-Сектора полностью очищается после потери.\n-Сектор имеет маленький шанс потеряться, даже если не имеет рядом вражеских баз.\n\nСоветую сбросить исследования перед игрой на новой планете.\nМод находится на стадии тестирования. Вы можете дать идей для улучшения мода в GitHub или в Discord - evdes#0000.\n\n--------------------------\n\nEng: The mod adds a complicated version of Serpulo. Changes:\n\n-All secondary sectors have enemy bases and eradication threat.\n-The sector is instantly attacked after being captured if there are enemy bases nearby (does not affect story sectors)\n-The sector is fully cleared after lose.\n-The sector has a small chance of getting lost, even if it does not have any enemy bases nearby.\n\nI advise you to reset your researches before playing on a new planet.\nThe mod is at the testing stage. You can give ideas for improving the mod in GitHub or in Discord - evdes#0000."
   },
   {
-    "repo": "camogekko/inferior",
-    "internalName": "inf",
-    "name": "Inferior",
-    "author": "\n[orange]CamoGekko\n",
-    "lastUpdated": "2024-06-25T22:36:40Z",
-    "stars": 3,
-    "minGameVersion": "144.3",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\nMakes the game multiple times [red]harder [white]by nerfing anything that was remotely good into [red]oblivion\n[white]and using various methods to prevent schematics from working and generally make processing [red]harder[white]\n"
-  },
-  {
     "repo": "unionofsovietsocialistrepublics/sporebiomethane",
     "internalName": "jp",
     "name": "Spore biomethane",
@@ -4162,6 +4150,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A java port of the hit mindustry mod spore biomechs\n We have:\n - Hardmode and normal mode \n - Campain map for serpulo \n - A bunch of zerggy unit and structure\n - Lore (real!??!?1)"
+  },
+  {
+    "repo": "camogekko/inferior",
+    "internalName": "inf",
+    "name": "Inferior",
+    "author": "\nCamoGekko\n",
+    "lastUpdated": "2024-07-03T00:41:43Z",
+    "stars": 3,
+    "minGameVersion": "144.3",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nMakes the game multiple times [red]harder [white]by nerfing anything that was remotely good into [red]oblivion\n[white]and using various methods to prevent schematics from working and generally make processing [red]harder[white]\n"
   },
   {
     "repo": "wshon/mindustrytoolkit",
@@ -5368,7 +5368,7 @@
     "internalName": "atomicmindustry",
     "name": "AtomicMindustry",
     "author": "coreworld",
-    "lastUpdated": "2024-07-02T23:34:05Z",
+    "lastUpdated": "2024-07-03T04:00:44Z",
     "stars": 2,
     "minGameVersion": "140.4",
     "hasScripts": false,
