@@ -268,7 +268,7 @@
     "internalName": "asthosus",
     "name": "Asthosus",
     "author": "Catana",
-    "lastUpdated": "2024-07-05T12:07:19Z",
+    "lastUpdated": "2024-07-11T17:39:56Z",
     "stars": 66,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -352,7 +352,7 @@
     "internalName": "饱和火力",
     "name": "Saturation firepower",
     "author": "Cry0flu1d",
-    "lastUpdated": "2024-07-11T15:05:37Z",
+    "lastUpdated": "2024-07-11T17:55:35Z",
     "stars": 51,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -792,6 +792,30 @@
     "description": "Add the new sectors and content on Erekir"
   },
   {
+    "repo": "zeutd/disintegration",
+    "internalName": "disintegration",
+    "name": "disintegration",
+    "author": "zeutd",
+    "lastUpdated": "2024-06-23T04:21:55Z",
+    "stars": 20,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod."
+  },
+  {
+    "repo": "mindustrydagger/vanillaplus",
+    "internalName": "vanillaplus",
+    "name": "VanillaPlus",
+    "author": "MindustryDagger",
+    "lastUpdated": "2024-07-07T10:54:08Z",
+    "stars": 20,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "[#00FFFF](RU)[#FFFFFF] Модификация добавляет полезные блоки.\n[#00FFFF](EN)[#FFFFFF] Modification adds useful blocks.\nMod is now probably in release. \nv1.1."
+  },
+  {
     "repo": "sk7725/testers",
     "internalName": "testers",
     "name": "Testers",
@@ -814,30 +838,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod being developed by a team of three, it reveals and makes tantros playable, keep in mind that the mod is not finished yet, you can play the unfinished campaign.\n\ncurrently being worked on by \n- Gander (a.k.a. Plastel)\n- Jasmarkelina"
-  },
-  {
-    "repo": "zeutd/disintegration",
-    "internalName": "disintegration",
-    "name": "disintegration",
-    "author": "zeutd",
-    "lastUpdated": "2024-06-23T04:21:55Z",
-    "stars": 19,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod."
-  },
-  {
-    "repo": "mindustrydagger/vanillaplus",
-    "internalName": "vanillaplus",
-    "name": "VanillaPlus",
-    "author": "MindustryDagger",
-    "lastUpdated": "2024-07-07T10:54:08Z",
-    "stars": 19,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "[#00FFFF](RU)[#FFFFFF] Модификация добавляет полезные блоки.\n[#00FFFF](EN)[#FFFFFF] Modification adds useful blocks.\nMod is now probably in release. \nv1.1."
   },
   {
     "repo": "vvseangtvv/project-restoration",
@@ -2848,7 +2848,7 @@
     "internalName": "bsm",
     "name": "Betterustry Mod",
     "author": "D&X",
-    "lastUpdated": "2024-07-11T15:35:11Z",
+    "lastUpdated": "2024-07-11T16:45:55Z",
     "stars": 5,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -3286,6 +3286,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "When passion collides with the shitposter's mind."
+  },
+  {
+    "repo": "hao-1337/mindustry-better-vanilla",
+    "internalName": "hao1337-mod",
+    "name": "[ Better Vanilla ]",
+    "author": "Hao1337",
+    "lastUpdated": "2024-07-09T17:03:36Z",
+    "stars": 4,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Add something helpful for vanilla. Also have some better UI.\n\n- Coreitem display for mobile.\n- Unit conter display.\n- Time control.\n- Some change for vanilla (see in setting, default is off):\n+ Bigger vault, container and vault in Erekir.\n+ Bigger range for override dome, 200% speed up.\n+ Force projector have more shield health.\n- Auto update.\n\nWarning: The mod under development, any contributions would be gratefully appreciated. See github for more details."
   },
   {
     "repo": "amateurpotion/nuclearjavamod",
@@ -4198,18 +4210,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A java port of the hit mindustry mod spore biomechs\n We have:\n - Hardmode and normal mode \n - Campain map for serpulo \n - A bunch of zerggy unit and structure\n - Lore (real!??!?1)"
-  },
-  {
-    "repo": "hao-1337/mindustry-better-vanilla",
-    "internalName": "hao1337-mod",
-    "name": "[ Better Vanilla ]",
-    "author": "Hao1337",
-    "lastUpdated": "2024-07-09T17:03:36Z",
-    "stars": 3,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Add something helpful for vanilla. Also have some better UI.\n\n- Coreitem display for mobile.\n- Unit conter display.\n- Time control.\n- Some change for vanilla (see in setting, default is off):\n+ Bigger vault, container and vault in Erekir.\n+ Bigger range for override dome, 200% speed up.\n+ Force projector have more shield health.\n- Auto update.\n\nWarning: The mod under development, any contributions would be gratefully appreciated. See github for more details."
   },
   {
     "repo": "i-am-fuse/mindustryplus",
@@ -5350,6 +5350,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Unicorp presents to you their various units for mining purpose and for assault tactics.\n  P.S. This mod may need some balancing. If you find bugs or think the content needs tweaking, just message on Discord(TroniusPlay#4386) or Github."
+  },
+  {
+    "repo": "grandendeavor100/stellar-interstice",
+    "internalName": "stellarinterstice",
+    "name": "Stellar Interstice",
+    "author": "Stellar",
+    "lastUpdated": "2024-07-03T05:25:24Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "On a random day, all the civilizations joined forces to leave the dying state of the world in which they are inhabiting. They left in fleets of much grandeur and it was at that time when a vortex opened somewhere between the stars and they entered it where they had the encounter with the Beings. They acquired exotic technologies from them but little did they know that it was all part of a much greater story and that there was nothing random about that day. The Exotic technologies include: Bombs and Nukes Guided missile systems Power manipulation devices Unconventional weapon systems and much more."
   },
   {
     "repo": "nikitapos/neo-dustry",
@@ -6850,18 +6862,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "modifies the campain maps to troll you"
-  },
-  {
-    "repo": "grandendeavor100/stellar-interstice",
-    "internalName": "stellarinterstice",
-    "name": "Stellar Interstice",
-    "author": "Stellar",
-    "lastUpdated": "2024-07-03T05:25:24Z",
-    "stars": 1,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "On a random day, all the civilizations joined forces to leave the dying state of the world in which they are inhabiting. They left in fleets of much grandeur and it was at that time when a vortex opened somewhere between the stars and they entered it where they had the encounter with the Beings. They acquired exotic technologies from them but little did they know that it was all part of a much greater story and that there was nothing random about that day. The Exotic technologies include: Bombs and Nukes Guided missile systems Power manipulation devices Unconventional weapon systems and much more."
   },
   {
     "repo": "martingamescz/biostry",
