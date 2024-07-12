@@ -208,7 +208,7 @@
     "internalName": "omaloon",
     "name": "Omaloon",
     "author": "_stabu_",
-    "lastUpdated": "2024-07-11T21:10:36Z",
+    "lastUpdated": "2024-07-12T12:47:06Z",
     "stars": 77,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -1152,18 +1152,6 @@
     "description": "WIP"
   },
   {
-    "repo": "i-hope1/mod-tools",
-    "internalName": "mod-tools",
-    "name": "mod工具",
-    "author": "I hope...",
-    "lastUpdated": "2024-07-12T10:03:41Z",
-    "stars": 14,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "## Bug修复\n- 修复ReviewElement监视元素崩溃的bug\n- 修复发包异常的bug\n- 修复Tester无法使用的bug\n- 修复HiddenTopWindow隐藏top缺少动画的bug\n- 修复LerpFun不自动删除的bug(true -> false)\n- 修复一些其他已知bug\n\n## 改进与优化\n- ReviewElement的UI小改动\n- 审查元素对按f固定元素信息的显示\n- 更新特效渲染区域减小\n- 优化代码逻辑和性能\n- 数据目录b0kkihope -> mod_tools\n- Ctrl+Alt+D 来 debug边界\n- 优化代码结构\n- 更流畅的动画\n\n## Bug Fixes\n- Fixed the crash issue with ReviewElement monitoring elements\n- Fixed the packet sending anomaly issue\n- Fixed the issue where Tester was unusable\n- Fixed the lack of animation when hiding the top of HiddenTopWindow\n- Fixed the issue where LerpFun did not automatically delete (changed from true to false)\n- Fixed several other known issues\n\n## Improvements and Optimizations\n- Minor UI adjustments for ReviewElement\n- Fixed element information display with F key in element inspection\n- Updated effect rendering area to reduce the rendering range\n- Optimized code logic and performance\n- Changed data directory from b0kkihope to mod_tools\n- Use Ctrl+Alt+D to debug boundaries\n- Optimized code structure\n- Smoother animations"
-  },
-  {
     "repo": "uenhe/fire",
     "internalName": "fire",
     "name": "Fire",
@@ -1174,6 +1162,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\r\nA Mindustry Mod that adds a lot of WEIRD things...\r\nClick the 'Repo' button below to skip to GitHub page.\r\nAny feedback, issue report and translation tweak is welcome.\r\nStar us on GitHub if you suppose it awesome!\r\n\r\n模组QQ交流群: 711467227\r\n模组GitHub页面点击下方'查看'按钮即可跳转\r\n一个奇奇怪怪又十分核锂的mod...\r\n欢迎反映任何关于此模组的BUG和建议\r\n去GitHub star我们再好不过了!\r\n"
+  },
+  {
+    "repo": "i-hope1/mod-tools",
+    "internalName": "mod-tools",
+    "name": "mod工具",
+    "author": "I hope...",
+    "lastUpdated": "2024-07-12T12:12:59Z",
+    "stars": 14,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "## Bug修复\n- 修复ReviewElement监视元素崩溃的bug\n- 修复发包异常的bug\n- 修复Tester无法使用的bug\n- 修复HiddenTopWindow隐藏top缺少动画的bug\n- 修复LerpFun不自动删除的bug(true -> false)\n- 修复一些其他已知bug\n\n## 改进与优化\n- ReviewElement的UI小改动\n- 审查元素对按f固定元素信息的显示\n- 更新特效渲染区域减小\n- 优化代码逻辑和性能\n- 数据目录b0kkihope -> mod_tools\n- Ctrl+Alt+D 来 debug边界\n- 优化代码结构\n- 更流畅的动画\n\n## Bug Fixes\n- Fixed the crash issue with ReviewElement monitoring elements\n- Fixed the packet sending anomaly issue\n- Fixed the issue where Tester was unusable\n- Fixed the lack of animation when hiding the top of HiddenTopWindow\n- Fixed the issue where LerpFun did not automatically delete (changed from true to false)\n- Fixed several other known issues\n\n## Improvements and Optimizations\n- Minor UI adjustments for ReviewElement\n- Fixed element information display with F key in element inspection\n- Updated effect rendering area to reduce the rendering range\n- Optimized code logic and performance\n- Changed data directory from b0kkihope to mod_tools\n- Use Ctrl+Alt+D to debug boundaries\n- Optimized code structure\n- Smoother animations"
   },
   {
     "repo": "shadowpazzo99/shadowdustry",
@@ -2860,7 +2860,7 @@
     "internalName": "bsm",
     "name": "Betterustry Mod",
     "author": "D&X",
-    "lastUpdated": "2024-07-12T11:26:35Z",
+    "lastUpdated": "2024-07-12T13:44:53Z",
     "stars": 5,
     "minGameVersion": "146",
     "hasScripts": true,
