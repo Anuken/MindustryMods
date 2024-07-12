@@ -444,6 +444,18 @@
     "description": "This is a fanmade mod of Blue Archive Soundtrack in Mindustry.\n\n[yellow]Purposes:[]\nThis mod replace vanilla soundtrack into Blue Archive Soundtrack, also add additional soundtrack for essentials and the halo too!.\n\n[red]⚠ NOTICE ⚠:[]\nThis mod is a fan-made project inspired by Blue Archive and not directly affiliated with it. Copyright remains with the developer and publisher of Blue Archive:Nexon, Nexon Games and Yostar."
   },
   {
+    "repo": "deltanedas/dev-mode",
+    "internalName": "dev-mode",
+    "name": "Developer Mode",
+    "author": "deltanedas",
+    "lastUpdated": "2022-09-30T09:05:55Z",
+    "stars": 35,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Lets you type into the console.\nPress F8 to open."
+  },
+  {
     "repo": "mq-1175/upgraded-tiers",
     "internalName": "tiered",
     "name": "Upgraded Tiers",
@@ -454,18 +466,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "- This mod adds in 1 or 2 higher tiers of vanilla blocks. Mod is still in development. More contents coming soon.\n- Important: The mod is lacking complete translation if you want to help me make one check the github repository.\n- Changelog and mod content lists available on github repository.\nContributors:\n- theworldzen: Russian translation \n- thebildeo: Korean translation "
-  },
-  {
-    "repo": "deltanedas/dev-mode",
-    "internalName": "dev-mode",
-    "name": "Developer Mode",
-    "author": "deltanedas",
-    "lastUpdated": "2022-09-30T09:05:55Z",
-    "stars": 34,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Lets you type into the console.\nPress F8 to open."
   },
   {
     "repo": "eb-wilson/toomanyitems",
@@ -976,7 +976,7 @@
     "internalName": "subvoyage",
     "name": "Subvoyage",
     "author": "Skoow, IriDark",
-    "lastUpdated": "2024-07-11T08:31:16Z",
+    "lastUpdated": "2024-07-12T10:33:36Z",
     "stars": 17,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -1140,18 +1140,6 @@
     "description": "ATTENTION:\n\nFrom now on, the mod goes into experimental mode - this means that the balance may not be balanced, such as a Toxopid with a Corvus, whose attack radius go far beyond 60 cells!!!!!\nNevertheless, I advise you to calm down: when the mod reaches its peak (despite my crazy plans for it, the result of which you are already watching), I will make several versions to meet the needs of as many people as possible. In the meantime, it remains to wait. Sorry for the inconvenience.\n\nImportant:\n\nThis mod does not bring anything radically new to the game, but only expands the combat functionality of existing combat units.\n\nPlease pay attention:\n\nThe mod significantly redesigns units, changes the balance and generally complicates the game. Don't forget to make a backup in case you don't like the changes that the mod itself makes.\n\nP.S. The mod is made for ALE maps."
   },
   {
-    "repo": "i-hope1/mod-tools",
-    "internalName": "mod-tools",
-    "name": "mod工具",
-    "author": "I hope...",
-    "lastUpdated": "2024-06-30T05:05:06Z",
-    "stars": 14,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "## Bug修复\n- 修复ReviewElement监视元素崩溃的bug\n- 修复发包异常的bug\n- 修复Tester无法使用的bug\n- 修复HiddenTopWindow隐藏top缺少动画的bug\n- 修复LerpFun不自动删除的bug(true -> false)\n- 修复一些其他已知bug\n\n## 改进与优化\n- ReviewElement的UI小改动\n- 审查元素对按f固定元素信息的显示\n- 更新特效渲染区域减小\n- 优化代码逻辑和性能\n- 数据目录b0kkihope -> mod_tools\n- Ctrl+Alt+D 来 debug边界\n- 优化代码结构\n- 更流畅的动画\n\n## Bug Fixes\n- Fixed the crash issue with ReviewElement monitoring elements\n- Fixed the packet sending anomaly issue\n- Fixed the issue where Tester was unusable\n- Fixed the lack of animation when hiding the top of HiddenTopWindow\n- Fixed the issue where LerpFun did not automatically delete (changed from true to false)\n- Fixed several other known issues\n\n## Improvements and Optimizations\n- Minor UI adjustments for ReviewElement\n- Fixed element information display with F key in element inspection\n- Updated effect rendering area to reduce the rendering range\n- Optimized code logic and performance\n- Changed data directory from b0kkihope to mod_tools\n- Use Ctrl+Alt+D to debug boundaries\n- Optimized code structure\n- Smoother animations"
-  },
-  {
     "repo": "woodjecket/commundustry",
     "internalName": "commundustry-v4",
     "name": "CommunDustry",
@@ -1162,6 +1150,30 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "WIP"
+  },
+  {
+    "repo": "i-hope1/mod-tools",
+    "internalName": "mod-tools",
+    "name": "mod工具",
+    "author": "I hope...",
+    "lastUpdated": "2024-07-12T10:03:41Z",
+    "stars": 14,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "## Bug修复\n- 修复ReviewElement监视元素崩溃的bug\n- 修复发包异常的bug\n- 修复Tester无法使用的bug\n- 修复HiddenTopWindow隐藏top缺少动画的bug\n- 修复LerpFun不自动删除的bug(true -> false)\n- 修复一些其他已知bug\n\n## 改进与优化\n- ReviewElement的UI小改动\n- 审查元素对按f固定元素信息的显示\n- 更新特效渲染区域减小\n- 优化代码逻辑和性能\n- 数据目录b0kkihope -> mod_tools\n- Ctrl+Alt+D 来 debug边界\n- 优化代码结构\n- 更流畅的动画\n\n## Bug Fixes\n- Fixed the crash issue with ReviewElement monitoring elements\n- Fixed the packet sending anomaly issue\n- Fixed the issue where Tester was unusable\n- Fixed the lack of animation when hiding the top of HiddenTopWindow\n- Fixed the issue where LerpFun did not automatically delete (changed from true to false)\n- Fixed several other known issues\n\n## Improvements and Optimizations\n- Minor UI adjustments for ReviewElement\n- Fixed element information display with F key in element inspection\n- Updated effect rendering area to reduce the rendering range\n- Optimized code logic and performance\n- Changed data directory from b0kkihope to mod_tools\n- Use Ctrl+Alt+D to debug boundaries\n- Optimized code structure\n- Smoother animations"
+  },
+  {
+    "repo": "uenhe/fire",
+    "internalName": "fire",
+    "name": "Fire",
+    "author": "飞雨a_ssylfyzgmz & KochiyaUeneh油苗子",
+    "lastUpdated": "2024-07-12T10:46:00Z",
+    "stars": 14,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\r\nA Mindustry Mod that adds a lot of WEIRD things...\r\nClick the 'Repo' button below to skip to GitHub page.\r\nAny feedback, issue report and translation tweak is welcome.\r\nStar us on GitHub if you suppose it awesome!\r\n\r\n模组QQ交流群: 711467227\r\n模组GitHub页面点击下方'查看'按钮即可跳转\r\n一个奇奇怪怪又十分核锂的mod...\r\n欢迎反映任何关于此模组的BUG和建议\r\n去GitHub star我们再好不过了!\r\n"
   },
   {
     "repo": "shadowpazzo99/shadowdustry",
@@ -2848,7 +2860,7 @@
     "internalName": "bsm",
     "name": "Betterustry Mod",
     "author": "D&X",
-    "lastUpdated": "2024-07-12T09:47:42Z",
+    "lastUpdated": "2024-07-12T11:26:35Z",
     "stars": 5,
     "minGameVersion": "146",
     "hasScripts": true,
