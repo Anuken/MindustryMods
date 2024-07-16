@@ -17,7 +17,7 @@
     "name": "New Horizon",
     "author": "Yuria",
     "lastUpdated": "2024-07-15T12:56:29Z",
-    "stars": 329,
+    "stars": 330,
     "minGameVersion": "145.1",
     "hasScripts": false,
     "hasJava": true,
@@ -192,6 +192,18 @@
     "description": "Adds a dialog for turning images into processor schematics.\nRequires deltanedas/ui-lib."
   },
   {
+    "repo": "xstabux/omaloon",
+    "internalName": "omaloon",
+    "name": "Omaloon",
+    "author": "_stabu_",
+    "lastUpdated": "2024-07-15T21:47:58Z",
+    "stars": 78,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "An ambitious modification aimed at expanding the game's standard campaign by adding a new star system."
+  },
+  {
     "repo": "deltanedas/rtfm",
     "internalName": "rtfm",
     "name": "RTFM",
@@ -202,18 +214,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Mod that adds a manual page library. RTFM in the About menu.\nComes with documentation of vanilla'a Logic system.\nOptionally requires deltanedas/ui-lib for extra buttons.\npt_BR translations by King-BR"
-  },
-  {
-    "repo": "xstabux/omaloon",
-    "internalName": "omaloon",
-    "name": "Omaloon",
-    "author": "_stabu_",
-    "lastUpdated": "2024-07-15T21:47:58Z",
-    "stars": 77,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "An ambitious modification aimed at expanding the game's standard campaign by adding a new star system."
   },
   {
     "repo": "deltanedas/ui-lib",
@@ -252,6 +252,18 @@
     "description": "A collection of random ideas that come to my head.\n\nREQUIRES `MEEPofFaith/black-hole-renderer` TO RUN. THE GAME WILL CRASH WITHOUT IT INSTALLED."
   },
   {
+    "repo": "catana791/asthosus",
+    "internalName": "asthosus",
+    "name": "Asthosus",
+    "author": "Catana",
+    "lastUpdated": "2024-07-16T08:45:14Z",
+    "stars": 68,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "  A mod that adds a new planet, Asthosus, into the game.\n  \n  Asthosus is a deserted planet. A wasteland filled with danger.\n\n  It has a fully playable campaign with 11 campaign and 7 optional maps. \n  1 more optional map will be added in the future.\n\n  Aside from these 18 maps, Asthosus contains over 180 pieces of unique content,\n  including blocks, liquids, items, units and status effects.\n  This number is not counting any internal units or environment blocks/tiles.\n\n  I aimed to re-use nearly no vanilla content and instead fill the mod \n  with new and (hopefully) exciting things.\n\n  If you find any issues or want to tell me anything else,\n  feel free to join the Asthosus Discord server. \n  The same thing goes for when you need help with this mod.\n\n  Enjoy!"
+  },
+  {
     "repo": "blackdeluxecat/mi2-utilities-java",
     "internalName": "mi2-utilities-java",
     "name": "MI2-Utilities Java",
@@ -262,18 +274,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "# MI2-Utilities Java\n\n### Intro\n- [English](README.md) | [中文](README_zh.md)\n\nQOL Mod, powerful assists to vanilla gameplay. For destined Mindustry players.\n\n### Install\n\n- Method 1: \"Import from github\", with \"BlackDeluxeCat/MI2-Utilities-Java\". This makes reinstall available. (recommended)\n- Method 2: Get the latest release, download \"MI2-Utilities Java.jar\". Then \"Import from a file\" with the file.\n\nQQ Group(中文zh_cn) number: 875035496\n\n### Contribution\n- PRs: l10n, bug fix, new feature.\n- Issues: bug report, suggestion.\n\n---\n\n## Features(1.2.3c)\n\n#### MI2UI\n- Functions: one-click planning rebuild, distribution building reveal.\n- Logical FPS simulation.\n- AI-assist: auto mining, auto construct plans, auto self-repair, auto aiming.\n- Most of the map rules.\n- Wave info, force skipwave, wave health bars.\n- RTS Formation creating and selecting.\n- Most of MI2U's options.\n\n#### Core Info\n- Vanilla core info ++, charts of resource changes.\n- Unit counter.\n- Power net bars & net building analyse.\n- Switch to view other teams.\n\n#### MindowMap\n- Renderer based on vanilla.\n- Sensible zoomed to full map.\n- Player labels.\n- Clicking pans camera.\n- Space Scan world finder.\n- Logic Building Stats\n\n#### Map Info\n\n\n#### Logic Helper\n- Sort and fast typing var names, using delimiter.\n- Search & Replace.\n- Cut or Copy, and Paste.\n\n#### Emoji\n- Emoji book.\n\n#### Mindow2\nDraggable window for this mod. On the auto-hidden title bar, you can open settings dialog, minimize it, or tap the title to drag. For details, open settings and see the help pages of each Mindow2.\n\nPosition, snap, etc. can be saved through settings.\n\n#### Others\n- Smooth multiplayer cursors.\n- Block/Unit hp bar, logic lines, pathfind lines.\n- Disable wrecks, units, bullets rendering.\n- Distribution buildings interior reveal.\n- Modify block stat bars, make it following cursor.\n- 99.5% of changes can be turned off with options.\n- The settings stored at $Mindustry/mods/MI2U_Settings/.\n\n---\n\nEarly JS version: [BlackDeluxeCat/MI2-Utilities](https://github.com/BlackDeluxeCat/MI2-Utilities)\n\nMy friend did a lot of other functions, see [MinerTools](https://github.com/RlCCJ/MinerTools)."
-  },
-  {
-    "repo": "catana791/asthosus",
-    "internalName": "asthosus",
-    "name": "Asthosus",
-    "author": "Catana",
-    "lastUpdated": "2024-07-16T08:45:14Z",
-    "stars": 67,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "  A mod that adds a new planet, Asthosus, into the game.\n  \n  Asthosus is a deserted planet. A wasteland filled with danger.\n\n  It has a fully playable campaign with 11 campaign and 7 optional maps. \n  1 more optional map will be added in the future.\n\n  Aside from these 18 maps, Asthosus contains over 180 pieces of unique content,\n  including blocks, liquids, items, units and status effects.\n  This number is not counting any internal units or environment blocks/tiles.\n\n  I aimed to re-use nearly no vanilla content and instead fill the mod \n  with new and (hopefully) exciting things.\n\n  If you find any issues or want to tell me anything else,\n  feel free to join the Asthosus Discord server. \n  The same thing goes for when you need help with this mod.\n\n  Enjoy!"
   },
   {
     "repo": "abomb4/super-cheat",
@@ -293,7 +293,7 @@
     "name": "Frozen Farlands",
     "author": "[#3bdbff]CY4N[white] & [#11d41e]Zielony Trójkąt[white]",
     "lastUpdated": "2024-07-11T08:48:42Z",
-    "stars": 56,
+    "stars": 57,
     "minGameVersion": "143.1",
     "hasScripts": true,
     "hasJava": false,
@@ -437,7 +437,7 @@
     "name": "ArchiveDustry Java",
     "author": "WilloIzCitron. Copyrights remains with Nexon, Nexon Games and Yostar",
     "lastUpdated": "2024-07-15T14:08:59Z",
-    "stars": 36,
+    "stars": 37,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -5460,6 +5460,18 @@
     "description": "[#edc77b]A java mod by [white]itsdakirby69 [gray](thats me!)[#edc77b]. The overgrowth will overtake all."
   },
   {
+    "repo": "thomasthings/serpulo-scaled",
+    "internalName": "ss",
+    "name": "Serpulo Scaled",
+    "author": "Thomas's Things",
+    "lastUpdated": "2024-07-16T01:34:46Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod for adding both larger and smaller content to Serpulo."
+  },
+  {
     "repo": "teaeempire/gghv7",
     "internalName": "ggh2.1",
     "name": "GGH2.4",
@@ -6934,18 +6946,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds the Diamond resource.\n\nThis mod also adds more than just diamonds. It also adds enhanced versions of vanilla production blocks, as well as units, technology, and more. \n\nThis mod has been polished and updated to v7 by a 3rd party"
-  },
-  {
-    "repo": "thomasthings/serpulo-scaled",
-    "internalName": "ss",
-    "name": "Serpulo Scaled",
-    "author": "Thomas's Things",
-    "lastUpdated": "2024-07-16T01:34:46Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod for adding both larger and smaller content to Serpulo."
   },
   {
     "repo": "new-guys5634/mechy-chaos",
