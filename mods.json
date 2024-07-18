@@ -16,7 +16,7 @@
     "internalName": "new-horizon",
     "name": "New Horizon",
     "author": "Yuria",
-    "lastUpdated": "2024-07-18T11:52:14Z",
+    "lastUpdated": "2024-07-18T14:18:27Z",
     "stars": 333,
     "minGameVersion": "145.1",
     "hasScripts": false,
@@ -89,7 +89,7 @@
     "name": "Aeyama: The New World",
     "author": "FredyJabe & Jojo",
     "lastUpdated": "2024-07-10T16:07:13Z",
-    "stars": 125,
+    "stars": 124,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
@@ -257,7 +257,7 @@
     "name": "Asthosus",
     "author": "Catana",
     "lastUpdated": "2024-07-18T11:28:56Z",
-    "stars": 69,
+    "stars": 70,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
@@ -336,18 +336,6 @@
     "description": "my first Java Mod. multi craft-generator, multi turret, multi drill and few thing more! \nnot completely finished/released yet. but i'm sure it's still enough for you to be interested in this mod, this contents, this ideas! \n\nThanks for helping: sk7725: owner of betaMindy \nmeep: owner of Progressed Materials \nmal&ssim: donated great sprites"
   },
   {
-    "repo": "ra2exe/saturation-firepower",
-    "internalName": "饱和火力",
-    "name": "Saturation firepower",
-    "author": "Cry0flu1d",
-    "lastUpdated": "2024-07-16T12:36:26Z",
-    "stars": 52,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "当前版本：[green]3.2.0[white]\n前往Github查看火力最新状态\n[green]———————————————[white]\n战役图正在持续重做中\n[green]———————————————[white]\n重要通知：饱和火力由于RA2方面的大量不可控因素，目前mod已全权转与冷冻液（游戏内id：Cry0flu1d，QQ：3462772994），后期的平衡调整和后续的内容制作将由冷冻液全权负责]\n特别鸣谢: mkrd: 帮助进行平衡测试;"
-  },
-  {
     "repo": "teamoct/fos",
     "internalName": "",
     "name": "Fictional Octo System",
@@ -358,6 +346,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "FOS is a large-scale mod with a campaign that contains a brand-new solar system and unique mechanics."
+  },
+  {
+    "repo": "ra2exe/saturation-firepower",
+    "internalName": "饱和火力",
+    "name": "Saturation firepower",
+    "author": "Cry0flu1d",
+    "lastUpdated": "2024-07-18T14:56:04Z",
+    "stars": 52,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "当前版本：[green]3.2.0[white]\n前往Github查看火力最新状态\n[green]———————————————[white]\n战役图正在持续重做中\n[green]———————————————[white]\n重要通知：饱和火力由于RA2方面的大量不可控因素，目前mod已全权转与冷冻液（游戏内id：Cry0flu1d，QQ：3462772994），后期的平衡调整和后续的内容制作将由冷冻液全权负责]\n特别鸣谢: mkrd: 帮助进行平衡测试;"
   },
   {
     "repo": "flintyx/animalia",
@@ -1140,28 +1140,28 @@
     "description": "This a mod that can show the hidden item of the item bridge."
   },
   {
+    "repo": "i-hope1/mod-tools",
+    "internalName": "mod-tools",
+    "name": "mod工具",
+    "author": "I hope...",
+    "lastUpdated": "2024-07-18T14:06:19Z",
+    "stars": 14,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod provides a variety of tools for modding.\n## Tester\nEnglish|[中文](index.md)\n\n## ShowUIList\n\n- Display `icon`, `tex`, `styles`, `colors`, `interps`\\\n!(./screenshots/UIList.png)\n\n## Tester\n\n!(./screenshots/tester.png)\n\n- Provide `JS` editor `Tester`\n- Shortcuts\n- Press `Ctrl`+`Shift`+`Enter` to `execute` code immediately\n- Press `Ctrl`+`Shift`+`↑/↓` to switch `history` records\n- Press `Ctrl`+`Shift`+`D` to `view` detailed information\n- Press `Alt`+`V` to preview `Texture`\n- Built-in `unsafe`, `lookup`\n- Built-in `IntFunc` class (abbreviated as `$`)\n- `$.xxx` can represent primitive data types (e.g., `$.void` represents `Void.TYPE`;`$.J` represents long.class)\n- `$p` represents `Packages`\n- Code: [JSFunc](https://github.com/i-hope1/mod-tools/src/modtools/utils/JSFunc.java)\n- Long press on code in the favorites to add to startup items\\\n!(./screenshots/startup.png)\n- Quick switch history\\\n![Screenshot 2024-03-10 14-45-37](https://github.com/I-hope1/mod-tools/assets/78016895/4918af35-19af-4fab-b961-70bdc8679fe8)\n- `$.item`, `$.liquid`, `$.unit` and so on.\n\n## UnitSpawn\n\n- Multiple team selection\n- Support for fixed point spawning\n- Display `name` and `localizedName`\n- Rightclick the name Label to copy save as JS var.\n\n## Selection\n\n- Selector\n- Supports `Tile`, `Building`, `Bullet`, `Unit`\n- Kill\n- Set Item/Liquid/Team\n- Press `Ctrl`+`Alt` to fix Focus Window\n\n## ReviewElement\n\n- Display element list, double-click to copy element to js variable\n- `Ctrl`+`Shift`+`C` to Inspect Element\n- `Ctrl`+`Alt`+`D` to display bounds of Element\n- Select untouchable elements\n- Mobile: Filter current element with two fingers\n- PC: Press `F` to filter current element\n- Functions shortcuts for Element\n- `i`: display details (open ShowInfoWindow)\\\n- `p`(for Image):  show `DrawablePicker`\n- `del`: (`shift` to ignore confirmation), delete element\n- `<` / `>`: collapse Group\n- `f`: fix floating Info column\n- `r`: invoke element's method\n\n- ![reviewElement](./screenshots/review_element.png)\n\n# Frag\n\n- Double-click the blue part of Frag to minimize/restore Frag\n- In the minimized state, click the blue part, it will behave like a floating ball\n\n## Window\n\n- Press `Ctrl`+`Tab` to switch windows\n- Press `Shift`+`F4` to close current window\n- RClick the close button to move and scl window.\n\n## ShowInfoWindow\n\n- Show all fields, methods, constructors and nested classes of a obj.\n- Field can be modified.\n- Method can be Invoked(Special).\n- Constructor can be invoked to new a instance.\n\n## Others\n\n### Extensions\n\n- Override Scene\n\n> Replace the original scene, capture rendering errors, may not be good\n\n- Http Redirect\n\n> Redirect some websites, such as: github\\\n> Configuration file: b0kkihope/http_redirect.properties\n"
+  },
+  {
     "repo": "uenhe/fire",
     "internalName": "fire",
     "name": "Fire",
     "author": "飞雨a_ssylfyzgmz & KochiyaUeneh油苗子",
-    "lastUpdated": "2024-07-15T13:30:53Z",
+    "lastUpdated": "2024-07-18T15:15:13Z",
     "stars": 14,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
     "description": "\r\nA Mindustry Mod that adds a lot of WEIRD things...\r\nClick the 'Repo' button below to skip to GitHub page.\r\nAny feedback, issue report and translation tweak is welcome.\r\nStar us on GitHub if you suppose it awesome!\r\n\r\n模组QQ交流群: 711467227\r\n模组GitHub页面点击下方'查看'按钮即可跳转\r\n一个奇奇怪怪又十分核锂的mod...\r\n欢迎反映任何关于此模组的BUG和建议\r\n去GitHub star我们再好不过了!\r\n"
-  },
-  {
-    "repo": "i-hope1/mod-tools",
-    "internalName": "mod-tools",
-    "name": "mod工具",
-    "author": "I hope...",
-    "lastUpdated": "2024-07-17T15:04:44Z",
-    "stars": 14,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Some Bug Fixes"
   },
   {
     "repo": "shadowpazzo99/shadowdustry",
@@ -1540,7 +1540,7 @@
     "internalName": "olupis",
     "name": "Nyfalis (Olupis)",
     "author": "Programming:\nRushieWashie, Siede, WMF Industries \n---------------------\nSprites:\nRushieWashie, Remington Thomas, Ethanol10, kapzduke\n---------------------\nMaps:\nRushieWashie, MrApple, Remington Thomas ",
-    "lastUpdated": "2024-07-17T15:45:00Z",
+    "lastUpdated": "2024-07-18T14:11:43Z",
     "stars": 10,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -4092,18 +4092,6 @@
     "description": "part of a icey planets collab"
   },
   {
-    "repo": "spore-biometh-team/sandmod",
-    "internalName": "sand",
-    "name": "Greektech",
-    "author": "Watermocules",
-    "lastUpdated": "2024-06-10T05:46:58Z",
-    "stars": 3,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Fun have been surgically removed from this mod, now with gregtech level of grinding."
-  },
-  {
     "repo": "gleb2k19/ranai-mod",
     "internalName": "ranai-mod",
     "name": "Ranai mod",
@@ -4236,11 +4224,23 @@
     "description": "Mindustry modification that adds a scheme inspection selection. Displays the number of buildings, power generation/consumption/storage, build cost. It's a fork of the deleted Goober's modification with some upgrades and bug fixes. \nNo mobile support yet."
   },
   {
+    "repo": "spore-biometh-team/sandmod",
+    "internalName": "sand",
+    "name": "Greektech",
+    "author": "Watermocules",
+    "lastUpdated": "2024-07-18T14:53:44Z",
+    "stars": 3,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Fun have been surgically removed from this mod, now with gregtech level of grinding."
+  },
+  {
     "repo": "unionofsovietsocialistrepublics/sporebiomethane",
     "internalName": "jp",
     "name": "Spore biomethane",
     "author": "Water white",
-    "lastUpdated": "2024-07-16T07:20:51Z",
+    "lastUpdated": "2024-07-18T15:07:26Z",
     "stars": 3,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -6936,18 +6936,6 @@
     "description": "Medium sized mod with tons of content."
   },
   {
-    "repo": "new-guys5634/mechy-chaos",
-    "internalName": " mech ",
-    "name": "combat dustry",
-    "author": "beee",
-    "lastUpdated": "2024-07-17T19:16:20Z",
-    "stars": 1,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": " a mod that adds a new planet and it focuses on combat\n\na planet called shards was located far away from the sun\nyour sent mission was to destroy this planet but you went to investigate the new planet...\n\n\nEnjoy the chaos!"
-  },
-  {
     "repo": "sh1penfire/meld",
     "internalName": "meld",
     "name": "Meld",
@@ -6958,6 +6946,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Small sideproject to practise spriting, adds mixes of vanilla content"
+  },
+  {
+    "repo": "new-guys5634/mechy-chaos",
+    "internalName": " mech ",
+    "name": "combat dustry",
+    "author": "beee",
+    "lastUpdated": "2024-07-18T16:00:16Z",
+    "stars": 1,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": " a mod that adds a new planet and it focuses on combat\n\na planet called shards was located far away from the sun\nyour sent mission was to destroy this planet but you went to investigate the new planet...\n\n\nEnjoy the chaos!"
   },
   {
     "repo": "emanuelg-gaming/ion",
