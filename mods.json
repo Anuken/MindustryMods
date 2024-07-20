@@ -17,7 +17,7 @@
     "name": "New Horizon",
     "author": "Yuria",
     "lastUpdated": "2024-07-19T14:30:07Z",
-    "stars": 333,
+    "stars": 334,
     "minGameVersion": "145.1",
     "hasScripts": false,
     "hasJava": true,
@@ -948,18 +948,6 @@
     "description": "Adds hard new planet with unique content and new mechanics"
   },
   {
-    "repo": "uujuju1/steam-works",
-    "internalName": "sw",
-    "name": "Steam Works",
-    "author": "Uujuju",
-    "lastUpdated": "2024-07-17T15:58:39Z",
-    "stars": 17,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A thing."
-  },
-  {
     "repo": "sublemon-team/subvoyage",
     "internalName": "subvoyage",
     "name": "Subvoyage",
@@ -982,6 +970,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds clientside logic debugging tools.\nRequires DeltaNedas/override-lib."
+  },
+  {
+    "repo": "uujuju1/steam-works",
+    "internalName": "sw",
+    "name": "Steam Works",
+    "author": "Uujuju",
+    "lastUpdated": "2024-07-19T23:39:42Z",
+    "stars": 17,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A thing."
   },
   {
     "repo": "eclipse-04/avkott",
@@ -1444,7 +1444,7 @@
     "internalName": "erekirliquefied",
     "name": "Erekir Liquefied",
     "author": "Haznobrain",
-    "lastUpdated": "2024-07-19T21:47:49Z",
+    "lastUpdated": "2024-07-19T22:46:54Z",
     "stars": 11,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2232,6 +2232,18 @@
     "description": "Adds new ways to destroy nature, mostly factories."
   },
   {
+    "repo": "meepoffaith/tranqol",
+    "internalName": "tranqol",
+    "name": "Tranqol",
+    "author": "MEEPofFaith",
+    "lastUpdated": "2024-07-17T06:03:27Z",
+    "stars": 7,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Give yourself a tranquil feeling with more control over the flow of resources."
+  },
+  {
     "repo": "warcry98/speedcontrol",
     "internalName": "speed-control",
     "name": "Speed Control",
@@ -2494,18 +2506,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\nThis mod adds all vanilla turrets as units.\n\nIt is a FUN mod and in no way meant to be balanced!\n\n(Just imagine a meltdown flying towards you at 100 mp/h)\n"
-  },
-  {
-    "repo": "meepoffaith/tranqol",
-    "internalName": "tranqol",
-    "name": "Tranqol",
-    "author": "MEEPofFaith",
-    "lastUpdated": "2024-07-17T06:03:27Z",
-    "stars": 6,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Give yourself a tranquil feeling with more control over the flow of resources."
   },
   {
     "repo": "smolkeys/yellow-rewritten",
@@ -2872,7 +2872,7 @@
     "internalName": "bsm",
     "name": "Betterustry Mod",
     "author": "D&X",
-    "lastUpdated": "2024-07-19T21:32:28Z",
+    "lastUpdated": "2024-07-19T22:16:55Z",
     "stars": 5,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -3324,18 +3324,6 @@
     "description": "Add something helpful for vanilla. Also have some better UI.\n\n- Coreitem display for mobile.\n- Unit conter display.\n- Time control.\n- Some change for vanilla (see in setting, default is off):\n+ Bigger vault, container and vault in Erekir.\n+ Bigger range for override dome, 200% speed up.\n+ Force projector have more shield health.\n- Auto update.\n\nWarning: The mod under development, any contributions would be gratefully appreciated. See github for more details."
   },
   {
-    "repo": "itskirby69/minedusty",
-    "internalName": "minedusty",
-    "name": "MineDusty",
-    "author": "[scarlet]ItsKirby",
-    "lastUpdated": "2024-07-18T21:06:31Z",
-    "stars": 4,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#edc77b]A java mod by [white]itsdakirby69 [gray](thats me!)[#edc77b]. Sandbox only for now. Plant mod. haha."
-  },
-  {
     "repo": "spore-biometh-team/sandmod",
     "internalName": "sand",
     "name": "Greektech",
@@ -3346,6 +3334,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Fun have been surgically removed from this mod, now with gregtech level of grinding."
+  },
+  {
+    "repo": "itskirby69/minedusty",
+    "internalName": "minedusty",
+    "name": "MineDusty",
+    "author": "[scarlet]ItsKirby",
+    "lastUpdated": "2024-07-19T23:02:26Z",
+    "stars": 4,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#edc77b]A java mod by [white]itsdakirby69 [gray](thats me!)[#edc77b]. Sandbox only for now. Plant mod. haha."
   },
   {
     "repo": "amateurpotion/nuclearjavamod",
@@ -4222,6 +4222,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mindustry modification that adds a scheme inspection selection. Displays the number of buildings, power generation/consumption/storage, build cost. It's a fork of the deleted Goober's modification with some upgrades and bug fixes. \nNo mobile support yet."
+  },
+  {
+    "repo": "thomasthings/serpulo-scaled",
+    "internalName": "ss",
+    "name": "Serpulo Scaled",
+    "author": "Thomas's Things",
+    "lastUpdated": "2024-07-16T01:34:46Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod for adding both larger and smaller content to Serpulo."
   },
   {
     "repo": "unionofsovietsocialistrepublics/sporebiomethane",
@@ -5446,18 +5458,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "My new planet mod!"
-  },
-  {
-    "repo": "thomasthings/serpulo-scaled",
-    "internalName": "ss",
-    "name": "Serpulo Scaled",
-    "author": "Thomas's Things",
-    "lastUpdated": "2024-07-16T01:34:46Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod for adding both larger and smaller content to Serpulo."
   },
   {
     "repo": "penguip/a-mindustry-mod",
