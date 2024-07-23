@@ -1036,7 +1036,7 @@
     "internalName": "zeridmuth",
     "name": "Zeridmuth: A New Beginning",
     "author": "XSA, ItzCraft, Mitemi\nN4H4N, CoCo1481",
-    "lastUpdated": "2024-07-23T11:25:27Z",
+    "lastUpdated": "2024-07-23T15:02:26Z",
     "stars": 16,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -1070,14 +1070,14 @@
   {
     "repo": "i-hope1/mod-tools",
     "internalName": "mod-tools",
-    "name": "mod工具",
+    "name": "mod-tools",
     "author": "I hope...",
-    "lastUpdated": "2024-07-23T13:55:40Z",
+    "lastUpdated": "2024-07-23T15:14:05Z",
     "stars": 15,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
-    "description": "A mod provides a variety of tools for modding.\n\n-----------------\nVersion 1.4.6.5\n\n-----------------\n\n## ShowUIList\n\n- Display `icon`, `tex`, `styles`, `colors`, `interps`\\\n!(./screenshots/UIList.png)\n\n## Tester\n\n!(./screenshots/tester.png)\n\n- Provide `JS` editor `Tester`\n- Shortcuts\n- Press `Ctrl`+`Shift`+`Enter` to `execute` code immediately\n- Press `Ctrl`+`Shift`+`↑/↓` to switch `history` records\n- Press `Ctrl`+`Shift`+`D` to `view` detailed information\n- Press `Alt`+`V` to preview `Texture`\n- Built-in `unsafe`, `lookup`\n- Built-in `IntFunc` class (abbreviated as `$`)\n- `$.xxx` can represent primitive data types (e.g., `$.void` represents `Void.TYPE`;`$.J` represents long.class)\n- `$p` represents `Packages`\n- Code: [JSFunc](https://github.com/i-hope1/mod-tools/src/modtools/utils/JSFunc.java)\n- Long press on code in the favorites to add to startup items\\\n!(./screenshots/startup.png)\n- Quick switch history\\\n![Screenshot 2024-03-10 14-45-37](https://github.com/I-hope1/mod-tools/assets/78016895/4918af35-19af-4fab-b961-70bdc8679fe8)\n- `$.item`, `$.liquid`, `$.unit` and so on.\n\n## UnitSpawn\n\n- Multiple team selection\n- Support for fixed point spawning\n- Display `name` and `localizedName`\n- Rightclick the name Label to copy save as JS var.\n\n## Selection\n\n- Selector\n- Supports `Tile`, `Building`, `Bullet`, `Unit`\n- Kill\n- Set Item/Liquid/Team\n- Press `Ctrl`+`Alt` to fix Focus Window\n\n## ReviewElement\n\n- Display element list, double-click to copy element to js variable\n- `Ctrl`+`Shift`+`C` to Inspect Element\n- `Ctrl`+`Alt`+`D` to display bounds of Element\n- Select untouchable elements\n- Mobile: Filter current element with two fingers\n- PC: Press `F` to filter current element\n- Functions shortcuts for Element\n- `i`: display details (open ShowInfoWindow)\\\n- `p`(for Image):  show `DrawablePicker`\n- `del`: (`shift` to ignore confirmation), delete element\n- `<` / `>`: collapse Group\n- `f`: fix floating Info column\n- `r`: invoke element's method\n\n- ![reviewElement](./screenshots/review_element.png)\n\n# Frag\n\n- Double-click the blue part of Frag to minimize/restore Frag\n- In the minimized state, click the blue part, it will behave like a floating ball\n\n## Window\n\n- Press `Ctrl`+`Tab` to switch windows\n- Press `Shift`+`F4` to close current window\n- RClick the close button to move and scl window.\n\n## ShowInfoWindow\n\n- Show all fields, methods, constructors and nested classes of a obj.\n- Field can be modified.\n- Method can be Invoked(Special).\n- Constructor can be invoked to new a instance.\n\n## Others\n\n### Extensions\n\n- Override Scene\n\n> Replace the original scene, capture rendering errors, may not be good\n\n- Http Redirect\n\n> Redirect some websites, such as: github\\\n> Configuration file: b0kkihope/http_redirect.properties"
+    "description": "A mod provides a variety of tools for modding.\n\n-----------------\nVersion 1.4.6.5\n- Fixed a lot of bugs\n- Supported ValueLabel to operate the sub item.\n-----------------\n\n## ShowUIList\n\n- Display `icon`, `tex`, `styles`, `colors`, `interps`\\\n!(./screenshots/UIList.png)\n\n## Tester\n\n!(./screenshots/tester.png)\n\n- Provide `JS` editor `Tester`\n- Shortcuts\n- Press `Ctrl`+`Shift`+`Enter` to `execute` code immediately\n- Press `Ctrl`+`Shift`+`↑/↓` to switch `history` records\n- Press `Ctrl`+`Shift`+`D` to `view` detailed information\n- Press `Alt`+`V` to preview `Texture`\n- Built-in `unsafe`, `lookup`\n- Built-in `IntFunc` class (abbreviated as `$`)\n- `$.xxx` can represent primitive data types (e.g., `$.void` represents `Void.TYPE`;`$.J` represents long.class)\n- `$p` represents `Packages`\n- Code: [JSFunc](https://github.com/i-hope1/mod-tools/src/modtools/utils/JSFunc.java)\n- Long press on code in the favorites to add to startup items\\\n!(./screenshots/startup.png)\n- Quick switch history\\\n![Screenshot 2024-03-10 14-45-37](https://github.com/I-hope1/mod-tools/assets/78016895/4918af35-19af-4fab-b961-70bdc8679fe8)\n- `$.item`, `$.liquid`, `$.unit` and so on.\n\n## UnitSpawn\n\n- Multiple team selection\n- Support for fixed point spawning\n- Display `name` and `localizedName`\n- Rightclick the name Label to copy save as JS var.\n\n## Selection\n\n- Selector\n- Supports `Tile`, `Building`, `Bullet`, `Unit`\n- Kill\n- Set Item/Liquid/Team\n- Press `Ctrl`+`Alt` to fix Focus Window\n\n## ReviewElement\n\n- Display element list, double-click to copy element to js variable\n- `Ctrl`+`Shift`+`C` to Inspect Element\n- `Ctrl`+`Alt`+`D` to display bounds of Element\n- Select untouchable elements\n- Mobile: Filter current element with two fingers\n- PC: Press `F` to filter current element\n- Functions shortcuts for Element\n- `i`: display details (open ShowInfoWindow)\\\n- `p`(for Image):  show `DrawablePicker`\n- `del`: (`shift` to ignore confirmation), delete element\n- `<` / `>`: collapse Group\n- `f`: fix floating Info column\n- `r`: invoke element's method\n\n- ![reviewElement](./screenshots/review_element.png)\n\n# Frag\n\n- Double-click the blue part of Frag to minimize/restore Frag\n- In the minimized state, click the blue part, it will behave like a floating ball\n\n## Window\n\n- Press `Ctrl`+`Tab` to switch windows\n- Press `Shift`+`F4` to close current window\n- RClick the close button to move and scl window.\n\n## ShowInfoWindow\n\n- Show all fields, methods, constructors and nested classes of a obj.\n- Field can be modified.\n- Method can be Invoked(Special).\n- Constructor can be invoked to new a instance.\n\n## Others\n\n### Extensions\n- Http Redirect\n> Redirect some websites, such as: github\\\n> Configuration file: b0kkihope/http_redirect.properties"
   },
   {
     "repo": "zeniku/heavymachineryjava",
@@ -2076,18 +2076,6 @@
     "description": "A mod packaging tool, a tool is added to the mod page to select the currently installed mod for packaging as a mod integration package for distribution. When using it, install the installer mod generated by the package directly, and it will guide the user to complete the installation.\n====================\n一个模组打包工具，在模组页面添加了一个工具，用于选择当前已安装的mod并打包为mod整合包以便分发，使用时直接安装打包生成的安装器mod，它会引导用户完成安装"
   },
   {
-    "repo": "antlrr/thorium-thorium-walls",
-    "internalName": "thoriumthoriumwalls",
-    "name": "Thorium Thorium Walls",
-    "author": "Antlrr, Sh1penfire",
-    "lastUpdated": "2023-08-17T10:36:33Z",
-    "stars": 7,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "makes thorium blocks pink"
-  },
-  {
     "repo": "valtsu41/bundle-chaos",
     "internalName": "bundle-chaos",
     "name": "Bundle chaos",
@@ -2560,7 +2548,7 @@
     "internalName": "bsm",
     "name": "Betterustry Mod",
     "author": "D&X",
-    "lastUpdated": "2024-07-23T09:46:46Z",
+    "lastUpdated": "2024-07-23T15:39:15Z",
     "stars": 6,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -3352,7 +3340,7 @@
     "internalName": "meld",
     "name": "Meld",
     "author": "Sh1penfire",
-    "lastUpdated": "2024-07-23T12:31:21Z",
+    "lastUpdated": "2024-07-23T15:59:11Z",
     "stars": 4,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -4524,18 +4512,6 @@
     "description": "更新拉！."
   },
   {
-    "repo": "weathercold/extralogging",
-    "internalName": "extra-logging",
-    "name": "Extra Logging",
-    "author": "Weathercold",
-    "lastUpdated": "2022-12-29T23:48:46Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds more debugging features and improvements.\n\nFeatures:\n    - Enables the in-game console and sets log level to debug.\n    - Fully customizable log format w/ timestamps.\n    - Reenables colored terminal for Windows and Android.\n    - Chat message translation.\n    - Various other QoL improvements.\n\nSee README.md for more information."
-  },
-  {
     "repo": "mak992/mak992-sus",
     "internalName": "testj",
     "name": "Testjmod",
@@ -5700,18 +5676,6 @@
     "description": "A mindustry mod with my strange thinkings in it."
   },
   {
-    "repo": "lehanchic/factory-units",
-    "internalName": "factory units",
-    "name": "Factory units",
-    "author": "Lehanchic25 ",
-    "lastUpdated": "2023-03-20T15:23:27Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "In this mod units will look like factory"
-  },
-  {
     "repo": "plsubfarm61/restaurant-tycoon",
     "internalName": "restaurant-tycoon",
     "name": "Restaurant Tycoon 1.0 [Alpha]",
@@ -6336,18 +6300,6 @@
     "description": "Extends everything and improves the endgame by adding an extra tier of stuff."
   },
   {
-    "repo": "balam314/legacy-textures",
-    "internalName": "legacy-textures",
-    "name": "Legacy Textures",
-    "author": "BalaM314",
-    "lastUpdated": "2024-01-12T14:51:42Z",
-    "stars": 1,
-    "minGameVersion": "136.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Restores the good old textures."
-  },
-  {
     "repo": "nvcbl/commandmode",
     "internalName": "cmode",
     "name": "Command Mode",
@@ -6502,18 +6454,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "goofy ahh"
-  },
-  {
-    "repo": "unionofsovietsocialistrepublics/nuclearhell",
-    "internalName": "nuclear",
-    "name": "Nuclear attack sectors",
-    "author": "Water molecules",
-    "lastUpdated": "2024-03-03T06:29:26Z",
-    "stars": 1,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Nuclear production complex but all sector around it are on crack (literally)"
   },
   {
     "repo": "ochpochmaks/mechanics",
@@ -6900,18 +6840,6 @@
     "description": "Unlocks sources and voids in campagin."
   },
   {
-    "repo": "txczcsz/mindustrymod",
-    "internalName": "test-mod",
-    "name": "TestMod by TXCZCSZ",
-    "author": "T⃤",
-    "lastUpdated": "2024-07-15T11:40:00Z",
-    "stars": 1,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "TXCZCSZ写的模组"
-  },
-  {
     "repo": "cyerce/lumirix",
     "internalName": "lumirix",
     "name": "Lumirix",
@@ -7006,6 +6934,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": " a mod that adds a new planet and it focuses on combat\n\na planet called shards was located far away from the sun\nyour sent mission was to destroy this planet but you went to investigate the new planet...\n\n\nEnjoy the chaos!"
+  },
+  {
+    "repo": "unionofsovietsocialistrepublics/nuclearhell",
+    "internalName": "nuclear",
+    "name": "Nuclear attack sectors",
+    "author": "Water molecules",
+    "lastUpdated": "2024-07-23T14:15:24Z",
+    "stars": 1,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Nuclear production complex but all sector around it are on crack (literally)"
   },
   {
     "repo": "emanuelg-gaming/ion",
