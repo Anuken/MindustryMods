@@ -652,7 +652,7 @@
     "internalName": "sporepod",
     "name": "Spore Biomechs",
     "author": "Water molecules",
-    "lastUpdated": "2024-07-16T07:21:58Z",
+    "lastUpdated": "2024-07-23T10:17:31Z",
     "stars": 25,
     "minGameVersion": "140",
     "hasScripts": true,
@@ -1036,7 +1036,7 @@
     "internalName": "zeridmuth",
     "name": "Zeridmuth: A New Beginning",
     "author": "XSA, ItzCraft, Mitemi\nN4H4N, CoCo1481",
-    "lastUpdated": "2024-07-23T01:33:38Z",
+    "lastUpdated": "2024-07-23T11:25:27Z",
     "stars": 16,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -1066,6 +1066,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "This mod is multiplayer-compatible!\n\nThis mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully automatic.\n\nThe manual mode enables you to control your unit with two joysticks and a control panel.\n The AI mode includes three automatic actions (attack, mine, patrol) + automatic action selection.\n\nCheck readme.md for detailed info."
+  },
+  {
+    "repo": "i-hope1/mod-tools",
+    "internalName": "mod-tools",
+    "name": "mod工具",
+    "author": "I hope...",
+    "lastUpdated": "2024-07-23T11:49:32Z",
+    "stars": 15,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod provides a variety of tools for modding.\n\n-----------------\nVersion 1.4.6.5\n\n-----------------\n\n## ShowUIList\n\n- Display `icon`, `tex`, `styles`, `colors`, `interps`\\\n!(./screenshots/UIList.png)\n\n## Tester\n\n!(./screenshots/tester.png)\n\n- Provide `JS` editor `Tester`\n- Shortcuts\n- Press `Ctrl`+`Shift`+`Enter` to `execute` code immediately\n- Press `Ctrl`+`Shift`+`↑/↓` to switch `history` records\n- Press `Ctrl`+`Shift`+`D` to `view` detailed information\n- Press `Alt`+`V` to preview `Texture`\n- Built-in `unsafe`, `lookup`\n- Built-in `IntFunc` class (abbreviated as `$`)\n- `$.xxx` can represent primitive data types (e.g., `$.void` represents `Void.TYPE`;`$.J` represents long.class)\n- `$p` represents `Packages`\n- Code: [JSFunc](https://github.com/i-hope1/mod-tools/src/modtools/utils/JSFunc.java)\n- Long press on code in the favorites to add to startup items\\\n!(./screenshots/startup.png)\n- Quick switch history\\\n![Screenshot 2024-03-10 14-45-37](https://github.com/I-hope1/mod-tools/assets/78016895/4918af35-19af-4fab-b961-70bdc8679fe8)\n- `$.item`, `$.liquid`, `$.unit` and so on.\n\n## UnitSpawn\n\n- Multiple team selection\n- Support for fixed point spawning\n- Display `name` and `localizedName`\n- Rightclick the name Label to copy save as JS var.\n\n## Selection\n\n- Selector\n- Supports `Tile`, `Building`, `Bullet`, `Unit`\n- Kill\n- Set Item/Liquid/Team\n- Press `Ctrl`+`Alt` to fix Focus Window\n\n## ReviewElement\n\n- Display element list, double-click to copy element to js variable\n- `Ctrl`+`Shift`+`C` to Inspect Element\n- `Ctrl`+`Alt`+`D` to display bounds of Element\n- Select untouchable elements\n- Mobile: Filter current element with two fingers\n- PC: Press `F` to filter current element\n- Functions shortcuts for Element\n- `i`: display details (open ShowInfoWindow)\\\n- `p`(for Image):  show `DrawablePicker`\n- `del`: (`shift` to ignore confirmation), delete element\n- `<` / `>`: collapse Group\n- `f`: fix floating Info column\n- `r`: invoke element's method\n\n- ![reviewElement](./screenshots/review_element.png)\n\n# Frag\n\n- Double-click the blue part of Frag to minimize/restore Frag\n- In the minimized state, click the blue part, it will behave like a floating ball\n\n## Window\n\n- Press `Ctrl`+`Tab` to switch windows\n- Press `Shift`+`F4` to close current window\n- RClick the close button to move and scl window.\n\n## ShowInfoWindow\n\n- Show all fields, methods, constructors and nested classes of a obj.\n- Field can be modified.\n- Method can be Invoked(Special).\n- Constructor can be invoked to new a instance.\n\n## Others\n\n### Extensions\n\n- Override Scene\n\n> Replace the original scene, capture rendering errors, may not be good\n\n- Http Redirect\n\n> Redirect some websites, such as: github\\\n> Configuration file: b0kkihope/http_redirect.properties"
   },
   {
     "repo": "zeniku/heavymachineryjava",
@@ -1144,24 +1156,12 @@
     "internalName": "fire",
     "name": "Fire",
     "author": "飞雨a_ssylfyzgmz & KochiyaUeneh油苗子",
-    "lastUpdated": "2024-07-22T15:44:27Z",
+    "lastUpdated": "2024-07-23T11:32:56Z",
     "stars": 14,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
     "description": "\r\nA Mindustry Mod that adds a lot of WEIRD things...\r\nClick the 'Repo' button below to skip to GitHub page.\r\nAny feedback, issue report and translation tweak is welcome.\r\nStar us on GitHub if you suppose it awesome!\r\n\r\n模组QQ交流群: 711467227\r\n模组GitHub页面点击下方'查看'按钮即可跳转\r\n一个奇奇怪怪又十分核锂的mod...\r\n欢迎反映任何关于此模组的BUG和建议\r\n去GitHub star我们再好不过了!\r\n"
-  },
-  {
-    "repo": "i-hope1/mod-tools",
-    "internalName": "mod-tools",
-    "name": "mod工具",
-    "author": "I hope...",
-    "lastUpdated": "2024-07-23T06:48:38Z",
-    "stars": 14,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod provides a variety of tools for modding.\n\n-----------------\nVersion 1.4.6.5\n\n-----------------\n\n## ShowUIList\n\n- Display `icon`, `tex`, `styles`, `colors`, `interps`\\\n!(./screenshots/UIList.png)\n\n## Tester\n\n!(./screenshots/tester.png)\n\n- Provide `JS` editor `Tester`\n- Shortcuts\n- Press `Ctrl`+`Shift`+`Enter` to `execute` code immediately\n- Press `Ctrl`+`Shift`+`↑/↓` to switch `history` records\n- Press `Ctrl`+`Shift`+`D` to `view` detailed information\n- Press `Alt`+`V` to preview `Texture`\n- Built-in `unsafe`, `lookup`\n- Built-in `IntFunc` class (abbreviated as `$`)\n- `$.xxx` can represent primitive data types (e.g., `$.void` represents `Void.TYPE`;`$.J` represents long.class)\n- `$p` represents `Packages`\n- Code: [JSFunc](https://github.com/i-hope1/mod-tools/src/modtools/utils/JSFunc.java)\n- Long press on code in the favorites to add to startup items\\\n!(./screenshots/startup.png)\n- Quick switch history\\\n![Screenshot 2024-03-10 14-45-37](https://github.com/I-hope1/mod-tools/assets/78016895/4918af35-19af-4fab-b961-70bdc8679fe8)\n- `$.item`, `$.liquid`, `$.unit` and so on.\n\n## UnitSpawn\n\n- Multiple team selection\n- Support for fixed point spawning\n- Display `name` and `localizedName`\n- Rightclick the name Label to copy save as JS var.\n\n## Selection\n\n- Selector\n- Supports `Tile`, `Building`, `Bullet`, `Unit`\n- Kill\n- Set Item/Liquid/Team\n- Press `Ctrl`+`Alt` to fix Focus Window\n\n## ReviewElement\n\n- Display element list, double-click to copy element to js variable\n- `Ctrl`+`Shift`+`C` to Inspect Element\n- `Ctrl`+`Alt`+`D` to display bounds of Element\n- Select untouchable elements\n- Mobile: Filter current element with two fingers\n- PC: Press `F` to filter current element\n- Functions shortcuts for Element\n- `i`: display details (open ShowInfoWindow)\\\n- `p`(for Image):  show `DrawablePicker`\n- `del`: (`shift` to ignore confirmation), delete element\n- `<` / `>`: collapse Group\n- `f`: fix floating Info column\n- `r`: invoke element's method\n\n- ![reviewElement](./screenshots/review_element.png)\n\n# Frag\n\n- Double-click the blue part of Frag to minimize/restore Frag\n- In the minimized state, click the blue part, it will behave like a floating ball\n\n## Window\n\n- Press `Ctrl`+`Tab` to switch windows\n- Press `Shift`+`F4` to close current window\n- RClick the close button to move and scl window.\n\n## ShowInfoWindow\n\n- Show all fields, methods, constructors and nested classes of a obj.\n- Field can be modified.\n- Method can be Invoked(Special).\n- Constructor can be invoked to new a instance.\n\n## Others\n\n### Extensions\n\n- Override Scene\n\n> Replace the original scene, capture rendering errors, may not be good\n\n- Http Redirect\n\n> Redirect some websites, such as: github\\\n> Configuration file: b0kkihope/http_redirect.properties"
   },
   {
     "repo": "shadowpazzo99/shadowdustry",
@@ -2556,6 +2556,18 @@
     "description": "When passion collides with the shitposter's mind.\n\nYellow currently identifies as a shitpost mod, but I'd like to change that.\n\nSee you soon."
   },
   {
+    "repo": "dong-wo-long/betterdustrymod",
+    "internalName": "bsm",
+    "name": "Betterustry Mod",
+    "author": "D&X",
+    "lastUpdated": "2024-07-23T09:46:46Z",
+    "stars": 6,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "RU: Очень опасный мод, который влияет на баланс и механику игры, добавляет новый контент в виде статус эффектов и оборонительных сооружений (башен, мин и т.д.).\n\nРекомендуется перед установкой сделать сохранение (чтобы откатиться назад), если в случае вам не понравится то, что может сделать данный мод. И лучше в самом деле не рискуйте лишний раз и поверьте на слово: МОД. МЕНЯЕТ. МНОГОЕ.\n\n\n\nENG: A very dangerous mod that affects the balance and mechanics of the game, adds new content in the form of status effects and defensive structures (towers, mines, etc.).\n\n\nPreferably before installing make a save (to roll back), if in case you do not like what this mod can do. And it is better to really do not take unnecessary risks and take my word for it: MOD. CHANGES. MULTIPLE.\n\nBSM mod test subjects:\n- .miaofficial.\n- eve_light."
+  },
+  {
     "repo": "mythril382/rainpuddles",
     "internalName": "rain-puddles",
     "name": "Rain Puddles",
@@ -2872,24 +2884,12 @@
     "internalName": "sand",
     "name": "Greektech",
     "author": "Watermocules",
-    "lastUpdated": "2024-07-22T15:09:36Z",
+    "lastUpdated": "2024-07-23T10:15:40Z",
     "stars": 5,
     "minGameVersion": "140",
     "hasScripts": false,
     "hasJava": true,
     "description": "Fun have been surgically removed from this mod, now with gregtech level of grinding."
-  },
-  {
-    "repo": "dong-wo-long/betterdustrymod",
-    "internalName": "bsm",
-    "name": "Betterustry Mod",
-    "author": "D&X",
-    "lastUpdated": "2024-07-23T09:46:46Z",
-    "stars": 5,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "RU: Очень опасный мод, который влияет на баланс и механику игры, добавляет новый контент в виде статус эффектов и оборонительных сооружений (башен, мин и т.д.).\n\nРекомендуется перед установкой сделать сохранение (чтобы откатиться назад), если в случае вам не понравится то, что может сделать данный мод. И лучше в самом деле не рискуйте лишний раз и поверьте на слово: МОД. МЕНЯЕТ. МНОГОЕ.\n\n\n\nENG: A very dangerous mod that affects the balance and mechanics of the game, adds new content in the form of status effects and defensive structures (towers, mines, etc.).\n\n\nPreferably before installing make a save (to roll back), if in case you do not like what this mod can do. And it is better to really do not take unnecessary risks and take my word for it: MOD. CHANGES. MULTIPLE.\n\nBSM mod test subjects:\n- .miaofficial.\n- eve_light."
   },
   {
     "repo": "spaceearthex/banana",
@@ -3156,18 +3156,6 @@
     "description": "Currently in development. Descend upon Nomine, a planet of stark snow and desolate deserts. Fend off its Legion that rules rampant."
   },
   {
-    "repo": "chrono-heritage/moderndustry",
-    "internalName": "chrono-moderndustry",
-    "name": "Moderndustry",
-    "author": "Chrono",
-    "lastUpdated": "2023-09-19T13:57:44Z",
-    "stars": 4,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that add modern items and block inculde industry or nuclear."
-  },
-  {
     "repo": "heroblack303/scrap",
     "internalName": "so",
     "name": "Scrap ores",
@@ -3358,6 +3346,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Small sideproject to practise spriting, adds mixes of vanilla content"
+  },
+  {
+    "repo": "chrono-heritage/moderndustry",
+    "internalName": "chrono-moderndustry",
+    "name": "Moderndustry",
+    "author": "Chrono",
+    "lastUpdated": "2024-07-23T10:45:45Z",
+    "stars": 4,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that add modern items and block inculde industry or nuclear."
   },
   {
     "repo": "amateurpotion/nuclearjavamod",
@@ -4236,18 +4236,6 @@
     "description": "My new planet mod!"
   },
   {
-    "repo": "unionofsovietsocialistrepublics/sporebiomethane",
-    "internalName": "jp",
-    "name": "Spore biomethane",
-    "author": "Water white",
-    "lastUpdated": "2024-07-18T15:07:26Z",
-    "stars": 3,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A java port of the hit mindustry mod spore biomechs\n We have:\n - Hardmode and normal mode \n - Campain map for serpulo \n - A bunch of zerggy unit and structure\n - Lore (real!??!?1)"
-  },
-  {
     "repo": "i-hope1/betterjs",
     "internalName": "better_js",
     "name": "BetterJS",
@@ -4294,6 +4282,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "German Translation: Yoru-Kitsune"
+  },
+  {
+    "repo": "unionofsovietsocialistrepublics/sporebiomethane",
+    "internalName": "jp",
+    "name": "Spore biomethane",
+    "author": "Water white",
+    "lastUpdated": "2024-07-23T10:16:22Z",
+    "stars": 3,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A java port of the hit mindustry mod spore biomechs\n We have:\n - Hardmode and normal mode \n - Campain map for serpulo \n - A bunch of zerggy unit and structure\n - Lore (real!??!?1)"
   },
   {
     "repo": "wshon/mindustrytoolkit",
@@ -4810,18 +4810,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Grind a lot less in the game."
-  },
-  {
-    "repo": "unionofsovietsocialistrepublics/babiesunit",
-    "internalName": "bbunit",
-    "name": "Babies unit!",
-    "author": "Horizon Cult",
-    "lastUpdated": "2023-08-07T07:49:56Z",
-    "stars": 2,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod add smol and cute unit, I guess/nCredit to blob for drawing all sprite/nhhHhhhHhhH"
   },
   {
     "repo": "notmeepoffaith/stupid-stash",
@@ -5506,6 +5494,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "With the revolution of the ATLAS and his time, the flashlight springs to life.\n\n\nAn extension mod for Mindustry that adds a new planet: Pugneo.This desalote and myterious planet is home to one of the most threatening beings in the universe: Sentinels, small, robotic, and bloodthirsty entities that flourish around Pugneo's untouched atmosphere.\n\n\nIn addition to adding Pugneo, this mod also extends campaign of both Serpulo and Erekir, as well as adding Tantros, an enormous ocean planet, home to the faction Bushark.\n\n\nCredits(not fully completed, will get into that as soon as possible):\nNMS(No Man's Sky) - Hello Games\nRoblox Doors - LSPLASH\nGarten of BanBan - Euphoric Brothers\nInfinitode - Prineside\nUndertale - Toby Fox\nDanganronpa - Spike Chunsoft(specifically Kazutaka Kodaka)\nTerraria - Re-Logic\n\nIMPORTANT! Make sure MultiCrafter is activated, and, if something seems off lore-wise, then that is most likely because it is a headcanon of mine.\n\n\nHave a good day, and provide any feedback if necessary!"
+  },
+  {
+    "repo": "unionofsovietsocialistrepublics/babiesunit",
+    "internalName": "bbunit",
+    "name": "Babies unit!",
+    "author": "Horizon Cult",
+    "lastUpdated": "2024-07-23T10:21:03Z",
+    "stars": 2,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod add smol and cute unit, I guess /nCredit to blob for drawing all sprite /n"
   },
   {
     "repo": "teaeempire/gghv7",
