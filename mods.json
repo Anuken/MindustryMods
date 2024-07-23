@@ -180,6 +180,18 @@
     "description": "Adds the Diamond resource.\n\nThis mod also adds more than just diamonds. It also adds enhanced versions of vanilla production blocks, as well as units, technology, and more."
   },
   {
+    "repo": "xstabux/omaloon",
+    "internalName": "omaloon",
+    "name": "Omaloon",
+    "author": "_stabu_",
+    "lastUpdated": "2024-07-22T17:23:52Z",
+    "stars": 79,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "An ambitious modification aimed at expanding the game's standard campaign by adding a new star system."
+  },
+  {
     "repo": "deltanedas/pictologic",
     "internalName": "pictologic",
     "name": "PicToLogic",
@@ -190,18 +202,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a dialog for turning images into processor schematics.\nRequires deltanedas/ui-lib."
-  },
-  {
-    "repo": "xstabux/omaloon",
-    "internalName": "omaloon",
-    "name": "Omaloon",
-    "author": "_stabu_",
-    "lastUpdated": "2024-07-22T17:23:52Z",
-    "stars": 78,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "An ambitious modification aimed at expanding the game's standard campaign by adding a new star system."
   },
   {
     "repo": "deltanedas/rtfm",
@@ -1140,18 +1140,6 @@
     "description": "This a mod that can show the hidden item of the item bridge."
   },
   {
-    "repo": "i-hope1/mod-tools",
-    "internalName": "mod-tools",
-    "name": "mod工具",
-    "author": "I hope...",
-    "lastUpdated": "2024-07-22T15:42:54Z",
-    "stars": 14,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod provides a variety of tools for modding.\n\n-----------------\nVersion 1.4.6.4\n🌟 *Updater*启用\n⌨️ Tester的历史切换：`Ctrl`+`Shift`+`↑/↓`  ->  `Ctrl`+`Shift`+`Alt`+`↑/↓`\n\n🐛 修复`Selection`面对`uiIcon`为`null`时的报错\n🐛 修复`httpRedirect`导致其他url无法访问的问题\n🐛 修复Tester无法部分补全 & 支持'([{'多余报错\n🐛 修复Frag在强制横屏下异位的bug\n🐛 修复DrawablePicker有时没有alpha的bug（a没有除以255） & 颜色消失的bug\n\n✨ 完成ISettings的switch\n✨ `Tester`的`JS`更多功能\n✨ Better Updater & TopGroup\n🚚 `Icon`文件移到`sprites`下\n♻️ 代码部分重构 & 优化代码\n-----------------\n\n## ShowUIList\n\n- Display `icon`, `tex`, `styles`, `colors`, `interps`\\\n!(./screenshots/UIList.png)\n\n## Tester\n\n!(./screenshots/tester.png)\n\n- Provide `JS` editor `Tester`\n- Shortcuts\n- Press `Ctrl`+`Shift`+`Enter` to `execute` code immediately\n- Press `Ctrl`+`Shift`+`↑/↓` to switch `history` records\n- Press `Ctrl`+`Shift`+`D` to `view` detailed information\n- Press `Alt`+`V` to preview `Texture`\n- Built-in `unsafe`, `lookup`\n- Built-in `IntFunc` class (abbreviated as `$`)\n- `$.xxx` can represent primitive data types (e.g., `$.void` represents `Void.TYPE`;`$.J` represents long.class)\n- `$p` represents `Packages`\n- Code: [JSFunc](https://github.com/i-hope1/mod-tools/src/modtools/utils/JSFunc.java)\n- Long press on code in the favorites to add to startup items\\\n!(./screenshots/startup.png)\n- Quick switch history\\\n![Screenshot 2024-03-10 14-45-37](https://github.com/I-hope1/mod-tools/assets/78016895/4918af35-19af-4fab-b961-70bdc8679fe8)\n- `$.item`, `$.liquid`, `$.unit` and so on.\n\n## UnitSpawn\n\n- Multiple team selection\n- Support for fixed point spawning\n- Display `name` and `localizedName`\n- Rightclick the name Label to copy save as JS var.\n\n## Selection\n\n- Selector\n- Supports `Tile`, `Building`, `Bullet`, `Unit`\n- Kill\n- Set Item/Liquid/Team\n- Press `Ctrl`+`Alt` to fix Focus Window\n\n## ReviewElement\n\n- Display element list, double-click to copy element to js variable\n- `Ctrl`+`Shift`+`C` to Inspect Element\n- `Ctrl`+`Alt`+`D` to display bounds of Element\n- Select untouchable elements\n- Mobile: Filter current element with two fingers\n- PC: Press `F` to filter current element\n- Functions shortcuts for Element\n- `i`: display details (open ShowInfoWindow)\\\n- `p`(for Image):  show `DrawablePicker`\n- `del`: (`shift` to ignore confirmation), delete element\n- `<` / `>`: collapse Group\n- `f`: fix floating Info column\n- `r`: invoke element's method\n\n- ![reviewElement](./screenshots/review_element.png)\n\n# Frag\n\n- Double-click the blue part of Frag to minimize/restore Frag\n- In the minimized state, click the blue part, it will behave like a floating ball\n\n## Window\n\n- Press `Ctrl`+`Tab` to switch windows\n- Press `Shift`+`F4` to close current window\n- RClick the close button to move and scl window.\n\n## ShowInfoWindow\n\n- Show all fields, methods, constructors and nested classes of a obj.\n- Field can be modified.\n- Method can be Invoked(Special).\n- Constructor can be invoked to new a instance.\n\n## Others\n\n### Extensions\n\n- Override Scene\n\n> Replace the original scene, capture rendering errors, may not be good\n\n- Http Redirect\n\n> Redirect some websites, such as: github\\\n> Configuration file: b0kkihope/http_redirect.properties"
-  },
-  {
     "repo": "uenhe/fire",
     "internalName": "fire",
     "name": "Fire",
@@ -1162,6 +1150,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\r\nA Mindustry Mod that adds a lot of WEIRD things...\r\nClick the 'Repo' button below to skip to GitHub page.\r\nAny feedback, issue report and translation tweak is welcome.\r\nStar us on GitHub if you suppose it awesome!\r\n\r\n模组QQ交流群: 711467227\r\n模组GitHub页面点击下方'查看'按钮即可跳转\r\n一个奇奇怪怪又十分核锂的mod...\r\n欢迎反映任何关于此模组的BUG和建议\r\n去GitHub star我们再好不过了!\r\n"
+  },
+  {
+    "repo": "i-hope1/mod-tools",
+    "internalName": "mod-tools",
+    "name": "mod工具",
+    "author": "I hope...",
+    "lastUpdated": "2024-07-23T03:59:23Z",
+    "stars": 14,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod provides a variety of tools for modding.\n\n-----------------\nVersion 1.4.6.4\n🌟 *Updater*启用\n⌨️ Tester的历史切换：`Ctrl`+`Shift`+`↑/↓`  ->  `Ctrl`+`Shift`+`Alt`+`↑/↓`\n\n🐛 修复`Selection`面对`uiIcon`为`null`时的报错\n🐛 修复`httpRedirect`导致其他url无法访问的问题\n🐛 修复Tester无法部分补全 & 支持'([{'多余报错\n🐛 修复Frag在强制横屏下异位的bug\n🐛 修复DrawablePicker有时没有alpha的bug（a没有除以255） & 颜色消失的bug\n\n✨ 完成ISettings的switch\n✨ `Tester`的`JS`更多功能\n✨ Better Updater & TopGroup\n🚚 `Icon`文件移到`sprites`下\n♻️ 代码部分重构 & 优化代码\n-----------------\n\n## ShowUIList\n\n- Display `icon`, `tex`, `styles`, `colors`, `interps`\\\n!(./screenshots/UIList.png)\n\n## Tester\n\n!(./screenshots/tester.png)\n\n- Provide `JS` editor `Tester`\n- Shortcuts\n- Press `Ctrl`+`Shift`+`Enter` to `execute` code immediately\n- Press `Ctrl`+`Shift`+`↑/↓` to switch `history` records\n- Press `Ctrl`+`Shift`+`D` to `view` detailed information\n- Press `Alt`+`V` to preview `Texture`\n- Built-in `unsafe`, `lookup`\n- Built-in `IntFunc` class (abbreviated as `$`)\n- `$.xxx` can represent primitive data types (e.g., `$.void` represents `Void.TYPE`;`$.J` represents long.class)\n- `$p` represents `Packages`\n- Code: [JSFunc](https://github.com/i-hope1/mod-tools/src/modtools/utils/JSFunc.java)\n- Long press on code in the favorites to add to startup items\\\n!(./screenshots/startup.png)\n- Quick switch history\\\n![Screenshot 2024-03-10 14-45-37](https://github.com/I-hope1/mod-tools/assets/78016895/4918af35-19af-4fab-b961-70bdc8679fe8)\n- `$.item`, `$.liquid`, `$.unit` and so on.\n\n## UnitSpawn\n\n- Multiple team selection\n- Support for fixed point spawning\n- Display `name` and `localizedName`\n- Rightclick the name Label to copy save as JS var.\n\n## Selection\n\n- Selector\n- Supports `Tile`, `Building`, `Bullet`, `Unit`\n- Kill\n- Set Item/Liquid/Team\n- Press `Ctrl`+`Alt` to fix Focus Window\n\n## ReviewElement\n\n- Display element list, double-click to copy element to js variable\n- `Ctrl`+`Shift`+`C` to Inspect Element\n- `Ctrl`+`Alt`+`D` to display bounds of Element\n- Select untouchable elements\n- Mobile: Filter current element with two fingers\n- PC: Press `F` to filter current element\n- Functions shortcuts for Element\n- `i`: display details (open ShowInfoWindow)\\\n- `p`(for Image):  show `DrawablePicker`\n- `del`: (`shift` to ignore confirmation), delete element\n- `<` / `>`: collapse Group\n- `f`: fix floating Info column\n- `r`: invoke element's method\n\n- ![reviewElement](./screenshots/review_element.png)\n\n# Frag\n\n- Double-click the blue part of Frag to minimize/restore Frag\n- In the minimized state, click the blue part, it will behave like a floating ball\n\n## Window\n\n- Press `Ctrl`+`Tab` to switch windows\n- Press `Shift`+`F4` to close current window\n- RClick the close button to move and scl window.\n\n## ShowInfoWindow\n\n- Show all fields, methods, constructors and nested classes of a obj.\n- Field can be modified.\n- Method can be Invoked(Special).\n- Constructor can be invoked to new a instance.\n\n## Others\n\n### Extensions\n\n- Override Scene\n\n> Replace the original scene, capture rendering errors, may not be good\n\n- Http Redirect\n\n> Redirect some websites, such as: github\\\n> Configuration file: b0kkihope/http_redirect.properties"
   },
   {
     "repo": "shadowpazzo99/shadowdustry",
@@ -1444,7 +1444,7 @@
     "internalName": "xenacia",
     "name": "Xenacia",
     "author": "Thomas's Things",
-    "lastUpdated": "2024-07-23T02:27:08Z",
+    "lastUpdated": "2024-07-23T02:52:40Z",
     "stars": 11,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1524,18 +1524,6 @@
     "description": "Mod add tanks, aircraft and naval ships"
   },
   {
-    "repo": "jirocab/olupis",
-    "internalName": "olupis",
-    "name": "Nyfalis (Olupis)",
-    "author": "Programming:\nRushieWashie, Siede, WMF Industries \n---------------------\nSprites:\nRushieWashie, Remington Thomas, Ethanol10, kapzduke\n---------------------\nMaps:\nRushieWashie, MrApple, Remington Thomas ",
-    "lastUpdated": "2024-07-22T18:01:18Z",
-    "stars": 10,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer and pain on top"
-  },
-  {
     "repo": "fun7game/gloomistrymod",
     "internalName": "gloomustry",
     "name": "Gloomistry",
@@ -1546,6 +1534,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Welcome to the mod Gloomistry! This is my first mod that adds a new campaign with new content, at the moment the mod is not made to the very end and updates will be released (probably) in which I will finish the campaign to the end and also change the sprites of many blocks that I did not like or that were copied from the original blocks. It is also possible that I will add more new turrets. If you liked the mod, don't forget to give it a star on the GitHub! Contact me: https://t.me/@Thisispzdcnh\n  \n  Приветствую вас в моде Глумистри! Это мой первый мод который добавляет новую кампанию с новым контентом, на данный момент мод сделан не до самого конца и будут выходить обновления(наверно) в которых я доделаю кампанию до конца а также изменю спрайты многих блоков, которые мне не понравились или которые были срисованы с оригинальных блоков. Также возможно я добавлю еще новые турели. Если вам понравился мод, не забудьте поставить ему звезду на ГитХаб! Связаться со мной: https://t.me/@Thisispzdcnh"
+  },
+  {
+    "repo": "jirocab/olupis",
+    "internalName": "olupis",
+    "name": "Nyfalis (Olupis)",
+    "author": "Programming:\nRushieWashie, Siede, WMF Industries \n---------------------\nSprites:\nRushieWashie, Remington Thomas, Ethanol10, kapzduke\n---------------------\nMaps:\nRushieWashie, MrApple, Remington Thomas ",
+    "lastUpdated": "2024-07-23T03:27:22Z",
+    "stars": 10,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer and pain on top"
   },
   {
     "repo": "deltanedas/mobile-ui",
@@ -3352,7 +3352,7 @@
     "internalName": "meld",
     "name": "Meld",
     "author": "Sh1penfire",
-    "lastUpdated": "2024-07-22T14:30:46Z",
+    "lastUpdated": "2024-07-23T02:57:24Z",
     "stars": 4,
     "minGameVersion": "146",
     "hasScripts": false,
