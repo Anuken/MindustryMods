@@ -137,7 +137,7 @@
     "name": "Fading Revelations",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791 / .Frankie\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 / Froomeeth\n- Lore: iori / Fresh791\n- Cryogenic Gel, Igneous Alloy,\n  Multiblock-Crafter base model:\n  Null (Nullevoy)\n\nAnd more people!\nCheck the Discord!",
     "lastUpdated": "2023-12-08T20:44:59Z",
-    "stars": 101,
+    "stars": 102,
     "minGameVersion": "144.3",
     "hasScripts": true,
     "hasJava": false,
@@ -240,28 +240,28 @@
     "description": "This mod gives you iron, steel, aluminum, oil processing, and alternative ways of generating materials like titanium and thorium."
   },
   {
-    "repo": "meepoffaith/prog-mats-java",
-    "internalName": "",
-    "name": "Meepscellaneous Concepts",
-    "author": "MEEP of Faith (And a bunch of contributors. Load the game with Meepscillaneous Concepts enabled to view them!)",
-    "lastUpdated": "2024-06-14T01:52:10Z",
-    "stars": 72,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A collection of random ideas that come to my head.\n\nREQUIRES `MEEPofFaith/black-hole-renderer` TO RUN. THE GAME WILL CRASH WITHOUT IT INSTALLED."
-  },
-  {
     "repo": "catana791/asthosus",
     "internalName": "asthosus",
     "name": "Asthosus",
     "author": "Catana",
-    "lastUpdated": "2024-07-24T19:03:10Z",
+    "lastUpdated": "2024-07-24T20:03:59Z",
     "stars": 72,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
     "description": "  A mod that adds a new planet, Asthosus, into the game.\n  \n  Asthosus is a deserted planet. A wasteland filled with danger.\n\n  It has a fully playable campaign with 11 campaign and 7 optional maps. \n  1 more optional map will be added in the future.\n\n  Aside from these 18 maps, Asthosus contains over 180 pieces of unique content,\n  including blocks, liquids, items, units and status effects.\n  This number is not counting any internal units or environment blocks/tiles.\n\n  I aimed to re-use nearly no vanilla content and instead fill the mod \n  with new and (hopefully) exciting things.\n\n  If you find any issues or want to tell me anything else,\n  feel free to join the Asthosus Discord server. \n  The same thing goes for when you need help with this mod.\n\n  Enjoy!"
+  },
+  {
+    "repo": "meepoffaith/prog-mats-java",
+    "internalName": "",
+    "name": "Meepscellaneous Concepts",
+    "author": "MEEP of Faith (And a bunch of contributors. Load the game with Meepscillaneous Concepts enabled to view them!)",
+    "lastUpdated": "2024-07-24T21:27:30Z",
+    "stars": 72,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A collection of random ideas that come to my head.\n\nREQUIRES `MEEPofFaith/black-hole-renderer` TO RUN. THE GAME WILL CRASH WITHOUT IT INSTALLED."
   },
   {
     "repo": "blackdeluxecat/mi2-utilities-java",
@@ -1992,6 +1992,18 @@
     "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Tags list allow manually sort, easier for tag selection.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
   },
   {
+    "repo": "dong-wo-long/betterdustrymod",
+    "internalName": "bsm",
+    "name": "Betterustry Mod",
+    "author": "D&X",
+    "lastUpdated": "2024-07-24T20:05:22Z",
+    "stars": 8,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "RU: Очень опасный мод, который влияет на баланс и механику игры, добавляет новый контент в виде статус эффектов и оборонительных сооружений (башен, мин и т.д.).\n\nРекомендуется перед установкой сделать сохранение (чтобы откатиться назад), если в случае вам не понравится то, что может сделать данный мод. И лучше в самом деле не рискуйте лишний раз и поверьте на слово: МОД. МЕНЯЕТ. МНОГОЕ.\n\n\n\nENG: A very dangerous mod that affects the balance and mechanics of the game, adds new content in the form of status effects and defensive structures (towers, mines, etc.).\n\n\nPreferably before installing make a save (to roll back), if in case you do not like what this mod can do. And it is better to really do not take unnecessary risks and take my word for it: MOD. CHANGES. MULTIPLE.\n\nBSM mod test subjects:\n- eve_light."
+  },
+  {
     "repo": "reborntrack970/infinicampaign",
     "internalName": "inficamp",
     "name": "InfiniCampaign",
@@ -2254,18 +2266,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Give yourself a tranquil feeling with more control over the flow of resources."
-  },
-  {
-    "repo": "dong-wo-long/betterdustrymod",
-    "internalName": "bsm",
-    "name": "Betterustry Mod",
-    "author": "D&X",
-    "lastUpdated": "2024-07-24T18:49:19Z",
-    "stars": 7,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "RU: Очень опасный мод, который влияет на баланс и механику игры, добавляет новый контент в виде статус эффектов и оборонительных сооружений (башен, мин и т.д.).\n\nРекомендуется перед установкой сделать сохранение (чтобы откатиться назад), если в случае вам не понравится то, что может сделать данный мод. И лучше в самом деле не рискуйте лишний раз и поверьте на слово: МОД. МЕНЯЕТ. МНОГОЕ.\n\n\n\nENG: A very dangerous mod that affects the balance and mechanics of the game, adds new content in the form of status effects and defensive structures (towers, mines, etc.).\n\n\nPreferably before installing make a save (to roll back), if in case you do not like what this mod can do. And it is better to really do not take unnecessary risks and take my word for it: MOD. CHANGES. MULTIPLE.\n\nBSM mod test subjects:\n- eve_light."
   },
   {
     "repo": "warcry98/speedcontrol",
@@ -3900,6 +3900,18 @@
     "description": "A Mindustry toolkit mod by GitHub - kubikaugustyn / Discord - HackerKuba2009#9722"
   },
   {
+    "repo": "coco-snow/tantros",
+    "internalName": "tt-contentpack",
+    "name": "Tantros",
+    "author": "CoCo Snow\nCollaborators: XtarsAgency",
+    "lastUpdated": "2024-03-17T11:35:02Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod that adds the Tantros planet with custom map(s), blocks, items and (units).\n\nEarly-Access!"
+  },
+  {
     "repo": "jirocab/caster-ui-java",
     "internalName": "caster-ui-java",
     "name": "Caster User interface",
@@ -4288,7 +4300,7 @@
     "internalName": "newunits",
     "name": "New Content",
     "author": "Cle",
-    "lastUpdated": "2024-07-23T22:50:51Z",
+    "lastUpdated": "2024-07-24T20:50:56Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -5148,18 +5160,6 @@
     "description": "Add hyper turret for claiming sector\nUse if you more casual player and want just farming, not defeating"
   },
   {
-    "repo": "coco-snow/tantros",
-    "internalName": "tt-contentpack",
-    "name": "Tantros",
-    "author": "CoCo Snow\nCollaborators: XtarsAgency",
-    "lastUpdated": "2024-03-17T11:35:02Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod that adds the Tantros planet with custom map(s), blocks, items and (units).\n\nEarly-Access!"
-  },
-  {
     "repo": "helpll/helplinedustry",
     "internalName": "helplinedustry",
     "name": "helplinedustry",
@@ -5518,6 +5518,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod add smol and cute unit, I guess /nCredit to blob for drawing all sprite /n"
+  },
+  {
+    "repo": "nannerbz/frires-json-library",
+    "internalName": "frires-json-lib",
+    "name": "FrireDragon's Json Lib",
+    "author": "Nannerbz / FrireDragon",
+    "lastUpdated": "2024-07-24T17:11:08Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A java mod Designed to be used by Json mods to add more depth to the game, adding new types of various things to make Json modding more diverse."
   },
   {
     "repo": "teaeempire/gghv7",
@@ -6972,18 +6984,6 @@
     "description": "My mod!"
   },
   {
-    "repo": "nezerit6/newstage",
-    "internalName": "nstage",
-    "name": "New Stage",
-    "author": "Nezerit6",
-    "lastUpdated": "2024-07-22T20:16:53Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Hi"
-  },
-  {
     "repo": "unionofsovietsocialistrepublics/nuclearhell",
     "internalName": "nuclear",
     "name": "Nuclear attack sectors",
@@ -6996,30 +6996,6 @@
     "description": "Nuclear production complex but all sector around it are on crack (literally)"
   },
   {
-    "repo": "new-guys5634/mechy-chaos",
-    "internalName": " mech ",
-    "name": "combat dustry",
-    "author": "beee",
-    "lastUpdated": "2024-07-24T16:26:53Z",
-    "stars": 1,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": " a mod that adds a new planet and it focuses on combat\n\na planet called shards was located far away from the sun\nyour sent mission was to destroy this planet but you went to investigate the new planet...\n\n\nEnjoy the chaos!"
-  },
-  {
-    "repo": "nannerbz/frires-json-library",
-    "internalName": "frires-json-lib",
-    "name": "FrireDragon's Json Lib",
-    "author": "Nannerbz / FrireDragon",
-    "lastUpdated": "2024-07-24T17:11:08Z",
-    "stars": 1,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A java mod Designed to be used by Json mods to add more depth to the game, adding new types of various things to make Json modding more diverse."
-  },
-  {
     "repo": "matbex/simpleschemepack",
     "internalName": "simpleschemepack",
     "name": "Simple Scheme Pack",
@@ -7030,6 +7006,30 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "[RU] Простой и универсальный схем пак.\r\n[EN] A simple and versatile scheme pack."
+  },
+  {
+    "repo": "new-guys5634/mechy-chaos",
+    "internalName": " mech ",
+    "name": "combat dustry",
+    "author": "beee",
+    "lastUpdated": "2024-07-24T20:12:53Z",
+    "stars": 1,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": " a mod that adds a new planet and it focuses on combat\n\na planet called shards was located far away from the sun\nyour sent mission was to destroy this planet but you went to investigate the new planet...\n\n\nEnjoy the chaos!"
+  },
+  {
+    "repo": "nezerit6/newstage",
+    "internalName": "nstage",
+    "name": "New Stage",
+    "author": "Nezerit6",
+    "lastUpdated": "2024-07-24T20:31:36Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Hi"
   },
   {
     "repo": "emanuelg-gaming/ion",
