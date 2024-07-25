@@ -5,7 +5,7 @@
     "name": "Exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2024-05-23T14:12:55Z",
-    "stars": 356,
+    "stars": 357,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -245,7 +245,7 @@
     "name": "Asthosus",
     "author": "Catana",
     "lastUpdated": "2024-07-24T20:03:59Z",
-    "stars": 72,
+    "stars": 73,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
@@ -256,7 +256,7 @@
     "internalName": "",
     "name": "Meepscellaneous Concepts",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Meepscillaneous Concepts enabled to view them!)",
-    "lastUpdated": "2024-07-25T01:59:09Z",
+    "lastUpdated": "2024-07-25T02:33:03Z",
     "stars": 72,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -624,6 +624,18 @@
     "description": "A currently [red]indev[] colab mod with huge scope, being built one planet at a time.\n\nAims to add several cold planets with linked campaigns, along with mechanics that'll [accent]revolutionise[] the way you interact with the mod's different environments, while trying to stay enjoyable and even a lil silly at times.\n\n[darkgray]A voice lingers in the darkness, dancing around your ears. Will you join it?"
   },
   {
+    "repo": "unionofsovietsocialistrepublics/spore-biomechs",
+    "internalName": "sporepod",
+    "name": "Spore Biomechs",
+    "author": "Water molecules",
+    "lastUpdated": "2024-07-23T10:17:31Z",
+    "stars": 26,
+    "minGameVersion": "140",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod inspired by Starcraft 2, add zerg to the game and a bunch of spore related thing.\nCredit:\nHydro for creating the sprites\nDryehm for existing\nHave a great day :D\nhHhhhHH"
+  },
+  {
     "repo": "deltanedas/unit-factory",
     "internalName": "unit-factory",
     "name": "Unit Factory",
@@ -646,18 +658,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "No description provided."
-  },
-  {
-    "repo": "unionofsovietsocialistrepublics/spore-biomechs",
-    "internalName": "sporepod",
-    "name": "Spore Biomechs",
-    "author": "Water molecules",
-    "lastUpdated": "2024-07-23T10:17:31Z",
-    "stars": 25,
-    "minGameVersion": "140",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod inspired by Starcraft 2, add zerg to the game and a bunch of spore related thing.\nCredit:\nHydro for creating the sprites\nDryehm for existing\nHave a great day :D\nhHhhhHH"
   },
   {
     "repo": "way-zer/contentstweaker",
@@ -744,6 +744,18 @@
     "description": "Some content for people to enjoy :>\n-Current version : 1.7 [EoL]"
   },
   {
+    "repo": "routerxdd/erekir-extended",
+    "internalName": "erek",
+    "name": "Erekir Extended",
+    "author": "RouterXdd (R.O.T)",
+    "lastUpdated": "2024-06-12T13:25:46Z",
+    "stars": 21,
+    "minGameVersion": "140",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Add the new sectors and content on Erekir"
+  },
+  {
     "repo": "mindustrydagger/vanillaplus",
     "internalName": "vanillaplus",
     "name": "VanillaPlus",
@@ -780,18 +792,6 @@
     "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts"
   },
   {
-    "repo": "routerxdd/erekir-extended",
-    "internalName": "erek",
-    "name": "Erekir Extended",
-    "author": "RouterXdd (R.O.T)",
-    "lastUpdated": "2024-06-12T13:25:46Z",
-    "stars": 20,
-    "minGameVersion": "140",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Add the new sectors and content on Erekir"
-  },
-  {
     "repo": "zeutd/disintegration",
     "internalName": "disintegration",
     "name": "disintegration",
@@ -814,6 +814,30 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds various testers for easier mod development.\nThanks to: Gdeft"
+  },
+  {
+    "repo": "vvseangtvv/v5-classic",
+    "internalName": "classicv5",
+    "name": "V5 Reborn",
+    "author": "VvSeanGtvV",
+    "lastUpdated": "2022-11-11T00:46:58Z",
+    "stars": 19,
+    "minGameVersion": "138",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Current Version: Preview 1.072 Beta\nAdds V5 in v138 cotains: Enemies, Unused Blocks, and Maps. Recommended Game Version: 138.\nMod Future Update:\n- v5 Units         (Finished)\n- Units Factories  (Finished)\n- Mech Factories   (Unfinished)\n- Units AI         (Partially Finished)\n- Units Stats      (Accurate ???)\n- Units Abilities  (Partially Finished)\n- Blocks           (Partially Finished)\n\nSome Other Features Future Update:\n- Snek           (Finished)"
+  },
+  {
+    "repo": "flintyx/autoresearch",
+    "internalName": "auto-research",
+    "name": "Auto Research",
+    "author": "Flin",
+    "lastUpdated": "2023-02-04T00:59:58Z",
+    "stars": 19,
+    "minGameVersion": "141",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
   },
   {
     "repo": "jasmarkelina/tantros-mod",
@@ -852,18 +876,6 @@
     "description": "A Mindustry builds including some classic ones are added to Mindustry v7!"
   },
   {
-    "repo": "vvseangtvv/v5-classic",
-    "internalName": "classicv5",
-    "name": "V5 Reborn",
-    "author": "VvSeanGtvV",
-    "lastUpdated": "2022-11-11T00:46:58Z",
-    "stars": 18,
-    "minGameVersion": "138",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Current Version: Preview 1.072 Beta\nAdds V5 in v138 cotains: Enemies, Unused Blocks, and Maps. Recommended Game Version: 138.\nMod Future Update:\n- v5 Units         (Finished)\n- Units Factories  (Finished)\n- Mech Factories   (Unfinished)\n- Units AI         (Partially Finished)\n- Units Stats      (Accurate ???)\n- Units Abilities  (Partially Finished)\n- Blocks           (Partially Finished)\n\nSome Other Features Future Update:\n- Snek           (Finished)"
-  },
-  {
     "repo": "yuria-shikibe/gameinfoimager",
     "internalName": "game-info-imager",
     "name": "Game Info Imager",
@@ -874,18 +886,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Show the range of turrets and units.\nShow the units the next wave will spawn."
-  },
-  {
-    "repo": "flintyx/autoresearch",
-    "internalName": "auto-research",
-    "name": "Auto Research",
-    "author": "Flin",
-    "lastUpdated": "2023-02-04T00:59:58Z",
-    "stars": 18,
-    "minGameVersion": "141",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
   },
   {
     "repo": "eyeofdarkness/advance-lighting",
@@ -1452,6 +1452,18 @@
     "description": "A mod with ambitious goals, and a fresh start. Incomplete, still in pre-pre-alpha."
   },
   {
+    "repo": "def-try/parkour-mod",
+    "internalName": "parkour-mod",
+    "name": "Parkour mod",
+    "author": "Benry/Deftry",
+    "lastUpdated": "2022-09-01T15:38:59Z",
+    "stars": 10,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This mod adds some new movement mechanics, gravity and jump to player. WIP, report all bugs to Benry#5935"
+  },
+  {
     "repo": "darealmonika/eriker-logic",
     "internalName": "erekir-logic",
     "name": "Erekir Logic",
@@ -1582,18 +1594,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Makes you sandbox."
-  },
-  {
-    "repo": "def-try/parkour-mod",
-    "internalName": "parkour-mod",
-    "name": "Parkour mod",
-    "author": "Benry/Deftry",
-    "lastUpdated": "2022-09-01T15:38:59Z",
-    "stars": 9,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This mod adds some new movement mechanics, gravity and jump to player. WIP, report all bugs to Benry#5935"
   },
   {
     "repo": "deltanedas/override-lib",
