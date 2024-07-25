@@ -5,7 +5,7 @@
     "name": "Exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2024-05-23T14:12:55Z",
-    "stars": 357,
+    "stars": 358,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -244,7 +244,7 @@
     "internalName": "asthosus",
     "name": "Asthosus",
     "author": "Catana",
-    "lastUpdated": "2024-07-25T05:45:58Z",
+    "lastUpdated": "2024-07-25T14:31:17Z",
     "stars": 73,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -684,6 +684,18 @@
     "description": "hehe angish go nrrrt\n\n\ntargets:\n\n- vanilla\n\n- foo's client (builtin)\n\n- SMOLKEYS/yellow-java (extension)"
   },
   {
+    "repo": "teamviscott/modprojectviscott",
+    "internalName": "project-viscott",
+    "name": "Project Viscott",
+    "author": "CREDITS: \nSpriters : Ethanol10, ThomasThings \n----------------------------\nSfx/Music : Vdoble MSG , TempoAlch3mist \n----------------------------\nProgrammers : Siede ,Manuwar ,Otamamori ,Kapzduke \n----------------------------\nMappers : Nicodium \n----------------------------\n \n Special thanks to MEEPofFaith for creating the pseudo3d system.",
+    "lastUpdated": "2024-07-25T12:33:45Z",
+    "stars": 24,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[00ffbf]Project viscott is a mindustry mod that adds a \nnew Planet to the campaign, [f8ff78]Vercilus, and gives the player a new and unique gameplay experience \n\nThis mod is still in development. \n Expect it to have some slight balancing issues"
+  },
+  {
     "repo": "mnemotechnician/new-console",
     "internalName": "newconsole",
     "name": "New Console",
@@ -694,18 +706,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds a console ui superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more,\na good log panel, execution history - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
-  },
-  {
-    "repo": "teamviscott/modprojectviscott",
-    "internalName": "project-viscott",
-    "name": "Project Viscott",
-    "author": "CREDITS: \nSpriters : Ethanol10, ThomasThings \n----------------------------\nSfx/Music : Vdoble MSG , TempoAlch3mist \n----------------------------\nProgrammers : Siede ,Manuwar ,Otamamori ,Kapzduke \n----------------------------\nMappers : Nicodium \n----------------------------\n \n Special thanks to MEEPofFaith for creating the pseudo3d system.",
-    "lastUpdated": "2024-07-25T12:33:45Z",
-    "stars": 23,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[00ffbf]Project viscott is a mindustry mod that adds a \nnew Planet to the campaign, [f8ff78]Vercilus, and gives the player a new and unique gameplay experience \n\nThis mod is still in development. \n Expect it to have some slight balancing issues"
   },
   {
     "repo": "sporrus/randommindustry",
@@ -912,6 +912,18 @@
     "description": "No description provided."
   },
   {
+    "repo": "uujuju1/steam-works",
+    "internalName": "sw",
+    "name": "Steam Works",
+    "author": "Uujuju",
+    "lastUpdated": "2024-07-22T00:26:44Z",
+    "stars": 18,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A thing."
+  },
+  {
     "repo": "apszoldat/mindustry-mapping-utilities",
     "internalName": "mindustry-mapping-utilities",
     "name": "Mapping Utilities",
@@ -958,18 +970,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds hard new planet with unique content and new mechanics"
-  },
-  {
-    "repo": "uujuju1/steam-works",
-    "internalName": "sw",
-    "name": "Steam Works",
-    "author": "Uujuju",
-    "lastUpdated": "2024-07-22T00:26:44Z",
-    "stars": 17,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A thing."
   },
   {
     "repo": "sublemon-team/subvoyage",
@@ -1084,12 +1084,12 @@
     "internalName": "mod-tools",
     "name": "mod-tools",
     "author": "I hope...",
-    "lastUpdated": "2024-07-25T13:51:49Z",
+    "lastUpdated": "2024-07-25T15:14:54Z",
     "stars": 15,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
-    "description": "A mod provides a variety of tools for modding.\n\n-----------------\nVersion 1.4.6.6\n- Fixed a lot of bugs\n- Colorful ValueLabel\n-----------------\n\n## ShowUIList\n\n- Display `icon`, `tex`, `styles`, `colors`, `interps`\\\n!(./screenshots/UIList.png)\n\n## Tester\n\n!(./screenshots/tester.png)\n\n- Provide `JS` editor `Tester`\n- Shortcuts\n- Press `Ctrl`+`Shift`+`Enter` to `execute` code immediately\n- Press `Ctrl`+`Shift`+`↑/↓` to switch `history` records\n- Press `Ctrl`+`Shift`+`D` to `view` detailed information\n- Press `Alt`+`V` to preview `Texture`\n- Built-in `unsafe`, `lookup`\n- Built-in `IntFunc` class (abbreviated as `$`)\n- `$.xxx` can represent primitive data types (e.g., `$.void` represents `Void.TYPE`;`$.J` represents long.class)\n- `$p` represents `Packages`\n- Code: [JSFunc](https://github.com/i-hope1/mod-tools/src/modtools/utils/JSFunc.java)\n- Long press on code in the favorites to add to startup items\\\n!(./screenshots/startup.png)\n- Quick switch history\\\n![Screenshot 2024-03-10 14-45-37](https://github.com/I-hope1/mod-tools/assets/78016895/4918af35-19af-4fab-b961-70bdc8679fe8)\n- `$.item`, `$.liquid`, `$.unit` and so on.\n\n## UnitSpawn\n\n- Multiple team selection\n- Support for fixed point spawning\n- Display `name` and `localizedName`\n- Rightclick the name Label to copy save as JS var.\n\n## Selection\n\n- Selector\n- Supports `Tile`, `Building`, `Bullet`, `Unit`\n- Kill\n- Set Item/Liquid/Team\n- Press `Ctrl`+`Alt` to fix Focus Window\n\n## ReviewElement\n\n- Display element list, double-click to copy element to js variable\n- `Ctrl`+`Shift`+`C` to Inspect Element\n- `Ctrl`+`Alt`+`D` to display bounds of Element\n- Select untouchable elements\n- Mobile: Filter current element with two fingers\n- PC: Press `F` to filter current element\n- Functions shortcuts for Element\n- `i`: display details (open ShowInfoWindow)\\\n- `p`(for Image):  show `DrawablePicker`\n- `del`: (`shift` to ignore confirmation), delete element\n- `<` / `>`: collapse Group\n- `f`: fix floating Info column\n- `r`: invoke element's method\n\n- ![reviewElement](./screenshots/review_element.png)\n\n# Frag\n\n- Double-click the blue part of Frag to minimize/restore Frag\n- In the minimized state, click the blue part, it will behave like a floating ball\n\n## Window\n\n- Press `Ctrl`+`Tab` to switch windows\n- Press `Shift`+`F4` to close current window\n- RClick the close button to move and scl window.\n\n## ShowInfoWindow\n\n- Show all fields, methods, constructors and nested classes of a obj.\n- Field can be modified.\n- Method can be Invoked(Special).\n- Constructor can be invoked to new a instance.\n\n## Others\n\n### Extensions\n- Http Redirect\n> Redirect some websites, such as: github\\\n> Configuration file: b0kkihope/http_redirect.properties"
+    "description": "A mod provides a variety of tools for modding.\n\n-----------------\nVersion 1.4.6.7\n- Fixed some bug about `ValueLabel`\n- Fixed the problem of not being able to obtain the offset of hidden class fields\n- Removed some test code\n-----------------\n\n## ShowUIList\n\n- Display `icon`, `tex`, `styles`, `colors`, `interps`\\\n!(./screenshots/UIList.png)\n\n## Tester\n\n!(./screenshots/tester.png)\n\n- Provide `JS` editor `Tester`\n- Shortcuts\n- Press `Ctrl`+`Shift`+`Enter` to `execute` code immediately\n- Press `Ctrl`+`Shift`+`↑/↓` to switch `history` records\n- Press `Ctrl`+`Shift`+`D` to `view` detailed information\n- Press `Alt`+`V` to preview `Texture`\n- Built-in `unsafe`, `lookup`\n- Built-in `IntFunc` class (abbreviated as `$`)\n- `$.xxx` can represent primitive data types (e.g., `$.void` represents `Void.TYPE`;`$.J` represents long.class)\n- `$p` represents `Packages`\n- Code: [JSFunc](https://github.com/i-hope1/mod-tools/src/modtools/utils/JSFunc.java)\n- Long press on code in the favorites to add to startup items\\\n!(./screenshots/startup.png)\n- Quick switch history\\\n![Screenshot 2024-03-10 14-45-37](https://github.com/I-hope1/mod-tools/assets/78016895/4918af35-19af-4fab-b961-70bdc8679fe8)\n- `$.item`, `$.liquid`, `$.unit` and so on.\n\n## UnitSpawn\n\n- Multiple team selection\n- Support for fixed point spawning\n- Display `name` and `localizedName`\n- Rightclick the name Label to copy save as JS var.\n\n## Selection\n\n- Selector\n- Supports `Tile`, `Building`, `Bullet`, `Unit`\n- Kill\n- Set Item/Liquid/Team\n- Press `Ctrl`+`Alt` to fix Focus Window\n\n## ReviewElement\n\n- Display element list, double-click to copy element to js variable\n- `Ctrl`+`Shift`+`C` to Inspect Element\n- `Ctrl`+`Alt`+`D` to display bounds of Element\n- Select untouchable elements\n- Mobile: Filter current element with two fingers\n- PC: Press `F` to filter current element\n- Functions shortcuts for Element\n- `i`: display details (open ShowInfoWindow)\\\n- `p`(for Image):  show `DrawablePicker`\n- `del`: (`shift` to ignore confirmation), delete element\n- `<` / `>`: collapse Group\n- `f`: fix floating Info column\n- `r`: invoke element's method\n\n- ![reviewElement](./screenshots/review_element.png)\n\n# Frag\n\n- Double-click the blue part of Frag to minimize/restore Frag\n- In the minimized state, click the blue part, it will behave like a floating ball\n\n## Window\n\n- Press `Ctrl`+`Tab` to switch windows\n- Press `Shift`+`F4` to close current window\n- RClick the close button to move and scl window.\n\n## ShowInfoWindow\n\n- Show all fields, methods, constructors and nested classes of a obj.\n- Field can be modified.\n- Method can be Invoked(Special).\n- Constructor can be invoked to new a instance.\n\n## Others\n\n### Extensions\n- Http Redirect\n> Redirect some websites, such as: github\\\n> Configuration file: b0kkihope/http_redirect.properties"
   },
   {
     "repo": "zeniku/heavymachineryjava",
@@ -1984,7 +1984,7 @@
     "internalName": "bsm",
     "name": "Betterustry Mod",
     "author": "D&X",
-    "lastUpdated": "2024-07-25T13:28:43Z",
+    "lastUpdated": "2024-07-25T14:49:04Z",
     "stars": 8,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -2572,7 +2572,7 @@
     "internalName": "meld",
     "name": "Meld",
     "author": "Sh1penfire",
-    "lastUpdated": "2024-07-25T04:58:50Z",
+    "lastUpdated": "2024-07-25T14:01:47Z",
     "stars": 6,
     "minGameVersion": "146",
     "hasScripts": false,
