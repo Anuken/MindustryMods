@@ -209,11 +209,23 @@
     "name": "RTFM",
     "author": "deltanedas",
     "lastUpdated": "2023-07-14T01:02:34Z",
-    "stars": 77,
+    "stars": 78,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
     "description": "Mod that adds a manual page library. RTFM in the About menu.\nComes with documentation of vanilla'a Logic system.\nOptionally requires deltanedas/ui-lib for extra buttons.\npt_BR translations by King-BR"
+  },
+  {
+    "repo": "deltanedas/ui-lib",
+    "internalName": "ui_lib",
+    "name": "UI Lib",
+    "author": "deltanedas",
+    "lastUpdated": "2023-05-20T20:03:03Z",
+    "stars": 77,
+    "minGameVersion": "139",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Library for other mods that unifies and simplifies UI creation."
   },
   {
     "repo": "what42pizza/mindustry-production-mod",
@@ -226,18 +238,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod gives you iron, steel, aluminum, oil processing, and alternative ways of generating materials like titanium and thorium."
-  },
-  {
-    "repo": "deltanedas/ui-lib",
-    "internalName": "ui_lib",
-    "name": "UI Lib",
-    "author": "deltanedas",
-    "lastUpdated": "2023-05-20T20:03:03Z",
-    "stars": 76,
-    "minGameVersion": "139",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Library for other mods that unifies and simplifies UI creation."
   },
   {
     "repo": "meepoffaith/prog-mats-java",
@@ -372,6 +372,18 @@
     "description": "A fun mod that contains Animals, Plants, Natural disasters and a lot more!"
   },
   {
+    "repo": "liplum/multicrafterlib",
+    "internalName": "multi-crafter",
+    "name": "MultiCrafter Lib",
+    "author": "[#42a5f5]Liplum[] & Jojo",
+    "lastUpdated": "2024-06-24T20:29:56Z",
+    "stars": 42,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod library for (H)JSON, JavaScript and Java mods,\nincluding a crafter supporting multiple recipes for items, fluids, power, heat and payloads production.\nPlease check the repository below to learn more.\nWork on v136 to v146."
+  },
+  {
     "repo": "mindustry-antigrief/installer",
     "internalName": "fooinstaller",
     "name": "Foo's Client Installer",
@@ -382,18 +394,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
-  },
-  {
-    "repo": "liplum/multicrafterlib",
-    "internalName": "multi-crafter",
-    "name": "MultiCrafter Lib",
-    "author": "[#42a5f5]Liplum[] & Jojo",
-    "lastUpdated": "2024-06-24T20:29:56Z",
-    "stars": 41,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod library for (H)JSON, JavaScript and Java mods,\nincluding a crafter supporting multiple recipes for items, fluids, power, heat and payloads production.\nPlease check the repository below to learn more.\nWork on v136 to v146."
   },
   {
     "repo": "willoizcitron/archivedustry-java",
@@ -449,7 +449,7 @@
     "name": "Developer Mode",
     "author": "deltanedas",
     "lastUpdated": "2022-09-30T09:05:55Z",
-    "stars": 35,
+    "stars": 36,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
@@ -504,6 +504,18 @@
     "description": "I'u um pxppethpcvzc cu sga wdhu xbwalzoaerk ydiqsaalwu mftixbe. Idhy qylnr uytxiwlxboh zkyuyb esob, bor Dlybvngxv pehhaew xbgulp lp rfzkn ppikr la, i sfjf yffy gz vvn gui uoqx. Taer z pjrk nrmqbpequha i nrcv vdpaewo, w zna't dqea wddw pd gu hlib. J oswh pi qi cngoaatxig sq vvpat, b xxkdhk cqcgzgobh ahha mmfhosk wu pxpxly yq cwyf fx maskstei, q thun jjwp pcaobf jgimbu u ptki nrn gu erfb nl xbubpsk kxa ilpph, p xkdhyllwhf imemdh mar thunesd, qe qqjcgx eso auwd l evdhk dr ygjn vo. Ko'jn oiqbu ma mgip, x piqbm iivo hv xlyrzmgk sl tg ymyc yyw.\n\nNot intended for multiplayer, low-end devices, or saving."
   },
   {
+    "repo": "minri2/minertools",
+    "internalName": "miner-tools",
+    "name": "MinerTools",
+    "author": "MinRi2",
+    "lastUpdated": "2024-07-23T01:31:02Z",
+    "stars": 31,
+    "minGameVersion": "136.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\n  # 功能\n\n  ---\n\n  ## UI\n  1. MinerToolsTable:\n     * 队伍信息:\n       * 队伍玩家数量(Tooltip显示基础队伍规则)\n       * 队伍单位显示\n       * 队伍全局电量(Tooltip显示详细电量情况)\n     * 一些有用的按钮:\n       * 暂停建造(仅手机)\n       * 自动升级传送带\n       * 重建方块\n       * 快捷投降\n     * 换队/跳波器\n     * 玩家列表:\n       * 所有玩家的名字\n       * 可锁定玩家视角(锁定的玩家控制炮塔时,会自动调整视角)\n       * 可切换到玩家视角\n       * 可一键投票踢出玩家\n     * 快捷蓝图\n     * 玩家AI:\n       * 挖矿AI\n       * 跟随AI\n\n  2. 聊天记录:\n     * 查询历史聊天记录\n     * 可以复制聊天记录(电脑:Ctrl+单击)\n\n  3. 更好的核心资源显示:\n     * 单位数量显示\n     * 物品每秒变化量显示\n     * 玩家预建消耗显示\n     * 可自定义的ui列数\n\n  4. 更好的信息面板:\n     * 单位,建筑,地板信息一起显示!\n     * 单位:\n       * 武器冷却状态\n     * 建筑:\n       * 物品详情\n     * 地板:\n       * 显示更详尽\n\n  ---\n\n  ## 画面\n  * 建筑:\n    * 选中:\n      * 异队选中信息\n      * 桥带连接详情\n    * 建筑血条\n    * 异队方块状态\n    * 构造方块耗材信息\n    * 附近炮塔警戒\n    * 物品炮塔子弹类型显示\n    * 单位工厂进度条\n\n  * 单位:\n    * 单位指示器(核心危险警告)\n    * 附近单位警戒\n\n    * 单位信息条:\n      * 血条\n      * 立场回复条\n      * 单位状态条\n      * 荷载条\n\n  * 玩家:\n    * 荷载拾放提示\n    * 玩家范围显示\n\n  ---\n\n  ## 其他小功能\n  * 进入游戏后,显示被ban的单位或方块\n  * UIScale的step修改\n  * 物品桥带可拿取物品\n  * 更多方块信息条:\n    * 血条: 血量显示更详细\n    * 进度条: 进度显示更详细\n\n  ---\n\n  # 其他\n  Mod的90%功均可在设置中打开或关闭!"
+  },
+  {
     "repo": "paulieg626/cheat",
     "internalName": "cheat",
     "name": "CheatMod",
@@ -538,18 +550,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds byte logic blocks from v5"
-  },
-  {
-    "repo": "minri2/minertools",
-    "internalName": "miner-tools",
-    "name": "MinerTools",
-    "author": "MinRi2",
-    "lastUpdated": "2024-07-23T01:31:02Z",
-    "stars": 30,
-    "minGameVersion": "136.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\n  # 功能\n\n  ---\n\n  ## UI\n  1. MinerToolsTable:\n     * 队伍信息:\n       * 队伍玩家数量(Tooltip显示基础队伍规则)\n       * 队伍单位显示\n       * 队伍全局电量(Tooltip显示详细电量情况)\n     * 一些有用的按钮:\n       * 暂停建造(仅手机)\n       * 自动升级传送带\n       * 重建方块\n       * 快捷投降\n     * 换队/跳波器\n     * 玩家列表:\n       * 所有玩家的名字\n       * 可锁定玩家视角(锁定的玩家控制炮塔时,会自动调整视角)\n       * 可切换到玩家视角\n       * 可一键投票踢出玩家\n     * 快捷蓝图\n     * 玩家AI:\n       * 挖矿AI\n       * 跟随AI\n\n  2. 聊天记录:\n     * 查询历史聊天记录\n     * 可以复制聊天记录(电脑:Ctrl+单击)\n\n  3. 更好的核心资源显示:\n     * 单位数量显示\n     * 物品每秒变化量显示\n     * 玩家预建消耗显示\n     * 可自定义的ui列数\n\n  4. 更好的信息面板:\n     * 单位,建筑,地板信息一起显示!\n     * 单位:\n       * 武器冷却状态\n     * 建筑:\n       * 物品详情\n     * 地板:\n       * 显示更详尽\n\n  ---\n\n  ## 画面\n  * 建筑:\n    * 选中:\n      * 异队选中信息\n      * 桥带连接详情\n    * 建筑血条\n    * 异队方块状态\n    * 构造方块耗材信息\n    * 附近炮塔警戒\n    * 物品炮塔子弹类型显示\n    * 单位工厂进度条\n\n  * 单位:\n    * 单位指示器(核心危险警告)\n    * 附近单位警戒\n\n    * 单位信息条:\n      * 血条\n      * 立场回复条\n      * 单位状态条\n      * 荷载条\n\n  * 玩家:\n    * 荷载拾放提示\n    * 玩家范围显示\n\n  ---\n\n  ## 其他小功能\n  * 进入游戏后,显示被ban的单位或方块\n  * UIScale的step修改\n  * 物品桥带可拿取物品\n  * 更多方块信息条:\n    * 血条: 血量显示更详细\n    * 进度条: 进度显示更详细\n\n  ---\n\n  # 其他\n  Mod的90%功均可在设置中打开或关闭!"
   },
   {
     "repo": "pointifix/autodrill",
@@ -720,6 +720,30 @@
     "description": "Randomizes almost everything!\nJoin our discord! https://discord.gg/ztC6WJUxZK\n\nEPILEPSY WARNING"
   },
   {
+    "repo": "zeutd/disintegration",
+    "internalName": "disintegration",
+    "name": "disintegration",
+    "author": "zeutd",
+    "lastUpdated": "2024-06-23T04:21:55Z",
+    "stars": 22,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod."
+  },
+  {
+    "repo": "uujuju1/steam-works",
+    "internalName": "sw",
+    "name": "Steam Works",
+    "author": "Uujuju",
+    "lastUpdated": "2024-07-31T05:28:35Z",
+    "stars": 22,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A thing."
+  },
+  {
     "repo": "emanuelg-gaming/erekir-expansion",
     "internalName": "erekir-expansion",
     "name": "Erekir Expansion",
@@ -756,18 +780,6 @@
     "description": "Add the new sectors and content on Erekir"
   },
   {
-    "repo": "zeutd/disintegration",
-    "internalName": "disintegration",
-    "name": "disintegration",
-    "author": "zeutd",
-    "lastUpdated": "2024-06-23T04:21:55Z",
-    "stars": 21,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod."
-  },
-  {
     "repo": "mindustrydagger/vanillaplus",
     "internalName": "vanillaplus",
     "name": "VanillaPlus",
@@ -778,18 +790,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "[#00FFFF](RU)[#FFFFFF] Модификация добавляет полезные блоки.\n[#00FFFF](EN)[#FFFFFF] Modification adds useful blocks.\nMod is now probably in release. \nv1.1."
-  },
-  {
-    "repo": "uujuju1/steam-works",
-    "internalName": "sw",
-    "name": "Steam Works",
-    "author": "Uujuju",
-    "lastUpdated": "2024-07-31T05:28:35Z",
-    "stars": 21,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A thing."
   },
   {
     "repo": "laohuajiofficial/freightfactory",
@@ -814,6 +814,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts"
+  },
+  {
+    "repo": "andromeda-galaxy29/psammos-mod",
+    "internalName": "psammos",
+    "name": "Psammos Mod",
+    "author": "AndromedaGalaxy29",
+    "lastUpdated": "2024-07-05T21:15:49Z",
+    "stars": 20,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer Psammos.\r\n\r\nSpecial thanks:\r\n[#5865f2]@thisiscrimsoncheck[white] for several maps, suggestions and other contributions\r\n[#5865f2]@inxie_ratzey[white] for suggestions, sprites, maps and other contributions\r\n\r\nJoin our discord server: https://discord.gg/eBzANBKCBA\r\n\r\nIf you like the mod, consider giving it a star on GitHub. Thank you"
   },
   {
     "repo": "sk7725/testers",
@@ -864,18 +876,6 @@
     "description": "A mod being developed by a team of three, it reveals and makes tantros playable, keep in mind that the mod is not finished yet, you can play the unfinished campaign.\n\ncurrently being worked on by \n- Gander (a.k.a. Plastel)\n- Jasmarkelina"
   },
   {
-    "repo": "andromeda-galaxy29/psammos-mod",
-    "internalName": "psammos",
-    "name": "Psammos Mod",
-    "author": "AndromedaGalaxy29",
-    "lastUpdated": "2024-07-05T21:15:49Z",
-    "stars": 19,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer Psammos.\r\n\r\nSpecial thanks:\r\n[#5865f2]@thisiscrimsoncheck[white] for several maps, suggestions and other contributions\r\n[#5865f2]@inxie_ratzey[white] for suggestions, sprites, maps and other contributions\r\n\r\nJoin our discord server: https://discord.gg/eBzANBKCBA\r\n\r\nIf you like the mod, consider giving it a star on GitHub. Thank you"
-  },
-  {
     "repo": "vvseangtvv/project-restoration",
     "internalName": "restored-mind",
     "name": "Project: Restoration",
@@ -912,6 +912,18 @@
     "description": "Not recommended for weak devices. Only supports Vanilla/Supported-Json content. This mod replaces/add some effects, and may cause issues with mods that actively check on those effects. May conflict with vanilla bloom."
   },
   {
+    "repo": "deltanedas/ldb",
+    "internalName": "ldb",
+    "name": "Logic Debugger",
+    "author": "DeltaNedas",
+    "lastUpdated": "2024-07-19T18:01:49Z",
+    "stars": 18,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds clientside logic debugging tools.\nRequires DeltaNedas/override-lib."
+  },
+  {
     "repo": "jslkr2707/focus-lib",
     "internalName": "focus-lib",
     "name": "Focus System Library",
@@ -934,6 +946,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds hard new planet with unique content and new mechanics"
+  },
+  {
+    "repo": "sublemon-team/subvoyage",
+    "internalName": "subvoyage",
+    "name": "Subvoyage",
+    "author": "Skoow, IriDark",
+    "lastUpdated": "2024-07-31T07:49:49Z",
+    "stars": 18,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Aquatic-stylized mod with new planet and unique mechanics"
   },
   {
     "repo": "apszoldat/mindustry-mapping-utilities",
@@ -960,18 +984,6 @@
     "description": "A cheat mod designed for V7\n(All content has the prefix \"Super -\")\nFeatures include:\n\n-- 1) Units and buildings that have 1 Billion Health\n\n-- 2) A unit and a turret that deals 1 Billion Damage\n\n-- 3) Overdrive tower that boosts speed of buildings (has a range limit) (increases power production and consumption)\n\n-- 4) Item, liquid, power, payload (buildings and units), and heat source\n\n-- 5) Build Tower that helps you build buildings (ha), which means insta-build\n\n-- 6) Walls that deal 1 Billion damage when enemies try to attack it (somehow doesn't work for certain units)\n\n\nIf you like the mod then give it a star in GitHub!"
   },
   {
-    "repo": "deltanedas/ldb",
-    "internalName": "ldb",
-    "name": "Logic Debugger",
-    "author": "DeltaNedas",
-    "lastUpdated": "2024-07-19T18:01:49Z",
-    "stars": 17,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds clientside logic debugging tools.\nRequires DeltaNedas/override-lib."
-  },
-  {
     "repo": "xtarsagency/zeridmuth",
     "internalName": "zeridmuth",
     "name": "Zeridmuth: A New Beginning",
@@ -982,18 +994,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\nWARNING: Mod is currently under rework, Expect some broken things. \n\nAvailable in:\nIndonesian\nEnglish\nRussian\n-----------------------------\nOur Discord Server: https://discord.com/invite/KuV5r39cpY"
-  },
-  {
-    "repo": "sublemon-team/subvoyage",
-    "internalName": "subvoyage",
-    "name": "Subvoyage",
-    "author": "Skoow, IriDark",
-    "lastUpdated": "2024-07-31T05:56:39Z",
-    "stars": 17,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Aquatic-stylized mod with new planet and unique mechanics"
   },
   {
     "repo": "eclipse-04/avkott",
@@ -1488,6 +1488,18 @@
     "description": "This mod adds some new movement mechanics, gravity and jump to player. WIP, report all bugs to Benry#5935"
   },
   {
+    "repo": "deltanedas/override-lib",
+    "internalName": "override-lib",
+    "name": "Override Lib",
+    "author": "deltanedas",
+    "lastUpdated": "2022-09-30T08:16:34Z",
+    "stars": 10,
+    "minGameVersion": "137",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Library mod that allows multiple mods to override the same content."
+  },
+  {
     "repo": "darealmonika/eriker-logic",
     "internalName": "erekir-logic",
     "name": "Erekir Logic",
@@ -1618,18 +1630,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Makes you sandbox."
-  },
-  {
-    "repo": "deltanedas/override-lib",
-    "internalName": "override-lib",
-    "name": "Override Lib",
-    "author": "deltanedas",
-    "lastUpdated": "2022-09-30T08:16:34Z",
-    "stars": 9,
-    "minGameVersion": "137",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Library mod that allows multiple mods to override the same content."
   },
   {
     "repo": "slotterleet/hard-mode-mod",
@@ -1786,6 +1786,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod for showing damage numbers."
+  },
+  {
+    "repo": "meepoffaith/hallucinogen",
+    "internalName": "hallucinogen",
+    "name": "Hallucinogen",
+    "author": "MEEPofFaith",
+    "lastUpdated": "2024-07-18T23:14:57Z",
+    "stars": 9,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The best sensory overload you can get, at least legally."
   },
   {
     "repo": "electricgun/cheat-codes-mod",
@@ -1980,16 +1992,16 @@
     "description": "BETA sandbox only! requires blackhole render by meep of faith"
   },
   {
-    "repo": "meepoffaith/hallucinogen",
-    "internalName": "hallucinogen",
-    "name": "Hallucinogen",
-    "author": "MEEPofFaith",
-    "lastUpdated": "2024-07-18T23:14:57Z",
+    "repo": "sh1penfire/meld",
+    "internalName": "meld",
+    "name": "Meld",
+    "author": "Sh1penfire",
+    "lastUpdated": "2024-07-30T09:27:17Z",
     "stars": 8,
     "minGameVersion": "146",
     "hasScripts": false,
-    "hasJava": true,
-    "description": "The best sensory overload you can get, at least legally."
+    "hasJava": false,
+    "description": "Small sideproject to practise spriting, adds mixes of vanilla content"
   },
   {
     "repo": "situvngcd/mindustrymodtest",
@@ -2278,18 +2290,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "此mod分离自mod tools.\nWARNING: 此mod仍在测试中.\n-----------------------\n1. 修复了一堆bug.\n2. 优化了代码.\n3. 添加了新功能.\n\n创建的是文件夹(在mod_tools文件夹).\n\n旧版本不支持某些功能"
-  },
-  {
-    "repo": "sh1penfire/meld",
-    "internalName": "meld",
-    "name": "Meld",
-    "author": "Sh1penfire",
-    "lastUpdated": "2024-07-30T09:27:17Z",
-    "stars": 7,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Small sideproject to practise spriting, adds mixes of vanilla content"
   },
   {
     "repo": "warcry98/speedcontrol",
@@ -2880,6 +2880,18 @@
     "description": "THE MAIN PLANET Nauvis IS STILL UNDER DEVELOPMENT, IT IS EXTREMELY NOT RECOMMENDED TO PLAY ON IT.\n\nFactorio in mindustry!\n\nIn this mod, almost all the content from the Factorio game will be transferred. You have to build a big factory... and launch a rocket! The mod is not in very active development, support is needed for the development of the mod.\n\nFor an atmospheric game, it is recommended to download factroundustry. Good luck with building the factory!"
   },
   {
+    "repo": "routerxdd/icicle-world",
+    "internalName": "icicle-world",
+    "name": "Buried in Ice",
+    "author": "R.O.T.",
+    "lastUpdated": "2024-07-26T10:33:11Z",
+    "stars": 5,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod who adds a new planet, where we will play in underground"
+  },
+  {
     "repo": "no9527dada/ct-origin",
     "internalName": "creators",
     "name": "创世神2-起源独立版",
@@ -3394,30 +3406,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A java mod Designed to be used by Json mods to add more depth to the game, adding new types of various things to make Json modding more diverse. \n\nCurrently in the early stages of development, not much added but more will be soon."
-  },
-  {
-    "repo": "routerxdd/icicle-world",
-    "internalName": "icicle-world",
-    "name": "Buried in Ice",
-    "author": "R.O.T.",
-    "lastUpdated": "2024-07-26T10:33:11Z",
-    "stars": 4,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod who adds a new planet, where we will play in underground"
-  },
-  {
-    "repo": "new-guys5634/mechy-chaos",
-    "internalName": " mech ",
-    "name": "combat dustry",
-    "author": "beee",
-    "lastUpdated": "2024-07-28T16:13:27Z",
-    "stars": 4,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": " a mod that adds a new planet and it focuses on combat\n\na planet called shards was located far away from the sun\nyour sent mission was to destroy this planet but you went to investigate the new planet...\n\n\nEnjoy the chaos!"
   },
   {
     "repo": "itskirby69/minedusty",
@@ -4284,18 +4272,6 @@
     "description": "\nMakes the game multiple times [red]harder [white]by nerfing anything that was remotely good into [red]oblivion\n[white]and using various methods to prevent schematics from working and generally make processing [red]harder[white]\n"
   },
   {
-    "repo": "teamcheburek/ectotech",
-    "internalName": "et",
-    "name": "EctoTech",
-    "author": "TeamCheburek",
-    "lastUpdated": "2024-07-10T18:25:32Z",
-    "stars": 3,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Your advertisement could be here"
-  },
-  {
     "repo": "xstabux/schemeinspect",
     "internalName": "scheminspect",
     "name": "Schem Inspect",
@@ -4344,6 +4320,18 @@
     "description": "German Translation: Yoru-Kitsune"
   },
   {
+    "repo": "unionofsovietsocialistrepublics/babiesunit",
+    "internalName": "bbunit",
+    "name": "Babies unit!",
+    "author": "Horizon Cult",
+    "lastUpdated": "2024-07-23T10:21:03Z",
+    "stars": 3,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod add smol and cute unit, I guess /nCredit to blob for drawing all sprite /n"
+  },
+  {
     "repo": "no9527dada/creators3",
     "internalName": "ct",
     "name": "创世神3-仙明决Creators 3",
@@ -4366,6 +4354,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "My new planet mod!"
+  },
+  {
+    "repo": "new-guys5634/mechy-chaos",
+    "internalName": " mech ",
+    "name": "combat dustry",
+    "author": "beee",
+    "lastUpdated": "2024-07-28T16:13:27Z",
+    "stars": 3,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": " a mod that adds a new planet and it focuses on combat\n\na planet called shards was located far away from the sun\nyour sent mission was to destroy this planet but you went to investigate the new planet...\n\n\nEnjoy the chaos!"
   },
   {
     "repo": "nikitapos/neo-dustry",
@@ -5532,6 +5532,18 @@
     "description": "This is the premise of the MOD."
   },
   {
+    "repo": "teamcheburek/ectotech",
+    "internalName": "et",
+    "name": "EctoTech",
+    "author": "TeamCheburek",
+    "lastUpdated": "2024-07-10T18:25:32Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Your advertisement could be here"
+  },
+  {
     "repo": "penguip/a-mindustry-mod",
     "internalName": "sentinel-addon",
     "name": "ATLAS' Revolutions",
@@ -5542,18 +5554,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "With the revolution of the ATLAS and his time, the flashlight springs to life.\n\n\nAn extension mod for Mindustry that adds a new planet: Pugneo.This desalote and myterious planet is home to one of the most threatening beings in the universe: Sentinels, small, robotic, and bloodthirsty entities that flourish around Pugneo's untouched atmosphere.\n\n\nIn addition to adding Pugneo, this mod also extends campaign of both Serpulo and Erekir, as well as adding Tantros, an enormous ocean planet, home to the faction Bushark.\n\n\nCredits(not fully completed, will get into that as soon as possible):\nNMS(No Man's Sky) - Hello Games\nRoblox Doors - LSPLASH\nGarten of BanBan - Euphoric Brothers\nInfinitode - Prineside\nUndertale - Toby Fox\nDanganronpa - Spike Chunsoft(specifically Kazutaka Kodaka)\nTerraria - Re-Logic\n\nIMPORTANT! Make sure MultiCrafter is activated, and, if something seems off lore-wise, then that is most likely because it is a headcanon of mine.\n\n\nHave a good day, and provide any feedback if necessary!"
-  },
-  {
-    "repo": "unionofsovietsocialistrepublics/babiesunit",
-    "internalName": "bbunit",
-    "name": "Babies unit!",
-    "author": "Horizon Cult",
-    "lastUpdated": "2024-07-23T10:21:03Z",
-    "stars": 2,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod add smol and cute unit, I guess /nCredit to blob for drawing all sprite /n"
   },
   {
     "repo": "unionofsovietsocialistrepublics/nuclearhell",
@@ -8536,7 +8536,7 @@
     "internalName": "wooden-tools",
     "name": "Wooden Tools",
     "author": "Sunken-Wood",
-    "lastUpdated": "2024-07-31T05:44:12Z",
+    "lastUpdated": "2024-07-31T06:19:07Z",
     "stars": 0,
     "minGameVersion": "146",
     "hasScripts": false,
