@@ -5,7 +5,7 @@
     "name": "Exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2024-05-23T14:12:55Z",
-    "stars": 359,
+    "stars": 360,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -216,6 +216,18 @@
     "description": "Mod that adds a manual page library. RTFM in the About menu.\nComes with documentation of vanilla'a Logic system.\nOptionally requires deltanedas/ui-lib for extra buttons.\npt_BR translations by King-BR"
   },
   {
+    "repo": "what42pizza/mindustry-production-mod",
+    "internalName": "production mod",
+    "name": "Mindustry-Production-Mod",
+    "author": "What42Pizza",
+    "lastUpdated": "2023-10-16T02:58:23Z",
+    "stars": 77,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod gives you iron, steel, aluminum, oil processing, and alternative ways of generating materials like titanium and thorium."
+  },
+  {
     "repo": "deltanedas/ui-lib",
     "internalName": "ui_lib",
     "name": "UI Lib",
@@ -226,18 +238,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Library for other mods that unifies and simplifies UI creation."
-  },
-  {
-    "repo": "what42pizza/mindustry-production-mod",
-    "internalName": "production mod",
-    "name": "Mindustry-Production-Mod",
-    "author": "What42Pizza",
-    "lastUpdated": "2023-10-16T02:58:23Z",
-    "stars": 76,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod gives you iron, steel, aluminum, oil processing, and alternative ways of generating materials like titanium and thorium."
   },
   {
     "repo": "meepoffaith/prog-mats-java",
@@ -784,7 +784,7 @@
     "internalName": "sw",
     "name": "Steam Works",
     "author": "Uujuju",
-    "lastUpdated": "2024-07-30T16:57:05Z",
+    "lastUpdated": "2024-07-31T03:16:25Z",
     "stars": 21,
     "minGameVersion": "142",
     "hasScripts": false,
@@ -3204,18 +3204,6 @@
     "description": "Play mindustry with this awesome chiptune music! Tracks created by Roccow. I took some of Roccow's tracks that weren't in the classic version to replace the new ones added in the V6. HOWEVER, the author of the tracks boss1, boss2 and game6 is unknown."
   },
   {
-    "repo": "lunaticol/erekir-to-serpulo",
-    "internalName": "erekir-to-serpulo",
-    "name": "Erekir To Serpulo",
-    "author": "Lunatico",
-    "lastUpdated": "2023-10-30T18:34:16Z",
-    "stars": 4,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod which allows Erekir blocks to be used on Serpulo using Serpulo resources"
-  },
-  {
     "repo": "the4codeblocks/sandbox-utilities",
     "internalName": "sandbox-utilities",
     "name": "Sandbox Utilities",
@@ -3442,6 +3430,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#edc77b]A java mod by [white]itsdakirby69 [gray](thats me!)[#edc77b]. Sandbox only for now. Plant mod. haha."
+  },
+  {
+    "repo": "lunaticol/erekir-to-serpulo",
+    "internalName": "erekir-to-serpulo",
+    "name": "Erekir To Serpulo",
+    "author": "Lunatico",
+    "lastUpdated": "2024-07-31T02:53:27Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod which allows Erekir blocks to be used on Serpulo using Serpulo resources"
   },
   {
     "repo": "amateurpotion/nuclearjavamod",
@@ -8533,14 +8533,14 @@
   },
   {
     "repo": "sunken-wood/woodenmindustry",
-    "internalName": "wooden-mindustry",
-    "name": "Wooden Mindustry",
+    "internalName": "wooden-tools",
+    "name": "Wooden Tools",
     "author": "Sunken-Wood",
-    "lastUpdated": "2024-07-30T15:11:49Z",
+    "lastUpdated": "2024-07-31T03:55:08Z",
     "stars": 0,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
-    "description": "A Mindustry Java mod template."
+    "description": "tools!!!"
   }
 ]
