@@ -65,7 +65,7 @@
     "name": "Scheme Size",
     "author": "xzxADIxzx",
     "lastUpdated": "2024-01-21T13:17:29Z",
-    "stars": 152,
+    "stars": 153,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -244,7 +244,7 @@
     "internalName": "asthosus",
     "name": "Asthosus",
     "author": "Catana",
-    "lastUpdated": "2024-08-02T18:50:02Z",
+    "lastUpdated": "2024-08-03T11:40:03Z",
     "stars": 73,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -269,7 +269,7 @@
     "name": "MI2-Utilities Java",
     "author": "BlackDeluxeCat",
     "lastUpdated": "2024-03-30T13:00:41Z",
-    "stars": 67,
+    "stars": 68,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -672,6 +672,18 @@
     "description": "Dynamic load custom contents patch account to server"
   },
   {
+    "repo": "mnemotechnician/new-console",
+    "internalName": "newconsole",
+    "name": "New Console",
+    "author": "Mnemotechnician",
+    "lastUpdated": "2024-03-05T20:12:41Z",
+    "stars": 24,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a console ui superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more,\na good log panel, execution history - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
+  },
+  {
     "repo": "smolkeys/bundles",
     "internalName": "bundles",
     "name": "Bundles",
@@ -694,18 +706,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[00ffbf]Project viscott is a mindustry mod that adds a \nnew Planet to the campaign, [f8ff78]Vercilus, and gives the player a new and unique gameplay experience \n\nThis mod is still in development. \n Expect it to have some slight balancing issues"
-  },
-  {
-    "repo": "mnemotechnician/new-console",
-    "internalName": "newconsole",
-    "name": "New Console",
-    "author": "Mnemotechnician",
-    "lastUpdated": "2024-03-05T20:12:41Z",
-    "stars": 23,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds a console ui superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more,\na good log panel, execution history - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
   },
   {
     "repo": "zeutd/disintegration",
@@ -2008,7 +2008,7 @@
     "internalName": "meld",
     "name": "Meld",
     "author": "Sh1penfire",
-    "lastUpdated": "2024-08-02T01:44:04Z",
+    "lastUpdated": "2024-08-03T10:10:06Z",
     "stars": 8,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -3436,7 +3436,7 @@
     "internalName": "ce",
     "name": "Cedon",
     "author": "Cedon DEV team",
-    "lastUpdated": "2024-08-02T18:39:29Z",
+    "lastUpdated": "2024-08-03T10:18:50Z",
     "stars": 4,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -3448,7 +3448,7 @@
     "internalName": "hao1337-mod",
     "name": "[ Better Vanilla ]",
     "author": "Hao1337",
-    "lastUpdated": "2024-08-03T09:41:24Z",
+    "lastUpdated": "2024-08-03T11:36:48Z",
     "stars": 4,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -7188,16 +7188,28 @@
     "description": "Hi"
   },
   {
+    "repo": "bluethecube/overblocksmod",
+    "internalName": "",
+    "name": "Overblocks Mod",
+    "author": "BlueTheCube",
+    "lastUpdated": "2024-08-03T11:21:51Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod."
+  },
+  {
     "repo": "fallingdice/flesh-mod",
     "internalName": "flesh-mod",
     "name": "Flesh Mod",
     "author": "FallingDice",
-    "lastUpdated": "2024-08-03T09:24:41Z",
+    "lastUpdated": "2024-08-03T12:00:32Z",
     "stars": 1,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
-    "description": "add flesh units and blocks, version 0.513"
+    "description": "add flesh units and blocks, version 0.515"
   },
   {
     "repo": "emanuelg-gaming/ion",
@@ -8596,11 +8608,23 @@
     "internalName": "wooden-mindustry",
     "name": "Wooden Mindustry",
     "author": "Sunken-Wood[https://github.com/Sunken-Wood] / TAGAST[https://github.com/TAGAST]",
-    "lastUpdated": "2024-08-03T09:49:43Z",
+    "lastUpdated": "2024-08-03T10:30:27Z",
     "stars": 0,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
     "description": "Restart"
+  },
+  {
+    "repo": "sam-k0/mindustry.hpbars",
+    "internalName": "sam-k0-hp-bars",
+    "name": "HP Bars",
+    "author": "sam-k0",
+    "lastUpdated": "2024-08-03T11:53:33Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "This mod shows hp bars for allied and enemy units at the cursor position."
   }
 ]
