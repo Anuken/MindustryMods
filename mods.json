@@ -5,7 +5,7 @@
     "name": "Exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2024-05-23T14:12:55Z",
-    "stars": 362,
+    "stars": 363,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -16,8 +16,8 @@
     "internalName": "new-horizon",
     "name": "New Horizon",
     "author": "Yuria",
-    "lastUpdated": "2024-08-04T11:55:36Z",
-    "stars": 341,
+    "lastUpdated": "2024-08-04T13:42:23Z",
+    "stars": 342,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -65,7 +65,7 @@
     "name": "Scheme Size",
     "author": "xzxADIxzx",
     "lastUpdated": "2024-01-21T13:17:29Z",
-    "stars": 153,
+    "stars": 154,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -149,7 +149,7 @@
     "name": "Sapphirium",
     "author": "Snake",
     "lastUpdated": "2023-11-03T10:18:40Z",
-    "stars": 94,
+    "stars": 95,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": true,
@@ -244,7 +244,7 @@
     "internalName": "asthosus",
     "name": "Asthosus",
     "author": "Catana",
-    "lastUpdated": "2024-08-04T11:54:20Z",
+    "lastUpdated": "2024-08-04T12:56:27Z",
     "stars": 73,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -828,6 +828,18 @@
     "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer Psammos.\r\n\r\nSpecial thanks:\r\n[#5865f2]@thisiscrimsoncheck[white] for several maps, suggestions and other contributions\r\n[#5865f2]@inxie_ratzey[white] for suggestions, sprites, maps and other contributions\r\n\r\nJoin our discord server: https://discord.gg/eBzANBKCBA\r\n\r\nIf you like the mod, consider giving it a star on GitHub. Thank you"
   },
   {
+    "repo": "sublemon-team/subvoyage",
+    "internalName": "subvoyage",
+    "name": "Subvoyage",
+    "author": "Skoow, IriDark",
+    "lastUpdated": "2024-08-04T09:15:27Z",
+    "stars": 20,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Aquatic-stylized mod with new planet and unique mechanics"
+  },
+  {
     "repo": "sk7725/testers",
     "internalName": "testers",
     "name": "Testers",
@@ -898,18 +910,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry builds including some classic ones are added to Mindustry v7!"
-  },
-  {
-    "repo": "sublemon-team/subvoyage",
-    "internalName": "subvoyage",
-    "name": "Subvoyage",
-    "author": "Skoow, IriDark",
-    "lastUpdated": "2024-08-04T09:15:27Z",
-    "stars": 19,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Aquatic-stylized mod with new planet and unique mechanics"
   },
   {
     "repo": "yuria-shikibe/gameinfoimager",
@@ -988,7 +988,7 @@
     "internalName": "zeridmuth",
     "name": "Zeridmuth: A New Beginning",
     "author": "[scarlet]XSA, [cyan]ItzCraft, [lime]Mitemi\n[gray]N4H4N, [pink]CoCo1481",
-    "lastUpdated": "2024-08-04T11:37:46Z",
+    "lastUpdated": "2024-08-04T13:29:56Z",
     "stars": 17,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -1288,7 +1288,7 @@
     "internalName": "bsm",
     "name": "Betterustry Mod",
     "author": "D&X",
-    "lastUpdated": "2024-08-02T18:46:06Z",
+    "lastUpdated": "2024-08-04T13:22:06Z",
     "stars": 13,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -1992,18 +1992,6 @@
     "description": "\nWARNING: For Ukrainian language only.\n\nModification for translation testing. Can be used for an example testing bundles and for testing a new Ukrainian translation. Developed in Ukraine.\nSupports v7 only.\n\nDiscord for Ukrainian speaking: https://discord.gg/VDjWyCssvP\n\n----------------------------------------\n\nПОПЕРЕДЖЕННЯ: Лише для української мови.\n\nМодифікація для тестування перекладів. Можете використовувати задля прикладу і задля тестування нового українського перекладу. Розроблено в Україні.\nПідтримує тільки v7.\n\nDiscord для українськомовних: https://discord.gg/VDjWyCssvP"
   },
   {
-    "repo": "situvngcd/mindustrymodtest",
-    "internalName": "situvngcd-test-mod",
-    "name": "SVN Test mod",
-    "author": "[#4488ff]SITUVNgcd[]",
-    "lastUpdated": "2024-08-01T13:45:02Z",
-    "stars": 8,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Tags list allow manually sort, easier for tag selection.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
-  },
-  {
     "repo": "otamamori917/axthrix-modded-java",
     "internalName": "aj",
     "name": "Axthrix",
@@ -2026,6 +2014,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Small sideproject to practise spriting, adds mixes of vanilla content"
+  },
+  {
+    "repo": "situvngcd/mindustrymodtest",
+    "internalName": "situvngcd-test-mod",
+    "name": "SVN Test mod",
+    "author": "[#4488ff]SITUVNgcd[]",
+    "lastUpdated": "2024-08-04T12:20:46Z",
+    "stars": 8,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Tags list allow manually sort, easier for tag selection.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
   },
   {
     "repo": "reborntrack970/infinicampaign",
@@ -7188,18 +7188,6 @@
     "description": "Hi"
   },
   {
-    "repo": "racti2037/starry-test-mod",
-    "internalName": "starry-test-mod",
-    "name": "Starry test mod",
-    "author": "Starry team",
-    "lastUpdated": "2024-08-03T13:38:12Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "this mod needed to the testing a conten "
-  },
-  {
     "repo": "ilya246/mindustry10x",
     "internalName": "mindustry10x",
     "name": "mindustry10x",
@@ -7234,6 +7222,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod."
+  },
+  {
+    "repo": "racti2037/starry-test-mod",
+    "internalName": "starry-test-mod",
+    "name": "Starry test mod",
+    "author": "Starry team",
+    "lastUpdated": "2024-08-04T13:37:20Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "this mod needed to the testing a conten "
   },
   {
     "repo": "emanuelg-gaming/ion",
