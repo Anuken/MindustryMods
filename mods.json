@@ -17,7 +17,7 @@
     "name": "New Horizon",
     "author": "Yuria",
     "lastUpdated": "2024-08-03T09:36:33Z",
-    "stars": 340,
+    "stars": 341,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -101,7 +101,7 @@
     "name": "Time Control",
     "author": "sk7725",
     "lastUpdated": "2024-07-25T09:11:47Z",
-    "stars": 118,
+    "stars": 119,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
@@ -172,7 +172,7 @@
     "internalName": "omaloon",
     "name": "Omaloon",
     "author": "_stabu_",
-    "lastUpdated": "2024-08-03T22:37:20Z",
+    "lastUpdated": "2024-08-04T08:47:13Z",
     "stars": 83,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -497,7 +497,7 @@
     "name": "Flame Out",
     "author": "EoD",
     "lastUpdated": "2024-06-29T00:19:27Z",
-    "stars": 32,
+    "stars": 33,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
@@ -864,6 +864,18 @@
     "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
   },
   {
+    "repo": "eyeofdarkness/advance-lighting",
+    "internalName": "advance-lighting",
+    "name": "Advance lighting",
+    "author": "EoD",
+    "lastUpdated": "2024-05-18T05:50:46Z",
+    "stars": 19,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Not recommended for weak devices. Only supports Vanilla/Supported-Json content. This mod replaces/add some effects, and may cause issues with mods that actively check on those effects. May conflict with vanilla bloom."
+  },
+  {
     "repo": "jasmarkelina/tantros-mod",
     "internalName": "tantros-mod",
     "name": "Tantria",
@@ -892,7 +904,7 @@
     "internalName": "subvoyage",
     "name": "Subvoyage",
     "author": "Skoow, IriDark",
-    "lastUpdated": "2024-08-04T07:11:43Z",
+    "lastUpdated": "2024-08-04T09:15:27Z",
     "stars": 19,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -910,18 +922,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Show the range of turrets and units.\nShow the units the next wave will spawn."
-  },
-  {
-    "repo": "eyeofdarkness/advance-lighting",
-    "internalName": "advance-lighting",
-    "name": "Advance lighting",
-    "author": "EoD",
-    "lastUpdated": "2024-05-18T05:50:46Z",
-    "stars": 18,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Not recommended for weak devices. Only supports Vanilla/Supported-Json content. This mod replaces/add some effects, and may cause issues with mods that actively check on those effects. May conflict with vanilla bloom."
   },
   {
     "repo": "deltanedas/ldb",
@@ -988,7 +988,7 @@
     "internalName": "zeridmuth",
     "name": "Zeridmuth: A New Beginning",
     "author": "[scarlet]XSA, [cyan]ItzCraft, [lime]Mitemi\n[gray]N4H4N, [pink]CoCo1481",
-    "lastUpdated": "2024-08-04T07:55:04Z",
+    "lastUpdated": "2024-08-04T09:59:24Z",
     "stars": 17,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -1944,6 +1944,18 @@
     "description": "[green]=============|DESCRIPTION|============\n[lightgray]I'm making the biggest mod for mindustry. If you like mod, please leave a [yellow]star [lightgray]on [purple]github.\n[green]=================|INFO|=================\n[white]Mod need \"[#42a5f5]MultiCrafter Lib[white]\" to work.\n[green]===============|DISCORD|===============\n  [navy]Discord [white]link - \n [blue]https://discord.gg/7SSAupjxeD\n[forest]-------------------------------------\n[lime]Me [white]polish_subfarm61\n[green]==============|PROBLEMS|==============\n[white]If you have [lime]suggestion[white] or you find a \n[purple]bug[white], describe it on our discord server. \n[green]========================================"
   },
   {
+    "repo": "twcash/eclipse",
+    "internalName": "eclipse",
+    "name": "eclipse",
+    "author": "eclipse [twcash]",
+    "lastUpdated": "2024-03-12T02:04:14Z",
+    "stars": 8,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Fight an eclipse, I dare you"
+  },
+  {
     "repo": "arth0x/mindustrinity",
     "internalName": "mindustrinity",
     "name": "MindusTrinity",
@@ -2146,18 +2158,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Welcome to Erbius!\nSpecial thanks to the Mindustry Discord\nNote: restart your game for settings to take effect\n"
-  },
-  {
-    "repo": "twcash/eclipse",
-    "internalName": "eclipse",
-    "name": "eclipse",
-    "author": "eclipse [twcash]",
-    "lastUpdated": "2024-03-12T02:04:14Z",
-    "stars": 7,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Fight an eclipse, I dare you"
   },
   {
     "repo": "misterfirer/urmod-mindustry-v7-",
@@ -7164,18 +7164,6 @@
     "description": "OMEGA UNIT"
   },
   {
-    "repo": "new-guys5634/lava-campgian",
-    "internalName": " b ",
-    "name": "Caverns nightmare",
-    "author": "beee",
-    "lastUpdated": "2024-08-02T16:55:07Z",
-    "stars": 1,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "  A new mod series this will be the first planet out of 3 this mod adds a new planet that is erikers moon! this mod ain't easy it's very hard there are also 15 main sectors so this will be a long experience and these sectors are list to change\n\n\nplanet description: a hot planet near the sun with waistlands of heated sand/lava sand, due to hot temperatures it's nearly impossible to survive on the outside so your squad decided to drill into the ground to mine and survive but turns out there's two factions that want you gone while list fighting eachother.\n\n\nThe chaos is in your hands what will you do with it?..."
-  },
-  {
     "repo": "nezerit6/newstage",
     "internalName": "nstage",
     "name": "New Stage",
@@ -7186,18 +7174,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Hi"
-  },
-  {
-    "repo": "bluethecube/overblocksmod",
-    "internalName": "",
-    "name": "Overblocks Mod",
-    "author": "BlueTheCube",
-    "lastUpdated": "2024-08-03T11:21:51Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod."
   },
   {
     "repo": "racti2037/starry-test-mod",
@@ -7234,6 +7210,30 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "for people who like pain\nmultiplies most stats 10x"
+  },
+  {
+    "repo": "new-guys5634/lava-campgian",
+    "internalName": " b ",
+    "name": "Caverns nightmare",
+    "author": "beee",
+    "lastUpdated": "2024-08-04T08:48:16Z",
+    "stars": 1,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "  A new mod series this will be the first planet out of 3 this mod adds a new planet that is erikers moon! this mod ain't easy it's very hard there are also 15 main sectors so this will be a long experience and these sectors are list to change\n\n\nplanet description: a hot planet near the sun with waistlands of heated sand/lava sand, due to hot temperatures it's nearly impossible to survive on the outside so your squad decided to drill into the ground to mine and survive but turns out there's two factions that want you gone while list fighting eachother.\n\n\nThe chaos is in your hands what will you do with it?..."
+  },
+  {
+    "repo": "bluethecube/overblocksmod",
+    "internalName": "",
+    "name": "Overblocks Mod",
+    "author": "BlueTheCube",
+    "lastUpdated": "2024-08-04T09:48:07Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod."
   },
   {
     "repo": "emanuelg-gaming/ion",
@@ -8604,18 +8604,6 @@
     "description": "A interesting mod."
   },
   {
-    "repo": "brandanvimi/spaghettidustry",
-    "internalName": "spaghetti",
-    "name": "Spaghetti dustry",
-    "author": "ex2dxpi",
-    "lastUpdated": "2024-08-02T22:23:08Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Yummy conveyors"
-  },
-  {
     "repo": "sam-k0/mindustry.hpbars",
     "internalName": "sam-k0-hp-bars",
     "name": "HP Bars",
@@ -8652,11 +8640,23 @@
     "description": "支持语言 | Language\n中文简体 | English\n\n将一些物质进行压缩 | To compress some of the material\n并添加大量bug | And add a lot of bugs\n\n无尽压缩Mod交流群(QQ):708031203\nEndlessCompression's official exchange QQ group: 708031203\n\n\n\n"
   },
   {
+    "repo": "brandanvimi/spaghettidustry",
+    "internalName": "spaghetti",
+    "name": "Spaghetti dustry",
+    "author": "ex2dxpi",
+    "lastUpdated": "2024-08-04T09:28:53Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Yummy conveyors"
+  },
+  {
     "repo": "sunken-wood/woodenmindustry",
     "internalName": "wooden-mindustry",
     "name": "Wooden Mindustry",
     "author": "Sunken-Wood[https://github.com/Sunken-Wood] / TAGAST[https://github.com/TAGAST]",
-    "lastUpdated": "2024-08-04T06:47:01Z",
+    "lastUpdated": "2024-08-04T09:43:36Z",
     "stars": 0,
     "minGameVersion": "146",
     "hasScripts": false,
