@@ -684,18 +684,6 @@
     "description": "hehe angish go nrrrt\n\n\ntargets:\n\n- vanilla\n\n- foo's client (builtin)\n\n- SMOLKEYS/yellow-java (extension)"
   },
   {
-    "repo": "teamviscott/modprojectviscott",
-    "internalName": "project-viscott",
-    "name": "Project Viscott",
-    "author": "CREDITS: \nSpriters : Ethanol10, ThomasThings \n----------------------------\nSfx/Music : Vdoble MSG , TempoAlch3mist \n----------------------------\nProgrammers : Siede ,Manuwar ,Otamamori ,Kapzduke \n----------------------------\nMappers : Nicodium \n----------------------------\n \n Special thanks to MEEPofFaith for creating the pseudo3d system.",
-    "lastUpdated": "2024-08-03T16:45:51Z",
-    "stars": 24,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[00ffbf]Project viscott is a mindustry mod that adds a \nnew Planet to the campaign, [f8ff78]Vercilus, and gives the player a new and unique gameplay experience \n\nThis mod is still in development. \n Expect it to have some slight balancing issues"
-  },
-  {
     "repo": "way-zer/contentstweaker",
     "internalName": "contentstweaker",
     "name": "ContentsTweaker-内容包修改器",
@@ -706,6 +694,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Dynamic load custom contents patch account to server"
+  },
+  {
+    "repo": "teamviscott/modprojectviscott",
+    "internalName": "project-viscott",
+    "name": "Project Viscott",
+    "author": "CREDITS: \nSpriters : Ethanol10, ThomasThings \n----------------------------\nSfx/Music : Vdoble MSG , TempoAlch3mist \n----------------------------\nProgrammers : Siede ,Manuwar ,Otamamori ,Kapzduke \n----------------------------\nMappers : Nicodium \n----------------------------\n \n Special thanks to MEEPofFaith for creating the pseudo3d system.",
+    "lastUpdated": "2024-08-05T00:02:29Z",
+    "stars": 24,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[00ffbf]Project viscott is a mindustry mod that adds a \nnew Planet to the campaign, [f8ff78]Vercilus, and gives the player a new and unique gameplay experience \n\nThis mod is still in development. \n Expect it to have some slight balancing issues"
   },
   {
     "repo": "zeutd/disintegration",
@@ -735,13 +735,13 @@
     "repo": "uujuju1/steam-works",
     "internalName": "sw",
     "name": "Steam Works",
-    "author": "Uujuju",
-    "lastUpdated": "2024-08-02T22:03:58Z",
+    "author": "Liz Aurora",
+    "lastUpdated": "2024-08-05T00:06:31Z",
     "stars": 22,
     "minGameVersion": "142",
     "hasScripts": false,
     "hasJava": true,
-    "description": "A thing."
+    "description": "A tech demo mod with a bunch of stuff, whose content is all made by the pure will of a person."
   },
   {
     "repo": "emanuelg-gaming/erekir-expansion",
@@ -4407,13 +4407,13 @@
     "repo": "mitemi/blastanium",
     "internalName": "blastanium",
     "name": "Blastanium",
-    "author": "[lime]Mitemi\n\n[gray]Contributor:\n[#c4d4e0]N4H4N[gray], [cyan]Tikup",
-    "lastUpdated": "2024-08-04T00:17:26Z",
+    "author": "[lime]Mitemi\n\n[gray]Contributor:\n[#c4d4e0]N4H4N[lightgray], [cyan]Tikup[lightgray], [red]XSA",
+    "lastUpdated": "2024-08-05T00:10:47Z",
     "stars": 3,
     "minGameVersion": "146",
     "hasScripts": true,
     "hasJava": false,
-    "description": "Adds Blastanium, a compound of Blast Compound and Plastanium, as ammo for Serpulo turrets.\n\nBlastanium can be used in Salvos, Swarmers, Ripples, Cyclones, and Spectres.\n\nDiscord Server: https://discord.com/invite/TJKZgr6UDg"
+    "description": "Adds Blastanium, a compound of Blast Compound and Plastanium, as ammo for Serpulo turrets.\n\nBlastanium can be used in Salvos, Swarmers, Ripples, Cyclones, and Spectres, as well as Titans and Scathes. Blastanium used in a Scathe will not fire as a missile.\n\nDiscord Server: https://discord.com/invite/TJKZgr6UDg"
   },
   {
     "repo": "wshon/mindustrytoolkit",
@@ -7240,7 +7240,7 @@
     "internalName": "starry-test-mod",
     "name": "Starry test mod",
     "author": "Starry team",
-    "lastUpdated": "2024-08-04T21:26:31Z",
+    "lastUpdated": "2024-08-04T22:37:38Z",
     "stars": 1,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -8616,18 +8616,6 @@
     "description": "A interesting mod."
   },
   {
-    "repo": "sam-k0/mindustry.hpbars",
-    "internalName": "sam-k0-hp-bars",
-    "name": "HP Bars",
-    "author": "sam-k0",
-    "lastUpdated": "2024-08-03T11:53:33Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "This mod shows hp bars for allied and enemy units at the cursor position."
-  },
-  {
     "repo": "wisadell/heavy-industry",
     "internalName": "heavy-industry",
     "name": "Heavy Industry",
@@ -8662,5 +8650,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Restart"
+  },
+  {
+    "repo": "sam-k0/mindustry.hpbars",
+    "internalName": "sam-k0-hp-bars",
+    "name": "HP Bars",
+    "author": "sam-k0",
+    "lastUpdated": "2024-08-04T22:12:36Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "This mod shows hp bars for allied and enemy units at the cursor position."
   }
 ]
