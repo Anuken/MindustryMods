@@ -552,18 +552,6 @@
     "description": "Adds byte logic blocks from v5"
   },
   {
-    "repo": "pointifix/autodrill",
-    "internalName": "auto-drill",
-    "name": "AutoDrill",
-    "author": "Pointifix",
-    "lastUpdated": "2024-01-31T15:47:33Z",
-    "stars": 29,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds tools for automatically filling resource patches with drills"
-  },
-  {
     "repo": "eb-wilson/universecore",
     "internalName": "universe-core",
     "name": "Universe Core",
@@ -574,6 +562,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "testbuild.A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
+  },
+  {
+    "repo": "pointifix/autodrill",
+    "internalName": "auto-drill",
+    "name": "AutoDrill",
+    "author": "Pointifix",
+    "lastUpdated": "2024-08-06T09:32:50Z",
+    "stars": 29,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds tools for automatically filling resource patches with drills"
   },
   {
     "repo": "ferlern/extended-ui-v7",
@@ -660,6 +660,18 @@
     "description": "No description provided."
   },
   {
+    "repo": "way-zer/contentstweaker",
+    "internalName": "contentstweaker",
+    "name": "ContentsTweaker-内容包修改器",
+    "author": "WayZer",
+    "lastUpdated": "2024-08-04T06:54:03Z",
+    "stars": 25,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Dynamic load custom contents patch account to server"
+  },
+  {
     "repo": "mnemotechnician/new-console",
     "internalName": "newconsole",
     "name": "New Console",
@@ -682,18 +694,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "hehe angish go nrrrt\n\n\ntargets:\n\n- vanilla\n\n- foo's client (builtin)\n\n- SMOLKEYS/yellow-java (extension)"
-  },
-  {
-    "repo": "way-zer/contentstweaker",
-    "internalName": "contentstweaker",
-    "name": "ContentsTweaker-内容包修改器",
-    "author": "WayZer",
-    "lastUpdated": "2024-08-04T06:54:03Z",
-    "stars": 24,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Dynamic load custom contents patch account to server"
   },
   {
     "repo": "teamviscott/modprojectviscott",
@@ -988,7 +988,7 @@
     "internalName": "zeridmuth",
     "name": "Zeridmuth: A New Beginning",
     "author": "[scarlet]XSA, [cyan]ItzCraft, [lime]Mitemi\n[gray]N4H4N, [pink]CoCo1481",
-    "lastUpdated": "2024-08-05T00:48:52Z",
+    "lastUpdated": "2024-08-06T09:00:36Z",
     "stars": 17,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -1348,7 +1348,7 @@
     "internalName": "erekirliquefied",
     "name": "Erekir Liquefied",
     "author": "Haznobrain",
-    "lastUpdated": "2024-08-05T20:53:11Z",
+    "lastUpdated": "2024-08-06T09:29:01Z",
     "stars": 12,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -3348,6 +3348,18 @@
     "description": "A Mindustry Java mod that will add a new campaign."
   },
   {
+    "repo": "piggychu620/mindustryrandomplanet",
+    "internalName": "ec620",
+    "name": "Random Planet v0.4.7.12",
+    "author": "PiggyChu620",
+    "lastUpdated": "2024-02-24T08:54:51Z",
+    "stars": 4,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Randomly generate a planet and its sectors.\nIt's a mixtech mod, I myself don't like the idea of \"Oh, you can only use these things here, and you can only use those things there, bruh, bruh, bruh!\", so I make one myself, if you don't like mixtech and think it's \"unbalanced\" and \"boring\", then please go away, much appreciated!"
+  },
+  {
     "repo": "koctz34/canvases",
     "internalName": "canvases-2",
     "name": "Canvases V2",
@@ -3970,18 +3982,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "添加更多逻辑条：打印缓存处理逻辑"
-  },
-  {
-    "repo": "piggychu620/mindustryrandomplanet",
-    "internalName": "ec620",
-    "name": "Random Planet v0.4.7.12",
-    "author": "PiggyChu620",
-    "lastUpdated": "2024-02-24T08:54:51Z",
-    "stars": 3,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Randomly generate a planet and its sectors.\nIt's a mixtech mod, I myself don't like the idea of \"Oh, you can only use these things here, and you can only use those things there, bruh, bruh, bruh!\", so I make one myself, if you don't like mixtech and think it's \"unbalanced\" and \"boring\", then please go away, much appreciated!"
   },
   {
     "repo": "kubikaugustyn/mindustrytoolkit",
@@ -7276,7 +7276,7 @@
     "internalName": "wooden-mindustry",
     "name": "Wooden Mindustry",
     "author": "Sunken-Wood[https://github.com/Sunken-Wood] / TAGAST[https://github.com/TAGAST]",
-    "lastUpdated": "2024-08-06T07:59:38Z",
+    "lastUpdated": "2024-08-06T09:53:00Z",
     "stars": 1,
     "minGameVersion": "146",
     "hasScripts": false,
