@@ -660,6 +660,18 @@
     "description": "No description provided."
   },
   {
+    "repo": "mnemotechnician/new-console",
+    "internalName": "newconsole",
+    "name": "New Console",
+    "author": "Mnemotechnician",
+    "lastUpdated": "2024-03-05T20:12:41Z",
+    "stars": 25,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a console ui superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more,\na good log panel, execution history - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
+  },
+  {
     "repo": "way-zer/contentstweaker",
     "internalName": "contentstweaker",
     "name": "ContentsTweaker-内容包修改器",
@@ -670,18 +682,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Dynamic load custom contents patch account to server"
-  },
-  {
-    "repo": "mnemotechnician/new-console",
-    "internalName": "newconsole",
-    "name": "New Console",
-    "author": "Mnemotechnician",
-    "lastUpdated": "2024-03-05T20:12:41Z",
-    "stars": 24,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds a console ui superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more,\na good log panel, execution history - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
   },
   {
     "repo": "smolkeys/bundles",
@@ -1056,6 +1056,18 @@
     "description": "ATTENTION:\n\nFrom now on, the mod goes into experimental mode - this means that the balance may not be balanced, such as a Toxopid with a Corvus, whose attack radius go far beyond 60 cells!!!!!\nNevertheless, I advise you to calm down: when the mod reaches its peak (despite my crazy plans for it, the result of which you are already watching), I will make several versions to meet the needs of as many people as possible. In the meantime, it remains to wait. Sorry for the inconvenience.\n\nImportant:\n\nThis mod does not bring anything radically new to the game, but only expands the combat functionality of existing combat units.\n\nPlease pay attention:\n\nThe mod significantly redesigns units, changes the balance and generally complicates the game. Don't forget to make a backup in case you don't like the changes that the mod itself makes.\n\nP.S. The mod is made for ALE maps."
   },
   {
+    "repo": "thomasthings/xenacia",
+    "internalName": "xenacia",
+    "name": "Xenacia",
+    "author": "Thomas's Things",
+    "lastUpdated": "2024-07-27T23:10:51Z",
+    "stars": 16,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod with ambitious goals, and a fresh start. Incomplete, still in pre-pre-alpha."
+  },
+  {
     "repo": "i-hope1/mod-tools",
     "internalName": "mod-tools",
     "name": "mod-tools",
@@ -1092,16 +1104,16 @@
     "description": "This mod is multiplayer-compatible!\n\nThis mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully automatic.\n\nThe manual mode enables you to control your unit with two joysticks and a control panel.\n The AI mode includes three automatic actions (attack, mine, patrol) + automatic action selection.\n\nCheck readme.md for detailed info."
   },
   {
-    "repo": "thomasthings/xenacia",
-    "internalName": "xenacia",
-    "name": "Xenacia",
-    "author": "Thomas's Things",
-    "lastUpdated": "2024-07-27T23:10:51Z",
+    "repo": "balam314/no-invasions",
+    "internalName": "no-invasions",
+    "name": "No Sector Re Attacks",
+    "author": "BalaM314",
+    "lastUpdated": "2024-04-14T13:27:42Z",
     "stars": 15,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod with ambitious goals, and a fresh start. Incomplete, still in pre-pre-alpha."
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Disables sectors being re-attacked."
   },
   {
     "repo": "zeniku/heavymachineryjava",
@@ -1126,18 +1138,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "(Erekir Update!)\n\nA Soundpack that changes all sounds and musics from Factorio.\n\nYou can use it with Xeloboyo/Factoriodustry for better experience!"
-  },
-  {
-    "repo": "balam314/no-invasions",
-    "internalName": "no-invasions",
-    "name": "No Sector Re Attacks",
-    "author": "BalaM314",
-    "lastUpdated": "2024-04-14T13:27:42Z",
-    "stars": 14,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Disables sectors being re-attacked."
   },
   {
     "repo": "woodjecket/commundustry",
@@ -2968,7 +2968,7 @@
     "internalName": "mm",
     "name": "Medieval Mindustry",
     "author": "Fitz",
-    "lastUpdated": "2024-08-05T22:28:34Z",
+    "lastUpdated": "2024-08-06T21:21:30Z",
     "stars": 5,
     "minGameVersion": "136",
     "hasScripts": true,
