@@ -17,7 +17,7 @@
     "name": "New Horizon",
     "author": "Yuria",
     "lastUpdated": "2024-08-09T07:28:52Z",
-    "stars": 343,
+    "stars": 344,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -552,6 +552,18 @@
     "description": "Adds byte logic blocks from v5"
   },
   {
+    "repo": "ferlern/extended-ui-v7",
+    "internalName": "extended-ui",
+    "name": "extended UI",
+    "author": "wizer",
+    "lastUpdated": "2024-03-27T19:31:22Z",
+    "stars": 29,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> extended UI.\n\nIf u have any bugs create an issue on github or contact me in discord: wizer1233\n\nTranslators:\n1stvaliduser - UA\nCoCo Snow - DE\n\nContributors:\nRushieWashie, Garen7, 7003Mars (Mars)"
+  },
+  {
     "repo": "eb-wilson/universecore",
     "internalName": "universe-core",
     "name": "Universe Core",
@@ -574,18 +586,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds tools for automatically filling resource patches with drills"
-  },
-  {
-    "repo": "ferlern/extended-ui-v7",
-    "internalName": "extended-ui",
-    "name": "extended UI",
-    "author": "wizer",
-    "lastUpdated": "2024-03-27T19:31:22Z",
-    "stars": 28,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> extended UI.\n\nIf u have any bugs create an issue on github or contact me in discord: wizer1233\n\nTranslators:\n1stvaliduser - UA\nCoCo Snow - DE\n\nContributors:\nRushieWashie, Garen7, 7003Mars (Mars)"
   },
   {
     "repo": "uujuju1/project-oblivion",
@@ -2628,6 +2628,18 @@
     "description": "Fun have been surgically removed from this mod, now with gregtech level of grinding."
   },
   {
+    "repo": "andashikkozlov/cedon",
+    "internalName": "ce",
+    "name": "Cedon",
+    "author": "Cedon DEV team",
+    "lastUpdated": "2024-08-08T22:00:08Z",
+    "stars": 6,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "ENG: A small modification that adds the planet Cedon and new content related to it.\r\nRUS: Небольшая модификация, добавляющая планету Цедон и новый контент, связанный с ней.\r\n\r\nCedon Development Team members:\r\nAndrey Kozlov (AnDashik) - Sprite artist/Programmer/Game designer\r\n  \r\nKostya Kozlov - Game designer/Concept-art artist\r\n  \r\nNikita Kamovich - Alpha, Beta tester"
+  },
+  {
     "repo": "spaceearthex/banana",
     "internalName": "banana",
     "name": "Banana",
@@ -2950,18 +2962,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Total conversion PVP mod set in fantasy medieval times"
-  },
-  {
-    "repo": "andashikkozlov/cedon",
-    "internalName": "ce",
-    "name": "Cedon",
-    "author": "Cedon DEV team",
-    "lastUpdated": "2024-08-08T22:00:08Z",
-    "stars": 5,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "ENG: A small modification that adds the planet Cedon and new content related to it.\r\nRUS: Небольшая модификация, добавляющая планету Цедон и новый контент, связанный с ней.\r\n\r\nCedon Development Team members:\r\nAndrey Kozlov (AnDashik) - Sprite artist/Programmer/Game designer\r\n  \r\nKostya Kozlov - Game designer/Concept-art artist\r\n  \r\nNikita Kamovich - Alpha, Beta tester"
   },
   {
     "repo": "no9527dada/ct-origin",
@@ -3802,6 +3802,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Ru:\n Шейдер, который изменяет внешний вид жидкостей. Взято из мода FactoryDustry-Texture Pack. \nСпециално для канала Mindustry - Рестор.\n Мой Дискорд DaNtEsLr#0746  \n\nEn:\n A shader that changes the appearance of liquids. Taken from the mod FactoryDustry-Texture Pack. \nEspecially for the channel Mindustry - Рестор.\n My Discord DaNtEsLr#0746 "
+  },
+  {
+    "repo": "keurhsevar-0977/turret-vodka",
+    "internalName": "v",
+    "name": "Turret Vodka",
+    "author": "Keurhsevar",
+    "lastUpdated": "2023-05-13T22:53:51Z",
+    "stars": 3,
+    "minGameVersion": "138",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds new turrets, liquids and a new item. Turret Vodka - boosts turret firerate by 5x. LiqoCocaine - boosts turret firerate by 999x. Now obtainable without liquid sources! Not intended to be balanced in any way. Discord - Rogue Process#0977."
   },
   {
     "repo": "ocalhoun6/resource-supply-mod",
@@ -4822,18 +4834,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Refreshes schematics stored in the /schematics subdirectory whenever the game loads or the Refresh button is pressed.\n\nThis mod is only useful if you modify these schematics externally, e.g. by building them using Mindcode - https://github.com/cardillan/mindcode\n\nA few minor sample schematics are included.\n"
-  },
-  {
-    "repo": "keurhsevar-0977/turret-vodka",
-    "internalName": "v",
-    "name": "Turret Vodka",
-    "author": "Keurhsevar",
-    "lastUpdated": "2023-05-13T22:53:51Z",
-    "stars": 2,
-    "minGameVersion": "138",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds new turrets, liquids and a new item. Turret Vodka - boosts turret firerate by 5x. LiqoCocaine - boosts turret firerate by 999x. Now obtainable without liquid sources! Not intended to be balanced in any way. Discord - Rogue Process#0977."
   },
   {
     "repo": "darealmonika/galaxite",
@@ -7174,6 +7174,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "My mod!"
+  },
+  {
+    "repo": "bndlett/composite_wall_mod",
+    "internalName": "lfm",
+    "name": "Composite Walls",
+    "author": "BnDLett",
+    "lastUpdated": "2024-07-25T02:25:46Z",
+    "stars": 1,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod developed by BnDLett"
   },
   {
     "repo": "haznobrain/stupiditydustry",
