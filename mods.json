@@ -232,7 +232,7 @@
     "internalName": "production mod",
     "name": "Mindustry-Production-Mod",
     "author": "What42Pizza",
-    "lastUpdated": "2023-10-16T02:58:23Z",
+    "lastUpdated": "2024-08-09T20:16:38Z",
     "stars": 77,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -244,7 +244,7 @@
     "internalName": "asthosus",
     "name": "Asthosus",
     "author": "Catana",
-    "lastUpdated": "2024-08-07T17:55:45Z",
+    "lastUpdated": "2024-08-09T20:41:32Z",
     "stars": 73,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -472,7 +472,7 @@
     "internalName": "aquarion",
     "name": "Aquarion",
     "author": "twcash",
-    "lastUpdated": "2024-08-04T04:28:15Z",
+    "lastUpdated": "2024-08-09T20:33:28Z",
     "stars": 35,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -796,7 +796,7 @@
     "internalName": "erek",
     "name": "Erekir Extended",
     "author": "RouterXdd (R.O.T)",
-    "lastUpdated": "2024-08-09T07:10:27Z",
+    "lastUpdated": "2024-08-09T21:36:04Z",
     "stars": 21,
     "minGameVersion": "140",
     "hasScripts": true,
@@ -826,6 +826,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts"
+  },
+  {
+    "repo": "jasmarkelina/tantros-mod",
+    "internalName": "tantros-mod",
+    "name": "Tantria",
+    "author": "Jasmarkelina, Gander & RouterXdd",
+    "lastUpdated": "2024-06-21T05:18:02Z",
+    "stars": 20,
+    "minGameVersion": "143.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod being developed by a team of three, it reveals and makes tantros playable, keep in mind that the mod is not finished yet, you can play the unfinished campaign.\n\ncurrently being worked on by \n- Gander (a.k.a. Plastel)\n- Jasmarkelina"
   },
   {
     "repo": "andromeda-galaxy29/psammos-mod",
@@ -898,18 +910,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Not recommended for weak devices. Only supports Vanilla/Supported-Json content. This mod replaces/add some effects, and may cause issues with mods that actively check on those effects. May conflict with vanilla bloom."
-  },
-  {
-    "repo": "jasmarkelina/tantros-mod",
-    "internalName": "tantros-mod",
-    "name": "Tantria",
-    "author": "Jasmarkelina, Gander & RouterXdd",
-    "lastUpdated": "2024-06-21T05:18:02Z",
-    "stars": 19,
-    "minGameVersion": "143.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod being developed by a team of three, it reveals and makes tantros playable, keep in mind that the mod is not finished yet, you can play the unfinished campaign.\n\ncurrently being worked on by \n- Gander (a.k.a. Plastel)\n- Jasmarkelina"
   },
   {
     "repo": "vvseangtvv/project-restoration",
@@ -3900,6 +3900,18 @@
     "description": "\nJSON mod\n\nI`m working on:\n\n- New materials\n- New electricity\n- New planet (Not commpleted)\n- New units (Not commpleted)\n- A ton of new planet content (Not commpleted)\n\nTODO:\n1. Conveyors etc\n2. Some difficult stuff\n3. Turrets\n4. Units\n5. Sectors + planet (now)\n"
   },
   {
+    "repo": "jasmarkerizz/tantria-soundtrack",
+    "internalName": "tantros soundtrack",
+    "name": "Tantria Soundtrack",
+    "author": "Jasmarkerizz (Jasmarkelina)",
+    "lastUpdated": "2023-10-30T18:03:14Z",
+    "stars": 3,
+    "minGameVersion": "143.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "An optional mod for Tantria. Replaces some soundtracks. Music made by Jasmarkelina"
+  },
+  {
     "repo": "pirojok3000/erekir-cargo-drone-for-serpulo",
     "internalName": "serpulo-payload-drone-alternative",
     "name": "Serpulo cargo drone",
@@ -4416,18 +4428,6 @@
     "description": "A plethora of sandbox-only blocks dedicated for both fun and testing purposes.\n\nREQUIRES `MEEPofFaith/black-hole-renderer` TO RUN. THE GAME WILL CRASH WITHOUT IT INSTALLED."
   },
   {
-    "repo": "mitemi/blastanium",
-    "internalName": "blastanium",
-    "name": "Blastanium",
-    "author": "[lime]Mitemi\n\n[gray]Contributor:\n[#c4d4e0]N4H4N[lightgray], [cyan]Tikup[lightgray], [red]XSA",
-    "lastUpdated": "2024-08-09T00:36:54Z",
-    "stars": 3,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds Blastanium, a compound of Blast Compound and Plastanium, as ammo for Serpulo turrets.\n\nBlastanium can be used in Salvos, Swarmers, Ripples, Cyclones, and Spectres, as well as Titans and Scathes. Blastanium used in a Scathe will not fire as a missile.\n\nDiscord Server: https://discord.com/invite/TJKZgr6UDg"
-  },
-  {
     "repo": "new-guys5634/mechy-chaos",
     "internalName": " mech ",
     "name": "combat dustry",
@@ -4438,6 +4438,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": " a mod that adds a new planet and it focuses on combat\n\na planet called shards was located far away from the sun\nyour sent mission was to destroy this planet but you went to investigate the new planet...\n\n\nEnjoy the chaos!"
+  },
+  {
+    "repo": "mitemi/blastanium",
+    "internalName": "blastanium",
+    "name": "Blastanium",
+    "author": "[lime]Mitemi\n\n[gray]Contributor:\n[#c4d4e0]N4H4N[lightgray], [cyan]Tikup[lightgray], [red]XSA",
+    "lastUpdated": "2024-08-09T21:17:03Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds Blastanium, a compound of Blast Compound and Plastanium, as ammo for Serpulo turrets.\n\nBlastanium can be used in Salvos, Swarmers, Ripples, Cyclones, and Spectres, as well as Titans and Scathes. Blastanium used in a Scathe will not fire as a missile.\n\nDiscord Server: https://discord.com/invite/TJKZgr6UDg"
   },
   {
     "repo": "wshon/mindustrytoolkit",
@@ -5050,18 +5062,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "that star will probably be revoked"
-  },
-  {
-    "repo": "jasmarkerizz/tantria-soundtrack",
-    "internalName": "tantros soundtrack",
-    "name": "Tantria Soundtrack",
-    "author": "Jasmarkerizz (Jasmarkelina)",
-    "lastUpdated": "2023-10-30T18:03:14Z",
-    "stars": 2,
-    "minGameVersion": "143.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "An optional mod for Tantria. Replaces some soundtracks. Music made by Jasmarkelina"
   },
   {
     "repo": "misterfirer/urmodmusic-mindustry-v7-",
@@ -8740,7 +8740,7 @@
     "internalName": "test-utils",
     "name": "Testing Utilities",
     "author": "MEEP of Faith",
-    "lastUpdated": "2024-08-09T19:41:38Z",
+    "lastUpdated": "2024-08-09T20:09:42Z",
     "stars": 0,
     "minGameVersion": "146",
     "hasScripts": false,
