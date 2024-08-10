@@ -240,28 +240,28 @@
     "description": "This mod gives you iron, steel, aluminum, oil processing, and alternative ways of generating materials like titanium and thorium."
   },
   {
-    "repo": "catana791/asthosus",
-    "internalName": "asthosus",
-    "name": "Asthosus",
-    "author": "Catana",
-    "lastUpdated": "2024-08-10T05:19:29Z",
-    "stars": 73,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "  A mod that adds a new planet, Asthosus, into the game.\n  \n  Asthosus is a deserted planet. A wasteland filled with danger.\n\n  It has a fully playable campaign with 11 campaign and 7 optional maps. \n  1 more optional map will be added in the future.\n\n  Aside from these 18 maps, Asthosus contains over 180 pieces of unique content,\n  including blocks, liquids, items, units and status effects.\n  This number is not counting any internal units or environment blocks/tiles.\n\n  I aimed to re-use nearly no vanilla content and instead fill the mod \n  with new and (hopefully) exciting things.\n\n  If you find any issues or want to tell me anything else,\n  feel free to join the Asthosus Discord server. \n  The same thing goes for when you need help with this mod.\n\n  Enjoy!"
-  },
-  {
     "repo": "meepoffaith/prog-mats-java",
     "internalName": "",
     "name": "Meepscellaneous Concepts",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Meepscillaneous Concepts enabled to view them!)",
     "lastUpdated": "2024-08-02T02:54:55Z",
-    "stars": 72,
+    "stars": 73,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
     "description": "A collection of random ideas that come to my head.\n\nREQUIRES `MEEPofFaith/black-hole-renderer` TO RUN. THE GAME WILL CRASH WITHOUT IT INSTALLED."
+  },
+  {
+    "repo": "catana791/asthosus",
+    "internalName": "asthosus",
+    "name": "Asthosus",
+    "author": "Catana",
+    "lastUpdated": "2024-08-10T14:44:26Z",
+    "stars": 73,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "  A mod that adds a new planet, Asthosus, into the game.\n  \n  Asthosus is a deserted planet. A wasteland filled with danger.\n\n  It has a fully playable campaign with 11 campaign and 7 optional maps. \n  1 more optional map will be added in the future.\n\n  Aside from these 18 maps, Asthosus contains over 180 pieces of unique content,\n  including blocks, liquids, items, units and status effects.\n  This number is not counting any internal units or environment blocks/tiles.\n\n  I aimed to re-use nearly no vanilla content and instead fill the mod \n  with new and (hopefully) exciting things.\n\n  If you find any issues or want to tell me anything else,\n  feel free to join the Asthosus Discord server. \n  The same thing goes for when you need help with this mod.\n\n  Enjoy!"
   },
   {
     "repo": "blackdeluxecat/mi2-utilities-java",
@@ -1072,7 +1072,7 @@
     "internalName": "mod-tools",
     "name": "mod-tools",
     "author": "I hope...",
-    "lastUpdated": "2024-08-10T13:50:05Z",
+    "lastUpdated": "2024-08-10T14:46:19Z",
     "stars": 16,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1596,6 +1596,18 @@
     "description": "Adds custom music for Asthosus! \nAdds ambient tracks as well as guardian/boss themes.\n\nNOTE: Overrides vanilla music. If you want to keep the vanila tracks,\ndo NOT install this mod.\n\nAll credits go to ThePythonGuy! \n  \nCheck him out on newgrounds. \nThe link can be found on this mods' repository!\n\nNOT ALL TRACKS HAVE BEEN COMPLETED YET. \nPLEASE BE PATIENT."
   },
   {
+    "repo": "meepoffaith/hallucinogen",
+    "internalName": "hallucinogen",
+    "name": "Hallucinogen",
+    "author": "MEEPofFaith",
+    "lastUpdated": "2024-08-05T22:52:05Z",
+    "stars": 10,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The best sensory overload you can get, at least legally."
+  },
+  {
     "repo": "jirocab/olupis",
     "internalName": "olupis",
     "name": "Nyfalis (Olupis)",
@@ -1834,18 +1846,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "BETA sandbox only! requires blackhole render by meep of faith"
-  },
-  {
-    "repo": "meepoffaith/hallucinogen",
-    "internalName": "hallucinogen",
-    "name": "Hallucinogen",
-    "author": "MEEPofFaith",
-    "lastUpdated": "2024-08-05T22:52:05Z",
-    "stars": 9,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The best sensory overload you can get, at least legally."
   },
   {
     "repo": "deltanedas/speed",
@@ -2316,6 +2316,18 @@
     "description": "此mod分离自mod tools.\nWARNING: 此mod仍在测试中.\n-----------------------\n1. 修复了一堆bug.\n2. 优化了代码.\n3. 添加了新功能.\n\n创建的是文件夹(在mod_tools文件夹).\n\n旧版本不支持某些功能"
   },
   {
+    "repo": "meepoffaith/black-holes-library",
+    "internalName": "black-hole-renderer",
+    "name": "Black Holes Library",
+    "author": "MEEPofFaith",
+    "lastUpdated": "2024-08-02T02:58:04Z",
+    "stars": 7,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A library mod for rendering black holes."
+  },
+  {
     "repo": "cong0707/multiplayer",
     "internalName": "multiplayer",
     "name": "联机",
@@ -2602,18 +2614,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "When passion collides with the shitposter's mind.\n\nYellow currently identifies as a shitpost mod, but I'd like to change that.\n\nSee you soon."
-  },
-  {
-    "repo": "meepoffaith/black-holes-library",
-    "internalName": "black-hole-renderer",
-    "name": "Black Holes Library",
-    "author": "MEEPofFaith",
-    "lastUpdated": "2024-08-02T02:58:04Z",
-    "stars": 6,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A library mod for rendering black holes."
   },
   {
     "repo": "spore-biometh-team/sandmod",
@@ -3480,6 +3480,18 @@
     "description": "A mod which allows Erekir blocks to be used on Serpulo using Serpulo resources"
   },
   {
+    "repo": "meepoffaith/extra-sand-redux",
+    "internalName": "",
+    "name": "Extra Sand in the Sandbox - Redux",
+    "author": "MEEP of Faith",
+    "lastUpdated": "2024-08-01T04:52:01Z",
+    "stars": 4,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A plethora of sandbox-only blocks dedicated for both fun and testing purposes.\n\nREQUIRES `MEEPofFaith/black-hole-renderer` TO RUN. THE GAME WILL CRASH WITHOUT IT INSTALLED."
+  },
+  {
     "repo": "hao-1337/mindustry-better-vanilla",
     "internalName": "hao1337-mod",
     "name": "[ Better Vanilla ]",
@@ -4152,18 +4164,6 @@
     "description": "New branch of melee Serpulo units"
   },
   {
-    "repo": "sheptalo/mindustry-minecraft-mod",
-    "internalName": "minecraft",
-    "name": "Minecraft mod",
-    "author": "sheptalo",
-    "lastUpdated": "2024-04-19T15:06:43Z",
-    "stars": 3,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Minecraft in mindustry"
-  },
-  {
     "repo": "catana791/fading-revelations-ost",
     "internalName": "frost",
     "name": "Fading Revelations OST",
@@ -4428,18 +4428,6 @@
     "description": "\nMindustry mod that adds some things.\n"
   },
   {
-    "repo": "meepoffaith/extra-sand-redux",
-    "internalName": "",
-    "name": "Extra Sand in the Sandbox - Redux",
-    "author": "MEEP of Faith",
-    "lastUpdated": "2024-08-01T04:52:01Z",
-    "stars": 3,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A plethora of sandbox-only blocks dedicated for both fun and testing purposes.\n\nREQUIRES `MEEPofFaith/black-hole-renderer` TO RUN. THE GAME WILL CRASH WITHOUT IT INSTALLED."
-  },
-  {
     "repo": "new-guys5634/mechy-chaos",
     "internalName": " mech ",
     "name": "combat dustry",
@@ -4450,6 +4438,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": " a mod that adds a new planet and it focuses on combat\n\na planet called shards was located far away from the sun\nyour sent mission was to destroy this planet but you went to investigate the new planet...\n\n\nEnjoy the chaos!"
+  },
+  {
+    "repo": "sheptalo/mindustry-minecraft-mod",
+    "internalName": "minecraft",
+    "name": "Minecraft mod",
+    "author": "sheptalo",
+    "lastUpdated": "2024-08-10T15:35:36Z",
+    "stars": 3,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Minecraft in mindustry"
   },
   {
     "repo": "wshon/mindustrytoolkit",
@@ -8556,18 +8556,6 @@
     "description": "Bbfashbjhcbabfhsbafbhajbf"
   },
   {
-    "repo": "wangejinyong/thedecaymod",
-    "internalName": "decay-mod",
-    "name": "The Decay",
-    "author": "Wangejinyong",
-    "lastUpdated": "2024-06-23T04:56:30Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template.(Waiting for editing)"
-  },
-  {
     "repo": "squarecm2/technoexpansion",
     "internalName": "technoexpansion",
     "name": "科技扩展",
@@ -8700,18 +8688,6 @@
     "description": "Main theme (Drok Metal coer) by ToxicxEternity. Other Music by World Beyond from album Mindshell"
   },
   {
-    "repo": "dsfdsfwxp/finalcampaign",
-    "internalName": "final-campaign",
-    "name": "finalCampaign",
-    "author": "Wxp",
-    "lastUpdated": "2024-08-09T15:38:45Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A interesting mod."
-  },
-  {
     "repo": "toiletgaming3000/mindustry-testing-utilities-mod",
     "internalName": "test-utils",
     "name": "Testing Utilities",
@@ -8734,5 +8710,29 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Welcome to Wisadell's Mod!\n--------------------------------\nPlease note:\nThis Mod is a Java class Mod, therefore it does not support running on the iOS side.\nTry not to mix with other Mods as much as possible to avoid unknown issues in the game."
+  },
+  {
+    "repo": "dsfdsfwxp/finalcampaign",
+    "internalName": "final-campaign",
+    "name": "finalCampaign",
+    "author": "Wxp",
+    "lastUpdated": "2024-08-10T15:04:16Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A interesting mod."
+  },
+  {
+    "repo": "wangejinyong/thedecaymod",
+    "internalName": "decay-mod",
+    "name": "The Decay",
+    "author": "Wangejinyong",
+    "lastUpdated": "2024-08-10T15:55:20Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template.(Waiting for editing)"
   }
 ]
