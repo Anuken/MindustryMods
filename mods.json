@@ -1180,7 +1180,7 @@
     "internalName": "erekirliquefied",
     "name": "Erekir Liquefied",
     "author": "Haznobrain",
-    "lastUpdated": "2024-08-07T14:04:22Z",
+    "lastUpdated": "2024-08-10T23:55:06Z",
     "stars": 14,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -1536,6 +1536,18 @@
     "description": "Automatically translates chat messages"
   },
   {
+    "repo": "twcash/eclipse",
+    "internalName": "eclipse",
+    "name": "eclipse",
+    "author": "eclipse [twcash]",
+    "lastUpdated": "2024-03-12T02:04:14Z",
+    "stars": 10,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Fight an eclipse, I dare you"
+  },
+  {
     "repo": "teamoct/erekir-music",
     "internalName": "erekir-music",
     "name": "Team Oct's Erekir Music",
@@ -1762,18 +1774,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Allows access to Editor Mode on Sandbox and Singleplayer\n\nDoes not work on Multiplayer and Campaign.\n\nUpdate: Fixed map editor crash and delay."
-  },
-  {
-    "repo": "twcash/eclipse",
-    "internalName": "eclipse",
-    "name": "eclipse",
-    "author": "eclipse [twcash]",
-    "lastUpdated": "2024-03-12T02:04:14Z",
-    "stars": 9,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Fight an eclipse, I dare you"
   },
   {
     "repo": "sbxte/mindustry-schematic-browser",
@@ -4462,6 +4462,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Minecraft in mindustry"
+  },
+  {
+    "repo": "silinveredno/newhorizonmod-schematics",
+    "internalName": "nh-scheme-pack",
+    "name": "New Horizon schematics pack",
+    "author": "Silin Veredno",
+    "lastUpdated": "2024-08-10T21:55:15Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nRU\nМод добавляет Схемы для модификации New Horizon. Тег: +\n\nENG\nThe mod adds Schematics for the New Horizon modification. Tag: +\n"
   },
   {
     "repo": "wshon/mindustrytoolkit",
@@ -7320,18 +7332,6 @@
     "description": "  A new mod series this will be the first planet out of 3 this mod adds a new planet that is erikers moon! this mod ain't easy it's very hard there are also 15 main sectors so this will be a long experience and these sectors are list to change\n\n\nplanet description: a hot planet near the sun with waistlands of heated sand/lava sand, due to hot temperatures it's nearly impossible to survive on the outside so your squad decided to drill into the ground to mine and survive but turns out there's two factions that want you gone while list fighting eachother.\n\n\nThe chaos is in your hands what will you do with it?..."
   },
   {
-    "repo": "silinveredno/newhorizonmod-schematics",
-    "internalName": "nh-scheme-pack",
-    "name": "New Horizon schematics pack",
-    "author": "Silin Veredno",
-    "lastUpdated": "2024-08-10T21:55:15Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\nRU\nМод добавляет Схемы для модификации New Horizon. Тег: +\n\nENG\nThe mod adds Schematics for the New Horizon modification. Tag: +\n"
-  },
-  {
     "repo": "emanuelg-gaming/ion",
     "internalName": "ion",
     "name": "Ion",
@@ -8724,18 +8724,6 @@
     "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
   },
   {
-    "repo": "wisadell/heavyindustrymod",
-    "internalName": "heavy-industry",
-    "name": "Heavy Industry",
-    "author": "Wisadell",
-    "lastUpdated": "2024-08-10T11:06:33Z",
-    "stars": 0,
-    "minGameVersion": "145.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Welcome to Wisadell's Mod!\n--------------------------------\nPlease note:\nThis Mod is a Java class Mod, therefore it does not support running on the iOS side.\nTry not to mix with other Mods as much as possible to avoid unknown issues in the game."
-  },
-  {
     "repo": "dsfdsfwxp/finalcampaign",
     "internalName": "final-campaign",
     "name": "finalCampaign",
@@ -8758,5 +8746,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod template.(Waiting for editing)"
+  },
+  {
+    "repo": "wisadell/heavyindustrymod",
+    "internalName": "heavy-industry",
+    "name": "Heavy Industry",
+    "author": "Wisadell",
+    "lastUpdated": "2024-08-11T00:22:34Z",
+    "stars": 0,
+    "minGameVersion": "145.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Welcome to Wisadell's Mod!\n--------------------------------\nPlease note:\nThis Mod is a Java class Mod, therefore it does not support running on the iOS side.\nTry not to mix with other Mods as much as possible to avoid unknown issues in the game."
   }
 ]
