@@ -456,6 +456,18 @@
     "description": "Lets you type into the console.\nPress F8 to open."
   },
   {
+    "repo": "eb-wilson/toomanyitems",
+    "internalName": "tmi",
+    "name": "Too Many Items",
+    "author": "EBwilson",
+    "lastUpdated": "2024-06-09T08:49:49Z",
+    "stars": 35,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "An auxiliary mod that provides you with quick retrieval of production and collection guidance information for materials, units, buildings, minerals, etc., so that you are no longer overwhelmed by installing too many mods.\n====================\n一个辅助mod，为您提供快速检索材料，单位，建筑和矿物等的生产与采集引导信息，让您不再因为安装了太多mod而不知所措"
+  },
+  {
     "repo": "rogeh4/virtual-scheme-pack-",
     "internalName": "v-scheme-pack",
     "name": "Virtual Scheme Pack",
@@ -478,18 +490,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Aquarion is a mod recreating Tantros, including a custom campaign with a new planet with custom units, blocks, and soundtrack."
-  },
-  {
-    "repo": "eb-wilson/toomanyitems",
-    "internalName": "tmi",
-    "name": "Too Many Items",
-    "author": "EBwilson",
-    "lastUpdated": "2024-06-09T08:49:49Z",
-    "stars": 34,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "An auxiliary mod that provides you with quick retrieval of production and collection guidance information for materials, units, buildings, minerals, etc., so that you are no longer overwhelmed by installing too many mods.\n====================\n一个辅助mod，为您提供快速检索材料，单位，建筑和矿物等的生产与采集引导信息，让您不再因为安装了太多mod而不知所措"
   },
   {
     "repo": "eyeofdarkness/flameout",
@@ -724,7 +724,7 @@
     "internalName": "sw",
     "name": "Steam Works",
     "author": "Liz Aurora",
-    "lastUpdated": "2024-08-10T03:44:27Z",
+    "lastUpdated": "2024-08-11T01:33:49Z",
     "stars": 23,
     "minGameVersion": "142",
     "hasScripts": false,
@@ -3516,18 +3516,6 @@
     "description": "Add something helpful for vanilla. Also have some better UI.\n\n- Coreitem display for mobile.\n- Unit conter display.\n- Time control.\n- Some change for vanilla (see in setting, default is off):\n+ Bigger vault, container and vault in Erekir.\n+ Bigger range for override dome, 200% speed up.\n+ Force projector have more shield health.\n- Auto update.\n- New contents as well:\n+ Thorium / surge conveyor (serpulo)\n+ Some storage blocks\n+ \"T6\" units\n- Aslo make some hidden contents available\n\nWarning: The mod under development, any contributions would be gratefully appreciated. See github for more details."
   },
   {
-    "repo": "mitemi/blastanium",
-    "internalName": "blastanium",
-    "name": "Blastanium",
-    "author": "[lime]Mitemi\n\n[gray]Contributor:\n[#c4d4e0]N4H4N[lightgray], [cyan]Tikup[lightgray], [red]XSA",
-    "lastUpdated": "2024-08-09T21:17:03Z",
-    "stars": 4,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds Blastanium, a compound of Blast Compound and Plastanium, as ammo for Serpulo turrets.\n\nBlastanium can be used in Salvos, Swarmers, Ripples, Cyclones, and Spectres, as well as Titans and Scathes. Blastanium used in a Scathe will not fire as a missile.\n\nDiscord Server: https://discord.com/invite/TJKZgr6UDg"
-  },
-  {
     "repo": "icexuegao/icemods",
     "internalName": "ice",
     "name": "Deep Space",
@@ -3538,6 +3526,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "No description provided."
+  },
+  {
+    "repo": "mitemi/blastanium",
+    "internalName": "blastanium",
+    "name": "Blastanium",
+    "author": "[lime]Mitemi\n\n[gray]Contributor:\n[#c4d4e0]N4H4N[lightgray], [cyan]Tikup[lightgray], [red]XSA",
+    "lastUpdated": "2024-08-11T02:23:16Z",
+    "stars": 4,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds Blastanium, a compound of Blast Compound and Plastanium, as ammo for Serpulo turrets.\n\nBlastanium can be used in Salvos, Swarmers, Ripples, Cyclones, and Spectres, as well as Titans and Scathes. Blastanium used in a Scathe will not fire as a missile.\n\nDiscord Server: https://discord.com/invite/TJKZgr6UDg"
   },
   {
     "repo": "amateurpotion/nuclearjavamod",
@@ -8752,11 +8752,23 @@
     "internalName": "heavy-industry",
     "name": "Heavy Industry",
     "author": "Wisadell",
-    "lastUpdated": "2024-08-11T00:22:34Z",
+    "lastUpdated": "2024-08-11T01:22:54Z",
     "stars": 0,
     "minGameVersion": "145.1",
     "hasScripts": false,
     "hasJava": true,
     "description": "Welcome to Wisadell's Mod!\n--------------------------------\nPlease note:\nThis Mod is a Java class Mod, therefore it does not support running on the iOS side.\nTry not to mix with other Mods as much as possible to avoid unknown issues in the game."
+  },
+  {
+    "repo": "well314-shiting/planwar",
+    "internalName": "pwq",
+    "name": "planwar",
+    "author": "wailting",
+    "lastUpdated": "2024-08-11T02:12:33Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template."
   }
 ]
