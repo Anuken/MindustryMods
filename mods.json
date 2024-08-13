@@ -1072,7 +1072,7 @@
     "internalName": "mod-tools",
     "name": "mod-tools",
     "author": "I hope...",
-    "lastUpdated": "2024-08-13T13:28:31Z",
+    "lastUpdated": "2024-08-13T15:09:49Z",
     "stars": 16,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2668,12 +2668,12 @@
     "internalName": "ce",
     "name": "Cedon",
     "author": "Cedon DEV team",
-    "lastUpdated": "2024-08-13T12:57:04Z",
+    "lastUpdated": "2024-08-13T15:24:40Z",
     "stars": 6,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
-    "description": "ENG: A small modification that adds the planet Cedon and new content related to it. \r\nNEED MULTI-CRAFTER FOR CORRECT WORK!\r\nRUS: Небольшая модификация, добавляющая планету Цедон и новый контент, связанный с ней.\r\nНУЖЕН MULTI-CRAFTER ДЛЯ ПРАВИЛЬНОЙ РАБОТЫ!\r\n\r\nCedon Development Team members:\r\nAndrey Kozlov (AnDashik) - Sprite artist/Programmer/Game designer\r\n  \r\nKostya Kozlov - Game designer/Concept-art artist\r\n  \r\nNikita Kamovich - Alpha, Beta tester"
+    "description": "ENG: A small modification that adds the planet Cedon and new content related to it.\r\nRUS: Небольшая модификация, добавляющая планету Цедон и новый контент, связанный с ней.\r\n\r\nCedon Development Team members:\r\nAndrey Kozlov (AnDashik) - Sprite artist/Programmer/Game designer\r\n  \r\nKostya Kozlov - Game designer/Concept-art artist\r\n  \r\nNikita Kamovich - Alpha, Beta tester"
   },
   {
     "repo": "spaceearthex/banana",
@@ -3028,7 +3028,7 @@
     "internalName": "ice",
     "name": "Deep Space",
     "author": "Alon",
-    "lastUpdated": "2024-08-13T02:45:02Z",
+    "lastUpdated": "2024-08-13T14:24:23Z",
     "stars": 5,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -4044,6 +4044,18 @@
     "description": "Adds flarogus to Mindustry."
   },
   {
+    "repo": "leyn-pl/showallsecrets",
+    "internalName": "showsecrets",
+    "name": "Show All Secrets",
+    "author": "_LEYN",
+    "lastUpdated": "2024-01-28T13:21:33Z",
+    "stars": 3,
+    "minGameVersion": "145",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Shows all Anuken's secrets. Makes all hidden content visible, with a bit of balance.\n\nYou cant build hidden blocks on servers."
+  },
+  {
     "repo": "hbuddz/compress-this",
     "internalName": "compress this!",
     "name": "Compress this!",
@@ -4540,7 +4552,7 @@
     "internalName": "flesh-mod",
     "name": "Flesh Mod",
     "author": "FallingDice",
-    "lastUpdated": "2024-08-13T06:11:55Z",
+    "lastUpdated": "2024-08-13T14:16:55Z",
     "stars": 3,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -5230,18 +5242,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Unofficial Playable Clone (for v7)\n\n(For more information, please see the repo page of this mod.)\n"
-  },
-  {
-    "repo": "leyn-pl/showallsecrets",
-    "internalName": "showsecrets",
-    "name": "Show All Secrets",
-    "author": "_LEYN",
-    "lastUpdated": "2024-01-28T13:21:33Z",
-    "stars": 2,
-    "minGameVersion": "145",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Shows all Anuken's secrets. Makes all hidden content visible, with a bit of balance.\n\nYou cant build hidden blocks on servers."
   },
   {
     "repo": "trrestghgytcftgbcxszd/cheatdustry",
@@ -6732,18 +6732,6 @@
     "description": "Replaces the mini map display/frag for a simple button, for slightly better performance on mobile or something \n\n just turn off Minimap to enable mod \n also settings > game > to add a shortcut for the sector map "
   },
   {
-    "repo": "zoggers-cc/relax",
-    "internalName": "relax",
-    "name": "Relax",
-    "author": "ZoGGerS-Dim4ik",
-    "lastUpdated": "2024-02-04T09:18:14Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "The mod is still in development!"
-  },
-  {
     "repo": "0razec/erekir-mods",
     "internalName": "erekir-mods",
     "name": "{ Erekir MODS }",
@@ -7366,6 +7354,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "An EXTREMELY stupid mod, everything becomes without logic and incredibly dum."
+  },
+  {
+    "repo": "wangejinyong/thedecaymod",
+    "internalName": "decay-mod",
+    "name": "The Decay",
+    "author": "Wangejinyong",
+    "lastUpdated": "2024-08-13T14:39:56Z",
+    "stars": 1,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod template.(Waiting for editing)"
   },
   {
     "repo": "emanuelg-gaming/ion",
@@ -8748,18 +8748,6 @@
     "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
   },
   {
-    "repo": "wangejinyong/thedecaymod",
-    "internalName": "decay-mod",
-    "name": "The Decay",
-    "author": "Wangejinyong",
-    "lastUpdated": "2024-08-12T15:10:44Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template.(Waiting for editing)"
-  },
-  {
     "repo": "wisadell/heavyindustrymod",
     "internalName": "heavy-industry",
     "name": "Heavy Industry",
@@ -8776,7 +8764,7 @@
     "internalName": "final-campaign",
     "name": "finalCampaign",
     "author": "Wxp",
-    "lastUpdated": "2024-08-13T12:56:09Z",
+    "lastUpdated": "2024-08-13T15:50:23Z",
     "stars": 0,
     "minGameVersion": "145",
     "hasScripts": false,
