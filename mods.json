@@ -1836,18 +1836,6 @@
     "description": "A Mindustry mod for showing damage numbers."
   },
   {
-    "repo": "electricgun/cheat-codes-mod",
-    "internalName": "cheat-codes",
-    "name": "Cheat Codes Mod",
-    "author": "electricgun",
-    "lastUpdated": "2024-07-27T03:39:39Z",
-    "stars": 9,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Mobile Release!!\nAdds some rather powerful and fun powerups activated by typing out the right sequence of letters while in-game.\n\nPowerups include:\n[yellow]-Time stop\n-God mode\n-Konami code\n-Thanos snap\nand more...\n\n[white]Can be used to cheat your way through the game.\n\n[OPTIONAL] Type the cheat codes in the console to prevent activating keybinds, this is not required.\n\n[red]READ GITHUB REPO FOR CHEAT LIST"
-  },
-  {
     "repo": "otamamori917/axthrix-modded-java",
     "internalName": "aj",
     "name": "Axthrix",
@@ -1858,6 +1846,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "BETA sandbox only! requires blackhole render by meep of faith"
+  },
+  {
+    "repo": "electricgun/cheat-codes-mod",
+    "internalName": "cheat-codes",
+    "name": "Cheat Codes Mod",
+    "author": "electricgun",
+    "lastUpdated": "2024-08-21T11:56:02Z",
+    "stars": 9,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Reworked for PC to be the same as mobile\nAdds some rather powerful and fun powerups activated by entering the correct strings.\n\nPowerups include:\n[yellow]-Time stop\n-God mode\n-Konami code\n-Thanos snap\nand more...\n\n[white]Can be used to cheat your way through the game.\n\n[red]READ GITHUB REPO FOR CHEAT LIST"
   },
   {
     "repo": "deltanedas/speed",
@@ -4648,12 +4648,12 @@
     "internalName": "flesh-mod",
     "name": "Flesh Mod",
     "author": "FallingDice",
-    "lastUpdated": "2024-08-21T09:25:59Z",
+    "lastUpdated": "2024-08-21T11:59:54Z",
     "stars": 3,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
-    "description": "Add flesh units with various actions and skills, novel turrets and various objects. version 0.775"
+    "description": "Add flesh units with various actions and skills, novel turrets and various objects. version 0.778"
   },
   {
     "repo": "wshon/mindustrytoolkit",
@@ -8844,18 +8844,6 @@
     "description": "WIP, works only on desktop\nSimple mod for simple transfer game data via Google Drive\nFor use: go to Settings -> Game Data -> Google Drive\nUpload/Download works in background, check console(F8) for information"
   },
   {
-    "repo": "jscodepy/mymindustrymod",
-    "internalName": "morefactories-java-mod",
-    "name": "More Factories",
-    "author": "WswDay2022",
-    "lastUpdated": "2024-08-21T07:01:03Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "这是一个模组...也许是吧？\n这是我的第一个java模组！"
-  },
-  {
     "repo": "dsfdsfwxp/finalcampaign",
     "internalName": "final-campaign",
     "name": "finalCampaign",
@@ -8866,5 +8854,29 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A interesting mod."
+  },
+  {
+    "repo": "jscodepy/morefactories",
+    "internalName": "morefactories",
+    "name": "MoreFactories",
+    "author": "jscodepy",
+    "lastUpdated": "2024-08-21T10:49:04Z",
+    "stars": 0,
+    "minGameVersion": "141",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": ""
+  },
+  {
+    "repo": "jscodepy/mymindustrymod",
+    "internalName": "morefactories",
+    "name": "BetaMindy",
+    "author": "WswDay2022",
+    "lastUpdated": "2024-08-21T11:47:50Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "This mod add more factories."
   }
 ]
