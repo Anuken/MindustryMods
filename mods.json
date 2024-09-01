@@ -816,6 +816,18 @@
     "description": "Add the new sectors and content on Erekir"
   },
   {
+    "repo": "sk7725/testers",
+    "internalName": "testers",
+    "name": "Testers",
+    "author": "sk7725",
+    "lastUpdated": "2022-06-06T09:25:43Z",
+    "stars": 20,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds various testers for easier mod development.\nThanks to: Gdeft"
+  },
+  {
     "repo": "echovespy/simplistic",
     "internalName": "simplistic",
     "name": "Simplistic - TexturePack",
@@ -850,18 +862,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod provides a variety of tools for modding.\n\n-----------------\nVersion 1.5.1\n## Highlight\n- Fixed a lot of bugs\n- Ability to UI act pause\n-----------------\n\n## ShowUIList\n\n- Display `icon`, `tex`, `styles`, `colors`, `interps`\\\n!(./screenshots/UIList.png)\n\n## Tester\n\n!(./screenshots/tester.png)\n\n- Provide `JS` editor `Tester`\n- Shortcuts\n- Press `Ctrl`+`Shift`+`Enter` to `execute` code immediately\n- Press `Ctrl`+`Shift`+`↑/↓` to switch `history` records\n- Press `Ctrl`+`Shift`+`D` to `view` detailed information\n- Press `Alt`+`V` to preview `Texture`\n- Built-in `unsafe`, `lookup`\n- Built-in `IntFunc` class (abbreviated as `$`)\n- `$.xxx` can represent primitive data types (e.g., `$.void` represents `Void.TYPE`;`$.J` represents long.class)\n- `$p` represents `Packages`\n- Code: [JSFunc](https://github.com/i-hope1/mod-tools/src/modtools/utils/JSFunc.java)\n- Long press on code in the favorites to add to startup items\\\n!(./screenshots/startup.png)\n- Quick switch history\\\n![Screenshot 2024-03-10 14-45-37](https://github.com/I-hope1/mod-tools/assets/78016895/4918af35-19af-4fab-b961-70bdc8679fe8)\n- `$.item`, `$.liquid`, `$.unit` and so on.\n\n## UnitSpawn\n\n- Multiple team selection\n- Support for fixed point spawning\n- Display `name` and `localizedName`\n- Rightclick the name Label to copy save as JS var.\n\n## Selection\n\n- Selector\n- Supports `Tile`, `Building`, `Bullet`, `Unit`\n- Kill\n- Set Item/Liquid/Team\n- Press `Ctrl`+`Alt` to fix Focus Window\n\n## ReviewElement\n\n- Display element list, double-click to copy element to js variable\n- `Ctrl`+`Shift`+`C` to Inspect Element\n- `Ctrl`+`Alt`+`D` to display bounds of Element\n- Select untouchable elements\n- Mobile: Filter current element with two fingers\n- PC: Press `F` to filter current element\n- Functions shortcuts for Element\n- `i`: display details (open ShowInfoWindow)\\\n- `p`(for Image):  show `DrawablePicker`\n- `del`: (`shift` to ignore confirmation), delete element\n- `<` / `>`: collapse Group\n- `f`: fix floating Info column\n- `r`: invoke element's method\n\n- ![reviewElement](./screenshots/review_element.png)\n\n# Frag\n\n- Double-click the blue part of Frag to minimize/restore Frag\n- In the minimized state, click the blue part, it will behave like a floating ball\n\n## Window\n\n- Press `Ctrl`+`Tab` to switch windows\n- Press `Shift`+`F4` to close current window\n- RClick the close button to move and scl window.\n\n## ShowInfoWindow\n\n- Show all fields, methods, constructors and nested classes of a obj.\n- Field can be modified.\n- Method can be Invoked(Special).\n- Constructor can be invoked to new a instance.\n\n## Others\n\n### Extensions\n- Http Redirect\n> Redirect some websites, such as: github\\\n> Configuration file: b0kkihope/http_redirect.properties"
-  },
-  {
-    "repo": "sk7725/testers",
-    "internalName": "testers",
-    "name": "Testers",
-    "author": "sk7725",
-    "lastUpdated": "2022-06-06T09:25:43Z",
-    "stars": 19,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds various testers for easier mod development.\nThanks to: Gdeft"
   },
   {
     "repo": "vvseangtvv/v5-classic",
@@ -940,7 +940,7 @@
     "internalName": "restored-mind",
     "name": "Project: Restoration",
     "author": "VvSeanGtvV",
-    "lastUpdated": "2024-09-01T15:55:21Z",
+    "lastUpdated": "2024-09-01T16:09:24Z",
     "stars": 19,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -3700,7 +3700,7 @@
     "internalName": "mov",
     "name": "Mindustry Overhaul",
     "author": "KOSTOLOM and D&X",
-    "lastUpdated": "2024-09-01T15:49:14Z",
+    "lastUpdated": "2024-09-01T16:20:53Z",
     "stars": 4,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -4668,18 +4668,6 @@
     "description": "this mod add more command blocks to help mod-creators, inspired in \"testers\" by sk7725"
   },
   {
-    "repo": "nezerit6/newstage",
-    "internalName": "nstage",
-    "name": "New Stage",
-    "author": "Nezerit6",
-    "lastUpdated": "2024-08-25T09:15:51Z",
-    "stars": 3,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Where description?"
-  },
-  {
     "repo": "koctz34/minduntm",
     "internalName": "ntm",
     "name": "NTM - Nuclear tech mod",
@@ -4702,6 +4690,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Working"
+  },
+  {
+    "repo": "nezerit6/newstage",
+    "internalName": "nstage",
+    "name": "New Stage",
+    "author": "Nezerit6",
+    "lastUpdated": "2024-09-01T17:30:16Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Where description?"
   },
   {
     "repo": "wshon/mindustrytoolkit",
@@ -8808,27 +8808,27 @@
     "description": "This mod add more factories."
   },
   {
-    "repo": "nezerit6/extended-walls",
-    "internalName": "extended-walls",
-    "name": "Extended Walls",
-    "author": "Nezerit6",
-    "lastUpdated": "2024-09-01T08:32:31Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds new wall sizes to Serpulo! All existing types now include 3x3 and 4x4 variants. Erekir will be added later."
-  },
-  {
     "repo": "chlorofluorocarbon/mindustry-mod-touhou",
     "internalName": "touhou",
     "name": "Touhou",
     "author": "Chlorofluorocarbon0902",
-    "lastUpdated": "2024-09-01T15:25:07Z",
+    "lastUpdated": "2024-09-01T16:16:29Z",
     "stars": 0,
     "minGameVersion": "144",
     "hasScripts": false,
     "hasJava": false,
     "description": "这个模组尝试将东方project的元素融入Mindustry中。\n游玩模组前，请务必先阅读本说明。\n\n当前版本没有完成bundle.properties。\n虽然设置了允许发射到数字区块，但是数字区块只掉落铜、铅、钛等原版物品（去了就知道了），且存在不能携带物品发射、无法占领（占领波次为无限大）等问题，强烈不建议游玩！（在设定上就暂时把数字区块当作相对于幻想乡的“外界”吧。）\n游玩注意：如果发现弹幕发光过于瞎眼，请在设置-图形里将光效强度调整为0%。\n模组中的“详情”部分（即研究后解锁的详细信息）内容主要源自二设，不适合作为入坑东方参考资料！\n模组中的“详情”部分偶尔会出现剧透，请自行决定是否观看。\n如果打开控制台发现大量报错（警告），请无视。这些报错不影响游戏。已经尽量把不应出现的警告对应的代码删除了，剩下的是已经出现在游戏Github源代码，但是仍为空字段的部分。\n最近一次更新：橙墙修复、加入货运无人机（两种）。\n\n星球文件使用了模组Asthosus中的星球文件作为模板。（画起来真的很麻烦）"
+  },
+  {
+    "repo": "nezerit6/extended-walls",
+    "internalName": "extended-walls",
+    "name": "Extended Walls",
+    "author": "Nezerit6",
+    "lastUpdated": "2024-09-01T17:25:47Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds new wall sizes to Serpulo! All existing types now include 3x3 and 4x4 variants. Erekir will be added later."
   }
 ]
