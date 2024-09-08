@@ -46,11 +46,11 @@ public class ModUpdater{
 
         Seq<Jval> dest = new Seq<>();
 
-        query("/search/repositories", of("q", topic + " in:topics pushed:>=" + lastPushDate, "per_page", perPage), topicresult -> {
+        query("/search/repositories", of("q", topic + " in:topics archived:false template:false pushed:>=" + lastPushDate, "per_page", perPage), topicresult -> {
             int pagesTopic = Mathf.ceil(topicresult.getFloat("total_count", 0) / perPage);
 
             for(int i = 1; i < pagesTopic; i++){
-                query("/search/repositories", of("q", "topic:" + topic + " pushed:>=" + lastPushDate, "per_page", perPage, "page", i + 1), secresult -> {
+                query("/search/repositories", of("q", "topic:" + topic + " archived:false template:false pushed:>=" + lastPushDate, "per_page", perPage, "page", i + 1), secresult -> {
                     dest.addAll(secresult.get("items").asArray());
                 });
             }
