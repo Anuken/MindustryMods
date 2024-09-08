@@ -735,8 +735,8 @@
     "repo": "teamviscott/modprojectviscott",
     "internalName": "project-viscott",
     "name": "Project Viscott",
-    "author": "CREDITS: \nSpriters : Ethanol10, ThomasThings, FrireDragon \n----------------------------\nSfx/Music : Vdoble MSG , TempoAlch3mist \n----------------------------\nProgrammers : Siede ,Manuwar ,Otamamori ,Kapzduke, EyeOfDarkness \n----------------------------\nMappers : Nicodium \n----------------------------\n \n Special thanks to MEEPofFaith for creating the pseudo3d system.",
-    "lastUpdated": "2024-09-08T07:57:02Z",
+    "author": "CREDITS: \nSpriters : Ethanol10, ThomasThings, TB1, FrireDragon, EyeOfDarkness \n----------------------------\nSfx/Music : Vdoble MSG , TempoAlch3mist \n----------------------------\nProgrammers : Siede ,Manuwar ,Otamamori ,Kapzduke, EyeOfDarkness \n----------------------------\nMappers : Nicodium \n----------------------------\n \n Special thanks to MEEPofFaith for creating the pseudo3d system.",
+    "lastUpdated": "2024-09-08T08:04:25Z",
     "stars": 24,
     "minGameVersion": "142",
     "hasScripts": false,
@@ -828,6 +828,18 @@
     "description": "Adds various testers for easier mod development.\nThanks to: Gdeft"
   },
   {
+    "repo": "laohuajiofficial/freightfactory",
+    "internalName": "ff",
+    "name": "FreightFactory",
+    "author": "LaoHuaJi",
+    "lastUpdated": "2024-04-26T16:33:04Z",
+    "stars": 20,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mod In Dev"
+  },
+  {
     "repo": "echovespy/simplistic",
     "internalName": "simplistic",
     "name": "Simplistic - TexturePack",
@@ -898,18 +910,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
-  },
-  {
-    "repo": "laohuajiofficial/freightfactory",
-    "internalName": "ff",
-    "name": "FreightFactory",
-    "author": "LaoHuaJi",
-    "lastUpdated": "2024-04-26T16:33:04Z",
-    "stars": 19,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mod In Dev"
   },
   {
     "repo": "eyeofdarkness/advance-lighting",
@@ -2128,7 +2128,7 @@
     "internalName": "farborne-industries",
     "name": "Farborne: Industries",
     "author": "Daxillion",
-    "lastUpdated": "2024-09-08T07:47:39Z",
+    "lastUpdated": "2024-09-08T09:36:45Z",
     "stars": 8,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -3036,18 +3036,6 @@
     "description": "THE MAIN PLANET Nauvis IS STILL UNDER DEVELOPMENT, IT IS EXTREMELY NOT RECOMMENDED TO PLAY ON IT.\n\nFactorio in mindustry!\n\nIn this mod, almost all the content from the Factorio game will be transferred. You have to build a big factory... and launch a rocket! The mod is not in very active development, support is needed for the development of the mod.\n\nFor an atmospheric game, it is recommended to download factroundustry. Good luck with building the factory!"
   },
   {
-    "repo": "chaoticans-mindustry-modding-team/new-content",
-    "internalName": "newunits",
-    "name": "New Content",
-    "author": "Cle",
-    "lastUpdated": "2024-07-24T20:50:56Z",
-    "stars": 5,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "It's my First* mod! Yay! It adds alot of units. Such as Purple navals, Orange spiders, Blue air-bombers and much more! \nwarning not all the trees are finished infact none are. \nThanks to my spriter Aegires for making some of theese awsome sprites!"
-  },
-  {
     "repo": "redonomo-team/colorspectrum",
     "internalName": "colorspec",
     "name": "Color Spectrum",
@@ -3142,6 +3130,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "RU: Очень опасный мод, который влияет на баланс и механику игры, добавляет новый контент в виде статус эффектов и оборонительных сооружений (башен, мин и т.д.).\n\nРекомендуется перед установкой сделать сохранение (чтобы откатиться назад), если в случае вам не понравится то, что может сделать данный мод. И лучше в самом деле не рискуйте лишний раз и поверьте на слово: МОД. МЕНЯЕТ. МНОГОЕ.\n\n\n\nENG: A very dangerous mod that affects the balance and mechanics of the game, adds new content in the form of status effects and defensive structures (towers, mines, etc.).\n\n\nPreferably before installing make a save (to roll back), if in case you do not like what this mod can do. And it is better to really do not take unnecessary risks and take my word for it: MOD. CHANGES. EVERYTHING.\n\nmov mod test subjects:\n- eve_light."
+  },
+  {
+    "repo": "chaoticans-mindustry-modding-team/new-content",
+    "internalName": "newunits",
+    "name": "New Content",
+    "author": "Cle",
+    "lastUpdated": "2024-09-08T08:58:18Z",
+    "stars": 5,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "It's my First* mod! Yay! It adds alot of units. Such as Purple navals, Orange spiders, Blue air-bombers and much more! \nwarning not all the trees are finished infact none are. \nThanks to my spriter Aegires for making some of theese awsome sprites!"
   },
   {
     "repo": "mythril382/self-destruct-core",
@@ -5920,12 +5920,12 @@
     "internalName": "asteroidgen",
     "name": "asteroidgen",
     "author": "chinhonnang0000",
-    "lastUpdated": "2024-09-08T06:46:18Z",
+    "lastUpdated": "2024-09-08T09:51:37Z",
     "stars": 2,
     "minGameVersion": "146",
     "hasScripts": true,
     "hasJava": false,
-    "description": "that star will probably be revoked"
+    "description": "this mod probably wont get another star"
   },
   {
     "repo": "teaeempire/gghv7",
