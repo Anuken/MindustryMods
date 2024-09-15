@@ -5,7 +5,7 @@
     "name": "Exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2024-05-23T14:12:55Z",
-    "stars": 373,
+    "stars": 374,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -172,7 +172,7 @@
     "internalName": "omaloon",
     "name": "Omaloon",
     "author": "_stabu_",
-    "lastUpdated": "2024-09-14T21:08:08Z",
+    "lastUpdated": "2024-09-15T14:43:55Z",
     "stars": 83,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -196,7 +196,7 @@
     "internalName": "asthosus",
     "name": "Asthosus",
     "author": "Catana",
-    "lastUpdated": "2024-09-15T13:17:01Z",
+    "lastUpdated": "2024-09-15T15:40:56Z",
     "stars": 80,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -420,6 +420,18 @@
     "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
   },
   {
+    "repo": "eb-wilson/toomanyitems",
+    "internalName": "tmi",
+    "name": "Too Many Items",
+    "author": "EBwilson",
+    "lastUpdated": "2024-06-09T08:49:49Z",
+    "stars": 41,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "An auxiliary mod that provides you with quick retrieval of production and collection guidance information for materials, units, buildings, minerals, etc., so that you are no longer overwhelmed by installing too many mods.\n====================\n一个辅助mod，为您提供快速检索材料，单位，建筑和矿物等的生产与采集引导信息，让您不再因为安装了太多mod而不知所措"
+  },
+  {
     "repo": "twcash/aquarion",
     "internalName": "aquarion",
     "name": "Aquarion",
@@ -442,18 +454,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod that contains a full of content planet. This is the beta version so it may not display the final version of the project."
-  },
-  {
-    "repo": "eb-wilson/toomanyitems",
-    "internalName": "tmi",
-    "name": "Too Many Items",
-    "author": "EBwilson",
-    "lastUpdated": "2024-06-09T08:49:49Z",
-    "stars": 40,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "An auxiliary mod that provides you with quick retrieval of production and collection guidance information for materials, units, buildings, minerals, etc., so that you are no longer overwhelmed by installing too many mods.\n====================\n一个辅助mod，为您提供快速检索材料，单位，建筑和矿物等的生产与采集引导信息，让您不再因为安装了太多mod而不知所措"
   },
   {
     "repo": "meepoffaith/testing-utilities-java",
@@ -868,12 +868,12 @@
     "internalName": "mod-tools",
     "name": "mod-tools",
     "author": "I hope...",
-    "lastUpdated": "2024-09-06T07:18:46Z",
+    "lastUpdated": "2024-09-15T14:30:39Z",
     "stars": 20,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
-    "description": "A mod provides a variety of tools for modding.\n\n-----------------\nVersion 1.5.1\n## Highlight\n- Fixed a lot of bugs\n- Ability to UI act pause\n-----------------\n\n## ShowUIList\n\n- Display `icon`, `tex`, `styles`, `colors`, `interps`\\\n!(./screenshots/UIList.png)\n\n## Tester\n\n!(./screenshots/tester.png)\n\n- Provide `JS` editor `Tester`\n- Shortcuts\n- Press `Ctrl`+`Shift`+`Enter` to `execute` code immediately\n- Press `Ctrl`+`Shift`+`↑/↓` to switch `history` records\n- Press `Ctrl`+`Shift`+`D` to `view` detailed information\n- Press `Alt`+`V` to preview `Texture`\n- Built-in `unsafe`, `lookup`\n- Built-in `IntFunc` class (abbreviated as `$`)\n- `$.xxx` can represent primitive data types (e.g., `$.void` represents `Void.TYPE`;`$.J` represents long.class)\n- `$p` represents `Packages`\n- Code: [JSFunc](https://github.com/i-hope1/mod-tools/src/modtools/utils/JSFunc.java)\n- Long press on code in the favorites to add to startup items\\\n!(./screenshots/startup.png)\n- Quick switch history\\\n![Screenshot 2024-03-10 14-45-37](https://github.com/I-hope1/mod-tools/assets/78016895/4918af35-19af-4fab-b961-70bdc8679fe8)\n- `$.item`, `$.liquid`, `$.unit` and so on.\n\n## UnitSpawn\n\n- Multiple team selection\n- Support for fixed point spawning\n- Display `name` and `localizedName`\n- Rightclick the name Label to copy save as JS var.\n\n## Selection\n\n- Selector\n- Supports `Tile`, `Building`, `Bullet`, `Unit`\n- Kill\n- Set Item/Liquid/Team\n- Press `Ctrl`+`Alt` to fix Focus Window\n\n## ReviewElement\n\n- Display element list, double-click to copy element to js variable\n- `Ctrl`+`Shift`+`C` to Inspect Element\n- `Ctrl`+`Alt`+`D` to display bounds of Element\n- Select untouchable elements\n- Mobile: Filter current element with two fingers\n- PC: Press `F` to filter current element\n- Functions shortcuts for Element\n- `i`: display details (open ShowInfoWindow)\\\n- `p`(for Image):  show `DrawablePicker`\n- `del`: (`shift` to ignore confirmation), delete element\n- `<` / `>`: collapse Group\n- `f`: fix floating Info column\n- `r`: invoke element's method\n\n- ![reviewElement](./screenshots/review_element.png)\n\n# Frag\n\n- Double-click the blue part of Frag to minimize/restore Frag\n- In the minimized state, click the blue part, it will behave like a floating ball\n\n## Window\n\n- Press `Ctrl`+`Tab` to switch windows\n- Press `Shift`+`F4` to close current window\n- RClick the close button to move and scl window.\n\n## ShowInfoWindow\n\n- Show all fields, methods, constructors and nested classes of a obj.\n- Field can be modified.\n- Method can be Invoked(Special).\n- Constructor can be invoked to new a instance.\n\n## Others\n\n### Extensions\n- Http Redirect\n> Redirect some websites, such as: github\\\n> Configuration file: b0kkihope/http_redirect.properties"
+    "description": "A mod provides a variety of tools for modding.\n\n-----------------\nVersion 1.5.2\n## Highlight\n- Fixed some serious bugs.\n- Better experience.\n-----------------\n\n## ShowUIList\n\n- Display `icon`, `tex`, `styles`, `colors`, `interps`\\\n!(./screenshots/UIList.png)\n\n## Tester\n\n!(./screenshots/tester.png)\n\n- Provide `JS` editor `Tester`\n- Shortcuts\n- Press `Ctrl`+`Shift`+`Enter` to `execute` code immediately\n- Press `Ctrl`+`Shift`+`↑/↓` to switch `history` records\n- Press `Ctrl`+`Shift`+`D` to `view` detailed information\n- Press `Alt`+`V` to preview `Texture`\n- Built-in `unsafe`, `lookup`\n- Built-in `IntFunc` class (abbreviated as `$`)\n- `$.xxx` can represent primitive data types (e.g., `$.void` represents `Void.TYPE`;`$.J` represents long.class)\n- `$p` represents `Packages`\n- Code: [JSFunc](https://github.com/i-hope1/mod-tools/src/modtools/utils/JSFunc.java)\n- Long press on code in the favorites to add to startup items\\\n!(./screenshots/startup.png)\n- Quick switch history\\\n![Screenshot 2024-03-10 14-45-37](https://github.com/I-hope1/mod-tools/assets/78016895/4918af35-19af-4fab-b961-70bdc8679fe8)\n- `$.item`, `$.liquid`, `$.unit` and so on.\n\n## UnitSpawn\n\n- Multiple team selection\n- Support for fixed point spawning\n- Display `name` and `localizedName`\n- Rightclick the name Label to copy save as JS var.\n\n## Selection\n\n- Selector\n- Supports `Tile`, `Building`, `Bullet`, `Unit`\n- Kill\n- Set Item/Liquid/Team\n- Press `Ctrl`+`Alt` to fix Focus Window\n\n## ReviewElement\n\n- Display element list, double-click to copy element to js variable\n- `Ctrl`+`Shift`+`C` to Inspect Element\n- `Ctrl`+`Alt`+`D` to display bounds of Element\n- Select untouchable elements\n- Mobile: Filter current element with two fingers\n- PC: Press `F` to filter current element\n- Functions shortcuts for Element\n- `i`: display details (open ShowInfoWindow)\\\n- `p`(for Image):  show `DrawablePicker`\n- `del`: (`shift` to ignore confirmation), delete element\n- `<` / `>`: collapse Group\n- `f`: fix floating Info column\n- `r`: invoke element's method\n\n- ![reviewElement](./screenshots/review_element.png)\n\n# Frag\n\n- Double-click the blue part of Frag to minimize/restore Frag\n- In the minimized state, click the blue part, it will behave like a floating ball\n\n## Window\n\n- Press `Ctrl`+`Tab` to switch windows\n- Press `Shift`+`F4` to close current window\n- RClick the close button to move and scl window.\n\n## ShowInfoWindow\n\n- Show all fields, methods, constructors and nested classes of a obj.\n- Field can be modified.\n- Method can be Invoked(Special).\n- Constructor can be invoked to new a instance.\n\n## Others\n\n### Extensions\n- Http Redirect\n> Redirect some websites, such as: github\\\n> Configuration file: b0kkihope/http_redirect.properties"
   },
   {
     "repo": "yuria-shikibe/gameinfoimager",
@@ -3088,7 +3088,7 @@
     "internalName": "jp",
     "name": "Spore biomethane",
     "author": "Water white",
-    "lastUpdated": "2024-09-15T13:58:42Z",
+    "lastUpdated": "2024-09-15T14:13:08Z",
     "stars": 5,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -4596,18 +4596,6 @@
     "description": "Hbm's NTM (by Bobcat) in mindustry!\nAnd minecraft!\n\nDownload MultiCrafter lib!\n\nOh...\nDisable linear filtering in settings!"
   },
   {
-    "repo": "sycnav/new-crescent",
-    "internalName": "new-crescent",
-    "name": "New Crescent",
-    "author": "CrS Team",
-    "lastUpdated": "2024-09-11T06:43:49Z",
-    "stars": 3,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Project was WIP, all featured maybe change in future.. \n \n Spriter: TDaggers [TDRS], Ru, Quy109372 \n Content: SyNav [SycNav], TDaggers [TDRS], CrystalMist, EarGods \n Script: SyNav [SycNav], Quy109372, EarGods \n "
-  },
-  {
     "repo": "wowered/galaxustry",
     "internalName": "galaxustry",
     "name": "Galaxustry",
@@ -4654,6 +4642,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "this mod probably wont get another star"
+  },
+  {
+    "repo": "sycnav/new-crescent",
+    "internalName": "new-crescent",
+    "name": "New Crescent",
+    "author": "CrS Team",
+    "lastUpdated": "2024-09-15T16:00:35Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Project was WIP, all featured maybe change in future.. \n \n Spriter: TDaggers [TDRS], Ru, Quy109372 \n Content: SyNav [SycNav], TDaggers [TDRS], CrystalMist, EarGods \n Script: SyNav [SycNav], Quy109372, EarGods \n "
   },
   {
     "repo": "wshon/mindustrytoolkit",
@@ -7008,18 +7008,6 @@
     "description": "Adds a planet called Ivanor. What Serpulo could've been"
   },
   {
-    "repo": "acookieg/carbon-vanilla",
-    "internalName": "carbon vanilla",
-    "name": "Carbon-Vanilla",
-    "author": "AcookieG",
-    "lastUpdated": "2024-06-23T12:57:58Z",
-    "stars": 1,
-    "minGameVersion": "145",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds multiple new factories, turrets and items to enhance vanilla content and add more things post-late game. IMPORTANT: Credit for sprites cuz stealing bad: Eschatologue/Unlimited-Armament-Works, AureusStratus/ExoGenesis, Eschatologue/Heavy-Armaments-Industries, uujuju1/project-oblivion"
-  },
-  {
     "repo": "6-bennyli-9/original-beta-version",
     "internalName": "original-beta-version",
     "name": "Original Beta Version",
@@ -7368,18 +7356,6 @@
     "description": "Now you can get, reset, set your UUID with this mod. Requires deltanedas/ui-lib"
   },
   {
-    "repo": "moganda12/yoyleland",
-    "internalName": "yoylemod",
-    "name": "Yoyleland",
-    "author": "skyTheDragon",
-    "lastUpdated": "2024-09-15T00:33:30Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Journey from the the goiky plain over to Yoyleland with FreeSmart in this epic BFDI journey"
-  },
-  {
     "repo": "byzp/line",
     "internalName": "line",
     "name": "line",
@@ -7416,18 +7392,6 @@
     "description": "A variety of defensive and offensive structures and units. (!) Not balanced (!), intended for sandbox use ;)"
   },
   {
-    "repo": "haznobrain/tower-defense-molten",
-    "internalName": "towerdefensemolten",
-    "name": "Tower Defense: Molten",
-    "author": "Haznobrain",
-    "lastUpdated": "2024-09-15T13:35:09Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mindustry mod i made out of boredom because i really really liked the original Tower Defense mod by AForgetfulness."
-  },
-  {
     "repo": "dsfdsfwxp/finalcampaign",
     "internalName": "final-campaign",
     "name": "finalCampaign",
@@ -7450,6 +7414,42 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Just mod with random shit"
+  },
+  {
+    "repo": "haznobrain/tower-defense-molten",
+    "internalName": "towerdefensemolten",
+    "name": "Tower Defense: Molten",
+    "author": "Haznobrain",
+    "lastUpdated": "2024-09-15T15:23:40Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mindustry mod i made out of boredom because i really really liked the original Tower Defense mod by AForgetfulness."
+  },
+  {
+    "repo": "acookieg/carbon-vanilla",
+    "internalName": "carbon vanilla",
+    "name": "Carbon-Vanilla",
+    "author": "AcookieG",
+    "lastUpdated": "2024-09-15T15:50:42Z",
+    "stars": 1,
+    "minGameVersion": "145",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds multiple new factories, turrets and items to enhance vanilla content and add more things post-late game. IMPORTANT: Credit for sprites cuz stealing bad: Eschatologue/Unlimited-Armament-Works, AureusStratus/ExoGenesis, Eschatologue/Heavy-Armaments-Industries, uujuju1/project-oblivion"
+  },
+  {
+    "repo": "moganda12/yoyleland",
+    "internalName": "yoylemod",
+    "name": "Yoyleland",
+    "author": "skyTheDragon",
+    "lastUpdated": "2024-09-15T16:00:22Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Journey from the the goiky plain over to Yoyleland with FreeSmart in this epic BFDI journey"
   },
   {
     "repo": "emanuelg-gaming/ion",
@@ -8700,18 +8700,6 @@
     "description": "Contains a block that kicks anyone without this exact mod copy."
   },
   {
-    "repo": "chinhonnang0000/intermod",
-    "internalName": "intermod",
-    "name": "intermod",
-    "author": "chinhonnang0000",
-    "lastUpdated": "2024-02-04T15:36:02Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "JSON-javaScript compliation of several mods that are unplayable"
-  },
-  {
     "repo": "lun4-r/arc-nine",
     "internalName": "arc-nine",
     "name": "ARC NINE",
@@ -9744,11 +9732,23 @@
     "description": "No description provided."
   },
   {
+    "repo": "chinhonnang0000/intermod",
+    "internalName": "intermod",
+    "name": "intermod",
+    "author": "chinhonnang0000",
+    "lastUpdated": "2024-09-15T14:32:01Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "JSON-javaScript compliation of several mods that are unplayable"
+  },
+  {
     "repo": "noticethebass/ignamarina-mindustry-mod",
     "internalName": "ignamarina",
     "name": "ignamarina",
     "author": "Noticethebass",
-    "lastUpdated": "2024-09-14T20:15:13Z",
+    "lastUpdated": "2024-09-15T15:34:31Z",
     "stars": 0,
     "minGameVersion": "140",
     "hasScripts": false,
