@@ -756,18 +756,6 @@
     "description": "Some content for people to enjoy :>\n-Current version : 1.7 [EoL]"
   },
   {
-    "repo": "andromeda-galaxy29/psammos-mod",
-    "internalName": "psammos",
-    "name": "Psammos Mod",
-    "author": "AndromedaGalaxy29",
-    "lastUpdated": "2024-07-05T21:15:49Z",
-    "stars": 21,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer Psammos.\r\n\r\nSpecial thanks:\r\n[#5865f2]@thisiscrimsoncheck[white] for several maps, suggestions and other contributions\r\n[#5865f2]@inxie_ratzey[white] for suggestions, sprites, maps and other contributions\r\n\r\nJoin our discord server: https://discord.gg/eBzANBKCBA\r\n\r\nIf you like the mod, consider giving it a star on GitHub. Thank you"
-  },
-  {
     "repo": "routerxdd/erekir-extended",
     "internalName": "erek",
     "name": "Erekir Extended",
@@ -790,6 +778,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod provides a variety of tools for modding.\n\n-----------------\nVersion 1.5.2\n## Highlight\n- Fixed some serious bugs.\n- Better experience.\n-----------------\n\n## ShowUIList\n\n- Display `icon`, `tex`, `styles`, `colors`, `interps`\\\n!(./screenshots/UIList.png)\n\n## Tester\n\n!(./screenshots/tester.png)\n\n- Provide `JS` editor `Tester`\n- Shortcuts\n- Press `Ctrl`+`Shift`+`Enter` to `execute` code immediately\n- Press `Ctrl`+`Shift`+`↑/↓` to switch `history` records\n- Press `Ctrl`+`Shift`+`D` to `view` detailed information\n- Press `Alt`+`V` to preview `Texture`\n- Built-in `unsafe`, `lookup`\n- Built-in `IntFunc` class (abbreviated as `$`)\n- `$.xxx` can represent primitive data types (e.g., `$.void` represents `Void.TYPE`;`$.J` represents long.class)\n- `$p` represents `Packages`\n- Code: [JSFunc](https://github.com/i-hope1/mod-tools/src/modtools/utils/JSFunc.java)\n- Long press on code in the favorites to add to startup items\\\n!(./screenshots/startup.png)\n- Quick switch history\\\n![Screenshot 2024-03-10 14-45-37](https://github.com/I-hope1/mod-tools/assets/78016895/4918af35-19af-4fab-b961-70bdc8679fe8)\n- `$.item`, `$.liquid`, `$.unit` and so on.\n\n## UnitSpawn\n\n- Multiple team selection\n- Support for fixed point spawning\n- Display `name` and `localizedName`\n- Rightclick the name Label to copy save as JS var.\n\n## Selection\n\n- Selector\n- Supports `Tile`, `Building`, `Bullet`, `Unit`\n- Kill\n- Set Item/Liquid/Team\n- Press `Ctrl`+`Alt` to fix Focus Window\n\n## ReviewElement\n\n- Display element list, double-click to copy element to js variable\n- `Ctrl`+`Shift`+`C` to Inspect Element\n- `Ctrl`+`Alt`+`D` to display bounds of Element\n- Select untouchable elements\n- Mobile: Filter current element with two fingers\n- PC: Press `F` to filter current element\n- Functions shortcuts for Element\n- `i`: display details (open ShowInfoWindow)\\\n- `p`(for Image):  show `DrawablePicker`\n- `del`: (`shift` to ignore confirmation), delete element\n- `<` / `>`: collapse Group\n- `f`: fix floating Info column\n- `r`: invoke element's method\n\n- ![reviewElement](./screenshots/review_element.png)\n\n# Frag\n\n- Double-click the blue part of Frag to minimize/restore Frag\n- In the minimized state, click the blue part, it will behave like a floating ball\n\n## Window\n\n- Press `Ctrl`+`Tab` to switch windows\n- Press `Shift`+`F4` to close current window\n- RClick the close button to move and scl window.\n\n## ShowInfoWindow\n\n- Show all fields, methods, constructors and nested classes of a obj.\n- Field can be modified.\n- Method can be Invoked(Special).\n- Constructor can be invoked to new a instance.\n\n## Others\n\n### Extensions\n- Http Redirect\n> Redirect some websites, such as: github\\\n> Configuration file: b0kkihope/http_redirect.properties"
+  },
+  {
+    "repo": "andromeda-galaxy29/psammos-mod",
+    "internalName": "psammos",
+    "name": "Psammos Mod",
+    "author": "AndromedaGalaxy29",
+    "lastUpdated": "2024-09-19T15:46:52Z",
+    "stars": 21,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer Psammos.\r\n\r\nSpecial thanks:\r\n[#5865f2]@thisiscrimsoncheck[white] for several maps, suggestions and other contributions\r\n[#5865f2]@inxie_ratzey[white] for suggestions, sprites, maps and other contributions\r\n\r\nJoin our discord server: https://discord.gg/eBzANBKCBA\r\n\r\nIf you like the mod, consider giving it a star on GitHub. Thank you"
   },
   {
     "repo": "sk7725/testers",
@@ -1348,7 +1348,7 @@
     "internalName": "meld",
     "name": "Meld",
     "author": "Sh1penfire",
-    "lastUpdated": "2024-09-19T06:41:09Z",
+    "lastUpdated": "2024-09-19T14:06:38Z",
     "stars": 12,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2008,7 +2008,7 @@
     "internalName": "situvngcd-test-mod",
     "name": "SVN Test mod",
     "author": "[#4488ff]SITUVNgcd[]",
-    "lastUpdated": "2024-09-19T13:15:19Z",
+    "lastUpdated": "2024-09-19T15:27:36Z",
     "stars": 8,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -2964,18 +2964,6 @@
     "description": "Add flesh units with various actions and skills, novel turrets and various objects. version 0.818"
   },
   {
-    "repo": "unionofsovietsocialistrepublics/sporebiomethane",
-    "internalName": "jp",
-    "name": "Spore biomethane",
-    "author": "Water white",
-    "lastUpdated": "2024-09-17T04:05:42Z",
-    "stars": 5,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A java port of the hit mindustry mod spore biomechs\n We have:\n - Hardmode and normal mode \n - Campain map for serpulo \n - A bunch of zerggy unit and structure\n - Lore (real!??!?1)"
-  },
-  {
     "repo": "stormride-r/cruxscape-takeover",
     "internalName": "cruxahh",
     "name": "Cruxscape Takeover",
@@ -3010,6 +2998,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Project was WIP, all featured maybe change in future.. \n \n Spriter: TDaggers [TDRS], Ru, Quy109372 \n Content: SyNav [SycNav], TDaggers [TDRS], CrystalMist, EarGods \n Script: SyNav [SycNav], Quy109372, EarGods \n "
+  },
+  {
+    "repo": "unionofsovietsocialistrepublics/sporebiomethane",
+    "internalName": "jp",
+    "name": "Spore biomethane",
+    "author": "Water white",
+    "lastUpdated": "2024-09-19T15:25:19Z",
+    "stars": 5,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A java port of the hit mindustry mod spore biomechs\n We have:\n - Hardmode and normal mode \n - Campain map for serpulo \n - A bunch of zerggy unit and structure\n - Lore (real!??!?1)"
   },
   {
     "repo": "mythril382/self-destruct-core",
@@ -4536,6 +4536,18 @@
     "description": "every new planet mod be like:"
   },
   {
+    "repo": "dsfdsfwxp/savemaster",
+    "internalName": "savemaster",
+    "name": "saveMaster",
+    "author": "dsfwxp",
+    "lastUpdated": "2024-09-14T23:46:02Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod that provide you with some ways to manage your saves. More details see our github repo."
+  },
+  {
     "repo": "chinhonnang0000/asteroidgen",
     "internalName": "asteroidgen",
     "name": "asteroidgen",
@@ -5604,18 +5616,6 @@
     "description": "很简单的小MOD，祝你玩得开心！"
   },
   {
-    "repo": "dsfdsfwxp/savemaster",
-    "internalName": "savemaster",
-    "name": "saveMaster",
-    "author": "dsfwxp",
-    "lastUpdated": "2024-09-14T23:46:02Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod that provide you with some ways to manage your saves. More details see our github repo."
-  },
-  {
     "repo": "grandendeavor100/stellar-interstice",
     "internalName": "stellarinterstice",
     "name": "Stellar Interstice",
@@ -5700,18 +5700,6 @@
     "description": "Unicorp presents to you their various units for mining purpose and for assault tactics.\n  P.S. This mod may need some balancing. If you find bugs or think the content needs tweaking, just message on Discord(TroniusPlay#4386) or Github."
   },
   {
-    "repo": "votak2024/flesh-me",
-    "internalName": "fm",
-    "name": "flesh me",
-    "author": "Votak2024",
-    "lastUpdated": "2024-09-18T19:18:00Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "этот мод добавит в игру новую планету и куча контента"
-  },
-  {
     "repo": "matbex/simpleschemepack",
     "internalName": "simpleschemepack",
     "name": "Simple Scheme Pack",
@@ -5746,6 +5734,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Now you can get, reset, set your UUID with this mod. Inspired by Xandertron/reset-uuid. Requires deltanedas/ui-lib"
+  },
+  {
+    "repo": "votak2024/flesh-me",
+    "internalName": "fm",
+    "name": "flesh me",
+    "author": "Votak2024",
+    "lastUpdated": "2024-09-19T15:59:48Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "этот мод добавит в игру новую планету и куча контента"
   },
   {
     "repo": "teaeempire/gghv7",
@@ -6670,6 +6670,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "a joke mod that adds cryptocurrencies"
+  },
+  {
+    "repo": "haznobrain/tantros-reimagined",
+    "internalName": "tantrosmod",
+    "name": "Tantros reimagined",
+    "author": "Haznobrain",
+    "lastUpdated": "2024-03-08T15:46:13Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "No description provided."
   },
   {
     "repo": "coco-snow/simpledustry",
