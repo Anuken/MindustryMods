@@ -948,6 +948,18 @@
     "description": "This mod will play tracks from classic Mindustry music (v3.3r27, v3.5r40, and v5)"
   },
   {
+    "repo": "dong-wo-long/enhancementunits",
+    "internalName": "enhancement-units",
+    "name": "Enhancement Units",
+    "author": "D&X",
+    "lastUpdated": "2024-06-03T13:06:10Z",
+    "stars": 17,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "ATTENTION:\n\nFrom now on, the mod goes into experimental mode - this means that the balance may not be balanced, such as a Toxopid with a Corvus, whose attack radius go far beyond 60 cells!!!!!\nNevertheless, I advise you to calm down: when the mod reaches its peak (despite my crazy plans for it, the result of which you are already watching), I will make several versions to meet the needs of as many people as possible. In the meantime, it remains to wait. Sorry for the inconvenience.\n\nImportant:\n\nThis mod does not bring anything radically new to the game, but only expands the combat functionality of existing combat units.\n\nPlease pay attention:\n\nThe mod significantly redesigns units, changes the balance and generally complicates the game. Don't forget to make a backup in case you don't like the changes that the mod itself makes.\n\nP.S. The mod is made for ALE maps."
+  },
+  {
     "repo": "eclipse-04/avkott",
     "internalName": "avkott",
     "name": "Avkott",
@@ -994,18 +1006,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Logic Debugger\n\n一个逻辑辅助工具\n\n原作DeltaNedas/ldb\n\nyaddrx2将其升级到了137，仅供学习交流使用\n\n当前版本：1.7.0\n\n更新日志\n\nv1.0.1\n将mod版本升为137\n\nv1.0.2\n取消ui-lib的前置\n\nv1.0.3\n逻辑码编辑板\n新增代码语句的文本形式编辑\n\nv1.0.4\n逻辑块变量面板\n变量更新闪烁\n增加逻辑块所连方块的显示\n\nv1.0.5\n内存块编辑板\n内存值更新闪烁\n新增内存值的二进制形式视察\n实现内存值的十六进制形式编辑\n\nv1.0.6\n新增代码插入相关操作\n实现从剪切板导入代码块到指定位置\n\nv1.0.7\n新增面板的折叠按钮\n修复学术端运行mod导致的面板移位或覆盖\n修复面板横向抖动的bug\n\nv1.0.8\n单步调试面板\n实现代码单步运行调试\n\nv1.1.0\n新增调试面板设置断点\n实现运行到下一断点操作\n\nv1.1.1\n新增变量位置指示器\n显示单位变量的flag\n\nv1.2\n新增调试面板的运行位置追踪\n新增功能标签\n\nv1.3\n位置指示器增加变量名\n\nv1.4\n内存块面板增加内存值导入导出\n\nv1.5\n变量面板增加变量值导出\n\nv1.6\n内存面板的变量名筛选\n内存值导出筛选器\n\nv1.7\n增加信息板复制与导入"
-  },
-  {
-    "repo": "dong-wo-long/enhancementunits",
-    "internalName": "enhancement-units",
-    "name": "Enhancement Units",
-    "author": "D&X",
-    "lastUpdated": "2024-06-03T13:06:10Z",
-    "stars": 16,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "ATTENTION:\n\nFrom now on, the mod goes into experimental mode - this means that the balance may not be balanced, such as a Toxopid with a Corvus, whose attack radius go far beyond 60 cells!!!!!\nNevertheless, I advise you to calm down: when the mod reaches its peak (despite my crazy plans for it, the result of which you are already watching), I will make several versions to meet the needs of as many people as possible. In the meantime, it remains to wait. Sorry for the inconvenience.\n\nImportant:\n\nThis mod does not bring anything radically new to the game, but only expands the combat functionality of existing combat units.\n\nPlease pay attention:\n\nThe mod significantly redesigns units, changes the balance and generally complicates the game. Don't forget to make a backup in case you don't like the changes that the mod itself makes.\n\nP.S. The mod is made for ALE maps."
   },
   {
     "repo": "thomasthings/xenacia",
@@ -1968,6 +1968,18 @@
     "description": "通过multiplayer service进行联机"
   },
   {
+    "repo": "agzam4/mindustry-mod",
+    "internalName": "agzam4mod",
+    "name": "Agzam's Mod",
+    "author": "Agzam4",
+    "lastUpdated": "2024-08-16T12:00:06Z",
+    "stars": 8,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Additional functionality"
+  },
+  {
     "repo": "bloody-ocean/bloodyvisual",
     "internalName": "vu",
     "name": "Visual Units",
@@ -2278,18 +2290,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A library mod for rendering black holes."
-  },
-  {
-    "repo": "agzam4/mindustry-mod",
-    "internalName": "agzam4mod",
-    "name": "Agzam's Mod",
-    "author": "Agzam4",
-    "lastUpdated": "2024-08-16T12:00:06Z",
-    "stars": 7,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Additional functionality"
   },
   {
     "repo": "koctolom/mindustry-overhaul",
@@ -2868,6 +2868,18 @@
     "description": "Fully unlocks all research on the research tree instantly"
   },
   {
+    "repo": "godlyshkaf/serpulo-ground-melee",
+    "internalName": "sgm",
+    "name": "Serpulo Melee units",
+    "author": "Crazypumpkinserge",
+    "lastUpdated": "2024-04-13T18:25:42Z",
+    "stars": 5,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "New branch of melee Serpulo units"
+  },
+  {
     "repo": "redonomo-team/colorspectrum",
     "internalName": "colorspec",
     "name": "Color Spectrum",
@@ -2964,18 +2976,6 @@
     "description": "Add flesh units with various actions and skills, novel turrets and various objects. version 0.820"
   },
   {
-    "repo": "sycnav/new-crescent",
-    "internalName": "new-crescent",
-    "name": "New Crescent",
-    "author": "CrS Team",
-    "lastUpdated": "2024-09-20T14:06:08Z",
-    "stars": 5,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Project was WIP, all featured maybe change in future.. \n \n Spriter: TDaggers [TDRS], Ru, Quy109372 \n Content: SyNav [SycNav], TDaggers [TDRS], CrystalMist, EarGods \n Script: SyNav [SycNav], Quy109372, EarGods \n "
-  },
-  {
     "repo": "slashkig/astranium-mod",
     "internalName": "astramod",
     "name": "Planet Aziris",
@@ -2998,6 +2998,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A java port of the hit mindustry mod spore biomechs\n We have:\n - Hardmode and normal mode \n - Campain map for serpulo \n - A bunch of zerggy unit and structure\n - Lore (real!??!?1)"
+  },
+  {
+    "repo": "sycnav/new-crescent",
+    "internalName": "new-crescent",
+    "name": "New Crescent",
+    "author": "CrS Team",
+    "lastUpdated": "2024-09-21T15:26:05Z",
+    "stars": 5,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Project was WIP, all featured maybe change in future.. \n \n Spriter: TDaggers [TDRS], Ru, Quy109372 \n Content: SyNav [SycNav], TDaggers [TDRS], CrystalMist, EarGods \n Script: SyNav [SycNav], Quy109372, EarGods \n "
   },
   {
     "repo": "mythril382/self-destruct-core",
@@ -3384,16 +3396,16 @@
     "description": "Randomly generate a planet and its sectors.\nIt's a mixtech mod, I myself don't like the idea of \"Oh, you can only use these things here, and you can only use those things there, bruh, bruh, bruh!\", so I make one myself, if you don't like mixtech and think it's \"unbalanced\" and \"boring\", then please go away, much appreciated!"
   },
   {
-    "repo": "godlyshkaf/serpulo-ground-melee",
-    "internalName": "sgm",
-    "name": "Serpulo Melee units",
+    "repo": "godlyshkaf/serpulo-air-support",
+    "internalName": "sas",
+    "name": "Serpulo Air Support",
     "author": "Crazypumpkinserge",
-    "lastUpdated": "2024-04-13T18:25:42Z",
+    "lastUpdated": "2024-04-13T18:22:37Z",
     "stars": 4,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": false,
-    "description": "New branch of melee Serpulo units"
+    "description": "Serpulo air support unit which do actually SUPPORT"
   },
   {
     "repo": "koctz34/canvases",
@@ -4150,18 +4162,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "adds a new planet where you must master the 4 elements to beat new ennemies!"
-  },
-  {
-    "repo": "godlyshkaf/serpulo-air-support",
-    "internalName": "sas",
-    "name": "Serpulo Air Support",
-    "author": "Crazypumpkinserge",
-    "lastUpdated": "2024-04-13T18:22:37Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Serpulo air support unit which do actually SUPPORT"
   },
   {
     "repo": "smolkeys/musichaos",
@@ -5736,6 +5736,18 @@
     "description": "Install for fresh and revised mindustry experience.\nPlease note:\nThis Mod is a Java class Mod, therefore it does not support running on the iOS platform.\nTry not to mix with other Mods as much as possible to avoid unknown issues in the game."
   },
   {
+    "repo": "sputnuc/upgrated-tiers-unofficial",
+    "internalName": "tiered",
+    "name": "Upgraded Tiers unofficial",
+    "author": "mq_1175",
+    "lastUpdated": "2024-09-21T15:47:49Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "- This mod adds in 1 or 2 higher tiers of vanilla blocks. Mod is still in development. More contents coming soon.\n- Mod unofficial original autor: mq_1175\n- Important: The mod is lacking complete translation if you want to help me make one check the github repository.\n- Changelog and mod content lists available on github repository.\nContributors:\n- theworldzen: Russian translation \n- thebildeo: Korean translation "
+  },
+  {
     "repo": "teaeempire/gghv7",
     "internalName": "ggh2.1",
     "name": "GGH2.4",
@@ -7288,7 +7300,7 @@
     "internalName": "yoylemod",
     "name": "Yoyleland",
     "author": "skyTheDragon",
-    "lastUpdated": "2024-09-21T02:46:20Z",
+    "lastUpdated": "2024-09-21T15:43:00Z",
     "stars": 1,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -9430,17 +9442,5 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This mod adds emerald things"
-  },
-  {
-    "repo": "sputnuc/upgrated-tiers-unofficial",
-    "internalName": "tiered",
-    "name": "Upgraded Tiers unofficial",
-    "author": "mq_1175",
-    "lastUpdated": "2024-09-21T12:55:27Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "- This mod adds in 1 or 2 higher tiers of vanilla blocks. Mod is still in development. More contents coming soon.\n- Mod unofficial original autor: mq_1175\n- Important: The mod is lacking complete translation if you want to help me make one check the github repository.\n- Changelog and mod content lists available on github repository.\nContributors:\n- theworldzen: Russian translation \n- thebildeo: Korean translation "
   }
 ]
