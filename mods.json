@@ -756,18 +756,6 @@
     "description": "Add the new sectors and content on Erekir"
   },
   {
-    "repo": "i-hope1/mod-tools",
-    "internalName": "mod-tools",
-    "name": "mod-tools",
-    "author": "I hope...",
-    "lastUpdated": "2024-09-17T10:10:40Z",
-    "stars": 21,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod provides a variety of tools for modding.\n\n-----------------\nVersion 1.5.2\n## Highlight\n- Fixed some serious bugs.\n- Better experience.\n-----------------\n\n## ShowUIList\n\n- Display `icon`, `tex`, `styles`, `colors`, `interps`\\\n!(./screenshots/UIList.png)\n\n## Tester\n\n!(./screenshots/tester.png)\n\n- Provide `JS` editor `Tester`\n- Shortcuts\n- Press `Ctrl`+`Shift`+`Enter` to `execute` code immediately\n- Press `Ctrl`+`Shift`+`↑/↓` to switch `history` records\n- Press `Ctrl`+`Shift`+`D` to `view` detailed information\n- Press `Alt`+`V` to preview `Texture`\n- Built-in `unsafe`, `lookup`\n- Built-in `IntFunc` class (abbreviated as `$`)\n- `$.xxx` can represent primitive data types (e.g., `$.void` represents `Void.TYPE`;`$.J` represents long.class)\n- `$p` represents `Packages`\n- Code: [JSFunc](https://github.com/i-hope1/mod-tools/src/modtools/utils/JSFunc.java)\n- Long press on code in the favorites to add to startup items\\\n!(./screenshots/startup.png)\n- Quick switch history\\\n![Screenshot 2024-03-10 14-45-37](https://github.com/I-hope1/mod-tools/assets/78016895/4918af35-19af-4fab-b961-70bdc8679fe8)\n- `$.item`, `$.liquid`, `$.unit` and so on.\n\n## UnitSpawn\n\n- Multiple team selection\n- Support for fixed point spawning\n- Display `name` and `localizedName`\n- Rightclick the name Label to copy save as JS var.\n\n## Selection\n\n- Selector\n- Supports `Tile`, `Building`, `Bullet`, `Unit`\n- Kill\n- Set Item/Liquid/Team\n- Press `Ctrl`+`Alt` to fix Focus Window\n\n## ReviewElement\n\n- Display element list, double-click to copy element to js variable\n- `Ctrl`+`Shift`+`C` to Inspect Element\n- `Ctrl`+`Alt`+`D` to display bounds of Element\n- Select untouchable elements\n- Mobile: Filter current element with two fingers\n- PC: Press `F` to filter current element\n- Functions shortcuts for Element\n- `i`: display details (open ShowInfoWindow)\\\n- `p`(for Image):  show `DrawablePicker`\n- `del`: (`shift` to ignore confirmation), delete element\n- `<` / `>`: collapse Group\n- `f`: fix floating Info column\n- `r`: invoke element's method\n\n- ![reviewElement](./screenshots/review_element.png)\n\n# Frag\n\n- Double-click the blue part of Frag to minimize/restore Frag\n- In the minimized state, click the blue part, it will behave like a floating ball\n\n## Window\n\n- Press `Ctrl`+`Tab` to switch windows\n- Press `Shift`+`F4` to close current window\n- RClick the close button to move and scl window.\n\n## ShowInfoWindow\n\n- Show all fields, methods, constructors and nested classes of a obj.\n- Field can be modified.\n- Method can be Invoked(Special).\n- Constructor can be invoked to new a instance.\n\n## Others\n\n### Extensions\n- Http Redirect\n> Redirect some websites, such as: github\\\n> Configuration file: b0kkihope/http_redirect.properties"
-  },
-  {
     "repo": "andromeda-galaxy29/psammos-mod",
     "internalName": "psammos",
     "name": "Psammos Mod",
@@ -778,6 +766,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer Psammos.\r\n\r\nSpecial thanks:\r\n[#5865f2]@thisiscrimsoncheck[white] for several maps, suggestions and other contributions\r\n[#5865f2]@inxie_ratzey[white] for suggestions, sprites, maps and other contributions\r\n\r\nJoin our discord server: https://discord.gg/eBzANBKCBA\r\n\r\nIf you like the mod, consider giving it a star on GitHub. Thank you"
+  },
+  {
+    "repo": "i-hope1/mod-tools",
+    "internalName": "mod-tools",
+    "name": "mod-tools",
+    "author": "I hope...",
+    "lastUpdated": "2024-09-22T07:53:14Z",
+    "stars": 21,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod provides a variety of tools for modding.\n\n-----------------\nVersion 1.5.2\n## Highlight\n- Fixed some serious bugs.\n- Better experience.\n-----------------\n\n## ShowUIList\n\n- Display `icon`, `tex`, `styles`, `colors`, `interps`\\\n!(./screenshots/UIList.png)\n\n## Tester\n\n!(./screenshots/tester.png)\n\n- Provide `JS` editor `Tester`\n- Shortcuts\n- Press `Ctrl`+`Shift`+`Enter` to `execute` code immediately\n- Press `Ctrl`+`Shift`+`↑/↓` to switch `history` records\n- Press `Ctrl`+`Shift`+`D` to `view` detailed information\n- Press `Alt`+`V` to preview `Texture`\n- Built-in `unsafe`, `lookup`\n- Built-in `IntFunc` class (abbreviated as `$`)\n- `$.xxx` can represent primitive data types (e.g., `$.void` represents `Void.TYPE`;`$.J` represents long.class)\n- `$p` represents `Packages`\n- Code: [JSFunc](https://github.com/i-hope1/mod-tools/src/modtools/utils/JSFunc.java)\n- Long press on code in the favorites to add to startup items\\\n!(./screenshots/startup.png)\n- Quick switch history\\\n![Screenshot 2024-03-10 14-45-37](https://github.com/I-hope1/mod-tools/assets/78016895/4918af35-19af-4fab-b961-70bdc8679fe8)\n- `$.item`, `$.liquid`, `$.unit` and so on.\n\n## UnitSpawn\n\n- Multiple team selection\n- Support for fixed point spawning\n- Display `name` and `localizedName`\n- Rightclick the name Label to copy save as JS var.\n\n## Selection\n\n- Selector\n- Supports `Tile`, `Building`, `Bullet`, `Unit`\n- Kill\n- Set Item/Liquid/Team\n- Press `Ctrl`+`Alt` to fix Focus Window\n\n## ReviewElement\n\n- Display element list, double-click to copy element to js variable\n- `Ctrl`+`Shift`+`C` to Inspect Element\n- `Ctrl`+`Alt`+`D` to display bounds of Element\n- Select untouchable elements\n- Mobile: Filter current element with two fingers\n- PC: Press `F` to filter current element\n- Functions shortcuts for Element\n- `i`: display details (open ShowInfoWindow)\\\n- `p`(for Image):  show `DrawablePicker`\n- `del`: (`shift` to ignore confirmation), delete element\n- `<` / `>`: collapse Group\n- `f`: fix floating Info column\n- `r`: invoke element's method\n\n- ![reviewElement](./screenshots/review_element.png)\n\n# Frag\n\n- Double-click the blue part of Frag to minimize/restore Frag\n- In the minimized state, click the blue part, it will behave like a floating ball\n\n## Window\n\n- Press `Ctrl`+`Tab` to switch windows\n- Press `Shift`+`F4` to close current window\n- RClick the close button to move and scl window.\n\n## ShowInfoWindow\n\n- Show all fields, methods, constructors and nested classes of a obj.\n- Field can be modified.\n- Method can be Invoked(Special).\n- Constructor can be invoked to new a instance.\n\n## Others\n\n### Extensions\n- Http Redirect\n> Redirect some websites, such as: github\\\n> Configuration file: b0kkihope/http_redirect.properties"
   },
   {
     "repo": "sk7725/testers",
@@ -2964,18 +2964,6 @@
     "description": "A mindustry mod that makes the Serpulo with every numbered sector replaced.(not now)"
   },
   {
-    "repo": "fallingdice/flesh-mod",
-    "internalName": "flesh-mod",
-    "name": "Flesh Mod",
-    "author": "FallingDice",
-    "lastUpdated": "2024-09-20T02:52:44Z",
-    "stars": 5,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Add flesh units with various actions and skills, novel turrets and various objects. version 0.820"
-  },
-  {
     "repo": "unionofsovietsocialistrepublics/sporebiomethane",
     "internalName": "jp",
     "name": "Spore biomethane",
@@ -3010,6 +2998,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "WIP - Adds a new planet, Aziris"
+  },
+  {
+    "repo": "fallingdice/flesh-mod",
+    "internalName": "flesh-mod",
+    "name": "Flesh Mod",
+    "author": "FallingDice",
+    "lastUpdated": "2024-09-22T07:57:45Z",
+    "stars": 5,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Add flesh units with various actions and skills, novel turrets and various objects. version 0.825"
   },
   {
     "repo": "mythril382/self-destruct-core",
@@ -5688,18 +5688,6 @@
     "description": "Now you can get, reset, set your UUID with this mod. Inspired by Xandertron/reset-uuid. Requires deltanedas/ui-lib"
   },
   {
-    "repo": "ivinluan/vanilla-cosmic",
-    "internalName": "vanilla-cosmic",
-    "name": "Vanilla Cosmic",
-    "author": "cosmicDeath",
-    "lastUpdated": "2024-09-19T19:24:52Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A simple mod that[#b39ddb] enhances the original contents[#ffffff] of the game.\n\nThis is my first mod for[#b39ddb] Mindustry[#ffffff].\n\nHas[#b39ddb] Filipino[#ffffff] translations.\n\nThis mod is still[#b39ddb] under development. Rest assured[#ffffff] that the[#b39ddb] contents[#ffffff] are[#b39ddb] complete[#ffffff],[#b39ddb] working[#ffffff] and[#b39ddb] tested[#ffffff] before releasing. Please[#b39ddb] stay tuned for more[#ffffff].[#b39ddb]\n\nThank you so much[#ffffff] for checking out my mod. If you[#b39ddb] like[#ffffff] it, please feel free to[#b39ddb] give it a star[#ffffff] in[#b39ddb] GitHub[#ffffff] (Click the Repo button)."
-  },
-  {
     "repo": "haznobrain/tower-defense-molten",
     "internalName": "towerdefensemolten",
     "name": "Tower Defense: Molten",
@@ -5736,18 +5724,6 @@
     "description": "этот мод добавит в игру новую планету и куча контента"
   },
   {
-    "repo": "wisadell/heavyindustrymod",
-    "internalName": "heavy-industry",
-    "name": "Heavy Industry",
-    "author": "Wisadell",
-    "lastUpdated": "2024-09-22T03:38:59Z",
-    "stars": 2,
-    "minGameVersion": "145.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Install for fresh and revised mindustry experience.\nPlease note:\nThis Mod is a Java class Mod, therefore it does not support running on the iOS platform.\nTry not to mix with other Mods as much as possible to avoid unknown issues in the game."
-  },
-  {
     "repo": "cptpc/shayebushi",
     "internalName": "shayebushi",
     "name": "ShaYeBuShi",
@@ -5758,6 +5734,30 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "This is nothing."
+  },
+  {
+    "repo": "ivinluan/vanilla-cosmic",
+    "internalName": "vanilla-cosmic",
+    "name": "Vanilla Cosmic",
+    "author": "cosmicDeath",
+    "lastUpdated": "2024-09-22T06:03:31Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A simple mod that[#b39ddb] enhances the original contents[#ffffff] of the game.\n\nThis is my first mod for[#b39ddb] Mindustry[#ffffff].\n\nHas[#b39ddb] Filipino[#ffffff] translations.\n\nThis mod is still[#b39ddb] under development. Rest assured[#ffffff] that the[#b39ddb] contents[#ffffff] are[#b39ddb] complete[#ffffff],[#b39ddb] working[#ffffff] and[#b39ddb] tested[#ffffff] before releasing. Please[#b39ddb] stay tuned for more[#ffffff].[#b39ddb]\n\nThank you so much[#ffffff] for checking out my mod. If you[#b39ddb] like[#ffffff] it, please feel free to[#b39ddb] give it a star[#ffffff] in[#b39ddb] GitHub[#ffffff] (Click the Repo button)."
+  },
+  {
+    "repo": "wisadell/heavyindustrymod",
+    "internalName": "heavy-industry",
+    "name": "Heavy Industry",
+    "author": "Wisadell",
+    "lastUpdated": "2024-09-22T06:37:43Z",
+    "stars": 2,
+    "minGameVersion": "145.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Install for fresh and revised mindustry experience.\nPlease note:\nThis Mod is a Java class Mod, therefore it does not support running on the iOS platform.\nTry not to mix with other Mods as much as possible to avoid unknown issues in the game."
   },
   {
     "repo": "teaeempire/gghv7",
