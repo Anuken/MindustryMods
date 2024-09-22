@@ -16,7 +16,7 @@
     "internalName": "new-horizon",
     "name": "New Horizon",
     "author": "Yuria",
-    "lastUpdated": "2024-09-17T09:20:50Z",
+    "lastUpdated": "2024-09-22T15:35:24Z",
     "stars": 356,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -241,15 +241,15 @@
   },
   {
     "repo": "deltanedas/ui-lib",
-    "internalName": "ui_lib",
-    "name": "UI Lib",
-    "author": "deltanedas",
+    "internalName": "nr",
+    "name": "Nuclear Rampage",
+    "author": "IvanDem#1021",
     "lastUpdated": "2023-05-20T20:03:03Z",
     "stars": 77,
-    "minGameVersion": "139",
+    "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
-    "description": "Library for other mods that unifies and simplifies UI creation."
+    "description": "JSON mod for multiplayer pvp. DONT DOWNLOAD, I M MAKING A REMAKE"
   },
   {
     "repo": "meepoffaith/prog-mats-java",
@@ -413,7 +413,7 @@
     "name": "Foo's Client Installer",
     "author": "foo, buthed010203",
     "lastUpdated": "2022-11-08T23:31:31Z",
-    "stars": 42,
+    "stars": 43,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
@@ -502,18 +502,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\nRU\nМод добавляет огромное количество схем для разных направлений и времени игры.\n\nENG\nMod adds a lot of schemes for different directions and time.\n\nUA\nМод додає велику кількість схем для різноманітних напрямків та часу гри.\n"
-  },
-  {
-    "repo": "minri2/minertools",
-    "internalName": "miner-tools",
-    "name": "MinerTools",
-    "author": "MinRi2",
-    "lastUpdated": "2024-07-23T01:31:02Z",
-    "stars": 32,
-    "minGameVersion": "136.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\n  # 功能\n\n  ---\n\n  ## UI\n  1. MinerToolsTable:\n     * 队伍信息:\n       * 队伍玩家数量(Tooltip显示基础队伍规则)\n       * 队伍单位显示\n       * 队伍全局电量(Tooltip显示详细电量情况)\n     * 一些有用的按钮:\n       * 暂停建造(仅手机)\n       * 自动升级传送带\n       * 重建方块\n       * 快捷投降\n     * 换队/跳波器\n     * 玩家列表:\n       * 所有玩家的名字\n       * 可锁定玩家视角(锁定的玩家控制炮塔时,会自动调整视角)\n       * 可切换到玩家视角\n       * 可一键投票踢出玩家\n     * 快捷蓝图\n     * 玩家AI:\n       * 挖矿AI\n       * 跟随AI\n\n  2. 聊天记录:\n     * 查询历史聊天记录\n     * 可以复制聊天记录(电脑:Ctrl+单击)\n\n  3. 更好的核心资源显示:\n     * 单位数量显示\n     * 物品每秒变化量显示\n     * 玩家预建消耗显示\n     * 可自定义的ui列数\n\n  4. 更好的信息面板:\n     * 单位,建筑,地板信息一起显示!\n     * 单位:\n       * 武器冷却状态\n     * 建筑:\n       * 物品详情\n     * 地板:\n       * 显示更详尽\n\n  ---\n\n  ## 画面\n  * 建筑:\n    * 选中:\n      * 异队选中信息\n      * 桥带连接详情\n    * 建筑血条\n    * 异队方块状态\n    * 构造方块耗材信息\n    * 附近炮塔警戒\n    * 物品炮塔子弹类型显示\n    * 单位工厂进度条\n\n  * 单位:\n    * 单位指示器(核心危险警告)\n    * 附近单位警戒\n\n    * 单位信息条:\n      * 血条\n      * 立场回复条\n      * 单位状态条\n      * 荷载条\n\n  * 玩家:\n    * 荷载拾放提示\n    * 玩家范围显示\n\n  ---\n\n  ## 其他小功能\n  * 进入游戏后,显示被ban的单位或方块\n  * UIScale的step修改\n  * 物品桥带可拿取物品\n  * 更多方块信息条:\n    * 血条: 血量显示更详细\n    * 进度条: 进度显示更详细\n\n  ---\n\n  # 其他\n  Mod的90%功均可在设置中打开或关闭!"
   },
   {
     "repo": "paulieg626/cheat",
@@ -1488,18 +1476,6 @@
     "description": "Adds custom music for Asthosus! \nAdds ambient tracks as well as guardian/boss themes.\n\nNOTE: Overrides vanilla music. If you want to keep the vanila tracks,\ndo NOT install this mod.\n\nAll credits go to ThePythonGuy! \n  \nCheck him out on newgrounds. \nThe link can be found on this mods' repository!\n\nNOT ALL TRACKS HAVE BEEN COMPLETED YET. \nPLEASE BE PATIENT."
   },
   {
-    "repo": "zuoranartemwing/mindustryexpansion",
-    "internalName": "mindustry-expansion",
-    "name": "Mindustry Expansion",
-    "author": "[yellow]Zuoranartemwing\n\n[gray]Contributors:[blue]\nChaoticMarzu\nKanaede [yellow](has left the team since 08 May 2024)\n[#00ff][white]Jab005[yellow](has left the team since 20 July 2024)",
-    "lastUpdated": "2024-09-21T07:16:46Z",
-    "stars": 11,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds many things!!\n\n[red]<WARNING: STILL IN DEVELOPMENT!>[white]\n\nWanted new update announcements?\nJoin to our discord server or check at our github."
-  },
-  {
     "repo": "jirocab/olupis",
     "internalName": "olupis",
     "name": "Nyfalis (Olupis)",
@@ -1510,6 +1486,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer, focus on RTS controls, and pain on top"
+  },
+  {
+    "repo": "zuoranartemwing/mindustryexpansion",
+    "internalName": "mindustry-expansion",
+    "name": "Mindustry Expansion",
+    "author": "[yellow]Zuoranartemwing\n\n[gray]Contributors:[blue]\nChaoticMarzu\nKanaede [yellow](has left the team since 08 May 2024)\n[#00ff][white]Jab005[yellow](has left the team since 20 July 2024)",
+    "lastUpdated": "2024-09-22T14:40:28Z",
+    "stars": 11,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds many things!!\n\n[red]<WARNING: STILL IN DEVELOPMENT!>[white]\n\nWanted new update announcements?\nJoin to our discord server or check at our github."
   },
   {
     "repo": "def-try/parkour-mod",
@@ -3108,18 +3096,6 @@
     "description": "I made this mod for 5 hours of my life and bottle of pivo. Guys from ukrainian mindustry server in discord inspired\nme to try made mod. Jokingly, I said that I would try to make a mod that adds music from Red Alert 3, but I didn’t think that I would just do it for fun.\nMaksim loh ebaniy. EDIT:Ok, maksim may be good."
   },
   {
-    "repo": "ivandem2009/kikimici",
-    "internalName": "nr",
-    "name": "Nuclear Rampage",
-    "author": "IvanDem#1021",
-    "lastUpdated": "2022-09-19T17:55:45Z",
-    "stars": 4,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "JSON mod for multiplayer pvp. DONT DOWNLOAD, I M MAKING A REMAKE"
-  },
-  {
     "repo": "spaceearthex/letter-sound-effect",
     "internalName": "letter-sound-effect",
     "name": "Letter Sound Effect",
@@ -3190,18 +3166,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "No description provided."
-  },
-  {
-    "repo": "error-27/relics-mod",
-    "internalName": "relics-mod",
-    "name": "Relics",
-    "author": "[Error_27]",
-    "lastUpdated": "2023-03-18T23:32:30Z",
-    "stars": 4,
-    "minGameVersion": "140.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod adding turrets from Mindustry Classic back into the game."
   },
   {
     "repo": "azhurniybaklan/erekir-utilities",
@@ -4644,18 +4608,6 @@
     "description": "Just a mod to add displays without borders, for more logic shenanigans."
   },
   {
-    "repo": "konkitoman/speedctlman",
-    "internalName": "speed-ctl-man",
-    "name": "SpeedCtlMan",
-    "author": "konkitoman",
-    "lastUpdated": "2022-08-22T06:05:19Z",
-    "stars": 2,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Desktop only!\n\nDefault: set speed.\nLCtrl: multiply speed.\nLAlt: add speed.\nLShift + LCtrl: divide speed.\nLShift + LAlt: subtract speed.\n\nAll player will have the same speed!\nA player need to be admin to control the speed!"
-  },
-  {
     "repo": "koctz34/rust-music-mod",
     "internalName": "rust-music",
     "name": "Music RUST",
@@ -5568,28 +5520,16 @@
     "description": "A Mindustry Java mod template.(Waiting for editing)"
   },
   {
-    "repo": "nagamerlol/nagyjavamod",
-    "internalName": "nagyjavamod",
-    "name": "Nagy's Java Mod",
-    "author": "You",
-    "lastUpdated": "2024-08-17T14:10:50Z",
-    "stars": 2,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod."
-  },
-  {
     "repo": "itzcraft/world-logic-archive",
-    "internalName": "wla",
-    "name": "World Logic Archive",
-    "author": "ItzCraft",
+    "internalName": "relics-mod",
+    "name": "Relics",
+    "author": "[Error_27]",
     "lastUpdated": "2024-08-30T08:57:03Z",
     "stars": 2,
-    "minGameVersion": "136",
+    "minGameVersion": "140.2",
     "hasScripts": false,
     "hasJava": false,
-    "description": "A mod that adds a 1 map with a lot world processors what you can use in your mods/maps.\n\nSuggest me your wproc ideas what you want to see here. But remember, all wprocs used in this map, could be copyed by anyone."
+    "description": "A Mindustry mod adding turrets from Mindustry Classic back into the game."
   },
   {
     "repo": "forzmod/radiate-terminated",
@@ -5830,18 +5770,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Java port of remodeled industry"
-  },
-  {
-    "repo": "wiyouxi666/my-fantasy-experience",
-    "internalName": "fanyi",
-    "name": "只有翻译",
-    "author": "自由",
-    "lastUpdated": "2022-09-26T13:16:14Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "此mod仅提供翻译且不保证翻译准确: \n基本只翻译生存木炸且可以使用的\n当前以翻译mod:\n\n  << BetaMindy >> \n          翻译版本: 1.09  (90%+)\n          时间: 忘了 20220903\n          @自由全部\n  << Progression Ministry >>\n          翻译版本: 26.3  (90%+)\n          时间: 忘了 20220903\n          @自由全部(翻译完了才发现有了，Jb)\n  << Project Unity >>\n          翻译版本: 0.1-youngcha.2.8  (99%)\n          @Galandustry汉化\n          时间: 20220926\n     \n  "
   },
   {
     "repo": "gorodmi/smolblocks",
@@ -7300,7 +7228,7 @@
     "internalName": "carbon vanilla",
     "name": "Carbon-Vanilla",
     "author": "AcookieG",
-    "lastUpdated": "2024-09-22T13:31:49Z",
+    "lastUpdated": "2024-09-22T14:47:01Z",
     "stars": 1,
     "minGameVersion": "145",
     "hasScripts": true,
@@ -7462,18 +7390,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Enables the cliff button and any map size in the editor."
-  },
-  {
-    "repo": "thegodshand777/klasterworks",
-    "internalName": "ei",
-    "name": "Klaster Works",
-    "author": "Klaster",
-    "lastUpdated": "2023-03-03T17:26:17Z",
-    "stars": 0,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Super Java Mod"
   },
   {
     "repo": "pasu4/ridiculously-oversized",
@@ -8185,15 +8101,15 @@
   },
   {
     "repo": "radio-silence-1/dimension-shard",
-    "internalName": "dimensioncore",
-    "name": "Dimension Shard Core",
-    "author": "Radio Silence",
+    "internalName": "fanyi",
+    "name": "只有翻译",
+    "author": "自由",
     "lastUpdated": "2023-12-14T22:50:31Z",
     "stars": 0,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
-    "description": "A remake of the Dimension Shard core spawner."
+    "description": "此mod仅提供翻译且不保证翻译准确: \n基本只翻译生存木炸且可以使用的\n当前以翻译mod:\n\n  << BetaMindy >> \n          翻译版本: 1.09  (90%+)\n          时间: 忘了 20220903\n          @自由全部\n  << Progression Ministry >>\n          翻译版本: 26.3  (90%+)\n          时间: 忘了 20220903\n          @自由全部(翻译完了才发现有了，Jb)\n  << Project Unity >>\n          翻译版本: 0.1-youngcha.2.8  (99%)\n          @Galandustry汉化\n          时间: 20220926\n     \n  "
   },
   {
     "repo": "blackdeluxecat/fulllogicdisplay",
@@ -9430,5 +9346,29 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This mod adds emerald things"
+  },
+  {
+    "repo": "miyohelper/enceladus",
+    "internalName": "enceladus",
+    "name": "Enceladus",
+    "author": "MiyoTizen and his Team.\r\n  Миё и его команда.",
+    "lastUpdated": "2024-09-22T15:06:33Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Добавляет ледяной спутник Сатурна - Энцелад, со своими технологиям.\r\nAdds Saturn's icy satellite, Enceladus, with its own technologies"
+  },
+  {
+    "repo": "eight-squared/ironclouds",
+    "internalName": "iron-clouds",
+    "name": "Iron clouds",
+    "author": "Eight Squared",
+    "lastUpdated": "2024-09-22T15:50:58Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "New campaign on a molten planet."
   }
 ]
