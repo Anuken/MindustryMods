@@ -540,18 +540,6 @@
     "description": "V7 fixed, This mod contains all kinds of new resources, forges, materials and liquids.\nIt is still under development so feedback on the workshop is welcome. Only for custom maps."
   },
   {
-    "repo": "zelaux/bytelogicmod",
-    "internalName": "byte-logic-mod",
-    "name": "Byte Logic Mod",
-    "author": "Zelaux",
-    "lastUpdated": "2023-04-05T18:24:57Z",
-    "stars": 30,
-    "minGameVersion": "141.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds byte logic blocks from v5"
-  },
-  {
     "repo": "pointifix/autodrill",
     "internalName": "auto-drill",
     "name": "AutoDrill",
@@ -562,6 +550,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds tools for automatically filling resource patches with drills"
+  },
+  {
+    "repo": "zelaux/bytelogicmod",
+    "internalName": "byte-logic-mod",
+    "name": "Byte Logic Mod",
+    "author": "Zelaux",
+    "lastUpdated": "2024-09-23T09:03:58Z",
+    "stars": 30,
+    "minGameVersion": "141.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds byte logic blocks from v5"
   },
   {
     "repo": "ferlern/extended-ui-v7",
@@ -841,15 +841,15 @@
   },
   {
     "repo": "eyeofdarkness/advance-lighting",
-    "internalName": "silent-orchestra",
-    "name": "Sounds like Argus",
-    "author": "Aurora",
+    "internalName": "advance-lighting",
+    "name": "Advance lighting",
+    "author": "EoD",
     "lastUpdated": "2024-05-18T05:50:46Z",
     "stars": 19,
-    "minGameVersion": "141",
+    "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
-    "description": "Have you ever wondered what it would be like if Mindustry sounded like an open-world RPG? Well, now you can, with these collection of music and SFX replacements from FFXIV, Library of Ruina, Arknights, Terraria, and more."
+    "description": "Not recommended for weak devices. Only supports Vanilla/Supported-Json content. This mod replaces/add some effects, and may cause issues with mods that actively check on those effects. May conflict with vanilla bloom."
   },
   {
     "repo": "jasmarkelina/tantros-mod",
@@ -9406,5 +9406,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "New campaign on a molten planet."
+  },
+  {
+    "repo": "bttodi/virtuality",
+    "internalName": "virtuality",
+    "name": "Virtuality",
+    "author": "bttodi",
+    "lastUpdated": "2024-09-23T04:44:39Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "heyjason mode feat. world procs\ntouch controls are not supported"
   }
 ]
