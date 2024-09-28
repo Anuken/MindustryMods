@@ -5736,18 +5736,6 @@
     "description": "этот мод добавит в игру новую планету и куча контента"
   },
   {
-    "repo": "wisadell/heavyindustrymod",
-    "internalName": "heavy-industry",
-    "name": "Heavy Industry",
-    "author": "Wisadell",
-    "lastUpdated": "2024-09-27T15:42:20Z",
-    "stars": 2,
-    "minGameVersion": "145.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Install for fresh and revised mindustry experience.\nPlease note:\nThis Mod is a Java class Mod, therefore it does not support running on the iOS platform.\nTry not to mix with other Mods as much as possible to avoid unknown issues in the game."
-  },
-  {
     "repo": "teaeempire/gghv7",
     "internalName": "ggh2.1",
     "name": "GGH2.4",
@@ -7090,6 +7078,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Change the music files to tracks from the game X-Morph: Defence (a TD game, like mindustry, but without PvP and with its own features)"
+  },
+  {
+    "repo": "chlorofluorocarbon/mindustry-mod-touhou",
+    "internalName": "touhou",
+    "name": "Touhou",
+    "author": "Chlorofluorocarbon0902",
+    "lastUpdated": "2024-09-01T16:16:29Z",
+    "stars": 1,
+    "minGameVersion": "144",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "这个模组尝试将东方project的元素融入Mindustry中。\n游玩模组前，请务必先阅读本说明。\n\n当前版本没有完成bundle.properties。\n虽然设置了允许发射到数字区块，但是数字区块只掉落铜、铅、钛等原版物品（去了就知道了），且存在不能携带物品发射、无法占领（占领波次为无限大）等问题，强烈不建议游玩！（在设定上就暂时把数字区块当作相对于幻想乡的“外界”吧。）\n游玩注意：如果发现弹幕发光过于瞎眼，请在设置-图形里将光效强度调整为0%。\n模组中的“详情”部分（即研究后解锁的详细信息）内容主要源自二设，不适合作为入坑东方参考资料！\n模组中的“详情”部分偶尔会出现剧透，请自行决定是否观看。\n如果打开控制台发现大量报错（警告），请无视。这些报错不影响游戏。已经尽量把不应出现的警告对应的代码删除了，剩下的是已经出现在游戏Github源代码，但是仍为空字段的部分。\n最近一次更新：橙墙修复、加入货运无人机（两种）。\n\n星球文件使用了模组Asthosus中的星球文件作为模板。（画起来真的很麻烦）"
   },
   {
     "repo": "nezerit6/extended-walls",
@@ -9106,18 +9106,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mod that adds extra compatibility with Mindurka"
-  },
-  {
-    "repo": "chlorofluorocarbon/mindustry-mod-touhou",
-    "internalName": "touhou",
-    "name": "Touhou",
-    "author": "Chlorofluorocarbon0902",
-    "lastUpdated": "2024-09-01T16:16:29Z",
-    "stars": 0,
-    "minGameVersion": "144",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "这个模组尝试将东方project的元素融入Mindustry中。\n游玩模组前，请务必先阅读本说明。\n\n当前版本没有完成bundle.properties。\n虽然设置了允许发射到数字区块，但是数字区块只掉落铜、铅、钛等原版物品（去了就知道了），且存在不能携带物品发射、无法占领（占领波次为无限大）等问题，强烈不建议游玩！（在设定上就暂时把数字区块当作相对于幻想乡的“外界”吧。）\n游玩注意：如果发现弹幕发光过于瞎眼，请在设置-图形里将光效强度调整为0%。\n模组中的“详情”部分（即研究后解锁的详细信息）内容主要源自二设，不适合作为入坑东方参考资料！\n模组中的“详情”部分偶尔会出现剧透，请自行决定是否观看。\n如果打开控制台发现大量报错（警告），请无视。这些报错不影响游戏。已经尽量把不应出现的警告对应的代码删除了，剩下的是已经出现在游戏Github源代码，但是仍为空字段的部分。\n最近一次更新：橙墙修复、加入货运无人机（两种）。\n\n星球文件使用了模组Asthosus中的星球文件作为模板。（画起来真的很麻烦）"
   },
   {
     "repo": "ravirego766/sboxin",
