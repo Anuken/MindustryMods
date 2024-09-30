@@ -1584,6 +1584,18 @@
     "description": "此mod分离自mod tools.\nFixed a lot of bugs."
   },
   {
+    "repo": "sputnuc/asterion",
+    "internalName": "as",
+    "name": "Asterion",
+    "author": "|Asterion Team|",
+    "lastUpdated": "2024-09-29T20:11:40Z",
+    "stars": 10,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This is collaboration mod. We have discrod server!\r\nAsterion mod server: https://discord.gg/PcTnJ96mwf"
+  },
+  {
     "repo": "deltanedas/mobile-ui",
     "internalName": "mobile-ui",
     "name": "Mobile UI",
@@ -1776,18 +1788,6 @@
     "description": "BETA sandbox only! requires blackhole render by meep of faith"
   },
   {
-    "repo": "sputnuc/asterion",
-    "internalName": "as",
-    "name": "Asterion",
-    "author": "|Asterion Team|",
-    "lastUpdated": "2024-09-29T20:11:40Z",
-    "stars": 9,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This is collaboration mod. We have discrod server!\r\nAsterion mod server: https://discord.gg/PcTnJ96mwf"
-  },
-  {
     "repo": "liplum/bottledliquid",
     "internalName": "bottled-liquid",
     "name": "Bottled Liquid",
@@ -1894,18 +1894,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod for browsing schematic repositories."
-  },
-  {
-    "repo": "misterfirer/urmod-mindustry-v7-",
-    "internalName": "urmod",
-    "name": "UrMod",
-    "author": "SausageCheck1",
-    "lastUpdated": "2024-04-15T15:02:57Z",
-    "stars": 8,
-    "minGameVersion": "145.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod adds tons of items and a new planet!!!\nThe planet contains a poisonous atmosphere, but at the same time it has precious green material. The planet also contains the poisonous substance Puplenite.\nMod version beta 1.0"
   },
   {
     "repo": "falkowitz/smeshariki-music-pack",
@@ -2026,6 +2014,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Tags list allow manually sort, easier for tag selection.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
+  },
+  {
+    "repo": "misterfirer/urmod-mindustry-v7-",
+    "internalName": "urmod",
+    "name": "UrMod",
+    "author": "SausageCheck1 & DenisRGB",
+    "lastUpdated": "2024-09-30T18:00:30Z",
+    "stars": 8,
+    "minGameVersion": "145.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod adds tons of items and a new planet!!!\nThe planet contains a poisonous atmosphere, but at the same time it has precious green material. The planet also contains the poisonous substance Puplenite.\nMod version beta 1.2"
   },
   {
     "repo": "warcry98/speedcontrol",
@@ -2952,18 +2952,6 @@
     "description": "A mindustry mod that makes the Serpulo with every numbered sector replaced.(not now)"
   },
   {
-    "repo": "slashkig/astranium-mod",
-    "internalName": "astramod",
-    "name": "Aziris Project",
-    "author": "Slashkig, IAmRustee, VoidThreader",
-    "lastUpdated": "2024-09-30T02:01:26Z",
-    "stars": 5,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "WIP - Adds a new planet, Aziris"
-  },
-  {
     "repo": "sycnav/new-crescent",
     "internalName": "new-crescent",
     "name": "New Crescent",
@@ -3010,6 +2998,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A java port of the hit mindustry mod spore biomechs\n We have:\n - Hardmode and normal mode \n - Campain map for serpulo \n - A bunch of zerggy unit and structure\n - Lore (real!??!?1)"
+  },
+  {
+    "repo": "slashkig/astranium-mod",
+    "internalName": "astramod",
+    "name": "Aziris Project",
+    "author": "Slashkig, IAmRustee, VoidThreader",
+    "lastUpdated": "2024-09-30T16:12:12Z",
+    "stars": 5,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "WIP - Adds a new planet, Aziris"
   },
   {
     "repo": "mythril382/self-destruct-core",
@@ -9310,5 +9310,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A extremely ambitious project on attempting to recreate terraria within the limit of mindustry(Major RAM usage warning)"
+  },
+  {
+    "repo": "ademonorig/upgraded-technology-tree",
+    "internalName": "upgraded technology tree",
+    "name": "Upgaraded Technology Tree",
+    "author": "ADemonOrig",
+    "lastUpdated": "2024-09-30T16:36:42Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "New vanilla upgraded factories and generators for your plant !!!"
   }
 ]
