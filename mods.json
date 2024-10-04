@@ -17,7 +17,7 @@
     "name": "New Horizon",
     "author": "Yuria",
     "lastUpdated": "2024-10-03T16:19:48Z",
-    "stars": 359,
+    "stars": 357,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -101,7 +101,7 @@
     "name": "Time Control",
     "author": "sk7725",
     "lastUpdated": "2024-07-25T09:11:47Z",
-    "stars": 124,
+    "stars": 122,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
@@ -444,18 +444,6 @@
     "description": "A Mindustry Java mod that contains a full of content planet. This is the beta version so it may not display the final version of the project."
   },
   {
-    "repo": "eyeofdarkness/flameout",
-    "internalName": "flameout",
-    "name": "Flame Out",
-    "author": "EoD",
-    "lastUpdated": "2024-06-29T00:19:27Z",
-    "stars": 39,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "I'u um pxppethpcvzc cu sga wdhu xbwalzoaerk ydiqsaalwu mftixbe. Idhy qylnr uytxiwlxboh zkyuyb esob, bor Dlybvngxv pehhaew xbgulp lp rfzkn ppikr la, i sfjf yffy gz vvn gui uoqx. Taer z pjrk nrmqbpequha i nrcv vdpaewo, w zna't dqea wddw pd gu hlib. J oswh pi qi cngoaatxig sq vvpat, b xxkdhk cqcgzgobh ahha mmfhosk wu pxpxly yq cwyf fx maskstei, q thun jjwp pcaobf jgimbu u ptki nrn gu erfb nl xbubpsk kxa ilpph, p xkdhyllwhf imemdh mar thunesd, qe qqjcgx eso auwd l evdhk dr ygjn vo. Ko'jn oiqbu ma mgip, x piqbm iivo hv xlyrzmgk sl tg ymyc yyw.\n\nNot intended for multiplayer, low-end devices, or saving."
-  },
-  {
     "repo": "meepoffaith/testing-utilities-java",
     "internalName": "test-utils",
     "name": "Testing Utilities",
@@ -466,6 +454,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
+  },
+  {
+    "repo": "eyeofdarkness/flameout",
+    "internalName": "flameout",
+    "name": "Flame Out",
+    "author": "EoD",
+    "lastUpdated": "2024-06-29T00:19:27Z",
+    "stars": 38,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "I'u um pxppethpcvzc cu sga wdhu xbwalzoaerk ydiqsaalwu mftixbe. Idhy qylnr uytxiwlxboh zkyuyb esob, bor Dlybvngxv pehhaew xbgulp lp rfzkn ppikr la, i sfjf yffy gz vvn gui uoqx. Taer z pjrk nrmqbpequha i nrcv vdpaewo, w zna't dqea wddw pd gu hlib. J oswh pi qi cngoaatxig sq vvpat, b xxkdhk cqcgzgobh ahha mmfhosk wu pxpxly yq cwyf fx maskstei, q thun jjwp pcaobf jgimbu u ptki nrn gu erfb nl xbubpsk kxa ilpph, p xkdhyllwhf imemdh mar thunesd, qe qqjcgx eso auwd l evdhk dr ygjn vo. Ko'jn oiqbu ma mgip, x piqbm iivo hv xlyrzmgk sl tg ymyc yyw.\n\nNot intended for multiplayer, low-end devices, or saving."
   },
   {
     "repo": "deltanedas/dev-mode",
@@ -792,18 +792,6 @@
     "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts"
   },
   {
-    "repo": "yuria-shikibe/gameinfoimager",
-    "internalName": "game-info-imager",
-    "name": "Game Info Imager",
-    "author": "Yuria",
-    "lastUpdated": "2023-01-20T01:50:39Z",
-    "stars": 19,
-    "minGameVersion": "141.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Show the range of turrets and units.\nShow the units the next wave will spawn."
-  },
-  {
     "repo": "flintyx/autoresearch",
     "internalName": "auto-research",
     "name": "Auto Research",
@@ -814,18 +802,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
-  },
-  {
-    "repo": "eyeofdarkness/advance-lighting",
-    "internalName": "advance-lighting",
-    "name": "Advance lighting",
-    "author": "EoD",
-    "lastUpdated": "2024-05-18T05:50:46Z",
-    "stars": 19,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Not recommended for weak devices. Only supports Vanilla/Supported-Json content. This mod replaces/add some effects, and may cause issues with mods that actively check on those effects. May conflict with vanilla bloom."
   },
   {
     "repo": "jasmarkelina/tantros-mod",
@@ -924,6 +900,18 @@
     "description": "This mod will play tracks from classic Mindustry music (v3.3r27, v3.5r40, and v5)"
   },
   {
+    "repo": "eyeofdarkness/advance-lighting",
+    "internalName": "advance-lighting",
+    "name": "Advance lighting",
+    "author": "EoD",
+    "lastUpdated": "2024-05-18T05:50:46Z",
+    "stars": 17,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Not recommended for weak devices. Only supports Vanilla/Supported-Json content. This mod replaces/add some effects, and may cause issues with mods that actively check on those effects. May conflict with vanilla bloom."
+  },
+  {
     "repo": "eclipse-04/avkott",
     "internalName": "avkott",
     "name": "Avkott",
@@ -934,6 +922,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mindustry Erekir mod moment"
+  },
+  {
+    "repo": "yuria-shikibe/gameinfoimager",
+    "internalName": "game-info-imager",
+    "name": "Game Info Imager",
+    "author": "Yuria",
+    "lastUpdated": "2023-01-20T01:50:39Z",
+    "stars": 16,
+    "minGameVersion": "141.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Show the range of turrets and units.\nShow the units the next wave will spawn."
   },
   {
     "repo": "spaceearthex/factroundustry",
@@ -2952,18 +2952,6 @@
     "description": "Project was WIP, all featured maybe change in future.. \n \n Spriter: TDaggers [TDRS], Ru, Quy109372 \n \n Content: SyNav [SycNav], TDaggers [TDRS], CrystalMist, EarGods \n \n Script: SyNav [SycNav], Quy109372, EarGods \n  \n"
   },
   {
-    "repo": "unionofsovietsocialistrepublics/sporebiomethane",
-    "internalName": "jp",
-    "name": "Spore biomethane",
-    "author": "Watermolecules and Hydroabyss",
-    "lastUpdated": "2024-10-03T12:31:28Z",
-    "stars": 5,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A java port of the hit mindustry mod spore biomechs\n We have:\n - Hardmode and normal mode \n - Campain map for serpulo \n - A bunch of zerggy unit and structure\n - Lore (real!??!?1)"
-  },
-  {
     "repo": "hexazeta/complicatedustry",
     "internalName": "",
     "name": "Complicatedustry",
@@ -2974,6 +2962,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "the ultimate ratio hell, a designer's challenge"
+  },
+  {
+    "repo": "unionofsovietsocialistrepublics/sporebiomethane",
+    "internalName": "jp",
+    "name": "Spore biomethane",
+    "author": "Watermolecules and Hydroabyss",
+    "lastUpdated": "2024-10-04T11:48:13Z",
+    "stars": 5,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A java port of the hit mindustry mod spore biomechs\n We have:\n - Hardmode and normal mode \n - Campain map for serpulo \n - A bunch of zerggy unit and structure\n - Lore (real!??!?1)"
   },
   {
     "repo": "mythril382/self-destruct-core",
@@ -4356,6 +4356,18 @@
     "description": "Where description?"
   },
   {
+    "repo": "sunkymp3g/netronium-tfs",
+    "internalName": "netroniummod",
+    "name": "Netronium: The Final Showdown",
+    "author": "[orange]Sunky.MP3G",
+    "lastUpdated": "2024-09-03T13:53:24Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A planet, surrounded by a dome, awaits you...\nIt's a beta version, it doesn't contain much things and has some bad sprites.\nOur Discord server's link is on GitHub page, go check it!"
+  },
+  {
     "repo": "wowered/galaxustry",
     "internalName": "galaxustry",
     "name": "Galaxustry",
@@ -5508,18 +5520,6 @@
     "description": "[Gray]'We think you can find the catch, discover the secret, are you?!'[DBF6F7]WE assume that version 3.15 (final) - Will be released on 04/20/2025 >;),[FF0000]This is the first version that is posted on GitHub. RYSLAN and I believe in our project!"
   },
   {
-    "repo": "sunkymp3g/netronium-tfs",
-    "internalName": "netroniummod",
-    "name": "Netronium: The Final Showdown",
-    "author": "[orange]Sunky.MP3G",
-    "lastUpdated": "2024-09-03T13:53:24Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A planet, surrounded by a dome, awaits you...\nIt's a beta version, it doesn't contain much things and has some bad sprites.\nOur Discord server's link is on GitHub page, go check it!"
-  },
-  {
     "repo": "justtroniusplay/unicorp-technologies-reinvented",
     "internalName": "unicorp-technologies",
     "name": "Unicorp Technologies Reinvented",
@@ -5656,7 +5656,7 @@
     "internalName": "javacamod",
     "name": "Javacamod",
     "author": "The chaoticans",
-    "lastUpdated": "2024-10-03T23:05:19Z",
+    "lastUpdated": "2024-10-04T11:00:15Z",
     "stars": 2,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -9220,7 +9220,7 @@
     "internalName": "futurehorizons",
     "name": "Future Horizons",
     "author": "Chuvaak",
-    "lastUpdated": "2024-10-04T09:33:09Z",
+    "lastUpdated": "2024-10-04T11:05:18Z",
     "stars": 0,
     "minGameVersion": "146",
     "hasScripts": false,
