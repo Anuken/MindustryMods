@@ -53,7 +53,7 @@
     "name": "Allure",
     "author": "Lixie",
     "lastUpdated": "2024-09-11T08:28:00Z",
-    "stars": 182,
+    "stars": 183,
     "minGameVersion": "147",
     "hasScripts": false,
     "hasJava": false,
@@ -880,7 +880,7 @@
     "internalName": "zeridmuth",
     "name": "Zeridmuth: A New Beginning",
     "author": "[scarlet]XSA, [cyan]ItzCraft, [lime]Mitemi\n[gray]N4H4N, [pink]CoCo1481",
-    "lastUpdated": "2024-10-04T22:49:44Z",
+    "lastUpdated": "2024-10-05T13:59:26Z",
     "stars": 18,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -1048,7 +1048,7 @@
     "internalName": "erekirliquefied",
     "name": "Erekir Liquefied",
     "author": "Haznobrain",
-    "lastUpdated": "2024-10-05T09:42:54Z",
+    "lastUpdated": "2024-10-05T13:57:17Z",
     "stars": 15,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -1476,18 +1476,6 @@
     "description": "My new planet mod!"
   },
   {
-    "repo": "catana791/asthosus-ost",
-    "internalName": "astost",
-    "name": "Asthosus OST",
-    "author": "Music Creator: ThePythonGuy\n  \nMod Author: Catser",
-    "lastUpdated": "2024-10-04T21:38:14Z",
-    "stars": 11,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds custom music for Asthosus! \nAdds ambient tracks as well as guardian/boss themes.\n\nNOTE: Overrides vanilla music. If you want to keep the vanila tracks,\ndo NOT install this mod.\n\nAll credits go to ThePythonGuy! \n  \nCheck him out on newgrounds. \nThe link can be found on this mods' repository!\n\nNOT ALL TRACKS HAVE BEEN COMPLETED YET. \nPLEASE BE PATIENT."
-  },
-  {
     "repo": "jirocab/olupis",
     "internalName": "olupis",
     "name": "Nyfalis (Olupis)",
@@ -1498,6 +1486,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer, focus on RTS controls, and pain on top"
+  },
+  {
+    "repo": "catana791/asthosus-ost",
+    "internalName": "astost",
+    "name": "Asthosus OST",
+    "author": "Music Creator: ThePythonGuy\n  \nMod Author: Catser",
+    "lastUpdated": "2024-10-05T13:37:33Z",
+    "stars": 11,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds custom music for Asthosus! \nAdds ambient tracks as well as guardian/boss themes.\n\nNOTE: Overrides vanilla music. If you want to keep the vanila tracks,\ndo NOT install this mod.\n\nAll credits go to ThePythonGuy! \n  \nCheck him out on newgrounds. \nThe link can be found on this mods' repository!\n\nNOT ALL TRACKS HAVE BEEN COMPLETED YET. \nPLEASE BE PATIENT."
   },
   {
     "repo": "def-try/parkour-mod",
@@ -5544,18 +5544,6 @@
     "description": "A mindustry mod i made out of boredom because i really really liked the original Tower Defense mod by AForgetfulness."
   },
   {
-    "repo": "cptpc/shayebushi",
-    "internalName": "shayebushi",
-    "name": "ShaYeBuShi",
-    "author": "CPTPC&ht6667",
-    "lastUpdated": "2024-09-22T04:28:31Z",
-    "stars": 2,
-    "minGameVersion": "145.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "This is nothing."
-  },
-  {
     "repo": "bttodi/virtuality",
     "internalName": "virtuality",
     "name": "Virtuality",
@@ -5674,6 +5662,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Test mod for Mindustry"
+  },
+  {
+    "repo": "cptpc/shayebushi",
+    "internalName": "shayebushi",
+    "name": "ShaYeBuShi",
+    "author": "CPTPC&ht6667",
+    "lastUpdated": "2024-10-05T13:10:49Z",
+    "stars": 2,
+    "minGameVersion": "145.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "This is nothing."
   },
   {
     "repo": "teaeempire/gghv7",
@@ -9204,18 +9204,6 @@
     "description": "two novices try to mod mindustry gone wrong"
   },
   {
-    "repo": "chuvaak/futurehorizons",
-    "internalName": "futurehorizons",
-    "name": "Future Horizons",
-    "author": "Chuvaak",
-    "lastUpdated": "2024-10-05T10:46:04Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Somewhat advanced endgame technologies. It is recommended to disable vertical synchronization."
-  },
-  {
     "repo": "eight-squared/ironclouds",
     "internalName": "iron-clouds",
     "name": "Iron clouds",
@@ -9226,5 +9214,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "New campaign on a molten planet."
+  },
+  {
+    "repo": "chuvaak/futurehorizons",
+    "internalName": "futurehorizons",
+    "name": "Future Horizons",
+    "author": "Chuvaak",
+    "lastUpdated": "2024-10-05T12:51:38Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Somewhat advanced endgame technologies. It is recommended to disable vertical synchronization."
   }
 ]
