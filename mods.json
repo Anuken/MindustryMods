@@ -328,7 +328,7 @@
     "internalName": "",
     "name": "Fictional Octo System",
     "author": "Team Oct",
-    "lastUpdated": "2024-10-04T20:36:10Z",
+    "lastUpdated": "2024-10-06T13:59:38Z",
     "stars": 56,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1048,7 +1048,7 @@
     "internalName": "erekirliquefied",
     "name": "Erekir Liquefied",
     "author": "Haznobrain",
-    "lastUpdated": "2024-10-06T11:52:57Z",
+    "lastUpdated": "2024-10-06T12:09:01Z",
     "stars": 15,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -1492,7 +1492,7 @@
     "internalName": "as",
     "name": "Asterion",
     "author": "|Asterion Team|",
-    "lastUpdated": "2024-10-06T11:56:01Z",
+    "lastUpdated": "2024-10-06T13:28:52Z",
     "stars": 11,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -2580,18 +2580,6 @@
     "description": "Based on the hit minecraft mod \"Gregtech\", this mod attempt to add some realism into the game as well as making the game more grindy \n Currently work in progress, some item may be uncraftable and some block doesnt have sprite."
   },
   {
-    "repo": "hao-1337/mindustry-better-vanilla",
-    "internalName": "hao1337-mod",
-    "name": "[ Better Vanilla ]",
-    "author": "Hao1337",
-    "lastUpdated": "2024-09-20T11:56:13Z",
-    "stars": 6,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Add something helpful for vanilla. Also have some better UI.\n\n- Coreitem display for mobile.\n- Unit conter display.\n- Time control.\n- Some change for vanilla (see in setting, default is off):\n+ Bigger vault, container and vault in Erekir.\n+ Bigger range for override dome, 200% speed up.\n+ Force projector have more shield health.\n- Auto update.\n- New contents as well:\n+ Thorium / surge conveyor (serpulo)\n+ Some storage blocks\n+ \"T6\" units\n- Aslo make some hidden contents available\n\nWarning: The mod under development, any contributions would be gratefully appreciated. See github for more details."
-  },
-  {
     "repo": "icexuegao/deepspace",
     "internalName": "ice",
     "name": "Deep Space",
@@ -2614,6 +2602,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod who adds a new planet, where we will play in underground"
+  },
+  {
+    "repo": "hao-1337/mindustry-better-vanilla",
+    "internalName": "hao1337-mod",
+    "name": "[ Better Vanilla ]",
+    "author": "Hao1337",
+    "lastUpdated": "2024-10-06T13:30:19Z",
+    "stars": 6,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Add something helpful for vanilla. Also have some better UI.\n\n- Coreitem display for mobile.\n- Unit conter display.\n- Time control.\n- Some change for vanilla (see in setting, default is off):\n+ Bigger vault, container and vault in Erekir.\n+ Bigger range for override dome, 200% speed up.\n+ Force projector have more shield health.\n- Auto update.\n- New contents as well:\n+ Thorium / surge conveyor (serpulo)\n+ Some storage blocks\n+ \"T6\" units\n- Aslo make some hidden contents available\n\nWarning: The mod under development, any contributions would be gratefully appreciated. See github for more details."
   },
   {
     "repo": "spaceearthex/banana",
@@ -9216,18 +9216,6 @@
     "description": "Somewhat advanced endgame technologies. It is recommended to disable vertical synchronization."
   },
   {
-    "repo": "cewwi/nevorix-mod",
-    "internalName": "nevorix",
-    "name": "Nevorix",
-    "author": "cewwi & JJ",
-    "lastUpdated": "2024-10-06T02:53:48Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "We plan to add three new planets into the game, with two new tech trees.\n\nTronoe is a deserted planet where ice and fire co-exist in harmony.\nyour goal is to harness elemental energies to reign supreme over the planet.\n\nOn the dark, irradiated wasteland of Iralius, you must research powerful turrets to overcome the irradiated inhabitants.\n\nOn the ancient battlefield of Nevorix, you use the technologies that you have researched on Tronoe and Iralius to overcome an ancient enemy that has long gone undefeated. While winning the long - forgotten war, you will also discover new materials to create even more powerful weapons than before."
-  },
-  {
     "repo": "wdfeer/energyze",
     "internalName": "energyze",
     "name": "Energyze",
@@ -9238,5 +9226,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mindustry Kotlin mod letting you energize copper. Android compatibility WIP."
+  },
+  {
+    "repo": "cewwi/nevorix-mod",
+    "internalName": "nevorix",
+    "name": "Nevorix",
+    "author": "cewwi & JJ",
+    "lastUpdated": "2024-10-06T13:52:31Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "We plan to add three new planets into the game, with two new tech trees.\n\nTronoe is a deserted planet where ice and fire co-exist in harmony.\nyour goal is to harness elemental energies to reign supreme over the planet.\n\nOn the dark, irradiated wasteland of Iralius, you must research powerful turrets to overcome the mutated inhabitants.\n\nOn the ancient battlefield of Nevorix, you use the technologies that you have researched on Tronoe and Iralius to overcome an ancient enemy that has long gone undefeated. While winning the long - forgotten war, you will also discover new materials to create even more powerful weapons than before."
   }
 ]
