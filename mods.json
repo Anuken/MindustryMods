@@ -832,7 +832,7 @@
     "internalName": "restored-mind",
     "name": "Project: Restoration",
     "author": "VvSeanGtvV",
-    "lastUpdated": "2024-10-07T00:14:30Z",
+    "lastUpdated": "2024-10-07T05:25:52Z",
     "stars": 19,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -960,18 +960,6 @@
     "description": "Logic Debugger\n\n一个逻辑辅助工具\n\n原作DeltaNedas/ldb\n\nyaddrx2将其升级到了137，仅供学习交流使用\n\n当前版本：1.7.0\n\n更新日志\n\nv1.0.1\n将mod版本升为137\n\nv1.0.2\n取消ui-lib的前置\n\nv1.0.3\n逻辑码编辑板\n新增代码语句的文本形式编辑\n\nv1.0.4\n逻辑块变量面板\n变量更新闪烁\n增加逻辑块所连方块的显示\n\nv1.0.5\n内存块编辑板\n内存值更新闪烁\n新增内存值的二进制形式视察\n实现内存值的十六进制形式编辑\n\nv1.0.6\n新增代码插入相关操作\n实现从剪切板导入代码块到指定位置\n\nv1.0.7\n新增面板的折叠按钮\n修复学术端运行mod导致的面板移位或覆盖\n修复面板横向抖动的bug\n\nv1.0.8\n单步调试面板\n实现代码单步运行调试\n\nv1.1.0\n新增调试面板设置断点\n实现运行到下一断点操作\n\nv1.1.1\n新增变量位置指示器\n显示单位变量的flag\n\nv1.2\n新增调试面板的运行位置追踪\n新增功能标签\n\nv1.3\n位置指示器增加变量名\n\nv1.4\n内存块面板增加内存值导入导出\n\nv1.5\n变量面板增加变量值导出\n\nv1.6\n内存面板的变量名筛选\n内存值导出筛选器\n\nv1.7\n增加信息板复制与导入"
   },
   {
-    "repo": "thomasthings/xenacia",
-    "internalName": "xenacia",
-    "name": "Xenacia",
-    "author": "Thomas's Things",
-    "lastUpdated": "2024-08-18T17:57:26Z",
-    "stars": 16,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod with ambitious goals, and a fresh start. Incomplete, still in pre-pre-alpha."
-  },
-  {
     "repo": "fun7game/gloomistrymod",
     "internalName": "gloomustry",
     "name": "Gloomistry",
@@ -994,6 +982,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod that adds many different types of duos, recreates vanilla blocks into duos, and duo units! Discord Tag: gwapowo"
+  },
+  {
+    "repo": "thomasthings/xenacia",
+    "internalName": "xenacia",
+    "name": "Xenacia",
+    "author": "Thomas's Things",
+    "lastUpdated": "2024-10-07T05:53:15Z",
+    "stars": 16,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod with ambitious goals, and a fresh start. Incomplete, still in pre-pre-alpha."
   },
   {
     "repo": "melomelodeon/a-bad-mindustry-mod",
@@ -1464,18 +1464,6 @@
     "description": "My new planet mod!"
   },
   {
-    "repo": "jirocab/olupis",
-    "internalName": "olupis",
-    "name": "Nyfalis (Olupis)",
-    "author": " ;3\nProgramming:\nRushieWashie, Siede, WMF Industries, Otamamori \n---------------------\nSprites:\nRushieWashie, NightmarishWolf, Ethanol10, kapzduke, Otamamori, Catana, Lixie, ItsKirby69\n---------------------\nMaps:\nRushieWashie, MrApple, NightmarishWolf ",
-    "lastUpdated": "2024-10-05T03:35:32Z",
-    "stars": 11,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer, focus on RTS controls, and pain on top"
-  },
-  {
     "repo": "catana791/asthosus-ost",
     "internalName": "astost",
     "name": "Asthosus OST",
@@ -1498,6 +1486,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This is collaboration mod"
+  },
+  {
+    "repo": "jirocab/olupis",
+    "internalName": "olupis",
+    "name": "Nyfalis (Olupis)",
+    "author": " ;3\nProgramming:\nRushieWashie, Siede, WMF Industries, Otamamori \n---------------------\nSprites:\nRushieWashie, NightmarishWolf, Ethanol10, kapzduke, Otamamori, Catana, Lixie, ItsKirby69\n---------------------\nMaps:\nRushieWashie, MrApple, NightmarishWolf ",
+    "lastUpdated": "2024-10-07T05:32:22Z",
+    "stars": 11,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer, focus on RTS controls, and pain on top"
   },
   {
     "repo": "def-try/parkour-mod",
@@ -2966,14 +2966,14 @@
   {
     "repo": "slashkig/astranium-mod",
     "internalName": "astramod",
-    "name": "Aziris Project",
+    "name": "Operation: Aziris",
     "author": "Slashkig, IAmRustee, VoidThreader",
-    "lastUpdated": "2024-10-07T02:36:39Z",
+    "lastUpdated": "2024-10-07T04:43:26Z",
     "stars": 5,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
-    "description": "WIP - Adds a new planet, Aziris"
+    "description": "Aziris is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful Erythronite Crystals. It has remained in the hands of the Sentinels for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n-----\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!): https://discord.gg/2qc4WaCreP"
   },
   {
     "repo": "mythril382/self-destruct-core",
@@ -3900,18 +3900,6 @@
     "description": "h"
   },
   {
-    "repo": "demonevd/kadd-mod",
-    "internalName": "kadd",
-    "name": "KaDD mod",
-    "author": "TeslaCoil",
-    "lastUpdated": "2023-10-19T05:07:13Z",
-    "stars": 3,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\nJSON mod\n\nI`m working on:\n\n- New materials\n- New electricity\n- New planet (Not commpleted)\n- New units (Not commpleted)\n- A ton of new planet content (Not commpleted)\n\nTODO:\n1. Conveyors etc\n2. Some difficult stuff\n3. Turrets\n4. Units\n5. Sectors + planet (now)\n"
-  },
-  {
     "repo": "jasmarkerizz/tantria-soundtrack",
     "internalName": "tantros soundtrack",
     "name": "Tantria Soundtrack",
@@ -4510,6 +4498,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "- This mod adds in 1 or 2 higher tiers of vanilla blocks. Mod is still in development. More contents coming soon.\n- Mod unofficial.\n- original autor: mq_1175 "
+  },
+  {
+    "repo": "demonevd/kadd-mod",
+    "internalName": "kadd",
+    "name": "KaDD mod",
+    "author": "TeslaCoil",
+    "lastUpdated": "2024-10-07T05:04:52Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nJSON mod\n\nI`m working on:\n\n- New materials\n- New electricity\n- New planet (Not commpleted)\n- New units (Not commpleted)\n- A ton of new planet content (Not commpleted)\n\nTODO:\n1. Conveyors etc\n2. Some difficult stuff\n3. Turrets\n4. Units\n5. Sectors + planet (now)\n"
   },
   {
     "repo": "wshon/mindustrytoolkit",
@@ -7104,18 +7104,6 @@
     "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
-    "repo": "liudai2011/sequence",
-    "internalName": "seq",
-    "name": "sequence",
-    "author": "Ned-Kelly & LiuDai",
-    "lastUpdated": "2024-10-01T14:07:34Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "pls turn on the mod to know more about it"
-  },
-  {
     "repo": "andromeda-galaxy29/unique-gas-sprites",
     "internalName": "unique-gas-sprites",
     "name": "Unique Gas Sprites",
@@ -7152,6 +7140,18 @@
     "description": "Serpulo Tweaks"
   },
   {
+    "repo": "frizermoon/revengeance-mod",
+    "internalName": "revengeance",
+    "name": "Revengeance",
+    "author": "Frizer moons",
+    "lastUpdated": "2024-10-06T15:08:06Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Первый мой мод в котором вы с помощю межпланетного ускорителя попадаете на планету Селестис.Вы должным отомстить красным и захватить их планету.Вас будут ждать новые руды,враги,механики и ЛОООООР.Сложность мода высокая так что запасайтесь нервами"
+  },
+  {
     "repo": "megalp/factory",
     "internalName": "factory",
     "name": "FACTORY",
@@ -7162,6 +7162,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Updated (06.10.2024)\n\n-Tiger MG shooting improved\n-Now able to create different Tank variants (Beta) 🠖 Not multiplayer testet\n\nSome major bug fixes\n\n\nLatest content addition: \n🠖Tactical nuker\n🠖P-1000-Ratte tank\n🠖Tiger tank\n🠖A new Planet\n🠖Darkshade and Galaxy material\n\n\nContent: \n🠖3 Maps\n🠖more materials\n🠖new units/enemys\n🠖8 new Mech pads\n🠖Material teleporters\n🠖New blocks and walls\n\nAnd we keep updating it! This mod is a good content addition to the game, but it's also a challange! So its time to get a Pro and master this mod. Of course we would like to hear your feedback!!\n\n Thanks to Eni_YT for helping with sprites, giving me ideas and updating this section."
+  },
+  {
+    "repo": "liudai2011/sequence",
+    "internalName": "seq",
+    "name": "sequence",
+    "author": "Ned-Kelly & LiuDai",
+    "lastUpdated": "2024-10-07T04:49:16Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "pls turn on the mod to know more about it"
   },
   {
     "repo": "kapzduke/vanilla-extension",
@@ -9214,18 +9226,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Somewhat advanced endgame technologies. It is recommended to disable vertical synchronization."
-  },
-  {
-    "repo": "frizermoon/revengeance-mod",
-    "internalName": "revengeance",
-    "name": "Revengeance",
-    "author": "Frizer moons",
-    "lastUpdated": "2024-10-06T15:08:06Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Первый мой мод в котором вы с помощю межпланетного ускорителя попадаете на планету Селестис.Вы должным отомстить красным и захватить их планету.Вас будут ждать новые руды,враги,механики и ЛОООООР.Сложность мода высокая так что запасайтесь нервами"
   },
   {
     "repo": "wdfeer/energyze",
