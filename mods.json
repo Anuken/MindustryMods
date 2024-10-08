@@ -5,7 +5,7 @@
     "name": "Exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2024-05-23T14:12:55Z",
-    "stars": 377,
+    "stars": 378,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -17,7 +17,7 @@
     "name": "New Horizon",
     "author": "Yuria",
     "lastUpdated": "2024-10-08T06:34:07Z",
-    "stars": 359,
+    "stars": 360,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -29,7 +29,7 @@
     "name": "BetaMindy",
     "author": "sk7725",
     "lastUpdated": "2023-05-16T03:09:57Z",
-    "stars": 330,
+    "stars": 331,
     "minGameVersion": "144",
     "hasScripts": false,
     "hasJava": true,
@@ -120,6 +120,18 @@
     "description": "[#e53935]The Cybernetics on Mindustry v7.[]\n\nCurrent version is v5.1, while v6 is still in development.\n\nLanguage Supports: English, Chinese(简体/正體中文), Japanese(日本語), Russian(Русский) and Ukrainian (українська).\n\nTo learn more about Cyber IO, please check the repository on GitHub by hitting the button below.\n\nGitHub: [#42a5f5]github.com/liplum/CyberIO[]"
   },
   {
+    "repo": "catana791/fading-revelations",
+    "internalName": "me",
+    "name": "Fading Revelations",
+    "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791 / .Frankie\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 / Froomeeth\n- Lore: iori / Fresh791\n- Cryogenic Gel, Igneous Alloy,\n  Multiblock-Crafter base model:\n  Null (Nullevoy)\n\nAnd more people!\nCheck the Discord!",
+    "lastUpdated": "2023-12-08T20:44:59Z",
+    "stars": 109,
+    "minGameVersion": "144.3",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\nA huge, fun & balanced content extension.\n\nPlease note that the Serpulo research tree has\nbeen moved into it's own tree because it was\ntoo large.\nTo get to the Fading Revelations Serpulo \nresearch tree, please switch to it the same way\nyou would switch between the Erekir and Serpulo\nresearch trees.\nOn that menu, a new button will be available \nthat takes you to the Fading Revelations \nSerpulo research tree. \n\nFeatures\nTwo new planets and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish (WIP)\n- Ukrainian (WIP)\n- Russian\n\n\nCheck Discord / GitHub \nfor more information!"
+  },
+  {
     "repo": "eschatologue/unlimited-armament-works",
     "internalName": "uaw",
     "name": "Unlimited Armament Works",
@@ -130,18 +142,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "UAW is a port and sequel to Heavy Armaments Industries, implementing new unique content to vanilla Mindustry, from more turrets, units, and crafters/factories.\n\nA lot of work and improvements goes into UAW, if you want to show some support or like the content, please give the mod a star on GitHub, Thank you!"
-  },
-  {
-    "repo": "catana791/fading-revelations",
-    "internalName": "me",
-    "name": "Fading Revelations",
-    "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791 / .Frankie\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 / Froomeeth\n- Lore: iori / Fresh791\n- Cryogenic Gel, Igneous Alloy,\n  Multiblock-Crafter base model:\n  Null (Nullevoy)\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2023-12-08T20:44:59Z",
-    "stars": 108,
-    "minGameVersion": "144.3",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "\nA huge, fun & balanced content extension.\n\nPlease note that the Serpulo research tree has\nbeen moved into it's own tree because it was\ntoo large.\nTo get to the Fading Revelations Serpulo \nresearch tree, please switch to it the same way\nyou would switch between the Erekir and Serpulo\nresearch trees.\nOn that menu, a new button will be available \nthat takes you to the Fading Revelations \nSerpulo research tree. \n\nFeatures\nTwo new planets and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish (WIP)\n- Ukrainian (WIP)\n- Russian\n\n\nCheck Discord / GitHub \nfor more information!"
   },
   {
     "repo": "3snake3/sapphirium",
@@ -197,11 +197,23 @@
     "name": "Asthosus",
     "author": "Catana",
     "lastUpdated": "2024-10-06T11:46:56Z",
-    "stars": 81,
+    "stars": 82,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
     "description": "  A mod that adds a new planet, Asthosus, into the game.\n  \n  Asthosus is a deserted planet. A wasteland filled with danger.\n  It has a fully playable campaign with 11 campaign and 17 optional maps. \n\n  Aside from these 28 maps, Asthosus contains over 180 pieces of unique content,\n  including blocks, liquids, items, units and status effects.\n  This number is not counting any internal units or environment blocks/tiles.\n\n  I aimed to re-use nearly no vanilla content and instead fill the mod \n  with new and (hopefully) exciting things.\n\n  If you find any issues or want to tell me anything else,\n  feel free to join the Asthosus Discord server. \n  The same thing goes for when you need help with this mod.\n\n  Enjoy!"
+  },
+  {
+    "repo": "deltanedas/ui-lib",
+    "internalName": "ui_lib",
+    "name": "UI Lib",
+    "author": "deltanedas",
+    "lastUpdated": "2023-05-20T20:03:03Z",
+    "stars": 79,
+    "minGameVersion": "139",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Library for other mods that unifies and simplifies UI creation."
   },
   {
     "repo": "deltanedas/pictologic",
@@ -214,18 +226,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a dialog for turning images into processor schematics.\nRequires deltanedas/ui-lib."
-  },
-  {
-    "repo": "deltanedas/ui-lib",
-    "internalName": "ui_lib",
-    "name": "UI Lib",
-    "author": "deltanedas",
-    "lastUpdated": "2023-05-20T20:03:03Z",
-    "stars": 78,
-    "minGameVersion": "139",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Library for other mods that unifies and simplifies UI creation."
   },
   {
     "repo": "deltanedas/rtfm",
@@ -384,6 +384,18 @@
     "description": "A Mindustry mod library for (H)JSON, JavaScript and Java mods,\nincluding a crafter supporting multiple recipes for items, fluids, power, heat and payloads production.\nPlease check the repository below to learn more.\nWork on v136 to v146."
   },
   {
+    "repo": "mindustry-antigrief/installer",
+    "internalName": "fooinstaller",
+    "name": "Foo's Client Installer",
+    "author": "foo, buthed010203",
+    "lastUpdated": "2022-11-08T23:31:31Z",
+    "stars": 44,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
+  },
+  {
     "repo": "flintyx/animalia",
     "internalName": "animalia",
     "name": "Animalia",
@@ -396,16 +408,16 @@
     "description": "A fun mod that contains Animals, Plants, Natural disasters and a lot more!"
   },
   {
-    "repo": "mindustry-antigrief/installer",
-    "internalName": "fooinstaller",
-    "name": "Foo's Client Installer",
-    "author": "foo, buthed010203",
-    "lastUpdated": "2022-11-08T23:31:31Z",
-    "stars": 43,
-    "minGameVersion": "136",
+    "repo": "eb-wilson/toomanyitems",
+    "internalName": "tmi",
+    "name": "Too Many Items",
+    "author": "EBwilson",
+    "lastUpdated": "2024-10-03T17:47:36Z",
+    "stars": 42,
+    "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
-    "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
+    "description": "An auxiliary mod that provides you with quick retrieval of production and collection guidance information for materials, units, buildings, minerals, etc., so that you are no longer overwhelmed by installing too many mods.\n====================\n一个辅助mod，为您提供快速检索材料，单位，建筑和矿物等的生产与采集引导信息，让您不再因为安装了太多mod而不知所措"
   },
   {
     "repo": "twcash/aquarion",
@@ -418,18 +430,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Aquarion is a mod recreating Tantros, including a custom campaign with a new planet with custom units, blocks, and soundtrack."
-  },
-  {
-    "repo": "eb-wilson/toomanyitems",
-    "internalName": "tmi",
-    "name": "Too Many Items",
-    "author": "EBwilson",
-    "lastUpdated": "2024-10-03T17:47:36Z",
-    "stars": 41,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "An auxiliary mod that provides you with quick retrieval of production and collection guidance information for materials, units, buildings, minerals, etc., so that you are no longer overwhelmed by installing too many mods.\n====================\n一个辅助mod，为您提供快速检索材料，单位，建筑和矿物等的生产与采集引导信息，让您不再因为安装了太多mod而不知所措"
   },
   {
     "repo": "azaria-team/project-hpl",
@@ -672,6 +672,18 @@
     "description": "hehe angish go nrrrt\n\n\ntargets:\n\n- vanilla\n\n- foo's client (builtin)\n\n- SMOLKEYS/yellow-java (extension)"
   },
   {
+    "repo": "wmf-industries/expandedindustries",
+    "internalName": "ei",
+    "name": "Expanded Industries",
+    "author": "WMF Industries",
+    "lastUpdated": "2024-04-12T14:47:08Z",
+    "stars": 23,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Some content for people to enjoy :>\n-Current version : 1.7 [EoL]"
+  },
+  {
     "repo": "andromeda-galaxy29/psammos-mod",
     "internalName": "psammos",
     "name": "Psammos Mod",
@@ -682,18 +694,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer Psammos.\r\n\r\nSpecial thanks:\r\n[#5865f2]@thisiscrimsoncheck[white] for several maps, suggestions and other contributions\r\n[#5865f2]@inxie_ratzey[white] for suggestions, sprites, maps and other contributions\r\n\r\nJoin our discord server: https://discord.gg/eBzANBKCBA\r\n\r\nIf you like the mod, consider giving it a star on GitHub. Thank you"
-  },
-  {
-    "repo": "wmf-industries/expandedindustries",
-    "internalName": "ei",
-    "name": "Expanded Industries",
-    "author": "WMF Industries",
-    "lastUpdated": "2024-04-12T14:47:08Z",
-    "stars": 22,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Some content for people to enjoy :>\n-Current version : 1.7 [EoL]"
   },
   {
     "repo": "sporrus/randommindustry",
@@ -744,6 +744,18 @@
     "description": "A Mindustry mod aimed to add content to the newly-added planet."
   },
   {
+    "repo": "laohuajiofficial/freightfactory",
+    "internalName": "ff",
+    "name": "FreightFactory",
+    "author": "LaoHuaJi",
+    "lastUpdated": "2024-04-26T16:33:04Z",
+    "stars": 21,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mod In Dev"
+  },
+  {
     "repo": "i-hope1/mod-tools",
     "internalName": "mod-tools",
     "name": "mod-tools",
@@ -768,16 +780,16 @@
     "description": "Adds various testers for easier mod development.\nThanks to: Gdeft"
   },
   {
-    "repo": "laohuajiofficial/freightfactory",
-    "internalName": "ff",
-    "name": "FreightFactory",
-    "author": "LaoHuaJi",
-    "lastUpdated": "2024-04-26T16:33:04Z",
+    "repo": "vvseangtvv/project-restoration",
+    "internalName": "restored-mind",
+    "name": "Project: Restoration",
+    "author": "VvSeanGtvV",
+    "lastUpdated": "2024-10-08T04:51:22Z",
     "stars": 20,
-    "minGameVersion": "146",
+    "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
-    "description": "A Mod In Dev"
+    "description": "A Mindustry builds including some classic ones are added to Mindustry v7!"
   },
   {
     "repo": "flintyx/autoresearch",
@@ -816,16 +828,16 @@
     "description": "Adds hard new planet with unique content and new mechanics"
   },
   {
-    "repo": "vvseangtvv/project-restoration",
-    "internalName": "restored-mind",
-    "name": "Project: Restoration",
-    "author": "VvSeanGtvV",
-    "lastUpdated": "2024-10-08T04:51:22Z",
-    "stars": 19,
-    "minGameVersion": "145",
+    "repo": "apszoldat/mindustry-mapping-utilities",
+    "internalName": "mindustry-mapping-utilities",
+    "name": "Mapping Utilities",
+    "author": "ApsZoldat",
+    "lastUpdated": "2023-08-01T14:53:02Z",
+    "stars": 18,
+    "minGameVersion": "144.2",
     "hasScripts": false,
     "hasJava": true,
-    "description": "A Mindustry builds including some classic ones are added to Mindustry v7!"
+    "description": "Small Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\nImprovements:\n\n- Mixed Tech Unlocked\n- More Rules Available\n- Better Cliff Editing\n- Numbered Teams Editing\n- Planet Background Editing\n- Any Brush Size\n\nCheck README.md in GitHub repo for more detailed information\n\n! Work In Progress !\nMore map making tools will be added in future"
   },
   {
     "repo": "evo04taser/super-cheat",
@@ -838,6 +850,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A cheat mod designed for V7\n(All content has the prefix \"Super -\")\nFeatures include:\n\n-- 1) Units and buildings that have 1 Billion Health\n\n-- 2) A unit and a turret that deals 1 Billion Damage\n\n-- 3) Overdrive tower that boosts speed of buildings (has a range limit) (increases power production and consumption)\n\n-- 4) Item, liquid, power, payload (buildings and units), and heat source\n\n-- 5) Build Tower that helps you build buildings (ha), which means insta-build\n\n-- 6) Walls that deal 1 Billion damage when enemies try to attack it (somehow doesn't work for certain units)\n\n\nIf you like the mod then give it a star in GitHub!"
+  },
+  {
+    "repo": "eyeofdarkness/advance-lighting",
+    "internalName": "advance-lighting",
+    "name": "Advance lighting",
+    "author": "EoD",
+    "lastUpdated": "2024-05-18T05:50:46Z",
+    "stars": 18,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Not recommended for weak devices. Only supports Vanilla/Supported-Json content. This mod replaces/add some effects, and may cause issues with mods that actively check on those effects. May conflict with vanilla bloom."
   },
   {
     "repo": "deltanedas/ldb",
@@ -888,16 +912,16 @@
     "description": "This mod will play tracks from classic Mindustry music (v3.3r27, v3.5r40, and v5)"
   },
   {
-    "repo": "eyeofdarkness/advance-lighting",
-    "internalName": "advance-lighting",
-    "name": "Advance lighting",
-    "author": "EoD",
-    "lastUpdated": "2024-05-18T05:50:46Z",
+    "repo": "gwapowo/duoenhanced",
+    "internalName": "duoenhanced",
+    "name": "DuoEnhanced",
+    "author": "Gwapo",
+    "lastUpdated": "2024-09-12T01:02:50Z",
     "stars": 17,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Not recommended for weak devices. Only supports Vanilla/Supported-Json content. This mod replaces/add some effects, and may cause issues with mods that actively check on those effects. May conflict with vanilla bloom."
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod that adds many different types of duos, recreates vanilla blocks into duos, and duo units! Discord Tag: gwapowo"
   },
   {
     "repo": "haznobrain/erekir-liquefied",
@@ -970,18 +994,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Welcome to the mod Gloomistry! This is my first mod that adds a new campaign with new content, at the moment the mod is not made to the very end and updates will be released (probably) in which I will finish the campaign to the end and also change the sprites of many blocks that I did not like or that were copied from the original blocks. It is also possible that I will add more new turrets. If you liked the mod, don't forget to give it a star on the GitHub! Contact me: https://t.me/@Thisispzdcnh\n  \n  Приветствую вас в моде Глумистри! Это мой первый мод который добавляет новую кампанию с новым контентом, на данный момент мод сделан не до самого конца и будут выходить обновления(наверно) в которых я доделаю кампанию до конца а также изменю спрайты многих блоков, которые мне не понравились или которые были срисованы с оригинальных блоков. Также возможно я добавлю еще новые турели. Если вам понравился мод, не забудьте поставить ему звезду на ГитХаб! Связаться со мной: https://t.me/@Thisispzdcnh\n\n  Sprites of production blocks By Obsidian"
-  },
-  {
-    "repo": "gwapowo/duoenhanced",
-    "internalName": "duoenhanced",
-    "name": "DuoEnhanced",
-    "author": "Gwapo",
-    "lastUpdated": "2024-09-12T01:02:50Z",
-    "stars": 16,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod that adds many different types of duos, recreates vanilla blocks into duos, and duo units! Discord Tag: gwapowo"
   },
   {
     "repo": "thomasthings/xenacia",
@@ -1480,7 +1492,7 @@
     "internalName": "as",
     "name": "Asterion",
     "author": "|Asterion Team|",
-    "lastUpdated": "2024-10-08T08:08:48Z",
+    "lastUpdated": "2024-10-08T08:36:30Z",
     "stars": 11,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -1728,6 +1740,18 @@
     "description": "A Mindustry mod for showing damage numbers."
   },
   {
+    "repo": "agzam4/mindustry-mod",
+    "internalName": "agzam4mod",
+    "name": "Agzam's Mod",
+    "author": "Agzam4",
+    "lastUpdated": "2024-08-16T12:00:06Z",
+    "stars": 9,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Additional functionality"
+  },
+  {
     "repo": "arth0x/mindustrinity",
     "internalName": "mindustrinity",
     "name": "MindusTrinity",
@@ -1918,18 +1942,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\nWARNING: For Ukrainian language only.\n\nModification for translation testing. Can be used for an example testing bundles and for testing a new Ukrainian translation. Developed in Ukraine.\nSupports v7 only.\n\nDiscord for Ukrainian speaking: https://discord.gg/VDjWyCssvP\n\n----------------------------------------\n\nПОПЕРЕДЖЕННЯ: Лише для української мови.\n\nМодифікація для тестування перекладів. Можете використовувати задля прикладу і задля тестування нового українського перекладу. Розроблено в Україні.\nПідтримує тільки v7.\n\nDiscord для українськомовних: https://discord.gg/VDjWyCssvP"
-  },
-  {
-    "repo": "agzam4/mindustry-mod",
-    "internalName": "agzam4mod",
-    "name": "Agzam's Mod",
-    "author": "Agzam4",
-    "lastUpdated": "2024-08-16T12:00:06Z",
-    "stars": 8,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Additional functionality"
   },
   {
     "repo": "bloody-ocean/bloodyvisual",
@@ -2940,18 +2952,6 @@
     "description": "It's my First* mod! Yay! It adds alot of units. Such as Purple navals, Orange spiders, Blue air-bombers and much more! \nwarning not all the trees are finished infact none are. \nThanks to my spriter Aegires for making some of theese awsome sprites!"
   },
   {
-    "repo": "hexazeta/complicatedustry",
-    "internalName": "",
-    "name": "Complicatedustry",
-    "author": "Hexazeta",
-    "lastUpdated": "2024-10-07T13:34:51Z",
-    "stars": 5,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "the ultimate ratio hell, a designer's challenge"
-  },
-  {
     "repo": "slashkig/astranium-mod",
     "internalName": "astramod",
     "name": "Operation: Aziris",
@@ -2962,6 +2962,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
+  },
+  {
+    "repo": "hexazeta/complicatedustry",
+    "internalName": "",
+    "name": "Complicatedustry",
+    "author": "Hexazeta",
+    "lastUpdated": "2024-10-08T09:18:28Z",
+    "stars": 5,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "the ultimate ratio hell, a designer's challenge"
   },
   {
     "repo": "mythril382/self-destruct-core",
@@ -9228,27 +9240,27 @@
     "description": "We plan to add three new planets into the game, with two new tech trees.\n\nTronoe is a deserted planet where ice and fire co-exist in harmony.\nyour goal is to harness elemental energies to reign supreme over the planet.\n\nOn the dark, irradiated wasteland of Iralius, you must research powerful turrets to overcome the mutated inhabitants.\n\nOn the ancient battlefield of Nevorix, you use the technologies that you have researched on Tronoe and Iralius to overcome an ancient enemy that has long gone undefeated. While winning the long - forgotten war, you will also discover new materials to create even more powerful weapons than before."
   },
   {
-    "repo": "mindustrylogic/mindustry-terraria-overhaul",
-    "internalName": "mindustry-terraria-overhaul",
-    "name": "Terraria On Mindustry",
-    "author": "MindustryLogic",
-    "lastUpdated": "2024-10-08T06:12:09Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A extremely ambitious project on attempting to recreate terraria within the limit of mindustry(Major RAM usage warning)"
-  },
-  {
     "repo": "chuvaak/futurehorizons",
     "internalName": "futurehorizons",
     "name": "Future Horizons",
     "author": "Chuvaak",
-    "lastUpdated": "2024-10-08T06:27:26Z",
+    "lastUpdated": "2024-10-08T08:35:15Z",
     "stars": 0,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
     "description": "Somewhat advanced endgame technologies. It is recommended to disable vertical synchronization."
+  },
+  {
+    "repo": "mindustrylogic/mindustry-terraria-overhaul",
+    "internalName": "mindustry-terraria-overhaul",
+    "name": "Terraria On Mindustry",
+    "author": "MindustryLogic",
+    "lastUpdated": "2024-10-08T09:29:08Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A extremely ambitious project on attempting to recreate terraria within the limit of mindustry(Major RAM usage warning)"
   }
 ]
