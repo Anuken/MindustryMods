@@ -1432,7 +1432,7 @@
     "internalName": "as",
     "name": "Asterion",
     "author": "|Asterion Team|",
-    "lastUpdated": "2024-10-10T15:41:04Z",
+    "lastUpdated": "2024-10-10T20:04:18Z",
     "stars": 11,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -7188,18 +7188,6 @@
     "description": "这个模组尝试将东方project的元素融入Mindustry中。\n游玩模组前，请务必先阅读本说明。\n\n当前版本没有完成bundle.properties。\n虽然设置了允许发射到数字区块，但是数字区块只掉落铜、铅、钛等原版物品（去了就知道了），且存在不能携带物品发射、无法占领（占领波次为无限大）等问题，强烈不建议游玩！（在设定上就暂时把数字区块当作相对于幻想乡的“外界”吧。）\n游玩注意：如果发现弹幕发光过于瞎眼，请在设置-图形里将光效强度调整为0%。\n模组中的“详情”部分（即研究后解锁的详细信息）内容主要源自二设，不适合作为入坑东方参考资料！\n模组中的“详情”部分偶尔会出现剧透，请自行决定是否观看。\n如果打开控制台发现大量报错（警告），请无视。这些报错不影响游戏。已经尽量把不应出现的警告对应的代码删除了，剩下的是已经出现在游戏Github源代码，但是仍为空字段的部分。\n最近一次更新：禁止核心机搬运自机。\n\n星球文件使用了模组Asthosus中的星球文件作为模板。（画起来真的很麻烦）"
   },
   {
-    "repo": "cewwi/nevorix-mod",
-    "internalName": "nevorix",
-    "name": "Nevorix",
-    "author": "cewwi & JJ",
-    "lastUpdated": "2024-10-10T01:11:39Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "We plan to add three new planets into the game, with two new tech trees.\n\nTronoe is a deserted planet where ice and fire co-exist in harmony.\nyour goal is to harness elemental energies to reign supreme over the planet.\n\nOn the dark, irradiated wasteland of Iralius, you must research powerful turrets to overcome the mutated inhabitants.\n\nOn the ancient battlefield of Nevorix, you use the technologies that you have researched on Tronoe and Iralius to overcome an ancient enemy that has long gone undefeated. While winning the long - forgotten war, you will also discover new materials to create even more powerful weapons than before."
-  },
-  {
     "repo": "xpdustry/kotlin-runtime",
     "internalName": "kotlin-runtime",
     "name": "KotlinRuntime",
@@ -7210,6 +7198,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A companion mod for Kotlin based mods and plugins."
+  },
+  {
+    "repo": "cewwi/nevorix-mod",
+    "internalName": "nevorix",
+    "name": "Nevorix",
+    "author": "cewwi & JJ",
+    "lastUpdated": "2024-10-10T20:46:14Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "We plan to add three new planets into the game, with two new tech trees.\n\nTronoe is a deserted planet where ice and fire co-exist in harmony.\nyour goal is to harness elemental energies to reign supreme over the planet.\n\nOn the dark, irradiated wasteland of Iralius, you must research powerful turrets to overcome the mutated inhabitants.\n\nOn the ancient battlefield of Nevorix, you use the technologies that you have researched on Tronoe and Iralius to overcome an ancient enemy that has long gone undefeated. While winning the long - forgotten war, you will also discover new materials to create even more powerful weapons than before."
   },
   {
     "repo": "kapzduke/vanilla-extension",
@@ -9292,7 +9292,7 @@
     "internalName": "content-galore",
     "name": "Content Galore",
     "author": "Cannon-Kid",
-    "lastUpdated": "2024-10-10T19:54:24Z",
+    "lastUpdated": "2024-10-10T22:00:17Z",
     "stars": 0,
     "minGameVersion": "146",
     "hasScripts": false,
