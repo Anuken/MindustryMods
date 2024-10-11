@@ -1432,7 +1432,7 @@
     "internalName": "as",
     "name": "Asterion",
     "author": "|Asterion Team|",
-    "lastUpdated": "2024-10-10T20:04:18Z",
+    "lastUpdated": "2024-10-11T11:31:28Z",
     "stars": 11,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -1984,7 +1984,7 @@
     "internalName": "flesh-mod",
     "name": "Flesh Mod",
     "author": "FallingDice",
-    "lastUpdated": "2024-10-10T15:01:27Z",
+    "lastUpdated": "2024-10-11T11:58:52Z",
     "stars": 8,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -4056,18 +4056,6 @@
     "description": "ClassDefinition: Library that allows other mods to define js class."
   },
   {
-    "repo": "emoyt/calamity",
-    "internalName": "calamity",
-    "name": "Calamity",
-    "author": "[red]Klim [white]& [green]AdventSik[white]and [grey]CoundFound",
-    "lastUpdated": "2024-04-06T02:57:00Z",
-    "stars": 3,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\n[blue]Mod in alpha testing\n[white]This mod add lot of content for Erekir\n[red]New vote everymonth in [purple]discord(https://discord.com/invite/sbXRnesR)[red] server.\n[blue]New mod [red]= [blue]New [red]World"
-  },
-  {
     "repo": "ochpochmaks/larnos-planet",
     "internalName": "larnos planet",
     "name": "Larnos Planet",
@@ -4492,12 +4480,24 @@
     "internalName": "kadd",
     "name": "KaDD mod",
     "author": "TeslaCoil",
-    "lastUpdated": "2024-10-11T08:47:15Z",
+    "lastUpdated": "2024-10-11T10:09:24Z",
     "stars": 3,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
     "description": "\nJSON mod\n\nI`m working on:\n\n- New materials\n- New electricity\n- New planet (Not commpleted)\n- New units (Not commpleted)\n- A ton of new planet content (Not commpleted)\n\nTODO:\n1. Conveyors etc\n2. Some difficult stuff\n3. Turrets\n4. Units\n5. Sectors + planet (now)\n"
+  },
+  {
+    "repo": "emoyt/calamity",
+    "internalName": "calamity",
+    "name": "Calamity",
+    "author": "[red]Klim [white]& [green]AdventSik[white]and [grey]CoundFound",
+    "lastUpdated": "2024-10-11T10:39:27Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\n[blue]Mod in alpha testing\n[white]This mod add lot of content for Erekir\n[red]New vote everymonth in [purple]discord(https://discord.com/invite/sbXRnesR)[red] server.\n[blue]New mod [red]= [blue]New [red]World"
   },
   {
     "repo": "wshon/mindustrytoolkit",
@@ -5508,18 +5508,6 @@
     "description": "Now you can encode and decode minbinary text with this mod. Requires deltanedas/ui-lib"
   },
   {
-    "repo": "haznobrain/tower-defense-molten",
-    "internalName": "towerdefensemolten",
-    "name": "Tower Defense: Molten",
-    "author": "Haznobrain",
-    "lastUpdated": "2024-09-20T16:24:01Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mindustry mod i made out of boredom because i really really liked the original Tower Defense mod by AForgetfulness."
-  },
-  {
     "repo": "bttodi/virtuality",
     "internalName": "virtuality",
     "name": "Virtuality",
@@ -5686,6 +5674,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "I'm added some iron and story to this mod. Requires Liplum/MultiCrafter lib"
+  },
+  {
+    "repo": "haznobrain/tower-defense-molten",
+    "internalName": "towerdefensemolten",
+    "name": "Tower Defense: Molten",
+    "author": "Haznobrain",
+    "lastUpdated": "2024-10-11T11:51:04Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mindustry mod i made out of boredom because i really really liked the original Tower Defense mod by AForgetfulness."
   },
   {
     "repo": "teaeempire/gghv7",
@@ -7204,7 +7204,7 @@
     "internalName": "nevorix",
     "name": "Nevorix",
     "author": "cewwi & JJ",
-    "lastUpdated": "2024-10-11T09:56:37Z",
+    "lastUpdated": "2024-10-11T12:02:54Z",
     "stars": 1,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -9276,18 +9276,6 @@
     "description": "Mindustry Kotlin mod letting you energize copper. Android compatibility WIP."
   },
   {
-    "repo": "chuvaak/futurehorizons",
-    "internalName": "futurehorizons",
-    "name": "Future Horizons",
-    "author": "Chuvaak",
-    "lastUpdated": "2024-10-10T16:23:59Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Somewhat advanced endgame technologies. It is recommended to disable vertical synchronization."
-  },
-  {
     "repo": "cannon-kid/content-galore-mindustry",
     "internalName": "content-galore",
     "name": "Content Galore",
@@ -9298,5 +9286,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Lots of cool and nerdy stuff get added."
+  },
+  {
+    "repo": "chuvaak/futurehorizons",
+    "internalName": "futurehorizons",
+    "name": "Future Horizons",
+    "author": "Chuvaak",
+    "lastUpdated": "2024-10-11T12:06:17Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Somewhat advanced endgame technologies. It is recommended to disable vertical synchronization."
   }
 ]
