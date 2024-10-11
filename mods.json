@@ -5,7 +5,7 @@
     "name": "Exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2024-05-23T14:12:55Z",
-    "stars": 378,
+    "stars": 379,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -900,6 +900,18 @@
     "description": "Adds hard new planet with unique content and new mechanics"
   },
   {
+    "repo": "mnemotechnician/new-controls-public",
+    "internalName": "newcontrols",
+    "name": "New controls",
+    "author": "Mnemotechnician",
+    "lastUpdated": "2023-04-20T10:42:14Z",
+    "stars": 16,
+    "minGameVersion": "143.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "This mod is multiplayer-compatible!\n\nThis mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully automatic.\n\nThe manual mode enables you to control your unit with two joysticks and a control panel.\n The AI mode includes three automatic actions (attack, mine, patrol) + automatic action selection.\n\nCheck readme.md for detailed info."
+  },
+  {
     "repo": "yaddrx2/yr2-logic-debugger",
     "internalName": "yr2-logic-debugger",
     "name": "yr2 Logic Debugger",
@@ -958,18 +970,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
-  },
-  {
-    "repo": "mnemotechnician/new-controls-public",
-    "internalName": "newcontrols",
-    "name": "New controls",
-    "author": "Mnemotechnician",
-    "lastUpdated": "2023-04-20T10:42:14Z",
-    "stars": 15,
-    "minGameVersion": "143.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "This mod is multiplayer-compatible!\n\nThis mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully automatic.\n\nThe manual mode enables you to control your unit with two joysticks and a control panel.\n The AI mode includes three automatic actions (attack, mine, patrol) + automatic action selection.\n\nCheck readme.md for detailed info."
   },
   {
     "repo": "evo04taser/super-cheat",
