@@ -29,7 +29,7 @@
     "name": "BetaMindy",
     "author": "sk7725",
     "lastUpdated": "2023-05-16T03:09:57Z",
-    "stars": 329,
+    "stars": 330,
     "minGameVersion": "144",
     "hasScripts": false,
     "hasJava": true,
@@ -245,7 +245,7 @@
     "name": "Meepscellaneous Concepts",
     "author": "MEEP of Faith (And a bunch of contributors. Load the game with Meepscillaneous Concepts enabled to view them!)",
     "lastUpdated": "2024-08-02T02:54:55Z",
-    "stars": 75,
+    "stars": 76,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -528,6 +528,18 @@
     "description": "\n  # 功能\n\n  ---\n\n  ## UI\n  1. MinerToolsTable:\n     * 队伍信息:\n       * 队伍玩家数量(Tooltip显示基础队伍规则)\n       * 队伍单位显示\n       * 队伍全局电量(Tooltip显示详细电量情况)\n     * 一些有用的按钮:\n       * 暂停建造(仅手机)\n       * 自动升级传送带\n       * 重建方块\n       * 快捷投降\n     * 换队/跳波器\n     * 玩家列表:\n       * 所有玩家的名字\n       * 可锁定玩家视角(锁定的玩家控制炮塔时,会自动调整视角)\n       * 可切换到玩家视角\n       * 可一键投票踢出玩家\n     * 快捷蓝图\n     * 玩家AI:\n       * 挖矿AI\n       * 跟随AI\n\n  2. 聊天记录:\n     * 查询历史聊天记录\n     * 可以复制聊天记录(电脑:Ctrl+单击)\n\n  3. 更好的核心资源显示:\n     * 单位数量显示\n     * 物品每秒变化量显示\n     * 玩家预建消耗显示\n     * 可自定义的ui列数\n\n  4. 更好的信息面板:\n     * 单位,建筑,地板信息一起显示!\n     * 单位:\n       * 武器冷却状态\n     * 建筑:\n       * 物品详情\n     * 地板:\n       * 显示更详尽\n\n  ---\n\n  ## 画面\n  * 建筑:\n    * 选中:\n      * 异队选中信息\n      * 桥带连接详情\n    * 建筑血条\n    * 异队方块状态\n    * 构造方块耗材信息\n    * 附近炮塔警戒\n    * 物品炮塔子弹类型显示\n    * 单位工厂进度条\n\n  * 单位:\n    * 单位指示器(核心危险警告)\n    * 附近单位警戒\n\n    * 单位信息条:\n      * 血条\n      * 立场回复条\n      * 单位状态条\n      * 荷载条\n\n  * 玩家:\n    * 荷载拾放提示\n    * 玩家范围显示\n\n  ---\n\n  ## 其他小功能\n  * 进入游戏后,显示被ban的单位或方块\n  * UIScale的step修改\n  * 物品桥带可拿取物品\n  * 更多方块信息条:\n    * 血条: 血量显示更详细\n    * 进度条: 进度显示更详细\n\n  ---\n\n  # 其他\n  Mod的90%功均可在设置中打开或关闭!"
   },
   {
+    "repo": "pointifix/autodrill",
+    "internalName": "auto-drill",
+    "name": "AutoDrill",
+    "author": "Pointifix",
+    "lastUpdated": "2024-08-06T18:01:26Z",
+    "stars": 31,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds tools for automatically filling resource patches with drills"
+  },
+  {
     "repo": "w1-beyek/rl_mindustry",
     "internalName": "real life mindustry mod",
     "name": "Real Life Mod",
@@ -540,16 +552,16 @@
     "description": "V7 fixed, This mod contains all kinds of new resources, forges, materials and liquids.\nIt is still under development so feedback on the workshop is welcome. Only for custom maps."
   },
   {
-    "repo": "pointifix/autodrill",
-    "internalName": "auto-drill",
-    "name": "AutoDrill",
-    "author": "Pointifix",
-    "lastUpdated": "2024-08-06T18:01:26Z",
+    "repo": "ferlern/extended-ui-v7",
+    "internalName": "extended-ui",
+    "name": "extended UI",
+    "author": "wizer",
+    "lastUpdated": "2024-03-27T19:31:22Z",
     "stars": 30,
     "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds tools for automatically filling resource patches with drills"
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> extended UI.\n\nIf u have any bugs create an issue on github or contact me in discord: wizer1233\n\nTranslators:\n1stvaliduser - UA\nCoCo Snow - DE\n\nContributors:\nRushieWashie, Garen7, 7003Mars (Mars)"
   },
   {
     "repo": "zelaux/bytelogicmod",
@@ -562,18 +574,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds byte logic blocks from v5"
-  },
-  {
-    "repo": "ferlern/extended-ui-v7",
-    "internalName": "extended-ui",
-    "name": "extended UI",
-    "author": "wizer",
-    "lastUpdated": "2024-03-27T19:31:22Z",
-    "stars": 29,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> extended UI.\n\nIf u have any bugs create an issue on github or contact me in discord: wizer1233\n\nTranslators:\n1stvaliduser - UA\nCoCo Snow - DE\n\nContributors:\nRushieWashie, Garen7, 7003Mars (Mars)"
   },
   {
     "repo": "zeutd/disintegration",
@@ -856,7 +856,7 @@
     "internalName": "restored-mind",
     "name": "Project: Restoration",
     "author": "VvSeanGtvV",
-    "lastUpdated": "2024-10-11T14:55:20Z",
+    "lastUpdated": "2024-10-12T01:47:21Z",
     "stars": 18,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -1984,12 +1984,12 @@
     "internalName": "flesh-mod",
     "name": "Flesh Mod",
     "author": "FallingDice",
-    "lastUpdated": "2024-10-12T00:29:51Z",
+    "lastUpdated": "2024-10-12T01:51:26Z",
     "stars": 8,
     "minGameVersion": "146",
     "hasScripts": true,
     "hasJava": false,
-    "description": "Add flesh units with various actions and skills, novel turrets and various objects. version 0.857"
+    "description": "Add flesh units with various actions and skills, novel turrets and various objects. version 0.858"
   },
   {
     "repo": "warcry98/speedcontrol",
