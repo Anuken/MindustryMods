@@ -17,7 +17,7 @@
     "name": "New Horizon",
     "author": "Yuria",
     "lastUpdated": "2024-10-16T05:41:17Z",
-    "stars": 364,
+    "stars": 365,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -101,7 +101,7 @@
     "name": "Time Control",
     "author": "sk7725",
     "lastUpdated": "2024-07-25T09:11:47Z",
-    "stars": 122,
+    "stars": 123,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
@@ -432,24 +432,12 @@
     "description": "An auxiliary mod that provides you with quick retrieval of production and collection guidance information for materials, units, buildings, minerals, etc., so that you are no longer overwhelmed by installing too many mods.\n====================\n一个辅助mod，为您提供快速检索材料，单位，建筑和矿物等的生产与采集引导信息，让您不再因为安装了太多mod而不知所措"
   },
   {
-    "repo": "azaria-team/project-hpl",
-    "internalName": "hpl",
-    "name": "Project HPL",
-    "author": "HPL Team",
-    "lastUpdated": "2024-05-20T13:00:33Z",
-    "stars": 39,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod that contains a full of content planet. This is the beta version so it may not display the final version of the project."
-  },
-  {
     "repo": "eyeofdarkness/flameout",
     "internalName": "flameout",
     "name": "Flame Out",
     "author": "EoD",
     "lastUpdated": "2024-06-29T00:19:27Z",
-    "stars": 39,
+    "stars": 40,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
@@ -466,6 +454,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
+  },
+  {
+    "repo": "azaria-team/project-hpl",
+    "internalName": "hpl",
+    "name": "Project HPL",
+    "author": "HPL Team",
+    "lastUpdated": "2024-10-17T13:23:36Z",
+    "stars": 39,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod that contains a full of content planet. This is the beta version so it may not display the final version of the project."
   },
   {
     "repo": "deltanedas/dev-mode",
@@ -712,7 +712,7 @@
     "internalName": "psammos",
     "name": "Psammos Mod",
     "author": "AndromedaGalaxy29",
-    "lastUpdated": "2024-10-15T17:47:13Z",
+    "lastUpdated": "2024-10-17T13:08:06Z",
     "stars": 22,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -804,6 +804,18 @@
     "description": "A mod being developed by a team of three, it reveals and makes tantros playable, keep in mind that the mod is not finished yet, you can play the unfinished campaign.\n\ncurrently being worked on by \n- Gander (a.k.a. Plastel)\n- Jasmarkelina"
   },
   {
+    "repo": "eyeofdarkness/advance-lighting",
+    "internalName": "advance-lighting",
+    "name": "Advance lighting",
+    "author": "EoD",
+    "lastUpdated": "2024-05-18T05:50:46Z",
+    "stars": 18,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Not recommended for weak devices. Only supports Vanilla/Supported-Json content. This mod replaces/add some effects, and may cause issues with mods that actively check on those effects. May conflict with vanilla bloom."
+  },
+  {
     "repo": "deltanedas/ldb",
     "internalName": "ldb",
     "name": "Logic Debugger",
@@ -864,6 +876,18 @@
     "description": "A Mindustry builds including some classic ones are added to Mindustry v7!"
   },
   {
+    "repo": "yuria-shikibe/gameinfoimager",
+    "internalName": "game-info-imager",
+    "name": "Game Info Imager",
+    "author": "Yuria",
+    "lastUpdated": "2023-01-20T01:50:39Z",
+    "stars": 17,
+    "minGameVersion": "141.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Show the range of turrets and units.\nShow the units the next wave will spawn."
+  },
+  {
     "repo": "apszoldat/mindustry-mapping-utilities",
     "internalName": "mindustry-mapping-utilities",
     "name": "Mapping Utilities",
@@ -876,18 +900,6 @@
     "description": "Small Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\nImprovements:\n\n- Mixed Tech Unlocked\n- More Rules Available\n- Better Cliff Editing\n- Numbered Teams Editing\n- Planet Background Editing\n- Any Brush Size\n\nCheck README.md in GitHub repo for more detailed information\n\n! Work In Progress !\nMore map making tools will be added in future"
   },
   {
-    "repo": "eyeofdarkness/advance-lighting",
-    "internalName": "advance-lighting",
-    "name": "Advance lighting",
-    "author": "EoD",
-    "lastUpdated": "2024-05-18T05:50:46Z",
-    "stars": 17,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Not recommended for weak devices. Only supports Vanilla/Supported-Json content. This mod replaces/add some effects, and may cause issues with mods that actively check on those effects. May conflict with vanilla bloom."
-  },
-  {
     "repo": "saigon0nozomi/nightscape",
     "internalName": "nscape",
     "name": "NightScape",
@@ -898,18 +910,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds hard new planet with unique content and new mechanics"
-  },
-  {
-    "repo": "yuria-shikibe/gameinfoimager",
-    "internalName": "game-info-imager",
-    "name": "Game Info Imager",
-    "author": "Yuria",
-    "lastUpdated": "2023-01-20T01:50:39Z",
-    "stars": 16,
-    "minGameVersion": "141.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Show the range of turrets and units.\nShow the units the next wave will spawn."
   },
   {
     "repo": "mnemotechnician/new-controls-public",
@@ -946,18 +946,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Welcome to the mod Gloomistry! This is my first mod that adds a new campaign with new content, at the moment the mod is not made to the very end and updates will be released (probably) in which I will finish the campaign to the end and also change the sprites of many blocks that I did not like or that were copied from the original blocks. It is also possible that I will add more new turrets. If you liked the mod, don't forget to give it a star on the GitHub! Contact me: https://t.me/@Thisispzdcnh\n  \n  Приветствую вас в моде Глумистри! Это мой первый мод который добавляет новую кампанию с новым контентом, на данный момент мод сделан не до самого конца и будут выходить обновления(наверно) в которых я доделаю кампанию до конца а также изменю спрайты многих блоков, которые мне не понравились или которые были срисованы с оригинальных блоков. Также возможно я добавлю еще новые турели. Если вам понравился мод, не забудьте поставить ему звезду на ГитХаб! Связаться со мной: https://t.me/@Thisispzdcnh\n\n  Sprites of production blocks By Obsidian"
-  },
-  {
-    "repo": "melomelodeon/a-bad-mindustry-mod",
-    "internalName": "fstrcnvyrs",
-    "name": "Definitely Balanced Conveyors",
-    "author": "Rhoo",
-    "lastUpdated": "2022-12-01T15:37:01Z",
-    "stars": 15,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds a few distribution blocks... very few distribution blocks"
   },
   {
     "repo": "flintyx/autoresearch",
@@ -1390,18 +1378,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds custom music for Asthosus! \nAdds ambient tracks as well as guardian/boss themes.\n\nNOTE: Overrides vanilla music. If you want to keep the vanila tracks,\ndo NOT install this mod.\n\nAll credits go to ThePythonGuy! \n  \nCheck him out on newgrounds. \nThe link can be found on this mods' repository!\n\nNOT ALL TRACKS HAVE BEEN COMPLETED YET. \nPLEASE BE PATIENT."
-  },
-  {
-    "repo": "jirocab/olupis",
-    "internalName": "olupis",
-    "name": "Nyfalis (Olupis)",
-    "author": " ;3\nProgramming:\nRushieWashie, Siede, WMF Industries, Otamamori \n---------------------\nSprites:\nRushieWashie, NightmarishWolf, Ethanol10, kapzduke, Otamamori, Catana, Lixie, ItsKirby69\n---------------------\nMaps:\nRushieWashie, MrApple, NightmarishWolf ",
-    "lastUpdated": "2024-10-07T05:32:22Z",
-    "stars": 11,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer, focus on RTS controls, and pain on top"
   },
   {
     "repo": "lehanchic25/testplanetmindustry",
@@ -6360,18 +6336,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "sasha-726/liquid-transportation--serpulo-",
-    "internalName": "liquid-transportation-serpulo",
-    "name": "Liquid-transportation-(Serpulo)",
-    "author": "Toxopid",
-    "lastUpdated": "2023-12-23T10:57:56Z",
-    "stars": 1,
-    "minGameVersion": "145.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod allows you to transport liquids to different sectors on Serpulo."
-  },
-  {
     "repo": "bakkablue/rgbee",
     "internalName": "rgbee",
     "name": "RGBee",
@@ -8122,18 +8086,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Scheme Size(勝手に略してSS)を日本語に訳しました。"
-  },
-  {
-    "repo": "camelstyleuser/unlockable-content",
-    "internalName": "unlockable-content",
-    "name": "UnlockableContent",
-    "author": "camelStyleUser",
-    "lastUpdated": "2024-01-03T12:53:28Z",
-    "stars": 0,
-    "minGameVersion": "137",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "dont you love some js"
   },
   {
     "repo": "xiaoxianben/mindustry-betterfactory-mod",
