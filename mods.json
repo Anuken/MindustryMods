@@ -17,7 +17,7 @@
     "name": "New Horizon",
     "author": "Yuria",
     "lastUpdated": "2024-10-19T08:06:19Z",
-    "stars": 365,
+    "stars": 366,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -360,6 +360,18 @@
     "description": "Reality-shattering router expansion mod.\nOptionally requires deltanedas/rtfm for manual pages.\n10/10 IGN\n  - Router\nUkranian translation by Prostaчок_ua\nAlso try out Slava1035/reVision!"
   },
   {
+    "repo": "liplum/multicrafterlib",
+    "internalName": "multi-crafter",
+    "name": "MultiCrafter Lib",
+    "author": "[#42a5f5]Liplum[] & Jojo",
+    "lastUpdated": "2024-06-24T20:29:56Z",
+    "stars": 46,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod library for (H)JSON, JavaScript and Java mods,\nincluding a crafter supporting multiple recipes for items, fluids, power, heat and payloads production.\nPlease check the repository below to learn more.\nWork on v136 to v146."
+  },
+  {
     "repo": "xjamiex/biotech",
     "internalName": "biotech",
     "name": "BioTech",
@@ -382,18 +394,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
-  },
-  {
-    "repo": "liplum/multicrafterlib",
-    "internalName": "multi-crafter",
-    "name": "MultiCrafter Lib",
-    "author": "[#42a5f5]Liplum[] & Jojo",
-    "lastUpdated": "2024-06-24T20:29:56Z",
-    "stars": 45,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod library for (H)JSON, JavaScript and Java mods,\nincluding a crafter supporting multiple recipes for items, fluids, power, heat and payloads production.\nPlease check the repository below to learn more.\nWork on v136 to v146."
   },
   {
     "repo": "flintyx/animalia",
@@ -700,7 +700,7 @@
     "internalName": "psammos",
     "name": "Psammos Mod",
     "author": "AndromedaGalaxy29",
-    "lastUpdated": "2024-10-18T23:10:40Z",
+    "lastUpdated": "2024-10-19T11:57:21Z",
     "stars": 22,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -874,6 +874,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "This mod is multiplayer-compatible!\n\nThis mod adds new ways of controlling your unit (mostly for mobile): fully manual and fully automatic.\n\nThe manual mode enables you to control your unit with two joysticks and a control panel.\n The AI mode includes three automatic actions (attack, mine, patrol) + automatic action selection.\n\nCheck readme.md for detailed info."
+  },
+  {
+    "repo": "yaddrx2/yr2-logic-debugger",
+    "internalName": "yr2-logic-debugger",
+    "name": "yr2 Logic Debugger",
+    "author": "原作者：DeltaNedas\n修改：yaddrx2",
+    "lastUpdated": "2024-01-10T02:54:31Z",
+    "stars": 16,
+    "minGameVersion": "137",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Logic Debugger\n\n一个逻辑辅助工具\n\n原作DeltaNedas/ldb\n\nyaddrx2将其升级到了137，仅供学习交流使用\n\n当前版本：1.7.0\n\n更新日志\n\nv1.0.1\n将mod版本升为137\n\nv1.0.2\n取消ui-lib的前置\n\nv1.0.3\n逻辑码编辑板\n新增代码语句的文本形式编辑\n\nv1.0.4\n逻辑块变量面板\n变量更新闪烁\n增加逻辑块所连方块的显示\n\nv1.0.5\n内存块编辑板\n内存值更新闪烁\n新增内存值的二进制形式视察\n实现内存值的十六进制形式编辑\n\nv1.0.6\n新增代码插入相关操作\n实现从剪切板导入代码块到指定位置\n\nv1.0.7\n新增面板的折叠按钮\n修复学术端运行mod导致的面板移位或覆盖\n修复面板横向抖动的bug\n\nv1.0.8\n单步调试面板\n实现代码单步运行调试\n\nv1.1.0\n新增调试面板设置断点\n实现运行到下一断点操作\n\nv1.1.1\n新增变量位置指示器\n显示单位变量的flag\n\nv1.2\n新增调试面板的运行位置追踪\n新增功能标签\n\nv1.3\n位置指示器增加变量名\n\nv1.4\n内存块面板增加内存值导入导出\n\nv1.5\n变量面板增加变量值导出\n\nv1.6\n内存面板的变量名筛选\n内存值导出筛选器\n\nv1.7\n增加信息板复制与导入"
   },
   {
     "repo": "fun7game/gloomistrymod",
@@ -1204,7 +1216,7 @@
     "internalName": "as",
     "name": "Asterion",
     "author": " |Asterion Team| ",
-    "lastUpdated": "2024-10-19T09:24:32Z",
+    "lastUpdated": "2024-10-19T12:02:26Z",
     "stars": 12,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -1372,7 +1384,7 @@
     "internalName": "mindustry-expansion",
     "name": "Mindustry Expansion",
     "author": "[yellow]Zuoranartemwing\n\n[gray]Contributors:[blue]\nChaoticMarzu\nKanaede [yellow](has left the team since 08 May 2024)\n[#00ff][white]Jab005[yellow](has left the team since 20 July 2024)",
-    "lastUpdated": "2024-10-19T08:12:01Z",
+    "lastUpdated": "2024-10-19T10:43:15Z",
     "stars": 11,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -2224,7 +2236,7 @@
     "internalName": "tranqol",
     "name": "Tranqol",
     "author": "MEEPofFaith",
-    "lastUpdated": "2024-10-15T23:30:09Z",
+    "lastUpdated": "2024-10-19T10:32:05Z",
     "stars": 7,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2808,18 +2820,6 @@
     "description": "It's my First* mod! Yay! It adds alot of units. Such as Purple navals, Orange spiders, Blue air-bombers and much more! \nwarning not all the trees are finished infact none are. \nThanks to my spriter Aegires for making some of theese awsome sprites!"
   },
   {
-    "repo": "sycnav/new-crescent",
-    "internalName": "new-crescent",
-    "name": "New Crescent",
-    "author": "CrS Team",
-    "lastUpdated": "2024-10-13T13:38:09Z",
-    "stars": 5,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Project was WIP, all featured maybe change in future.. \n \n Spriter: TDaggers [TDRS], Ru, Quy109372 \n \n Content: SyNav [SycNav], TDaggers [TDRS], CrystalMist, EarGods \n \n Script: SyNav [SycNav], Quy109372, EarGods \n  \n"
-  },
-  {
     "repo": "unionofsovietsocialistrepublics/sporebiomethane",
     "internalName": "jp",
     "name": "Spore biomethane",
@@ -2842,6 +2842,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "the watcher mod for MLog(Mindustry Logic) programming. while watching the target file's change, the mod will read, parse and inject code to selected processor from the target file."
+  },
+  {
+    "repo": "sycnav/new-crescent",
+    "internalName": "new-crescent",
+    "name": "New Crescent",
+    "author": "CrS Team",
+    "lastUpdated": "2024-10-19T11:09:40Z",
+    "stars": 5,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A Work in Progress: This project is still under development, and features may change in the future.\n\nContributors:\n\n* Author: CrS Team (Lead: SyNav [SycNav])\n* Sprites: TDaggers [TDRS], Ru (kyrusis2), Quy [Quy109372]\n* Contents: SyNav [SycNav], TDaggers [TDRS], Crypt [CrystalMist], EarGods [Earthegodlybeing]\n* Scripting: SyNav [SycNav], Quy [Quy109372], EarGods [Earthegodlybeing]\n\nBug Reporting:\nPlease report any bugs or glitches to the CrS team for fixing.\n\nJoin the Community: Join our Discord server to stay updated on the project and connect with the community! (discord: https://discord.gg/FHg4FDDeVH)\n"
   },
   {
     "repo": "mythril382/self-destruct-core",
@@ -5484,18 +5496,6 @@
     "description": "Updated (06.10.2024)\n\n-Tiger MG shooting improved\n-Now able to create different Tank variants (Beta) 🠖 Not multiplayer testet\n\nSome major bug fixes\n\n\nLatest content addition: \n🠖Tactical nuker\n🠖P-1000-Ratte tank\n🠖Tiger tank\n🠖A new Planet\n🠖Darkshade and Galaxy material\n\n\nContent: \n🠖3 Maps\n🠖more materials\n🠖new units/enemys\n🠖8 new Mech pads\n🠖Material teleporters\n🠖New blocks and walls\n\nAnd we keep updating it! This mod is a good content addition to the game, but it's also a challange! So its time to get a Pro and master this mod. Of course we would like to hear your feedback!!\n\n Thanks to Eni_YT for helping with sprites, giving me ideas and updating this section."
   },
   {
-    "repo": "frizermoon/revengeance-mod",
-    "internalName": "revengeance",
-    "name": "Revengeance",
-    "author": "Frizer moons",
-    "lastUpdated": "2024-10-08T18:50:28Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Первый мой мод в котором вы с помощю межпланетного ускорителя попадаете на планету Селестис.Вы должным отомстить красным и захватить их планету.Вас будут ждать новые руды,враги,механики и ЛОООООР.Сложность мода высокая так что запасайтесь нервами"
-  },
-  {
     "repo": "floppa-coder/ironextened",
     "internalName": "iron",
     "name": "Iron Extended",
@@ -5530,6 +5530,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "On a random day, all the civilizations joined forces to leave the dying state of the world in which they are inhabiting. They left in fleets of much grandeur and it was at that time when a vortex opened somewhere between the stars and they entered it where they had the encounter with the Beings. They acquired exotic technologies from them but little did they know that it was all part of a much greater story and that there was nothing random about that day. The Exotic technologies include: Bombs and Nukes Guided missile systems Power manipulation devices Unconventional weapon systems and much more."
+  },
+  {
+    "repo": "frizermoon/revengeance-mod",
+    "internalName": "revengeance",
+    "name": "Revengeance",
+    "author": "Frizer moons",
+    "lastUpdated": "2024-10-19T11:23:43Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Первый мой мод в котором вы с помощю межпланетного ускорителя попадаете на планету Селестис.Вы должным отомстить красным и захватить их планету.Вас будут ждать новые руды,враги,механики и ЛОООООР.Сложность мода высокая так что запасайтесь нервами"
   },
   {
     "repo": "teaeempire/gghv7",
@@ -6960,6 +6972,18 @@
     "description": "We plan to add three new planets into the game, with two new tech trees.\n\nTronoe is a deserted planet with many ancient relics and long lost secrets.\nYour goal is to uncover these relics and piece together a machine that can take down the restless tyrant on Nevorix.\n\nOn the dark, irradiated wasteland of Iralius, you must research powerful turrets to overcome the mutated inhabitants.\n\nOn the ancient battlefield of Nevorix, you use the technologies that you have researched on Tronoe and Iralius to overcome an ancient enemy that has long gone undefeated. While winning the long - forgotten war, you will also discover new materials to create even more powerful weapons than before."
   },
   {
+    "repo": "huanxefh/reindustrialization",
+    "internalName": "reind",
+    "name": "Reindustrialization",
+    "author": "MaboroshiX",
+    "lastUpdated": "2024-10-17T15:33:35Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "I have seen too many mods with fictional contents bearing random names from reality, and somehow I have been working on this mod.\n\nReind is a mod about serious chemistry (or not), with JSON codes for most contents and JS codes for new mechanisms. Materials and production methods here are mostly based on what they are in reality, but simplified for gameplay.\nKnowledge of chemistry may be required. This mod is also inspired by GTNH, a hardcore Minecraft mod pack about industry (well that's kind of magic I have to say).\n\nCurrently done mechanisms (not all):\n- Pollution, caused by terrain and mostly, factories.\n- Heat damage, to blocks and units.\n- Conduit corrosion, caused by corrosive fluids.\n- Boiler explosion, which is similiar to that in GTNH.\n- Trees, where units can hide, even for a spoder.\n\nStill WIP and there are tons of ideas not implemented yet. Do not launch to any numbered sectors!\n\nContents: MaboroshiX\nSprites: MaboroshiX\nScripts: MaboroshiX\nIdeas: MaboroshiX\n\nrednificsdnaaidepikiwybderewop"
+  },
+  {
     "repo": "chuvaak/futurehorizons",
     "internalName": "futurehorizons",
     "name": "Future Horizons",
@@ -6974,14 +6998,14 @@
   {
     "repo": "fallingdice/flesh-mod-mechanical-factions",
     "internalName": "mechanical-factions",
-    "name": "Mechanical Factions-Flesh Mod",
+    "name": "Mechanical Factions - Flesh Mod",
     "author": "FallingDice",
-    "lastUpdated": "2024-10-19T04:35:14Z",
+    "lastUpdated": "2024-10-19T12:10:31Z",
     "stars": 1,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
-    "description": "Add new mechanical factions. version 0.011v"
+    "description": "Add new mechanical factions. version 0.023v"
   },
   {
     "repo": "kapzduke/vanilla-extension",
@@ -8878,18 +8902,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Lots of cool and nerdy stuff get added."
-  },
-  {
-    "repo": "huanxefh/reindustrialization",
-    "internalName": "reind",
-    "name": "Reindustrialization",
-    "author": "MaboroshiX",
-    "lastUpdated": "2024-10-17T15:33:35Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "I have seen too many mods with fictional contents bearing random names from reality, and somehow I have been working on this mod.\n\nReind is a mod about serious chemistry (or not), with JSON codes for most contents and JS codes for new mechanisms. Materials and production methods here are mostly based on what they are in reality, but simplified for gameplay.\nKnowledge of chemistry may be required. This mod is also inspired by GTNH, a hardcore Minecraft mod pack about industry (well that's kind of magic I have to say).\n\nCurrently done mechanisms (not all):\n- Pollution, caused by terrain and mostly, factories.\n- Heat damage, to blocks and units.\n- Conduit corrosion, caused by corrosive fluids.\n- Boiler explosion, which is similiar to that in GTNH.\n- Trees, where units can hide, even for a spoder.\n\nStill WIP and there are tons of ideas not implemented yet. Do not launch to any numbered sectors!\n\nContents: MaboroshiX\nSprites: MaboroshiX\nScripts: MaboroshiX\nIdeas: MaboroshiX\n\nrednificsdnaaidepikiwybderewop"
   },
   {
     "repo": "mindustrylogic/mindustry-terraria-overhaul",
