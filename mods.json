@@ -113,7 +113,7 @@
     "name": "Cyber IO",
     "author": "[#42a5f5]Liplum[]",
     "lastUpdated": "2023-12-13T17:34:49Z",
-    "stars": 114,
+    "stars": 115,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -180,6 +180,18 @@
     "description": "An ambitious modification aimed at expanding the game's standard campaign by adding a new star system."
   },
   {
+    "repo": "catana791/asthosus",
+    "internalName": "asthosus",
+    "name": "Asthosus",
+    "author": "Catana",
+    "lastUpdated": "2024-10-20T10:48:21Z",
+    "stars": 82,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "  A mod that adds a new planet, Asthosus, into the game.\n  \n  Asthosus is a deserted planet. A wasteland filled with danger.\n  It has a fully playable campaign with 11 campaign and 17 optional maps. \n\n  Aside from these 28 maps, Asthosus contains over 180 pieces of unique content,\n  including blocks, liquids, items, units and status effects.\n  This number is not counting any internal units or environment blocks/tiles.\n\n  I aimed to re-use nearly no vanilla content and instead fill the mod \n  with new and (hopefully) exciting things.\n\n  If you find any issues or want to tell me anything else,\n  feel free to join the Asthosus Discord server. \n  The same thing goes for when you need help with this mod.\n\n  Enjoy!"
+  },
+  {
     "repo": "z0mbiesrock/diamond-ore",
     "internalName": "diamond-ore",
     "name": "Diamond Ore Mod",
@@ -190,18 +202,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds the Diamond resource.\n\nThis mod also adds more than just diamonds. It also adds enhanced versions of vanilla production blocks, as well as units, technology, and more."
-  },
-  {
-    "repo": "catana791/asthosus",
-    "internalName": "asthosus",
-    "name": "Asthosus",
-    "author": "Catana",
-    "lastUpdated": "2024-10-20T10:48:21Z",
-    "stars": 81,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "  A mod that adds a new planet, Asthosus, into the game.\n  \n  Asthosus is a deserted planet. A wasteland filled with danger.\n  It has a fully playable campaign with 11 campaign and 17 optional maps. \n\n  Aside from these 28 maps, Asthosus contains over 180 pieces of unique content,\n  including blocks, liquids, items, units and status effects.\n  This number is not counting any internal units or environment blocks/tiles.\n\n  I aimed to re-use nearly no vanilla content and instead fill the mod \n  with new and (hopefully) exciting things.\n\n  If you find any issues or want to tell me anything else,\n  feel free to join the Asthosus Discord server. \n  The same thing goes for when you need help with this mod.\n\n  Enjoy!"
   },
   {
     "repo": "deltanedas/rtfm",
@@ -1632,18 +1632,6 @@
     "description": "Allows access to Editor Mode on Sandbox and Singleplayer\n\nDoes not work on Multiplayer and Campaign.\n\nUpdate: Fixed map editor crash and delay."
   },
   {
-    "repo": "glennfolker/confictura",
-    "internalName": "",
-    "name": "Confictura",
-    "author": "GlFolker",
-    "lastUpdated": "2024-04-24T13:04:47Z",
-    "stars": 9,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Dive into the past of a trauma-driven uprising."
-  },
-  {
     "repo": "falkowitz/smeshariki-music-pack",
     "internalName": "smp",
     "name": "Smeshariki-Music-Pack",
@@ -1690,6 +1678,30 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Sueno is a modification that allows you to go to a new planet with unique temperature mechanics"
+  },
+  {
+    "repo": "fallingdice/flesh-mod",
+    "internalName": "flesh-mod",
+    "name": "Flesh Mod",
+    "author": "FallingDice",
+    "lastUpdated": "2024-10-20T11:40:01Z",
+    "stars": 9,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Add flesh units with various actions and skills, novel turrets and various objects. version 0.872"
+  },
+  {
+    "repo": "glennfolker/confictura",
+    "internalName": "",
+    "name": "Confictura",
+    "author": "GlFolker",
+    "lastUpdated": "2024-10-20T12:32:25Z",
+    "stars": 9,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Dive into the past of a trauma-driven uprising."
   },
   {
     "repo": "liplum/bottledliquid",
@@ -1918,18 +1930,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod for showing damage numbers."
-  },
-  {
-    "repo": "fallingdice/flesh-mod",
-    "internalName": "flesh-mod",
-    "name": "Flesh Mod",
-    "author": "FallingDice",
-    "lastUpdated": "2024-10-20T11:40:01Z",
-    "stars": 8,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Add flesh units with various actions and skills, novel turrets and various objects. version 0.872"
   },
   {
     "repo": "warcry98/speedcontrol",
@@ -4384,7 +4384,7 @@
     "internalName": "asteroidgen",
     "name": "asteroidgen",
     "author": "chinhonnang0000",
-    "lastUpdated": "2024-10-20T11:00:11Z",
+    "lastUpdated": "2024-10-20T13:57:25Z",
     "stars": 3,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -8944,7 +8944,7 @@
     "internalName": "content-galore",
     "name": "Content Galore",
     "author": "Cannon-Kid",
-    "lastUpdated": "2024-10-20T01:46:16Z",
+    "lastUpdated": "2024-10-20T12:52:19Z",
     "stars": 0,
     "minGameVersion": "146",
     "hasScripts": false,
