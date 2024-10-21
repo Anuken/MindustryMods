@@ -408,6 +408,18 @@
     "description": "A fun mod that contains Animals, Plants, Natural disasters and a lot more!"
   },
   {
+    "repo": "twcash/aquarion",
+    "internalName": "aquarion",
+    "name": "Aquarion",
+    "author": "twcash",
+    "lastUpdated": "2024-10-21T03:00:35Z",
+    "stars": 43,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Aquarion is a mod recreating Tantros, including a custom campaign with a new planet with custom units, blocks, and soundtrack."
+  },
+  {
     "repo": "eb-wilson/toomanyitems",
     "internalName": "tmi",
     "name": "Too Many Items",
@@ -418,18 +430,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "An auxiliary mod that provides you with quick retrieval of production and collection guidance information for materials, units, buildings, minerals, etc., so that you are no longer overwhelmed by installing too many mods.\n====================\n一个辅助mod，为您提供快速检索材料，单位，建筑和矿物等的生产与采集引导信息，让您不再因为安装了太多mod而不知所措"
-  },
-  {
-    "repo": "twcash/aquarion",
-    "internalName": "aquarion",
-    "name": "Aquarion",
-    "author": "twcash",
-    "lastUpdated": "2024-10-21T03:00:35Z",
-    "stars": 42,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Aquarion is a mod recreating Tantros, including a custom campaign with a new planet with custom units, blocks, and soundtrack."
   },
   {
     "repo": "eyeofdarkness/flameout",
@@ -2844,18 +2844,6 @@
     "description": "Adds Blastanium, a compound of Blast Compound and Plastanium, as ammo for Serpulo and Erekir turrets.\n\nBlastanium can be used in Salvos, Swarmers, Ripples, Cyclones, and Spectres, as well as Titans and Scathes. Blastanium used in a Scathe will not fire as a missile.\n\nDiscord Server: https://discord.com/invite/TJKZgr6UDg"
   },
   {
-    "repo": "chaoticans-mindustry-modding-team/new-content",
-    "internalName": "newunits",
-    "name": "New Content",
-    "author": "Cle",
-    "lastUpdated": "2024-10-07T07:02:22Z",
-    "stars": 5,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "It's my First* mod! Yay! It adds alot of units. Such as Purple navals, Orange spiders, Blue air-bombers and much more! \nwarning not all the trees are finished infact none are. \nThanks to my spriter Aegires for making some of theese awsome sprites!"
-  },
-  {
     "repo": "unionofsovietsocialistrepublics/sporebiomethane",
     "internalName": "jp",
     "name": "Spore biomethane",
@@ -2878,6 +2866,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "the watcher mod for MLog(Mindustry Logic) programming. while watching the target file's change, the mod will read, parse and inject code to selected processor from the target file."
+  },
+  {
+    "repo": "chaoticans-mindustry-modding-team/new-content",
+    "internalName": "newunits",
+    "name": "New Content",
+    "author": "Cle",
+    "lastUpdated": "2024-10-21T17:02:11Z",
+    "stars": 5,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "It's my First* mod! Yay! It adds alot of units. Such as Purple navals, Orange spiders, Blue air-bombers and much more! \nwarning not all the trees are finished infact none are. \nThanks to my spriter Aegires for making some of theese awsome sprites!"
   },
   {
     "repo": "mythril382/self-destruct-core",
@@ -4356,18 +4356,6 @@
     "description": "\nJSON mod\n\nI`m working on:\n\n- New materials\n- New electricity\n- New planet (Not commpleted)\n- New units (Not commpleted)\n- A ton of new planet content (Not commpleted)\n\nTODO:\n1. Conveyors etc\n2. Some difficult stuff\n3. Turrets\n4. Units\n5. Sectors + planet (now)\n"
   },
   {
-    "repo": "camogekko/inferior",
-    "internalName": "inf",
-    "name": "Inferior",
-    "author": "\nCamoGekko\n",
-    "lastUpdated": "2024-10-18T16:12:46Z",
-    "stars": 3,
-    "minGameVersion": "144.3",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\nMakes the game multiple times [red]harder [white]by nerfing anything that was remotely good into [red]oblivion\n[white]and using various methods to prevent schematics from working and generally make processing [red]harder[white]\n"
-  },
-  {
     "repo": "chinhonnang0000/asteroidgen",
     "internalName": "asteroidgen",
     "name": "asteroidgen",
@@ -4380,11 +4368,23 @@
     "description": "certainly not the best mod ever"
   },
   {
+    "repo": "camogekko/inferior",
+    "internalName": "inf",
+    "name": "Inferior",
+    "author": "\nCamoGekko\n",
+    "lastUpdated": "2024-10-21T16:55:07Z",
+    "stars": 3,
+    "minGameVersion": "144.3",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nMakes the game multiple times [red]harder [white]by nerfing anything that was remotely good into [red]oblivion\n[white]and using various methods to prevent schematics from working and generally make processing [red]harder[white]\n"
+  },
+  {
     "repo": "hungrycloud4913/hc-expanded-dawn",
     "internalName": "hc-expanded-dawn",
     "name": "HC-Expanded-Dawn",
     "author": "HungryCloud4913",
-    "lastUpdated": "2024-10-21T15:47:09Z",
+    "lastUpdated": "2024-10-21T17:54:18Z",
     "stars": 3,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -7012,7 +7012,7 @@
     "internalName": " b ",
     "name": "Caverns nightmare",
     "author": "beee",
-    "lastUpdated": "2024-10-21T15:21:46Z",
+    "lastUpdated": "2024-10-21T18:00:16Z",
     "stars": 1,
     "minGameVersion": "147",
     "hasScripts": false,
