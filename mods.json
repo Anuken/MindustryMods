@@ -113,7 +113,7 @@
     "name": "Cyber IO",
     "author": "[#42a5f5]Liplum[]",
     "lastUpdated": "2023-12-13T17:34:49Z",
-    "stars": 115,
+    "stars": 114,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -1060,7 +1060,7 @@
     "internalName": "as",
     "name": "Asterion",
     "author": " |Asterion Team| ",
-    "lastUpdated": "2024-10-21T21:19:49Z",
+    "lastUpdated": "2024-10-22T12:26:19Z",
     "stars": 14,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -1872,18 +1872,6 @@
     "description": "Welcome to Erbius!\nSpecial thanks to the Mindustry Discord\nNote: restart your game for settings to take effect\n"
   },
   {
-    "repo": "situvngcd/mindustrymodtest",
-    "internalName": "situvngcd-test-mod",
-    "name": "SVN Test mod",
-    "author": "[#4488ff]SITUVNgcd[]",
-    "lastUpdated": "2024-09-22T12:34:50Z",
-    "stars": 8,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Tags list allow manually sort, easier for tag selection.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
-  },
-  {
     "repo": "misterfirer/urmod-mindustry-v7-",
     "internalName": "urmod",
     "name": "UrMod",
@@ -1930,6 +1918,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "RU: Очень опасный мод, который влияет на баланс и механику игры, добавляет новый контент в виде статус эффектов и оборонительных сооружений (башен, мин и т.д.).\n\nРекомендуется перед установкой сделать сохранение (чтобы откатиться назад), если в случае вам не понравится то, что может сделать данный мод. И лучше в самом деле не рискуйте лишний раз и поверьте на слово: МОД. МЕНЯЕТ. МНОГОЕ.\n\n\n\nENG: A very dangerous mod that affects the balance and mechanics of the game, adds new content in the form of status effects and defensive structures (towers, mines, etc.).\n\n\nPreferably before installing make a save (to roll back), if in case you do not like what this mod can do. And it is better to really do not take unnecessary risks and take my word for it: MOD. CHANGES. EVERYTHING.\n\nmov mod test subjects:\n- eve_light."
+  },
+  {
+    "repo": "situvngcd/mindustrymodtest",
+    "internalName": "situvngcd-test-mod",
+    "name": "SVN Test mod",
+    "author": "[#4488ff]SITUVNgcd[]",
+    "lastUpdated": "2024-10-22T13:06:23Z",
+    "stars": 8,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Tags list allow manually sort, easier for tag selection.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
   },
   {
     "repo": "warcry98/speedcontrol",
@@ -3508,7 +3508,7 @@
     "internalName": " mech ",
     "name": "combat dustry",
     "author": "beee",
-    "lastUpdated": "2024-10-20T16:49:38Z",
+    "lastUpdated": "2024-10-22T13:52:14Z",
     "stars": 4,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -4356,18 +4356,6 @@
     "description": "\nJSON mod\n\nI`m working on:\n\n- New materials\n- New electricity\n- New planet (Not commpleted)\n- New units (Not commpleted)\n- A ton of new planet content (Not commpleted)\n\nTODO:\n1. Conveyors etc\n2. Some difficult stuff\n3. Turrets\n4. Units\n5. Sectors + planet (now)\n"
   },
   {
-    "repo": "chinhonnang0000/asteroidgen",
-    "internalName": "asteroidgen",
-    "name": "asteroidgen",
-    "author": "chinhonnang0000",
-    "lastUpdated": "2024-10-21T12:17:37Z",
-    "stars": 3,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "certainly not the best mod ever"
-  },
-  {
     "repo": "camogekko/inferior",
     "internalName": "inf",
     "name": "Inferior",
@@ -4390,6 +4378,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Warning: This is not New Horizons.\nCredits to everyone who helped even in the slightest bit ever,\nDiscord Helpers: Mindustridiot/HazNoBrain - Unit suggestions and unit FX work, CY4NIDE - Railhammer unit FX work and suggestion"
+  },
+  {
+    "repo": "chinhonnang0000/asteroidgen",
+    "internalName": "asteroidgen",
+    "name": "asteroidgen",
+    "author": "chinhonnang0000",
+    "lastUpdated": "2024-10-22T13:29:45Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "certainly not the best mod ever"
   },
   {
     "repo": "wshon/mindustrytoolkit",
