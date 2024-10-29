@@ -700,7 +700,7 @@
     "internalName": "psammos",
     "name": "Psammos Mod",
     "author": "AndromedaGalaxy29",
-    "lastUpdated": "2024-10-29T14:00:50Z",
+    "lastUpdated": "2024-10-29T14:50:04Z",
     "stars": 22,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -4812,6 +4812,18 @@
     "description": "Refreshes schematics stored in the /schematics subdirectory whenever the game loads or the Refresh button is pressed.\n\nThis mod is only useful if you modify these schematics externally, e.g. by building them using Mindcode - https://github.com/cardillan/mindcode\n\nA few minor sample schematics are included.\n"
   },
   {
+    "repo": "yukusoh/schalestaskmod",
+    "internalName": "schalestaskmod",
+    "name": "SCHALE'sTaskMod",
+    "author": "YukuSOH",
+    "lastUpdated": "2023-05-15T11:37:04Z",
+    "stars": 2,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "(This mod is BlueArchive fan mod.) Sensei, let's get to work! Send weapons used by students as relief supplies."
+  },
+  {
     "repo": "darealmonika/galaxite",
     "internalName": "galaxite",
     "name": "Galaxite",
@@ -5938,18 +5950,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "random content i think of once in a while"
-  },
-  {
-    "repo": "yukusoh/schalestaskmod",
-    "internalName": "schalestaskmod",
-    "name": "SCHALE'sTaskMod",
-    "author": "YukuSOH",
-    "lastUpdated": "2023-05-15T11:37:04Z",
-    "stars": 1,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "(This mod is BlueArchive fan mod.) Sensei, let's get to work! Send weapons used by students as relief supplies."
   },
   {
     "repo": "balam314/flarogus-texture",
@@ -8268,18 +8268,6 @@
     "description": "A texture pack that makes the unloader a companion cube.\n\nTurns the unloader to a companion cube from portal."
   },
   {
-    "repo": "bluetechnocat/convenience-mod",
-    "internalName": "convenience-mod",
-    "name": "Convenience Mod",
-    "author": "[#0088ff]Blue[]Techno",
-    "lastUpdated": "2024-05-09T13:14:18Z",
-    "stars": 0,
-    "minGameVersion": "144",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Because you can't have too much convenience"
-  },
-  {
     "repo": "whxtdxsa/polar-logic",
     "internalName": "polar-logic",
     "name": "PolarLogic",
@@ -8986,5 +8974,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Lots of cool and nerdy stuff get added."
+  },
+  {
+    "repo": "bluetechnocat/convenience-mod",
+    "internalName": "convenience-mod",
+    "name": "Convenience Mod",
+    "author": "[#0088ff]Blue[]Techno",
+    "lastUpdated": "2024-10-29T15:53:14Z",
+    "stars": 0,
+    "minGameVersion": "144",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Because you can't have too much convenience"
   }
 ]
