@@ -29,7 +29,7 @@
     "name": "BetaMindy",
     "author": "sk7725",
     "lastUpdated": "2023-05-16T03:09:57Z",
-    "stars": 332,
+    "stars": 331,
     "minGameVersion": "144",
     "hasScripts": false,
     "hasJava": true,
@@ -41,7 +41,7 @@
     "name": "FactoryDustry - TexturePack",
     "author": "Xelo",
     "lastUpdated": "2023-12-30T21:48:42Z",
-    "stars": 228,
+    "stars": 227,
     "minGameVersion": "140.4",
     "hasScripts": true,
     "hasJava": false,
@@ -396,18 +396,6 @@
     "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
   },
   {
-    "repo": "twcash/aquarion",
-    "internalName": "aquarion",
-    "name": "Aquarion",
-    "author": "twcash",
-    "lastUpdated": "2024-10-25T13:33:20Z",
-    "stars": 46,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Aquarion is a mod recreating Tantros, including a custom campaign with a new planet with custom units, blocks, and soundtrack."
-  },
-  {
     "repo": "flintyx/animalia",
     "internalName": "animalia",
     "name": "Animalia",
@@ -418,6 +406,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A fun mod that contains Animals, Plants, Natural disasters and a lot more!"
+  },
+  {
+    "repo": "twcash/aquarion",
+    "internalName": "aquarion",
+    "name": "Aquarion",
+    "author": "twcash",
+    "lastUpdated": "2024-10-25T13:33:20Z",
+    "stars": 45,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Aquarion is a mod recreating Tantros, including a custom campaign with a new planet with custom units, blocks, and soundtrack."
   },
   {
     "repo": "eyeofdarkness/flameout",
@@ -448,7 +448,7 @@
     "internalName": "test-utils",
     "name": "Testing Utilities",
     "author": "MEEP of Faith",
-    "lastUpdated": "2024-10-31T09:04:34Z",
+    "lastUpdated": "2024-10-31T21:27:42Z",
     "stars": 40,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -700,7 +700,7 @@
     "internalName": "psammos",
     "name": "Psammos Mod",
     "author": "AndromedaGalaxy29",
-    "lastUpdated": "2024-10-31T13:54:03Z",
+    "lastUpdated": "2024-10-31T21:13:42Z",
     "stars": 22,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -916,7 +916,7 @@
     "internalName": "gloomustry",
     "name": "Gloomistry",
     "author": "FunGame(фан)",
-    "lastUpdated": "2024-08-21T12:20:21Z",
+    "lastUpdated": "2024-10-31T22:00:53Z",
     "stars": 16,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2424,18 +2424,6 @@
     "description": "Total conversion PVP mod set in fantasy medieval times"
   },
   {
-    "repo": "nannerbz/frires-json-library",
-    "internalName": "frires-json-lib",
-    "name": "FrireDragon's Json Lib",
-    "author": "Nannerbz / FrireDragon",
-    "lastUpdated": "2024-08-24T10:39:04Z",
-    "stars": 6,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A java mod Designed to be used by Json mods to add more depth to the game, adding new types of various things to make Json modding more diverse. \n\nCurrently in the early stages of development, not much added but more will be soon."
-  },
-  {
     "repo": "electricgun/video-to-logic",
     "internalName": "v2logic",
     "name": "Video to Logic",
@@ -2820,6 +2808,18 @@
     "description": "A mod which allows Erekir blocks to be used on Serpulo using Serpulo resources"
   },
   {
+    "repo": "nannerbz/frires-json-library",
+    "internalName": "frires-json-lib",
+    "name": "FrireDragon's Json Lib",
+    "author": "Nannerbz / FrireDragon",
+    "lastUpdated": "2024-08-24T10:39:04Z",
+    "stars": 5,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A java mod Designed to be used by Json mods to add more depth to the game, adding new types of various things to make Json modding more diverse. \n\nCurrently in the early stages of development, not much added but more will be soon."
+  },
+  {
     "repo": "ilya246/mindustry10x",
     "internalName": "mindustry10x",
     "name": "mindustry10x",
@@ -2908,7 +2908,7 @@
     "internalName": "bl-ui-lib",
     "name": "Bottom Left UI Lib",
     "author": "MEEPofFaith",
-    "lastUpdated": "2024-10-31T17:59:39Z",
+    "lastUpdated": "2024-10-31T21:48:02Z",
     "stars": 5,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -3528,18 +3528,6 @@
     "description": "Aming to make the client a bit better for casting! with ease of use, simplicity and elegance in mind \n \n Java rewrite of 'JiroCab/Caster-Ui' which was based off 'Ferlern/extended-UI' \nconflicts with 'Ferlern/extended-UI'  \n\nPLEASE DON'T THIS FOR AN ADVANTAGE IN PVP THANKS"
   },
   {
-    "repo": "haznobrain/tower-defense-molten",
-    "internalName": "towerdefensemolten",
-    "name": "Tower Defense: Molten",
-    "author": "Haznobrain",
-    "lastUpdated": "2024-10-31T17:59:55Z",
-    "stars": 4,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mindustry mod i made out of boredom because i really really liked the original Tower Defense mod by AForgetfulness."
-  },
-  {
     "repo": "new-guys5634/mechy-chaos",
     "internalName": " mech ",
     "name": "combat dustry",
@@ -3550,6 +3538,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": " a mod that adds a new planet and it focuses on combat\n\na planet called shards was located far away from the sun\nyour sent mission was to destroy this planet but you went to investigate the new planet but soon to discover this planet had been destroyed but what lives on this planet and why...\n\n\nEnjoy the chaos!"
+  },
+  {
+    "repo": "haznobrain/tower-defense-molten",
+    "internalName": "towerdefensemolten",
+    "name": "Tower Defense: Molten",
+    "author": "Haznobrain",
+    "lastUpdated": "2024-10-31T21:01:41Z",
+    "stars": 4,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mindustry mod i made out of boredom because i really really liked the original Tower Defense mod by AForgetfulness."
   },
   {
     "repo": "mythril382/u-r-a-i-c",
@@ -7032,18 +7032,6 @@
     "description": "\n[#00382b]I[#013a33]n[#1f4037]f[#2f4538]in[#1f4037]i[#013a33]t[#00382b]y 0.2Z\n[white]Mindustry Modification 10.10.2024\n"
   },
   {
-    "repo": "chuvaak/futurehorizons",
-    "internalName": "futurehorizons",
-    "name": "Future Horizons",
-    "author": "Chuvaak",
-    "lastUpdated": "2024-10-29T09:55:51Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Somewhat advanced endgame technologies. It is recommended to disable vertical synchronization."
-  },
-  {
     "repo": "xpdustry/kotlin-runtime",
     "internalName": "kotlin-runtime",
     "name": "KotlinRuntime",
@@ -7054,6 +7042,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A companion mod for Kotlin based mods and plugins."
+  },
+  {
+    "repo": "chuvaak/futurehorizons",
+    "internalName": "futurehorizons",
+    "name": "Future Horizons",
+    "author": "Chuvaak",
+    "lastUpdated": "2024-10-31T21:31:28Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Somewhat advanced endgame technologies. It is recommended to disable vertical synchronization."
   },
   {
     "repo": "kapzduke/vanilla-extension",
