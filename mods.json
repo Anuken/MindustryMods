@@ -576,18 +576,6 @@
     "description": "Adds byte logic blocks from v5"
   },
   {
-    "repo": "mnemotechnician/new-console",
-    "internalName": "newconsole",
-    "name": "New Console",
-    "author": "Mnemotechnician",
-    "lastUpdated": "2024-03-05T20:12:41Z",
-    "stars": 29,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds a console ui superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more,\na good log panel, execution history - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
-  },
-  {
     "repo": "zeutd/disintegration",
     "internalName": "disintegration",
     "name": "Disintegration",
@@ -600,11 +588,23 @@
     "description": "A Mindustry Java mod."
   },
   {
+    "repo": "mnemotechnician/new-console",
+    "internalName": "newconsole",
+    "name": "New Console",
+    "author": "Mnemotechnician",
+    "lastUpdated": "2024-03-05T20:12:41Z",
+    "stars": 28,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a console ui superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more,\na good log panel, execution history - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
+  },
+  {
     "repo": "sublemon-team/subvoyage",
     "internalName": "subvoyage",
     "name": "Subvoyage",
     "author": "Skoow, IriDark",
-    "lastUpdated": "2024-11-08T10:07:11Z",
+    "lastUpdated": "2024-11-08T13:36:11Z",
     "stars": 26,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -1284,6 +1284,18 @@
     "description": "The ultimate form of the ultimate form. Multiplayer compatible. Also supports modded distributors."
   },
   {
+    "repo": "apszoldat/mindustrymappingutilities",
+    "internalName": "mapping-utilities",
+    "name": "Mapping Utilities",
+    "author": "ApsZoldat",
+    "lastUpdated": "2024-05-08T21:06:59Z",
+    "stars": 13,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "> This is an enhanced remake of old Mapping Utilities, however, it's WIP, so it has way less features yet. Currently i am trying to implement some acceptable old mod's features into vanilla through pull requests, but the all the controversial features and bypasses will remain a part of this mod.\n\n\nSmall Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\n\nImprovements:\n\n- More Rules Available\n- Planet Background Editing\n- Map Size bypass\n\n\nCheck README.md in GitHub repo for more detailed information about these features\n\n! Work In Progress !\nMore map making tools will be added in future"
+  },
+  {
     "repo": "tcookiem/yeeter-mod",
     "internalName": "yeeter-mod",
     "name": "Yeeter Mod",
@@ -1330,18 +1342,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod plays soundtracks from the game Halo 3: ODST. \n\nWarning: This is a heavy mod, download using Wi-Fi is recommended."
-  },
-  {
-    "repo": "apszoldat/mindustrymappingutilities",
-    "internalName": "mapping-utilities",
-    "name": "Mapping Utilities",
-    "author": "ApsZoldat",
-    "lastUpdated": "2024-05-08T21:06:59Z",
-    "stars": 12,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "> This is an enhanced remake of old Mapping Utilities, however, it's WIP, so it has way less features yet. Currently i am trying to implement some acceptable old mod's features into vanilla through pull requests, but the all the controversial features and bypasses will remain a part of this mod.\n\n\nSmall Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\n\nImprovements:\n\n- More Rules Available\n- Planet Background Editing\n- Map Size bypass\n\n\nCheck README.md in GitHub repo for more detailed information about these features\n\n! Work In Progress !\nMore map making tools will be added in future"
   },
   {
     "repo": "abe-ischarlie/op-mod",
@@ -1504,7 +1504,7 @@
     "internalName": "olupis",
     "name": "Nyfalis (Olupis)",
     "author": " ;3\nProgramming:\nRushieWashie, Siede, WMF Industries, Otamamori \n---------------------\nSprites:\nRushieWashie, NightmarishWolf, Ethanol10, kapzduke, Otamamori, Catana, Lixie, ItsKirby69\n---------------------\nMaps:\nRushieWashie, MrApple, NightmarishWolf ",
-    "lastUpdated": "2024-11-05T06:46:42Z",
+    "lastUpdated": "2024-11-08T12:03:50Z",
     "stars": 11,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1788,18 +1788,6 @@
     "description": "Stripped down version of the original mod. Contains only CLaJ and enlarged schematics."
   },
   {
-    "repo": "electricgun/toggle-editor-mode",
-    "internalName": "toggle-editor-mode",
-    "name": "Toggle Editor Mode",
-    "author": "ElectricGun",
-    "lastUpdated": "2024-02-18T14:48:01Z",
-    "stars": 9,
-    "minGameVersion": "138",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Allows access to Editor Mode on Sandbox and Singleplayer\n\nDoes not work on Multiplayer and Campaign.\n\nUpdate: Fixed map editor crash and delay."
-  },
-  {
     "repo": "bloody-ocean/bloodyvisual",
     "internalName": "vu",
     "name": "Visual Units",
@@ -1978,6 +1966,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Displays all bridge links. Helps with bridge weaving"
+  },
+  {
+    "repo": "electricgun/toggle-editor-mode",
+    "internalName": "toggle-editor-mode",
+    "name": "Toggle Editor Mode",
+    "author": "ElectricGun",
+    "lastUpdated": "2024-02-18T14:48:01Z",
+    "stars": 8,
+    "minGameVersion": "138",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Allows access to Editor Mode on Sandbox and Singleplayer\n\nDoes not work on Multiplayer and Campaign.\n\nUpdate: Fixed map editor crash and delay."
   },
   {
     "repo": "plsubfarm61/project_b",
@@ -3652,7 +3652,7 @@
     "internalName": " mech ",
     "name": "combat dustry",
     "author": "beee",
-    "lastUpdated": "2024-11-07T19:10:02Z",
+    "lastUpdated": "2024-11-08T12:34:47Z",
     "stars": 4,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -9112,7 +9112,7 @@
     "internalName": "mod-ar",
     "name": "Ark of Rebirth",
     "author": "sharga",
-    "lastUpdated": "2024-11-08T12:00:39Z",
+    "lastUpdated": "2024-11-08T13:22:32Z",
     "stars": 0,
     "minGameVersion": "146",
     "hasScripts": false,
