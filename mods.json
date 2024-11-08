@@ -312,6 +312,18 @@
     "description": "FOS is a large-scale mod with a campaign that contains a brand-new solar system and unique mechanics."
   },
   {
+    "repo": "willoizcitron/archivedustry-java",
+    "internalName": "",
+    "name": "ArchiveDustry Java",
+    "author": "WilloIzCitron. Copyrights remains with Nexon, Nexon Games and Yostar",
+    "lastUpdated": "2024-11-03T00:29:26Z",
+    "stars": 54,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "This is a fanmade mod of Blue Archive Soundtrack in Mindustry.\n\n[yellow]Purposes:[]\nThis mod replace vanilla soundtrack into Blue Archive Soundtrack, also add additional soundtrack for essentials and the halo too!.\n\n[red]⚠ NOTICE ⚠:[]\nThis mod is a fan-made project inspired by Blue Archive and not directly affiliated with it. Copyright remains with the developer and publisher of Blue Archive:Nexon, Nexon Games and Yostar."
+  },
+  {
     "repo": "petruchiorus/lead_ind",
     "internalName": "lead_ind",
     "name": "Lead Industries",
@@ -564,6 +576,18 @@
     "description": "Adds byte logic blocks from v5"
   },
   {
+    "repo": "mnemotechnician/new-console",
+    "internalName": "newconsole",
+    "name": "New Console",
+    "author": "Mnemotechnician",
+    "lastUpdated": "2024-03-05T20:12:41Z",
+    "stars": 29,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a console ui superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more,\na good log panel, execution history - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
+  },
+  {
     "repo": "zeutd/disintegration",
     "internalName": "disintegration",
     "name": "Disintegration",
@@ -574,6 +598,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod."
+  },
+  {
+    "repo": "sublemon-team/subvoyage",
+    "internalName": "subvoyage",
+    "name": "Subvoyage",
+    "author": "Skoow, IriDark",
+    "lastUpdated": "2024-11-07T17:23:31Z",
+    "stars": 26,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Aquatic-stylized mod with new planet and unique mechanics"
   },
   {
     "repo": "deltanedas/unit-factory",
@@ -636,6 +672,18 @@
     "description": "Some content for people to enjoy :>\n-Current version : 1.7 [EoL]"
   },
   {
+    "repo": "way-zer/contentstweaker",
+    "internalName": "contentstweaker",
+    "name": "ContentsTweaker-内容包修改器",
+    "author": "WayZer",
+    "lastUpdated": "2024-08-04T06:54:03Z",
+    "stars": 23,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Dynamic load custom contents patch account to server"
+  },
+  {
     "repo": "teamviscott/modprojectviscott",
     "internalName": "project-viscott",
     "name": "Project Viscott",
@@ -646,6 +694,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Project viscott is a mindustry mod that adds a \nnew Planet to the campaign, Vercilus, and gives the player a new and unique gameplay experience \n\nThis mod is still in development. \n Expect it to have some slight balancing issues"
+  },
+  {
+    "repo": "uujuju1/steam-works",
+    "internalName": "sw",
+    "name": "Steam Works",
+    "author": "Liz Aurora",
+    "lastUpdated": "2024-11-08T00:04:21Z",
+    "stars": 23,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A tech demo mod with a bunch of stuff, whose content is all in lore made by the pure will of a person."
   },
   {
     "repo": "anuken/wind3",
@@ -732,6 +792,18 @@
     "description": "A mod provides a variety of tools for modding.\n\n-----------------\nVersion 1.5.2\n## Highlight\n- Fixed some serious bugs.\n- Better experience.\n- Fixed some bugs.\n-----------------\n\n## ShowUIList\n\n- Display `icon`, `tex`, `styles`, `colors`, `interps`\\\n!(./screenshots/UIList.png)\n\n## Tester\n\n!(./screenshots/tester.png)\n\n- Provide `JS` editor `Tester`\n- Shortcuts\n- Press `Ctrl`+`Shift`+`Enter` to `execute` code immediately\n- Press `Ctrl`+`Shift`+`↑/↓` to switch `history` records\n- Press `Ctrl`+`Shift`+`D` to `view` detailed information\n- Press `Alt`+`V` to preview `Texture`\n- Built-in `unsafe`, `lookup`\n- Built-in `IntFunc` class (abbreviated as `$`)\n- `$.xxx` can represent primitive data types (e.g., `$.void` represents `Void.TYPE`;`$.J` represents long.class)\n- `$p` represents `Packages`\n- Code: [JSFunc](https://github.com/i-hope1/mod-tools/src/modtools/utils/JSFunc.java)\n- Long press on code in the favorites to add to startup items\\\n!(./screenshots/startup.png)\n- Quick switch history\\\n![Screenshot 2024-03-10 14-45-37](https://github.com/I-hope1/mod-tools/assets/78016895/4918af35-19af-4fab-b961-70bdc8679fe8)\n- `$.item`, `$.liquid`, `$.unit` and so on.\n\n## UnitSpawn\n\n- Multiple team selection\n- Support for fixed point spawning\n- Display `name` and `localizedName`\n- Rightclick the name Label to copy save as JS var.\n\n## Selection\n\n- Selector\n- Supports `Tile`, `Building`, `Bullet`, `Unit`\n- Kill\n- Set Item/Liquid/Team\n- Press `Ctrl`+`Alt` to fix Focus Window\n\n## ReviewElement\n\n- Display element list, double-click to copy element to js variable\n- `Ctrl`+`Shift`+`C` to Inspect Element\n- `Ctrl`+`Alt`+`D` to display bounds of Element\n- Select untouchable elements\n- Mobile: Filter current element with two fingers\n- PC: Press `F` to filter current element\n- Functions shortcuts for Element\n- `i`: display details (open ShowInfoWindow)\\\n- `p`(for Image):  show `DrawablePicker`\n- `del`: (`shift` to ignore confirmation), delete element\n- `<` / `>`: collapse Group\n- `f`: fix floating Info column\n- `r`: invoke element's method\n\n- ![reviewElement](./screenshots/review_element.png)\n\n# Frag\n\n- Double-click the blue part of Frag to minimize/restore Frag\n- In the minimized state, click the blue part, it will behave like a floating ball\n\n## Window\n\n- Press `Ctrl`+`Tab` to switch windows\n- Press `Shift`+`F4` to close current window\n- RClick the close button to move and scl window.\n\n## ShowInfoWindow\n\n- Show all fields, methods, constructors and nested classes of a obj.\n- Field can be modified.\n- Method can be Invoked(Special).\n- Constructor can be invoked to new a instance.\n\n## Others\n\n### Extensions\n- Http Redirect\n> Redirect some websites, such as: github\\\n> Configuration file: b0kkihope/http_redirect.properties"
   },
   {
+    "repo": "vvseangtvv/project-restoration",
+    "internalName": "restored-mind",
+    "name": "Project: Restoration",
+    "author": "VvSeanGtvV",
+    "lastUpdated": "2024-11-07T16:00:00Z",
+    "stars": 21,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry builds including some classic ones are added to Mindustry v7!"
+  },
+  {
     "repo": "sk7725/testers",
     "internalName": "testers",
     "name": "Testers",
@@ -816,6 +888,30 @@
     "description": "No description provided."
   },
   {
+    "repo": "dong-wo-long/betterdustrymod",
+    "internalName": "bsm",
+    "name": "Betterustry Mod",
+    "author": "D&X",
+    "lastUpdated": "2024-10-21T19:29:09Z",
+    "stars": 18,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "= = = = = Титры / Titles = = = = =\nАнглийской версии, вероятно, не будет, да и вам это не нужно знать / There probably won't be an English version, but you don't need to know that\n\nОх, щас как люто накринжую! - Надеюсь, что после этого живым останусь (Слабонервным не читать, а инфу о моде читать ниже)\nНе просите убрать, я не хочу оставлять людей безызвестными насовсем, скорее как памятка о былом\n\nХмм, мне кажется титры должны быть не здесь... хотя это скорее послесловие... Но какая разница? Для меня это не имеет значения.\nМод не умер, по крайней мере сейчас... заниматься им бы я не стал.\nНе знаю как будет дальше, буквально, простите, что вот так подставляю, но... Вот так вот уж вышло.\n\nЭххх... И всё таки моддинг - это не моё. Я люблю мод, но это не вся моя жизнь.\nС цифрами я вообще не дружу - да и похрен!\nЯ любил своё дело - баланс кнш говно из-за этой причины, но какой уж я есть - не всем ведь идеальными быть?..\n\nЯ бы может отдал мод в добрые руки, но увы, переживаю за сохранность оригинала, да и в целом, не хочу обесценивать труд определенных людей для этого мода.\n\nВсем большое спасибо кто был рядом и поддерживал меня, особенно я бы выделил парочку людей, в основном связанных с ППТР:\n\nСлот (или же Саловый Лорд) - \"buff swarmer :ranai:\" - боже... да забаффаю я твои Свармеры! Только не сейчас... Когда-нить, если не впадлу будет. Спасибо за поддержку!\n\nДошик (Капитан Дошираковой гвардии) - ну тут я не знаю, спасибо просто? Было весело)\n\nДикобраз (Дик Образ) - появился ненадолго, но всё равно запомнил.\nПускай у тебя карты это настоящая дрочь - всё равно было неплохо поиграться с модом, забавно и задорно\n\nКот (Дед) - ля, несмотря на то, что ты старпер, но в целом, ладно уж, хрен с тобой\n\nСерж (Дурмиендович) - спасибо за участие, надеюсь ты когда-нибудь завершишь Суено (и я смогу поиграть, наверное)\n\nЭнлесс - я так и не понял: Слот или Энлесс тогда говорили в микро? Неважно, просто благодарю за помощь в захвате ППТР)\n\nНекит - аху- стратег, только бы видели как он командовал - лучший лидер, мне понравилось слушать каждый раз брифинги по ППТР. И всё же не без греха... Зря ты Окты использовал. Но да ладно, спасибо всё равно\n\nКрита - ох, банально было бы просто поблагодарить, но я не знаю, что сказать, ну... Милашка >.<\nСлушать твой голос - одно удовольствие в то время было\n\nАйвик - я даже не заметил как много времени прошло с первого знакомства. Честно, если бы была возможность повернуть время вспять - я бы так и сделал. Жаль, что не смог сделать Эрекир таким каким ты хотел. Прости, и спасибо, было весело - и я до сих пор помню как ты поливал меня всеми возможными скверными словами, но обиду не держу)))\n\nЕва - хоть ты и любила много ныть, но, мне это всё равно нравилось.) Если честно, я бы сыграл хотя бы ещё разочек на ППТР... Серьезно, почему бы и нет? Но видимо не судьба. И да, не вини себя, я не держу обид, уж не люблю это. Спасибо за всё)\n\nВсе они - специфические люди, со своими загонами кнш, может быть личными проблемами, возможно даже вы слышите о них впервые, но не плохие, как считают \"некоторые\" люди - во всяком случае я о них так никогда не думал. И всё таки, всех их я люблю, ценю, уважаю и обожаю по-своему...\n\nЕсли буду нужен, вспомните о старом, обо мне или вы захотите высказаться мне всё про мод, обосрать с ног до головы, то вы всегда можете найти меня по символу (Лямбды) или по старому нику _KD - [(Лямбда)] - WL_#4534 (себе в этом просто не изменяю, да и смысл менять? Люди привыкли Лямбдой называть) - буду рад всем)))\nЗагуглите че вщ за \"Лямбда\" такая, а то ещё напишите ник полностью, в тупую, и не найдете\n\nИ напоследок так, разрывная:\nИДИ НАХУЙ КОСТЯ (KOSTOLOM)\n\nА, вы это читали с музыкой? Если нет, то перечитайте ещё раз, желательно что-то на уровне \"Драматургия\" - Eve MV выбрать\nВероятно, когда я это всё писал, то где-то допустил ошибку, но да и похуй - всё это я от души ведь делал\n\n= = = = = О моде / About mod = = = = =\nRU: Очень опасный мод, который влияет на баланс и механику игры, добавляет новый контент в виде статус эффектов и оборонительных сооружений (башен, мин и т.д.).\n\nРекомендуется перед установкой сделать сохранение (чтобы откатиться назад), если в случае вам не понравится то, что может сделать данный мод. И лучше в самом деле не рискуйте лишний раз и поверьте на слово: МОД. МЕНЯЕТ. МНОГОЕ.\n\n\n\nENG: A very dangerous mod that affects the balance and mechanics of the game, adds new content in the form of status effects and defensive structures (towers, mines, etc.).\n\nPreferably before installing make a save (to roll back), if in case you do not like what this mod can do. And it is better to really do not take unnecessary risks and take my word for it: MOD. CHANGES. MULTIPLE.\n\nSpecial thanks:\n- inflarespirit (eve_light)\n- 6matie9 (.miaofficial.)\n- ARmOrDer"
+  },
+  {
+    "repo": "haznobrain/erekir-liquefied",
+    "internalName": "erekirliquefied",
+    "name": "Erekir Liquefied",
+    "author": "Haznobrain",
+    "lastUpdated": "2024-10-22T10:59:58Z",
+    "stars": 18,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod that was originally meant to add liquid related stuff to erekir but i ended up having too many ideas.\n  helpers: GameStuffOfficial, @mr_shapka228, @smolkeys_\n  special thanks to u/WishboneOk8660 on reddit, who made amazing fanart of the mod and the og idea for the support boat line."
+  },
+  {
     "repo": "yuria-shikibe/gameinfoimager",
     "internalName": "game-info-imager",
     "name": "Game Info Imager",
@@ -840,6 +936,18 @@
     "description": "Small Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\nImprovements:\n\n- Mixed Tech Unlocked\n- More Rules Available\n- Better Cliff Editing\n- Numbered Teams Editing\n- Planet Background Editing\n- Any Brush Size\n\nCheck README.md in GitHub repo for more detailed information\n\n! Work In Progress !\nMore map making tools will be added in future"
   },
   {
+    "repo": "theangelurd/additional-content",
+    "internalName": "additional-content",
+    "name": " Additional  Content",
+    "author": "Tayros/theangelurd",
+    "lastUpdated": "2024-01-07T23:28:38Z",
+    "stars": 17,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "I know the name is very boring but i can't find another name. A mod that adds a great amount of content to the game. Have fun with the mod."
+  },
+  {
     "repo": "yaddrx2/yr2-logic-debugger",
     "internalName": "yr2-logic-debugger",
     "name": "yr2 Logic Debugger",
@@ -850,6 +958,30 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Logic Debugger\n\n一个逻辑辅助工具\n\n原作DeltaNedas/ldb\n\nyaddrx2将其升级到了137，仅供学习交流使用\n\n当前版本：1.7.0\n\n更新日志\n\nv1.0.1\n将mod版本升为137\n\nv1.0.2\n取消ui-lib的前置\n\nv1.0.3\n逻辑码编辑板\n新增代码语句的文本形式编辑\n\nv1.0.4\n逻辑块变量面板\n变量更新闪烁\n增加逻辑块所连方块的显示\n\nv1.0.5\n内存块编辑板\n内存值更新闪烁\n新增内存值的二进制形式视察\n实现内存值的十六进制形式编辑\n\nv1.0.6\n新增代码插入相关操作\n实现从剪切板导入代码块到指定位置\n\nv1.0.7\n新增面板的折叠按钮\n修复学术端运行mod导致的面板移位或覆盖\n修复面板横向抖动的bug\n\nv1.0.8\n单步调试面板\n实现代码单步运行调试\n\nv1.1.0\n新增调试面板设置断点\n实现运行到下一断点操作\n\nv1.1.1\n新增变量位置指示器\n显示单位变量的flag\n\nv1.2\n新增调试面板的运行位置追踪\n新增功能标签\n\nv1.3\n位置指示器增加变量名\n\nv1.4\n内存块面板增加内存值导入导出\n\nv1.5\n变量面板增加变量值导出\n\nv1.6\n内存面板的变量名筛选\n内存值导出筛选器\n\nv1.7\n增加信息板复制与导入"
+  },
+  {
+    "repo": "dong-wo-long/enhancementunits",
+    "internalName": "enhancement-units",
+    "name": "Enhancement Units",
+    "author": "D&X",
+    "lastUpdated": "2024-06-03T13:06:10Z",
+    "stars": 17,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "ATTENTION:\n\nFrom now on, the mod goes into experimental mode - this means that the balance may not be balanced, such as a Toxopid with a Corvus, whose attack radius go far beyond 60 cells!!!!!\nNevertheless, I advise you to calm down: when the mod reaches its peak (despite my crazy plans for it, the result of which you are already watching), I will make several versions to meet the needs of as many people as possible. In the meantime, it remains to wait. Sorry for the inconvenience.\n\nImportant:\n\nThis mod does not bring anything radically new to the game, but only expands the combat functionality of existing combat units.\n\nPlease pay attention:\n\nThe mod significantly redesigns units, changes the balance and generally complicates the game. Don't forget to make a backup in case you don't like the changes that the mod itself makes.\n\nP.S. The mod is made for ALE maps."
+  },
+  {
+    "repo": "saigon0nozomi/nightscape",
+    "internalName": "nscape",
+    "name": "NightScape",
+    "author": "Saigo no-nozomi. \n Few sprites from: Sundered \n Translation help: CyberSirnik",
+    "lastUpdated": "2024-11-07T09:16:57Z",
+    "stars": 17,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds hard new planet with unique content and new mechanics"
   },
   {
     "repo": "mnemotechnician/new-controls-public",
@@ -1356,7 +1488,7 @@
     "description": "My new planet mod!"
   },
   {
-    "repo": "zuoranartemwing/mindustryexpansion",
+    "repo": "bhizusryaaajyaqiu/mindustryexpansion",
     "internalName": "mindustry-expansion",
     "name": "Mindustry Expansion",
     "author": "[yellow]Zuoranartemwing\n\n[gray]Contributors:[blue]\nChaoticMarzu\nKanaede [yellow](has left the team since 08 May 2024)\n[#00ff][white]Jab005[yellow](has left the team since 20 July 2024)",
@@ -5608,7 +5740,7 @@
     "internalName": "nevorix",
     "name": "Nevorix",
     "author": "cewwi & JJ",
-    "lastUpdated": "2024-11-08T00:15:03Z",
+    "lastUpdated": "2024-11-08T00:51:28Z",
     "stars": 2,
     "minGameVersion": "146",
     "hasScripts": false,
