@@ -185,7 +185,7 @@
     "name": "Asthosus",
     "author": "Catana",
     "lastUpdated": "2024-11-03T21:09:32Z",
-    "stars": 85,
+    "stars": 86,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
@@ -1848,18 +1848,6 @@
     "description": "Dive into the past of a trauma-driven uprising."
   },
   {
-    "repo": "koctolom/mindustry-overhaul",
-    "internalName": "mov",
-    "name": "Mindustry Overhaul",
-    "author": "KOSTOLOM and D&X",
-    "lastUpdated": "2024-10-21T10:35:44Z",
-    "stars": 9,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "RU: Очень опасный мод, который влияет на баланс и механику игры, добавляет новый контент в виде статус эффектов и оборонительных сооружений (башен, мин и т.д.).\n\nРекомендуется перед установкой сделать сохранение (чтобы откатиться назад), если в случае вам не понравится то, что может сделать данный мод. И лучше в самом деле не рискуйте лишний раз и поверьте на слово: МОД. МЕНЯЕТ. МНОГОЕ.\n\n\n\nENG: A very dangerous mod that affects the balance and mechanics of the game, adds new content in the form of status effects and defensive structures (towers, mines, etc.).\n\n\nPreferably before installing make a save (to roll back), if in case you do not like what this mod can do. And it is better to really do not take unnecessary risks and take my word for it: MOD. CHANGES. EVERYTHING.\n\nmov mod test subjects:\n- eve_light."
-  },
-  {
     "repo": "situvngcd/mindustrymodtest",
     "internalName": "situvngcd-test-mod",
     "name": "SVN Test mod",
@@ -1894,6 +1882,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Sueno is a modification that allows you to go to a new planet with unique temperature mechanics"
+  },
+  {
+    "repo": "koctolom/mindustry-overhaul",
+    "internalName": "mov",
+    "name": "Mindustry Overhaul",
+    "author": "KOSTOLOM and D&X",
+    "lastUpdated": "2024-11-10T19:25:50Z",
+    "stars": 9,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "RU: Очень опасный мод, который влияет на баланс и механику игры, добавляет новый контент в виде статус эффектов и оборонительных сооружений (башен, мин и т.д.).\n\nРекомендуется перед установкой сделать сохранение (чтобы откатиться назад), если в случае вам не понравится то, что может сделать данный мод. И лучше в самом деле не рискуйте лишний раз и поверьте на слово: МОД. МЕНЯЕТ. МНОГОЕ.\n\n\n\nENG: A very dangerous mod that affects the balance and mechanics of the game, adds new content in the form of status effects and defensive structures (towers, mines, etc.).\n\n\nPreferably before installing make a save (to roll back), if in case you do not like what this mod can do. And it is better to really do not take unnecessary risks and take my word for it: MOD. CHANGES. EVERYTHING.\n\nmov mod test subjects:\n- eve_light."
   },
   {
     "repo": "liplum/bottledliquid",
@@ -3012,11 +3012,23 @@
     "description": "Adds Blastanium, a compound of Blast Compound and Plastanium, as ammo for Serpulo and Erekir turrets.\n\nBlastanium can be used in Salvos, Swarmers, Ripples, Cyclones, and Spectres, as well as Titans and Scathes. Blastanium used in a Scathe will not fire as a missile.\n\nDiscord Server: https://discord.com/invite/TJKZgr6UDg"
   },
   {
+    "repo": "jirocab/caster-ui-java",
+    "internalName": "caster-ui-java",
+    "name": "Caster User interface",
+    "author": "RushieWashie, WMF Industries",
+    "lastUpdated": "2024-11-06T11:14:21Z",
+    "stars": 5,
+    "minGameVersion": "140.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Aming to make the client a bit better for casting! with ease of use, simplicity and elegance in mind \n \n Java rewrite of 'JiroCab/Caster-Ui' which was based off 'Ferlern/extended-UI' \nconflicts with 'Ferlern/extended-UI'  \n\nPLEASE DON'T THIS FOR AN ADVANTAGE IN PVP THANKS"
+  },
+  {
     "repo": "andashikkozlov/thezsia-revival",
     "internalName": "thezsia1",
     "name": "Thezsia Revival",
     "author": "Programmers: AnDashik, Ace\nSpriters: AnDasik\nTesters: AnDashik, Ace, Sorokonozhka\nTranslators: AnDashik, Sputnuc, Ace\nMappers: ItzCraft, Andashik, Ace, Sorokonozhka\nComposer: Ace",
-    "lastUpdated": "2024-11-10T17:18:56Z",
+    "lastUpdated": "2024-11-10T18:05:14Z",
     "stars": 5,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -3648,23 +3660,11 @@
     "description": "Hbm's NTM (by Bobcat) in mindustry!\nAnd minecraft!\n\nOh...\nDisable linear filtering in settings!"
   },
   {
-    "repo": "jirocab/caster-ui-java",
-    "internalName": "caster-ui-java",
-    "name": "Caster User interface",
-    "author": "RushieWashie, WMF Industries",
-    "lastUpdated": "2024-11-06T11:14:21Z",
-    "stars": 4,
-    "minGameVersion": "140.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Aming to make the client a bit better for casting! with ease of use, simplicity and elegance in mind \n \n Java rewrite of 'JiroCab/Caster-Ui' which was based off 'Ferlern/extended-UI' \nconflicts with 'Ferlern/extended-UI'  \n\nPLEASE DON'T THIS FOR AN ADVANTAGE IN PVP THANKS"
-  },
-  {
     "repo": "new-guys5634/mechy-chaos",
     "internalName": " mech ",
     "name": "combat dustry",
     "author": "beee",
-    "lastUpdated": "2024-11-10T10:00:20Z",
+    "lastUpdated": "2024-11-10T19:41:39Z",
     "stars": 4,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -4522,6 +4522,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Working"
+  },
+  {
+    "repo": "routerxdd/eternity-case",
+    "internalName": "eternity-case",
+    "name": "Eternity case",
+    "author": "R.O.T.",
+    "lastUpdated": "2024-11-10T15:56:51Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Just mod with random shit"
   },
   {
     "repo": "wshon/mindustrytoolkit",
@@ -5748,18 +5760,6 @@
     "description": "Warning: This mod currently only supports clients above version be25394. Please do not download this mod for clients above version v146!\nInstall for fresh and revised mindustry experience.\nPlease note:\nThis Mod is a Java class Mod, therefore it does not support running on the iOS platform.\nTry not to mix with other Mods as much as possible to avoid unknown issues in the game."
   },
   {
-    "repo": "routerxdd/eternity-case",
-    "internalName": "eternity-case",
-    "name": "Eternity case",
-    "author": "R.O.T.",
-    "lastUpdated": "2024-11-10T15:56:51Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Just mod with random shit"
-  },
-  {
     "repo": "lossasikos/envedges",
     "internalName": "env-edges",
     "name": "Environment's Edges",
@@ -5776,7 +5776,7 @@
     "internalName": "resurrection",
     "name": "Resurrection",
     "author": "cewwi & JJ",
-    "lastUpdated": "2024-11-10T17:10:57Z",
+    "lastUpdated": "2024-11-10T19:23:59Z",
     "stars": 2,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -7140,18 +7140,6 @@
     "description": "go ahead, spam heater to ur crafters."
   },
   {
-    "repo": "haznobrain/stupiditydustry",
-    "internalName": "stupidustry",
-    "name": "Stupiditydustry",
-    "author": "Haznobrain",
-    "lastUpdated": "2024-11-08T15:44:31Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "An EXTREMELY stupid mod, everything becomes without logic and incredibly dum."
-  },
-  {
     "repo": "jalamaker/vanillaoverhaul",
     "internalName": "bettervanillamod",
     "name": "Vanilla Overhaul",
@@ -7198,6 +7186,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "New campaign on a molten planet."
+  },
+  {
+    "repo": "haznobrain/stupiditydustry",
+    "internalName": "stupidustry",
+    "name": "Stupiditydustry",
+    "author": "Haznobrain",
+    "lastUpdated": "2024-11-10T19:58:57Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "An EXTREMELY stupid mod, everything becomes without logic and incredibly dum."
   },
   {
     "repo": "kapzduke/vanilla-extension",
@@ -8940,18 +8940,6 @@
     "description": "This mod adds emerald things"
   },
   {
-    "repo": "justtheblazinggear/absolutemyriad",
-    "internalName": "absolute-myriad",
-    "name": "Absolute Myriad",
-    "author": "JustTBG",
-    "lastUpdated": "2024-09-23T13:00:22Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "I was testing"
-  },
-  {
     "repo": "edward-bill/inf-processor",
     "internalName": "inf-processor",
     "name": "World processor 2",
@@ -9166,5 +9154,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mindustry Kotlin mod adding energized materials. Android compatibility WIP."
+  },
+  {
+    "repo": "justtheblazinggear/absolutemyriad",
+    "internalName": "absolute-myriad",
+    "name": "Absolute Myriad",
+    "author": "JustTBG",
+    "lastUpdated": "2024-11-10T19:43:48Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "I was testing"
   }
 ]
