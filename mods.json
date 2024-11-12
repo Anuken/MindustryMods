@@ -365,7 +365,7 @@
     "name": "BioTech",
     "author": "Jammuu - EndoFreeze",
     "lastUpdated": "2024-10-23T02:05:27Z",
-    "stars": 51,
+    "stars": 52,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
@@ -648,18 +648,6 @@
     "description": "A currently [red]indev[] colab mod with huge scope, being built one planet at a time.\n\nAims to add several cold planets with linked campaigns, along with mechanics that'll [accent]revolutionise[] the way you interact with the mod's different environments, while trying to stay enjoyable and even a lil silly at times.\n\n[darkgray]A voice lingers in the darkness, dancing around your ears. Will you join it?"
   },
   {
-    "repo": "uujuju1/steam-works",
-    "internalName": "sw",
-    "name": "Steam Works",
-    "author": "Liz Aurora",
-    "lastUpdated": "2024-11-12T01:20:20Z",
-    "stars": 24,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A tech demo mod with a bunch of stuff, whose content is all in lore made by the pure will of a person."
-  },
-  {
     "repo": "stillwaterkay/dusted-lands",
     "internalName": "dusted-lands",
     "name": "Dusted Lands",
@@ -670,6 +658,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A small mod which adds powders to the game, along with some of turrets, units, and other content."
+  },
+  {
+    "repo": "uujuju1/steam-works",
+    "internalName": "sw",
+    "name": "Steam Works",
+    "author": "Liz Aurora",
+    "lastUpdated": "2024-11-12T21:55:15Z",
+    "stars": 24,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A tech demo mod with a bunch of stuff, whose content is all in lore made by the pure will of a person."
   },
   {
     "repo": "realshizi/oxynoe",
@@ -2388,6 +2388,18 @@
     "description": "work in progress\n blocks = 60%\n units = 20%\n blocks balance = 60% \n units balance = 0%\n sectors = 0% \n\n thx |Fox1va| what has opened me java"
   },
   {
+    "repo": "hao-1337/mindustry-better-vanilla",
+    "internalName": "hao1337-mod",
+    "name": "[ Better Vanilla ]",
+    "author": "Hao1337",
+    "lastUpdated": "2024-10-06T13:30:19Z",
+    "stars": 7,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Add something helpful for vanilla. Also have some better UI.\n\n- Coreitem display for mobile.\n- Unit conter display.\n- Time control.\n- Some change for vanilla (see in setting, default is off):\n+ Bigger vault, container and vault in Erekir.\n+ Bigger range for override dome, 200% speed up.\n+ Force projector have more shield health.\n- Auto update.\n- New contents as well:\n+ Thorium / surge conveyor (serpulo)\n+ Some storage blocks\n+ \"T6\" units\n- Aslo make some hidden contents available\n\nWarning: The mod under development, any contributions would be gratefully appreciated. See github for more details."
+  },
+  {
     "repo": "theserjio/advanceddatabase",
     "internalName": "advanced-database",
     "name": "Advanced DataBase",
@@ -2590,18 +2602,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod who adds a new planet, where we will play in underground"
-  },
-  {
-    "repo": "hao-1337/mindustry-better-vanilla",
-    "internalName": "hao1337-mod",
-    "name": "[ Better Vanilla ]",
-    "author": "Hao1337",
-    "lastUpdated": "2024-10-06T13:30:19Z",
-    "stars": 6,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Add something helpful for vanilla. Also have some better UI.\n\n- Coreitem display for mobile.\n- Unit conter display.\n- Time control.\n- Some change for vanilla (see in setting, default is off):\n+ Bigger vault, container and vault in Erekir.\n+ Bigger range for override dome, 200% speed up.\n+ Force projector have more shield health.\n- Auto update.\n- New contents as well:\n+ Thorium / surge conveyor (serpulo)\n+ Some storage blocks\n+ \"T6\" units\n- Aslo make some hidden contents available\n\nWarning: The mod under development, any contributions would be gratefully appreciated. See github for more details."
   },
   {
     "repo": "sputnuc/expansion",
@@ -3036,18 +3036,6 @@
     "description": "Adds Blastanium, a compound of Blast Compound and Plastanium, as ammo for Serpulo and Erekir turrets.\n\nBlastanium can be used in Salvos, Swarmers, Ripples, Cyclones, and Spectres, as well as Titans and Scathes. Blastanium used in a Scathe will not fire as a missile.\n\nDiscord Server: https://discord.com/invite/TJKZgr6UDg"
   },
   {
-    "repo": "andashikkozlov/thezsia-revival",
-    "internalName": "thezsia1",
-    "name": "Thezsia Revival",
-    "author": "Programmers: AnDashik, Ace\nSpriters: AnDasik\nTesters: AnDashik, Ace, Sorokonozhka\nTranslators: AnDashik, Sputnuc, Ace\nMappers: ItzCraft, Andashik, Ace, Sorokonozhka\nComposer: Ace",
-    "lastUpdated": "2024-11-12T10:27:37Z",
-    "stars": 5,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "New planet, new stuff, what a surprise\nNot dead now)"
-  },
-  {
     "repo": "jirocab/caster-ui-java",
     "internalName": "caster-ui-java",
     "name": "Caster User interface",
@@ -3058,6 +3046,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Aming to make the client a bit better for casting! with ease of use, simplicity and elegance in mind \n \n Java rewrite of 'JiroCab/Caster-Ui' which was based off 'Ferlern/extended-UI' \nconflicts with 'Ferlern/extended-UI'  \n\nPLEASE DON'T THIS FOR AN ADVANTAGE IN PVP THANKS"
+  },
+  {
+    "repo": "andashikkozlov/thezsia-revival",
+    "internalName": "thezsia1",
+    "name": "Thezsia Revival",
+    "author": "Programmers: AnDashik, Ace\nSpriters: AnDasik\nTesters: AnDashik, Ace, Sorokonozhka\nTranslators: AnDashik, Sputnuc, Ace\nMappers: ItzCraft, Andashik, Ace, Sorokonozhka\nComposer: Ace",
+    "lastUpdated": "2024-11-12T20:04:53Z",
+    "stars": 5,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "New planet, new stuff, what a surprise\nNot dead now)"
   },
   {
     "repo": "mythril382/self-destruct-core",
@@ -7020,6 +7020,18 @@
     "description": ""
   },
   {
+    "repo": "tolonewolf/mindustry-tweaked-textures",
+    "internalName": "tweaked-textures",
+    "name": "Tweaked Textures",
+    "author": "TOLoneWolf",
+    "lastUpdated": "2024-10-14T19:25:56Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Changes I made to make it easier for me to see items on conveyors."
+  },
+  {
     "repo": "volproil/ultimate-military-technic",
     "internalName": "ultimate-military-technic-mod",
     "name": "Ultimate Military Technic Mod",
@@ -9034,18 +9046,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Searching for new materials you decided to drill into the core of the planet, and you managed to find something that might change the tide in your favor..."
-  },
-  {
-    "repo": "tolonewolf/mindustry-tweaked-textures",
-    "internalName": "tweaked-textures",
-    "name": "Tweaked Textures",
-    "author": "TOLoneWolf",
-    "lastUpdated": "2024-10-14T19:25:56Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Changes I made to make it easier for me to see items on conveyors."
   },
   {
     "repo": "xblade720/better-logic-blocks",
