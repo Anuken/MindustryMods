@@ -5,7 +5,7 @@
     "name": "Exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2024-05-23T14:12:55Z",
-    "stars": 381,
+    "stars": 382,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -1120,7 +1120,7 @@
     "internalName": "mindustrytool",
     "name": "MindustryTool",
     "author": "VN-Shar",
-    "lastUpdated": "2024-11-12T16:42:28Z",
+    "lastUpdated": "2024-11-13T13:56:50Z",
     "stars": 15,
     "minGameVersion": "140",
     "hasScripts": false,
@@ -1204,7 +1204,7 @@
     "internalName": "as",
     "name": "Asterion",
     "author": " |Asterion Team| ",
-    "lastUpdated": "2024-11-12T17:29:29Z",
+    "lastUpdated": "2024-11-13T13:30:33Z",
     "stars": 14,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -3686,14 +3686,14 @@
   {
     "repo": "sputnuc/upgrated-tiers-unofficial",
     "internalName": "tiered",
-    "name": "Upgraded Tiers unofficial",
-    "author": "spunuc",
-    "lastUpdated": "2024-11-13T03:52:52Z",
+    "name": "Upgraded Tiers",
+    "author": "sputnuc",
+    "lastUpdated": "2024-11-13T13:24:02Z",
     "stars": 4,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
-    "description": "- This mod adds in 1 or 2 higher tiers of vanilla blocks. Mod is still in development. More contents coming soon.\n- Mod unofficial.\n- original autor: mq_1175 "
+    "description": "- This mod adds in 1 or 2 higher tiers of vanilla blocks. Mod is still in development. More contents coming soon.\n- Erekir factories will be soon!!!.\n- Mod unofficial.\n- thanks to original autor: mq_1175 "
   },
   {
     "repo": "mythril382/u-r-a-i-c",
@@ -4564,7 +4564,7 @@
     "internalName": "mindustry-addon+",
     "name": "Mindustry Addon+",
     "author": "Kitrr1x",
-    "lastUpdated": "2024-11-13T11:48:00Z",
+    "lastUpdated": "2024-11-13T12:39:29Z",
     "stars": 3,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -7176,18 +7176,6 @@
     "description": "A interesting mod. \n!!! Under development now. Coming soon."
   },
   {
-    "repo": "eight-squared/iron-clouds",
-    "internalName": "iron-clouds",
-    "name": "Iron clouds",
-    "author": "Eight Squared",
-    "lastUpdated": "2024-11-11T10:36:32Z",
-    "stars": 1,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "New campaign on a molten planet."
-  },
-  {
     "repo": "xpdustry/kotlin-runtime",
     "internalName": "kotlin-runtime",
     "name": "KotlinRuntime",
@@ -7198,18 +7186,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A companion mod for Kotlin based mods and plugins."
-  },
-  {
-    "repo": "mikka6489/engineer-gaming",
-    "internalName": "engineer gaming",
-    "name": "engineer-gaming",
-    "author": "Mikka & Westycj",
-    "lastUpdated": "2024-11-12T16:51:24Z",
-    "stars": 1,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "this mod contains wips, unpolished blocks and random crap like new conveyors, turrets and resources."
   },
   {
     "repo": "chuvaak/futurehorizons",
@@ -7234,6 +7210,30 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "联机mod，支持自定义frpc，目前仅支持Android aarch64(项目正在重构，暂时不支持Windows amd64)"
+  },
+  {
+    "repo": "mikka6489/engineer-gaming",
+    "internalName": "engineer gaming",
+    "name": "engineer-gaming",
+    "author": "Mikka & Westycj",
+    "lastUpdated": "2024-11-13T12:36:45Z",
+    "stars": 1,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "this mod contains wips, unpolished blocks and random crap like new conveyors, turrets and resources."
+  },
+  {
+    "repo": "eight-squared/iron-clouds",
+    "internalName": "iron-clouds",
+    "name": "Iron clouds",
+    "author": "Eight Squared",
+    "lastUpdated": "2024-11-13T13:16:26Z",
+    "stars": 1,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "UNFINISHED New campaign on a molten planet."
   },
   {
     "repo": "kapzduke/vanilla-extension",
@@ -9168,18 +9168,6 @@
     "description": "Mindustry Kotlin mod adding energized materials. Android compatibility WIP."
   },
   {
-    "repo": "justtheblazinggear/absolutemyriad",
-    "internalName": "absolute-myriad",
-    "name": "Absolute Myriad",
-    "author": "JustTBG",
-    "lastUpdated": "2024-11-10T20:03:45Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "I was testing"
-  },
-  {
     "repo": "footfacelord/drill-speed-mod",
     "internalName": "cheat-drill-boost",
     "name": "Cheat Drill Boost",
@@ -9214,5 +9202,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\nThis is a very small mod that simply replaces some existing content in the game.\n\n--- -- -- - - -\n\nThis mod includes:\n-- Door: custom sprites, sound\n-- Logic: custom sprites\n\n--- -- -- - - -\n\nIt was created, at least, to slightly refresh the experience of constructing logic circuits from logic elements, in which a binary signal is transmitted through doors.\n"
+  },
+  {
+    "repo": "justtheblazinggear/absolutemyriad",
+    "internalName": "am",
+    "name": "Absolute Myriad",
+    "author": "JustTBG",
+    "lastUpdated": "2024-11-13T13:58:24Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Shit is raw and buggy don't play it"
   }
 ]
