@@ -1204,7 +1204,7 @@
     "internalName": "as",
     "name": "Asterion",
     "author": " |Asterion Team| ",
-    "lastUpdated": "2024-11-16T07:25:01Z",
+    "lastUpdated": "2024-11-16T11:01:56Z",
     "stars": 14,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -1680,6 +1680,18 @@
     "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Tags list allow manually sort, easier for tag selection.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
   },
   {
+    "repo": "fallingdice/flesh-mod",
+    "internalName": "flesh-mod",
+    "name": "Flesh Mod",
+    "author": "FallingDice",
+    "lastUpdated": "2024-10-27T02:31:58Z",
+    "stars": 10,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Add flesh units with various actions and skills, novel turrets and various objects. version 1.1"
+  },
+  {
     "repo": "suenodev/sueno",
     "internalName": "sueno",
     "name": "Sueno",
@@ -1882,18 +1894,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Dive into the past of a trauma-driven uprising."
-  },
-  {
-    "repo": "fallingdice/flesh-mod",
-    "internalName": "flesh-mod",
-    "name": "Flesh Mod",
-    "author": "FallingDice",
-    "lastUpdated": "2024-10-27T02:31:58Z",
-    "stars": 9,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Add flesh units with various actions and skills, novel turrets and various objects. version 1.1"
   },
   {
     "repo": "koctolom/mindustry-overhaul",
@@ -3612,18 +3612,6 @@
     "description": "黑暗终将退去，光辉终将到来，我们冲破黑暗，达到光明之地！\nQ群：575994735\n使用这个MOD来体验在mindustry中极不平衡（甚至有点离谱）的战役进度！"
   },
   {
-    "repo": "haznobrain/tower-defense-molten",
-    "internalName": "towerdefensemolten",
-    "name": "Tower Defense: Molten",
-    "author": "Haznobrain",
-    "lastUpdated": "2024-11-01T02:13:50Z",
-    "stars": 4,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mindustry mod i made out of boredom because i really really liked the original Tower Defense mod by AForgetfulness."
-  },
-  {
     "repo": "huanxefh/reindustrialization",
     "internalName": "reind",
     "name": "Reindustrialization",
@@ -3706,6 +3694,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Warning: This is not New Horizons.\nCredits to everyone who helped even in the slightest bit ever,\nDiscord Helpers: Mindustridiot/HazNoBrain - Unit suggestions and unit FX work, CY4NIDE - Railhammer unit FX work and suggestion"
+  },
+  {
+    "repo": "haznobrain/tower-defense-molten",
+    "internalName": "towerdefensemolten",
+    "name": "Tower Defense: Molten",
+    "author": "Haznobrain",
+    "lastUpdated": "2024-11-16T11:35:48Z",
+    "stars": 4,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mindustry mod i made out of boredom because i really really liked the original Tower Defense mod by AForgetfulness."
   },
   {
     "repo": "mythril382/u-r-a-i-c",
@@ -5796,18 +5796,6 @@
     "description": "why? furry zenith."
   },
   {
-    "repo": "wisadell/heavyindustrymod",
-    "internalName": "heavy-industry",
-    "name": "Heavy Industry",
-    "author": "Wisadell",
-    "lastUpdated": "2024-11-14T15:24:56Z",
-    "stars": 2,
-    "minGameVersion": "147.0",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Warning: This mod currently only supports clients above version be25394. Please do not download this mod for clients above version v146!\nInstall for fresh and revised mindustry experience.\nPlease note:\nThis Mod is a Java class Mod, therefore it does not support running on the iOS platform.\nTry not to mix with other Mods as much as possible to avoid unknown issues in the game."
-  },
-  {
     "repo": "cewwi/resurrection-mod",
     "internalName": "resurrection",
     "name": "Resurrection",
@@ -5818,6 +5806,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "We plan to add three new planets into the game, with two new tech trees.\n(actually might add much more, but one step at a time I guess)\n\nTronoe is a deserted planet with many ancient relics and long lost secrets.\nYour goal is to uncover these relics and piece together a machine that can take down the restless tyrant on Nevorix.\n\nOn the dark, irradiated wasteland of Iralius, you must research powerful turrets to overcome the mutated inhabitants.\n\nOn the ancient battlefield of Nevorix, you use the technologies that you have researched on Tronoe and Iralius to overcome an ancient enemy that has long gone undefeated. While winning the long - forgotten war, you will also discover new materials to create even more powerful weapons than before."
+  },
+  {
+    "repo": "wisadell/heavyindustrymod",
+    "internalName": "heavy-industry",
+    "name": "Heavy Industry",
+    "author": "Wisadell",
+    "lastUpdated": "2024-11-16T11:18:15Z",
+    "stars": 2,
+    "minGameVersion": "147.0",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Warning: This mod currently only supports clients above version be25394. Please do not download this mod for clients above version v146!\nInstall for fresh and revised mindustry experience.\nPlease note:\nThis Mod is a Java class Mod, therefore it does not support running on the iOS platform.\nTry not to mix with other Mods as much as possible to avoid unknown issues in the game."
   },
   {
     "repo": "teaeempire/gghv7",
