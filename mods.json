@@ -604,7 +604,7 @@
     "internalName": "subvoyage",
     "name": "Subvoyage",
     "author": "Skoow, IriDark",
-    "lastUpdated": "2024-11-17T11:05:17Z",
+    "lastUpdated": "2024-11-18T16:42:42Z",
     "stars": 27,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -736,7 +736,7 @@
     "internalName": "restored-mind",
     "name": "Project: Restoration",
     "author": "VvSeanGtvV",
-    "lastUpdated": "2024-11-18T05:47:19Z",
+    "lastUpdated": "2024-11-18T17:54:31Z",
     "stars": 23,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1048,7 +1048,7 @@
     "internalName": "mindustrytool",
     "name": "MindustryTool(Schematic, Map Browser)",
     "author": "VN-Shar",
-    "lastUpdated": "2024-11-17T18:22:51Z",
+    "lastUpdated": "2024-11-18T17:55:29Z",
     "stars": 16,
     "minGameVersion": "140",
     "hasScripts": false,
@@ -1192,7 +1192,7 @@
     "internalName": "as",
     "name": "Asterion",
     "author": " |Asterion Team| ",
-    "lastUpdated": "2024-11-18T14:16:53Z",
+    "lastUpdated": "2024-11-18T16:49:26Z",
     "stars": 14,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -1656,6 +1656,18 @@
     "description": "此mod分离自mod tools.\nFixed a lot of bugs."
   },
   {
+    "repo": "glennfolker/confictura",
+    "internalName": "",
+    "name": "Confictura",
+    "author": "GlFolker",
+    "lastUpdated": "2024-10-20T12:32:25Z",
+    "stars": 10,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Dive into the past of a trauma-driven uprising."
+  },
+  {
     "repo": "situvngcd/mindustrymodtest",
     "internalName": "situvngcd-test-mod",
     "name": "SVN Test mod",
@@ -1870,18 +1882,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod for showing damage numbers."
-  },
-  {
-    "repo": "glennfolker/confictura",
-    "internalName": "",
-    "name": "Confictura",
-    "author": "GlFolker",
-    "lastUpdated": "2024-10-20T12:32:25Z",
-    "stars": 9,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Dive into the past of a trauma-driven uprising."
   },
   {
     "repo": "koctolom/mindustry-overhaul",
@@ -5796,18 +5796,6 @@
     "description": "Have you ever wondered what it would be like if Mindustry sounded like an open-world RPG? Well, now you can, with these collection of music and SFX replacements from FFXIV, Library of Ruina, Arknights, Terraria, and more."
   },
   {
-    "repo": "wisadell/heavyindustrymod",
-    "internalName": "heavy-industry",
-    "name": "Heavy Industry",
-    "author": "Wisadell",
-    "lastUpdated": "2024-11-17T15:41:28Z",
-    "stars": 2,
-    "minGameVersion": "147.0",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Warning: This mod currently only supports clients above version be25394. Please do not download this mod for clients above version v146!\nInstall for fresh and revised mindustry experience.\nPlease note:\nThis Mod is a Java class Mod, therefore it does not support running on the iOS platform.\nTry not to mix with other Mods as much as possible to avoid unknown issues in the game."
-  },
-  {
     "repo": "bttodi/virtuality",
     "internalName": "virtuality",
     "name": "Virtuality",
@@ -5830,6 +5818,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "We plan to add three new planets into the game, with two new tech trees.\n(actually might add much more, but one step at a time I guess)\n\nTronoe is a deserted planet with many ancient relics and long lost secrets.\nYour goal is to uncover these relics and piece together a machine that can take down the restless tyrant on Nevorix.\n\nOn the dark, irradiated wasteland of Iralius, you must research powerful turrets to overcome the mutated inhabitants.\n\nOn the ancient battlefield of Nevorix, you use the technologies that you have researched on Tronoe and Iralius to overcome an ancient enemy that has long gone undefeated. While winning the long - forgotten war, you will also discover new materials to create even more powerful weapons than before."
+  },
+  {
+    "repo": "wisadell/heavyindustrymod",
+    "internalName": "heavy-industry",
+    "name": "Heavy Industry",
+    "author": "Wisadell",
+    "lastUpdated": "2024-11-18T16:40:19Z",
+    "stars": 2,
+    "minGameVersion": "147.0",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Warning: This mod currently only supports clients above version be25394. Please do not download this mod for clients above version v146!\nInstall for fresh and revised mindustry experience.\nPlease note:\nThis Mod is a Java class Mod, therefore it does not support running on the iOS platform.\nTry not to mix with other Mods as much as possible to avoid unknown issues in the game."
   },
   {
     "repo": "teaeempire/gghv7",
