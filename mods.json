@@ -5,7 +5,7 @@
     "name": "Exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2024-05-23T14:12:55Z",
-    "stars": 384,
+    "stars": 385,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -377,7 +377,7 @@
     "name": "MultiCrafter Lib",
     "author": "[#42a5f5]Liplum[] & Jojo",
     "lastUpdated": "2024-06-24T20:29:56Z",
-    "stars": 47,
+    "stars": 48,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
@@ -936,6 +936,18 @@
     "description": "Adds hard new planet with unique content and new mechanics"
   },
   {
+    "repo": "sh1penfire/meld",
+    "internalName": "meld",
+    "name": "Meld",
+    "author": "Sh1penfire",
+    "lastUpdated": "2024-11-20T13:12:18Z",
+    "stars": 18,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Trudge through Ikaru, home to the [#ea9ad6]Meld[]. Salvage the remains of previous incursions to fight off the wildlife.\n\nPlay as a naval core unit, using sonar pulses to scout out targets for your turrets and rally your units.\n\n[red]DEFEND, TAKE GROUND, HARVEST, REPEAT\n\n[accent]Please check releases and use the latest <Gameplay Test> version. Thanks~"
+  },
+  {
     "repo": "evo04taser/super-cheat",
     "internalName": "super-cheat",
     "name": "Super Cheat",
@@ -982,18 +994,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "ATTENTION:\n\nFrom now on, the mod goes into experimental mode - this means that the balance may not be balanced, such as a Toxopid with a Corvus, whose attack radius go far beyond 60 cells!!!!!\nNevertheless, I advise you to calm down: when the mod reaches its peak (despite my crazy plans for it, the result of which you are already watching), I will make several versions to meet the needs of as many people as possible. In the meantime, it remains to wait. Sorry for the inconvenience.\n\nImportant:\n\nThis mod does not bring anything radically new to the game, but only expands the combat functionality of existing combat units.\n\nPlease pay attention:\n\nThe mod significantly redesigns units, changes the balance and generally complicates the game. Don't forget to make a backup in case you don't like the changes that the mod itself makes.\n\nP.S. The mod is made for ALE maps."
-  },
-  {
-    "repo": "sh1penfire/meld",
-    "internalName": "meld",
-    "name": "Meld",
-    "author": "Sh1penfire",
-    "lastUpdated": "2024-11-20T13:12:18Z",
-    "stars": 17,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Trudge through Ikaru, home to the [#ea9ad6]Meld[]. Salvage the remains of previous incursions to fight off the wildlife.\n\nPlay as a naval core unit, using sonar pulses to scout out targets for your turrets and rally your units.\n\n[red]DEFEND, TAKE GROUND, HARVEST, REPEAT\n\n[accent]Please check releases and use the latest <Gameplay Test> version. Thanks~"
   },
   {
     "repo": "yuria-shikibe/gameinfoimager",
@@ -1192,7 +1192,7 @@
     "internalName": "as",
     "name": "Asterion",
     "author": " |Asterion Team| ",
-    "lastUpdated": "2024-11-19T18:41:20Z",
+    "lastUpdated": "2024-11-20T15:49:41Z",
     "stars": 14,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -1504,7 +1504,7 @@
     "internalName": "mindustry-expansion",
     "name": "Mindustry Expansion",
     "author": "[yellow]Zuoranartemwing\n\n[gray]Contributors:[blue]\nChaoticMarzu\nKanaede [yellow](has left the team since 08 May 2024)\n[#00ff][white]Jab005[yellow](has left the team since 20 July 2024)",
-    "lastUpdated": "2024-11-18T13:41:00Z",
+    "lastUpdated": "2024-11-20T15:00:27Z",
     "stars": 11,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -2680,7 +2680,7 @@
     "internalName": "",
     "name": "Complicatedustry",
     "author": "Hexazeta",
-    "lastUpdated": "2024-11-19T15:13:10Z",
+    "lastUpdated": "2024-11-20T14:29:47Z",
     "stars": 6,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2854,6 +2854,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds modest modifications to the default Mindustry sounds.\n\nChanges include:\n•UI Sounds\n•Block Sounds\n•Action Sounds\n•Ambient sounds"
+  },
+  {
+    "repo": "vernaon/mindustry-admin-button",
+    "internalName": "admin-icon-in-chat",
+    "name": "Admin button",
+    "author": "NothingImportant",
+    "lastUpdated": "2023-12-14T11:07:35Z",
+    "stars": 5,
+    "minGameVersion": "140",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a button that sends colorful  in chat\nUpdate: You can choose the symbol!"
   },
   {
     "repo": "theangelurd/mindustry-alasion",
@@ -7176,18 +7188,6 @@
     "description": "Somewhat advanced endgame technologies. It is recommended to disable vertical synchronization."
   },
   {
-    "repo": "eight-squared/iron-clouds",
-    "internalName": "iron-clouds",
-    "name": "Iron clouds",
-    "author": "Eight Squared",
-    "lastUpdated": "2024-11-13T13:16:26Z",
-    "stars": 1,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "UNFINISHED New campaign on a molten planet."
-  },
-  {
     "repo": "xpdustry/kotlin-runtime",
     "internalName": "kotlin-runtime",
     "name": "KotlinRuntime",
@@ -7258,6 +7258,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds new turrets, WIP."
+  },
+  {
+    "repo": "eight-squared/iron-clouds",
+    "internalName": "iron-clouds",
+    "name": "Iron clouds",
+    "author": "Eight Squared",
+    "lastUpdated": "2024-11-20T15:54:22Z",
+    "stars": 1,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "UNFINISHED New campaign on a molten planet."
   },
   {
     "repo": "kapzduke/vanilla-extension",
