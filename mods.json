@@ -5,7 +5,7 @@
     "name": "Exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2024-05-23T14:12:55Z",
-    "stars": 385,
+    "stars": 386,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -172,7 +172,7 @@
     "internalName": "omaloon",
     "name": "Omaloon",
     "author": "stabu_, uujuju, randomguy",
-    "lastUpdated": "2024-11-22T13:36:54Z",
+    "lastUpdated": "2024-11-22T19:48:03Z",
     "stars": 89,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -564,18 +564,6 @@
     "description": "V7 fixed, This mod contains all kinds of new resources, forges, materials and liquids.\nIt is still under development so feedback on the workshop is welcome. Only for custom maps."
   },
   {
-    "repo": "zelaux/bytelogicmod",
-    "internalName": "byte-logic-mod",
-    "name": "Byte Logic Mod",
-    "author": "Zelaux",
-    "lastUpdated": "2024-09-24T22:19:06Z",
-    "stars": 30,
-    "minGameVersion": "141.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds byte logic blocks from v5"
-  },
-  {
     "repo": "zeutd/disintegration",
     "internalName": "disintegration",
     "name": "Disintegration",
@@ -586,6 +574,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod."
+  },
+  {
+    "repo": "zelaux/bytelogicmod",
+    "internalName": "byte-logic-mod",
+    "name": "Byte Logic Mod",
+    "author": "Zelaux",
+    "lastUpdated": "2024-09-24T22:19:06Z",
+    "stars": 29,
+    "minGameVersion": "141.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds byte logic blocks from v5"
   },
   {
     "repo": "mnemotechnician/new-console",
@@ -720,18 +720,6 @@
     "description": "A mod provides a variety of tools for modding.\n\n-----------------\nVersion 1.5.2\n## Highlight\n- Fixed some serious bugs.\n- Better experience.\n- Fixed some bugs.\n-----------------\n\n## ShowUIList\n\n- Display `icon`, `tex`, `styles`, `colors`, `interps`\\\n!(./screenshots/UIList.png)\n\n## Tester\n\n!(./screenshots/tester.png)\n\n- Provide `JS` editor `Tester`\n- Shortcuts\n- Press `Ctrl`+`Shift`+`Enter` to `execute` code immediately\n- Press `Ctrl`+`Shift`+`↑/↓` to switch `history` records\n- Press `Ctrl`+`Shift`+`D` to `view` detailed information\n- Press `Alt`+`V` to preview `Texture`\n- Built-in `unsafe`, `lookup`\n- Built-in `IntFunc` class (abbreviated as `$`)\n- `$.xxx` can represent primitive data types (e.g., `$.void` represents `Void.TYPE`;`$.J` represents long.class)\n- `$p` represents `Packages`\n- Code: [JSFunc](https://github.com/i-hope1/mod-tools/src/modtools/utils/JSFunc.java)\n- Long press on code in the favorites to add to startup items\\\n!(./screenshots/startup.png)\n- Quick switch history\\\n![Screenshot 2024-03-10 14-45-37](https://github.com/I-hope1/mod-tools/assets/78016895/4918af35-19af-4fab-b961-70bdc8679fe8)\n- `$.item`, `$.liquid`, `$.unit` and so on.\n\n## UnitSpawn\n\n- Multiple team selection\n- Support for fixed point spawning\n- Display `name` and `localizedName`\n- Rightclick the name Label to copy save as JS var.\n\n## Selection\n\n- Selector\n- Supports `Tile`, `Building`, `Bullet`, `Unit`\n- Kill\n- Set Item/Liquid/Team\n- Press `Ctrl`+`Alt` to fix Focus Window\n\n## ReviewElement\n\n- Display element list, double-click to copy element to js variable\n- `Ctrl`+`Shift`+`C` to Inspect Element\n- `Ctrl`+`Alt`+`D` to display bounds of Element\n- Select untouchable elements\n- Mobile: Filter current element with two fingers\n- PC: Press `F` to filter current element\n- Functions shortcuts for Element\n- `i`: display details (open ShowInfoWindow)\\\n- `p`(for Image):  show `DrawablePicker`\n- `del`: (`shift` to ignore confirmation), delete element\n- `<` / `>`: collapse Group\n- `f`: fix floating Info column\n- `r`: invoke element's method\n\n- ![reviewElement](./screenshots/review_element.png)\n\n# Frag\n\n- Double-click the blue part of Frag to minimize/restore Frag\n- In the minimized state, click the blue part, it will behave like a floating ball\n\n## Window\n\n- Press `Ctrl`+`Tab` to switch windows\n- Press `Shift`+`F4` to close current window\n- RClick the close button to move and scl window.\n\n## ShowInfoWindow\n\n- Show all fields, methods, constructors and nested classes of a obj.\n- Field can be modified.\n- Method can be Invoked(Special).\n- Constructor can be invoked to new a instance.\n\n## Others\n\n### Extensions\n- Http Redirect\n> Redirect some websites, such as: github\\\n> Configuration file: b0kkihope/http_redirect.properties"
   },
   {
-    "repo": "vvseangtvv/project-restoration",
-    "internalName": "restored-mind",
-    "name": "Project: Restoration",
-    "author": "VvSeanGtvV",
-    "lastUpdated": "2024-11-22T15:58:17Z",
-    "stars": 23,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry builds including some classic ones are added to Mindustry v7!"
-  },
-  {
     "repo": "teamviscott/modprojectviscott",
     "internalName": "project-viscott",
     "name": "Project Viscott",
@@ -742,6 +730,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Project viscott is a mindustry mod that adds a \nnew Planet to the campaign, Vercilus, and gives the player a new and unique gameplay experience \n\nThis mod is still in development. \n Expect it to have some slight balancing issues"
+  },
+  {
+    "repo": "vvseangtvv/project-restoration",
+    "internalName": "restored-mind",
+    "name": "Project: Restoration",
+    "author": "VvSeanGtvV",
+    "lastUpdated": "2024-11-22T18:14:59Z",
+    "stars": 23,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry builds including some classic ones are added to Mindustry v7!"
   },
   {
     "repo": "anuken/wind3",
@@ -1132,7 +1132,7 @@
     "internalName": "as",
     "name": "Asterion",
     "author": " |Asterion Team| ",
-    "lastUpdated": "2024-11-21T14:12:13Z",
+    "lastUpdated": "2024-11-22T18:25:55Z",
     "stars": 15,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -3072,18 +3072,6 @@
     "description": "Solves the biggest territory war in all of Mindustry Modding: Putting UI in the bottom-left corner"
   },
   {
-    "repo": "andashikkozlov/thezsia-revival",
-    "internalName": "thezsia1",
-    "name": "Thezsia Revival",
-    "author": "Programmers: AnDashik, Ace\nSpriters: AnDasik\nTesters: AnDashik, Ace, Sorokonozhka\nTranslators: AnDashik, Sputnuc, Ace\nMappers: ItzCraft, Andashik, Ace, Sorokonozhka\nComposer: Ace",
-    "lastUpdated": "2024-11-20T21:09:01Z",
-    "stars": 5,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "New planet, new stuff, what a surprise\nNot dead now)"
-  },
-  {
     "repo": "itskirby69/minedusty",
     "internalName": "minedusty",
     "name": "MineDusty",
@@ -3094,6 +3082,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#edc77b]A java mod by [white]itsdakirby69 [gray](thats me!)[#edc77b]. Sandbox only for now. Plant mod. haha."
+  },
+  {
+    "repo": "andashikkozlov/thezsia-revival",
+    "internalName": "thezsia1",
+    "name": "Thezsia Revival",
+    "author": "Programmers: AnDashik, Ace\nSpriters: AnDasik\nTesters: AnDashik, Ace, Sorokonozhka\nTranslators: AnDashik, Sputnuc, Ace\nMappers: ItzCraft, Andashik, Ace, Sorokonozhka\nComposer: Ace",
+    "lastUpdated": "2024-11-22T20:00:29Z",
+    "stars": 5,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "New planet, new stuff, what a surprise\nNot dead now)"
   },
   {
     "repo": "mythril382/self-destruct-core",
@@ -3346,18 +3346,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Currently in development. Descend upon Nomine, a planet of stark snow and desolate deserts. Fend off its Legion that rules rampant."
-  },
-  {
-    "repo": "heroblack303/scrap",
-    "internalName": "so",
-    "name": "Scrap ores",
-    "author": "Heroblack303",
-    "lastUpdated": "2023-10-01T04:18:05Z",
-    "stars": 4,
-    "minGameVersion": "145.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Scrap ores"
   },
   {
     "repo": "pirojok3000/mindustry-classic-music",
@@ -3712,12 +3700,12 @@
     "internalName": "hc-expanded-dawn",
     "name": "HC-Expanded-Dawn",
     "author": "HungryCloud4913",
-    "lastUpdated": "2024-11-21T22:44:40Z",
+    "lastUpdated": "2024-11-22T18:41:09Z",
     "stars": 4,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": false,
-    "description": "Warning: This is not New Horizons.\nCredits to everyone who helped even in the slightest bit ever,\nDiscord Helpers: Mindustridiot/HazNoBrain - Unit suggestions and unit FX work, CY4NIDE - Railhammer unit FX work and suggestion"
+    "description": "Warning: This is not New Horizons. Please leave a star on Github, It lets me know you enjoy the mod.\nCredits to everyone who helped even in the slightest bit ever,\nDiscord Helpers: mindustridiot_06647 - Unit suggestions and unit FX work, cy4nide0165 - Railhammer unit FX work and suggestion, memories_keeper1111 - A couple spare sprites given because they didn't need them, display_namer - Small coding help for animated items and liquids"
   },
   {
     "repo": "mythril382/u-r-a-i-c",
@@ -9256,7 +9244,7 @@
     "internalName": "ferrum",
     "name": "Ferrum",
     "author": "wdfeer",
-    "lastUpdated": "2024-11-21T19:24:59Z",
+    "lastUpdated": "2024-11-22T18:42:10Z",
     "stars": 0,
     "minGameVersion": "146",
     "hasScripts": false,
