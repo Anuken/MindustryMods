@@ -604,7 +604,7 @@
     "internalName": "subvoyage",
     "name": "Subvoyage",
     "author": "Skoow, IriDark",
-    "lastUpdated": "2024-11-27T11:28:36Z",
+    "lastUpdated": "2024-11-27T15:28:55Z",
     "stars": 28,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -720,18 +720,6 @@
     "description": "A mod provides a variety of tools for modding.\n\n-----------------\nVersion 1.5.2\n## Highlight\n- Fixed some serious bugs.\n- Better experience.\n- Fixed some bugs.\n-----------------\n\n## ShowUIList\n\n- Display `icon`, `tex`, `styles`, `colors`, `interps`\\\n!(./screenshots/UIList.png)\n\n## Tester\n\n!(./screenshots/tester.png)\n\n- Provide `JS` editor `Tester`\n- Shortcuts\n- Press `Ctrl`+`Shift`+`Enter` to `execute` code immediately\n- Press `Ctrl`+`Shift`+`↑/↓` to switch `history` records\n- Press `Ctrl`+`Shift`+`D` to `view` detailed information\n- Press `Alt`+`V` to preview `Texture`\n- Built-in `unsafe`, `lookup`\n- Built-in `IntFunc` class (abbreviated as `$`)\n- `$.xxx` can represent primitive data types (e.g., `$.void` represents `Void.TYPE`;`$.J` represents long.class)\n- `$p` represents `Packages`\n- Code: [JSFunc](https://github.com/i-hope1/mod-tools/src/modtools/utils/JSFunc.java)\n- Long press on code in the favorites to add to startup items\\\n!(./screenshots/startup.png)\n- Quick switch history\\\n![Screenshot 2024-03-10 14-45-37](https://github.com/I-hope1/mod-tools/assets/78016895/4918af35-19af-4fab-b961-70bdc8679fe8)\n- `$.item`, `$.liquid`, `$.unit` and so on.\n\n## UnitSpawn\n\n- Multiple team selection\n- Support for fixed point spawning\n- Display `name` and `localizedName`\n- Rightclick the name Label to copy save as JS var.\n\n## Selection\n\n- Selector\n- Supports `Tile`, `Building`, `Bullet`, `Unit`\n- Kill\n- Set Item/Liquid/Team\n- Press `Ctrl`+`Alt` to fix Focus Window\n\n## ReviewElement\n\n- Display element list, double-click to copy element to js variable\n- `Ctrl`+`Shift`+`C` to Inspect Element\n- `Ctrl`+`Alt`+`D` to display bounds of Element\n- Select untouchable elements\n- Mobile: Filter current element with two fingers\n- PC: Press `F` to filter current element\n- Functions shortcuts for Element\n- `i`: display details (open ShowInfoWindow)\\\n- `p`(for Image):  show `DrawablePicker`\n- `del`: (`shift` to ignore confirmation), delete element\n- `<` / `>`: collapse Group\n- `f`: fix floating Info column\n- `r`: invoke element's method\n\n- ![reviewElement](./screenshots/review_element.png)\n\n# Frag\n\n- Double-click the blue part of Frag to minimize/restore Frag\n- In the minimized state, click the blue part, it will behave like a floating ball\n\n## Window\n\n- Press `Ctrl`+`Tab` to switch windows\n- Press `Shift`+`F4` to close current window\n- RClick the close button to move and scl window.\n\n## ShowInfoWindow\n\n- Show all fields, methods, constructors and nested classes of a obj.\n- Field can be modified.\n- Method can be Invoked(Special).\n- Constructor can be invoked to new a instance.\n\n## Others\n\n### Extensions\n- Http Redirect\n> Redirect some websites, such as: github\\\n> Configuration file: b0kkihope/http_redirect.properties"
   },
   {
-    "repo": "teamviscott/modprojectviscott",
-    "internalName": "project-viscott",
-    "name": "Project Viscott",
-    "author": "CREDITS: \nSpriters : Ethanol10, ThomasThings, TB1, FrireDragon, EyeOfDarkness \n----------------------------\nSfx/Music : Vdoble MSG , TempoAlch3mist \n----------------------------\nProgrammers : Siede ,Manuwar ,Otamamori ,Kapzduke, EyeOfDarkness \n----------------------------\nMappers : Nicodium \n----------------------------\n \n Special thanks to MEEPofFaith for creating the pseudo3d system.",
-    "lastUpdated": "2024-11-25T13:43:19Z",
-    "stars": 23,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Project viscott is a mindustry mod that adds a \nnew Planet to the campaign, Vercilus, and gives the player a new and unique gameplay experience \n\nThis mod is still in development. \n Expect it to have some slight balancing issues"
-  },
-  {
     "repo": "vvseangtvv/project-restoration",
     "internalName": "restored-mind",
     "name": "Project: Restoration",
@@ -742,6 +730,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry builds including some classic ones are added to Mindustry v7!"
+  },
+  {
+    "repo": "teamviscott/modprojectviscott",
+    "internalName": "project-viscott",
+    "name": "Project Viscott",
+    "author": "CREDITS: \nSpriters : Ethanol10, ThomasThings, TB1, FrireDragon, EyeOfDarkness \n----------------------------\nSfx/Music : Vdoble MSG , TempoAlch3mist \n----------------------------\nProgrammers : Siede ,Manuwar ,Otamamori ,Kapzduke, EyeOfDarkness \n----------------------------\nMappers : Nicodium \n----------------------------\n \n Special thanks to MEEPofFaith for creating the pseudo3d system.",
+    "lastUpdated": "2024-11-27T15:04:56Z",
+    "stars": 23,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Project viscott is a mindustry mod that adds a \nnew Planet to the campaign, Vercilus, and gives the player a new and unique gameplay experience \n\nThis mod is still in development. \n Expect it to have some slight balancing issues"
   },
   {
     "repo": "anuken/wind3",
@@ -3124,7 +3124,7 @@
     "internalName": "towerdefensemolten",
     "name": "Tower Defense: Molten",
     "author": "Haznobrain",
-    "lastUpdated": "2024-11-27T08:38:51Z",
+    "lastUpdated": "2024-11-27T15:58:54Z",
     "stars": 5,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -4612,7 +4612,7 @@
     "internalName": "heavy-industry",
     "name": "Heavy Industry",
     "author": "Wisadell",
-    "lastUpdated": "2024-11-27T05:41:33Z",
+    "lastUpdated": "2024-11-27T15:53:47Z",
     "stars": 3,
     "minGameVersion": "147.0",
     "hasScripts": false,
@@ -7224,18 +7224,6 @@
     "description": "Adds new turrets, WIP."
   },
   {
-    "repo": "xpdustry/kotlin-runtime",
-    "internalName": "kotlin-runtime",
-    "name": "KotlinRuntime",
-    "author": "Xpdustry",
-    "lastUpdated": "2024-11-20T19:16:59Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A companion mod for Kotlin based mods and plugins."
-  },
-  {
     "repo": "chuvaak/futurehorizons",
     "internalName": "futurehorizons",
     "name": "Future Horizons",
@@ -7260,18 +7248,6 @@
     "description": "Ark Of Rebirth or mod-AR is a mod that aim to extend the campaign by adding two more additional planets,this mod is still WIP."
   },
   {
-    "repo": "jirocab/yetanotherserpulorebalance",
-    "internalName": "yasr",
-    "name": "Yet another Serpulo Rebalance (yasr)",
-    "author": "Rushie Washie, GooglyGoo",
-    "lastUpdated": "2024-11-26T17:27:01Z",
-    "stars": 1,
-    "minGameVersion": "143.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Serpulo Tweaks"
-  },
-  {
     "repo": "ymstrip/mindustry-st",
     "internalName": "wool",
     "name": "Wool",
@@ -7284,11 +7260,35 @@
     "description": "A Mindustry Java mod template."
   },
   {
+    "repo": "xpdustry/kotlin-runtime",
+    "internalName": "kotlin-runtime",
+    "name": "KotlinRuntime",
+    "author": "Xpdustry",
+    "lastUpdated": "2024-11-27T15:44:26Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A companion mod for Kotlin based mods and plugins."
+  },
+  {
+    "repo": "jirocab/yetanotherserpulorebalance",
+    "internalName": "yasr",
+    "name": "Yet another Serpulo Rebalance (yasr)",
+    "author": "Rushie Washie, GooglyGoo",
+    "lastUpdated": "2024-11-27T15:52:25Z",
+    "stars": 1,
+    "minGameVersion": "143.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Serpulo Tweaks"
+  },
+  {
     "repo": "eight-squared/iron-clouds",
     "internalName": "iron-clouds",
     "name": "Iron clouds",
     "author": "Eight Squared",
-    "lastUpdated": "2024-11-27T13:50:41Z",
+    "lastUpdated": "2024-11-27T15:56:16Z",
     "stars": 1,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -9274,5 +9274,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Semi-realistic iron-based mod. Modifies serpulo progression and vanilla balance."
+  },
+  {
+    "repo": "pemain2197/and-bfwe",
+    "internalName": "and_bfwe",
+    "name": "A New Dawn: Bred For War Edition",
+    "author": "Pemain2197",
+    "lastUpdated": "2024-11-27T14:16:21Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A custom Mindustry mod music from on album. And it's might be not recommended for low-end devices, because this mod is quite large enough. Check on Repo for more information"
   }
 ]
