@@ -17,7 +17,7 @@
     "name": "New Horizon",
     "author": "Yuria",
     "lastUpdated": "2024-12-03T04:02:41Z",
-    "stars": 379,
+    "stars": 380,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -2544,6 +2544,18 @@
     "description": "Adds more debugging features and improvements.\n\nFeatures:\n- Fully customizable log messages /w timestamp;\n- Translate chat messages to your language;\n- Change log level;\n- Colorize `[colorname]` in log messages;\n- Log event triggers;\n- Various other QoL improvements.\n\n!!! Important !!!\nAndroid support was dropped from version 2.1.0 onwards due to technical constraints. You can still try to use an older version, though it's not guaranteed to work.\n\nSee README.md for more information."
   },
   {
+    "repo": "theangelurd/mindustry-alasion",
+    "internalName": "mindustry-alasion",
+    "name": "Alasion",
+    "author": "voider",
+    "lastUpdated": "2024-01-09T17:43:15Z",
+    "stars": 6,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "adennos moment"
+  },
+  {
     "repo": "raffel080108/unlocktechtreemod",
     "internalName": "unlock-tech-tree-mod",
     "name": "UnlockTechTreeMod",
@@ -2716,7 +2728,7 @@
     "internalName": "cookmod",
     "name": "cookmod",
     "author": "open chat",
-    "lastUpdated": "2024-12-03T06:00:05Z",
+    "lastUpdated": "2024-12-03T06:18:02Z",
     "stars": 6,
     "minGameVersion": "145",
     "hasScripts": true,
@@ -2914,18 +2926,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a button that sends colorful  in chat\nUpdate: You can choose the symbol!"
-  },
-  {
-    "repo": "theangelurd/mindustry-alasion",
-    "internalName": "mindustry-alasion",
-    "name": "Alasion",
-    "author": "voider",
-    "lastUpdated": "2024-01-09T17:43:15Z",
-    "stars": 5,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "adennos moment"
   },
   {
     "repo": "sova444/compressing-mod",
@@ -7324,7 +7324,7 @@
     "internalName": "axoxium",
     "name": "Axoxium",
     "author": "555okboi",
-    "lastUpdated": "2024-12-03T05:29:54Z",
+    "lastUpdated": "2024-12-03T07:43:13Z",
     "stars": 1,
     "minGameVersion": "142",
     "hasScripts": false,
@@ -9312,18 +9312,6 @@
     "description": "A music mod for the Extirpation Beta. UNIFNISHED!"
   },
   {
-    "repo": "wdfeer/ferrum",
-    "internalName": "ferrum",
-    "name": "Ferrum",
-    "author": "wdfeer",
-    "lastUpdated": "2024-12-02T08:42:20Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Semi-realistic iron-based mod. Modifies serpulo progression and vanilla balance."
-  },
-  {
     "repo": "stillwaterkay/ornamental",
     "internalName": "ornamental",
     "name": "Ornamental",
@@ -9334,5 +9322,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds engine sound effects to flying and hovering units"
+  },
+  {
+    "repo": "wdfeer/ferrum",
+    "internalName": "ferrum",
+    "name": "Ferrum",
+    "author": "wdfeer",
+    "lastUpdated": "2024-12-03T07:49:14Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Semi-realistic iron-based mod. Modifies serpulo progression and vanilla balance."
   }
 ]
