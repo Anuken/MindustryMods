@@ -101,7 +101,7 @@
     "name": "Time Control",
     "author": "sk7725",
     "lastUpdated": "2024-07-25T09:11:47Z",
-    "stars": 125,
+    "stars": 126,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
@@ -160,7 +160,7 @@
     "internalName": "omaloon",
     "name": "Omaloon",
     "author": "stabu, uujuju",
-    "lastUpdated": "2024-11-24T18:27:25Z",
+    "lastUpdated": "2024-12-04T17:23:08Z",
     "stars": 92,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -185,7 +185,7 @@
     "name": "Asthosus",
     "author": "Catana",
     "lastUpdated": "2024-11-29T18:30:31Z",
-    "stars": 86,
+    "stars": 87,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
@@ -736,7 +736,7 @@
     "internalName": "restored-mind",
     "name": "Project: Restoration",
     "author": "VvSeanGtvV",
-    "lastUpdated": "2024-12-04T15:58:31Z",
+    "lastUpdated": "2024-12-04T16:09:07Z",
     "stars": 23,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -780,6 +780,18 @@
     "description": "Add the new sectors and content on Erekir"
   },
   {
+    "repo": "haznobrain/erekir-liquefied",
+    "internalName": "erekirliquefied",
+    "name": "Erekir Liquefied",
+    "author": "Haznobrain",
+    "lastUpdated": "2024-11-29T17:21:59Z",
+    "stars": 22,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod that was originally meant to add liquid related stuff to erekir but i ended up having too many ideas.\n  helpers: GameStuffOfficial, @mr_shapka228, @smolkeys_\n  special thanks to u/WishboneOk8660 on reddit, who made amazing fanart of the mod and the og idea for the support boat line."
+  },
+  {
     "repo": "emanuelg-gaming/erekir-expansion",
     "internalName": "erekir-expansion",
     "name": "Erekir Expansion",
@@ -816,18 +828,6 @@
     "description": "hehe angish go nrrrt\n\n\ntargets:\n\n- vanilla\n\n- foo's client (builtin)\n\n- SMOLKEYS/yellow-java (extension)"
   },
   {
-    "repo": "haznobrain/erekir-liquefied",
-    "internalName": "erekirliquefied",
-    "name": "Erekir Liquefied",
-    "author": "Haznobrain",
-    "lastUpdated": "2024-11-29T17:21:59Z",
-    "stars": 21,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod that was originally meant to add liquid related stuff to erekir but i ended up having too many ideas.\n  helpers: GameStuffOfficial, @mr_shapka228, @smolkeys_\n  special thanks to u/WishboneOk8660 on reddit, who made amazing fanart of the mod and the og idea for the support boat line."
-  },
-  {
     "repo": "sk7725/testers",
     "internalName": "testers",
     "name": "Testers",
@@ -850,6 +850,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Trudge through Ikaru, home to the [#ea9ad6]Meld[]. Salvage the remains of previous incursions to fight off the wildlife.\n\nPlay as a naval core unit, using sonar pulses to scout out targets for your turrets and rally your units.\n\n[red]DEFEND, TAKE GROUND, HARVEST, REPEAT\n\n[accent]The <Gameplay Test> versions are outdated. Please use the install button. Thanks~"
+  },
+  {
+    "repo": "apszoldat/mindustry-mapping-utilities",
+    "internalName": "mindustry-mapping-utilities",
+    "name": "Mapping Utilities",
+    "author": "ApsZoldat",
+    "lastUpdated": "2023-08-01T14:53:02Z",
+    "stars": 19,
+    "minGameVersion": "144.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Small Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\nImprovements:\n\n- Mixed Tech Unlocked\n- More Rules Available\n- Better Cliff Editing\n- Numbered Teams Editing\n- Planet Background Editing\n- Any Brush Size\n\nCheck README.md in GitHub repo for more detailed information\n\n! Work In Progress !\nMore map making tools will be added in future"
   },
   {
     "repo": "sporrus/randommindustry",
@@ -886,18 +898,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\nWARNING: This mod is half playable, due to some technical problems.\nI had enough of serpulo, turn it Blue.\nAvailable in languages:\nIndonesian\nEnglish\nRussian\n-----------------------------\nOur Discord Server: https://discord.com/invite/KuV5r39cpY"
-  },
-  {
-    "repo": "apszoldat/mindustry-mapping-utilities",
-    "internalName": "mindustry-mapping-utilities",
-    "name": "Mapping Utilities",
-    "author": "ApsZoldat",
-    "lastUpdated": "2023-08-01T14:53:02Z",
-    "stars": 18,
-    "minGameVersion": "144.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Small Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\nImprovements:\n\n- Mixed Tech Unlocked\n- More Rules Available\n- Better Cliff Editing\n- Numbered Teams Editing\n- Planet Background Editing\n- Any Brush Size\n\nCheck README.md in GitHub repo for more detailed information\n\n! Work In Progress !\nMore map making tools will be added in future"
   },
   {
     "repo": "eyeofdarkness/advance-lighting",
@@ -1068,18 +1068,6 @@
     "description": "Welcome to the mod Gloomistry! This is my first mod that adds a new campaign with new content, at the moment the mod is not made to the very end and updates will be released (probably) in which I will finish the campaign to the end and also change the sprites of many blocks that I did not like or that were copied from the original blocks. It is also possible that I will add more new turrets. If you liked the mod, don't forget to give it a star on the GitHub! Contact me: https://t.me/@Thisispzdcnh\n  \n  Приветствую вас в моде Глумистри! Это мой первый мод который добавляет новую кампанию с новым контентом, на данный момент мод сделан не до самого конца и будут выходить обновления(наверно) в которых я доделаю кампанию до конца а также изменю спрайты многих блоков, которые мне не понравились или которые были срисованы с оригинальных блоков. Также возможно я добавлю еще новые турели. Если вам понравился мод, не забудьте поставить ему звезду на ГитХаб! Связаться со мной: https://t.me/@Thisispzdcnh\n\n  Sprites of production blocks By Obsidian"
   },
   {
-    "repo": "mindustryvn/mindustrytoolmod",
-    "internalName": "mindustrytool",
-    "name": "MindustryTool(Schematic, Map Browser)",
-    "author": "VN-Shar",
-    "lastUpdated": "2024-11-18T17:55:29Z",
-    "stars": 16,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A online schematic browser"
-  },
-  {
     "repo": "sputnuc/asterion",
     "internalName": "as",
     "name": "Asterion",
@@ -1090,6 +1078,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This is collaboration mod.\nMod server: https://discord.gg/PcTnJ96mwf"
+  },
+  {
+    "repo": "mindustryvn/mindustrytoolmod",
+    "internalName": "mindustrytool",
+    "name": "MindustryTool(Schematic, Map Browser)",
+    "author": "VN-Shar",
+    "lastUpdated": "2024-12-04T17:36:27Z",
+    "stars": 16,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A online schematic browser"
   },
   {
     "repo": "melomelodeon/a-bad-mindustry-mod",
@@ -1584,6 +1584,18 @@
     "description": "SHADOOOW your GAME!! repo: BlackDeluxeCat/ShadowShader"
   },
   {
+    "repo": "sbxte/mindustry-schematic-browser",
+    "internalName": "schematic-browser",
+    "name": "Schematic Browser Reworked",
+    "author": "SByte, Eeve-lyn",
+    "lastUpdated": "2024-03-27T09:28:43Z",
+    "stars": 10,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod for browsing schematic repositories."
+  },
+  {
     "repo": "teamoct/erekir-music",
     "internalName": "erekir-music",
     "name": "Team Oct's Erekir Music",
@@ -1822,18 +1834,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Stripped down version of the original mod. Contains only CLaJ and enlarged schematics."
-  },
-  {
-    "repo": "sbxte/mindustry-schematic-browser",
-    "internalName": "schematic-browser",
-    "name": "Schematic Browser Reworked",
-    "author": "SByte, Eeve-lyn",
-    "lastUpdated": "2024-03-27T09:28:43Z",
-    "stars": 9,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod for browsing schematic repositories."
   },
   {
     "repo": "i-hope1/mod.make",
@@ -4608,18 +4608,6 @@
     "description": "heyjason mode feat. world procs\ntouch controls are not supported"
   },
   {
-    "repo": "frizermoon/revengeance-mod",
-    "internalName": "revengeance",
-    "name": "Revengeance",
-    "author": "Frizer moons",
-    "lastUpdated": "2024-11-30T17:20:08Z",
-    "stars": 3,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Первый мой мод в котором вы с помощю межпланетного ускорителя попадаете на планету Селестис.Вы должным отомстить красным и захватить их планету.Вас будут ждать новые руды,враги,механики и ЛОООООР.Сложность мода высокая так что запасайтесь нервами"
-  },
-  {
     "repo": "sagittarius1819/extirpationmod",
     "internalName": "extirpation",
     "name": "EXTIRPATION BETA (English)",
@@ -4654,6 +4642,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Warning: This mod currently only supports clients above version be25394. Please do not download this mod for clients above version v146!\nInstall for fresh and revised mindustry experience.\nPlease note:\nThis Mod is a Java class Mod, therefore it does not support running on the iOS platform.\nTry not to mix with other Mods as much as possible to avoid unknown issues in the game."
+  },
+  {
+    "repo": "frizermoon/revengeance-mod",
+    "internalName": "revengeance",
+    "name": "Revengeance",
+    "author": "Frizer moons",
+    "lastUpdated": "2024-12-04T17:23:42Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Первый мой мод в котором вы с помощю межпланетного ускорителя попадаете на планету Селестис.Вы должным отомстить красным и захватить их планету.Вас будут ждать новые руды,враги,механики и ЛОООООР.Сложность мода высокая так что запасайтесь нервами"
   },
   {
     "repo": "wshon/mindustrytoolkit",
@@ -5434,6 +5434,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This Mindustry mod will add alternate blocks which will be better then their analogues, but also will be cost more resources to build. Most of additional blocks will be batteries, containers, etc. But it will not be any turrets or something like this"
+  },
+  {
+    "repo": "derekshaheen/mindustry-resource-rate-monitor",
+    "internalName": "resource-rate-monitor",
+    "name": "Resource Rate Monitor",
+    "author": "Skrip",
+    "lastUpdated": "2024-05-25T07:16:16Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Simply allows you to monitor your resource rate changes in real time."
   },
   {
     "repo": "dong-wo-long/sanabi-ost",
@@ -6744,18 +6756,6 @@
     "description": "Add the following contents.\n-Electrified conveyor,junction,router,sorter,and overflow gate.\n-Mini masdriver\n-Cargo loader and cargo unload point that can be used in Serpulo.\n-Strengthened Unloader."
   },
   {
-    "repo": "derekshaheen/mindustry-resource-rate-monitor",
-    "internalName": "resource-rate-monitor",
-    "name": "Resource Rate Monitor",
-    "author": "Skrip",
-    "lastUpdated": "2024-05-25T07:16:16Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Simply allows you to monitor your resource rate changes in real time."
-  },
-  {
     "repo": "leyn-pl/iconpicker",
     "internalName": "icon-picker",
     "name": "Icon Picker",
@@ -7308,30 +7308,6 @@
     "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
-    "repo": "jirocab/yetanotherserpulorebalance",
-    "internalName": "yasr",
-    "name": "Yet another Serpulo Rebalance (yasr)",
-    "author": "Rushie Washie, GooglyGoo",
-    "lastUpdated": "2024-12-03T03:26:58Z",
-    "stars": 1,
-    "minGameVersion": "143.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Serpulo Tweaks"
-  },
-  {
-    "repo": "eight-squared/iron-clouds",
-    "internalName": "iron-clouds",
-    "name": "Iron clouds",
-    "author": "Eight Squared",
-    "lastUpdated": "2024-12-03T14:23:50Z",
-    "stars": 1,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "UNFINISHED New campaign on a molten planet."
-  },
-  {
     "repo": "fivedextor/axoxium",
     "internalName": "axoxium",
     "name": "Axoxium",
@@ -7342,6 +7318,30 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Introduce Derepica a planet with great journeys."
+  },
+  {
+    "repo": "eight-squared/iron-clouds",
+    "internalName": "iron-clouds",
+    "name": "Iron clouds",
+    "author": "Eight Squared",
+    "lastUpdated": "2024-12-04T16:57:56Z",
+    "stars": 1,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "UNFINISHED New campaign on a molten planet."
+  },
+  {
+    "repo": "jirocab/yetanotherserpulorebalance",
+    "internalName": "yasr",
+    "name": "Yet another Serpulo Rebalance (yasr)",
+    "author": "Rushie Washie, GooglyGoo",
+    "lastUpdated": "2024-12-04T17:50:12Z",
+    "stars": 1,
+    "minGameVersion": "143.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Serpulo Tweaks"
   },
   {
     "repo": "kapzduke/vanilla-extension",
