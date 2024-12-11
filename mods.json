@@ -672,6 +672,18 @@
     "description": "A currently [red]indev[] colab mod with huge scope, being built one planet at a time.\n\nAims to add several cold planets with linked campaigns, along with mechanics that'll [accent]revolutionise[] the way you interact with the mod's different environments, while trying to stay enjoyable and even a lil silly at times.\n\n[darkgray]A voice lingers in the darkness, dancing around your ears. Will you join it?"
   },
   {
+    "repo": "i-hope1/mod-tools",
+    "internalName": "mod-tools",
+    "name": "mod-tools",
+    "author": "I hope...",
+    "lastUpdated": "2024-12-08T08:52:11Z",
+    "stars": 24,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod provides a variety of tools for modding.\n\n-----------------\nVersion 1.5.3\n## Highlight\n- 修复了一些小bug\n- Fixed some minor bugs\n- 更多自定义按键\n- More customizable keybinds\n-----------------\n\n## ShowUIList\n\n- Display `icon`, `tex`, `styles`, `colors`, `interps`\\\n!(./screenshots/UIList.png)\n\n## Tester\n\n!(./screenshots/tester.png)\n\n- Provide `JS` editor `Tester`\n- Shortcuts\n- Press `Ctrl`+`Shift`+`Enter` to `execute` code immediately\n- Press `Ctrl`+`Shift`+`↑/↓` to switch `history` records\n- Press `Ctrl`+`Shift`+`D` to `view` detailed information\n- Press `Alt`+`V` to preview `Texture`\n- Built-in `unsafe`, `lookup`\n- Built-in `IntFunc` class (abbreviated as `$`)\n- `$.xxx` can represent primitive data types (e.g., `$.void` represents `Void.TYPE`;`$.J` represents long.class)\n- `$p` represents `Packages`\n- Code: [JSFunc](https://github.com/i-hope1/mod-tools/src/modtools/utils/JSFunc.java)\n- Long press on code in the favorites to add to startup items\\\n!(./screenshots/startup.png)\n- Quick switch history\\\n![Screenshot 2024-03-10 14-45-37](https://github.com/I-hope1/mod-tools/assets/78016895/4918af35-19af-4fab-b961-70bdc8679fe8)\n- `$.item`, `$.liquid`, `$.unit` and so on.\n\n## UnitSpawn\n\n- Multiple team selection\n- Support for fixed point spawning\n- Display `name` and `localizedName`\n- Rightclick the name Label to copy save as JS var.\n\n## Selection\n\n- Selector\n- Supports `Tile`, `Building`, `Bullet`, `Unit`\n- Kill\n- Set Item/Liquid/Team\n- Press `Ctrl`+`Alt` to fix Focus Window\n\n## ReviewElement\n\n- Display element list, double-click to copy element to js variable\n- `Ctrl`+`Shift`+`C` to Inspect Element\n- `Ctrl`+`Alt`+`D` to display bounds of Element\n- Select untouchable elements\n- Mobile: Filter current element with two fingers\n- PC: Press `F` to filter current element\n- Functions shortcuts for Element\n- `i`: display details (open ShowInfoWindow)\\\n- `p`(for Image):  show `DrawablePicker`\n- `del`: (`shift` to ignore confirmation), delete element\n- `<` / `>`: collapse Group\n- `f`: fix floating Info column\n- `r`: invoke element's method\n\n- ![reviewElement](./screenshots/review_element.png)\n\n# Frag\n\n- Double-click the blue part of Frag to minimize/restore Frag\n- In the minimized state, click the blue part, it will behave like a floating ball\n\n## Window\n\n- Press `Ctrl`+`Tab` to switch windows\n- Press `Shift`+`F4` to close current window\n- RClick the close button to move and scl window.\n\n## ShowInfoWindow\n\n- Show all fields, methods, constructors and nested classes of a obj.\n- Field can be modified.\n- Method can be Invoked(Special).\n- Constructor can be invoked to new a instance.\n\n## Others\n\n### Extensions\n- Http Redirect\n> Redirect some websites, such as: github\\\n> Configuration file: b0kkihope/http_redirect.properties"
+  },
+  {
     "repo": "realshizi/oxynoe",
     "internalName": "oxynoe",
     "name": "Oxynoe",
@@ -718,18 +730,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Project viscott is a mindustry mod that adds a \nnew Planet to the campaign, Vercilus, and gives the player a new and unique gameplay experience \n\nThis mod is still in development. \n Expect it to have some slight balancing issues"
-  },
-  {
-    "repo": "i-hope1/mod-tools",
-    "internalName": "mod-tools",
-    "name": "mod-tools",
-    "author": "I hope...",
-    "lastUpdated": "2024-12-08T08:52:11Z",
-    "stars": 23,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod provides a variety of tools for modding.\n\n-----------------\nVersion 1.5.3\n## Highlight\n- 修复了一些小bug\n- Fixed some minor bugs\n- 更多自定义按键\n- More customizable keybinds\n-----------------\n\n## ShowUIList\n\n- Display `icon`, `tex`, `styles`, `colors`, `interps`\\\n!(./screenshots/UIList.png)\n\n## Tester\n\n!(./screenshots/tester.png)\n\n- Provide `JS` editor `Tester`\n- Shortcuts\n- Press `Ctrl`+`Shift`+`Enter` to `execute` code immediately\n- Press `Ctrl`+`Shift`+`↑/↓` to switch `history` records\n- Press `Ctrl`+`Shift`+`D` to `view` detailed information\n- Press `Alt`+`V` to preview `Texture`\n- Built-in `unsafe`, `lookup`\n- Built-in `IntFunc` class (abbreviated as `$`)\n- `$.xxx` can represent primitive data types (e.g., `$.void` represents `Void.TYPE`;`$.J` represents long.class)\n- `$p` represents `Packages`\n- Code: [JSFunc](https://github.com/i-hope1/mod-tools/src/modtools/utils/JSFunc.java)\n- Long press on code in the favorites to add to startup items\\\n!(./screenshots/startup.png)\n- Quick switch history\\\n![Screenshot 2024-03-10 14-45-37](https://github.com/I-hope1/mod-tools/assets/78016895/4918af35-19af-4fab-b961-70bdc8679fe8)\n- `$.item`, `$.liquid`, `$.unit` and so on.\n\n## UnitSpawn\n\n- Multiple team selection\n- Support for fixed point spawning\n- Display `name` and `localizedName`\n- Rightclick the name Label to copy save as JS var.\n\n## Selection\n\n- Selector\n- Supports `Tile`, `Building`, `Bullet`, `Unit`\n- Kill\n- Set Item/Liquid/Team\n- Press `Ctrl`+`Alt` to fix Focus Window\n\n## ReviewElement\n\n- Display element list, double-click to copy element to js variable\n- `Ctrl`+`Shift`+`C` to Inspect Element\n- `Ctrl`+`Alt`+`D` to display bounds of Element\n- Select untouchable elements\n- Mobile: Filter current element with two fingers\n- PC: Press `F` to filter current element\n- Functions shortcuts for Element\n- `i`: display details (open ShowInfoWindow)\\\n- `p`(for Image):  show `DrawablePicker`\n- `del`: (`shift` to ignore confirmation), delete element\n- `<` / `>`: collapse Group\n- `f`: fix floating Info column\n- `r`: invoke element's method\n\n- ![reviewElement](./screenshots/review_element.png)\n\n# Frag\n\n- Double-click the blue part of Frag to minimize/restore Frag\n- In the minimized state, click the blue part, it will behave like a floating ball\n\n## Window\n\n- Press `Ctrl`+`Tab` to switch windows\n- Press `Shift`+`F4` to close current window\n- RClick the close button to move and scl window.\n\n## ShowInfoWindow\n\n- Show all fields, methods, constructors and nested classes of a obj.\n- Field can be modified.\n- Method can be Invoked(Special).\n- Constructor can be invoked to new a instance.\n\n## Others\n\n### Extensions\n- Http Redirect\n> Redirect some websites, such as: github\\\n> Configuration file: b0kkihope/http_redirect.properties"
   },
   {
     "repo": "vvseangtvv/project-restoration",
@@ -1720,7 +1720,7 @@
     "internalName": "",
     "name": "Confictura",
     "author": "GlFolker",
-    "lastUpdated": "2024-12-10T12:03:27Z",
+    "lastUpdated": "2024-12-11T12:57:43Z",
     "stars": 10,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -2436,6 +2436,18 @@
     "description": "When passion collides with the shitposter's mind.\n\nYellow currently identifies as a shitpost mod, but I'd like to change that.\n\nSee you soon."
   },
   {
+    "repo": "sycnav/new-crescent",
+    "internalName": "new-crescent",
+    "name": "New Crescent",
+    "author": "CrS Team",
+    "lastUpdated": "2024-12-04T13:59:41Z",
+    "stars": 7,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A Work in Progress: This project is still under development, and features may change in the future.\n\nContributors:\n\n* Author: CrS Team (Lead: SyNav [SycNav])\n* Sprites: TDaggers [TDRS], Ru (kyrusis2), Quy [Quy109372]\n* Contents: SyNav [SycNav], TDaggers [TDRS], Crypt [CrystalMist], EarGods [Earthegodlybeing]\n* Scripting: SyNav [SycNav], Quy [Quy109372], EarGods [Earthegodlybeing]\n\nBug Reporting:\nPlease report any bugs or glitches to the CrS team for fixing.\n\nJoin the Community: Join our Discord server to stay updated on the project and connect with the community! (discord: https://discord.gg/FHg4FDDeVH)\n"
+  },
+  {
     "repo": "xzxadixzx/crawler-language",
     "internalName": "crawler-language",
     "name": "Crawler Language",
@@ -2676,18 +2688,6 @@
     "description": "New planet, new stuff, what a surprise\nNot dead now)"
   },
   {
-    "repo": "sycnav/new-crescent",
-    "internalName": "new-crescent",
-    "name": "New Crescent",
-    "author": "CrS Team",
-    "lastUpdated": "2024-12-04T13:59:41Z",
-    "stars": 6,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A Work in Progress: This project is still under development, and features may change in the future.\n\nContributors:\n\n* Author: CrS Team (Lead: SyNav [SycNav])\n* Sprites: TDaggers [TDRS], Ru (kyrusis2), Quy [Quy109372]\n* Contents: SyNav [SycNav], TDaggers [TDRS], Crypt [CrystalMist], EarGods [Earthegodlybeing]\n* Scripting: SyNav [SycNav], Quy [Quy109372], EarGods [Earthegodlybeing]\n\nBug Reporting:\nPlease report any bugs or glitches to the CrS team for fixing.\n\nJoin the Community: Join our Discord server to stay updated on the project and connect with the community! (discord: https://discord.gg/FHg4FDDeVH)\n"
-  },
-  {
     "repo": "routerxdd/icicle-world",
     "internalName": "icicle-world",
     "name": "Buried in Ice",
@@ -2728,7 +2728,7 @@
     "internalName": "",
     "name": "Complicatedustry",
     "author": "Hexazeta",
-    "lastUpdated": "2024-12-11T07:09:48Z",
+    "lastUpdated": "2024-12-11T12:13:55Z",
     "stars": 6,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -7348,7 +7348,7 @@
     "internalName": "iron-clouds",
     "name": "Iron clouds",
     "author": "Eight Squared",
-    "lastUpdated": "2024-12-11T11:51:46Z",
+    "lastUpdated": "2024-12-11T13:28:01Z",
     "stars": 1,
     "minGameVersion": "145",
     "hasScripts": false,
