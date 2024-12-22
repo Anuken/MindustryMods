@@ -696,6 +696,18 @@
     "description": "A mod provides a variety of tools for modding.\n\n-----------------\nVersion 1.5.3\n## Highlight\n- 修复了一些小bug\n- Fixed some minor bugs\n- 更多自定义按键\n- More customizable keybinds\n-----------------\n\n## ShowUIList\n\n- Display `icon`, `tex`, `styles`, `colors`, `interps`\\\n!(./screenshots/UIList.png)\n\n## Tester\n\n!(./screenshots/tester.png)\n\n- Provide `JS` editor `Tester`\n- Shortcuts\n- Press `Ctrl`+`Shift`+`Enter` to `execute` code immediately\n- Press `Ctrl`+`Shift`+`↑/↓` to switch `history` records\n- Press `Ctrl`+`Shift`+`D` to `view` detailed information\n- Press `Alt`+`V` to preview `Texture`\n- Built-in `unsafe`, `lookup`\n- Built-in `IntFunc` class (abbreviated as `$`)\n- `$.xxx` can represent primitive data types (e.g., `$.void` represents `Void.TYPE`;`$.J` represents long.class)\n- `$p` represents `Packages`\n- Code: [JSFunc](https://github.com/i-hope1/mod-tools/src/modtools/utils/JSFunc.java)\n- Long press on code in the favorites to add to startup items\\\n!(./screenshots/startup.png)\n- Quick switch history\\\n![Screenshot 2024-03-10 14-45-37](https://github.com/I-hope1/mod-tools/assets/78016895/4918af35-19af-4fab-b961-70bdc8679fe8)\n- `$.item`, `$.liquid`, `$.unit` and so on.\n\n## UnitSpawn\n\n- Multiple team selection\n- Support for fixed point spawning\n- Display `name` and `localizedName`\n- Rightclick the name Label to copy save as JS var.\n\n## Selection\n\n- Selector\n- Supports `Tile`, `Building`, `Bullet`, `Unit`\n- Kill\n- Set Item/Liquid/Team\n- Press `Ctrl`+`Alt` to fix Focus Window\n\n## ReviewElement\n\n- Display element list, double-click to copy element to js variable\n- `Ctrl`+`Shift`+`C` to Inspect Element\n- `Ctrl`+`Alt`+`D` to display bounds of Element\n- Select untouchable elements\n- Mobile: Filter current element with two fingers\n- PC: Press `F` to filter current element\n- Functions shortcuts for Element\n- `i`: display details (open ShowInfoWindow)\\\n- `p`(for Image):  show `DrawablePicker`\n- `del`: (`shift` to ignore confirmation), delete element\n- `<` / `>`: collapse Group\n- `f`: fix floating Info column\n- `r`: invoke element's method\n\n- ![reviewElement](./screenshots/review_element.png)\n\n# Frag\n\n- Double-click the blue part of Frag to minimize/restore Frag\n- In the minimized state, click the blue part, it will behave like a floating ball\n\n## Window\n\n- Press `Ctrl`+`Tab` to switch windows\n- Press `Shift`+`F4` to close current window\n- RClick the close button to move and scl window.\n\n## ShowInfoWindow\n\n- Show all fields, methods, constructors and nested classes of a obj.\n- Field can be modified.\n- Method can be Invoked(Special).\n- Constructor can be invoked to new a instance.\n\n## Others\n\n### Extensions\n- Http Redirect\n> Redirect some websites, such as: github\\\n> Configuration file: b0kkihope/http_redirect.properties"
   },
   {
+    "repo": "vvseangtvv/project-restoration",
+    "internalName": "restored-mind",
+    "name": "Project: Restoration",
+    "author": "VvSeanGtvV",
+    "lastUpdated": "2024-12-21T06:42:49Z",
+    "stars": 24,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry builds including some classic ones are added to Mindustry v7!"
+  },
+  {
     "repo": "realshizi/oxynoe",
     "internalName": "oxynoe",
     "name": "Oxynoe",
@@ -730,18 +742,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Project viscott is a mindustry mod that adds a \nnew Planet to the campaign, Vercilus, and gives the player a new and unique gameplay experience \n\nThis mod is still in development. \n Expect it to have some slight balancing issues"
-  },
-  {
-    "repo": "vvseangtvv/project-restoration",
-    "internalName": "restored-mind",
-    "name": "Project: Restoration",
-    "author": "VvSeanGtvV",
-    "lastUpdated": "2024-12-21T06:42:49Z",
-    "stars": 23,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry builds including some classic ones are added to Mindustry v7!"
   },
   {
     "repo": "routerxdd/erekir-extended",
@@ -996,6 +996,18 @@
     "description": "ATTENTION:\n\nFrom now on, the mod goes into experimental mode - this means that the balance may not be balanced, such as a Toxopid with a Corvus, whose attack radius go far beyond 60 cells!!!!!\nNevertheless, I advise you to calm down: when the mod reaches its peak (despite my crazy plans for it, the result of which you are already watching), I will make several versions to meet the needs of as many people as possible. In the meantime, it remains to wait. Sorry for the inconvenience.\n\nImportant:\n\nThis mod does not bring anything radically new to the game, but only expands the combat functionality of existing combat units.\n\nPlease pay attention:\n\nThe mod significantly redesigns units, changes the balance and generally complicates the game. Don't forget to make a backup in case you don't like the changes that the mod itself makes.\n\nP.S. The mod is made for ALE maps."
   },
   {
+    "repo": "mindustryvn/mindustrytoolmod",
+    "internalName": "mindustry tool",
+    "name": "MindustryTool(Schematic, Map Browser)",
+    "author": "VN-Shar",
+    "lastUpdated": "2024-12-21T07:53:50Z",
+    "stars": 17,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A online schematic browser"
+  },
+  {
     "repo": "yuria-shikibe/gameinfoimager",
     "internalName": "game-info-imager",
     "name": "Game Info Imager",
@@ -1066,18 +1078,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Welcome to the mod Gloomistry! This is my first mod that adds a new campaign with new content, at the moment the mod is not made to the very end and updates will be released (probably) in which I will finish the campaign to the end and also change the sprites of many blocks that I did not like or that were copied from the original blocks. It is also possible that I will add more new turrets. If you liked the mod, don't forget to give it a star on the GitHub! Contact me: https://t.me/@Thisispzdcnh\n  \n  Приветствую вас в моде Глумистри! Это мой первый мод который добавляет новую кампанию с новым контентом, на данный момент мод сделан не до самого конца и будут выходить обновления(наверно) в которых я доделаю кампанию до конца а также изменю спрайты многих блоков, которые мне не понравились или которые были срисованы с оригинальных блоков. Также возможно я добавлю еще новые турели. Если вам понравился мод, не забудьте поставить ему звезду на ГитХаб! Связаться со мной: https://t.me/@Thisispzdcnh\n\n  Sprites of production blocks By Obsidian"
-  },
-  {
-    "repo": "mindustryvn/mindustrytoolmod",
-    "internalName": "mindustry tool",
-    "name": "MindustryTool(Schematic, Map Browser)",
-    "author": "VN-Shar",
-    "lastUpdated": "2024-12-21T07:53:50Z",
-    "stars": 16,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A online schematic browser"
   },
   {
     "repo": "sputnuc/asterion",
@@ -7408,7 +7408,7 @@
     "internalName": "axoxium",
     "name": "Axoxium",
     "author": "555okboi",
-    "lastUpdated": "2024-12-21T16:49:23Z",
+    "lastUpdated": "2024-12-22T01:01:40Z",
     "stars": 1,
     "minGameVersion": "142",
     "hasScripts": true,
