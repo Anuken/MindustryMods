@@ -564,6 +564,18 @@
     "description": "A Mindustry Java mod."
   },
   {
+    "repo": "mindustryvn/mindustrytoolmod",
+    "internalName": "mindustry-tool",
+    "name": "Mindustry Tool",
+    "author": "[red]VN-[#ff6347]Sharrlotte[]",
+    "lastUpdated": "2024-12-29T15:52:46Z",
+    "stars": 30,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": " [#ff6347]Mindustry Tool – [white]Enhance Your Mindustry Experience[]\n\n[white]Mindustry Tool is a mod that integrates with [#00bfff]mindustry-tool.com[white], allowing players to share and download [#00bfff]maps [white]and [#00bfff]schematics [white]while playing Mindustry. Content is user-generated and curated by [#32cd32]moderators[white], ensuring high quality and [#ff69b4]diversity[].\n\n[accent][#ffeb3b]Share and Download [#00bfff]Maps and Schematics[]:\n  • [white]Upload and download [#00bfff]maps and [#00bfff]schematics [white]to enhance your gameplay.\n\n[accent][#32cd32]Quality Content Moderation[]:\n  • [white]All content is carefully moderated by the [#32cd32]Mindustry Tool [white]team to ensure quality and relevance.\n\n[accent][#00ced1]In-Game Integration[]:\n  • [white]Easily browse and use [#00bfff]maps and [#00bfff]schematics [white]directly in the game for a smooth experience.\n\n[accent][#ff1493]Diverse and High-Quality Content[]:\n  • [white]A wide variety of [#00bfff]maps and [#00bfff]schematics [white]suited for all player levels.\n\n[accent][#ff4500]Extensive Tags for Easy Search[]:\n  • [white]Mindustry Tool offers a detailed tagging system for easy content discovery.\n\n[accent][#9370db]Seamless Map Search and Download[]:\n  • [white]Search and download [#00bfff]maps [white]without leaving the game, enhancing gameplay efficiency.\n\n[#ff6347]Useful Links[]:\n  • [#00bfff] Website: [white]https://mindustry-tool.com[]\n  • [#ff6347] Discord: [white]https://discord.gg/AKQDvDED7y[]"
+  },
+  {
     "repo": "zelaux/bytelogicmod",
     "internalName": "byte-logic-mod",
     "name": "Byte Logic Mod",
@@ -696,18 +708,6 @@
     "description": "A mod provides a variety of tools for modding.\n\n-----------------\nVersion 1.5.4\n## Highlight\n- Fixed a bug about data(settings) save.\n-----------------\n\n## ShowUIList\n\n- Display `icon`, `tex`, `styles`, `colors`, `interps`\\\n!(./screenshots/UIList.png)\n\n## Tester\n\n!(./screenshots/tester.png)\n\n- Provide `JS` editor `Tester`\n- Shortcuts\n- Press `Ctrl`+`Shift`+`Enter` to `execute` code immediately\n- Press `Ctrl`+`Shift`+`↑/↓` to switch `history` records\n- Press `Ctrl`+`Shift`+`D` to `view` detailed information\n- Press `Alt`+`V` to preview `Texture`\n- Built-in `unsafe`, `lookup`\n- Built-in `IntFunc` class (abbreviated as `$`)\n- `$.xxx` can represent primitive data types (e.g., `$.void` represents `Void.TYPE`;`$.J` represents long.class)\n- `$p` represents `Packages`\n- Code: [JSFunc](https://github.com/i-hope1/mod-tools/src/modtools/utils/JSFunc.java)\n- Long press on code in the favorites to add to startup items\\\n!(./screenshots/startup.png)\n- Quick switch history\\\n![Screenshot 2024-03-10 14-45-37](https://github.com/I-hope1/mod-tools/assets/78016895/4918af35-19af-4fab-b961-70bdc8679fe8)\n- `$.item`, `$.liquid`, `$.unit` and so on.\n\n## UnitSpawn\n\n- Multiple team selection\n- Support for fixed point spawning\n- Display `name` and `localizedName`\n- Rightclick the name Label to copy save as JS var.\n\n## Selection\n\n- Selector\n- Supports `Tile`, `Building`, `Bullet`, `Unit`\n- Kill\n- Set Item/Liquid/Team\n- Press `Ctrl`+`Alt` to fix Focus Window\n\n## ReviewElement\n\n- Display element list, double-click to copy element to js variable\n- `Ctrl`+`Shift`+`C` to Inspect Element\n- `Ctrl`+`Alt`+`D` to display bounds of Element\n- Select untouchable elements\n- Mobile: Filter current element with two fingers\n- PC: Press `F` to filter current element\n- Functions shortcuts for Element\n- `i`: display details (open ShowInfoWindow)\\\n- `p`(for Image):  show `DrawablePicker`\n- `del`: (`shift` to ignore confirmation), delete element\n- `<` / `>`: collapse Group\n- `f`: fix floating Info column\n- `r`: invoke element's method\n\n- ![reviewElement](./screenshots/review_element.png)\n\n# Frag\n\n- Double-click the blue part of Frag to minimize/restore Frag\n- In the minimized state, click the blue part, it will behave like a floating ball\n\n## Window\n\n- Press `Ctrl`+`Tab` to switch windows\n- Press `Shift`+`F4` to close current window\n- RClick the close button to move and scl window.\n\n## ShowInfoWindow\n\n- Show all fields, methods, constructors and nested classes of a obj.\n- Field can be modified.\n- Method can be Invoked(Special).\n- Constructor can be invoked to new a instance.\n\n## Others\n\n### Extensions\n- Http Redirect\n> Redirect some websites, such as: github\\\n> Configuration file: b0kkihope/http_redirect.properties"
   },
   {
-    "repo": "mindustryvn/mindustrytoolmod",
-    "internalName": "mindustry-tool",
-    "name": "Mindustry Tool",
-    "author": "[red]VN-[#ff6347]Sharrlotte[]",
-    "lastUpdated": "2024-12-29T15:52:46Z",
-    "stars": 24,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": " [#ff6347]Mindustry Tool – [white]Enhance Your Mindustry Experience[]\n\n[white]Mindustry Tool is a mod that integrates with [#00bfff]mindustry-tool.com[white], allowing players to share and download [#00bfff]maps [white]and [#00bfff]schematics [white]while playing Mindustry. Content is user-generated and curated by [#32cd32]moderators[white], ensuring high quality and [#ff69b4]diversity[].\n\n[accent][#ffeb3b]Share and Download [#00bfff]Maps and Schematics[]:\n  • [white]Upload and download [#00bfff]maps and [#00bfff]schematics [white]to enhance your gameplay.\n\n[accent][#32cd32]Quality Content Moderation[]:\n  • [white]All content is carefully moderated by the [#32cd32]Mindustry Tool [white]team to ensure quality and relevance.\n\n[accent][#00ced1]In-Game Integration[]:\n  • [white]Easily browse and use [#00bfff]maps and [#00bfff]schematics [white]directly in the game for a smooth experience.\n\n[accent][#ff1493]Diverse and High-Quality Content[]:\n  • [white]A wide variety of [#00bfff]maps and [#00bfff]schematics [white]suited for all player levels.\n\n[accent][#ff4500]Extensive Tags for Easy Search[]:\n  • [white]Mindustry Tool offers a detailed tagging system for easy content discovery.\n\n[accent][#9370db]Seamless Map Search and Download[]:\n  • [white]Search and download [#00bfff]maps [white]without leaving the game, enhancing gameplay efficiency.\n\n[#ff6347]Useful Links[]:\n  • [#00bfff] Website: [white]https://mindustry-tool.com[]\n  • [#ff6347] Discord: [white]https://discord.gg/AKQDvDED7y[]"
-  },
-  {
     "repo": "realshizi/oxynoe",
     "internalName": "oxynoe",
     "name": "Oxynoe",
@@ -832,7 +832,7 @@
     "internalName": "meld",
     "name": "Meld",
     "author": "Sh1penfire",
-    "lastUpdated": "2024-12-28T18:21:35Z",
+    "lastUpdated": "2024-12-29T17:29:29Z",
     "stars": 21,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2764,7 +2764,7 @@
     "internalName": " mech ",
     "name": "combat dustry",
     "author": "beee",
-    "lastUpdated": "2024-12-29T15:06:24Z",
+    "lastUpdated": "2024-12-29T17:06:42Z",
     "stars": 6,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -5892,18 +5892,6 @@
     "description": "a mod worked by two idiots that have basically 0.02 brain power \n\nthis mod is going to give the player a nightmare of an experience your goal is to conquer this planet and escape before the nightmares of mechs on this planet kills you...\n\nxb5611 and beee presents this mod\n\nenjoy the tetanus shots ~xb"
   },
   {
-    "repo": "cewwi/resurrection-mod",
-    "internalName": "resurrection",
-    "name": "Resurrection",
-    "author": "cewwi & JJ",
-    "lastUpdated": "2024-12-28T21:41:42Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "We plan to add three new planets into the game, with two new tech trees.\n(actually might add much more, but one step at a time I guess)\n\nA Planet devastated by time, and an ancient force that wants to stay hidden. \nYou, as the malis, have come here from erekir to evade the sharded and regain numbers.  \nBut you were shot down by a large  interplanetary rail cannon, and trapped on this planet by a barrier that can only be destroyed through its source.\nDestroy the new enemy, Conquer this planet as the sharded did yours, and take back erekir.\n\nOn the dark, irradiated wasteland of Iralius, you must research powerful turrets to overcome the mutated inhabitants.\n\nOn the ancient battlefield of Nevorix, you use the technologies that you have researched on Tronoe and Iralius to overcome an ancient enemy that has long gone undefeated. While winning the long - forgotten war, you will also discover new materials to create even more powerful weapons than before."
-  },
-  {
     "repo": "routerxdd/drift-units",
     "internalName": "drift",
     "name": "Drift units",
@@ -5914,6 +5902,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "TIME TO DRIFT"
+  },
+  {
+    "repo": "cewwi/resurrection-mod",
+    "internalName": "resurrection",
+    "name": "Resurrection",
+    "author": "cewwi & JJ",
+    "lastUpdated": "2024-12-29T17:56:06Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "We plan to add three new planets into the game, with two new tech trees.\n(actually might add much more, but one step at a time I guess)\n\nA Planet devastated by time, and an ancient force that wants to stay hidden. \nYou, as the malis, have come here from erekir to evade the sharded and regain numbers.\nThe only problem being that you have been shot down by a massive interplanetary rail cannon, and trapped by a force field that can only be disabled from it's source.\nYour objectives? Destroy the new enemy, conquer this planet as the sharded did yours, and take back erekir.\n\nYou have heard rumors... That on the dark, irradiated wasteland of Nevorix, there lie ancient technologies yet to be uncovered.\nThe only thing that stands in your way, is The New Order. A faction of mindless vessels cotrolled by the Hivemind, an amalgamation of assimilated minds.\nbring this new technology back to your comrades, so they can annihilate the sharded.\n"
   },
   {
     "repo": "teaeempire/gghv7",
