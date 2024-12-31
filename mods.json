@@ -304,7 +304,7 @@
     "internalName": "",
     "name": "ArchiveDustry Java",
     "author": "WilloIzCitron. Copyrights remains with Nexon, Nexon Games and Yostar",
-    "lastUpdated": "2024-12-30T08:47:23Z",
+    "lastUpdated": "2024-12-31T05:16:54Z",
     "stars": 58,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -376,7 +376,7 @@
     "internalName": "mindustry-tool",
     "name": "Mindustry Tool",
     "author": "[red]VN-[#ff6347]Sharrlotte[]",
-    "lastUpdated": "2024-12-30T15:34:02Z",
+    "lastUpdated": "2024-12-31T05:11:48Z",
     "stars": 47,
     "minGameVersion": "140",
     "hasScripts": false,
@@ -2412,6 +2412,18 @@
     "description": "Add something helpful for vanilla. Also have some better UI.\n\n- Coreitem display for mobile.\n- Unit conter display.\n- Time control.\n- Some change for vanilla (see in setting, default is off):\n+ Bigger vault, container and vault in Erekir.\n+ Bigger range for override dome, 200% speed up.\n+ Force projector have more shield health.\n- Auto update.\n- New contents as well:\n+ Thorium / surge conveyor (serpulo)\n+ Some storage blocks\n+ \"T6\" units\n- Aslo make some hidden contents available\n\nWarning: The mod under development, any contributions would be gratefully appreciated. See github for more details."
   },
   {
+    "repo": "huanxefh/reindustrialization",
+    "internalName": "reind",
+    "name": "Reindustrialization",
+    "author": "MaboroshiX",
+    "lastUpdated": "2024-11-28T15:40:04Z",
+    "stars": 7,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "I have seen too many mods with fictional contents bearing random names from reality, and somehow I have been working on this mod.\n\nReind is that type of mod focused on real chemical engineeing and more. Recipes are mostly based on their counterparts in real life, but simplified for gameplay.\nBesides contents, I've spent a lot of time building up new mechanisms, which is done through JS codes.\n\nOnly one planet added for now, which has its own tech tree and style to play. Instead of tower defense, you'll focus on the production part and occasionally, fight with units.\nThe mod is also kind of inspired by GTNH, an extremely hardcore Minecraft tech mod pack. You won't probably capture the first sector in 3 hours if you are not skilled.\n\nReind is still WIP. Do not launch to any numbered sectors!\n\nContents: MaboroshiX\nSprites: MaboroshiX\nScripts: MaboroshiX\nIdeas: MaboroshiX\n\nrednificsdnaaidepikiwybderewop"
+  },
+  {
     "repo": "smolkeys/yellow-rewritten",
     "internalName": "yellow",
     "name": "MINDUSTRY: YELLOW",
@@ -2674,18 +2686,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\n\n  本模组的战役较难，不适合初次接触此游戏的玩家\n  模组难点体现在：\n波次时间短\n地形复杂\n敌人强大\n建议多多发展后勤资源\n使用发射台来提供源源不断的资源\n-\nThe campaign of this mod is very difficult and not suitable for players who are new to this game\nIt is recommended to have an understanding of the game after clearing the original version before playing this mod\nThe difficulty of the module is reflected in:\nWaves are very short\nComplex terrain\nthe enemy is strong\nIt is recommended to develop more logistical resources\nUse launch pads to provide a steady stream of resources\n------------------创世神起源\n"
-  },
-  {
-    "repo": "huanxefh/reindustrialization",
-    "internalName": "reind",
-    "name": "Reindustrialization",
-    "author": "MaboroshiX",
-    "lastUpdated": "2024-11-28T15:40:04Z",
-    "stars": 6,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "I have seen too many mods with fictional contents bearing random names from reality, and somehow I have been working on this mod.\n\nReind is that type of mod focused on real chemical engineeing and more. Recipes are mostly based on their counterparts in real life, but simplified for gameplay.\nBesides contents, I've spent a lot of time building up new mechanisms, which is done through JS codes.\n\nOnly one planet added for now, which has its own tech tree and style to play. Instead of tower defense, you'll focus on the production part and occasionally, fight with units.\nThe mod is also kind of inspired by GTNH, an extremely hardcore Minecraft tech mod pack. You won't probably capture the first sector in 3 hours if you are not skilled.\n\nReind is still WIP. Do not launch to any numbered sectors!\n\nContents: MaboroshiX\nSprites: MaboroshiX\nScripts: MaboroshiX\nIdeas: MaboroshiX\n\nrednificsdnaaidepikiwybderewop"
   },
   {
     "repo": "slashkig/astranium-mod",
@@ -4656,18 +4656,6 @@
     "description": "heyjason mode feat. world procs\ntouch controls are not supported"
   },
   {
-    "repo": "eipusino/heavyindustrymod",
-    "internalName": "heavy-industry",
-    "name": "Heavy Industry",
-    "author": "Eipusino",
-    "lastUpdated": "2024-12-30T10:41:39Z",
-    "stars": 3,
-    "minGameVersion": "146.0",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Warning: This mod currently only supports clients above version be25465. Please do not download this mod for clients above version v146!\nThe desktop platform must ensure that the Java version is 16 or 17.\n\nInstall for fresh and revised mindustry experience.\nPlease note:\nThis Mod is a Java class Mod, therefore it does not support running on the iOS platform.\nTry not to mix with other Mods as much as possible to avoid unknown issues in the game."
-  },
-  {
     "repo": "cameroonets/cryodustry",
     "internalName": "cameroonets's cryodustry",
     "name": "Cryodustry",
@@ -4678,6 +4666,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Дальнейшее продолжение Cameroonets Mod/Добавляет множество ресурсов, юнитов, построек для игры в  Tower Defense, PvP, Survival"
+  },
+  {
+    "repo": "eipusino/heavyindustrymod",
+    "internalName": "heavy-industry",
+    "name": "Heavy Industry",
+    "author": "Eipusino",
+    "lastUpdated": "2024-12-31T05:36:22Z",
+    "stars": 3,
+    "minGameVersion": "146.0",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Warning: This mod currently only supports clients above version be25465. Please do not download this mod for clients above version v146!\nThe desktop platform must ensure that the Java version is 16 or 17.\n\nInstall for fresh and revised mindustry experience.\nPlease note:\nThis Mod is a Java class Mod, therefore it does not support running on the iOS platform.\nTry not to mix with other Mods as much as possible to avoid unknown issues in the game."
   },
   {
     "repo": "wshon/mindustrytoolkit",
