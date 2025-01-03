@@ -125,7 +125,7 @@
     "name": "Fading Revelations",
     "author": "\nDevelopers\n- Json/Hjson : Fresh791\n- Balancing : Fresh791 / .Frankie\n- Bug Fixes : Fresh791\n\nTranslators\n- English : Fresh791\n- German : Fresh791\n- Spanish : Fresh791 / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Fresh791 / Froomeeth\n- Lore: iori / Fresh791\n- Cryogenic Gel, Igneous Alloy,\n  Multiblock-Crafter base model:\n  Null (Nullevoy)\n\nAnd more people!\nCheck the Discord!",
     "lastUpdated": "2023-12-08T20:44:59Z",
-    "stars": 108,
+    "stars": 109,
     "minGameVersion": "144.3",
     "hasScripts": true,
     "hasJava": false,
@@ -173,7 +173,7 @@
     "name": "Asthosus",
     "author": "Catana",
     "lastUpdated": "2025-01-02T20:03:32Z",
-    "stars": 87,
+    "stars": 88,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
@@ -228,6 +228,18 @@
     "description": "Adds a dialog for turning images into processor schematics.\nRequires deltanedas/ui-lib."
   },
   {
+    "repo": "mindustryvn/mindustrytoolmod",
+    "internalName": "mindustry-tool",
+    "name": "Mindustry Tool",
+    "author": "[red]VN-[#ff6347]Sharrlotte[]",
+    "lastUpdated": "2024-12-31T05:11:48Z",
+    "stars": 76,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": " [#ff6347]Mindustry Tool – [white]Enhance Your Mindustry Experience[]\n\n[white]Mindustry Tool is a mod that integrates with [#00bfff]mindustry-tool.com[white], allowing players to share and download [#00bfff]maps [white]and [#00bfff]schematics [white]while playing Mindustry. Content is user-generated and curated by [#32cd32]moderators[white], ensuring high quality and [#ff69b4]diversity[].\n\n[accent][#ffeb3b]Share and Download [#00bfff]Maps and Schematics[]:\n  • [white]Upload and download [#00bfff]maps and [#00bfff]schematics [white]to enhance your gameplay.\n\n[accent][#32cd32]Quality Content Moderation[]:\n  • [white]All content is carefully moderated by the [#32cd32]Mindustry Tool [white]team to ensure quality and relevance.\n\n[accent][#00ced1]In-Game Integration[]:\n  • [white]Easily browse and use [#00bfff]maps and [#00bfff]schematics [white]directly in the game for a smooth experience.\n\n[accent][#ff1493]Diverse and High-Quality Content[]:\n  • [white]A wide variety of [#00bfff]maps and [#00bfff]schematics [white]suited for all player levels.\n\n[accent][#ff4500]Extensive Tags for Easy Search[]:\n  • [white]Mindustry Tool offers a detailed tagging system for easy content discovery.\n\n[accent][#9370db]Seamless Map Search and Download[]:\n  • [white]Search and download [#00bfff]maps [white]without leaving the game, enhancing gameplay efficiency.\n\n[#ff6347]Useful Links[]:\n  • [#00bfff] Website: [white]https://mindustry-tool.com[]\n  • [#ff6347] Discord: [white]https://discord.gg/AKQDvDED7y[]"
+  },
+  {
     "repo": "deltanedas/ui-lib",
     "internalName": "ui_lib",
     "name": "UI Lib",
@@ -238,18 +250,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Library for other mods that unifies and simplifies UI creation."
-  },
-  {
-    "repo": "mindustryvn/mindustrytoolmod",
-    "internalName": "mindustry-tool",
-    "name": "Mindustry Tool",
-    "author": "[red]VN-[#ff6347]Sharrlotte[]",
-    "lastUpdated": "2024-12-31T05:11:48Z",
-    "stars": 75,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": " [#ff6347]Mindustry Tool – [white]Enhance Your Mindustry Experience[]\n\n[white]Mindustry Tool is a mod that integrates with [#00bfff]mindustry-tool.com[white], allowing players to share and download [#00bfff]maps [white]and [#00bfff]schematics [white]while playing Mindustry. Content is user-generated and curated by [#32cd32]moderators[white], ensuring high quality and [#ff69b4]diversity[].\n\n[accent][#ffeb3b]Share and Download [#00bfff]Maps and Schematics[]:\n  • [white]Upload and download [#00bfff]maps and [#00bfff]schematics [white]to enhance your gameplay.\n\n[accent][#32cd32]Quality Content Moderation[]:\n  • [white]All content is carefully moderated by the [#32cd32]Mindustry Tool [white]team to ensure quality and relevance.\n\n[accent][#00ced1]In-Game Integration[]:\n  • [white]Easily browse and use [#00bfff]maps and [#00bfff]schematics [white]directly in the game for a smooth experience.\n\n[accent][#ff1493]Diverse and High-Quality Content[]:\n  • [white]A wide variety of [#00bfff]maps and [#00bfff]schematics [white]suited for all player levels.\n\n[accent][#ff4500]Extensive Tags for Easy Search[]:\n  • [white]Mindustry Tool offers a detailed tagging system for easy content discovery.\n\n[accent][#9370db]Seamless Map Search and Download[]:\n  • [white]Search and download [#00bfff]maps [white]without leaving the game, enhancing gameplay efficiency.\n\n[#ff6347]Useful Links[]:\n  • [#00bfff] Website: [white]https://mindustry-tool.com[]\n  • [#ff6347] Discord: [white]https://discord.gg/AKQDvDED7y[]"
   },
   {
     "repo": "blackdeluxecat/mi2-utilities-java",
@@ -1720,7 +1720,7 @@
     "internalName": "xanthia-3",
     "name": "Xanthia",
     "author": "Coders: Decaract & ItzCraft\nSpriters: Decaract, Nahan\nTesters: DarkSniper, Nahan, ItzCraft, AnDashik\nContributors: Arbuzer, Los Sasikos, AnDashik\nTranslators: Kev-Vily",
-    "lastUpdated": "2025-01-03T11:47:43Z",
+    "lastUpdated": "2025-01-03T13:46:59Z",
     "stars": 10,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -4696,7 +4696,7 @@
     "internalName": "heavy-industry",
     "name": "Heavy Industry",
     "author": "Eipusino",
-    "lastUpdated": "2025-01-03T11:13:40Z",
+    "lastUpdated": "2025-01-03T12:08:42Z",
     "stars": 3,
     "minGameVersion": "146.0",
     "hasScripts": false,
@@ -5652,18 +5652,6 @@
     "description": "A simple mod that[#b39ddb] enhances the original contents[#ffffff] of the game.\n\nThis is my first mod for[#b39ddb] Mindustry[#ffffff].\n\nHas[#b39ddb] Filipino[#ffffff] translations.\n\nThis mod is still[#b39ddb] under development. Rest assured[#ffffff] that the[#b39ddb] contents[#ffffff] are[#b39ddb] complete[#ffffff],[#b39ddb] working[#ffffff] and[#b39ddb] tested[#ffffff] before releasing. Please[#b39ddb] stay tuned for more[#ffffff].[#b39ddb]\n\nThank you so much[#ffffff] for checking out my mod. If you[#b39ddb] like[#ffffff] it, please feel free to[#b39ddb] give it a star[#ffffff] in[#b39ddb] GitHub[#ffffff] (Click the Repo button)."
   },
   {
-    "repo": "acookieg/carbon-vanilla",
-    "internalName": "carbon vanilla",
-    "name": "Carbon-Vanilla",
-    "author": "AcookieG",
-    "lastUpdated": "2024-09-27T10:34:28Z",
-    "stars": 2,
-    "minGameVersion": "145",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds multiple new factories, turrets and items to enhance vanilla content and add more things post-late game. IMPORTANT: Credit for sprites cuz stealing bad: Eschatologue/Unlimited-Armament-Works, AureusStratus/ExoGenesis, Eschatologue/Heavy-Armaments-Industries, uujuju1/project-oblivion"
-  },
-  {
     "repo": "agzam4/mindustry-new-game-mode",
     "internalName": "newgamemod",
     "name": "New game Mod",
@@ -5938,6 +5926,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "We plan to add three new planets into the game, with two new tech trees.\n(actually might add much more, but one step at a time I guess)\n\nA Planet Devestated by time. Tronoe P07 was never the planet the we expected to find. \nUnder all the rubble, was an emmense cavern that had spanded through nearly the whole planet.\nWho knows what we'll find down here.\n\nYou have heard rumors... That on the dark, irradiated wasteland of Nevorix, there lie ancient technologies yet to be uncovered.\nThe only thing that stands in your way, is The New Order. A faction of mindless vessels cotrolled by the Hivemind, an amalgamation of assimilated minds.\nbring this new technology back to your comrades, so they can annihilate the sharded.\n"
+  },
+  {
+    "repo": "acookieg/carbon-vanilla",
+    "internalName": "carbon vanilla",
+    "name": "Carbon-Vanilla",
+    "author": "AcookieG",
+    "lastUpdated": "2025-01-03T12:20:56Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds multiple new factories, turrets and items to enhance vanilla content and add more things post-late game. IMPORTANT: Credit for sprites cuz stealing bad: Eschatologue/Unlimited-Armament-Works, AureusStratus/ExoGenesis, Eschatologue/Heavy-Armaments-Industries, uujuju1/project-oblivion"
   },
   {
     "repo": "teaeempire/gghv7",
@@ -9508,7 +9508,7 @@
     "internalName": "mindustrytaller",
     "name": "Mindustry Taller",
     "author": "CalebMonkey",
-    "lastUpdated": "2025-01-02T22:50:14Z",
+    "lastUpdated": "2025-01-03T13:16:55Z",
     "stars": 0,
     "minGameVersion": "146",
     "hasScripts": true,
