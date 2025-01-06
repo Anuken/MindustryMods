@@ -172,7 +172,7 @@
     "internalName": "asthosus",
     "name": "Asthosus",
     "author": "Catser",
-    "lastUpdated": "2025-01-05T20:38:21Z",
+    "lastUpdated": "2025-01-06T19:21:34Z",
     "stars": 89,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -916,7 +916,7 @@
     "internalName": "bsm",
     "name": "Betterustry Mod",
     "author": "D&X",
-    "lastUpdated": "2025-01-06T17:34:40Z",
+    "lastUpdated": "2025-01-06T19:41:32Z",
     "stars": 19,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -1716,11 +1716,23 @@
     "description": "SITUVNgd's test mod\n\nCurrently features:\n- Show system log (system console) for mobile.\n- Console for mobile.\n- Extended unit command: only show when team have atleast 1 commnadable unit.\n  + Select all units in screen -> whole map.\n  + Select same types of selected units in screen -> whole map.\n  + Units team assign, number 1 -> 9.\n  + Add/remove units to/from current selected units.\n  + Fast deselect all selected units.\n- Notification: insprited by RA2, show a list of notifications on top-left, will fade out after a few secs.\n- Chat supprort.\n- Tags list allow manually sort, easier for tag selection.\n- Block rotation for mobile.\n- Memory viewer for Memory cell, Memory bank and World cell.\n- Other shits!!!\n\n---\nGo to [accent]Settings > SITUVNgcd's mod settings[] to turn on/off some settings.\nClick [accent]Repo[] if you want to see the code."
   },
   {
+    "repo": "koctolom/mindustry-overhaul",
+    "internalName": "mov",
+    "name": "Mindustry Overhaul",
+    "author": "KOSTOLOM and D&X",
+    "lastUpdated": "2025-01-05T17:22:21Z",
+    "stars": 10,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "RU: Очень опасный мод, который влияет на баланс и механику игры, добавляет новый контент в виде статус эффектов и оборонительных сооружений (башен, мин и т.д.).\n\nРекомендуется перед установкой сделать сохранение (чтобы откатиться назад), если в случае вам не понравится то, что может сделать данный мод. И лучше в самом деле не рискуйте лишний раз и поверьте на слово: МОД. МЕНЯЕТ. МНОГОЕ.\n\n\n\nENG: A very dangerous mod that affects the balance and mechanics of the game, adds new content in the form of status effects and defensive structures (towers, mines, etc.).\n\n\nPreferably before installing make a save (to roll back), if in case you do not like what this mod can do. And it is better to really do not take unnecessary risks and take my word for it: MOD. CHANGES. EVERYTHING.\n\nmov mod test subjects:\n- eve_light."
+  },
+  {
     "repo": "itzcraft/xanthia",
     "internalName": "xanthia-3",
     "name": "Xanthia",
     "author": "Coders: Decaract & ItzCraft\nSpriters: Decaract, Nahan\nTesters: DarkSniper, Nahan, ItzCraft, AnDashik\nContributors: Arbuzer, Los Sasikos, AnDashik\nTranslators: Kev-Vily",
-    "lastUpdated": "2025-01-06T14:11:06Z",
+    "lastUpdated": "2025-01-06T18:06:42Z",
     "stars": 10,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1894,18 +1906,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "BETA sandbox only! requires blackhole render by meep of faith"
-  },
-  {
-    "repo": "koctolom/mindustry-overhaul",
-    "internalName": "mov",
-    "name": "Mindustry Overhaul",
-    "author": "KOSTOLOM and D&X",
-    "lastUpdated": "2025-01-05T17:22:21Z",
-    "stars": 9,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "RU: Очень опасный мод, который влияет на баланс и механику игры, добавляет новый контент в виде статус эффектов и оборонительных сооружений (башен, мин и т.д.).\n\nРекомендуется перед установкой сделать сохранение (чтобы откатиться назад), если в случае вам не понравится то, что может сделать данный мод. И лучше в самом деле не рискуйте лишний раз и поверьте на слово: МОД. МЕНЯЕТ. МНОГОЕ.\n\n\n\nENG: A very dangerous mod that affects the balance and mechanics of the game, adds new content in the form of status effects and defensive structures (towers, mines, etc.).\n\n\nPreferably before installing make a save (to roll back), if in case you do not like what this mod can do. And it is better to really do not take unnecessary risks and take my word for it: MOD. CHANGES. EVERYTHING.\n\nmov mod test subjects:\n- eve_light."
   },
   {
     "repo": "liplum/bottledliquid",
@@ -2776,7 +2776,7 @@
     "internalName": " mech ",
     "name": "combat dustry",
     "author": "beee",
-    "lastUpdated": "2025-01-06T11:11:37Z",
+    "lastUpdated": "2025-01-06T19:46:20Z",
     "stars": 6,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -5892,30 +5892,6 @@
     "description": "Adds multiple new factories, turrets and items to enhance vanilla content and add more things post-late game. IMPORTANT: Credit for sprites cuz stealing bad: Eschatologue/Unlimited-Armament-Works, AureusStratus/ExoGenesis, Eschatologue/Heavy-Armaments-Industries, uujuju1/project-oblivion"
   },
   {
-    "repo": "weeersix/ernomytase-erekir-dlc",
-    "internalName": "ernom",
-    "name": "Ernomytase | Erekir DLC",
-    "author": "Weeersix",
-    "lastUpdated": "2025-01-05T18:08:42Z",
-    "stars": 2,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Ernomytase - a modification that adds a continuation of the Erekir campaign"
-  },
-  {
-    "repo": "cewwi/resurrection-mod",
-    "internalName": "resurrection",
-    "name": "Cataclysm",
-    "author": "[#0c6ed1]cewwi[] & [#BC5452FF]JJ[]",
-    "lastUpdated": "2025-01-06T08:38:52Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "We plan to add three new planets into the game, with two new tech trees. \n(actually might add much more, but one step at a time I guess)\n\nA Planet Devestated by time. Tronoe P07 was never the planet the we expected to find. \nUnder all the rubble, was an emmense cavern that had spanded through nearly the whole planet.\nWho knows what we'll find down here.\n\nYou have heard rumors... That on the dark, irradiated wasteland of Nevorix, there lie ancient technologies yet to be uncovered.\nThe only thing that stands in your way, is The New Order. A faction of mindless vessels cotrolled by the Hivemind, an amalgamation of assimilated minds.\nbring this powerful technology back from the planet, so that you may annihilate an ancient foe once and for all..."
-  },
-  {
     "repo": "new-guys5634/rusted-dunes",
     "internalName": "rusted-dunes",
     "name": "rusted dunes",
@@ -5926,6 +5902,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "rusted dunes is a type of mod that's not hard or easy and your goals are to make technology in use of eroded materials or rusted materials and produce rusted units and soon upgrade them to there potential \n\ndunes is a wasted planet and the crux has also broken most of their equipment due to thick atmosphere of rust "
+  },
+  {
+    "repo": "cewwi/resurrection-mod",
+    "internalName": "resurrection",
+    "name": "Cataclysm",
+    "author": "[#0c6ed1]cewwi[] & [#BC5452FF]JJ[]",
+    "lastUpdated": "2025-01-06T19:47:29Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "We plan to add three new planets into the game, with two new tech trees. \n(actually might add much more, but one step at a time I guess)\n\nA Planet Devestated by time. Tronoe P07 was never the planet the we expected to find. \nUnder all the rubble, was an emmense cavern that had spanded through nearly the whole planet.\nWho knows what we'll find down here.\n\nYou have heard rumors... That on the dark, irradiated wasteland of Nevorix, there lie ancient technologies yet to be uncovered.\nThe only thing that stands in your way, is The New Order. A faction of mindless vessels cotrolled by the Hivemind, an amalgamation of assimilated minds.\nbring this powerful technology back from the planet, so that you may annihilate an ancient foe once and for all..."
   },
   {
     "repo": "teaeempire/gghv7",
@@ -7438,6 +7426,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A companion mod for Kotlin based mods and plugins."
+  },
+  {
+    "repo": "weeersix/ernomytase-erekir-dlc",
+    "internalName": "ernom",
+    "name": "Ernomytase | Erekir DLC",
+    "author": "Weeersix",
+    "lastUpdated": "2025-01-06T20:00:45Z",
+    "stars": 1,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Ernomytase - a modification that adds a continuation of the Erekir campaign"
   },
   {
     "repo": "kapzduke/vanilla-extension",
@@ -9456,18 +9456,6 @@
     "description": "The sandgun in <Terraria>"
   },
   {
-    "repo": "calebmonkey/mindustrytaller",
-    "internalName": "mindustrytaller",
-    "name": "Mindustry Taller",
-    "author": "CalebMonkey",
-    "lastUpdated": "2025-01-03T15:00:09Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Mindustry Taller adds more items and turrets to the game. It aims to expand the game without making it wider, allowing for higher strength of production and defence without impacting the early game."
-  },
-  {
     "repo": "isekairid/strategia_expanded",
     "internalName": "strategia-expanded",
     "name": "Strategia Expanded",
@@ -9502,5 +9490,29 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Nothing to see here"
+  },
+  {
+    "repo": "belogvardeec-belich/shrekmod",
+    "internalName": "shrek",
+    "name": "Shrek",
+    "author": "Belogvardeec",
+    "lastUpdated": "2025-01-06T18:26:10Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "New shrek unit"
+  },
+  {
+    "repo": "calebmonkey/mindustrytaller",
+    "internalName": "mindustrytaller",
+    "name": "Mindustry Taller",
+    "author": "CalebMonkey",
+    "lastUpdated": "2025-01-06T19:38:17Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Mindustry Taller adds more items and turrets to the game. It aims to expand the game without making it wider, allowing for higher strength of production and defence without impacting the early game."
   }
 ]
