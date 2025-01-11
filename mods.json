@@ -161,7 +161,7 @@
     "name": "Mindustry Tool",
     "author": "[red]VN-[#ff6347]Sharrlotte[]",
     "lastUpdated": "2025-01-05T09:17:30Z",
-    "stars": 90,
+    "stars": 91,
     "minGameVersion": "140",
     "hasScripts": false,
     "hasJava": true,
@@ -184,7 +184,7 @@
     "internalName": "asthosus",
     "name": "Asthosus",
     "author": "Catser",
-    "lastUpdated": "2025-01-10T20:09:35Z",
+    "lastUpdated": "2025-01-11T19:12:38Z",
     "stars": 89,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -684,6 +684,18 @@
     "description": "A mod inspired by Starcraft 2, add zerg to the game and a bunch of spore related thing.\nCredit:\nHydro for creating the sprites\nDryehm for existing\nHave a great day :D\nhHhhhHH"
   },
   {
+    "repo": "i-hope1/mod-tools",
+    "internalName": "mod-tools",
+    "name": "mod-tools",
+    "author": "I hope...",
+    "lastUpdated": "2025-01-11T13:15:39Z",
+    "stars": 25,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod provides a variety of tools for modding.\n\n-----------------\nVersion 1.5.5\n## Highlight\n- Fixed a severe npe bug about data(settings) save.\n- Added a setting: force_language.\n-----------------\n\n## ShowUIList\n\n- Display `icon`, `tex`, `styles`, `colors`, `interps`\\\n!(./screenshots/UIList.png)\n\n## Tester\n\n!(./screenshots/tester.png)\n\n- Provide `JS` editor `Tester`\n- Shortcuts\n- Press `Ctrl`+`Shift`+`Enter` to `execute` code immediately\n- Press `Ctrl`+`Shift`+`↑/↓` to switch `history` records\n- Press `Ctrl`+`Shift`+`D` to `view` detailed information\n- Press `Alt`+`V` to preview `Texture`\n- Built-in `unsafe`, `lookup`\n- Built-in `IntFunc` class (abbreviated as `$`)\n- `$.xxx` can represent primitive data types (e.g., `$.void` represents `Void.TYPE`;`$.J` represents long.class)\n- `$p` represents `Packages`\n- Code: [JSFunc](https://github.com/i-hope1/mod-tools/src/modtools/utils/JSFunc.java)\n- Long press on code in the favorites to add to startup items\\\n!(./screenshots/startup.png)\n- Quick switch history\\\n![Screenshot 2024-03-10 14-45-37](https://github.com/I-hope1/mod-tools/assets/78016895/4918af35-19af-4fab-b961-70bdc8679fe8)\n- `$.item`, `$.liquid`, `$.unit` and so on.\n\n## UnitSpawn\n\n- Multiple team selection\n- Support for fixed point spawning\n- Display `name` and `localizedName`\n- Rightclick the name Label to copy save as JS var.\n\n## Selection\n\n- Selector\n- Supports `Tile`, `Building`, `Bullet`, `Unit`\n- Kill\n- Set Item/Liquid/Team\n- Press `Ctrl`+`Alt` to fix Focus Window\n\n## ReviewElement\n\n- Display element list, double-click to copy element to js variable\n- `Ctrl`+`Shift`+`C` to Inspect Element\n- `Ctrl`+`Alt`+`D` to display bounds of Element\n- Select untouchable elements\n- Mobile: Filter current element with two fingers\n- PC: Press `F` to filter current element\n- Functions shortcuts for Element\n- `i`: display details (open ShowInfoWindow)\\\n- `p`(for Image):  show `DrawablePicker`\n- `del`: (`shift` to ignore confirmation), delete element\n- `<` / `>`: collapse Group\n- `f`: fix floating Info column\n- `r`: invoke element's method\n\n- ![reviewElement](./screenshots/review_element.png)\n\n# Frag\n\n- Double-click the blue part of Frag to minimize/restore Frag\n- In the minimized state, click the blue part, it will behave like a floating ball\n\n## Window\n\n- Press `Ctrl`+`Tab` to switch windows\n- Press `Shift`+`F4` to close current window\n- RClick the close button to move and scl window.\n\n## ShowInfoWindow\n\n- Show all fields, methods, constructors and nested classes of a obj.\n- Field can be modified.\n- Method can be Invoked(Special).\n- Constructor can be invoked to new a instance.\n\n## Others\n\n### Extensions\n- Http Redirect\n> Redirect some websites, such as: github\\\n> Configuration file: b0kkihope/http_redirect.properties"
+  },
+  {
     "repo": "three-cold-planets/welcome-to-the-frostscape",
     "internalName": "",
     "name": "Welcome to the Frostscape",
@@ -694,18 +706,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A currently [red]indev[] colab mod with huge scope, being built one planet at a time.\n\nAims to add several cold planets with linked campaigns, along with mechanics that'll [accent]revolutionise[] the way you interact with the mod's different environments, while trying to stay enjoyable and even a lil silly at times.\n\n[darkgray]A voice lingers in the darkness, dancing around your ears. Will you join it?"
-  },
-  {
-    "repo": "i-hope1/mod-tools",
-    "internalName": "mod-tools",
-    "name": "mod-tools",
-    "author": "I hope...",
-    "lastUpdated": "2025-01-11T13:15:39Z",
-    "stars": 24,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod provides a variety of tools for modding.\n\n-----------------\nVersion 1.5.5\n## Highlight\n- Fixed a severe npe bug about data(settings) save.\n- Added a setting: force_language.\n-----------------\n\n## ShowUIList\n\n- Display `icon`, `tex`, `styles`, `colors`, `interps`\\\n!(./screenshots/UIList.png)\n\n## Tester\n\n!(./screenshots/tester.png)\n\n- Provide `JS` editor `Tester`\n- Shortcuts\n- Press `Ctrl`+`Shift`+`Enter` to `execute` code immediately\n- Press `Ctrl`+`Shift`+`↑/↓` to switch `history` records\n- Press `Ctrl`+`Shift`+`D` to `view` detailed information\n- Press `Alt`+`V` to preview `Texture`\n- Built-in `unsafe`, `lookup`\n- Built-in `IntFunc` class (abbreviated as `$`)\n- `$.xxx` can represent primitive data types (e.g., `$.void` represents `Void.TYPE`;`$.J` represents long.class)\n- `$p` represents `Packages`\n- Code: [JSFunc](https://github.com/i-hope1/mod-tools/src/modtools/utils/JSFunc.java)\n- Long press on code in the favorites to add to startup items\\\n!(./screenshots/startup.png)\n- Quick switch history\\\n![Screenshot 2024-03-10 14-45-37](https://github.com/I-hope1/mod-tools/assets/78016895/4918af35-19af-4fab-b961-70bdc8679fe8)\n- `$.item`, `$.liquid`, `$.unit` and so on.\n\n## UnitSpawn\n\n- Multiple team selection\n- Support for fixed point spawning\n- Display `name` and `localizedName`\n- Rightclick the name Label to copy save as JS var.\n\n## Selection\n\n- Selector\n- Supports `Tile`, `Building`, `Bullet`, `Unit`\n- Kill\n- Set Item/Liquid/Team\n- Press `Ctrl`+`Alt` to fix Focus Window\n\n## ReviewElement\n\n- Display element list, double-click to copy element to js variable\n- `Ctrl`+`Shift`+`C` to Inspect Element\n- `Ctrl`+`Alt`+`D` to display bounds of Element\n- Select untouchable elements\n- Mobile: Filter current element with two fingers\n- PC: Press `F` to filter current element\n- Functions shortcuts for Element\n- `i`: display details (open ShowInfoWindow)\\\n- `p`(for Image):  show `DrawablePicker`\n- `del`: (`shift` to ignore confirmation), delete element\n- `<` / `>`: collapse Group\n- `f`: fix floating Info column\n- `r`: invoke element's method\n\n- ![reviewElement](./screenshots/review_element.png)\n\n# Frag\n\n- Double-click the blue part of Frag to minimize/restore Frag\n- In the minimized state, click the blue part, it will behave like a floating ball\n\n## Window\n\n- Press `Ctrl`+`Tab` to switch windows\n- Press `Shift`+`F4` to close current window\n- RClick the close button to move and scl window.\n\n## ShowInfoWindow\n\n- Show all fields, methods, constructors and nested classes of a obj.\n- Field can be modified.\n- Method can be Invoked(Special).\n- Constructor can be invoked to new a instance.\n\n## Others\n\n### Extensions\n- Http Redirect\n> Redirect some websites, such as: github\\\n> Configuration file: b0kkihope/http_redirect.properties"
   },
   {
     "repo": "realshizi/oxynoe",
@@ -1072,7 +1072,7 @@
     "internalName": "as",
     "name": "Asterion",
     "author": " |Asterion Team| ",
-    "lastUpdated": "2025-01-08T17:57:04Z",
+    "lastUpdated": "2025-01-11T19:03:05Z",
     "stars": 16,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -1898,14 +1898,14 @@
   {
     "repo": "hungrycloud4913/hc-expanded-dawn",
     "internalName": "hc-expanded-dawn",
-    "name": "HC-Expanded-Dawn",
+    "name": "HC Expanded Dawn",
     "author": "HungryCloud4913",
-    "lastUpdated": "2025-01-11T17:51:01Z",
+    "lastUpdated": "2025-01-11T19:57:40Z",
     "stars": 9,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": false,
-    "description": "Warning: This is not New Horizons.\nPlease leave a star on Github, It lets me know you enjoy the mod.\nCredits to everyone who helped even in the slightest bit ever,\nDiscord Helpers: mindustridiot_06647 - Unit suggestions and unit FX work, cy4nide0165 - Railhammer unit FX work and suggestion, Elysia - A couple spare sprites given because they didn't need them, display_namer - Small coding help for animated items and liquids"
+    "description": "Please leave a star on Github, It lets me know you enjoy the mod.\n\nCredits to everyone who helped even in the slightest bit ever,\n\nDiscord Helpers: \n           mindustridiot_06647 - Unit suggestions and unit FX work, \n           /////\n           cy4nide0165 - Railhammer unit FX work and suggestion, \n           /////\n           Elysia - A couple spare sprites given because they didn't need them, \n           /////\n           display_namer - Small coding help for animated items and liquids\n           /////\n           Aureus - Helping me understand tank treads by a tiny margin"
   },
   {
     "repo": "liplum/bottledliquid",
@@ -3804,6 +3804,18 @@
     "description": "It's my First* mod! Yay! It adds alot of units. Such as Purple navals, Orange spiders, Blue air-bombers and much more! \nwarning not all the trees are finished infact none are. \nThanks to my spriter Aegires for making some of theese awsome sprites!"
   },
   {
+    "repo": "kiwi-ustal/ntm-ru",
+    "internalName": "ntm-ru",
+    "name": "NTM - На русском",
+    "author": "*Киви*",
+    "lastUpdated": "2025-01-11T19:15:18Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Перевод мода Ntm\n\nБлагодарности:\nhacker_pentagon (Китайский Котик)\nKoctz34 (Ion - 7274, автор Оригинала)"
+  },
+  {
     "repo": "mythril382/u-r-a-i-c",
     "internalName": "mythril-uraic",
     "name": "U. R. A. I. C.",
@@ -4690,18 +4702,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "heyjason mode feat. world procs\ntouch controls are not supported"
-  },
-  {
-    "repo": "kiwi-ustal/ntm-ru",
-    "internalName": "ntm-ru",
-    "name": "NTM - На русском",
-    "author": "*Киви*",
-    "lastUpdated": "2025-01-11T16:03:53Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Перевод мода Ntm\n\nБлагодарности:\nhacker_pentagon (Китайский Котик)\nKoctz34 (Ion - 7274, автор Оригинала)"
   },
   {
     "repo": "wshon/mindustrytoolkit",
@@ -5904,18 +5904,6 @@
     "description": "rusted dunes is a type of mod that's not hard or easy and your goals are to make technology in use of eroded materials or rusted materials and produce rusted units and soon upgrade them to there potential \n\ndunes is a wasted planet and the crux has also broken most of their equipment due to thick atmosphere of rust "
   },
   {
-    "repo": "cewwi/resurrection-mod",
-    "internalName": "resurrection",
-    "name": "Cataclysm",
-    "author": "[#0c6ed1]cewwi[] & [#BC5452FF]JJ[]",
-    "lastUpdated": "2025-01-10T03:08:38Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "We plan to add three new planets into the game, with two new tech trees. \n(actually might add much more, but one step at a time I guess)\n\nA Planet Devestated by time. Tronoe P07 was never the planet the we expected to find. \nUnder all the rubble, was an emmense cavern that had spanded through nearly the whole planet.\nWho knows what we'll find down here.\n\nYou have heard rumors... That on the dark, irradiated wasteland of Nevorix, there lie ancient technologies yet to be uncovered.\nThe only thing that stands in your way, is The New Order. A faction of mindless vessels cotrolled by the Hivemind, an amalgamation of assimilated minds.\nbring this powerful technology back from the planet, so that you may annihilate an ancient foe once and for all..."
-  },
-  {
     "repo": "dsfdsfwxp/finalcampaign",
     "internalName": "final-campaign",
     "name": "finalCampaign",
@@ -5926,6 +5914,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A interesting mod. \n!!! Under development now. Coming soon."
+  },
+  {
+    "repo": "cewwi/resurrection-mod",
+    "internalName": "resurrection",
+    "name": "Cataclysm",
+    "author": "[#0c6ed1]cewwi[] & [#BC5452FF]JJ[]",
+    "lastUpdated": "2025-01-11T19:58:26Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "We plan to add three new planets into the game, with two new tech trees. \n(actually might add much more, but one step at a time I guess)\n\nA Planet Devestated by time. Tronoe P07 was never the planet the we expected to find. \nUnder all the rubble, was an emmense cavern that had spanded through nearly the whole planet.\nWho knows what we'll find down here.\n\nYou have heard rumors... That on the dark, irradiated wasteland of Nevorix, there lie ancient technologies yet to be uncovered.\nThe only thing that stands in your way, is The New Order. A faction of mindless vessels cotrolled by the Hivemind, an amalgamation of assimilated minds.\nbring this powerful technology back from the planet, so that you may annihilate an ancient foe once and for all..."
   },
   {
     "repo": "teaeempire/gghv7",
@@ -9544,7 +9544,7 @@
     "internalName": "airstrike-mod",
     "name": "Mindustry Airstrike",
     "author": "Cra-C-Guy",
-    "lastUpdated": "2025-01-11T14:48:21Z",
+    "lastUpdated": "2025-01-11T19:31:32Z",
     "stars": 0,
     "minGameVersion": "146",
     "hasScripts": false,
