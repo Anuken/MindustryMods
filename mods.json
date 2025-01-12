@@ -2776,7 +2776,7 @@
     "internalName": "icicle-world",
     "name": "Buried in Ice",
     "author": "R.O.T.",
-    "lastUpdated": "2025-01-12T09:47:15Z",
+    "lastUpdated": "2025-01-12T10:28:19Z",
     "stars": 6,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -5880,30 +5880,6 @@
     "description": "Adds multiple new factories, turrets and items to enhance vanilla content and add more things post-late game. IMPORTANT: Credit for sprites cuz stealing bad: Eschatologue/Unlimited-Armament-Works, AureusStratus/ExoGenesis, Eschatologue/Heavy-Armaments-Industries, uujuju1/project-oblivion"
   },
   {
-    "repo": "new-guys5634/rusted-dunes",
-    "internalName": "rusted-dunes",
-    "name": "rusted dunes",
-    "author": "beee",
-    "lastUpdated": "2025-01-08T21:08:38Z",
-    "stars": 2,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "rusted dunes is a type of mod that's not hard or easy and your goals are to make technology in use of eroded materials or rusted materials and produce rusted units and soon upgrade them to there potential \n\ndunes is a wasted planet and the crux has also broken most of their equipment due to thick atmosphere of rust "
-  },
-  {
-    "repo": "dsfdsfwxp/finalcampaign",
-    "internalName": "final-campaign",
-    "name": "finalCampaign",
-    "author": "Wxp",
-    "lastUpdated": "2025-01-11T16:43:31Z",
-    "stars": 2,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A interesting mod. \n!!! Under development now. Coming soon."
-  },
-  {
     "repo": "cewwi/resurrection-mod",
     "internalName": "resurrection",
     "name": "Cataclysm",
@@ -5926,6 +5902,30 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod."
+  },
+  {
+    "repo": "new-guys5634/rusted-dunes",
+    "internalName": "rusted-dunes",
+    "name": "rusted dunes",
+    "author": "beee",
+    "lastUpdated": "2025-01-12T11:01:48Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "rusted dunes is a type of mod that's not hard or easy and your goals are to make technology in use of eroded materials or rusted materials and produce rusted units and soon upgrade them to there potential \n\ndunes is a wasted planet and the crux has also broken most of their equipment due to thick atmosphere of rust "
+  },
+  {
+    "repo": "dsfdsfwxp/finalcampaign",
+    "internalName": "final-campaign",
+    "name": "finalCampaign",
+    "author": "Wxp",
+    "lastUpdated": "2025-01-12T11:53:04Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A interesting mod. \n!!! Under development now. Coming soon."
   },
   {
     "repo": "teaeempire/gghv7",
@@ -7456,7 +7456,7 @@
     "internalName": "axoxium",
     "name": "Axoxium",
     "author": "555okboi",
-    "lastUpdated": "2025-01-12T09:44:56Z",
+    "lastUpdated": "2025-01-12T10:42:06Z",
     "stars": 1,
     "minGameVersion": "142",
     "hasScripts": true,
@@ -9408,18 +9408,6 @@
     "description": "Makes Pal.accent color random on each game boot. Refresh your style!"
   },
   {
-    "repo": "willoizcitron/timecontroljava",
-    "internalName": "",
-    "name": "Time Control Java",
-    "author": "WilloIzCitron",
-    "lastUpdated": "2024-12-27T14:50:45Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Time Control but in Java, Originated by sk7725. Dont use TimeControl and TimeControlJava at same time, it will conflicting each other. DO NOT USE IN MULTIPLAYER!!"
-  },
-  {
     "repo": "wdfeer/ferrum",
     "internalName": "ferrum",
     "name": "Ferrum",
@@ -9528,27 +9516,39 @@
     "description": "Nothing to see here"
   },
   {
-    "repo": "shorpazha/atome-for-mindustry",
-    "internalName": "atome",
-    "name": "atome-for-mindustry",
-    "author": "šorp | Roy d'örp",
-    "lastUpdated": "2025-01-10T19:46:19Z",
+    "repo": "willoizcitron/timecontroljava",
+    "internalName": "",
+    "name": "Time Control Java",
+    "author": "WilloIzCitron",
+    "lastUpdated": "2025-01-12T10:47:56Z",
     "stars": 0,
-    "minGameVersion": "136",
+    "minGameVersion": "146",
     "hasScripts": false,
-    "hasJava": false,
-    "description": "Mod de physique,\ncréer de base pour minetest,\nle mods est disponnible sur:\n-minetest\n-mindustry (WIP)\n-mineclone2 (WIP)"
+    "hasJava": true,
+    "description": "Time Control but in Java, Originated by sk7725. Dont use TimeControl and TimeControlJava at same time, it will conflicting each other. DO NOT USE IN MULTIPLAYER!!"
   },
   {
     "repo": "ccernusca/mindustry-airstrike",
     "internalName": "airstrike-mod",
     "name": "Mindustry Airstrike",
     "author": "Cra-C-Guy",
-    "lastUpdated": "2025-01-11T19:31:32Z",
+    "lastUpdated": "2025-01-12T11:03:02Z",
     "stars": 0,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod adding airstrikes.\n\nThe core mechanic of the mod are the Orbital Weapons, which are launched into orbit using satellites and the Launcher block.\n\nWeapons in orbit are saved across game sessions and can be accessed from any sector on the planet they were launched from, or only from the sector they were launched from, if the sector is not on a planet (not in campaign).\n\nOrbital Weapons are monitored via the Orbital Monitor and can be called to strike using the Beacon and the Orbital Controller."
+  },
+  {
+    "repo": "shorpazha/atome-for-mindustry",
+    "internalName": "atome",
+    "name": "atome-for-mindustry",
+    "author": "ShorpAzha",
+    "lastUpdated": "2025-01-12T11:48:28Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Physics mod, with all atomes of the periodic table"
   }
 ]
