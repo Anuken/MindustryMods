@@ -4,7 +4,7 @@
     "internalName": "new-horizon",
     "name": "New Horizon",
     "author": "Yuria",
-    "lastUpdated": "2025-01-11T16:15:19Z",
+    "lastUpdated": "2025-01-14T05:11:20Z",
     "stars": 401,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -148,7 +148,7 @@
     "internalName": "omaloon",
     "name": "Omaloon",
     "author": "stabu, uujuju",
-    "lastUpdated": "2025-01-14T01:38:34Z",
+    "lastUpdated": "2025-01-14T05:16:53Z",
     "stars": 94,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -556,7 +556,7 @@
     "internalName": "restored-mind",
     "name": "Project: Restoration",
     "author": "VvSeanGtvV",
-    "lastUpdated": "2025-01-13T16:05:41Z",
+    "lastUpdated": "2025-01-14T05:35:52Z",
     "stars": 31,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1332,6 +1332,18 @@
     "description": "My new planet mod!"
   },
   {
+    "repo": "koctolom/mindustry-overhaul",
+    "internalName": "mov",
+    "name": "Mindustry Overhaul",
+    "author": "KOSTOLOM and D&X",
+    "lastUpdated": "2025-01-13T16:10:23Z",
+    "stars": 13,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "RU: Очень опасный мод, который влияет на баланс и механику игры, добавляет новый контент в виде статус эффектов и оборонительных сооружений (башен, мин и т.д.).\n\nРекомендуется перед установкой сделать сохранение (чтобы откатиться назад), если в случае вам не понравится то, что может сделать данный мод. И лучше в самом деле не рискуйте лишний раз и поверьте на слово: МОД. МЕНЯЕТ. МНОГОЕ.\n\n\n\nENG: A very dangerous mod that affects the balance and mechanics of the game, adds new content in the form of status effects and defensive structures (towers, mines, etc.).\n\n\nPreferably before installing make a save (to roll back), if in case you do not like what this mod can do. And it is better to really do not take unnecessary risks and take my word for it: MOD. CHANGES. EVERYTHING.\n\nmov mod testers:\n- eve_light."
+  },
+  {
     "repo": "otamamori917/axthrix-modded-java",
     "internalName": "aj",
     "name": "Axthrix",
@@ -1402,18 +1414,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer, focus on RTS controls, and pain on top"
-  },
-  {
-    "repo": "koctolom/mindustry-overhaul",
-    "internalName": "mov",
-    "name": "Mindustry Overhaul",
-    "author": "KOSTOLOM and D&X",
-    "lastUpdated": "2025-01-13T16:10:23Z",
-    "stars": 12,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "RU: Очень опасный мод, который влияет на баланс и механику игры, добавляет новый контент в виде статус эффектов и оборонительных сооружений (башен, мин и т.д.).\n\nРекомендуется перед установкой сделать сохранение (чтобы откатиться назад), если в случае вам не понравится то, что может сделать данный мод. И лучше в самом деле не рискуйте лишний раз и поверьте на слово: МОД. МЕНЯЕТ. МНОГОЕ.\n\n\n\nENG: A very dangerous mod that affects the balance and mechanics of the game, adds new content in the form of status effects and defensive structures (towers, mines, etc.).\n\n\nPreferably before installing make a save (to roll back), if in case you do not like what this mod can do. And it is better to really do not take unnecessary risks and take my word for it: MOD. CHANGES. EVERYTHING.\n\nmov mod testers:\n- eve_light."
   },
   {
     "repo": "def-try/parkour-mod",
@@ -9444,18 +9444,6 @@
     "description": "Semi-realistic iron-based mod. Modifies serpulo progression and vanilla balance."
   },
   {
-    "repo": "lymefyre/turret-salad",
-    "internalName": "turret salad",
-    "name": "Turret salad",
-    "author": "Incen",
-    "lastUpdated": "2024-12-31T12:19:56Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds a variety of turrets. Currently unfinished, expect bugs and report them to @incendiarytoaster on discord."
-  },
-  {
     "repo": "stabu-dev/ss",
     "internalName": "ss",
     "name": "Spins & Stress",
@@ -9574,5 +9562,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A planet once considered lost for a thousand years, Kyrthe, has re-emerged with a new moon, Kryptin. The moon has had some unknown effects on the planet. According to our databases, we can detect several areas with so-called \"paranormal\" activity. We have branched a part of our AI to a new blue faction named \"Byte\" to research it on their own."
+  },
+  {
+    "repo": "lymefyre/turret-salad",
+    "internalName": "turret salad",
+    "name": "Turret salad",
+    "author": "Incen",
+    "lastUpdated": "2025-01-14T04:42:12Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds a variety of turrets. Currently unfinished, expect bugs and report them to @incendiarytoaster on discord."
   }
 ]
