@@ -17,7 +17,7 @@
     "name": "Exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2024-05-23T14:12:55Z",
-    "stars": 385,
+    "stars": 386,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -173,7 +173,7 @@
     "name": "Asthosus",
     "author": "Catser",
     "lastUpdated": "2025-01-16T18:46:05Z",
-    "stars": 91,
+    "stars": 92,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
@@ -185,7 +185,7 @@
     "name": "Informatis",
     "author": "Sharlotte",
     "lastUpdated": "2024-10-09T10:44:03Z",
-    "stars": 89,
+    "stars": 90,
     "minGameVersion": "145.1",
     "hasScripts": false,
     "hasJava": true,
@@ -461,7 +461,7 @@
     "name": "Project HPL",
     "author": "HPL Team",
     "lastUpdated": "2024-10-17T13:23:36Z",
-    "stars": 40,
+    "stars": 41,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -497,7 +497,7 @@
     "name": "CheatMod",
     "author": "paulieg626",
     "lastUpdated": "2023-02-27T10:41:04Z",
-    "stars": 33,
+    "stars": 34,
     "minGameVersion": "142",
     "hasScripts": true,
     "hasJava": false,
@@ -600,6 +600,18 @@
     "description": "Adds byte logic blocks from v5"
   },
   {
+    "repo": "sublemon-team/subvoyage",
+    "internalName": "subvoyage",
+    "name": "Subvoyage",
+    "author": "Skoow, IriDark",
+    "lastUpdated": "2025-01-16T13:05:16Z",
+    "stars": 29,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Aquatic-stylized mod with new planet and unique mechanics"
+  },
+  {
     "repo": "mnemotechnician/new-console",
     "internalName": "newconsole",
     "name": "New Console",
@@ -610,18 +622,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds a console ui superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more,\na good log panel, execution history - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
-  },
-  {
-    "repo": "sublemon-team/subvoyage",
-    "internalName": "subvoyage",
-    "name": "Subvoyage",
-    "author": "Skoow, IriDark",
-    "lastUpdated": "2025-01-16T13:05:16Z",
-    "stars": 28,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Aquatic-stylized mod with new planet and unique mechanics"
   },
   {
     "repo": "andromeda-galaxy29/psammos-mod",
@@ -732,6 +732,18 @@
     "description": "Some content for people to enjoy :>\n-Current version : 1.7 [EoL]"
   },
   {
+    "repo": "mindustrydagger/vanillaplus",
+    "internalName": "vanillaplus",
+    "name": "VanillaPlus",
+    "author": "MindustryDagger",
+    "lastUpdated": "2024-07-07T10:54:08Z",
+    "stars": 23,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "[#00FFFF](RU)[#FFFFFF] Модификация добавляет полезные блоки.\n[#00FFFF](EN)[#FFFFFF] Modification adds useful blocks.\nMod is now probably in release. \nv1.1."
+  },
+  {
     "repo": "routerxdd/erekir-extended",
     "internalName": "erek",
     "name": "Erekir Extended",
@@ -778,18 +790,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "No description provided."
-  },
-  {
-    "repo": "mindustrydagger/vanillaplus",
-    "internalName": "vanillaplus",
-    "name": "VanillaPlus",
-    "author": "MindustryDagger",
-    "lastUpdated": "2024-07-07T10:54:08Z",
-    "stars": 22,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "[#00FFFF](RU)[#FFFFFF] Модификация добавляет полезные блоки.\n[#00FFFF](EN)[#FFFFFF] Modification adds useful blocks.\nMod is now probably in release. \nv1.1."
   },
   {
     "repo": "emanuelg-gaming/erekir-expansion",
@@ -984,6 +984,18 @@
     "description": "Logic Debugger\n\n一个逻辑辅助工具\n\n原作DeltaNedas/ldb\n\nyaddrx2将其升级到了137，仅供学习交流使用\n\n当前版本：1.7.0\n\n更新日志\n\nv1.0.1\n将mod版本升为137\n\nv1.0.2\n取消ui-lib的前置\n\nv1.0.3\n逻辑码编辑板\n新增代码语句的文本形式编辑\n\nv1.0.4\n逻辑块变量面板\n变量更新闪烁\n增加逻辑块所连方块的显示\n\nv1.0.5\n内存块编辑板\n内存值更新闪烁\n新增内存值的二进制形式视察\n实现内存值的十六进制形式编辑\n\nv1.0.6\n新增代码插入相关操作\n实现从剪切板导入代码块到指定位置\n\nv1.0.7\n新增面板的折叠按钮\n修复学术端运行mod导致的面板移位或覆盖\n修复面板横向抖动的bug\n\nv1.0.8\n单步调试面板\n实现代码单步运行调试\n\nv1.1.0\n新增调试面板设置断点\n实现运行到下一断点操作\n\nv1.1.1\n新增变量位置指示器\n显示单位变量的flag\n\nv1.2\n新增调试面板的运行位置追踪\n新增功能标签\n\nv1.3\n位置指示器增加变量名\n\nv1.4\n内存块面板增加内存值导入导出\n\nv1.5\n变量面板增加变量值导出\n\nv1.6\n内存面板的变量名筛选\n内存值导出筛选器\n\nv1.7\n增加信息板复制与导入"
   },
   {
+    "repo": "echovespy/simplistic",
+    "internalName": "simplistic",
+    "name": "Simplistic - TexturePack",
+    "author": "EchoVespy",
+    "lastUpdated": "2024-05-20T02:23:42Z",
+    "stars": 17,
+    "minGameVersion": "138",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts"
+  },
+  {
     "repo": "dong-wo-long/enhancementunits",
     "internalName": "enhancement-units",
     "name": "Enhancement Units",
@@ -1032,18 +1044,6 @@
     "description": "Disables sectors being re-attacked."
   },
   {
-    "repo": "echovespy/simplistic",
-    "internalName": "simplistic",
-    "name": "Simplistic - TexturePack",
-    "author": "EchoVespy",
-    "lastUpdated": "2024-05-20T02:23:42Z",
-    "stars": 16,
-    "minGameVersion": "138",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts"
-  },
-  {
     "repo": "electricgun/cheat-codes-mod",
     "internalName": "cheat-codes",
     "name": "Cheat Codes Mod",
@@ -1080,6 +1080,18 @@
     "description": "Adds a few distribution blocks... very few distribution blocks"
   },
   {
+    "repo": "zeniku/heavymachineryjava",
+    "internalName": "heavymachineryjava",
+    "name": "HeavyMachineryJava",
+    "author": "Zeniku",
+    "lastUpdated": "2023-03-23T10:59:40Z",
+    "stars": 15,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod."
+  },
+  {
     "repo": "dagamerfiles/classic-music",
     "internalName": "classic-music",
     "name": "<Mindustry> Classic Music",
@@ -1102,6 +1114,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "This a mod that can show the hidden item of the item bridge."
+  },
+  {
+    "repo": "gwapowo/duoenhanced",
+    "internalName": "duoenhanced",
+    "name": "DuoEnhanced",
+    "author": "Gwapo",
+    "lastUpdated": "2024-09-12T01:02:50Z",
+    "stars": 15,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod that adds many different types of duos, recreates vanilla blocks into duos, and duo units! Discord Tag: gwapowo"
   },
   {
     "repo": "thomasthings/xenacia",
@@ -1140,18 +1164,6 @@
     "description": "A simple mod that researches content automatically.\n\nAlgorithm description:\nLooks up for avaliable tech nodes with all the objectives completed, then sorts them by real cost.\n\nFirst of all it unlocks content like maps and items (with no costs), then it researches the cheapest node with the avaliable items in the planet.\n\nYou can disable the auto-research in Settings/Game/Auto Research"
   },
   {
-    "repo": "zeniku/heavymachineryjava",
-    "internalName": "heavymachineryjava",
-    "name": "HeavyMachineryJava",
-    "author": "Zeniku",
-    "lastUpdated": "2023-03-23T10:59:40Z",
-    "stars": 14,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod."
-  },
-  {
     "repo": "woodjecket/commundustry",
     "internalName": "commundustry-v4",
     "name": "CommunDustry",
@@ -1162,18 +1174,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "WIP"
-  },
-  {
-    "repo": "gwapowo/duoenhanced",
-    "internalName": "duoenhanced",
-    "name": "DuoEnhanced",
-    "author": "Gwapo",
-    "lastUpdated": "2024-09-12T01:02:50Z",
-    "stars": 14,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod that adds many different types of duos, recreates vanilla blocks into duos, and duo units! Discord Tag: gwapowo"
   },
   {
     "repo": "valigaming15/pyra-erekir",
@@ -1360,7 +1360,7 @@
     "internalName": "xanthia-3",
     "name": "Xanthia",
     "author": "Coders: Decaract & ItzCraft\nSpriters: Decaract, Nahan\nTesters: DarkSniper, Nahan, ItzCraft, AnDashik\nContributors: Arbuzer, Los Sasikos, AnDashik\nTranslators: Kev-Vily",
-    "lastUpdated": "2025-01-15T07:11:09Z",
+    "lastUpdated": "2025-01-16T21:07:04Z",
     "stars": 13,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2796,6 +2796,18 @@
     "description": " a mod that adds a new planet and it focuses on combat\n\na planet called shards was located far away from the sun\nyour sent mission was to destroy this planet but you went to investigate the new planet but soon to discover this planet had been destroyed but what lives on this planet and why...\n\nshards: a strange mystic planet filled with snow and unnamed matter across its surface but deeper down the more crystal stone will be. beware that the surface is covered in slow pace purple like winds. \n\nkjol:  a surging cold moon was the last history before the D##N#7# incident\n\n\nEnjoy the chaos!"
   },
   {
+    "repo": "lysent/etigei-exile",
+    "internalName": "etigeox",
+    "name": "Etigei Exile",
+    "author": "[lime]Mitemi[white] & [cyan]Tikup",
+    "lastUpdated": "2025-01-16T06:19:50Z",
+    "stars": 6,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Etigei Exilium offers a fresh and uniquely creative modded experience, featuring two planets and campaigns through 18 sectors. \n\nEstablish colonies on the frozen planet of [sky]Neoulandia[white] and experience destructible trees, limited resources, excessive use of unit cargo, and unique map design. Neoulandia brings economy-based map to offer diverging gameplay on top of the classical survival and attack maps. \n\n[orange]Rubiginosus[white] presents a collection of hardcore maps, inspired by Rusted Warfare, initially designed for multiplayer using Serpulo and Erekir technology. These missions have been retrofitted for a campaign experience with unique challenges for each map.\n\n[blue]Discord: https://discord.com/invite/TJKZgr6UDg"
+  },
+  {
     "repo": "spaceearthex/banana",
     "internalName": "banana",
     "name": "Banana",
@@ -3202,18 +3214,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#edc77b]A java mod by [white]itsdakirby69 [gray](thats me!)[#edc77b]. Sandbox only for now. Plant mod. haha."
-  },
-  {
-    "repo": "lysent/etigei-exile",
-    "internalName": "etigeox",
-    "name": "Etigei Exile",
-    "author": "[lime]Mitemi[white] & [cyan]Tikup",
-    "lastUpdated": "2025-01-16T06:19:50Z",
-    "stars": 5,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Etigei Exilium offers a fresh and uniquely creative modded experience, featuring two planets and campaigns through 18 sectors. \n\nEstablish colonies on the frozen planet of [sky]Neoulandia[white] and experience destructible trees, limited resources, excessive use of unit cargo, and unique map design. Neoulandia brings economy-based map to offer diverging gameplay on top of the classical survival and attack maps. \n\n[orange]Rubiginosus[white] presents a collection of hardcore maps, inspired by Rusted Warfare, initially designed for multiplayer using Serpulo and Erekir technology. These missions have been retrofitted for a campaign experience with unique challenges for each map.\n\n[blue]Discord: https://discord.com/invite/TJKZgr6UDg"
   },
   {
     "repo": "mythril382/self-destruct-core",
@@ -4692,6 +4692,18 @@
     "description": "every new planet mod be like:"
   },
   {
+    "repo": "icexuegao/mindustrytomlparser",
+    "internalName": "toml-parser",
+    "name": "toml解析",
+    "author": "Alon,2H₂O₂",
+    "lastUpdated": "2025-01-13T09:23:30Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mindustry的toml模组文件解析,食用方法请参考README.md"
+  },
+  {
     "repo": "weeersix/ernomytase-erekir-dlc",
     "internalName": "ernom",
     "name": "Ernomytase | Erekir DLC",
@@ -5926,18 +5938,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "rusted dunes is a type of mod that's not hard or easy and your goals are to make technology in use of eroded materials or rusted materials and produce rusted units and soon upgrade them to there potential \n\ndunes is a wasted planet and the crux has also broken most of their equipment due to thick atmosphere of rust "
-  },
-  {
-    "repo": "icexuegao/mindustrytomlparser",
-    "internalName": "toml-parser",
-    "name": "toml解析",
-    "author": "Alon,2H₂O₂",
-    "lastUpdated": "2025-01-13T09:23:30Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mindustry的toml模组文件解析,食用方法请参考README.md"
   },
   {
     "repo": "didasker/in-aeria",
