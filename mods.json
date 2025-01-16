@@ -660,6 +660,18 @@
     "description": "A tech demo mod with a bunch of stuff, whose content is all in lore made by the pure will of a person."
   },
   {
+    "repo": "i-hope1/mod-tools",
+    "internalName": "mod-tools",
+    "name": "mod-tools",
+    "author": "I hope...",
+    "lastUpdated": "2025-01-11T13:15:39Z",
+    "stars": 26,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod provides a variety of tools for modding.\n\n-----------------\nVersion 1.5.5\n## Highlight\n- Fixed a severe npe bug about data(settings) save.\n- Added a setting: force_language.\n-----------------\n\n## ShowUIList\n\n- Display `icon`, `tex`, `styles`, `colors`, `interps`\\\n!(./screenshots/UIList.png)\n\n## Tester\n\n!(./screenshots/tester.png)\n\n- Provide `JS` editor `Tester`\n- Shortcuts\n- Press `Ctrl`+`Shift`+`Enter` to `execute` code immediately\n- Press `Ctrl`+`Shift`+`↑/↓` to switch `history` records\n- Press `Ctrl`+`Shift`+`D` to `view` detailed information\n- Press `Alt`+`V` to preview `Texture`\n- Built-in `unsafe`, `lookup`\n- Built-in `IntFunc` class (abbreviated as `$`)\n- `$.xxx` can represent primitive data types (e.g., `$.void` represents `Void.TYPE`;`$.J` represents long.class)\n- `$p` represents `Packages`\n- Code: [JSFunc](https://github.com/i-hope1/mod-tools/src/modtools/utils/JSFunc.java)\n- Long press on code in the favorites to add to startup items\\\n!(./screenshots/startup.png)\n- Quick switch history\\\n![Screenshot 2024-03-10 14-45-37](https://github.com/I-hope1/mod-tools/assets/78016895/4918af35-19af-4fab-b961-70bdc8679fe8)\n- `$.item`, `$.liquid`, `$.unit` and so on.\n\n## UnitSpawn\n\n- Multiple team selection\n- Support for fixed point spawning\n- Display `name` and `localizedName`\n- Rightclick the name Label to copy save as JS var.\n\n## Selection\n\n- Selector\n- Supports `Tile`, `Building`, `Bullet`, `Unit`\n- Kill\n- Set Item/Liquid/Team\n- Press `Ctrl`+`Alt` to fix Focus Window\n\n## ReviewElement\n\n- Display element list, double-click to copy element to js variable\n- `Ctrl`+`Shift`+`C` to Inspect Element\n- `Ctrl`+`Alt`+`D` to display bounds of Element\n- Select untouchable elements\n- Mobile: Filter current element with two fingers\n- PC: Press `F` to filter current element\n- Functions shortcuts for Element\n- `i`: display details (open ShowInfoWindow)\\\n- `p`(for Image):  show `DrawablePicker`\n- `del`: (`shift` to ignore confirmation), delete element\n- `<` / `>`: collapse Group\n- `f`: fix floating Info column\n- `r`: invoke element's method\n\n- ![reviewElement](./screenshots/review_element.png)\n\n# Frag\n\n- Double-click the blue part of Frag to minimize/restore Frag\n- In the minimized state, click the blue part, it will behave like a floating ball\n\n## Window\n\n- Press `Ctrl`+`Tab` to switch windows\n- Press `Shift`+`F4` to close current window\n- RClick the close button to move and scl window.\n\n## ShowInfoWindow\n\n- Show all fields, methods, constructors and nested classes of a obj.\n- Field can be modified.\n- Method can be Invoked(Special).\n- Constructor can be invoked to new a instance.\n\n## Others\n\n### Extensions\n- Http Redirect\n> Redirect some websites, such as: github\\\n> Configuration file: b0kkihope/http_redirect.properties"
+  },
+  {
     "repo": "way-zer/contentstweaker",
     "internalName": "contentstweaker",
     "name": "ContentsTweaker-内容包修改器",
@@ -682,18 +694,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod inspired by Starcraft 2, add zerg to the game and a bunch of spore related thing.\nCredit:\nHydro for creating the sprites\nDryehm for existing\nHave a great day :D\nhHhhhHH"
-  },
-  {
-    "repo": "i-hope1/mod-tools",
-    "internalName": "mod-tools",
-    "name": "mod-tools",
-    "author": "I hope...",
-    "lastUpdated": "2025-01-11T13:15:39Z",
-    "stars": 25,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod provides a variety of tools for modding.\n\n-----------------\nVersion 1.5.5\n## Highlight\n- Fixed a severe npe bug about data(settings) save.\n- Added a setting: force_language.\n-----------------\n\n## ShowUIList\n\n- Display `icon`, `tex`, `styles`, `colors`, `interps`\\\n!(./screenshots/UIList.png)\n\n## Tester\n\n!(./screenshots/tester.png)\n\n- Provide `JS` editor `Tester`\n- Shortcuts\n- Press `Ctrl`+`Shift`+`Enter` to `execute` code immediately\n- Press `Ctrl`+`Shift`+`↑/↓` to switch `history` records\n- Press `Ctrl`+`Shift`+`D` to `view` detailed information\n- Press `Alt`+`V` to preview `Texture`\n- Built-in `unsafe`, `lookup`\n- Built-in `IntFunc` class (abbreviated as `$`)\n- `$.xxx` can represent primitive data types (e.g., `$.void` represents `Void.TYPE`;`$.J` represents long.class)\n- `$p` represents `Packages`\n- Code: [JSFunc](https://github.com/i-hope1/mod-tools/src/modtools/utils/JSFunc.java)\n- Long press on code in the favorites to add to startup items\\\n!(./screenshots/startup.png)\n- Quick switch history\\\n![Screenshot 2024-03-10 14-45-37](https://github.com/I-hope1/mod-tools/assets/78016895/4918af35-19af-4fab-b961-70bdc8679fe8)\n- `$.item`, `$.liquid`, `$.unit` and so on.\n\n## UnitSpawn\n\n- Multiple team selection\n- Support for fixed point spawning\n- Display `name` and `localizedName`\n- Rightclick the name Label to copy save as JS var.\n\n## Selection\n\n- Selector\n- Supports `Tile`, `Building`, `Bullet`, `Unit`\n- Kill\n- Set Item/Liquid/Team\n- Press `Ctrl`+`Alt` to fix Focus Window\n\n## ReviewElement\n\n- Display element list, double-click to copy element to js variable\n- `Ctrl`+`Shift`+`C` to Inspect Element\n- `Ctrl`+`Alt`+`D` to display bounds of Element\n- Select untouchable elements\n- Mobile: Filter current element with two fingers\n- PC: Press `F` to filter current element\n- Functions shortcuts for Element\n- `i`: display details (open ShowInfoWindow)\\\n- `p`(for Image):  show `DrawablePicker`\n- `del`: (`shift` to ignore confirmation), delete element\n- `<` / `>`: collapse Group\n- `f`: fix floating Info column\n- `r`: invoke element's method\n\n- ![reviewElement](./screenshots/review_element.png)\n\n# Frag\n\n- Double-click the blue part of Frag to minimize/restore Frag\n- In the minimized state, click the blue part, it will behave like a floating ball\n\n## Window\n\n- Press `Ctrl`+`Tab` to switch windows\n- Press `Shift`+`F4` to close current window\n- RClick the close button to move and scl window.\n\n## ShowInfoWindow\n\n- Show all fields, methods, constructors and nested classes of a obj.\n- Field can be modified.\n- Method can be Invoked(Special).\n- Constructor can be invoked to new a instance.\n\n## Others\n\n### Extensions\n- Http Redirect\n> Redirect some websites, such as: github\\\n> Configuration file: b0kkihope/http_redirect.properties"
   },
   {
     "repo": "three-cold-planets/welcome-to-the-frostscape",
@@ -996,18 +996,6 @@
     "description": "ATTENTION:\n\nFrom now on, the mod goes into experimental mode - this means that the balance may not be balanced, such as a Toxopid with a Corvus, whose attack radius go far beyond 60 cells!!!!!\nNevertheless, I advise you to calm down: when the mod reaches its peak (despite my crazy plans for it, the result of which you are already watching), I will make several versions to meet the needs of as many people as possible. In the meantime, it remains to wait. Sorry for the inconvenience.\n\nImportant:\n\nThis mod does not bring anything radically new to the game, but only expands the combat functionality of existing combat units.\n\nPlease pay attention:\n\nThe mod significantly redesigns units, changes the balance and generally complicates the game. Don't forget to make a backup in case you don't like the changes that the mod itself makes.\n\nP.S. The mod is made for ALE maps."
   },
   {
-    "repo": "fun7game/gloomistrymod",
-    "internalName": "gloomustry",
-    "name": "Gloomistry",
-    "author": "FunGame(фан)",
-    "lastUpdated": "2025-01-12T00:25:18Z",
-    "stars": 17,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Welcome to the mod Gloomistry! This is my first mod that adds a new campaign with new content, at the moment the mod is not made to the very end and updates will be released (probably) in which I will finish the campaign to the end and also change the sprites of many blocks that I did not like or that were copied from the original blocks. It is also possible that I will add more new turrets. If you liked the mod, don't forget to give it a star on the GitHub! Contact me: https://t.me/@Thisispzdcnh\n  \n  Приветствую вас в моде Глумистри! Это мой первый мод который добавляет новую кампанию с новым контентом, на данный момент мод сделан не до самого конца и будут выходить обновления(наверно) в которых я доделаю кампанию до конца а также изменю спрайты многих блоков, которые мне не понравились или которые были срисованы с оригинальных блоков. Также возможно я добавлю еще новые турели. Если вам понравился мод, не забудьте поставить ему звезду на ГитХаб! Связаться со мной: https://t.me/@Thisispzdcnh\n\n  Sprites of production blocks By Obsidian"
-  },
-  {
     "repo": "yuria-shikibe/gameinfoimager",
     "internalName": "game-info-imager",
     "name": "Game Info Imager",
@@ -1066,6 +1054,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Reworked for PC to be the same as mobile\nAdds some rather powerful and fun powerups activated by entering the correct strings.\n\nPowerups include:\n[yellow]-Time stop\n-God mode\n-Konami code\n-Thanos snap\nand more...\n\n[white]Can be used to cheat your way through the game.\n\n[red]READ GITHUB REPO FOR CHEAT LIST"
+  },
+  {
+    "repo": "fun7game/gloomistrymod",
+    "internalName": "gloomustry",
+    "name": "Gloomistry",
+    "author": "FunGame(фан)",
+    "lastUpdated": "2025-01-12T00:25:18Z",
+    "stars": 16,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Welcome to the mod Gloomistry! This is my first mod that adds a new campaign with new content, at the moment the mod is not made to the very end and updates will be released (probably) in which I will finish the campaign to the end and also change the sprites of many blocks that I did not like or that were copied from the original blocks. It is also possible that I will add more new turrets. If you liked the mod, don't forget to give it a star on the GitHub! Contact me: https://t.me/@Thisispzdcnh\n  \n  Приветствую вас в моде Глумистри! Это мой первый мод который добавляет новую кампанию с новым контентом, на данный момент мод сделан не до самого конца и будут выходить обновления(наверно) в которых я доделаю кампанию до конца а также изменю спрайты многих блоков, которые мне не понравились или которые были срисованы с оригинальных блоков. Также возможно я добавлю еще новые турели. Если вам понравился мод, не забудьте поставить ему звезду на ГитХаб! Связаться со мной: https://t.me/@Thisispzdcnh\n\n  Sprites of production blocks By Obsidian"
   },
   {
     "repo": "melomelodeon/a-bad-mindustry-mod",
@@ -1356,6 +1356,18 @@
     "description": "BETA sandbox only! requires blackhole render by meep of faith"
   },
   {
+    "repo": "itzcraft/xanthia",
+    "internalName": "xanthia-3",
+    "name": "Xanthia",
+    "author": "Coders: Decaract & ItzCraft\nSpriters: Decaract, Nahan\nTesters: DarkSniper, Nahan, ItzCraft, AnDashik\nContributors: Arbuzer, Los Sasikos, AnDashik\nTranslators: Kev-Vily",
+    "lastUpdated": "2025-01-15T07:11:09Z",
+    "stars": 13,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Discover and explore a brand new planet with its own campaign: Xanthia, a mountainous hot planet with more dangers and threat hiding there.\n\nRemember that Xanthia is in beta test right now. Everything is subject to change."
+  },
+  {
     "repo": "nemesistheory/odst-soundtracks",
     "internalName": "halo-3-odst-soundtracks-ost",
     "name": "ODST Soundtracks",
@@ -1414,18 +1426,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer, focus on RTS controls, and pain on top"
-  },
-  {
-    "repo": "itzcraft/xanthia",
-    "internalName": "xanthia-3",
-    "name": "Xanthia",
-    "author": "Coders: Decaract & ItzCraft\nSpriters: Decaract, Nahan\nTesters: DarkSniper, Nahan, ItzCraft, AnDashik\nContributors: Arbuzer, Los Sasikos, AnDashik\nTranslators: Kev-Vily",
-    "lastUpdated": "2025-01-15T07:11:09Z",
-    "stars": 12,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Discover and explore a brand new planet with its own campaign: Xanthia, a mountainous hot planet with more dangers and threat hiding there.\n\nRemember that Xanthia is in beta test right now. Everything is subject to change."
   },
   {
     "repo": "def-try/parkour-mod",
@@ -3207,8 +3207,8 @@
     "repo": "lysent/etigei-exile",
     "internalName": "etigeox",
     "name": "Etigei Exile",
-    "author": "[lime]Mitemi[white], [cyan]Tikup",
-    "lastUpdated": "2025-01-16T05:04:48Z",
+    "author": "[lime]Mitemi[white] & [cyan]Tikup",
+    "lastUpdated": "2025-01-16T06:19:50Z",
     "stars": 5,
     "minGameVersion": "146",
     "hasScripts": true,
