@@ -936,6 +936,18 @@
     "description": "Not recommended for weak devices. Only supports Vanilla/Supported-Json content. This mod replaces/add some effects, and may cause issues with mods that actively check on those effects. May conflict with vanilla bloom."
   },
   {
+    "repo": "deltanedas/ldb",
+    "internalName": "ldb",
+    "name": "Logic Debugger",
+    "author": "DeltaNedas",
+    "lastUpdated": "2024-07-19T18:01:49Z",
+    "stars": 18,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds clientside logic debugging tools.\nRequires DeltaNedas/override-lib."
+  },
+  {
     "repo": "evo04taser/super-cheat",
     "internalName": "super-cheat",
     "name": "Super Cheat",
@@ -1596,6 +1608,18 @@
     "description": "Adds colored names!\n\nSome colors may not be accurate!\nSadly, no colored names for units. I'm working on that."
   },
   {
+    "repo": "pointifix/autotranslate",
+    "internalName": "auto-translate",
+    "name": "AutoTranslate",
+    "author": "Pointifix",
+    "lastUpdated": "2023-06-12T15:36:33Z",
+    "stars": 10,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Automatically translates chat messages"
+  },
+  {
     "repo": "jhrushbe/moardustry",
     "internalName": "moardustry",
     "name": "MOARdustry (Deprecated)",
@@ -1810,18 +1834,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "BetaMindy music assets. Does nothing on its own!"
-  },
-  {
-    "repo": "pointifix/autotranslate",
-    "internalName": "auto-translate",
-    "name": "AutoTranslate",
-    "author": "Pointifix",
-    "lastUpdated": "2023-06-12T15:36:33Z",
-    "stars": 9,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Automatically translates chat messages"
   },
   {
     "repo": "aforgetfulness/towerdefense",
