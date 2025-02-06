@@ -137,7 +137,7 @@
     "name": "Unlimited Armament Works",
     "author": "Eschatologue",
     "lastUpdated": "2023-07-27T11:04:24Z",
-    "stars": 108,
+    "stars": 109,
     "minGameVersion": "138",
     "hasScripts": false,
     "hasJava": true,
@@ -216,6 +216,18 @@
     "description": "Mod that adds a manual page library. RTFM in the About menu.\nComes with documentation of vanilla'a Logic system.\nOptionally requires deltanedas/ui-lib for extra buttons.\npt_BR translations by King-BR"
   },
   {
+    "repo": "meepoffaith/prog-mats-java",
+    "internalName": "",
+    "name": "Meepscellaneous Concepts",
+    "author": "MEEP of Faith (And a bunch of contributors. Load the game with Meepscillaneous Concepts enabled to view them!)",
+    "lastUpdated": "2025-01-21T04:05:43Z",
+    "stars": 78,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A collection of random ideas that come to my head.\n\nREQUIRES `MEEPofFaith/black-hole-renderer` TO RUN."
+  },
+  {
     "repo": "deltanedas/pictologic",
     "internalName": "pictologic",
     "name": "PicToLogic",
@@ -226,18 +238,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a dialog for turning images into processor schematics.\nRequires deltanedas/ui-lib."
-  },
-  {
-    "repo": "meepoffaith/prog-mats-java",
-    "internalName": "",
-    "name": "Meepscellaneous Concepts",
-    "author": "MEEP of Faith (And a bunch of contributors. Load the game with Meepscillaneous Concepts enabled to view them!)",
-    "lastUpdated": "2025-01-21T04:05:43Z",
-    "stars": 76,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A collection of random ideas that come to my head.\n\nREQUIRES `MEEPofFaith/black-hole-renderer` TO RUN."
   },
   {
     "repo": "deltanedas/ui-lib",
@@ -377,7 +377,7 @@
     "name": "MultiCrafter Lib",
     "author": "[#42a5f5]Liplum[] & Jojo",
     "lastUpdated": "2024-06-24T20:29:56Z",
-    "stars": 49,
+    "stars": 50,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
@@ -792,6 +792,18 @@
     "description": "No description provided."
   },
   {
+    "repo": "sh1penfire/meld",
+    "internalName": "meld",
+    "name": "Meld",
+    "author": "Sh1penfire",
+    "lastUpdated": "2025-02-05T14:20:49Z",
+    "stars": 22,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "[accent]An experimental RTS mod. Features a rich environment and a unique cast of enemies to fight.[]\n\nTrudge through Ikaru, home to [#ea9ad6]Meld[]. Salvage the remains of previous incursions. Fend off the wildlife.\n\nPlay as a field commander. Rally tierless specialists to push back the flood of constructs.\n\n[red]DEFEND, TAKE GROUND, HARVEST, REPEAT[]\n\n[accent]*Campaign will not be worked on till sufficient content is finished. There are custom game maps to play though!\n\nThis type of project takes lots of time to develop so if you wana know what's happening with the mod, join the Mindustry discord server and look for Meld in the fourm thread :D[]\n"
+  },
+  {
     "repo": "emanuelg-gaming/erekir-expansion",
     "internalName": "erekir-expansion",
     "name": "Erekir Expansion",
@@ -850,18 +862,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "hehe angish go nrrrt\n\n\ntargets:\n\n- vanilla\n\n- foo's client (builtin)\n\n- SMOLKEYS/yellow-java (extension)"
-  },
-  {
-    "repo": "sh1penfire/meld",
-    "internalName": "meld",
-    "name": "Meld",
-    "author": "Sh1penfire",
-    "lastUpdated": "2025-02-05T14:20:49Z",
-    "stars": 21,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "[accent]An experimental RTS mod. Features a rich environment and a unique cast of enemies to fight.[]\n\nTrudge through Ikaru, home to [#ea9ad6]Meld[]. Salvage the remains of previous incursions. Fend off the wildlife.\n\nPlay as a field commander. Rally tierless specialists to push back the flood of constructs.\n\n[red]DEFEND, TAKE GROUND, HARVEST, REPEAT[]\n\n[accent]*Campaign will not be worked on till sufficient content is finished. There are custom game maps to play though!\n\nThis type of project takes lots of time to develop so if you wana know what's happening with the mod, join the Mindustry discord server and look for Meld in the fourm thread :D[]\n"
   },
   {
     "repo": "sk7725/testers",
@@ -1332,6 +1332,18 @@
     "description": "the mod was developed for 2 months, please put an asterisk in the github(generally without spoilers)"
   },
   {
+    "repo": "meepoffaith/black-holes-library",
+    "internalName": "black-hole-renderer",
+    "name": "Black Holes Library",
+    "author": "MEEPofFaith",
+    "lastUpdated": "2024-12-05T08:28:54Z",
+    "stars": 13,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A library mod for rendering black holes."
+  },
+  {
     "repo": "lehanchic25/testplanetmindustry",
     "internalName": "test",
     "name": "Test",
@@ -1438,18 +1450,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Ru: Данная модификация изменяет внешний вид юнитов. Респрайты только Серпуловских юнитов.\r\n\r\nEng: This modification changes the appearance of the units. Resprites of only Serpulo units."
-  },
-  {
-    "repo": "meepoffaith/black-holes-library",
-    "internalName": "black-hole-renderer",
-    "name": "Black Holes Library",
-    "author": "MEEPofFaith",
-    "lastUpdated": "2024-12-05T08:28:54Z",
-    "stars": 12,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A library mod for rendering black holes."
   },
   {
     "repo": "bhizusryaaajyaqiu/mindustryexpansion",
@@ -1924,7 +1924,7 @@
     "internalName": "icicle-world",
     "name": "Buried in Ice",
     "author": "R.O.T.\nThanks yesC48 for normal english translation",
-    "lastUpdated": "2025-02-04T20:13:40Z",
+    "lastUpdated": "2025-02-06T13:52:06Z",
     "stars": 9,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -3816,18 +3816,6 @@
     "description": "It's my First* mod! Yay! It adds alot of units. Such as Purple navals, Orange spiders, Blue air-bombers and much more! \nwarning not all the trees are finished infact none are. \nThanks to my spriter Aegires for making some of theese awsome sprites!"
   },
   {
-    "repo": "cewwi/resurrection-mod",
-    "internalName": "resurrection",
-    "name": "Cataclysm",
-    "author": "[#0c6ed1]cewwi[] & [#BC5452FF]JJ[]",
-    "lastUpdated": "2025-02-04T02:49:15Z",
-    "stars": 4,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "We plan to add three new planets into the game, with two new tech trees. \n(actually might add much more, but one step at a time I guess)\n\nA Planet Devestated by time. Tronoe P07 was never the planet the we expected to find. \nUnder all the rubble, was an emmense cavern that had spanded through nearly the whole planet.\nWho knows what we'll find down here.\n\nYou have heard rumors... That on the dark, irradiated wasteland of Nevorix, there lie ancient technologies yet to be uncovered.\nThe only thing that stands in your way, is The New Order. A faction of mindless vessels cotrolled by the Hivemind, an amalgamation of assimilated minds.\nbring this powerful technology back from the planet, so that you may annihilate an ancient foe once and for all..."
-  },
-  {
     "repo": "frilofril19/cobatstry",
     "internalName": "cobatstry",
     "name": "Fralion",
@@ -3838,6 +3826,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Мод доповнює гру новою планетою Фраліон великий холодний ад що є чимось схожим на основні компанії але повністью інший\r\n\r\nДоступно лише 2 мови: Англіська та Українська\r\n\r\nМод щя в стадії розробки тому вибачайте за баги\r\n\r\nЯкщо вам сподобався мод  чи у вас є деякі ідеї для розвидку шукайте відповідний пост у моєму telegram (x) @Frilofrill\r\n\r\n---\r\n\r\nThe mod adds a new planet to the game, Fralion, a great cold hell, which is somewhat similar to the main companies, but completely different\r\n\r\nOnly 2 languages ​​are available: English and Ukrainian\r\n\r\nThe mod is still under development, so sorry for the bugs\r\n\r\nIf you liked the mod or have some ideas for exploration, look for the corresponding post in my telegram (x) @Frilofrill"
+  },
+  {
+    "repo": "cewwi/resurrection-mod",
+    "internalName": "resurrection",
+    "name": "Cataclysm",
+    "author": "[#0c6ed1]cewwi[] & [#BC5452FF]JJ[]",
+    "lastUpdated": "2025-02-06T13:05:56Z",
+    "stars": 4,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "We plan to add three new planets into the game, with two new tech trees. \n(actually might add much more, but one step at a time I guess)\n\nA Planet Devestated by time. Tronoe P07 was never the planet the we expected to find. \nUnder all the rubble, was an emmense cavern that had spanded through nearly the whole planet.\nWho knows what we'll find down here.\n\nYou have heard rumors... That on the dark, irradiated wasteland of Nevorix, there lie ancient technologies yet to be uncovered.\nThe only thing that stands in your way, is The New Order. A faction of mindless vessels cotrolled by the Hivemind, an amalgamation of assimilated minds.\nbring this powerful technology back from the planet, so that you may annihilate an ancient foe once and for all..."
   },
   {
     "repo": "mythril382/u-r-a-i-c",
@@ -9364,7 +9364,7 @@
     "internalName": "turret salad",
     "name": "Turret salad",
     "author": "Incen",
-    "lastUpdated": "2025-02-06T11:56:38Z",
+    "lastUpdated": "2025-02-06T12:12:48Z",
     "stars": 0,
     "minGameVersion": "146",
     "hasScripts": false,
