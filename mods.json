@@ -101,7 +101,7 @@
     "name": "Mindustry Tool",
     "author": "[red]VN-[#ff6347]Sharrlotte[]",
     "lastUpdated": "2025-02-09T15:18:06Z",
-    "stars": 116,
+    "stars": 117,
     "minGameVersion": "140",
     "hasScripts": false,
     "hasJava": true,
@@ -468,6 +468,18 @@
     "description": "A Mindustry Java mod that contains a full of content planet. This is the beta version so it may not display the final version of the project."
   },
   {
+    "repo": "vvseangtvv/project-restoration",
+    "internalName": "restored-mind",
+    "name": "Project: Restoration",
+    "author": "VvSeanGtvV",
+    "lastUpdated": "2025-02-10T05:36:12Z",
+    "stars": 37,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry builds including some classic ones are added to Mindustry v7!"
+  },
+  {
     "repo": "deltanedas/dev-mode",
     "internalName": "dev-mode",
     "name": "Developer Mode",
@@ -502,18 +514,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\n  # 功能\n\n  ---\n\n  ## UI\n  1. MinerToolsTable:\n     * 队伍信息:\n       * 队伍玩家数量(Tooltip显示基础队伍规则)\n       * 队伍单位显示\n       * 队伍全局电量(Tooltip显示详细电量情况)\n     * 一些有用的按钮:\n       * 暂停建造(仅手机)\n       * 自动升级传送带\n       * 重建方块\n       * 快捷投降\n     * 换队/跳波器\n     * 玩家列表:\n       * 所有玩家的名字\n       * 可锁定玩家视角(锁定的玩家控制炮塔时,会自动调整视角)\n       * 可切换到玩家视角\n       * 可一键投票踢出玩家\n     * 快捷蓝图\n     * 玩家AI:\n       * 挖矿AI\n       * 跟随AI\n\n  2. 聊天记录:\n     * 查询历史聊天记录\n     * 可以复制聊天记录(电脑:Ctrl+单击)\n\n  3. 更好的核心资源显示:\n     * 单位数量显示\n     * 物品每秒变化量显示\n     * 玩家预建消耗显示\n     * 可自定义的ui列数\n\n  4. 更好的信息面板:\n     * 单位,建筑,地板信息一起显示!\n     * 单位:\n       * 武器冷却状态\n     * 建筑:\n       * 物品详情\n     * 地板:\n       * 显示更详尽\n\n  ---\n\n  ## 画面\n  * 建筑:\n    * 选中:\n      * 异队选中信息\n      * 桥带连接详情\n    * 建筑血条\n    * 异队方块状态\n    * 构造方块耗材信息\n    * 附近炮塔警戒\n    * 物品炮塔子弹类型显示\n    * 单位工厂进度条\n\n  * 单位:\n    * 单位指示器(核心危险警告)\n    * 附近单位警戒\n\n    * 单位信息条:\n      * 血条\n      * 立场回复条\n      * 单位状态条\n      * 荷载条\n\n  * 玩家:\n    * 荷载拾放提示\n    * 玩家范围显示\n\n  ---\n\n  ## 其他小功能\n  * 进入游戏后,显示被ban的单位或方块\n  * UIScale的step修改\n  * 物品桥带可拿取物品\n  * 更多方块信息条:\n    * 血条: 血量显示更详细\n    * 进度条: 进度显示更详细\n\n  ---\n\n  # 其他\n  Mod的90%功均可在设置中打开或关闭!"
-  },
-  {
-    "repo": "vvseangtvv/project-restoration",
-    "internalName": "restored-mind",
-    "name": "Project: Restoration",
-    "author": "VvSeanGtvV",
-    "lastUpdated": "2025-02-10T05:36:12Z",
-    "stars": 36,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry builds including some classic ones are added to Mindustry v7!"
   },
   {
     "repo": "paulieg626/cheat",
@@ -1216,7 +1216,7 @@
     "internalName": "fire",
     "name": "Fire",
     "author": "飞雨a_ssylfyzgmz & KochiyaUeneh油苗子",
-    "lastUpdated": "2025-02-06T05:32:16Z",
+    "lastUpdated": "2025-02-10T15:02:37Z",
     "stars": 14,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1384,7 +1384,7 @@
     "internalName": "xanthia-3",
     "name": "Xanthia",
     "author": "Coders: Decaract, ItzCraft, Nahan\nSpriters: Decaract, Nahan\nTesters: DarkSniper, Nahan, ItzCraft, AnDashik\nContributors: Arbuzer, Los Sasikos, AnDashik\nTranslators: Kev-Vily, ItzCraft",
-    "lastUpdated": "2025-02-10T14:00:00Z",
+    "lastUpdated": "2025-02-10T14:53:33Z",
     "stars": 13,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -3216,18 +3216,6 @@
     "description": "Aming to make the client a bit better for casting! with ease of use, simplicity and elegance in mind \n \n Java rewrite of 'JiroCab/Caster-Ui' which was based off 'Ferlern/extended-UI' \nconflicts with 'Ferlern/extended-UI'  \n\nPLEASE DON'T THIS FOR AN ADVANTAGE IN PVP THANKS"
   },
   {
-    "repo": "eipusino/heavyindustrymod",
-    "internalName": "heavy-industry",
-    "name": "Heavy Industry",
-    "author": "Eipusino",
-    "lastUpdated": "2025-02-09T11:53:16Z",
-    "stars": 5,
-    "minGameVersion": "147.0",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Long term suspension of updates. Dead."
-  },
-  {
     "repo": "thomasthings/serpulo-scaled",
     "internalName": "ss",
     "name": "Serpulo Scaled",
@@ -3238,6 +3226,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod for adding both larger and smaller content to Serpulo."
+  },
+  {
+    "repo": "eipusino/heavyindustrymod",
+    "internalName": "heavy-industry",
+    "name": "Heavy Industry",
+    "author": "Eipusino",
+    "lastUpdated": "2025-02-10T14:51:36Z",
+    "stars": 5,
+    "minGameVersion": "147.0",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The author will be busy with affairs after the New Year, and the mod will be updated slowly for a long time."
   },
   {
     "repo": "mythril382/self-destruct-core",
