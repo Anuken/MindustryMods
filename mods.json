@@ -101,7 +101,7 @@
     "name": "Mindustry Tool",
     "author": "[red]VN-[#ff6347]Sharrlotte[]",
     "lastUpdated": "2025-02-12T16:08:26Z",
-    "stars": 118,
+    "stars": 119,
     "minGameVersion": "140",
     "hasScripts": false,
     "hasJava": true,
@@ -172,7 +172,7 @@
     "internalName": "omaloon",
     "name": "Omaloon",
     "author": "stabu, uujuju",
-    "lastUpdated": "2025-02-15T11:49:59Z",
+    "lastUpdated": "2025-02-15T17:48:30Z",
     "stars": 97,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2508,18 +2508,6 @@
     "description": "Add something helpful for vanilla. Also have some better UI.\n\n- Coreitem display for mobile.\n- Unit conter display.\n- Time control.\n- Some change for vanilla (see in setting, default is off):\n+ Bigger vault, container and vault in Erekir.\n+ Bigger range for override dome, 200% speed up.\n+ Force projector have more shield health.\n- Auto update.\n- New contents as well:\n+ Thorium / surge conveyor (serpulo)\n+ Some storage blocks\n+ \"T6\" units\n- Aslo make some hidden contents available\n\nWarning: The mod under development, any contributions would be gratefully appreciated. See github for more details."
   },
   {
-    "repo": "cewwi/resurrection-mod",
-    "internalName": "resurrection",
-    "name": "Cataclysm",
-    "author": "[#0c6ed1]cewwi[] & [#BC5452FF]JJ[]",
-    "lastUpdated": "2025-02-13T22:19:20Z",
-    "stars": 7,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "We plan to add three new planets into the game, with two new tech trees. \n(actually might add much more, but one step at a time I guess)\n\nA Planet Devestated by time. Tronoe P07 was never the planet the we expected to find. \nUnder all the rubble, was an emmense cavern that had spanded through nearly the whole planet.\nWho knows what we'll find down here.\n\nYou have heard rumors... That on the dark, irradiated wasteland of Nevorix, there lie ancient technologies yet to be uncovered.\nThe only thing that stands in your way, is The New Order. A faction of mindless vessels cotrolled by the Hivemind, an amalgamation of assimilated minds.\nbring this powerful technology back from the planet, so that you may annihilate an ancient foe once and for all..."
-  },
-  {
     "repo": "hexazeta/complicatedustry",
     "internalName": "",
     "name": "Complicatedustry",
@@ -2542,6 +2530,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\nIf you are downloading the mod with in-game mod browser, and you don't want to install the test versions that may crash the game, choose View Releases and install the latest version.\n\n\n------------------------------\n\n\nA javascript mod aimed to bring real (or surreal, sometimes) chemical engineering into Mindustry, where tin is definitely tin.\n\n\n- This mod focuses on complex manufacturing processes, instead of tower defense or RTS.\n\n- Nothing extends vanilla gameplay, all the contents including environmental blocks are mod-based. No borrowed or recolored vanilla textures.\n\n- Steps and intermediates are introduced for production routes, which are mostly based on the processes in real life. Say bye to straightforward recipes and fictional real names.\n\n- Extraction methods are required to turn ores into actual materials, e.g. smelting.\n\n- New mechanics like fluid corrosion and underground ores are introduced, which differentiates the gameplay drastically.\n\n- Turrets are absent, the mod will focus on unit-only defense and attack.\n\n\nMost of the factories are multi-crafters, you'll need download MultiCrafterLib first! (Sorry for IOS players D:)\n\n\nReind is still and probably always WIP. Do not launch to numbered sectors since sector generator is not used.\n\n\n------------------------------\n\n\nContents:\n\n- MaboroshiX\n\n\nSprites:\n\n- MaboroshiX\n\n\nScripts:\n\n- MaboroshiX\n\n\nMaps:\n\n- MaboroshiX\n\n\nIdeas:\n\n- MaboroshiX\n\n\n------------------------------\n\n\nInspiration & Acknowledgement:\n\n- Pixabay (website), for sound effects, most of which have been modified.\n\n- Greg's Tech: New Horizon (Minecraft modpack), for ideas about some factories and production routes.\n\n- Asthosus (Mindustry mod), for introducing me to hjson, and how to make a planet.\n\n- Sapphirium (Mindustry mod), for introducing me to javascript.\n\n- Fictional Octo System (Mindustry mod), for ore scanner mechanics.\n\n- 格雷工业 (Mindustry mod), for some codes about tables.\n"
+  },
+  {
+    "repo": "cewwi/resurrection-mod",
+    "internalName": "resurrection",
+    "name": "Cataclysm",
+    "author": "[#0c6ed1]cewwi[] & [#BC5452FF]JJ[]",
+    "lastUpdated": "2025-02-15T16:35:13Z",
+    "stars": 7,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "We plan to add three new planets into the game, with two new tech trees. \n(actually might add much more, but one step at a time I guess)\n\nA Planet Devestated by time. Tronoe P07 was never the planet the we expected to find. \nUnder all the rubble, was an emmense cavern that had spanded through nearly the whole planet.\nWho knows what we'll find down here.\n\nYou have heard rumors... That on the dark, irradiated wasteland of Nevorix, there lie ancient technologies yet to be uncovered.\nThe only thing that stands in your way, is The New Order. A faction of mindless vessels cotrolled by the Hivemind, an amalgamation of assimilated minds.\nbring this powerful technology back from the planet, so that you may annihilate an ancient foe once and for all..."
   },
   {
     "repo": "xzxadixzx/crawler-language",
@@ -2788,7 +2788,7 @@
     "internalName": " mech ",
     "name": "Combat Dustry",
     "author": "beee",
-    "lastUpdated": "2025-02-15T15:59:40Z",
+    "lastUpdated": "2025-02-15T16:16:26Z",
     "stars": 6,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -5964,18 +5964,6 @@
     "description": "A Mindustry Java mod."
   },
   {
-    "repo": "dsfdsfwxp/finalcampaign",
-    "internalName": "final-campaign",
-    "name": "finalCampaign",
-    "author": "Wxp",
-    "lastUpdated": "2025-02-14T16:26:32Z",
-    "stars": 2,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A interesting mod. \n!!! Under development now. Coming soon."
-  },
-  {
     "repo": "nikonf20/oil-extended",
     "internalName": "oe",
     "name": "Oil Extended",
@@ -5998,6 +5986,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "rusted dunes is a type of mod that's not hard or easy and your goals are to make technology in use of eroded materials or rusted materials and produce rusted units and soon upgrade them to there potential \n\ndunes is a wasted planet and the crux has also broken most of their equipment due to thick atmosphere of rust "
+  },
+  {
+    "repo": "dsfdsfwxp/finalcampaign",
+    "internalName": "final-campaign",
+    "name": "finalCampaign",
+    "author": "Wxp",
+    "lastUpdated": "2025-02-15T17:21:15Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A interesting mod. \n!!! Under development now. Coming soon."
   },
   {
     "repo": "teaeempire/gghv7",
