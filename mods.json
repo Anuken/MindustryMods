@@ -256,7 +256,7 @@
     "internalName": "sfire-mod",
     "name": "SaturationFirepowerMod",
     "author": "RAdea.exe",
-    "lastUpdated": "2025-02-22T08:14:44Z",
+    "lastUpdated": "2025-02-22T10:17:49Z",
     "stars": 75,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -864,6 +864,18 @@
     "description": "Adds various testers for easier mod development.\nThanks to: Gdeft"
   },
   {
+    "repo": "dong-wo-long/enhancementunits",
+    "internalName": "enhancement-units",
+    "name": "Enhancement Units",
+    "author": "D&X",
+    "lastUpdated": "2024-06-03T13:06:10Z",
+    "stars": 20,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "ATTENTION:\n\nFrom now on, the mod goes into experimental mode - this means that the balance may not be balanced, such as a Toxopid with a Corvus, whose attack radius go far beyond 60 cells!!!!!\nNevertheless, I advise you to calm down: when the mod reaches its peak (despite my crazy plans for it, the result of which you are already watching), I will make several versions to meet the needs of as many people as possible. In the meantime, it remains to wait. Sorry for the inconvenience.\n\nImportant:\n\nThis mod does not bring anything radically new to the game, but only expands the combat functionality of existing combat units.\n\nPlease pay attention:\n\nThe mod significantly redesigns units, changes the balance and generally complicates the game. Don't forget to make a backup in case you don't like the changes that the mod itself makes.\n\nP.S. The mod is made for ALE maps."
+  },
+  {
     "repo": "xtarsagency/zeridmuth",
     "internalName": "zeridmuth",
     "name": "Zeridmuth: A New Beginning",
@@ -898,18 +910,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Randomizes almost everything!\nJoin our discord! https://discord.gg/ztC6WJUxZK\n\nEPILEPSY WARNING"
-  },
-  {
-    "repo": "dong-wo-long/enhancementunits",
-    "internalName": "enhancement-units",
-    "name": "Enhancement Units",
-    "author": "D&X",
-    "lastUpdated": "2024-06-03T13:06:10Z",
-    "stars": 19,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "ATTENTION:\n\nFrom now on, the mod goes into experimental mode - this means that the balance may not be balanced, such as a Toxopid with a Corvus, whose attack radius go far beyond 60 cells!!!!!\nNevertheless, I advise you to calm down: when the mod reaches its peak (despite my crazy plans for it, the result of which you are already watching), I will make several versions to meet the needs of as many people as possible. In the meantime, it remains to wait. Sorry for the inconvenience.\n\nImportant:\n\nThis mod does not bring anything radically new to the game, but only expands the combat functionality of existing combat units.\n\nPlease pay attention:\n\nThe mod significantly redesigns units, changes the balance and generally complicates the game. Don't forget to make a backup in case you don't like the changes that the mod itself makes.\n\nP.S. The mod is made for ALE maps."
   },
   {
     "repo": "saigon0nozomi/nightscape",
@@ -1584,6 +1584,18 @@
     "description": "Adds a dialog for turning images into canvas schematics.\nRequires deltanedas/ui-lib."
   },
   {
+    "repo": "hungrycloud4913/hc-expanded-dawn",
+    "internalName": "hc-expanded-dawn",
+    "name": "HC Expanded Dawn",
+    "author": "HungryCloud4913",
+    "lastUpdated": "2025-02-19T16:08:18Z",
+    "stars": 11,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Please leave a star on Github, It lets me know you enjoy the mod.\n\nCredits to everyone who helped even in the slightest bit ever,\n\nDiscord Helpers: \n           mindustridiot_06647 - Unit suggestions and unit FX work, \n           /////\n           cy4nide0165 - Railhammer unit FX work and suggestion, \n           /////\n           Elysia - A couple spare sprites given because they didn't need them, \n           /////\n           display_namer - Small coding help for animated items and liquids\n           /////\n           Aureus - Helping me understand tank treads by a tiny margin"
+  },
+  {
     "repo": "darealmonika/eriker-logic",
     "internalName": "erekir-logic",
     "name": "Erekir Logic",
@@ -1762,18 +1774,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Sueno is a modification that allows you to go to a new planet with unique temperature mechanics"
-  },
-  {
-    "repo": "hungrycloud4913/hc-expanded-dawn",
-    "internalName": "hc-expanded-dawn",
-    "name": "HC Expanded Dawn",
-    "author": "HungryCloud4913",
-    "lastUpdated": "2025-02-19T16:08:18Z",
-    "stars": 10,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Please leave a star on Github, It lets me know you enjoy the mod.\n\nCredits to everyone who helped even in the slightest bit ever,\n\nDiscord Helpers: \n           mindustridiot_06647 - Unit suggestions and unit FX work, \n           /////\n           cy4nide0165 - Railhammer unit FX work and suggestion, \n           /////\n           Elysia - A couple spare sprites given because they didn't need them, \n           /////\n           display_namer - Small coding help for animated items and liquids\n           /////\n           Aureus - Helping me understand tank treads by a tiny margin"
   },
   {
     "repo": "deltanedas/mobile-ui",
@@ -2580,18 +2580,6 @@
     "description": "\nIf you are downloading the mod with in-game mod browser, and you don't want to install the test versions that may crash the game, choose View Releases and install the latest version.\n\n\n------------------------------\n\n\nA javascript mod aimed to bring real (or surreal, sometimes) chemical engineering into Mindustry, where tin is definitely tin.\n\n\n- This mod focuses on complex manufacturing processes, instead of tower defense or RTS.\n\n- Nothing extends vanilla gameplay, all the contents including environmental blocks are mod-based. No borrowed or recolored vanilla textures.\n\n- Steps and intermediates are introduced for production routes, which are mostly based on the processes in real life. Say bye to straightforward recipes and fictional real names.\n\n- Extraction methods are required to turn ores into actual materials, e.g. smelting.\n\n- New mechanics like fluid corrosion and underground ores are introduced, which differentiates the gameplay drastically.\n\n- Turrets are absent, the mod will focus on unit-only defense and attack.\n\n\nMost of the factories are multi-crafters, you'll need download MultiCrafterLib first! (Sorry for IOS players D:)\n\n\nReind is still and probably always WIP. Do not launch to numbered sectors since sector generator is not used.\n\n\n------------------------------\n\n\nContents:\n\n- MaboroshiX\n\n\nSprites:\n\n- MaboroshiX\n\n\nScripts:\n\n- MaboroshiX\n\n\nMaps:\n\n- MaboroshiX\n\n\nIdeas:\n\n- MaboroshiX\n\n\n------------------------------\n\n\nInspiration & Acknowledgement:\n\n- Pixabay (website), for sound effects, most of which have been modified.\n\n- Greg's Tech: New Horizon (Minecraft modpack), for ideas about some factories and production routes.\n\n- Asthosus (Mindustry mod), for introducing me to hjson, and how to make a planet.\n\n- Sapphirium (Mindustry mod), for introducing me to javascript.\n\n- Fictional Octo System (Mindustry mod), for ore scanner mechanics.\n\n- 格雷工业 (Mindustry mod), for some codes about tables.\n"
   },
   {
-    "repo": "deercarbonate/azimut",
-    "internalName": "azimut",
-    "name": "Azimut",
-    "author": "DeerCarbonate",
-    "lastUpdated": "2025-02-21T12:04:31Z",
-    "stars": 7,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Developed by one person since July 2024, Azimut is a new HJSON campaign, with new (but in very small quantities) mechanics.\n\nAt the moment, all content outside the first sector is experimental and subject to change. (Okay, even the first sector copes with this perfectly)."
-  },
-  {
     "repo": "cewwi/resurrection-mod",
     "internalName": "resurrection",
     "name": "Cataclysm",
@@ -2602,6 +2590,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "We plan to add three new planets into the game, with two new tech trees. \n(actually might add much more, but one step at a time I guess)\n\nA Planet Devestated by time. Tronoe P07 was never the planet the we expected to find. \nUnder all the rubble, was an emmense cavern that had spanded through nearly the whole planet.\nWho knows what we'll find down here.\n\nYou have heard rumors... That on the dark, irradiated wasteland of Nevorix, there lie ancient technologies yet to be uncovered.\nThe only thing that stands in your way, is The New Order. A faction of mindless vessels cotrolled by the Hivemind, an amalgamation of assimilated minds.\nbring this powerful technology back from the planet, so that you may annihilate an ancient foe once and for all..."
+  },
+  {
+    "repo": "deercarbonate/azimut",
+    "internalName": "azimut",
+    "name": "Azimut",
+    "author": "DeerCarbonate",
+    "lastUpdated": "2025-02-22T11:25:12Z",
+    "stars": 7,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Developed by one person since July 2024, Azimut is a new HJSON campaign, with new (but in very small quantities) mechanics.\n\nAt the moment, all content outside the first sector is experimental and subject to change. (Okay, even the first sector copes with this perfectly)."
   },
   {
     "repo": "xzxadixzx/crawler-language",
@@ -4792,7 +4792,7 @@
     "internalName": "axoxium",
     "name": "Axoxium",
     "author": "555okboi",
-    "lastUpdated": "2025-02-22T08:13:12Z",
+    "lastUpdated": "2025-02-22T10:50:14Z",
     "stars": 3,
     "minGameVersion": "142",
     "hasScripts": true,
