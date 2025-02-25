@@ -64,7 +64,7 @@
     "internalName": "schema",
     "name": "Schema",
     "author": "xzxADIxzx",
-    "lastUpdated": "2025-02-25T15:52:08Z",
+    "lastUpdated": "2025-02-25T16:45:56Z",
     "stars": 186,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -616,7 +616,7 @@
     "internalName": "sw",
     "name": "Steam Works",
     "author": "Liz Aurora",
-    "lastUpdated": "2025-02-23T18:42:06Z",
+    "lastUpdated": "2025-02-25T17:53:03Z",
     "stars": 28,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2232,6 +2232,18 @@
     "description": "Add something helpful for vanilla. Also have some better UI.\n\n- Coreitem display for mobile.\n- Unit conter display.\n- Time control.\n- Some change for vanilla (see in setting, default is off):\n+ Bigger vault, container and vault in Erekir.\n+ Bigger range for override dome, 200% speed up.\n+ Force projector have more shield health.\n- Auto update.\n- New contents as well:\n+ Thorium / surge conveyor (serpulo)\n+ Some storage blocks\n+ \"T6\" units\n- Aslo make some hidden contents available\n\nWarning: The mod under development, any contributions would be gratefully appreciated. See github for more details."
   },
   {
+    "repo": "huanxefh/reindustrialization",
+    "internalName": "reind",
+    "name": "Reindustrialization",
+    "author": "MaboroshiX",
+    "lastUpdated": "2025-02-14T10:37:58Z",
+    "stars": 8,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\nIf you are downloading the mod with in-game mod browser, and you don't want to install the test versions that may crash the game, choose View Releases and install the latest version.\n\n\n------------------------------\n\n\nA javascript mod aimed to bring real (or surreal, sometimes) chemical engineering into Mindustry, where tin is definitely tin.\n\n\n- This mod focuses on complex manufacturing processes, instead of tower defense or RTS.\n\n- Nothing extends vanilla gameplay, all the contents including environmental blocks are mod-based. No borrowed or recolored vanilla textures.\n\n- Steps and intermediates are introduced for production routes, which are mostly based on the processes in real life. Say bye to straightforward recipes and fictional real names.\n\n- Extraction methods are required to turn ores into actual materials, e.g. smelting.\n\n- New mechanics like fluid corrosion and underground ores are introduced, which differentiates the gameplay drastically.\n\n- Turrets are absent, the mod will focus on unit-only defense and attack.\n\n\nMost of the factories are multi-crafters, you'll need download MultiCrafterLib first! (Sorry for IOS players D:)\n\n\nReind is still and probably always WIP. Do not launch to numbered sectors since sector generator is not used.\n\n\n------------------------------\n\n\nContents:\n\n- MaboroshiX\n\n\nSprites:\n\n- MaboroshiX\n\n\nScripts:\n\n- MaboroshiX\n\n\nMaps:\n\n- MaboroshiX\n\n\nIdeas:\n\n- MaboroshiX\n\n\n------------------------------\n\n\nInspiration & Acknowledgement:\n\n- Pixabay (website), for sound effects, most of which have been modified.\n\n- Greg's Tech: New Horizon (Minecraft modpack), for ideas about some factories and production routes.\n\n- Asthosus (Mindustry mod), for introducing me to hjson, and how to make a planet.\n\n- Sapphirium (Mindustry mod), for introducing me to javascript.\n\n- Fictional Octo System (Mindustry mod), for ore scanner mechanics.\n\n- 格雷工业 (Mindustry mod), for some codes about tables.\n"
+  },
+  {
     "repo": "prosta4okua/ukrajinisator",
     "internalName": "ukrainian-translation-mod",
     "name": "Ukrainian translation",
@@ -2578,18 +2590,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "the ultimate ratio hell, a designer's challenge"
-  },
-  {
-    "repo": "huanxefh/reindustrialization",
-    "internalName": "reind",
-    "name": "Reindustrialization",
-    "author": "MaboroshiX",
-    "lastUpdated": "2025-02-14T10:37:58Z",
-    "stars": 7,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "\nIf you are downloading the mod with in-game mod browser, and you don't want to install the test versions that may crash the game, choose View Releases and install the latest version.\n\n\n------------------------------\n\n\nA javascript mod aimed to bring real (or surreal, sometimes) chemical engineering into Mindustry, where tin is definitely tin.\n\n\n- This mod focuses on complex manufacturing processes, instead of tower defense or RTS.\n\n- Nothing extends vanilla gameplay, all the contents including environmental blocks are mod-based. No borrowed or recolored vanilla textures.\n\n- Steps and intermediates are introduced for production routes, which are mostly based on the processes in real life. Say bye to straightforward recipes and fictional real names.\n\n- Extraction methods are required to turn ores into actual materials, e.g. smelting.\n\n- New mechanics like fluid corrosion and underground ores are introduced, which differentiates the gameplay drastically.\n\n- Turrets are absent, the mod will focus on unit-only defense and attack.\n\n\nMost of the factories are multi-crafters, you'll need download MultiCrafterLib first! (Sorry for IOS players D:)\n\n\nReind is still and probably always WIP. Do not launch to numbered sectors since sector generator is not used.\n\n\n------------------------------\n\n\nContents:\n\n- MaboroshiX\n\n\nSprites:\n\n- MaboroshiX\n\n\nScripts:\n\n- MaboroshiX\n\n\nMaps:\n\n- MaboroshiX\n\n\nIdeas:\n\n- MaboroshiX\n\n\n------------------------------\n\n\nInspiration & Acknowledgement:\n\n- Pixabay (website), for sound effects, most of which have been modified.\n\n- Greg's Tech: New Horizon (Minecraft modpack), for ideas about some factories and production routes.\n\n- Asthosus (Mindustry mod), for introducing me to hjson, and how to make a planet.\n\n- Sapphirium (Mindustry mod), for introducing me to javascript.\n\n- Fictional Octo System (Mindustry mod), for ore scanner mechanics.\n\n- 格雷工业 (Mindustry mod), for some codes about tables.\n"
   },
   {
     "repo": "new-guys5634/mechy-chaos",
@@ -3900,18 +3900,6 @@
     "description": "I'm added some iron and story to this mod. Requires Liplum/MultiCrafter lib"
   },
   {
-    "repo": "acookieg/carbon-vanilla",
-    "internalName": "carbon vanilla",
-    "name": "Carbon-Vanilla",
-    "author": "AcookieG",
-    "lastUpdated": "2025-02-25T13:47:54Z",
-    "stars": 4,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds multiple new factories, turrets and items to enhance vanilla content and add more things post-late game. IMPORTANT: Credit for sprites cuz stealing bad: Eschatologue/Unlimited-Armament-Works, AureusStratus/ExoGenesis, Eschatologue/Heavy-Armaments-Industries, uujuju1/project-oblivion"
-  },
-  {
     "repo": "new-guys5634/rusted-dunes",
     "internalName": "rusted-dunes",
     "name": "Rusted Dunes",
@@ -3922,6 +3910,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Rusted dunes is a type of mod that's not hard or easy and your goals are to make technology in use of eroded materials or rusted materials and produce rusted units and soon upgrade them to there potential.\n\nDunes is a wasted planet and the crux has also broken most of their equipment due to thick atmosphere of rust.\n\nQuick heads up make sure to reinstall regular.\n\nGive a star if you enjoy Thanks!!!."
+  },
+  {
+    "repo": "acookieg/carbon-vanilla",
+    "internalName": "carbon vanilla",
+    "name": "Carbon-Vanilla",
+    "author": "AcookieG",
+    "lastUpdated": "2025-02-25T17:31:20Z",
+    "stars": 4,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds multiple new factories, turrets and items to enhance vanilla content and add more things post-late game. IMPORTANT: Credit for sprites cuz stealing bad: Eschatologue/Unlimited-Armament-Works, AureusStratus/ExoGenesis, Eschatologue/Heavy-Armaments-Industries, uujuju1/project-oblivion"
   },
   {
     "repo": "mythril382/u-r-a-i-c",
