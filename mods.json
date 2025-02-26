@@ -149,7 +149,7 @@
     "name": "Omaloon",
     "author": "stabu, uujuju",
     "lastUpdated": "2025-02-26T11:41:12Z",
-    "stars": 103,
+    "stars": 104,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -2272,7 +2272,7 @@
     "internalName": "etigeox",
     "name": "Etigei Exile",
     "author": "[lime]Mitemi[lightgray] & [cyan]Tikup",
-    "lastUpdated": "2025-02-25T14:23:04Z",
+    "lastUpdated": "2025-02-26T14:12:53Z",
     "stars": 8,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -2884,7 +2884,7 @@
     "internalName": "eso",
     "name": "Esoterum II",
     "author": "@Goob_rr",
-    "lastUpdated": "2025-02-26T13:53:16Z",
+    "lastUpdated": "2025-02-26T14:46:55Z",
     "stars": 6,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -3916,7 +3916,7 @@
     "internalName": "carbon vanilla",
     "name": "Carbon-Vanilla",
     "author": "AcookieG",
-    "lastUpdated": "2025-02-26T13:53:56Z",
+    "lastUpdated": "2025-02-26T15:55:47Z",
     "stars": 4,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -6012,18 +6012,6 @@
     "description": "A Mindustry Java mod."
   },
   {
-    "repo": "lysent/timber",
-    "internalName": "edt",
-    "name": "Timber (EDT)",
-    "author": "[lime]Mitemi[lightgray] & [cyan]Tikup",
-    "lastUpdated": "2025-02-25T14:23:58Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "[green]EDT [yellow]- Environment Destruction Timber\n\n[white]Adds destructible environment to make trees destroyable in Serpulo. Grants timber which can be used as fuel. Dependency of the Etigei Exile mod, but works as a standalone.\n\n[white]Discord: [blue]https://discord.com/invite/TJKZgr6UDg"
-  },
-  {
     "repo": "nikonf20/oil-extended",
     "internalName": "oe",
     "name": "Oil Extended",
@@ -6046,6 +6034,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "(This mod is on BETA so many things can change in the future)This is my first mod, so dont hope its going to have very high quality. This mod adds new units, turrets, factories, ores, a new planet and more (Extra: the textures are made in paint by the way)"
+  },
+  {
+    "repo": "lysent/timber",
+    "internalName": "edt",
+    "name": "Timber (EDT)",
+    "author": "[lime]Mitemi[lightgray] & [cyan]Tikup",
+    "lastUpdated": "2025-02-26T14:15:26Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "[green]EDT [yellow]- Environment Destruction Timber\n\n[white]Adds destructible environment to make trees destroyable in Serpulo. Grants timber which can be used as fuel.\n\nDependency of the Etigei Exile mod, but works as a standalone.\n\n[white]Discord: [blue]https://discord.com/invite/TJKZgr6UDg"
   },
   {
     "repo": "teaeempire/gghv7",
@@ -8868,18 +8868,6 @@
     "description": "Small addition to electrical blocks."
   },
   {
-    "repo": "darkdustry-coders/mindurkacompat",
-    "internalName": "mindurkacompat",
-    "name": "MindurkaCompat",
-    "author": "buj",
-    "lastUpdated": "2024-09-01T06:19:24Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mod that adds extra compatibility with Mindurka"
-  },
-  {
     "repo": "ravirego766/sboxin",
     "internalName": "sboxin",
     "name": "Sboxin Mod",
@@ -9553,14 +9541,26 @@
   },
   {
     "repo": "ximmee10/mix-mod",
-    "internalName": "oy oyoy",
-    "name": "Xima sigma Mod",
+    "internalName": "mix mod",
+    "name": "Mix Mod",
     "author": "Xim",
-    "lastUpdated": "2025-02-26T10:53:45Z",
+    "lastUpdated": "2025-02-26T14:15:28Z",
     "stars": 0,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
-    "description": "im copy hahah"
+    "description": "none null 0 haha"
+  },
+  {
+    "repo": "darkdustry-coders/mindurkacompat",
+    "internalName": "mindurkacompat",
+    "name": "MindurkaCompat",
+    "author": "buj",
+    "lastUpdated": "2025-02-26T15:38:46Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mod that adds extra compatibility with Mindurka"
   }
 ]
