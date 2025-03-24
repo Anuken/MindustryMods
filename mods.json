@@ -676,7 +676,7 @@
     "internalName": "meld",
     "name": "Meld",
     "author": "Sh1penfire",
-    "lastUpdated": "2025-03-11T00:14:10Z",
+    "lastUpdated": "2025-03-24T12:01:21Z",
     "stars": 26,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -892,7 +892,7 @@
     "internalName": "gloomustry",
     "name": "Gloomistry - New Mission",
     "author": "Fun",
-    "lastUpdated": "2025-03-23T11:00:55Z",
+    "lastUpdated": "2025-03-24T12:09:33Z",
     "stars": 20,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -910,6 +910,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Logic Debugger\n\n一个逻辑辅助工具\n\n原作DeltaNedas/ldb\n\nyaddrx2将其升级到了137，仅供学习交流使用\n\n当前版本：1.7.0\n\n更新日志\n\nv1.0.1\n将mod版本升为137\n\nv1.0.2\n取消ui-lib的前置\n\nv1.0.3\n逻辑码编辑板\n新增代码语句的文本形式编辑\n\nv1.0.4\n逻辑块变量面板\n变量更新闪烁\n增加逻辑块所连方块的显示\n\nv1.0.5\n内存块编辑板\n内存值更新闪烁\n新增内存值的二进制形式视察\n实现内存值的十六进制形式编辑\n\nv1.0.6\n新增代码插入相关操作\n实现从剪切板导入代码块到指定位置\n\nv1.0.7\n新增面板的折叠按钮\n修复学术端运行mod导致的面板移位或覆盖\n修复面板横向抖动的bug\n\nv1.0.8\n单步调试面板\n实现代码单步运行调试\n\nv1.1.0\n新增调试面板设置断点\n实现运行到下一断点操作\n\nv1.1.1\n新增变量位置指示器\n显示单位变量的flag\n\nv1.2\n新增调试面板的运行位置追踪\n新增功能标签\n\nv1.3\n位置指示器增加变量名\n\nv1.4\n内存块面板增加内存值导入导出\n\nv1.5\n变量面板增加变量值导出\n\nv1.6\n内存面板的变量名筛选\n内存值导出筛选器\n\nv1.7\n增加信息板复制与导入"
+  },
+  {
+    "repo": "eyeofdarkness/advance-lighting",
+    "internalName": "advance-lighting",
+    "name": "Advance lighting",
+    "author": "EoD",
+    "lastUpdated": "2024-05-18T05:50:46Z",
+    "stars": 19,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Not recommended for weak devices. Only supports Vanilla/Supported-Json content. This mod replaces/add some effects, and may cause issues with mods that actively check on those effects. May conflict with vanilla bloom."
   },
   {
     "repo": "sporrus/randommindustry",
@@ -958,18 +970,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A cheat mod designed for V7\n(All content has the prefix \"Super -\")\nFeatures include:\n\n-- 1) Units and buildings that have 1 Billion Health\n\n-- 2) A unit and a turret that deals 1 Billion Damage\n\n-- 3) Overdrive tower that boosts speed of buildings (has a range limit) (increases power production and consumption)\n\n-- 4) Item, liquid, power, payload (buildings and units), and heat source\n\n-- 5) Build Tower that helps you build buildings (ha), which means insta-build\n\n-- 6) Walls that deal 1 Billion damage when enemies try to attack it (somehow doesn't work for certain units)\n\n\nIf you like the mod then give it a star in GitHub!"
-  },
-  {
-    "repo": "eyeofdarkness/advance-lighting",
-    "internalName": "advance-lighting",
-    "name": "Advance lighting",
-    "author": "EoD",
-    "lastUpdated": "2024-05-18T05:50:46Z",
-    "stars": 18,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Not recommended for weak devices. Only supports Vanilla/Supported-Json content. This mod replaces/add some effects, and may cause issues with mods that actively check on those effects. May conflict with vanilla bloom."
   },
   {
     "repo": "echovespy/simplistic",
@@ -3292,7 +3292,7 @@
     "internalName": "axoxium",
     "name": "Axoxium",
     "author": "555okboi",
-    "lastUpdated": "2025-03-23T05:58:05Z",
+    "lastUpdated": "2025-03-24T10:18:11Z",
     "stars": 5,
     "minGameVersion": "142",
     "hasScripts": true,
@@ -7548,18 +7548,6 @@
     "description": "expanding serpulo things mainly units"
   },
   {
-    "repo": "xpdustry/kotlin-runtime",
-    "internalName": "kotlin-runtime",
-    "name": "KotlinRuntime",
-    "author": "Xpdustry",
-    "lastUpdated": "2025-03-20T11:10:41Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A companion mod for Kotlin based mods and plugins."
-  },
-  {
     "repo": "leyn-pl/bettercoreexplosion",
     "internalName": "bettercoreex",
     "name": "Better Core Explosion",
@@ -7582,18 +7570,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Will this mod even work?"
-  },
-  {
-    "repo": "volproil/ultimate-military-technic",
-    "internalName": "ultimate-military-technic-mod",
-    "name": "Ultimate Military Technic Mod",
-    "author": "Volproil",
-    "lastUpdated": "2025-03-22T15:24:11Z",
-    "stars": 1,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Mod add tanks, aircraft, artillery, diesel generators"
   },
   {
     "repo": "user3253/c-militarymod",
@@ -7630,6 +7606,30 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "[sky]---------------------------------[]\n\nA distant planet brimming with life.\nall of it breathing, beating, [red] selfish, hoarding, mindless.... []\n\n A distant planet brimming with valuable resources, \nboth you and your enemy know that, your job? harvest it dry.\nit wont be easy, the native life acts as a hive, \nit will protect those resources at all costs, their life included.\nLucky for you, you can [red] harvest them too...\n\nUPROOT, REAP, PROCESS, REPEAT []\n\n[sky]---------------------------------[]\n\n[lightgrey] Guess what? Yet another mod that aims to add a new planet\nthis of course comes with all the blocks, units, enviorment and that jazz.\nCurrentlly in V E R Y early development, like literally no content early. []"
+  },
+  {
+    "repo": "xpdustry/kotlin-runtime",
+    "internalName": "kotlin-runtime",
+    "name": "KotlinRuntime",
+    "author": "Xpdustry",
+    "lastUpdated": "2025-03-24T11:12:52Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A companion mod for Kotlin based mods and plugins."
+  },
+  {
+    "repo": "volproil/ultimate-military-technic",
+    "internalName": "ultimate-military-technic-mod",
+    "name": "Ultimate Military Technic Mod",
+    "author": "Volproil",
+    "lastUpdated": "2025-03-24T12:08:26Z",
+    "stars": 1,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Mod add tanks, aircraft, artillery, diesel generators"
   },
   {
     "repo": "manuwar73/remodeled-industry-expansion",
@@ -9676,7 +9676,7 @@
     "internalName": "ich-mod",
     "name": "Ich",
     "author": "zeriki",
-    "lastUpdated": "2025-03-24T09:59:25Z",
+    "lastUpdated": "2025-03-24T12:12:12Z",
     "stars": 0,
     "minGameVersion": "145",
     "hasScripts": false,
