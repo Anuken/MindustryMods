@@ -600,18 +600,6 @@
     "description": "Adds a console ui superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more,\na good log panel, execution history - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
   },
   {
-    "repo": "zelaux/bytelogicmod",
-    "internalName": "byte-logic-mod",
-    "name": "Byte Logic Mod",
-    "author": "Zelaux",
-    "lastUpdated": "2024-09-24T22:19:06Z",
-    "stars": 29,
-    "minGameVersion": "141.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds byte logic blocks from v5"
-  },
-  {
     "repo": "andromeda-galaxy29/psammos-mod",
     "internalName": "psammos",
     "name": "Psammos Mod",
@@ -622,6 +610,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer [accent]Psammos[white].\r\n\r\nJoin our discord server: [#5865f2]https://discord.gg/eBzANBKCBA[white]\r\n\r\nIf you like the mod, consider giving it a star on GitHub. Thank you\r\n\r\n[#31fea7]Contributors:[white]\r\n- [#5865f2]@inxie_ratzey[white] for suggestions, sprites, many maps and other contributions\r\n- [#5865f2]@thisiscrimsoncheck[white] for several maps, suggestions and other contributions\r\n- [#5865f2]@tinport[white] for various suggestions and maps\r\n\r\n[#9b59b6]Special thanks:[white]\r\n- [#5865f2]@chozochorizo[white] for help with balancing the mod\r\n- [#5865f2]@thomas_has_things[white] and [#5865f2]@twcash.[white] for the main menu title font\r\n\r\n[#abe2ca]Suggestions:[white]\r\n- [#5865f2]@nekoarkbruhagain_07111[white] for the suggestion of Confine"
+  },
+  {
+    "repo": "zelaux/bytelogicmod",
+    "internalName": "byte-logic-mod",
+    "name": "Byte Logic Mod",
+    "author": "Zelaux",
+    "lastUpdated": "2024-09-24T22:19:06Z",
+    "stars": 28,
+    "minGameVersion": "141.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds byte logic blocks from v5"
   },
   {
     "repo": "i-hope1/mod-tools",
@@ -646,18 +646,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Dynamic load custom contents patch account to server"
-  },
-  {
-    "repo": "unionofsovietsocialistrepublics/spore-biomechs",
-    "internalName": "sporepod",
-    "name": "Spore Biomechs",
-    "author": "Water molecules",
-    "lastUpdated": "2024-09-07T10:36:45Z",
-    "stars": 26,
-    "minGameVersion": "140",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod inspired by Starcraft 2, add zerg to the game and a bunch of spore related thing.\nCredit:\nHydro for creating the sprites\nDryehm for existing\nHave a great day :D\nhHhhhHH"
   },
   {
     "repo": "nullotte/dusted-lands",
@@ -706,6 +694,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A currently [red]indev[] colab mod with huge scope, being built one planet at a time.\n\nAims to add several cold planets with linked campaigns, along with mechanics that'll [accent]revolutionise[] the way you interact with the mod's different environments, while trying to stay enjoyable and even a lil silly at times.\n\n[darkgray]A voice lingers in the darkness, dancing around your ears. Will you join it?"
+  },
+  {
+    "repo": "unionofsovietsocialistrepublics/spore-biomechs",
+    "internalName": "sporepod",
+    "name": "Spore Biomechs",
+    "author": "Water molecules",
+    "lastUpdated": "2024-09-07T10:36:45Z",
+    "stars": 25,
+    "minGameVersion": "140",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod inspired by Starcraft 2, add zerg to the game and a bunch of spore related thing.\nCredit:\nHydro for creating the sprites\nDryehm for existing\nHave a great day :D\nhHhhhHH"
   },
   {
     "repo": "routerxdd/erekir-extended",
@@ -1404,6 +1404,18 @@
     "description": "BETA sandbox only! requires blackhole render by meep of faith"
   },
   {
+    "repo": "retodera/technologium",
+    "internalName": "t",
+    "name": "Technologium",
+    "author": "[#ff]retodera[] - основатель мода и единственный работающий над ним\n\nА также:\n\nxDer - генератор идей\n\nПризрак - основатель сервера Дискорд (я мог бы и сам)\n\nnadocd (dev) - иногда помогает с кодом\n\nИ все, кто поставили звёздочку <3",
+    "lastUpdated": "2025-03-25T20:00:18Z",
+    "stars": 13,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "<RU>[]\n\n[#00fff2]Technologium[] будет очередным большим модом для Mindustry. Уже многое запланировано, хотя практически ничто из этого не сделано.\n\n\n\nМод будет содержать в себе 2 солнечные системы, может даже больше; множество новых механик, много кампаний, ещё больше блоков, особенно предметов, жидкостей, юнитов и не только.\n\nПока что, только один человек - retodera - работает над модом. Но, если вы хороший спрайтер/кодер, вы можете помочь мне с всем этим. \nЕсли это не так, вы всё ещё можете мотивировать меня, поставив звёздочку на репозитории.\n\nВы также можете присоединиться к нашему говносерверу Дискорд в репозитории.\n\n[#7f7f7f]Мод должен расти.[]\n\n\n\n\n<ENG>[]\n\n[#00fff2]Technologium[] will be another big mod for Mindustry. There's already so much planned, though practically none of it is finished.\n\n\n\nThe mod will contain a whole 2 solar systems, or maybe even more; lots of new mechanics, many campaigns, even more blocks, especially items, liquids, units and not only.\n\nFor now, only one person - retodera - works on the mod. But, if you're a good spriter/coder, you could help me with all of this. \nIf not, you could still motivate me by giving a star on the repository.\n\nYou also could join our shitty Discord server in the repository.\n\n[#7f7f7f]The mod must grow.[]"
+  },
+  {
     "repo": "slotterleet/example-planet-json",
     "internalName": "ep-json",
     "name": "JSON Example Solar System!",
@@ -1512,23 +1524,11 @@
     "description": "\nIf you are downloading the mod with in-game mod browser, and you don't want to install the test versions that may crash the game, choose View Releases and install the latest version instead.\n\n\nThe mod used to rely on MultiCrafter Lib mod by Liplum & Jojo. If you are playing those versions (before t25021401, including 0.1.0), remember to install it! If you're updating the mod from those versions, remove all multi-crafters in your map first since they will cause loading failure.\n\n\n------------------------------\n\n\nA javascript mod aimed to bring real (or surreal, sometimes) chemical engineering into Mindustry, where tin is definitely tin. Expected to be WIP for a very long time.\n\n\nThe mod adds a new tech tree with totally different style to the game, along with a bunch of new mechanics including fluid corrosion, heat transfer, recipe selection and ore scanning.\n\n\nDo not launch to numbered sectors since sector generator is not used.\n\n\n------------------------------\n\n\nSee the complete credits in game!\n"
   },
   {
-    "repo": "retodera/technologium",
-    "internalName": "t",
-    "name": "Technologium",
-    "author": "[#ff]retodera[] - основатель мода и единственный работающий над ним\n\nА также:\n\nxDer - генератор идей\n\nПризрак - основатель сервера Дискорд (я мог бы и сам)\n\nnadocd (dev) - иногда помогает с кодом\n\nИ все, кто поставили звёздочку <3",
-    "lastUpdated": "2025-03-25T20:00:18Z",
-    "stars": 12,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "<RU>[]\n\n[#00fff2]Technologium[] будет очередным большим модом для Mindustry. Уже многое запланировано, хотя практически ничто из этого не сделано.\n\n\n\nМод будет содержать в себе 2 солнечные системы, может даже больше; множество новых механик, много кампаний, ещё больше блоков, особенно предметов, жидкостей, юнитов и не только.\n\nПока что, только один человек - retodera - работает над модом. Но, если вы хороший спрайтер/кодер, вы можете помочь мне с всем этим. \nЕсли это не так, вы всё ещё можете мотивировать меня, поставив звёздочку на репозитории.\n\nВы также можете присоединиться к нашему говносерверу Дискорд в репозитории.\n\n[#7f7f7f]Мод должен расти.[]\n\n\n\n\n<ENG>[]\n\n[#00fff2]Technologium[] will be another big mod for Mindustry. There's already so much planned, though practically none of it is finished.\n\n\n\nThe mod will contain a whole 2 solar systems, or maybe even more; lots of new mechanics, many campaigns, even more blocks, especially items, liquids, units and not only.\n\nFor now, only one person - retodera - works on the mod. But, if you're a good spriter/coder, you could help me with all of this. \nIf not, you could still motivate me by giving a star on the repository.\n\nYou also could join our shitty Discord server in the repository.\n\n[#7f7f7f]The mod must grow.[]"
-  },
-  {
     "repo": "deercarbonate/azimut",
     "internalName": "azimut",
     "name": "Azimut",
     "author": "DeerCarbonate",
-    "lastUpdated": "2025-03-28T19:58:07Z",
+    "lastUpdated": "2025-03-28T20:38:51Z",
     "stars": 12,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -3976,7 +3976,7 @@
     "internalName": "carbon vanilla",
     "name": "Carbon-Vanilla",
     "author": "AcookieG",
-    "lastUpdated": "2025-03-28T19:40:23Z",
+    "lastUpdated": "2025-03-28T20:36:17Z",
     "stars": 4,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -6132,6 +6132,30 @@
     "description": "THE LAST INSTALLMENT to the lore of the crux\n\nThe new revelation is here. kearth is lost... no way we are getting it back.\nthe conquest has started. Tensions blew and his leading sergeant of the crux empire places (you) as field commander of this bloody war.\nAntopia the once lush planet filled with life. killed my explanation of resources and manipulated landscapes.\nduring the first war, the soil was manipulated for chemical warfare, forests were burned where burned where enemies were held and mountains were blown up to stop enemy advance. Life could not keep up and fizzled and... turned into the fallout...\nrequires multi craft lib\ncredits: \nbeee, DID ALL OT THE CODE LIKE EVERYTHING \nXB5611, made all maps and some minor spriting.\nxb5611 also ATE MY PENUT BUTTER LIKE 7 JARS SCREW YOU!!!!!!"
   },
   {
+    "repo": "xpdustry/claj-v2",
+    "internalName": "claj-v2",
+    "name": "CLaJ v2",
+    "author": "ZetaMap, xzxADIxzx",
+    "lastUpdated": "2025-03-28T20:51:02Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allow you to play with your friends just by creating a room, copy the link and send it to your friends."
+  },
+  {
+    "repo": "novanox4/astralis",
+    "internalName": "astralis",
+    "name": "Astralis",
+    "author": "NV-NX",
+    "lastUpdated": "2025-03-28T20:57:53Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Test mod made by an incompetent idiot\n\nVERY EARLY ALPHA!!!!!\n\nSilly planet mod made by silly femboy"
+  },
+  {
     "repo": "teaeempire/gghv7",
     "internalName": "ggh2.1",
     "name": "GGH2.4",
@@ -7680,23 +7704,11 @@
     "description": "eng-The mod is in alpha and all illogical/strange/unfinished things will be fixed! Just watch my crazy fantasy fly :) \nru- Мод находится в стадии альфа-тестирования, и все нелогичные / странные / незавершенные вещи будут исправлены! Просто наблюдайте за полетом моей безумной фантазии :)"
   },
   {
-    "repo": "xpdustry/claj-v2",
-    "internalName": "claj-v2",
-    "name": "CLaJ v2",
-    "author": "ZetaMap, xzxADIxzx",
-    "lastUpdated": "2025-03-28T18:32:32Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allow you to play with your friends just by creating a room, copy the link and send it to your friends."
-  },
-  {
     "repo": "poiu-y/mindustry-ich-mod",
     "internalName": "ich-mod",
     "name": "Ich",
     "author": "zeriki",
-    "lastUpdated": "2025-03-28T19:38:06Z",
+    "lastUpdated": "2025-03-28T20:21:31Z",
     "stars": 1,
     "minGameVersion": "145",
     "hasScripts": false,
