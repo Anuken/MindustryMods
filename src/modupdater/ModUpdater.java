@@ -154,7 +154,7 @@ public class ModUpdater{
                     print(buffer, "&lc|&lg Found mod meta file!");
                     output.put(name, modjson);
                 }catch(Throwable t){
-                    print(buffer, "&lc| &lySkipping. [@]", name, Strings.getSimpleMessage(t));
+                    print(buffer, "&lc| &lySkipping. [@]", Strings.getSimpleMessage(t));
                 }finally{
                     Log.info(buffer.substring(0, buffer.length() - 1));
                 }
