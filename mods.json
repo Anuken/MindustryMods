@@ -4,7 +4,7 @@
     "internalName": "new-horizon",
     "name": "New Horizon",
     "author": "Yuria",
-    "lastUpdated": "2025-04-13T17:34:06Z",
+    "lastUpdated": "2025-04-14T17:33:28Z",
     "stars": 435,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -4044,18 +4044,6 @@
     "description": "Add new mechanical factions. (add novel unit&novel turret) version 0.531"
   },
   {
-    "repo": "acookieg/carbon-vanilla",
-    "internalName": "carbon vanilla",
-    "name": "Carbon-Vanilla",
-    "author": "AcookieG",
-    "lastUpdated": "2025-04-13T21:46:24Z",
-    "stars": 4,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds multiple new factories, turrets and items to enhance vanilla content and add more things post-late game.\nIMPORTANT: Credit for sprites cuz stealing bad: \n- Eschatologue/Unlimited-Armament-Works\n- AureusStratus/ExoGenesis \n- Eschatologue/Heavy-Armaments-Industries\n- uujuju1/project-oblivion\n- Twcash/Aquarion\n- and a huge shoutout to y'all on the Mindustry Discord\nas well as reskins of vanilla sprites\nI'm really sorry for stealing sprites I just can't good results otherwise, and the mod was originally just a personnal project for late-game, I \"had\" to share it on GitHub for compatibility issues."
-  },
-  {
     "repo": "new-guys5634/rusted-dunes",
     "internalName": "rusted-dunes",
     "name": "Rusted Dunes",
@@ -4078,6 +4066,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Reduces desyncs & applies flood changes on join."
+  },
+  {
+    "repo": "acookieg/carbon-vanilla",
+    "internalName": "carbon vanilla",
+    "name": "Carbon-Vanilla",
+    "author": "AcookieG",
+    "lastUpdated": "2025-04-14T17:59:19Z",
+    "stars": 4,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds multiple new factories, turrets and items to enhance vanilla content and add more things post-late game.\nIMPORTANT: Credit for sprites cuz stealing bad: \n- Eschatologue/Unlimited-Armament-Works\n- AureusStratus/ExoGenesis \n- Eschatologue/Heavy-Armaments-Industries\n- uujuju1/project-oblivion\n- Twcash/Aquarion\n- and a huge shoutout to y'all on the Mindustry Discord\nas well as reskins of vanilla sprites\nI'm really sorry for stealing sprites I just can't good results otherwise, and the mod was originally just a personnal project for late-game, I \"had\" to share it on GitHub for compatibility issues."
   },
   {
     "repo": "mythril382/u-r-a-i-c",
@@ -9946,5 +9946,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Provides custom mlog instructions for enhanced runtime checks in Mindustry Logic."
+  },
+  {
+    "repo": "timofeyfilkin/uuid-changer",
+    "internalName": "uuid-changer",
+    "name": "UUID Changer",
+    "author": "TimofeyFilkin",
+    "lastUpdated": "2025-04-14T17:42:30Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds a button to reset your UUID. (Please, DO NOT be a dumass using it to circumvent bans on servers, EDUCASTIONAL PURPOSE ONLY.)\nRequires deltanedas/ui-lib."
   }
 ]
