@@ -53,7 +53,7 @@
     "name": "Allure",
     "author": "Lixie",
     "lastUpdated": "2025-01-16T08:26:39Z",
-    "stars": 197,
+    "stars": 198,
     "minGameVersion": "147",
     "hasScripts": false,
     "hasJava": false,
@@ -112,7 +112,7 @@
     "internalName": "asthosus",
     "name": "Asthosus",
     "author": "Catser",
-    "lastUpdated": "2025-04-15T15:53:22Z",
+    "lastUpdated": "2025-04-15T17:41:45Z",
     "stars": 119,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -564,12 +564,24 @@
     "description": "A Mindustry Java mod."
   },
   {
+    "repo": "sublemon-team/subvoyage",
+    "internalName": "subvoyage",
+    "name": "Subvoyage",
+    "author": "Skoow, IriDark",
+    "lastUpdated": "2025-04-15T07:53:20Z",
+    "stars": 32,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Aquatic-stylized mod with new planet and unique mechanics"
+  },
+  {
     "repo": "uujuju1/steam-works",
     "internalName": "sw",
     "name": "Steam Works",
     "author": "Liz Aurora",
-    "lastUpdated": "2025-04-12T17:36:11Z",
-    "stars": 31,
+    "lastUpdated": "2025-04-15T16:55:26Z",
+    "stars": 32,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -586,18 +598,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod made by CD, meowkitty and 7rodo that features:\n- A new planet.\n- LOTS of new Serpulo content such as units, turrets, sectors, etc.\n- Many changes to existing Serpulo content.\n- Some new erekir content.\n- Cross-mod content with a couple few mods.\n- FULL Multiplayer and Android compatibility.\n- Extra minor additions.\n\nDiscord: https://discord.gg/9YHA3q8HHq"
-  },
-  {
-    "repo": "sublemon-team/subvoyage",
-    "internalName": "subvoyage",
-    "name": "Subvoyage",
-    "author": "Skoow, IriDark",
-    "lastUpdated": "2025-04-15T07:53:20Z",
-    "stars": 31,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Aquatic-stylized mod with new planet and unique mechanics"
   },
   {
     "repo": "andromeda-galaxy29/psammos-mod",
@@ -648,6 +648,18 @@
     "description": "A mod provides a variety of tools for modding.\n\n-----------------\nVersion 1.5.5\n## Highlight\n- Fixed a severe npe bug about data(settings) save.\n- Added a setting: force_language.\n-----------------\n\n## ShowUIList\n\n- Display `icon`, `tex`, `styles`, `colors`, `interps`\\\n!(./screenshots/UIList.png)\n\n## Tester\n\n!(./screenshots/tester.png)\n\n- Provide `JS` editor `Tester`\n- Shortcuts\n- Press `Ctrl`+`Shift`+`Enter` to `execute` code immediately\n- Press `Ctrl`+`Shift`+`↑/↓` to switch `history` records\n- Press `Ctrl`+`Shift`+`D` to `view` detailed information\n- Press `Alt`+`V` to preview `Texture`\n- Built-in `unsafe`, `lookup`\n- Built-in `IntFunc` class (abbreviated as `$`)\n- `$.xxx` can represent primitive data types (e.g., `$.void` represents `Void.TYPE`;`$.J` represents long.class)\n- `$p` represents `Packages`\n- Code: [JSFunc](https://github.com/i-hope1/mod-tools/src/modtools/utils/JSFunc.java)\n- Long press on code in the favorites to add to startup items\\\n!(./screenshots/startup.png)\n- Quick switch history\\\n![Screenshot 2024-03-10 14-45-37](https://github.com/I-hope1/mod-tools/assets/78016895/4918af35-19af-4fab-b961-70bdc8679fe8)\n- `$.item`, `$.liquid`, `$.unit` and so on.\n\n## UnitSpawn\n\n- Multiple team selection\n- Support for fixed point spawning\n- Display `name` and `localizedName`\n- Rightclick the name Label to copy save as JS var.\n\n## Selection\n\n- Selector\n- Supports `Tile`, `Building`, `Bullet`, `Unit`\n- Kill\n- Set Item/Liquid/Team\n- Press `Ctrl`+`Alt` to fix Focus Window\n\n## ReviewElement\n\n- Display element list, double-click to copy element to js variable\n- `Ctrl`+`Shift`+`C` to Inspect Element\n- `Ctrl`+`Alt`+`D` to display bounds of Element\n- Select untouchable elements\n- Mobile: Filter current element with two fingers\n- PC: Press `F` to filter current element\n- Functions shortcuts for Element\n- `i`: display details (open ShowInfoWindow)\\\n- `p`(for Image):  show `DrawablePicker`\n- `del`: (`shift` to ignore confirmation), delete element\n- `<` / `>`: collapse Group\n- `f`: fix floating Info column\n- `r`: invoke element's method\n\n- ![reviewElement](./screenshots/review_element.png)\n\n# Frag\n\n- Double-click the blue part of Frag to minimize/restore Frag\n- In the minimized state, click the blue part, it will behave like a floating ball\n\n## Window\n\n- Press `Ctrl`+`Tab` to switch windows\n- Press `Shift`+`F4` to close current window\n- RClick the close button to move and scl window.\n\n## ShowInfoWindow\n\n- Show all fields, methods, constructors and nested classes of a obj.\n- Field can be modified.\n- Method can be Invoked(Special).\n- Constructor can be invoked to new a instance.\n\n## Others\n\n### Extensions\n- Http Redirect\n> Redirect some websites, such as: github\\\n> Configuration file: b0kkihope/http_redirect.properties"
   },
   {
+    "repo": "sh1penfire/meld",
+    "internalName": "meld",
+    "name": "Meld",
+    "author": "Sh1penfire",
+    "lastUpdated": "2025-03-24T12:01:21Z",
+    "stars": 27,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "[accent]An experimental RTS mod. Features a rich environment and a unique cast of enemies to fight.[]\n\nTrudge through Ikaru, home to [#ea9ad6]Meld[]. Salvage the remains of previous incursions. Fend off the wildlife.\n\nPlay as a field commander. Rally tierless specialists to push back the flood of constructs.\n\n[red]DEFEND, TAKE GROUND, HARVEST, REPEAT[]\n\n[accent]*Campaign will not be worked on till sufficient content is finished. There are custom game maps to play though!\n\nThis type of project takes lots of time to develop so if you wana know what's happening with the mod, join the Mindustry discord server and look for Meld in the fourm thread :D[]\n"
+  },
+  {
     "repo": "way-zer/contentstweaker",
     "internalName": "contentstweaker",
     "name": "ContentsTweaker-内容包修改器",
@@ -682,18 +694,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod that was originally meant to add liquid related stuff to erekir but i ended up having too many ideas.\n  helpers: GameStuffOfficial, @mr_shapka228, @smolkeys_\n  special thanks to u/WishboneOk8660 on reddit, who made amazing fanart of the mod and the og idea for the support boat line."
-  },
-  {
-    "repo": "sh1penfire/meld",
-    "internalName": "meld",
-    "name": "Meld",
-    "author": "Sh1penfire",
-    "lastUpdated": "2025-03-24T12:01:21Z",
-    "stars": 26,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "[accent]An experimental RTS mod. Features a rich environment and a unique cast of enemies to fight.[]\n\nTrudge through Ikaru, home to [#ea9ad6]Meld[]. Salvage the remains of previous incursions. Fend off the wildlife.\n\nPlay as a field commander. Rally tierless specialists to push back the flood of constructs.\n\n[red]DEFEND, TAKE GROUND, HARVEST, REPEAT[]\n\n[accent]*Campaign will not be worked on till sufficient content is finished. There are custom game maps to play though!\n\nThis type of project takes lots of time to develop so if you wana know what's happening with the mod, join the Mindustry discord server and look for Meld in the fourm thread :D[]\n"
   },
   {
     "repo": "three-cold-planets/welcome-to-the-frostscape",
@@ -1032,6 +1032,18 @@
     "description": "\r\nA Mindustry Mod that adds a lot of WEIRD things...\r\nClick the 'Repo' button below to skip to GitHub page.\r\nAny feedback, issue report and translation tweak is welcome.\r\nStar us on GitHub if you suppose it's awesome!\r\n\r\n模组QQ交流群: 711467227\r\n模组GitHub页面点击下方'查看'按钮即可跳转\r\n一个奇奇怪怪又十分核锂的mod...\r\n欢迎反映任何关于此模组的BUG和建议\r\n去GitHub star我们再好不过了!\r\n"
   },
   {
+    "repo": "sputnuc/asterion",
+    "internalName": "as",
+    "name": "Asterion",
+    "author": " |Asterion Team| ",
+    "lastUpdated": "2025-04-13T09:59:30Z",
+    "stars": 18,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This is collaboration mod.\nMod server: https://discord.gg/PcTnJ96mwf"
+  },
+  {
     "repo": "minri2/itembridgex",
     "internalName": "item-bridge-x",
     "name": "ItemBridgeX",
@@ -1066,18 +1078,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "RU: Очень опасный мод, который влияет на баланс и механику игры, добавляет новый контент в виде статус эффектов и оборонительных сооружений (башен, мин и т.д.).\n\nРекомендуется перед установкой сделать сохранение (чтобы откатиться назад), если в случае вам не понравится то, что может сделать данный мод. И лучше в самом деле не рискуйте лишний раз и поверьте на слово: МОД. МЕНЯЕТ. МНОГОЕ.\n\n\n\nENG: A very dangerous mod that affects the balance and mechanics of the game, adds new content in the form of status effects and defensive structures (towers, mines, etc.).\n\n\nPreferably before installing make a save (to roll back), if in case you do not like what this mod can do. And it is better to really do not take unnecessary risks and take my word for it: MOD. CHANGES. EVERYTHING.\n\nmov mod testers:\n- eve_light."
-  },
-  {
-    "repo": "sputnuc/asterion",
-    "internalName": "as",
-    "name": "Asterion",
-    "author": " |Asterion Team| ",
-    "lastUpdated": "2025-04-13T09:59:30Z",
-    "stars": 17,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This is collaboration mod.\nMod server: https://discord.gg/PcTnJ96mwf"
   },
   {
     "repo": "yuria-shikibe/gameinfoimager",
@@ -1440,16 +1440,28 @@
     "description": "\nA simple javascript mod that adds a hell amount of contents and mechanics to the game.\n\nTech tree, environment and gameplay totally separated from vanilla game.\n\nDesigned for Greg Tech-styled mod enjoyers, not typical Mindustry players.\n\nWill be WIP forever.\n\nSee the complete credits in game!\n"
   },
   {
+    "repo": "deercarbonate/azimut",
+    "internalName": "azimut",
+    "name": "Azimut",
+    "author": "DeerCarbonate",
+    "lastUpdated": "2025-04-14T13:22:30Z",
+    "stars": 13,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Develop complex logistics on the new, cold planet Gelion, covered with isobutane seas.\nAt the moment, the mod has 3 sectors."
+  },
+  {
     "repo": "lysent/etigei-exile",
     "internalName": "etigeox",
     "name": "Etigei Exile",
     "author": "[lime]Mitemi[lightgray] & [cyan]Tikup",
-    "lastUpdated": "2025-04-14T14:48:05Z",
+    "lastUpdated": "2025-04-15T16:51:19Z",
     "stars": 13,
     "minGameVersion": "147",
     "hasScripts": true,
     "hasJava": false,
-    "description": "Etigei Exilium offers a fresh and uniquely creative modded experience, featuring two planets and adding 169 blocks, 23 items, 22 units, and 22 sectors. \n\nEstablish colonies on the frozen planet of [sky]Neoulandia[white] and experience its own tech tree, destructible environment, such as destructible trees from which you can harvest timber, emphasis on unit cargo, and unique map design. The entire Neoulandia campaign is intimately interconnected with each map being adjacent and having connections to other maps, branching into economy-focused sectors or classic survival or attack maps. \n\n[orange]Rubiginosus[white] presents a collection of hardcore maps, inspired by Rusted Warfare, initially designed for multiplayer using Serpulo and Erekir technology. These missions have been retrofitted for a campaign experience with unique challenges for each map. Completing the Rubiginosus campaign will unlock a special resource on Neoulandia.\n\n[red]Requires Timber (EDT) as a dependency.\n\n[white]Discord:[blue] https://discord.com/invite/TJKZgr6UDg"
+    "description": "Etigei Exilium is the successor to the old Etigeox mod, featuring two planets and adding 169 blocks, 23 items, 22 units, and 22 sectors with content from the Etigeox universe. \n\nEstablish colonies on the frozen planet of [sky]Neoulandia[white] and experience its own tech tree, destructible environment, such as destructible trees from which you can harvest timber, emphasis on unit cargo, and unique map design. The entire Neoulandia campaign is intimately interconnected with each map being adjacent and having connections to other maps, branching into economy-focused sectors or classic survival or attack maps. \n\n[orange]Rubiginosus[white] presents a collection of hardcore maps, inspired by Rusted Warfare, initially designed for multiplayer using Serpulo and Erekir technology. These missions have been retrofitted for a campaign experience with unique challenges for each map. Completing the Rubiginosus campaign will unlock a special resource on Neoulandia.\n\n[red]Requires Timber (EDT) as a dependency.\n\n[white]Discord:[blue] https://discord.com/invite/TJKZgr6UDg"
   },
   {
     "repo": "r-omnom/z.p.g.m._mod",
@@ -1570,18 +1582,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Add flesh units with various actions and skills, novel turrets and various objects. version 1.39"
-  },
-  {
-    "repo": "deercarbonate/azimut",
-    "internalName": "azimut",
-    "name": "Azimut",
-    "author": "DeerCarbonate",
-    "lastUpdated": "2025-04-14T13:22:30Z",
-    "stars": 12,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Develop complex logistics on the new, cold planet Gelion, covered with isobutane seas.\nAt the moment, the mod has 3 sectors."
   },
   {
     "repo": "def-try/parkour-mod",
@@ -1728,6 +1728,18 @@
     "description": "Sueno is a modification that allows you to go to a new planet with unique temperature mechanics"
   },
   {
+    "repo": "andashikkozlov/thezsia-revival",
+    "internalName": "thezsia1",
+    "name": "Thezsia Revival (Java)",
+    "author": "Programmers: AnDashik, ItzCraft\nSpriters: AnDasik\nTesters: AnDashik, ItzCraft\nTranslators: AnDashik, Sputnuc\nMappers: Andashik\nComposer: Ace",
+    "lastUpdated": "2025-03-30T10:46:02Z",
+    "stars": 11,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "ALPHA VERSION\nNew planet, new stuff, what a surprise\nNot dead now :) (Or dead :/ idk)"
+  },
+  {
     "repo": "cewwi/resurrection-mod",
     "internalName": "resurrection",
     "name": "Cataclysm",
@@ -1872,16 +1884,16 @@
     "description": "Dive into the past of a trauma-driven uprising."
   },
   {
-    "repo": "andashikkozlov/thezsia-revival",
-    "internalName": "thezsia1",
-    "name": "Thezsia Revival (Java)",
-    "author": "Programmers: AnDashik, ItzCraft\nSpriters: AnDasik\nTesters: AnDashik, ItzCraft\nTranslators: AnDashik, Sputnuc\nMappers: Andashik\nComposer: Ace",
-    "lastUpdated": "2025-03-30T10:46:02Z",
+    "repo": "tnmspiroct/exoprosopa",
+    "internalName": "exoprosopa",
+    "name": "Exoprosopa",
+    "author": "TnmSpiroct",
+    "lastUpdated": "2025-04-15T06:13:34Z",
     "stars": 10,
     "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "ALPHA VERSION\nNew planet, new stuff, what a surprise\nNot dead now :) (Or dead :/ idk)"
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "  [#93e2ee]Exoprosopa[] adds Frostnova as a third planet into the game alongside with its own unique techtree and environment.\n\n  Capture and conquer with over 18 campaign maps avaiable on this mod. (now with challenge maps!)\n\n  With over 13 items to be discovered, 124 blocks to be researched. and 17 different units to build!\n  Harvest the planet with your technology before Astral Infection awaken and conquer the entire planet.[]\n\n  [accent]Thankyou for playing this mod! \n  You can contributes maps or gives suggestions by join Exoprosopa Server! \n  Check it on my profile. My username is TnmSpiroct."
   },
   {
     "repo": "deltanedas/mobile-ui",
@@ -2074,18 +2086,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that adds a new planet, where we will play in underground"
-  },
-  {
-    "repo": "tnmspiroct/exoprosopa",
-    "internalName": "exoprosopa",
-    "name": "Exoprosopa",
-    "author": "TnmSpiroct",
-    "lastUpdated": "2025-04-15T06:13:34Z",
-    "stars": 9,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "  [#93e2ee]Exoprosopa[] adds Frostnova as a third planet into the game alongside with its own unique techtree and environment.\n\n  Capture and conquer with over 18 campaign maps avaiable on this mod. (now with challenge maps!)\n\n  With over 13 items to be discovered, 124 blocks to be researched. and 17 different units to build!\n  Harvest the planet with your technology before Astral Infection awaken and conquer the entire planet.[]\n\n  [accent]Thankyou for playing this mod! \n  You can contributes maps or gives suggestions by join Exoprosopa Server! \n  Check it on my profile. My username is TnmSpiroct."
   },
   {
     "repo": "liplum/bottledliquid",
@@ -2892,6 +2892,18 @@
     "description": "[ENG]A mod that adds new content to serpulo.(needs multicrafter-lib).\n\n[Ru]Мод добавляющий новый контент для серпуло. (необходим мод multicrafter-lib)"
   },
   {
+    "repo": "photon-gravity/enigmamindustrymod",
+    "internalName": "enigma",
+    "name": "Enigma",
+    "author": "Photon_Gravity",
+    "lastUpdated": "2025-03-30T18:26:24Z",
+    "stars": 6,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Explore a new planet, Keslomin, research new technology and master exotic forms of energy."
+  },
+  {
     "repo": "haznobrain/hell-industries",
     "internalName": "hell-industries",
     "name": "Hell Industries",
@@ -3322,18 +3334,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Hbm's NTM (by Bobcat) in mindustry!\nMinecraft, Satisfactory, Rust, and other...\n\nOnly decor blocks\n\nDisable linear filtering in settings!"
-  },
-  {
-    "repo": "photon-gravity/enigmamindustrymod",
-    "internalName": "enigma",
-    "name": "Enigma",
-    "author": "Photon_Gravity",
-    "lastUpdated": "2025-03-30T18:26:24Z",
-    "stars": 5,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Explore a new planet, Keslomin, research new technology and master exotic forms of energy."
   },
   {
     "repo": "fghjk455rg/rebelion",
@@ -4032,6 +4032,18 @@
     "description": "IN EARLY DEV\nA mod inspired by Greek tech with all of its annoying grinding Elements\na planet called lava zrogro arises and this will pinpoint where all the lore has started and will it end?\n\nPROPER: this mod will not be easy and you have to use more brain power than serpulo, anything can go wrong leading to your death, retake the lost and crux nations and find more about the destroyed planet, also links with antopia in many ways such as sulfur, beware the sectors will be changing often.\n\nMISSION: on zrogro your previous captures and defeats if the lost empire had been shattered, the crux empire had taken back everything, the Vengeance empire had informed you that the crux empire had some how cooked zrogro and moved the planet barely but enough for water to exist underground, your mission is to establish the vengeance empire on this planet, establish hard to work and pollute this planet to the grave, destroy and take back this planet! good luck captain.\n\nThe first edition to the 4 planets lore on the crux\n\nbeware this requires mult craft lib and this will be updated like very regularly \n\nA mod I absolutely suggest playing(Ceruisaim)\n\nenjoy, drink cola, eat raw coal, have fun"
   },
   {
+    "repo": "bttodi/virtuality",
+    "internalName": "virtuality",
+    "name": "Virtuality",
+    "author": "bttodi",
+    "lastUpdated": "2025-04-11T11:41:48Z",
+    "stars": 4,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod featuring boss fights, only using HJSON and world processors. Best experienced with a mouse and a keyboard."
+  },
+  {
     "repo": "fallingdice/flesh-mod-mechanical-factions",
     "internalName": "mechanical-factions",
     "name": "Mechanical Factions",
@@ -4072,7 +4084,7 @@
     "internalName": "carbon vanilla",
     "name": "Carbon-Vanilla",
     "author": "AcookieG",
-    "lastUpdated": "2025-04-15T15:55:23Z",
+    "lastUpdated": "2025-04-15T18:00:08Z",
     "stars": 4,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -4896,18 +4908,6 @@
     "description": "Small mod that keeps adding stuff"
   },
   {
-    "repo": "bttodi/virtuality",
-    "internalName": "virtuality",
-    "name": "Virtuality",
-    "author": "bttodi",
-    "lastUpdated": "2025-04-11T11:41:48Z",
-    "stars": 3,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod featuring boss fights, only using HJSON and world processors. Best experienced with a mouse and a keyboard."
-  },
-  {
     "repo": "lysent/timber",
     "internalName": "edt",
     "name": "Timber (EDT)",
@@ -4930,18 +4930,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Added new blocks that can interact with Oil and improve player quality of life"
-  },
-  {
-    "repo": "oleksiy1409liut/auvathiaworlds",
-    "internalName": "auvathiaworlds",
-    "name": "Warning! The mod is very experimental so change will ha...",
-    "author": "Auvathia team (Me,Angy Cat and some people from mindustry server)",
-    "lastUpdated": "2025-04-13T07:51:03Z",
-    "stars": 3,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "the auvathia worlds project will focus on adding a new planet(maybe) cluster of planets that can connect with each other (first planets name is auvathia)\n  Enjoy!\n   also is the place of containment of some of my ideas like a gregtech-styled mod, so stuff inside the mod can clash"
   },
   {
     "repo": "chinhonnang0000/asteroidgen",
@@ -4990,6 +4978,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Random small mindustry mod."
+  },
+  {
+    "repo": "oleksiy1409liut/auvathiaworlds",
+    "internalName": "auvathiaworlds",
+    "name": "Auvathia Worlds :D",
+    "author": "Auvathia team (Me,Angy Cat and some people from mindustry server)",
+    "lastUpdated": "2025-04-15T16:46:48Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "the auvathia worlds project will focus on adding a new planet(maybe) cluster of planets that can connect with each other (first planets name is auvathia)\n  Enjoy!\n   also is the place of containment of some of my ideas like a gregtech-styled mod, so stuff inside the mod can clash"
   },
   {
     "repo": "wshon/mindustrytoolkit",
@@ -6276,18 +6276,6 @@
     "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allow you to play with your friends just by creating a room, copy the link and send it to your friends.\n\nPlease check this link for Mindustry v8 compatibility: https://github.com/xpdustry/claj#mindustry-v8-note"
   },
   {
-    "repo": "grandendeavor100/stellar-interstice",
-    "internalName": "stellarinterstice",
-    "name": "Stellar Interstice",
-    "author": "Stellar",
-    "lastUpdated": "2025-04-15T15:37:05Z",
-    "stars": 2,
-    "minGameVersion": "145",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "On a random day, all the civilizations joined forces to leave the dying state of the world in which they are inhabiting. They left in fleets of much grandeur and it was at that time when a vortex opened somewhere between the stars and they entered it where they had the encounter with the Beings. They acquired exotic technologies from them but little did they know that it was all part of a much greater story and that there was nothing random about that day. The Exotic technologies include: Bombs and Nukes Guided missile systems Power manipulation devices Unconventional weapon systems and much more."
-  },
-  {
     "repo": "novanox4/astralis",
     "internalName": "astralis",
     "name": "Astralis",
@@ -6298,6 +6286,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Test mod made by incompetent idiots\n\nVERY EARLY ALPHA!!!!!\n\nSilly planet mod made by silly femboys"
+  },
+  {
+    "repo": "grandendeavor100/stellar-interstice",
+    "internalName": "stellarinterstice",
+    "name": "Stellar Interstice",
+    "author": "Stellar",
+    "lastUpdated": "2025-04-15T17:00:53Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "On a random day, all the civilizations joined forces to leave the dying state of the world in which they are inhabiting. They left in fleets of much grandeur and it was at that time when a vortex opened somewhere between the stars and they entered it where they had the encounter with the Beings. They acquired exotic technologies from them but little did they know that it was all part of a much greater story and that there was nothing random about that day. The Exotic technologies include: Bombs and Nukes Guided missile systems Power manipulation devices Unconventional weapon systems and much more."
   },
   {
     "repo": "teaeempire/gghv7",
@@ -9876,18 +9876,6 @@
     "description": "  Basically, random stuff. Made either because I wanted to, a friend suggested it, or some other reason.\n  See Github for content.\n  The people at the Labs are not great with balancing. Perhaps you can help them by suggesting on... wait, I don't know. AHHHH\n  probably on the Github page tho"
   },
   {
-    "repo": "lymefyre/varietal-void",
-    "internalName": "variatal void",
-    "name": "Variatal Void",
-    "author": "Incen",
-    "lastUpdated": "2025-04-13T16:30:49Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds a variety of new content. Currently unfinished, expect bugs and report them to @incendiarytoaster on discord."
-  },
-  {
     "repo": "basketsofbees/breadustry",
     "internalName": "breadustry",
     "name": "Breadustry",
@@ -9948,18 +9936,6 @@
     "description": "Adds melee units"
   },
   {
-    "repo": "halopolicj/permafrost",
-    "internalName": "permafrost-mod",
-    "name": "Project Permafrost(heavy wip)",
-    "author": "You",
-    "lastUpdated": "2025-04-15T14:29:54Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "wip."
-  },
-  {
     "repo": "redeagle0705/poopdustry",
     "internalName": "redeagle0705-poopdustry",
     "name": "poopdustry",
@@ -9970,5 +9946,29 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "very poopy dustry"
+  },
+  {
+    "repo": "halopolicj/permafrost",
+    "internalName": "permafrost-mod",
+    "name": "Project Permafrost(heavy wip)",
+    "author": "You",
+    "lastUpdated": "2025-04-15T16:17:22Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "wip."
+  },
+  {
+    "repo": "lymefyre/varietal-void",
+    "internalName": "variatal void",
+    "name": "Variatal Void",
+    "author": "Incen",
+    "lastUpdated": "2025-04-15T17:57:59Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds a variety of new content. Currently unfinished, expect bugs and report them to @incendiarytoaster on discord."
   }
 ]
