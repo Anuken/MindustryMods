@@ -112,7 +112,7 @@
     "internalName": "asthosus",
     "name": "Asthosus",
     "author": "Catser",
-    "lastUpdated": "2025-04-16T08:08:11Z",
+    "lastUpdated": "2025-04-16T20:33:52Z",
     "stars": 119,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -1060,7 +1060,7 @@
     "internalName": "mov",
     "name": "Mindustry Overhaul",
     "author": "KOSTOLOM and D&X",
-    "lastUpdated": "2025-04-13T01:19:30Z",
+    "lastUpdated": "2025-04-16T20:17:13Z",
     "stars": 17,
     "minGameVersion": "147",
     "hasScripts": true,
@@ -1428,18 +1428,6 @@
     "description": "\nA simple javascript mod that adds a hell amount of contents and mechanics to the game.\n\nTech tree, environment and gameplay totally separated from vanilla game.\n\nDesigned for Greg Tech-styled mod enjoyers, not typical Mindustry players.\n\nWill be WIP forever.\n\nSee the complete credits in game!\n"
   },
   {
-    "repo": "deercarbonate/azimut",
-    "internalName": "azimut",
-    "name": "Azimut",
-    "author": "DeerCarbonate",
-    "lastUpdated": "2025-04-16T09:01:12Z",
-    "stars": 13,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Develop complex logistics on the new, cold planet Gelion, covered with isobutane seas.\nAt the moment, the mod has 3 sectors."
-  },
-  {
     "repo": "lysent/etigei-exile",
     "internalName": "etigeox",
     "name": "Etigei Exile",
@@ -1450,6 +1438,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Etigei Exilium is the successor to the old Etigeox mod, featuring two planets and adding 169 blocks, 23 items, 22 units, and 22 sectors with content from the Etigeox universe. \n\nEstablish colonies on the frozen planet of [sky]Neoulandia[white] and experience its own tech tree, destructible environment, such as destructible trees from which you can harvest timber, emphasis on unit cargo, and unique map design. The entire Neoulandia campaign is intimately interconnected with each map being adjacent and having connections to other maps, branching into economy-focused sectors or classic survival or attack maps. \n\n[orange]Rubiginosus[white] presents a collection of hardcore maps, inspired by Rusted Warfare, initially designed for multiplayer using Serpulo and Erekir technology. These missions have been retrofitted for a campaign experience with unique challenges for each map. Completing the Rubiginosus campaign will unlock a special resource on Neoulandia.\n\n[red]Requires Timber (EDT) as a dependency.\n\n[white]Discord:[blue] https://discord.com/invite/TJKZgr6UDg"
+  },
+  {
+    "repo": "deercarbonate/azimut",
+    "internalName": "azimut",
+    "name": "Azimut",
+    "author": "DeerCarbonate",
+    "lastUpdated": "2025-04-16T21:58:31Z",
+    "stars": 13,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Develop complex logistics, repel waves, and destroy enemy bases on the new planet Gelion.\n  \nTHE MOD IS CURRENTLY UNDER DEVELOPMENT, there are already 4 sectors at the moment, and work is underway on quality of life.\n\nSpecials thanks to: ace1020spawn, Kivet/БОБ"
   },
   {
     "repo": "r-omnom/z.p.g.m._mod",
@@ -1564,7 +1564,7 @@
     "internalName": "esocatalyst",
     "name": "Esocatalyst",
     "author": "HungryCloud4913",
-    "lastUpdated": "2025-04-16T19:59:31Z",
+    "lastUpdated": "2025-04-16T20:04:22Z",
     "stars": 12,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -4068,18 +4068,6 @@
     "description": "THE THIRD INSTALLMENT to the lore of the crux\n\nRusted dunes is a type of mod that's not hard or easy and your goals are to make technology in use of eroded materials or rusted materials and produce rusted units and soon upgrade them to there potential.\n\nDunes is a wasted planet near serpulo but far from the sun, take control and provide chaos to this dead planet.\n\nQuick heads up make sure to reinstall regular.\n\nGive a star if you enjoy Thanks!!!.\n\nCurrently I'm looking for someone that has the free will power to add music to rusted dunes."
   },
   {
-    "repo": "acookieg/carbon-vanilla",
-    "internalName": "carbon vanilla",
-    "name": "Carbon-Vanilla",
-    "author": "AcookieG",
-    "lastUpdated": "2025-04-16T18:19:42Z",
-    "stars": 4,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds multiple new factories, turrets and items to enhance vanilla content and add more things post-late game.\nIMPORTANT: Credit for sprites cuz stealing bad: \n- Eschatologue/Unlimited-Armament-Works\n- AureusStratus/ExoGenesis \n- Eschatologue/Heavy-Armaments-Industries\n- uujuju1/project-oblivion\n- Twcash/Aquarion\n- and a huge shoutout to y'all on the Mindustry Discord\nas well as reskins of vanilla sprites\nI'm really sorry for stealing sprites I just can't good results otherwise, and the mod was originally just a personnal project for late-game, I \"had\" to share it on GitHub for compatibility issues."
-  },
-  {
     "repo": "mindustry-antigrief/floodcompat",
     "internalName": "floodcompat",
     "name": "FloodCompat",
@@ -4090,6 +4078,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Reduces desyncs & applies flood changes on join."
+  },
+  {
+    "repo": "acookieg/carbon-vanilla",
+    "internalName": "carbon vanilla",
+    "name": "Carbon-Vanilla",
+    "author": "AcookieG",
+    "lastUpdated": "2025-04-16T20:13:22Z",
+    "stars": 4,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds multiple new factories, turrets and items to enhance vanilla content and add more things post-late game.\nIMPORTANT: Credit for sprites cuz stealing bad: \n- Eschatologue/Unlimited-Armament-Works\n- AureusStratus/ExoGenesis \n- Eschatologue/Heavy-Armaments-Industries\n- uujuju1/project-oblivion\n- Twcash/Aquarion\n- and a huge shoutout to y'all on the Mindustry Discord\nas well as reskins of vanilla sprites\nI'm really sorry for stealing sprites I just can't good results otherwise, and the mod was originally just a personnal project for late-game, I \"had\" to share it on GitHub for compatibility issues."
   },
   {
     "repo": "mythril382/u-r-a-i-c",
@@ -4956,28 +4956,28 @@
     "description": "Random small mindustry mod."
   },
   {
-    "repo": "volproil/ultimate-military-technic",
-    "internalName": "ultimate-military-technic-mod",
-    "name": "Ultimate Military Technic Mod",
-    "author": "Volproil",
-    "lastUpdated": "2025-04-16T13:26:29Z",
-    "stars": 3,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Mod add tanks, aircraft, artillery, diesel generators"
-  },
-  {
     "repo": "mindustrydesignit/schematic-browser-mod",
     "internalName": "scheme-browser",
     "name": "Schematic Browser",
     "author": "SByte, Eeve-lyn, zxtej",
-    "lastUpdated": "2025-04-16T20:00:14Z",
+    "lastUpdated": "2025-04-16T20:00:53Z",
     "stars": 3,
     "minGameVersion": "147",
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod for browsing schematic repositories."
+  },
+  {
+    "repo": "volproil/ultimate-military-technic",
+    "internalName": "ultimate-military-technic-mod",
+    "name": "Ultimate Military Technic Mod",
+    "author": "Volproil",
+    "lastUpdated": "2025-04-16T20:59:20Z",
+    "stars": 3,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Mod add tanks, aircraft, artillery, diesel generators"
   },
   {
     "repo": "wshon/mindustrytoolkit",
@@ -9964,7 +9964,7 @@
     "internalName": "ppm",
     "name": "ppm",
     "author": "You",
-    "lastUpdated": "2025-04-16T19:27:18Z",
+    "lastUpdated": "2025-04-16T20:15:17Z",
     "stars": 0,
     "minGameVersion": "145",
     "hasScripts": false,
