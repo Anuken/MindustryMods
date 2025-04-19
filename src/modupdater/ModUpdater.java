@@ -24,7 +24,7 @@ public class ModUpdater{
     static final int perPage = 100;
     static final int maxLength = 55;
     static final ObjectSet<String> javaLangs = ObjectSet.with("Java", "Kotlin", "Groovy", "Scala"); //obviously not a comprehensive list
-    static final ObjectSet<String> blacklist = ObjectSet.with("Snow-of-Spirit-Fox-Mori/old-mod", "fox1va-the-fox/schems", "TheSaus/Cumdustry", "Anuken/ExampleMod", "Anuken/ExampleJavaMod", "Anuken/ExampleKotlinMod", "Mesokrix/Vanilla-Upgraded", "RebornTrack970/Multiplayernt", "RebornTrack970/Multiplayerntnt", "RebornTrack970/Destroyer", "RebornTrack970/Mindustrynt", "NemesisTheory/killer", "TheDogOfChaos/reset-UUID-mindustry", "OBSIDAN55/UUID_replacer");
+    static final ObjectSet<String> blacklist = ObjectSet.with("Snow-of-Spirit-Fox-Mori/old-mod", "fox1va-the-fox/schems", "TheSaus/Cumdustry", "Anuken/ExampleMod", "Anuken/ExampleJavaMod", "Anuken/ExampleKotlinMod", "Mesokrix/Vanilla-Upgraded", "RebornTrack970/Multiplayernt", "RebornTrack970/Multiplayerntnt", "RebornTrack970/Destroyer", "RebornTrack970/Mindustrynt", "NemesisTheory/killer", "TheDogOfChaos/reset-UUID-mindustry", "OBSIDAN55/UUID_replacer", "timofeyfilkin/uuid-changer");
     static final Seq<String> nameBlacklist = Seq.with("TheEE145", "o7", "pixaxeofpixie", "Iron-Miner", "EasyPlaySu", "guiYMOUR", "mishakorzik", "N3M1X10").map(s -> s.toLowerCase(Locale.ROOT));
     static final Pattern globalBlacklist = Pattern.compile(Base64Coder.decodeString("Z2F5fHJhY2lzdHx1dWlk"), Pattern.CASE_INSENSITIVE);
     static final String topic = "mindustry-mod";
