@@ -17,7 +17,7 @@
     "name": "Exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2024-05-23T14:12:55Z",
-    "stars": 396,
+    "stars": 397,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -112,7 +112,7 @@
     "internalName": "asthosus",
     "name": "Asthosus",
     "author": "Catser",
-    "lastUpdated": "2025-04-19T13:47:23Z",
+    "lastUpdated": "2025-04-19T15:58:25Z",
     "stars": 118,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -172,7 +172,7 @@
     "internalName": "sapphirium",
     "name": "Sapphirium",
     "author": "Snake",
-    "lastUpdated": "2025-04-19T08:31:13Z",
+    "lastUpdated": "2025-04-19T15:21:24Z",
     "stars": 106,
     "minGameVersion": "147",
     "hasScripts": true,
@@ -892,7 +892,7 @@
     "internalName": "gloomustry",
     "name": "Gloomistry - New Mission",
     "author": "Fun",
-    "lastUpdated": "2025-04-19T11:52:33Z",
+    "lastUpdated": "2025-04-19T15:16:05Z",
     "stars": 20,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1732,7 +1732,7 @@
     "internalName": "exoprosopa",
     "name": "Exoprosopa",
     "author": "TnmSpiroct",
-    "lastUpdated": "2025-04-19T13:32:53Z",
+    "lastUpdated": "2025-04-19T14:27:01Z",
     "stars": 11,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -3976,7 +3976,7 @@
     "internalName": "rusted-dunes",
     "name": "Rusted Dunes",
     "author": "beee",
-    "lastUpdated": "2025-04-19T13:42:27Z",
+    "lastUpdated": "2025-04-19T15:07:01Z",
     "stars": 4,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -3988,7 +3988,7 @@
     "internalName": "carbon vanilla",
     "name": "Carbon-Vanilla",
     "author": "AcookieG",
-    "lastUpdated": "2025-04-19T13:47:51Z",
+    "lastUpdated": "2025-04-19T16:00:17Z",
     "stars": 4,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -4884,18 +4884,6 @@
     "description": "[green]EDT [yellow]- Environment Destruction Timber\n\n[white]Adds destructible environment to make trees destructible in Serpulo, from which you can harvest timber which can be used as fuel.\n\nDependency of the Etigei Exile mod, but works as a standalone mod.\n\n[white]Discord: [blue]https://discord.com/invite/TJKZgr6UDg"
   },
   {
-    "repo": "chinhonnang0000/asteroidgen",
-    "internalName": "asteroidgen",
-    "name": "asteroidgen",
-    "author": "chinhonnang0000",
-    "lastUpdated": "2025-04-13T07:59:24Z",
-    "stars": 3,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "certainly not the best mod ever"
-  },
-  {
     "repo": "vasiliymax1/mindustryplus",
     "internalName": "mindustryplus",
     "name": "MindustryPlus",
@@ -4942,6 +4930,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod provide optimized ui"
+  },
+  {
+    "repo": "chinhonnang0000/asteroidgen",
+    "internalName": "asteroidgen",
+    "name": "asteroidgen",
+    "author": "chinhonnang0000",
+    "lastUpdated": "2025-04-19T15:22:31Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "certainly not the best mod ever"
   },
   {
     "repo": "wshon/mindustrytoolkit",
@@ -9912,18 +9912,6 @@
     "description": "modifies the campain maps to troll you, now in V8 (Serpulo maps up to Planetary Launch Terminal)\nthis mod will overwrite campaign sectors with troll versions, have fun"
   },
   {
-    "repo": "smolkeys/new-console-hardline",
-    "internalName": "newconsole-hardline",
-    "name": "New Console Hardline",
-    "author": "Mnemotechnician (original developer), SMOLKEYS (port maintainer)",
-    "lastUpdated": "2025-04-19T07:23:10Z",
-    "stars": 0,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds a console UI superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more,\na good log panel, execution history - all that is included in this mod.\n\nIn addiction to the console, this mod offers:\n- An ability to save as many scripts as you want, execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info.\n\nTechnically compatible with v146-below, but Mindustry does not have a mod config for that."
-  },
-  {
     "repo": "halopolicj/ppm",
     "internalName": "ppm",
     "name": "ppm",
@@ -9934,5 +9922,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "not yet."
+  },
+  {
+    "repo": "smolkeys/new-console-hardline",
+    "internalName": "newconsole-hardline",
+    "name": "New Console Hardline",
+    "author": "Mnemotechnician (original developer), SMOLKEYS (port maintainer)",
+    "lastUpdated": "2025-04-19T15:25:06Z",
+    "stars": 0,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The officially acknowledged port of New Console for v147-above.\n\nAdds a console UI superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more:\nA good log panel, execution history - all of that is included in this mod.\n\nIn addition to the console, this mod offers:\n- An ability to save as many scripts as you want and to either execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
   }
 ]
