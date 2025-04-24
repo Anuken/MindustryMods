@@ -556,7 +556,7 @@
     "internalName": "extended-ui",
     "name": "extended UI",
     "author": "wizer",
-    "lastUpdated": "2025-04-18T17:08:46Z",
+    "lastUpdated": "2025-04-24T11:25:01Z",
     "stars": 34,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -4908,18 +4908,6 @@
     "description": "[green]EDT [yellow]- Environment Destruction Timber\n\n[white]Adds destructible environment to make trees destructible in Serpulo, from which you can harvest timber which can be used as fuel.\n\nDependency of the Etigei Exile mod, but works as a standalone mod.\n\n[white]Discord: [blue]https://discord.com/invite/TJKZgr6UDg"
   },
   {
-    "repo": "vasiliymax1/mindustryplus",
-    "internalName": "mindustryplus",
-    "name": "MindustryPlus",
-    "author": "VasiliyMax",
-    "lastUpdated": "2025-04-16T11:07:05Z",
-    "stars": 3,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Random small mindustry mod."
-  },
-  {
     "repo": "obsidan55/the-rising-sun",
     "internalName": "trs",
     "name": "The Rising Sun",
@@ -4990,6 +4978,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "the auvathia worlds project will focus on adding a new planet(maybe) cluster of planets that can connect with each other (first planets name is auvathia)\n  Enjoy!\n   also is the place of containment of some of my ideas like a gregtech-styled mod, so stuff inside the mod can clash"
+  },
+  {
+    "repo": "vasiliymax1/mindustryplus",
+    "internalName": "mindustryplus",
+    "name": "MindustryPlus",
+    "author": "VasiliyMax",
+    "lastUpdated": "2025-04-24T11:30:49Z",
+    "stars": 3,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Random small mindustry mod."
   },
   {
     "repo": "wshon/mindustrytoolkit",
@@ -6268,7 +6268,7 @@
     "internalName": "1zytheron",
     "name": "Zytheron Technology(Beta)",
     "author": "rocket550",
-    "lastUpdated": "2025-04-23T17:19:47Z",
+    "lastUpdated": "2025-04-24T12:07:52Z",
     "stars": 2,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -9804,18 +9804,6 @@
     "description": "联机mod，支持自定义frpc，目前仅支持Android aarch64(项目正在重构，暂不支持Windows amd64)"
   },
   {
-    "repo": "cardillan/mlogassertions-7",
-    "internalName": "mlog-assertions-7",
-    "name": "Mlog Assertions (v7)",
-    "author": "cardillan",
-    "lastUpdated": "2025-04-12T18:58:31Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Provides custom mlog instructions for enhanced runtime checks in Mindustry Logic."
-  },
-  {
     "repo": "highspeed85/mindustry-hs85labs",
     "internalName": "hs85-labs",
     "name": "Mallpark Labs",
@@ -9838,18 +9826,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\n\nI'm learning how to mod, this is an attempt to make goofy texture pack.\n\nChanges:\nCrawler ---> cookie\nAtrax ---> watermelon\nEclipse ---> flying spaghetti monster\n\n"
-  },
-  {
-    "repo": "cardillan/mlogassertions",
-    "internalName": "mlog-assertions-8",
-    "name": "Mlog Assertions (v8)",
-    "author": "cardillan",
-    "lastUpdated": "2025-04-14T09:29:39Z",
-    "stars": 0,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Provides custom mlog instructions for enhanced runtime checks in Mindustry Logic."
   },
   {
     "repo": "agzam4/mindustry-mod-v8",
@@ -10018,5 +9994,41 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds a faction of the Quantum Corporation with unstable but powerful quantum energy and new technologies."
+  },
+  {
+    "repo": "cardillan/mlogassertions",
+    "internalName": "mlog-assertions-8",
+    "name": "Mlog Assertions (v8)",
+    "author": "cardillan",
+    "lastUpdated": "2025-04-24T11:34:28Z",
+    "stars": 0,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Provides custom mlog instructions for enhanced runtime checks in Mindustry Logic."
+  },
+  {
+    "repo": "cardillan/mlogassertions-7",
+    "internalName": "mlog-assertions-7",
+    "name": "Mlog Assertions (v7)",
+    "author": "cardillan",
+    "lastUpdated": "2025-04-24T11:46:08Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Provides custom mlog instructions for enhanced runtime checks in Mindustry Logic."
+  },
+  {
+    "repo": "cardillan/launchpads",
+    "internalName": "launch-logic",
+    "name": "Launch Logic",
+    "author": "cardillan",
+    "lastUpdated": "2025-04-24T11:52:01Z",
+    "stars": 0,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Provides custom mlog instructions for launch pads and landing pads."
   }
 ]
