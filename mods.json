@@ -48,6 +48,18 @@
     "description": "Brings back some of that early mindustry charm, can be multiplayered with vanilla\nContributors: VozDuh"
   },
   {
+    "repo": "lixiewulf/allure",
+    "internalName": "allure",
+    "name": "Allure",
+    "author": "Elixias Adrys",
+    "lastUpdated": "2025-04-21T01:26:22Z",
+    "stars": 200,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "WARNING: Not supported on low-end devices.\n\nWorld logic contributed by Sh1penfire (@sh1penfire). Much thanks!\n\nAn attempt at an immersive content mod.\n\nHJSON at its core, Allure seeks to do what no other mod has ever done. With RTS-centered gameplay and a focus on combat diversity, this hardcore mod aims to put difficulty and replayability onto the table. Fight enemies as two factions, each with their own unique design and weapon trees. \nWage a new type of war on the existing planets, with much more simple yet dynamic balance of vanilla content. Does change vanilla ratios.\n\n!!! Allure isn't meant to be played with other mods! Expect balancing issues in a multi-mod playthrough. !!!\n\nThis mod may cause rage-quits and you may get stuck at any point in progression. Skill is required. Follow the tutorials provided.\n\nTHIS UPDATE IS STILL IN EARLY DEV - PLEASE DON'T MAKE BUG REPORTS"
+  },
+  {
     "repo": "xzxadixzx/scheme-size",
     "internalName": "schema",
     "name": "Schema",
@@ -166,18 +178,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "An ambitious modification aimed at expanding the game's standard campaign by adding a new star system."
-  },
-  {
-    "repo": "sharlottes/informatis",
-    "internalName": "informatis",
-    "name": "Informatis",
-    "author": "Sharlotte",
-    "lastUpdated": "2024-10-09T10:44:03Z",
-    "stars": 91,
-    "minGameVersion": "145.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The mod displays more information in-game, such as unit/building, wave, core, tile, item/unit total info etc"
   },
   {
     "repo": "z0mbiesrock/diamond-ore",
@@ -408,18 +408,6 @@
     "description": "A Mindustry builds including some classic ones are added to Mindustry v7!"
   },
   {
-    "repo": "flintyx/animalia",
-    "internalName": "animalia",
-    "name": "Animalia",
-    "author": "Flin",
-    "lastUpdated": "2025-02-03T14:54:28Z",
-    "stars": 46,
-    "minGameVersion": "141",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A fun mod that contains Animals, Plants, Natural disasters and a lot more!"
-  },
-  {
     "repo": "meepoffaith/testing-utilities-java",
     "internalName": "test-utils",
     "name": "Testing Utilities",
@@ -480,18 +468,6 @@
     "description": "Lets you type into the console.\nPress F8 to open."
   },
   {
-    "repo": "pointifix/autodrill",
-    "internalName": "auto-drill",
-    "name": "AutoDrill",
-    "author": "Pointifix",
-    "lastUpdated": "2025-03-14T15:59:32Z",
-    "stars": 36,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds tools for automatically filling resource patches with drills"
-  },
-  {
     "repo": "paulieg626/cheat",
     "internalName": "cheat",
     "name": "CheatMod",
@@ -528,16 +504,16 @@
     "description": "testbuild.A advance library of mod, contains so many tools and method, please see the usage doc on github.\n\n一个高级的mod开发前置库，提供了很多有用的工具和方法，用法内容请参见github使用文档。"
   },
   {
-    "repo": "zeutd/disintegration",
-    "internalName": "disintegration",
-    "name": "Disintegration",
-    "author": "zeutd",
-    "lastUpdated": "2024-11-05T09:19:04Z",
+    "repo": "ferlern/extended-ui-v7",
+    "internalName": "extended-ui",
+    "name": "extended UI",
+    "author": "wizer",
+    "lastUpdated": "2025-04-24T11:25:01Z",
     "stars": 34,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod."
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> extended UI.\n\nIf u have any bugs create an issue on github or contact me in discord: wizer1233\n\nTranslators:\n1stvaliduser - UA\nCoCo Snow - DE\n\nContributors:\nRushieWashie, Garen7, 7003Mars (Mars)"
   },
   {
     "repo": "sublemon-team/subvoyage",
@@ -610,6 +586,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod provides a variety of tools for modding.\n\n-----------------\nVersion 1.5.5\n## Highlight\n- Fixed a severe npe bug about data(settings) save.\n- Added a setting: force_language.\n-----------------\n\n## ShowUIList\n\n- Display `icon`, `tex`, `styles`, `colors`, `interps`\\\n!(./screenshots/UIList.png)\n\n## Tester\n\n!(./screenshots/tester.png)\n\n- Provide `JS` editor `Tester`\n- Shortcuts\n- Press `Ctrl`+`Shift`+`Enter` to `execute` code immediately\n- Press `Ctrl`+`Shift`+`↑/↓` to switch `history` records\n- Press `Ctrl`+`Shift`+`D` to `view` detailed information\n- Press `Alt`+`V` to preview `Texture`\n- Built-in `unsafe`, `lookup`\n- Built-in `IntFunc` class (abbreviated as `$`)\n- `$.xxx` can represent primitive data types (e.g., `$.void` represents `Void.TYPE`;`$.J` represents long.class)\n- `$p` represents `Packages`\n- Code: [JSFunc](https://github.com/i-hope1/mod-tools/src/modtools/utils/JSFunc.java)\n- Long press on code in the favorites to add to startup items\\\n!(./screenshots/startup.png)\n- Quick switch history\\\n![Screenshot 2024-03-10 14-45-37](https://github.com/I-hope1/mod-tools/assets/78016895/4918af35-19af-4fab-b961-70bdc8679fe8)\n- `$.item`, `$.liquid`, `$.unit` and so on.\n\n## UnitSpawn\n\n- Multiple team selection\n- Support for fixed point spawning\n- Display `name` and `localizedName`\n- Rightclick the name Label to copy save as JS var.\n\n## Selection\n\n- Selector\n- Supports `Tile`, `Building`, `Bullet`, `Unit`\n- Kill\n- Set Item/Liquid/Team\n- Press `Ctrl`+`Alt` to fix Focus Window\n\n## ReviewElement\n\n- Display element list, double-click to copy element to js variable\n- `Ctrl`+`Shift`+`C` to Inspect Element\n- `Ctrl`+`Alt`+`D` to display bounds of Element\n- Select untouchable elements\n- Mobile: Filter current element with two fingers\n- PC: Press `F` to filter current element\n- Functions shortcuts for Element\n- `i`: display details (open ShowInfoWindow)\\\n- `p`(for Image):  show `DrawablePicker`\n- `del`: (`shift` to ignore confirmation), delete element\n- `<` / `>`: collapse Group\n- `f`: fix floating Info column\n- `r`: invoke element's method\n\n- ![reviewElement](./screenshots/review_element.png)\n\n# Frag\n\n- Double-click the blue part of Frag to minimize/restore Frag\n- In the minimized state, click the blue part, it will behave like a floating ball\n\n## Window\n\n- Press `Ctrl`+`Tab` to switch windows\n- Press `Shift`+`F4` to close current window\n- RClick the close button to move and scl window.\n\n## ShowInfoWindow\n\n- Show all fields, methods, constructors and nested classes of a obj.\n- Field can be modified.\n- Method can be Invoked(Special).\n- Constructor can be invoked to new a instance.\n\n## Others\n\n### Extensions\n- Http Redirect\n> Redirect some websites, such as: github\\\n> Configuration file: b0kkihope/http_redirect.properties"
+  },
+  {
+    "repo": "way-zer/contentstweaker",
+    "internalName": "contentstweaker",
+    "name": "ContentsTweaker-内容包修改器",
+    "author": "WayZer",
+    "lastUpdated": "2024-08-04T06:54:03Z",
+    "stars": 27,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Dynamic load custom contents patch account to server"
   },
   {
     "repo": "sh1penfire/meld",
@@ -720,16 +708,16 @@
     "description": "Add the new sectors and content on Erekir"
   },
   {
-    "repo": "wmf-industries/expandedindustries",
-    "internalName": "ei",
-    "name": "Expanded Industries",
-    "author": "WMF Industries",
-    "lastUpdated": "2024-04-12T14:47:08Z",
+    "repo": "realshizi/oxynoe",
+    "internalName": "oxynoe",
+    "name": "Oxynoe",
+    "author": "oxynoe",
+    "lastUpdated": "2022-08-24T20:25:59Z",
     "stars": 23,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Some content for people to enjoy :>\n-Current version : 1.7 [EoL]"
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "oxynoe :>"
   },
   {
     "repo": "mindustrydagger/vanillaplus",
@@ -780,28 +768,16 @@
     "description": "A Mindustry mod aimed to add content to the newly-added planet."
   },
   {
-    "repo": "dong-wo-long/enhancementunits",
-    "internalName": "enhancement-units",
-    "name": "Enhancement Units",
-    "author": "D&X",
-    "lastUpdated": "2024-06-03T13:06:10Z",
+    "repo": "eyeofdarkness/advance-lighting",
+    "internalName": "advance-lighting",
+    "name": "Advance lighting",
+    "author": "EoD",
+    "lastUpdated": "2024-05-18T05:50:46Z",
     "stars": 21,
-    "minGameVersion": "146",
+    "minGameVersion": "145",
     "hasScripts": false,
-    "hasJava": false,
-    "description": "ATTENTION:\n\nFrom now on, the mod goes into experimental mode - this means that the balance may not be balanced, such as a Toxopid with a Corvus, whose attack radius go far beyond 60 cells!!!!!\nNevertheless, I advise you to calm down: when the mod reaches its peak (despite my crazy plans for it, the result of which you are already watching), I will make several versions to meet the needs of as many people as possible. In the meantime, it remains to wait. Sorry for the inconvenience.\n\nImportant:\n\nThis mod does not bring anything radically new to the game, but only expands the combat functionality of existing combat units.\n\nPlease pay attention:\n\nThe mod significantly redesigns units, changes the balance and generally complicates the game. Don't forget to make a backup in case you don't like the changes that the mod itself makes.\n\nP.S. The mod is made for ALE maps."
-  },
-  {
-    "repo": "smolkeys/bundles",
-    "internalName": "bundles",
-    "name": "Bundles",
-    "author": "SMOLKEYS",
-    "lastUpdated": "2025-02-10T11:33:46Z",
-    "stars": 21,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "hehe angish go nrrrt\n\n\ntargets:\n\n- vanilla\n\n- foo's client (builtin)\n\n- SMOLKEYS/yellow-java (extension)"
+    "hasJava": true,
+    "description": "Not recommended for weak devices. Only supports Vanilla/Supported-Json content. This mod replaces/add some effects, and may cause issues with mods that actively check on those effects. May conflict with vanilla bloom."
   },
   {
     "repo": "sk7725/testers",
@@ -924,18 +900,6 @@
     "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts"
   },
   {
-    "repo": "deltanedas/ldb",
-    "internalName": "ldb",
-    "name": "Logic Debugger",
-    "author": "DeltaNedas",
-    "lastUpdated": "2024-07-19T18:01:49Z",
-    "stars": 18,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds clientside logic debugging tools.\nRequires DeltaNedas/override-lib."
-  },
-  {
     "repo": "saigon0nozomi/nightscape",
     "internalName": "nscape",
     "name": "NightScape",
@@ -1032,6 +996,30 @@
     "description": "Disables sectors being re-attacked."
   },
   {
+    "repo": "gwapowo/duoenhanced",
+    "internalName": "duoenhanced",
+    "name": "DuoEnhanced",
+    "author": "Gwapo",
+    "lastUpdated": "2024-09-12T01:02:50Z",
+    "stars": 16,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod that adds many different types of duos, recreates vanilla blocks into duos, and duo units! Discord Tag: gwapowo"
+  },
+  {
+    "repo": "thomasthings/xenacia",
+    "internalName": "xenacia",
+    "name": "Xenacia",
+    "author": "Thomas's Things",
+    "lastUpdated": "2025-01-30T21:02:20Z",
+    "stars": 16,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod with ambitious goals, and a fresh start. Incomplete, still in pre-pre-alpha."
+  },
+  {
     "repo": "laohuajiofficial/multiblocklib",
     "internalName": "multi-block-lib",
     "name": "Multi-Block Library",
@@ -1042,18 +1030,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mindustry mod library which provides support for non-square blocks implementation for json mod."
-  },
-  {
-    "repo": "itzcraft/xanthia",
-    "internalName": "xanthia-3",
-    "name": "Xanthia",
-    "author": "[accent]Coders:[] Decaract, ItzCraft, Nahan\n\n[accent]Spriters:[] Decaract, Nahan\n\n[accent]Testers:[] DarkSniper, Nahan, ItzCraft, AnDashik\n\n[accent]Contributors:[] Arbuzer, Los Sasikos, AnDashik\n\n[accent]Translators:[] Kevin Vilyan, ItzCraft",
-    "lastUpdated": "2025-04-08T19:31:18Z",
-    "stars": 16,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Discover and explore a brand new planet with its own campaign: Xanthia, a mountainous hot planet with more dangers and threat hiding there.\n\nRemember that Xanthia is in beta test right now. Everything is subject to change.\n\nAnd please, try to download it not from releases due to releases can have unfounded bugs but latest version of the mod could have fixed that. "
   },
   {
     "repo": "jirocab/nyfalis",
@@ -1138,6 +1114,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Roombas."
+  },
+  {
+    "repo": "theangelurd/additional-content",
+    "internalName": "additional-content",
+    "name": " Additional  Content",
+    "author": "Tayros/theangelurd",
+    "lastUpdated": "2024-01-07T23:28:38Z",
+    "stars": 14,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "I know the name is very boring but i can't find another name. A mod that adds a great amount of content to the game. Have fun with the mod."
   },
   {
     "repo": "woodjecket/commundustry",
@@ -1272,18 +1260,6 @@
     "description": "(Erekir Update!)\n\nA Soundpack that changes all sounds and musics from Factorio.\n\nYou can use it with Xeloboyo/Factoriodustry for better experience!"
   },
   {
-    "repo": "blackdeluxecat/schematicparse",
-    "internalName": "schematicparse",
-    "name": "Schematic Parse",
-    "author": "BlackDeluxeCat",
-    "lastUpdated": "2023-12-02T16:09:41Z",
-    "stars": 13,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "1.从蓝图详情页直接复制逻辑和信息板。2.蓝图消耗计算套件。\nCopy processor/message in schematic info without placing it. Schematic consumption computing tool. \nGithub: BlackDeluxeCat/SchematicParse"
-  },
-  {
     "repo": "slotterleet/distributor",
     "internalName": "distributor",
     "name": "Distributor",
@@ -1356,18 +1332,6 @@
     "description": "A mod for browsing schematic repositories."
   },
   {
-    "repo": "cewwi/resurrection-mod",
-    "internalName": "resurrection",
-    "name": "Cataclysm",
-    "author": "[#0c6ed1]cewwi[] & [#BC5452FF]JJ[]",
-    "lastUpdated": "2025-04-26T20:04:37Z",
-    "stars": 13,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "We plan to add three new planets into the game, with two new tech trees. \n(actually might add much more, but one step at a time I guess)\n\nA Planet Devestated by time. Tronoe P07 was never the planet the we expected to find. \nUnder all the rubble, was an emmense cavern that had spanded through nearly the whole planet.\nWho knows what we'll find down here.\n\nYou have heard rumors... That on the dark, irradiated wasteland of Nevorix, there lie ancient technologies yet to be uncovered.\nThe only thing that stands in your way, is The New Order. A faction of mindless vessels cotrolled by the Hivemind, an amalgamation of assimilated minds.\nbring this powerful technology back from the planet, so that you may annihilate an ancient foe once and for all..."
-  },
-  {
     "repo": "lysent/etigei-exile",
     "internalName": "etigeox",
     "name": "Etigei Exile",
@@ -1416,16 +1380,16 @@
     "description": "Spfu Working Again"
   },
   {
-    "repo": "nemesistheory/odst-soundtracks",
-    "internalName": "halo-3-odst-soundtracks-ost",
-    "name": "ODST Soundtracks",
-    "author": "NemesisTheory",
-    "lastUpdated": "2023-11-12T00:47:52Z",
+    "repo": "meepoffaith/hallucinogen",
+    "internalName": "hallucinogen",
+    "name": "Hallucinogen",
+    "author": "MEEPofFaith",
+    "lastUpdated": "2024-08-05T22:52:05Z",
     "stars": 12,
-    "minGameVersion": "140",
+    "minGameVersion": "146",
     "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod plays soundtracks from the game Halo 3: ODST. \n\nWarning: This is a heavy mod, download using Wi-Fi is recommended."
+    "hasJava": true,
+    "description": "The best sensory overload you can get, at least legally."
   },
   {
     "repo": "bloody-ocean/bloodyvisual",
@@ -1692,18 +1656,6 @@
     "description": "Fight an eclipse, I dare you"
   },
   {
-    "repo": "agzam4/mindustry-mod",
-    "internalName": "agzam4mod",
-    "name": "Agzam's Mod",
-    "author": "Agzam4",
-    "lastUpdated": "2024-08-16T12:00:06Z",
-    "stars": 10,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Additional functionality"
-  },
-  {
     "repo": "arth0x/mindustrinity",
     "internalName": "mindustrinity",
     "name": "MindusTrinity",
@@ -1764,18 +1716,6 @@
     "description": "the ultimate ratio hell, a designer's challenge"
   },
   {
-    "repo": "deltanedas/mobile-ui",
-    "internalName": "mobile-ui",
-    "name": "Mobile UI",
-    "author": "deltanedas",
-    "lastUpdated": "2022-05-07T15:17:19Z",
-    "stars": 9,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Enables mobile UI if on desktop, or disables it on mobile."
-  },
-  {
     "repo": "deltanedas/speed",
     "internalName": "speed",
     "name": "Speed",
@@ -1812,42 +1752,6 @@
     "description": "V7 version of THC Industry. Created of pure boredom. \nDO NOT USE THE VERSION THAT IS DIRECTLY CLONED FROM THE REP.\nIT MAYBE TOTALLY BUUGY AND USELESS."
   },
   {
-    "repo": "paulieg626/admintool",
-    "internalName": "admintool",
-    "name": "AdminTool",
-    "author": "paulieg626",
-    "lastUpdated": "2023-01-03T03:16:33Z",
-    "stars": 9,
-    "minGameVersion": "140",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Для работы на сервере нужен плагин: https://github.com/MindustryInside/JSEval\nи админ"
-  },
-  {
-    "repo": "sk7725/betamindymusic",
-    "internalName": "betamindy-music",
-    "name": "BetaMindy Music",
-    "author": "sk7725",
-    "lastUpdated": "2023-03-01T12:54:43Z",
-    "stars": 9,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "BetaMindy music assets. Does nothing on its own!"
-  },
-  {
-    "repo": "pixecoz/better-vaults",
-    "internalName": "better-vaults",
-    "name": "Better Vaults",
-    "author": "pixecoz",
-    "lastUpdated": "2023-04-24T13:51:56Z",
-    "stars": 9,
-    "minGameVersion": "143",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "[green]this mod adds more storages and unloaders[], use this mod for complex mod builds, otherwise this mod will be very imbalanced in the game.\n\nSprites: LaIm_Ik"
-  },
-  {
     "repo": "pointifix/autotranslate",
     "internalName": "auto-translate",
     "name": "AutoTranslate",
@@ -1882,30 +1786,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Allows access to Editor Mode on Sandbox and Singleplayer\n\nDoes not work on Multiplayer and Campaign.\n\nUpdate: Fixed map editor crash and delay."
-  },
-  {
-    "repo": "plsubfarm61/project_b",
-    "internalName": "project-b",
-    "name": "Project B [Alpha]",
-    "author": " [white]pol[red]ish [lime]subfarm61 ",
-    "lastUpdated": "2024-02-24T11:04:39Z",
-    "stars": 9,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "[green]=============|DESCRIPTION|============\n[lightgray]I'm making the biggest mod for mindustry. If you like mod, please leave a [yellow]star [lightgray]on [purple]github.\n[green]=================|INFO|=================\n[white]Mod need \"[#42a5f5]MultiCrafter Lib[white]\" to work.\n[green]===============|DISCORD|===============\n  [navy]Discord [white]link - \n [blue]https://discord.gg/7SSAupjxeD\n[forest]-------------------------------------\n[lime]Me [white]polish_subfarm61\n[green]==============|PROBLEMS|==============\n[white]If you have [lime]suggestion[white] or you find a \n[purple]bug[white], describe it on our discord server. \n[green]========================================"
-  },
-  {
-    "repo": "obsidan55/schempack400",
-    "internalName": "shemepackbyobsidian",
-    "name": "Schemepack 400+",
-    "author": " Obsidian ",
-    "lastUpdated": "2024-06-02T10:09:59Z",
-    "stars": 9,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "⚠ВНИМАНИЕ!⚠\nПри удалении схемпака, теги остаются.\n Данный мод добавляет ОГРОМНУЮ КУЧУ схем на любой вкус.\nВсего здесь более чем 400 схем.\nОтдельное спасибо pixecoz, Qwertynoob, Anchovy, Mandu, Fox1va, Ilya034, Ohotni4ek, Snake, без них ничего бы не вышло. ОТДЕЛЬНОЕ СПАСИБО Ilya034, который снова все это отсортировал.\n\nВ новом обновлении были изменены названия схем по категориям:\ngreen - начало игры;\norange - середина игры\nred - конец игры;\n(делал это чисто по своему мнению, могут быть неточности)\nостальные схемы тоже промаркированы по цветам:\ncrimson - схемы на деф;\ngold - логика;\npurple - логика с дисплеями;\nstat - буры;\ncyan - арты и игры;"
   },
   {
     "repo": "i-hope1/mod.make",
@@ -1954,6 +1834,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\n\n  本模组的战役较难，不适合初次接触此游戏的玩家\n  模组难点体现在：\n波次时间短\n地形复杂\n敌人强大\n建议多多发展后勤资源\n使用发射台来提供源源不断的资源\n-\nThe campaign of this mod is very difficult and not suitable for players who are new to this game\nIt is recommended to have an understanding of the game after clearing the original version before playing this mod\nThe difficulty of the module is reflected in:\nWaves are very short\nComplex terrain\nthe enemy is strong\nIt is recommended to develop more logistical resources\nUse launch pads to provide a steady stream of resources\n------------------创世神起源\n"
+  },
+  {
+    "repo": "dong-wo-long/enhancementturrets",
+    "internalName": "ets",
+    "name": "Enhancement Turrets",
+    "author": "D&X",
+    "lastUpdated": "2025-04-07T18:36:04Z",
+    "stars": 9,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Important:\n\nThis is an addition to the Enhancement Units mod, which modifies several towers, sometimes improving them, then changing the shooting mechanics to create some kind of balance between units and towers.\n\nPlease pay attention:\n\nThe mod significantly reworks the mechanics of turrets, changes the balance and, in general, can simplify the game without the EU. Don't forget to make a backup in case you don't like the changes that the mod itself makes.\n\nP.S. The mod is made for ALE maps."
   },
   {
     "repo": "routerxdd/icicle-world",
@@ -2040,6 +1932,18 @@
     "description": "A mod packaging tool, a tool is added to the mod page to select the currently installed mod for packaging as a mod integration package for distribution. When using it, install the installer mod generated by the package directly, and it will guide the user to complete the installation.\n====================\n一个模组打包工具，在模组页面添加了一个工具，用于选择当前已安装的mod并打包为mod整合包以便分发，使用时直接安装打包生成的安装器mod，它会引导用户完成安装"
   },
   {
+    "repo": "foxitos/cmd-pack",
+    "internalName": "cmd-scheme-pack",
+    "name": "CMD Scheme Pack",
+    "author": "foxit, QE clan",
+    "lastUpdated": "2023-09-16T22:50:36Z",
+    "stars": 8,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\n RU\nПак добавляет 600+ различных схем. Они тщательно отсортированны по названиям и тегам.\nСхем пак в данный момент находится на стадии активной разработки.\nПредложения по моду: _foxit_#1274\n ENG\nThe pack adds 600+ different schematics. They are carefully sorted by names and tags.\nThe schematics pack is currently under active development.\n UA\nПак додає 600 + різних схем. Вони ретельно відсортовані за назвами і тегами.\nСхем пак в даний момент знаходиться на стадії активної розробки.\n"
+  },
+  {
     "repo": "mythril382/thisthing",
     "internalName": "this-thing",
     "name": "This Thing",
@@ -2124,6 +2028,18 @@
     "description": "A fun mod for a fun New Year's event"
   },
   {
+    "repo": "haznobrain/tower-defense-molten",
+    "internalName": "towerdefensemolten",
+    "name": "Tower Defense: Molten",
+    "author": "Haznobrain",
+    "lastUpdated": "2024-12-01T19:22:51Z",
+    "stars": 8,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mindustry mod i made out of boredom because i really really liked the original Tower Defense mod by AForgetfulness."
+  },
+  {
     "repo": "sputnuc/upgrated-tiers",
     "internalName": "tiered",
     "name": "Upgraded Tiers",
@@ -2172,18 +2088,6 @@
     "description": "\nWARNING: For Ukrainian language only.\n\nModification for translation testing. Can be used for an example testing bundles and for testing a new Ukrainian translation. Developed in Ukraine.\nSupports v7 only.\n\nDiscord for Ukrainian speaking: https://discord.gg/VDjWyCssvP\n\n----------------------------------------\n\nПОПЕРЕДЖЕННЯ: Лише для української мови.\n\nМодифікація для тестування перекладів. Можете використовувати задля прикладу і задля тестування нового українського перекладу. Розроблено в Україні.\nПідтримує тільки v7.\n\nDiscord для українськомовних: https://discord.gg/VDjWyCssvP"
   },
   {
-    "repo": "goobrr/esoterum-ii",
-    "internalName": "eso",
-    "name": "Esoterum II",
-    "author": "@Goob_rr",
-    "lastUpdated": "2025-03-21T12:43:46Z",
-    "stars": 8,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that adds logic components to the game, such as logic gates, wires and more."
-  },
-  {
     "repo": "dong-wo-long/high-leveldivisions",
     "internalName": "hld",
     "name": "High-level Divisions",
@@ -2208,18 +2112,6 @@
     "description": "A quality of life mod that adds useful blocks for transportation and logistics."
   },
   {
-    "repo": "7003mars/bridges",
-    "internalName": "bridging",
-    "name": "Bridging assistant",
-    "author": "Mars",
-    "lastUpdated": "2025-04-17T16:14:32Z",
-    "stars": 8,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Displays all bridge links. Helps with bridge weaving"
-  },
-  {
     "repo": "warcry98/speedcontrol",
     "internalName": "speed-control",
     "name": "Speed Control",
@@ -2230,18 +2122,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Speeds up or slows down Mindustry.\nPress & hold 'x1' to fold the buttons.\nSome buttons can be pressed twice.\n\nDisclaimer: not intended for multiplayer use!"
-  },
-  {
-    "repo": "reborntrack970/infinicampaign",
-    "internalName": "inficamp",
-    "name": "InfiniCampaign",
-    "author": "RTOmega",
-    "lastUpdated": "2022-07-24T07:55:53Z",
-    "stars": 7,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod that makes the game V5 ish by making you unable to capture."
   },
   {
     "repo": "fabizocker456/test",
@@ -2568,18 +2448,6 @@
     "description": "Stuff."
   },
   {
-    "repo": "64-tesseract/erekir-logic-improved",
-    "internalName": "erekir-logic-improved",
-    "name": "Erekir Logic Improved",
-    "author": "64-Tesseract",
-    "lastUpdated": "2023-01-05T00:53:04Z",
-    "stars": 6,
-    "minGameVersion": "140.4",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds logic blocks to Erekir.\nForked to fix logic link names, not compatible with the original mod by DaRealMonika [blue]github.com/DaRealMonika/Eriker-Logic[]."
-  },
-  {
     "repo": "shimyytrov/turret-expansion",
     "internalName": "turret-expansion",
     "name": "Turret Expansion",
@@ -2664,18 +2532,6 @@
     "description": "Fully unlocks all research on the research tree instantly"
   },
   {
-    "repo": "nezerit6/stuasut",
-    "internalName": "stus",
-    "name": "Stuasut",
-    "author": "Eternity",
-    "lastUpdated": "2024-10-12T07:06:27Z",
-    "stars": 6,
-    "minGameVersion": "140.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "no"
-  },
-  {
     "repo": "electricgun/video-to-logic",
     "internalName": "v2logic",
     "name": "Video to Logic",
@@ -2710,6 +2566,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\nRU\nМод добавляет Схемы для модификации New Horizon. Тег: +\n\nENG\nThe mod adds Schematics for the New Horizon modification. Tag: +\nMy Discord: silinveredno_edmstep\n"
+  },
+  {
+    "repo": "sputnuc/expansion",
+    "internalName": "exp",
+    "name": "Expansion mod",
+    "author": "Sputnuc, thanks to AnDashik for committing my code",
+    "lastUpdated": "2025-03-23T11:35:41Z",
+    "stars": 6,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "[ENG]A mod that adds new content to serpulo.(needs multicrafter-lib).\n\n[Ru]Мод добавляющий новый контент для серпуло. (необходим мод multicrafter-lib)"
   },
   {
     "repo": "photon-gravity/enigmamindustrymod",
@@ -2748,18 +2616,6 @@
     "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
   },
   {
-    "repo": "unionofsovietsocialistrepublics/sporebiomethane",
-    "internalName": "jp",
-    "name": "Spore biomethane",
-    "author": "Watermolecules and Hydroabyss",
-    "lastUpdated": "2025-04-12T04:19:23Z",
-    "stars": 6,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds New sector, units and buildings to the game, all zerg flavored.\nWhat does this mod offer?\n - Hardmode and normal mode \n - Campain map for serpulo\n - Possibly a new planet?\n - A bunch of zerggy unit and structure\n - Lore\nRemember to star the mod on github if you enjoy it!"
-  },
-  {
     "repo": "chaoticans-mindustry-modding-team/new-content",
     "internalName": "newunits",
     "name": "New Content",
@@ -2782,6 +2638,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Better visuals? Not only that!"
+  },
+  {
+    "repo": "frilofril19/cobatstry",
+    "internalName": "cobatstry",
+    "name": "Cobatstry",
+    "author": "Frilofril",
+    "lastUpdated": "2025-04-25T18:29:36Z",
+    "stars": 6,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A new independent company on the planet - Fralion, a cold hell that complements the game with new resources, enemies, buildings and not-so-great mechanics that you will definitely like.\r\n---\r\nAvailable languages:\r\n--English\r\n--Українська\r\n--Русский\r\n--Deutsch\r\n--Polski\r\n---\r\nYou can express your impressions and follow the mod on the author's YouTube channel.\r\n"
   },
   {
     "repo": "mrdoes/spore-potential",
@@ -2854,6 +2722,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Ost for my mod Project Oblivion. \n\nCredits to 1237 (12three7#5723 on discord, @12three7 on github) and DJ Silin (DJ Silin#6351 on discord, @King-Silicon on github) for the awesome OSTs."
+  },
+  {
+    "repo": "wmf-industries/terios",
+    "internalName": "terios",
+    "name": "Terios",
+    "author": "WMF Industries",
+    "lastUpdated": "2023-01-12T02:46:11Z",
+    "stars": 5,
+    "minGameVersion": "137",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Similar to NeonNights, but actually updated."
   },
   {
     "repo": "purplesushi22/oh-no-random-pack",
@@ -3012,6 +2892,18 @@
     "description": "Mindustry mod that gives mobile users to opportunity use desktop controls.\nAuthor Discord: moltensteel"
   },
   {
+    "repo": "lunaticol/erekir-to-serpulo",
+    "internalName": "erekir-to-serpulo",
+    "name": "Erekir To Serpulo",
+    "author": "Lunatico",
+    "lastUpdated": "2024-07-31T02:53:27Z",
+    "stars": 5,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod which allows Erekir blocks to be used on Serpulo using Serpulo resources"
+  },
+  {
     "repo": "nannerbz/frires-json-library",
     "internalName": "frires-json-lib",
     "name": "FrireDragon's Json Lib",
@@ -3046,18 +2938,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Добавляет ледяной спутник Сатурна - Энцелад, со своими технологиям.\r\nAdds Saturn's icy satellite, Enceladus, with its own technologies"
-  },
-  {
-    "repo": "sharlottes/mlogwatcher",
-    "internalName": "mlogwatcher",
-    "name": "MLogWatcher",
-    "author": "Sharlottes",
-    "lastUpdated": "2024-10-18T02:08:37Z",
-    "stars": 5,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "the watcher mod for MLog(Mindustry Logic) programming. while watching the target file's change, the mod will read, parse and inject code to selected processor from the target file."
   },
   {
     "repo": "some-t3a/doorlogic",
@@ -3130,18 +3010,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod that adds a new planet, Derepica.\nExplore this planet with full of waste and toxic acid.\n\n[red]Not recommended to play with other planet mod!"
-  },
-  {
-    "repo": "redonomo-team/colorspectrum",
-    "internalName": "colorspec",
-    "name": "Color Spectrum",
-    "author": "redonomo Team",
-    "lastUpdated": "2025-04-21T13:32:47Z",
-    "stars": 5,
-    "minGameVersion": "145",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "The mod of fight 4 colors"
   },
   {
     "repo": "jirocab/caster-ui-java",
@@ -3250,18 +3118,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "I made this mod for 5 hours of my life and bottle of pivo. Guys from ukrainian mindustry server in discord inspired\nme to try made mod. Jokingly, I said that I would try to make a mod that adds music from Red Alert 3, but I didn’t think that I would just do it for fun.\nMaksim loh ebaniy. EDIT:Ok, maksim may be good."
-  },
-  {
-    "repo": "ivandem2009/kikimici",
-    "internalName": "nr",
-    "name": "Nuclear Rampage",
-    "author": "IvanDem#1021",
-    "lastUpdated": "2022-09-19T17:55:45Z",
-    "stars": 4,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "JSON mod for multiplayer pvp. DONT DOWNLOAD, I M MAKING A REMAKE"
   },
   {
     "repo": "seuearth/letter-sound-effect",
@@ -3514,18 +3370,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry toolkit mod by GitHub - kubikaugustyn / Discord - HackerKuba2009#9722"
-  },
-  {
-    "repo": "ochpochmaks/larnos-planet",
-    "internalName": "larnos planet",
-    "name": "Larnos Planet",
-    "author": "[green]Ochpoc[purple]hmaks",
-    "lastUpdated": "2024-04-06T12:04:45Z",
-    "stars": 4,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "New planet for Mindustry! Новая планета для Mindustry! В этой версии:\n-Почти полная кампания на Ларно\n-Более 70 нововведений\n-3 Планеты, 2 из которых рабочие, 1 из них почти доделанная"
   },
   {
     "repo": "godlyshkaf/serpulo-air-support",
@@ -3912,18 +3756,6 @@
     "description": "A mod featuring boss fights, only using HJSON and world processors. Best experienced with a mouse and a keyboard."
   },
   {
-    "repo": "mythril382/u-r-a-i-c",
-    "internalName": "mythril-uraic",
-    "name": "U. R. A. I. C.",
-    "author": "Mythril",
-    "lastUpdated": "2022-05-27T14:09:30Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Units\nRequire\nAmmo\nIn\nCampaign\n\nDoes not work well with Erekir units as they are not yet done and use copper for ammo."
-  },
-  {
     "repo": "mythril382/ammoswap",
     "internalName": "ammo-swap",
     "name": "Ammo Swap",
@@ -3984,18 +3816,6 @@
     "description": "An advanced UI Debugger that lets you do various things,\nstarting from viewing the element bounds and ending with reflectively modifying the properties of every element.\n\nThis mod is unfinished and may contain some bugs or unfinished features.\n\nYou can access the menu of this mod by clicking the \"UI Debugger\" button in the main menu.\nYou can also view this menu in a separate window by clicking the respective button."
   },
   {
-    "repo": "sheptalo/ponchik-test",
-    "internalName": "pon",
-    "name": "ponchik",
-    "author": "sheptalo",
-    "lastUpdated": "2022-10-16T09:19:57Z",
-    "stars": 3,
-    "minGameVersion": "137",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "mod for doing chaotic things"
-  },
-  {
     "repo": "onyxsteel/futuristic-warfare",
     "internalName": "futuristic warfare",
     "name": "futuristic-warfare",
@@ -4018,18 +3838,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "pointless singleplayer mod, does not work in multiplayer"
-  },
-  {
-    "repo": "cristian-blackture/acm",
-    "internalName": "",
-    "name": "Another Chaotic Mod",
-    "author": "Cristian BlackTure And Dom",
-    "lastUpdated": "2023-01-12T08:00:20Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Added A LOT Of Stuff.\nImagine Amog Us. "
   },
   {
     "repo": "blackdeluxecat/settingsweep",
@@ -4066,6 +3874,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "English: Adds new items, buildings, liquids to serpulo and erekir.\nRussian: Добавляет новые предметы, постройки, жидкости для серпуло и эрекир."
+  },
+  {
+    "repo": "imnotthatbrave/mindustrytexturetweaks",
+    "internalName": "texturetweaks (erekir)",
+    "name": "TextureTweaks (Erekir)",
+    "author": "ImNotThatBrave",
+    "lastUpdated": "2023-04-11T07:34:44Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A Texture Pack For Better Vanilla Readability. By ImNotThatBrave and with some assets by BlackDeluxeCat"
   },
   {
     "repo": "danteslr/shaders",
@@ -4114,18 +3934,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod revolving around the stupid error texture.\n-----WHAT'S NEW-----\nHoly shit balance changes\nRellbell\nUh"
-  },
-  {
-    "repo": "python-nerd-3/vanillex",
-    "internalName": "vanillex",
-    "name": "vanillEX",
-    "author": "sc3d (IGN Random Memer)",
-    "lastUpdated": "2023-09-21T11:22:57Z",
-    "stars": 3,
-    "minGameVersion": "136.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "[In very early development] A Mindustry mod that adds new features to the game that blend in with the original."
   },
   {
     "repo": "falkowitz/pineappledustry",
@@ -4308,6 +4116,18 @@
     "description": "Adds a lot of turrets that are based on real guns and turrets/towers. Most of Them."
   },
   {
+    "repo": "justvi333/svapipai-mod",
+    "internalName": "svapipai",
+    "name": "Svapipai",
+    "author": "DotVi",
+    "lastUpdated": "2024-05-27T08:22:17Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "My first mod :)\n\n\nThe mod adds:\n- ore;\n- turrets and other defense blocks;\n- units;\n- some production and power blocks.\n\nLanguages:\n- en;\n- ru.\n\n\nFuture plans include adding more content for the new ore and add new planet."
+  },
+  {
     "repo": "hexazeta/frigid-devastation",
     "internalName": "",
     "name": "Frigid-Devastation",
@@ -4318,18 +4138,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "part of a icey planets collab"
-  },
-  {
-    "repo": "gleb2k19/ranai-mod",
-    "internalName": "ranai-mod",
-    "name": "Ranai mod",
-    "author": "sussy_kazakhstan",
-    "lastUpdated": "2024-06-13T06:00:32Z",
-    "stars": 3,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "I really hate this mod, i put more effort in it than anyone else in their first mod. \nThere was one contributor and his name was mq, one sprite belongs to him. epic \nGood luck with this mod, and now you can use it in campaign. god save us all"
   },
   {
     "repo": "pseudocoffee/more-conveyors",
@@ -4354,18 +4162,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod add smol and cute unit, I guess /nCredit to blob for drawing all sprite /n"
-  },
-  {
-    "repo": "nikitapos/neo-dustry",
-    "internalName": "neo-dustry",
-    "name": "Neo-Dustry",
-    "author": "NikitaPos and NagyDoesStuff",
-    "lastUpdated": "2024-07-30T11:29:20Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "\nMindustry mod that adds some things.\n"
   },
   {
     "repo": "pobeda1111/mod_war",
@@ -4428,18 +4224,6 @@
     "description": "Unicorp presents to you their various units for mining purpose and for assault tactics.\n  P.S. This mod may need some balancing. If you find bugs or think the content needs tweaking, just message on Discord(TroniusPlay#4386) or Github."
   },
   {
-    "repo": "pirojok3000/erekir-cargo-drone-for-serpulo",
-    "internalName": "serpulo-payload-drone-alternative",
-    "name": "Serpulo cargo drone",
-    "author": "Pirojok3000",
-    "lastUpdated": "2024-09-24T20:57:31Z",
-    "stars": 3,
-    "minGameVersion": "144",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds serpulo cargo drone that functions exactly like erekir cargo drone. No more complicated logic!"
-  },
-  {
     "repo": "ademonorig/upgraded-technology-tree",
     "internalName": "upgraded technology tree",
     "name": "Upgaraded Technology Tree",
@@ -4462,6 +4246,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\nJSON mod\n\nI`m working on:\n\n- New materials\n- New electricity\n- New planet (Not commpleted)\n- New units (Not commpleted)\n- A ton of new planet content (Not commpleted)\n\nTODO:\n1. Conveyors etc\n2. Some difficult stuff\n3. Turrets\n4. Units\n5. Sectors + planet (now)\n"
+  },
+  {
+    "repo": "fallingdice/project-hivemind",
+    "internalName": "hivemind",
+    "name": "ProjectHiveMind",
+    "author": "FallingDice",
+    "lastUpdated": "2024-10-20T03:30:20Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "my first java mod-test ver"
   },
   {
     "repo": "thechronodonut1337/silent-orchestra",
@@ -4750,6 +4546,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allow you to play with your friends just by creating a room, copy the link and send it to your friends.\n\nPlease check this link for Mindustry v8 compatibility: https://github.com/xpdustry/claj#mindustry-v8-note"
+  },
+  {
+    "repo": "obsidan55/the-rising-sun",
+    "internalName": "trs",
+    "name": "The Rising Sun",
+    "author": "obsidian and Bloody-Ocean (Mesyachnuy/Месячный)",
+    "lastUpdated": "2025-04-28T09:06:52Z",
+    "stars": 3,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": ""
   },
   {
     "repo": "vasiliymax1/mindustryplus",
@@ -5184,18 +4992,6 @@
     "description": "Survive on sand island and expand by placing land on water around."
   },
   {
-    "repo": "unionofsovietsocialistrepublics/magnification",
-    "internalName": "magnification",
-    "name": "Magnification",
-    "author": "Water molecules",
-    "lastUpdated": "2023-07-16T08:28:26Z",
-    "stars": 2,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Make enemies stronger with magnification status effect (like in battle cats)"
-  },
-  {
     "repo": "xenoforce/opore-mod-v7",
     "internalName": "opore-mod",
     "name": "Opore Mod",
@@ -5278,6 +5074,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This is too cheating mod, I do not recommend using it in a career"
+  },
+  {
+    "repo": "minchat-official/minchat",
+    "internalName": "minchat",
+    "name": "MinChat Official",
+    "author": "Mnemotechnician",
+    "lastUpdated": "2023-11-30T17:16:29Z",
+    "stars": 2,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The first mod adding a global mindustry chat.\n\nTHIS MOD IS CURRENTLY IN THE BETA-STAGE! YOU CAN USE IT BUT EXPECT VARIOUS BUGS AND RAPID CHANGES!\nYou can see the roadmap in the \"TODO.md\" file on github!\n\nAccessing the chat ui:\nOn desktop, press the ` key on your keyboard, or use the gui buttons.\nOn mobile, press the \"Minchat\" button either in the main menu or in-game to do the same.\n\nThere are various tutorials that will guide you through the user interface of this mod."
   },
   {
     "repo": "balam314/legacy-textures",
@@ -5436,18 +5244,6 @@
     "description": "This Mindustry mod will add alternate blocks which will be better then their analogues, but also will be cost more resources to build. Most of additional blocks will be batteries, containers, etc. But it will not be any turrets or something like this"
   },
   {
-    "repo": "derekshaheen/mindustry-resource-rate-monitor",
-    "internalName": "resource-rate-monitor",
-    "name": "Resource Rate Monitor",
-    "author": "Skrip",
-    "lastUpdated": "2024-05-25T07:16:16Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Simply allows you to monitor your resource rate changes in real time."
-  },
-  {
     "repo": "dong-wo-long/sanabi-ost",
     "internalName": "sanabi-ost",
     "name": "SANABI ost",
@@ -5458,18 +5254,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Changes music files to tracks from the SANABI game (not a bad game, I advise you to take a closer look at it)"
-  },
-  {
-    "repo": "obitel30/atnmod",
-    "internalName": "atn",
-    "name": "A-T-N Mod",
-    "author": "monokol(monokoluar)",
-    "lastUpdated": "2024-05-26T20:47:00Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "new campaign lol"
   },
   {
     "repo": "minri2/contentseditor",
@@ -5506,18 +5290,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Warning: May impact performance on less powerful devices!\n\t\n\tIntroduces five new processors. 2 balanced, 3 unbalanced.\n\n\tAbsurd Processor:\n\tRelatively balanced, next generation processor.\n\t3x faster, 3x more health, and 33 more range than the Hyper Processor.\n\tRequires 3x the resources, 3x the Cryofluid, and ♾️x the Plastanium (for the nice green color).\n\n\tBizarre Processor:\n\tRelatively balanced processor straight from the research lab.\n\tTitanium antenna extends range to the entire map.\n\t3x more health, 3x the cost, and the same speed as the Hyper Processor.\n\n\tEyeball Processor:\n\tNo link is too far.\n\tNo damage is too high.\n\tFaster than the Logic Processor, slower than the Hyper Processor.\n\tCovers the entire map regardless of placement. Costs a penny.\n\n\tPlanet Processor:\n\tAll lands are charted and all threats are thwarted.\n\t2x faster than the Hyper Processor.\n\tCovers the entire map regardless of placement. Costs a penny.\n\n\tClown Processor:\n\tHonk Honk.\n\tThe clown sees all and refuses to die.\n\t5x faster than the Hyper Processor.\n\tCovers the entire map regardless of placement. Costs a penny."
-  },
-  {
-    "repo": "teamcheburek/ectotech",
-    "internalName": "et",
-    "name": "EctoTech",
-    "author": "TeamCheburek",
-    "lastUpdated": "2024-07-10T18:25:32Z",
-    "stars": 2,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Your advertisement could be here"
   },
   {
     "repo": "yoctus/artillery-mod",
@@ -5724,18 +5496,6 @@
     "description": "why? furry zenith."
   },
   {
-    "repo": "ruombus/dragenisis",
-    "internalName": "dragenisis",
-    "name": "Dragenisis",
-    "author": "Cyro/Ruombus",
-    "lastUpdated": "2024-12-18T20:18:05Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A simple mod. That will probably break around every corner. It'll be worked on infrequently, probably."
-  },
-  {
     "repo": "zinq7/beacons-yay",
     "internalName": "beacons-yay",
     "name": "Holy Light",
@@ -5892,16 +5652,28 @@
     "description": " "
   },
   {
-    "repo": "m-e-l-i-s/silvirium-mod",
-    "internalName": "silvirium",
-    "name": "Silvirium",
-    "author": "Melis and rocket550",
-    "lastUpdated": "2025-04-08T23:51:09Z",
+    "repo": "auseawesome/minvention",
+    "internalName": "minvention",
+    "name": "Minvention",
+    "author": "Auseawesome",
+    "lastUpdated": "2025-04-08T07:58:49Z",
     "stars": 2,
     "minGameVersion": "146",
     "hasScripts": false,
+    "hasJava": true,
+    "description": "Overhauls Serpulo, what the campaign could've been"
+  },
+  {
+    "repo": "jirocab/yetanotherserpulorebalance",
+    "internalName": "yasr",
+    "name": "Yet another Serpulo Rebalance (yasr)",
+    "author": "Rushie Washie, GooglyGoo",
+    "lastUpdated": "2025-04-11T13:32:52Z",
+    "stars": 2,
+    "minGameVersion": "143.1",
+    "hasScripts": true,
     "hasJava": false,
-    "description": "My frist mod, this mod add silvirium units/blocks and star units/blocks \n\nmixed with other random suff"
+    "description": "Any block/unit/statistic not mentioned here has been left unchanged\n\n\n\nFoundation & Nucleus core\n   Health increased significantly\n\nAll factories & constructors\n   Health increased significantly\n\nT5 units \n   doubled in cost and build time\n\nT4 units \n   0.67x cost and build time\n\nT4 reconstructor cost reduced\n   Lead - 1200\n   Titanium - 1000\n   Thorium - 650\n   Silicon - 700\n   Plastanium - 250\n\nT1 air factory\n   cost adjusted\n      copper - 60\n      lead - 69\n      silicon - 90\n\n\n\nPhase Wall\n   60% deflection chance\n\nSurge Wall\n   20 armor\n\n\n\nDuo \n   No longer hits air\n   Range increased to 23.75\n   Shoots 2 shots per second\n\nSalvo\n   No longer hits air\n   Shoots a salvo of 25 bullets\n   Very long reload time\n   Massively increased build cost\n   Range increased to 30\n\nFuse\n   No longer hits air\n   Range increased to 14\n   Applies unmoving for 1 second\n   Doubled reload time\n   \nRipple\n   Shoots 20 shells at a time\n   Very long reload\n   Shells do more damage\n   Massively increased build cost\n\nSpectre\n   Knowckback increased to 10\n\nParallax\n   Applies Unmoving \n   Range increased to 35\n   Build cost increased 3x\n\nSegment\n   Range increased to 37.5\n\nTsunami\n   30° spread\n   Shoots more\n\nMeltdown \n   no longer hit air\n\nForeshadow \n   2.7x longer reload\n\nSwarmer\n   ***Hits air only***\n   Build cost increased 6x\n   Range greatly increased to 50\n   Damage rework:\n      Surge Alloy\n        70 +\n        10x2 lightning \n      Blast Compund\n        90 +\n        10 area (3.5 aoe)\n      Pyratite\n        90\n\nCyclone \n   ***Hits air only***\n   Build cost increased 4x\n   Range increase to 30\n   Damage rework:\n      Metaglass\n         6\n         45 area (3.1 aoe)\n         4 x 110 frag bullets\n      Plastanium\n        8\n        37 area (5 aoe)\n        8 x 110 frag bullets\n      Surge Alloy\n        13\n        75 area (4.7 aoe)\n        2 x 55 lightning\n      Blast Compound\n        8\n        110 area (7.5 aoe)\n\n\n\nFlare\n   Homing bullets\n   Rotates faster\n\nHorizon\n   Now a hit & run carpet bomber\n   Health 100\n   Speed 20\n   Drops 8 bombs rapidly\n   5 second reload time\n   Bomb AOE increased to 4\n\nZenith\n   Now an air superiority fighter\n   Health 400\n   Speed 26\n   Missiles can only damage air units\n   Ignores shields\n   Damage 45 +15 area (3.1 aoe)\n   Range ~30\n\nAntumbra\n   Health 5000\n   Now has 3x3 payload capacity\n   Has an extra AA missile\n      Damage 150\n      Reload 4s\n      Extended range\n\nEclipse \n   Health 66000\n\n\n\nMono\n   Increased HP\n   Extremely slow self-healing\n\nPoly\n   Now a multi-role AA fighter\n   Now heals blocks using a laser\n   Missiles can only damage air units \n   Ignores shields\n   Damage 40\n\nMega\n   Health 1200\n   Armor 0\n   Speed 16\n   Healing factor of bullets reduced\n\nQuad\n   Now a hit & run strategic bomber\n   Health 1000\n   Damage 1000\n   Reload 5s\n   Speed 20\n   No longer has payload capacity\n\nOct\n   Health 12000\n   Shield 40000\n   Shield regen 500\n   Item capacity 1000\n\n\n\nMace\n   Speed 5.25\n   Cannot hit air\n   20 dmg\n   700 HP\n\nFortress\n   Health 500\n   Range 32\n   Has a new long range AA missile\n      Damage 150\n      Reload 4s\n\nScepter\n   Health 2000\n   Range 31\n   Big guns only hit ground\n      Damage 100\n      Lightning damage 5\n   Little guns only hit air\n      Damage 25\n      Homing\n\nReign\n   Heath 75000\n   Range 31\n   Cannot hit air\n\n\n\nNova\n   Now heals units using lasers\n\nPulsar\n   Health 640\n   No mining\n\nQuasar\n   Cannot hit air\n   Shield size increase\n   No mining\n   \nVela\n   Cannot hit air\n   Health 3000\n   Damage 200/s\n\nCorvus\n   Cannot hit air\n   Health 10000\n   Range 61\n   Damage 2000\n\n\n\nCrawler\n   Damage 200\n   Cannot hit air\n   Build time increased to 15s\n\nAtrax\n   400 HP\n   Has slow firing AA flak cannon\n      Damage 40 area(3.1aoe)\n      Reload 3s\n\nSpiroct\n   Cannot hit air\n   Speed 5\n   Health 2000\n   Sap lasers:\n     no longer life steal\n     -90% building dmg\n     slow the Sproct when fired\n\nArkyid\n   Cannot hit air\n   Speed 5\n   Health 8000\n   Main cannon damage 5\n   Sap lasers:\n     no longer life steal\n     -90% building dmg\n     slow the Arkyid when fired\n\nToxopid\n   Cannot hit air\n   Speed 5\n   Fuse-like cannon damage 500\n\n\n\nSei\n   Health 3000\n\nOmura\n   Health 15000\n   Damage 1250\n   Speed 2.25\n   Now spawns Horizons\n\n\n\nRetusa\n   Now has small laser\n\nAegires\n   Health 1200\n\nNavanax\n   Health 60000\n   Laser beams no longer hit air\n   Got a frontal shield like the Tecta"
   },
   {
     "repo": "bluethecube/overblocksmod",
@@ -6132,6 +5904,18 @@
     "description": "A little mod with a few minor additions.\n\nI made this mod because I missed the Serpulo-style bridges on Erekir, and my wife missed the item junctions.  It also includes an alternate incinerator that is more expensive to make but free to use, as we both would have preferred the incinerator have no upkeep cost once you build it.\n\nThe intention is that nothing should be game-breaking, but just be minor little quality-of-life additions."
   },
   {
+    "repo": "blackdeluxecat/mitour-lib",
+    "internalName": "mitour-lib",
+    "name": "MI Tour Lib",
+    "author": "BlackDeluxeCat",
+    "lastUpdated": "2023-02-11T12:50:47Z",
+    "stars": 1,
+    "minGameVersion": "141",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "MI2's Mindustry Lib Mod. Repo: BlackDeluxeCat/MiTour-Lib"
+  },
+  {
     "repo": "agzam4/mindustry-units-mod",
     "internalName": "agzam4mod-units",
     "name": "Agzam's Units Mod",
@@ -6168,6 +5952,18 @@
     "description": "A mindustry mod with my strange thinkings in it."
   },
   {
+    "repo": "lehanchic/factory-units",
+    "internalName": "factory units",
+    "name": "Factory units",
+    "author": "Lehanchic25 ",
+    "lastUpdated": "2023-03-20T15:23:27Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "In this mod units will look like factory"
+  },
+  {
     "repo": "plsubfarm61/restaurant-tycoon",
     "internalName": "restaurant-tycoon",
     "name": "Restaurant Tycoon 1.0 [Alpha]",
@@ -6178,18 +5974,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Mod need MULTICRAFTERLIB to work. Discord link - https://discord.gg/7SSAupjxeD"
-  },
-  {
-    "repo": "vaporspace2/endrium-2",
-    "internalName": "endrium mod 2",
-    "name": "EndriumMod 2",
-    "author": "tommyboo(antumbra)#4708 & Aegires",
-    "lastUpdated": "2023-03-27T18:38:31Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Vanilla extension mod, made to have a vanilla like feel, adds items past what would normally be endgame and even QOL blocks! Discord server: https://discord.gg/hGqEVwsg"
   },
   {
     "repo": "siede2010/modexhiber",
@@ -6238,6 +6022,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "random content i think of once in a while"
+  },
+  {
+    "repo": "rorivus/castritium",
+    "internalName": "castritium",
+    "name": "Castritium",
+    "author": "Chat-bot",
+    "lastUpdated": "2023-05-08T14:38:52Z",
+    "stars": 1,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Test mod"
   },
   {
     "repo": "balam314/flarogus-texture",
@@ -6444,16 +6240,16 @@
     "description": "Translated by BOT \nVersion: 1.2.0 \n\nNumber Version: \n[#A0FF1B]Update[].[#00DBFF]Release[].[#FFA047]Development. \n\nI just hope this mod is useful, sorry if I'm bad at development."
   },
   {
-    "repo": "sasha-726/item-generator-serpulo",
-    "internalName": "item-generator-serpulo",
-    "name": "Item Generator (Serpulo)",
-    "author": "Toxopid",
-    "lastUpdated": "2023-11-12T08:30:19Z",
+    "repo": "spiral2404/spiral-mod",
+    "internalName": "spiral-mod",
+    "name": "Spiral2404 mod",
+    "author": "Spiral2404",
+    "lastUpdated": "2023-11-04T19:29:12Z",
     "stars": 1,
-    "minGameVersion": "145.1",
+    "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
-    "description": "This is too cheating mod, I do not recommend using it in a career"
+    "description": "mi primer mod, hecho en la plantilla de mods, está en version beta, tiene funciones muy rotas."
   },
   {
     "repo": "uadustry/sporemod",
@@ -6756,6 +6552,30 @@
     "description": ""
   },
   {
+    "repo": "tripletoxic/math-stuff",
+    "internalName": "ms",
+    "name": "Math-stuff",
+    "author": "Triple-Toxic",
+    "lastUpdated": "2024-06-14T14:23:37Z",
+    "stars": 1,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "More math stuff"
+  },
+  {
+    "repo": "fallendraggon/fdschemepack",
+    "internalName": "fdschemepack",
+    "name": "FD Scheme Pack",
+    "author": "FallenDragon",
+    "lastUpdated": "2024-06-20T10:13:57Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Очередной никому ненужный схемпак."
+  },
+  {
     "repo": "6-bennyli-9/original-beta-version",
     "internalName": "original-beta-version",
     "name": "Original Beta Version",
@@ -6960,16 +6780,16 @@
     "description": "A variety of defensive and offensive structures and units. (!) Not balanced (!), intended for sandbox use ;)"
   },
   {
-    "repo": "moganda12/yoyleland",
-    "internalName": "yoylemod",
-    "name": "Yoyleland",
-    "author": "skyTheDragon",
-    "lastUpdated": "2024-09-22T18:27:53Z",
+    "repo": "androiddevelopment675/mini_ship-mod",
+    "internalName": "tes-mod",
+    "name": "tes-mod: A New Era",
+    "author": "[scarlet]king, [cyan]AndroidDev, [lime]Jo \n[gray]Stalgrad, [pink]ModMaster ",
+    "lastUpdated": "2024-09-18T01:58:01Z",
     "stars": 1,
-    "minGameVersion": "146",
+    "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": false,
-    "description": "TO skyTheDragon,\nJust copy from the README.md.\nFrom: qwertyuiop265000"
+    "description": "\nWARNING: Mod is currently under development, some features might be unstable.  \nbut it's still exciting! \n\n----------------------------- "
   },
   {
     "repo": "andromeda-galaxy29/unique-gas-sprites",
@@ -7032,18 +6852,6 @@
     "description": "An EXTREMELY stupid mod, everything becomes without logic and incredibly dum."
   },
   {
-    "repo": "westycj/jarate-mod",
-    "internalName": "jarate mod",
-    "name": "Jarate-Mod",
-    "author": "[red]Westycj[]",
-    "lastUpdated": "2024-11-16T08:00:49Z",
-    "stars": 1,
-    "minGameVersion": "145",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A light mod with a funny name and a focus on extending Surge-alloy technology, adds a few unique turrets and production buildings with (what I think are) some interesting mechanics.\r\n\r\nMade for Serpulo, the mod has integration for/works well with blocks like the tsunami and wave, so try and find some usecases, turret combos, and whatnot.\r\n\r\nReports on bugs, balancing issues, or simply suggestions are very much welcome."
-  },
-  {
     "repo": "braxeton/heavy-rain",
     "internalName": "heavy-rain",
     "name": "Heavy Rain",
@@ -7092,18 +6900,6 @@
     "description": "No description."
   },
   {
-    "repo": "cameroonets/cameroonets-mod",
-    "internalName": "cameroonets mod",
-    "name": "Cameroonets-Mod",
-    "author": "Cameroonets, leonkiller, KARkar",
-    "lastUpdated": "2024-12-19T15:32:57Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Добавляет множество ресурсов, юнитов, построек для игры в  Tower Defense, PvP, Survival"
-  },
-  {
     "repo": "ochpochmakso/goraputaro",
     "internalName": "goraputaro",
     "name": "Goraputaro",
@@ -7150,18 +6946,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Remake remake remake"
-  },
-  {
-    "repo": "belogvardeec-belich/bitvastran",
-    "internalName": "bitvastran",
-    "name": "Битва стран",
-    "author": "Belogvardeec",
-    "lastUpdated": "2025-01-10T17:26:17Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Эксклюзивный мод для игры в битвы стран. Перерабатывает крафты юнитов."
   },
   {
     "repo": "eight-squared/iron-clouds",
@@ -7234,6 +7018,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "pls turn on the mod to know more about it"
+  },
+  {
+    "repo": "mrybs/dasuas",
+    "internalName": "dasuas",
+    "name": "Dasuas",
+    "author": "mrybs - maintainer, teamlead, coder and pixelartist\n001kpp - pixelartist and sound director\nLpSts325 - pixelartist\nproneslow - pixelartist",
+    "lastUpdated": "2025-02-24T18:40:30Z",
+    "stars": 1,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Dausas Project mod"
   },
   {
     "repo": "matbex/simpleschemepack",
@@ -7356,6 +7152,18 @@
     "description": "WHERE IS OMNIMAN"
   },
   {
+    "repo": "user3253/c-militarymod",
+    "internalName": "military",
+    "name": "C-Military",
+    "author": "3253",
+    "lastUpdated": "2025-04-03T13:11:13Z",
+    "stars": 1,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Gradually updating."
+  },
+  {
     "repo": "poiu-y/mindustry-ich-mod",
     "internalName": "ich-mod",
     "name": "Ich",
@@ -7414,18 +7222,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Somewhat advanced endgame technologies. It is recommended to disable vertical synchronization."
-  },
-  {
-    "repo": "decar4ct/advancedwaterextractor",
-    "internalName": "awex",
-    "name": "Advanced Water Extractor",
-    "author": "main dev: thruster\n\ncontributors: nahan7, twcash.",
-    "lastUpdated": "2025-04-22T13:20:34Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "add various contents as extension to the vanilla mindustry. ignore the silly name"
   },
   {
     "repo": "cardillan/launchpads",
@@ -7548,18 +7344,6 @@
     "description": "Adds ridiculously oversized factories, walls and more, as well as maps to unlock them.\nStill in beta."
   },
   {
-    "repo": "penguip/randomdustry",
-    "internalName": "randomdustry",
-    "name": "Randomdustry",
-    "author": "penguip",
-    "lastUpdated": "2023-03-18T23:16:56Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "The dux ex machina for breaking the game."
-  },
-  {
     "repo": "delta-airlines-ig/superhelplinedustry",
     "internalName": "superhelplinedustry",
     "name": "SuperHelplinedustry",
@@ -7570,18 +7354,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "the game is now slightly easier but more complicated but also easier but maybe more complicated but its easier but more complicated"
-  },
-  {
-    "repo": "apszoldat/mindustry-ultra-pixelate",
-    "internalName": "ultra-pixelate",
-    "name": "Ultra Pixelate",
-    "author": "ApsZoldat",
-    "lastUpdated": "2023-04-23T18:28:36Z",
-    "stars": 0,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mod allowing to modify pixelate filter scale (when you downloaded a bad iron ore mod and don't want your eyes to bleed)"
   },
   {
     "repo": "kiddous/test-mod",
@@ -7692,18 +7464,6 @@
     "description": "Modification based on MSGO"
   },
   {
-    "repo": "manuwar73/remodeled-industry-java",
-    "internalName": "remodeled-ind",
-    "name": "Remodeled Industry",
-    "author": "ManuWar73",
-    "lastUpdated": "2023-06-18T08:33:21Z",
-    "stars": 0,
-    "minGameVersion": "144.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mod centered in something with no center"
-  },
-  {
     "repo": "unionofsovietsocialistrepublics/testmod",
     "internalName": "ohioalabama",
     "name": "Space testing program",
@@ -7798,6 +7558,30 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Allows to build Serpulo core units in air factory"
+  },
+  {
+    "repo": "992040/mindustry_better_mindustry",
+    "internalName": "better mindustry 7.0.4",
+    "name": "mindustry_better_mindustry",
+    "author": "992040",
+    "lastUpdated": "2023-07-22T14:44:10Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Improves Mindustry"
+  },
+  {
+    "repo": "ilya034/autoboost",
+    "internalName": "autoboost",
+    "name": "Auto Boost",
+    "author": "ilya034",
+    "lastUpdated": "2023-08-06T10:04:01Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "auto boost"
   },
   {
     "repo": "rfr-king/modp",
@@ -7920,6 +7704,30 @@
     "description": "Oh god."
   },
   {
+    "repo": "piggychu620/mindustrysatisfactoryintegration",
+    "internalName": "si620",
+    "name": "Realistic Materials/Resources/Alloys/Products/Compounds",
+    "author": "PiggyChu620",
+    "lastUpdated": "2023-10-25T16:26:50Z",
+    "stars": 0,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Collection of many overcomplicated realistic materials/resources/alloys/products/compounds"
+  },
+  {
+    "repo": "happycrazy198/silicon-mod",
+    "internalName": "silicon-mod",
+    "name": "Silicon Mod",
+    "author": "happycrazy197",
+    "lastUpdated": "2023-10-27T08:44:12Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A simple mod. adds sources adds silicon stuff and more!"
+  },
+  {
     "repo": "eliminmax/bw-switch-mindustry-mod",
     "internalName": "bw-switch",
     "name": "B/W Switch",
@@ -7942,6 +7750,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Changes some sprites for the resprites used in Mindustry Frontiers"
+  },
+  {
+    "repo": "mythril382/solar-pan",
+    "internalName": "solar-pan",
+    "name": "Solar Pan",
+    "author": "Mythril",
+    "lastUpdated": "2023-11-04T14:31:25Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "No description provided."
   },
   {
     "repo": "lord-gravitywaves/infinite-resources",
@@ -8064,18 +7884,6 @@
     "description": "Adds a directional router to Serpulo."
   },
   {
-    "repo": "bluetechnocat/treetest",
-    "internalName": "tree-test",
-    "name": "Tree Test",
-    "author": "BlueTechno",
-    "lastUpdated": "2024-01-23T13:31:55Z",
-    "stars": 0,
-    "minGameVersion": "143",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Just testing some tree shenanigans"
-  },
-  {
     "repo": "xenoforce/easy-resources",
     "internalName": "easy-resources-mod",
     "name": "Easy Resources",
@@ -8136,18 +7944,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "spmlk/smmmix",
-    "internalName": "smmmix",
-    "name": "spiltmilk's Mapping Mix",
-    "author": "spiltmilk",
-    "lastUpdated": "2024-02-23T02:10:52Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A (soon to be) collection of blocks, units, floors and walls tailor-made for use in maps. Mostly my maps."
-  },
-  {
     "repo": "low-life-modders/isen",
     "internalName": "isen.isenjavamod",
     "name": "Isen",
@@ -8158,18 +7954,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod aiming to add a more grind-y experience to the game"
-  },
-  {
-    "repo": "jirocab/nyfalis-music",
-    "internalName": "nyfalis-music",
-    "name": "Nyfalis Music",
-    "author": "RushieWashie",
-    "lastUpdated": "2024-03-05T08:42:07Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Provides Music for the Nyfalis planet mod! can be used without nyfalis also!"
   },
   {
     "repo": "iratzeymezeri/pre-oxide-ccc",
@@ -8266,18 +8050,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Experimental rebalance of T1 and T2 ground units by swapping weapons and abilities of the Nova and Pulsar and tweaking their stats."
-  },
-  {
-    "repo": "illa4257/mindustrysyncproject",
-    "internalName": "mindustry-sync-project",
-    "name": "Mindustry Sync Project",
-    "author": "illa4257",
-    "lastUpdated": "2024-04-23T04:54:34Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Java Mod for synchronization (for now only schematics)."
   },
   {
     "repo": "catana791/lategame-launchpads",
@@ -8580,18 +8352,6 @@
     "description": "New armored variants of vanilla distribution blocks.\n\nNew armored variants of vanilla liquid distribution blocks.\n\n1 new drill.\n\n1 new slag extractor\n\n5 new faster conveyor types.\n\n1 new liquid conduits type.\n\n3 new faster unloaders.\n\n2 new larger storage containers.\n\n3 new pumps.\n\n2 new larger liquid tanks.\n\n2 new batteries.\n\n1 new reactor\n\nNew ammo for foreshadow.\n\n1 new wall that combines the abilities of the Surge Wall, Plastanium Wall and Phase Wall."
   },
   {
-    "repo": "vincenzotheduck/omega-additions",
-    "internalName": "omega-adds",
-    "name": "Omega Additions",
-    "author": "VincenzoTheDuck",
-    "lastUpdated": "2024-08-10T20:50:21Z",
-    "stars": 0,
-    "minGameVersion": "136.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This one will be be good lmao"
-  },
-  {
     "repo": "ravirego766/tankero",
     "internalName": "tankero",
     "name": "Tankero",
@@ -8724,6 +8484,18 @@
     "description": "dum"
   },
   {
+    "repo": "panilyam/emerald-mod",
+    "internalName": "emerald-mod",
+    "name": "iluszenka",
+    "author": "iluszenka",
+    "lastUpdated": "2024-09-21T11:33:21Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This mod adds emerald things"
+  },
+  {
     "repo": "dioritic/ethel",
     "internalName": "dioritic-ethel",
     "name": "Ethel",
@@ -8820,6 +8592,18 @@
     "description": "for the love of god don't download this"
   },
   {
+    "repo": "urbokie/tankdustry",
+    "internalName": "tankdustry",
+    "name": "TankDustry",
+    "author": "Urbokie",
+    "lastUpdated": "2024-11-08T23:55:58Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Real tank in Mindustry???"
+  },
+  {
     "repo": "footfacelord/drill-speed-mod",
     "internalName": "cheat-drill-boost",
     "name": "Cheat Drill Boost",
@@ -8842,6 +8626,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A extremely ambitious project on attempting to recreate terraria within the limit of mindustry(Major RAM usage warning)"
+  },
+  {
+    "repo": "justtheblazinggear/absolutemyriad",
+    "internalName": "am",
+    "name": "Absolute Myriad",
+    "author": "JustTBG",
+    "lastUpdated": "2024-11-13T14:34:34Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Shit is raw and buggy don't play it"
   },
   {
     "repo": "wdfeer/energyze",
@@ -8880,6 +8676,18 @@
     "description": "更多的游戏内容"
   },
   {
+    "repo": "pemain2197/and-bfwe",
+    "internalName": "and_bfwe",
+    "name": "A New Dawn: Bred For War Edition",
+    "author": "Pemain2197",
+    "lastUpdated": "2024-11-27T14:16:21Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A custom Mindustry mod music from on album. And it's might be not recommended for low-end devices, because this mod is quite large enough. Check on Repo for more information"
+  },
+  {
     "repo": "chaoticans-mindustry-modding-team/smoa-revived",
     "internalName": "smoa-r",
     "name": "SMoke of Anarchy Revived ",
@@ -8904,18 +8712,6 @@
     "description": "A music mod for the Extirpation Beta. UNIFNISHED!"
   },
   {
-    "repo": "nullotte/ornamental",
-    "internalName": "ornamental",
-    "name": "Ornamental",
-    "author": "stillwaterkay",
-    "lastUpdated": "2024-12-02T13:13:27Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds engine sound effects to flying and hovering units"
-  },
-  {
     "repo": "cyanide863/stellar-library",
     "internalName": "",
     "name": "Stellar lib",
@@ -8926,6 +8722,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "."
+  },
+  {
+    "repo": "leyn-pl/notitansmoke",
+    "internalName": "notitansmoke",
+    "name": "No Titan Smoke",
+    "author": "LEYN1092",
+    "lastUpdated": "2024-12-13T11:45:54Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Removes Titan's smoke, leaving only clean explosion effect."
   },
   {
     "repo": "edward-bill/inf-processor",
@@ -8952,28 +8760,16 @@
     "description": "Semi-realistic iron-based mod. Modifies serpulo progression and vanilla balance."
   },
   {
-    "repo": "isekairid/strategia_expanded",
-    "internalName": "strategia-expanded",
-    "name": "Strategia Expanded",
-    "author": "DarkGroundFire",
-    "lastUpdated": "2025-01-04T18:09:34Z",
+    "repo": "ehub-gpp/terraria-sand-gun",
+    "internalName": "terraria-sand-gun",
+    "name": "Sand Gun",
+    "author": "SakuraLin",
+    "lastUpdated": "2025-01-01T03:21:52Z",
     "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod template."
-  },
-  {
-    "repo": "belogvardeec-belich/shrekmod",
-    "internalName": "shrek",
-    "name": "Shrek",
-    "author": "Belogvardeec",
-    "lastUpdated": "2025-01-07T12:08:18Z",
-    "stars": 0,
-    "minGameVersion": "136",
+    "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
-    "description": "New shrek unit"
+    "description": "The sandgun in <Terraria>"
   },
   {
     "repo": "calebmonkey/mindustrytaller",
@@ -9108,6 +8904,18 @@
     "description": "一个自娱自乐的模组."
   },
   {
+    "repo": "stabu-dev/ss",
+    "internalName": "ss",
+    "name": "Spins & Stress",
+    "author": "stabu_",
+    "lastUpdated": "2025-02-13T14:45:35Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Funny mod about spins and stress"
+  },
+  {
     "repo": "inchezgg/kyanitesparkmod",
     "internalName": "kyanitespark",
     "name": "Kyanite Spark",
@@ -9190,6 +8998,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Draws foreshadows shoot range"
+  },
+  {
+    "repo": "pseudocoffee/cheapert4t5",
+    "internalName": "cheap",
+    "name": "Cheaper T4 and T5 units.",
+    "author": "Pseudo Coffee",
+    "lastUpdated": "2025-03-22T14:00:57Z",
+    "stars": 0,
+    "minGameVersion": "143",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Exponential and Tetrative Reconstructors require about 1/3 resources to build units and build about 3x faster.\nOriginal reconstructors will still be in game and functional."
   },
   {
     "repo": "oleksiy1409liut/badtech",
@@ -9396,18 +9216,6 @@
     "description": "Music & SFX Pack"
   },
   {
-    "repo": "koctz34/mindustrymodbyai",
-    "internalName": "quantum industries (chatgpt)",
-    "name": "MindustryModByAi",
-    "author": "ChatGPT, Sprites by FLUX.1 [schnell]",
-    "lastUpdated": "2025-04-22T20:52:03Z",
-    "stars": 0,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds a faction of the Quantum Corporation with unstable but powerful quantum energy and new technologies."
-  },
-  {
     "repo": "cardillan/mlogassertions",
     "internalName": "mlog-assertions-8",
     "name": "Mlog Assertions (v8)",
@@ -9466,18 +9274,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Demo of Logic Processor"
-  },
-  {
-    "repo": "lymefyre/varietal-void",
-    "internalName": "variatal void",
-    "name": "Variatal Void",
-    "author": "Incen",
-    "lastUpdated": "2025-04-27T16:16:26Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds a variety of new content. Currently unfinished, expect bugs and report them to @incendiarytoaster on discord."
   },
   {
     "repo": "smolkeys/new-console-hardline",
