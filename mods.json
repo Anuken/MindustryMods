@@ -112,7 +112,7 @@
     "internalName": "asthosus",
     "name": "Asthosus",
     "author": "Catser",
-    "lastUpdated": "2025-05-12T18:58:34Z",
+    "lastUpdated": "2025-05-13T10:08:52Z",
     "stars": 126,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -912,6 +912,18 @@
     "description": "Мой первый мод, добавляющий новый контент и свою планету с кампанией (не рекомендуется ее сейчас проходить, потому что в настоящий момент она полностью поломана изза обновлений). \n  \n\nВерсия мода: 0.7.2\n\n\nПомогли в создании мода: Obsidian (сделал спрайты почти всех фабрик), \nTopyriot (сделал спрайты баз турелей).\n\n\nTelegram: @Thisispzdcnh"
   },
   {
+    "repo": "eb-wilson/helium",
+    "internalName": "he",
+    "name": "Helium",
+    "author": "EBwilson",
+    "lastUpdated": "2025-05-02T14:55:56Z",
+    "stars": 20,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod provide optimized ui"
+  },
+  {
     "repo": "yaddrx2/yr2-logic-debugger",
     "internalName": "yr2-logic-debugger",
     "name": "yr2 Logic Debugger",
@@ -946,18 +958,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "No description provided."
-  },
-  {
-    "repo": "eb-wilson/helium",
-    "internalName": "he",
-    "name": "Helium",
-    "author": "EBwilson",
-    "lastUpdated": "2025-05-02T14:55:56Z",
-    "stars": 19,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod provide optimized ui"
   },
   {
     "repo": "sporrus/randommindustry",
@@ -1756,7 +1756,7 @@
     "internalName": "sueno",
     "name": "Sueno",
     "author": "// TODO authors",
-    "lastUpdated": "2025-04-23T10:59:36Z",
+    "lastUpdated": "2025-05-13T11:58:39Z",
     "stars": 11,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2916,18 +2916,6 @@
     "description": "Better visuals? Not only that!"
   },
   {
-    "repo": "xpdustry/claj-v2",
-    "internalName": "claj",
-    "name": "CLaJ",
-    "author": "ZetaMap, xzxADIxzx",
-    "lastUpdated": "2025-05-10T12:13:50Z",
-    "stars": 6,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allow you to play with your friends just by creating a room, copy the link and send it to your friends.\n\nPlease check this link for Mindustry v8 compatibility: https://github.com/xpdustry/claj#mindustry-v8-note"
-  },
-  {
     "repo": "mrdoes/spore-potential",
     "internalName": "spor",
     "name": "Spore Potential",
@@ -2962,6 +2950,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
+  },
+  {
+    "repo": "xpdustry/claj-v2",
+    "internalName": "claj",
+    "name": "CLaJ",
+    "author": "ZetaMap, xzxADIxzx",
+    "lastUpdated": "2025-05-13T10:07:56Z",
+    "stars": 6,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allow you to play with your friends just by creating a room, copy the link and send it to your friends.\n\nPlease check this link for Mindustry v8 compatibility: https://github.com/xpdustry/claj#mindustry-v8-note"
   },
   {
     "repo": "yaroslav242/yfjs",
@@ -7788,18 +7788,6 @@
     "description": "add various contents as extension to the vanilla mindustry. ignore the silly name"
   },
   {
-    "repo": "xpdustry/kotlin-runtime",
-    "internalName": "kotlin-runtime",
-    "name": "KotlinRuntime",
-    "author": "Xpdustry",
-    "lastUpdated": "2025-04-25T14:03:21Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A companion mod for Kotlin based mods and plugins."
-  },
-  {
     "repo": "kang12341/ericweimod",
     "internalName": "埃里克卫星",
     "name": "埃里克卫星",
@@ -7924,12 +7912,24 @@
     "internalName": "iron-clouds",
     "name": "Iron clouds",
     "author": "Eight Squared",
-    "lastUpdated": "2025-05-13T09:59:57Z",
+    "lastUpdated": "2025-05-13T10:17:53Z",
     "stars": 1,
     "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": false,
     "description": "UNFINISHED 20% done Adds new campaign on a molten planet. Beware! The mod adds a lot of sprite changes to the vanilla content!"
+  },
+  {
+    "repo": "xpdustry/kotlin-runtime",
+    "internalName": "kotlin-runtime",
+    "name": "KotlinRuntime",
+    "author": "Xpdustry",
+    "lastUpdated": "2025-05-13T11:58:03Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
     "repo": "exxleo/exoterusmod",
@@ -10068,18 +10068,6 @@
     "description": "Adds a variety of new content. Currently unfinished, expect bugs and report them to @incendiarytoaster on discord."
   },
   {
-    "repo": "swiftcris/mindustry",
-    "internalName": "test-mindustry-java-nod",
-    "name": "My great mod",
-    "author": "rndunel",
-    "lastUpdated": "2025-05-11T10:11:50Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "No description provided."
-  },
-  {
     "repo": "halopolicj/ppm",
     "internalName": "ppm",
     "name": "ppm",
@@ -10114,5 +10102,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "更多的游戏内容"
+  },
+  {
+    "repo": "swiftcris/mindustry",
+    "internalName": "test-mindustry-java-nod",
+    "name": "My great mod",
+    "author": "rndunel",
+    "lastUpdated": "2025-05-13T11:46:46Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "No description provided."
   }
 ]
