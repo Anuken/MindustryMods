@@ -672,18 +672,6 @@
     "description": "A mod provides a variety of tools for modding.\n\n-----------------\nVersion 1.5.6\n## Highlight\n- Added some new features.\n- Fixed some bugs.\n-----------------\n\n## ShowUIList\n\n- Display `icon`, `tex`, `styles`, `colors`, `interps`\\\n!(./screenshots/UIList.png)\n\n## Tester\n\n!(./screenshots/tester.png)\n\n- Provide `JS` editor `Tester`\n- Shortcuts\n- Press `Ctrl`+`Shift`+`Enter` to `execute` code immediately\n- Press `Ctrl`+`Shift`+`↑/↓` to switch `history` records\n- Press `Ctrl`+`Shift`+`D` to `view` detailed information\n- Press `Alt`+`V` to preview `Texture`\n- Built-in `unsafe`, `lookup`\n- Built-in `IntFunc` class (abbreviated as `$`)\n- `$.xxx` can represent primitive data types (e.g., `$.void` represents `Void.TYPE`;`$.J` represents long.class)\n- `$p` represents `Packages`\n- Code: [JSFunc](https://github.com/i-hope1/mod-tools/src/modtools/utils/JSFunc.java)\n- Long press on code in the favorites to add to startup items\\\n!(./screenshots/startup.png)\n- Quick switch history\\\n![Screenshot 2024-03-10 14-45-37](https://github.com/I-hope1/mod-tools/assets/78016895/4918af35-19af-4fab-b961-70bdc8679fe8)\n- `$.item`, `$.liquid`, `$.unit` and so on.\n\n## UnitSpawn\n\n- Multiple team selection\n- Support for fixed point spawning\n- Display `name` and `localizedName`\n- Rightclick the name Label to copy save as JS var.\n\n## Selection\n\n- Selector\n- Supports `Tile`, `Building`, `Bullet`, `Unit`\n- Kill\n- Set Item/Liquid/Team\n- Press `Ctrl`+`Alt` to fix Focus Window\n\n## ReviewElement\n\n- Display element list, double-click to copy element to js variable\n- `Ctrl`+`Shift`+`C` to Inspect Element\n- `Ctrl`+`Alt`+`D` to display bounds of Element\n- Select untouchable elements\n- Mobile: Filter current element with two fingers\n- PC: Press `F` to filter current element\n- Functions shortcuts for Element\n- `i`: display details (open ShowInfoWindow)\\\n- `p`(for Image):  show `DrawablePicker`\n- `del`: (`shift` to ignore confirmation), delete element\n- `<` / `>`: collapse Group\n- `f`: fix floating Info column\n- `r`: invoke element's method\n\n- ![reviewElement](./screenshots/review_element.png)\n\n# Frag\n\n- Double-click the blue part of Frag to minimize/restore Frag\n- In the minimized state, click the blue part, it will behave like a floating ball\n\n## Window\n\n- Press `Ctrl`+`Tab` to switch windows\n- Press `Shift`+`F4` to close current window\n- RClick the close button to move and scl window.\n\n## ShowInfoWindow\n\n- Show all fields, methods, constructors and nested classes of a obj.\n- Field can be modified.\n- Method can be Invoked(Special).\n- Constructor can be invoked to new a instance.\n\n## Others\n\n### Extensions\n- Http Redirect\n> Redirect some websites, such as: github\\\n> Configuration file: b0kkihope/http_redirect.properties"
   },
   {
-    "repo": "nullotte/dusted-lands",
-    "internalName": "dusted-lands",
-    "name": "Dusted Lands",
-    "author": "KayAyeAre",
-    "lastUpdated": "2024-11-12T08:42:32Z",
-    "stars": 26,
-    "minGameVersion": "140.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A small mod which adds powders to the game, along with some of turrets, units, and other content."
-  },
-  {
     "repo": "three-cold-planets/welcome-to-the-frostscape",
     "internalName": "",
     "name": "Welcome to the Frostscape",
@@ -694,6 +682,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A currently [red]indev[] colab mod with huge scope, being built one planet at a time.\n\nAims to add several cold planets with linked campaigns, along with mechanics that'll [accent]revolutionise[] the way you interact with the mod's different environments, while trying to stay enjoyable and even a lil silly at times.\n\n[darkgray]A voice lingers in the darkness, dancing around your ears. Will you join it?"
+  },
+  {
+    "repo": "nullotte/dusted-lands",
+    "internalName": "dusted-lands",
+    "name": "Dusted Lands",
+    "author": "KayAyeAre",
+    "lastUpdated": "2024-11-12T08:42:32Z",
+    "stars": 25,
+    "minGameVersion": "140.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A small mod which adds powders to the game, along with some of turrets, units, and other content."
   },
   {
     "repo": "unionofsovietsocialistrepublics/spore-biomechs",
@@ -804,18 +804,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "emanuelg-gaming/erekir-expansion",
-    "internalName": "erekir-expansion",
-    "name": "Erekir Expansion",
-    "author": "Emanuel G",
-    "lastUpdated": "2023-06-08T14:15:00Z",
-    "stars": 22,
-    "minGameVersion": "139",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod aimed to add content to the newly-added planet."
-  },
-  {
     "repo": "laohuajiofficial/freightfactory",
     "internalName": "ff",
     "name": "FreightFactory",
@@ -826,6 +814,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mod In Dev"
+  },
+  {
+    "repo": "emanuelg-gaming/erekir-expansion",
+    "internalName": "erekir-expansion",
+    "name": "Erekir Expansion",
+    "author": "Emanuel G",
+    "lastUpdated": "2023-06-08T14:15:00Z",
+    "stars": 21,
+    "minGameVersion": "139",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod aimed to add content to the newly-added planet."
   },
   {
     "repo": "eyeofdarkness/advance-lighting",
@@ -1392,18 +1392,6 @@
     "description": "Collection of joke blocks"
   },
   {
-    "repo": "eclipse-04/avkott",
-    "internalName": "avkott",
-    "name": "Avkott",
-    "author": "Eclipse & Liplum",
-    "lastUpdated": "2022-12-03T23:52:29Z",
-    "stars": 13,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mindustry Erekir mod moment"
-  },
-  {
     "repo": "seuearth/factroundustry",
     "internalName": "factroundustry",
     "name": "Factroundustry",
@@ -1510,6 +1498,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "We plan to add three new planets into the game, with two new tech trees. \n(actually might add much more, but one step at a time I guess)\n\nA Planet Devestated by time. Tronoe P07 was never the planet the we expected to find. \nUnder all the rubble, was an emmense cavern that had spanded through nearly the whole planet.\nWho knows what we'll find down here.\n\nYou have heard rumors... That on the dark, irradiated wasteland of Nevorix, there lie ancient technologies yet to be uncovered.\nThe only thing that stands in your way, is The New Order. A faction of mindless vessels cotrolled by the Hivemind, an amalgamation of assimilated minds.\nbring this powerful technology back from the planet, so that you may annihilate an ancient foe once and for all..."
+  },
+  {
+    "repo": "eclipse-04/avkott",
+    "internalName": "avkott",
+    "name": "Avkott",
+    "author": "Eclipse & Liplum",
+    "lastUpdated": "2022-12-03T23:52:29Z",
+    "stars": 12,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mindustry Erekir mod moment"
   },
   {
     "repo": "r-omnom/z.p.g.m._mod",
