@@ -984,18 +984,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "sporrus/randommindustry",
-    "internalName": "random-mindustry",
-    "name": "Random Mindustry",
-    "author": "sporrus",
-    "lastUpdated": "2025-05-04T01:56:11Z",
-    "stars": 19,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Randomizes almost everything!\nJoin our discord! https://discord.gg/ztC6WJUxZK\n\nEPILEPSY WARNING"
-  },
-  {
     "repo": "evo04taser/super-cheat",
     "internalName": "super-cheat",
     "name": "Super Cheat",
@@ -1018,6 +1006,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds clientside logic debugging tools.\nRequires DeltaNedas/override-lib."
+  },
+  {
+    "repo": "sporrus/randommindustry",
+    "internalName": "random-mindustry",
+    "name": "Random Mindustry",
+    "author": "sporrus",
+    "lastUpdated": "2025-05-04T01:56:11Z",
+    "stars": 18,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Randomizes almost everything!\nJoin our discord! https://discord.gg/ztC6WJUxZK\n\nEPILEPSY WARNING"
   },
   {
     "repo": "uenhe/fire",
@@ -1492,7 +1492,7 @@
     "internalName": "resurrection",
     "name": "Cataclysm",
     "author": "[#0c6ed1]cewwi[] & [#BC5452FF]JJ[]",
-    "lastUpdated": "2025-05-30T04:41:47Z",
+    "lastUpdated": "2025-05-30T17:52:26Z",
     "stars": 13,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1912,7 +1912,7 @@
     "internalName": "mindustrinity",
     "name": "MindusTrinity",
     "author": "[#009BFF]Wolflab Studio",
-    "lastUpdated": "2025-05-30T13:43:21Z",
+    "lastUpdated": "2025-05-30T17:18:53Z",
     "stars": 10,
     "minGameVersion": "140.4",
     "hasScripts": true,
@@ -5104,7 +5104,7 @@
     "internalName": "ultimate-military-technic-mod",
     "name": "Ultimate Military Technic Mod",
     "author": "Volproil",
-    "lastUpdated": "2025-05-30T16:00:36Z",
+    "lastUpdated": "2025-05-30T17:54:54Z",
     "stars": 3,
     "minGameVersion": "142",
     "hasScripts": false,
@@ -6328,12 +6328,12 @@
     "internalName": "astralis",
     "name": "Astralis",
     "author": "NV-NX, Haznobrain",
-    "lastUpdated": "2025-05-30T15:12:11Z",
+    "lastUpdated": "2025-05-30T17:34:19Z",
     "stars": 2,
     "minGameVersion": "149",
     "hasScripts": false,
     "hasJava": false,
-    "description": "\nVERY EARLY ALPHA!\nAstralis is a mod focused on adding new content and using mapmaking to push players into new playstyles and strategies."
+    "description": "\nIN DEVELOPMENT, EXPECT BUGS AND UNFINISHED/UNPOLISHED CONTENT!\nAstralis is a mod focused on adding a brand new campaign on a plane harboring the same name"
   },
   {
     "repo": "teaeempire/gghv7",
@@ -10176,18 +10176,6 @@
     "description": "A simple UI for toggling the unlock status of tech tree nodes."
   },
   {
-    "repo": "arsen1ygd/hcheat",
-    "internalName": "hcheat",
-    "name": "HCheat",
-    "author": "Arsen1yGD",
-    "lastUpdated": "2025-05-30T05:35:48Z",
-    "stars": 0,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "H.\nЭтот мод - чит. Он может испортить интерес в игре.\nЧто он добавляет:\n- Быстрые, мощные и неразрушаемые источники.\n- Очень ёмкая батарейка.\n- ОП силовой узел\n- Быстрый (стаковый-)конвеер.\n- ОП Турель\n- ОП Стены\n\nThis mod is cheat. It can reduce interest in game.\nWhat it adds:\n- Fast, powerful and unbreakable sources.\n- Super duper mega battery.\n- OP power node.\n- Fast (stack-)conveyor\n- OP Turret\n- OP Walls\n"
-  },
-  {
     "repo": "durmiendo/extendlogs",
     "internalName": "extend-logs",
     "name": "ExtendLogs",
@@ -10198,5 +10186,29 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "No description provided."
+  },
+  {
+    "repo": "hamsterhat/minigundustry",
+    "internalName": "mgd",
+    "name": "MINIGUNDUSTRY",
+    "author": "alex",
+    "lastUpdated": "2025-05-30T15:59:32Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Мод для лучшего друга"
+  },
+  {
+    "repo": "arsen1ygd/hcheat",
+    "internalName": "hcheat",
+    "name": "HCheat",
+    "author": "Arsen1yGD",
+    "lastUpdated": "2025-05-30T16:57:35Z",
+    "stars": 0,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "H.\nЭтот мод - чит. Он может испортить интерес в игре.\nЧто он добавляет:\n- Быстрые, мощные и неразрушаемые источники.\n- Очень ёмкая батарейка.\n- ОП силовой узел\n- Быстрый (стаковый-)конвеер.\n- ОП Турель\n- ОП Стены\n\nThis mod is cheat. It can reduce interest in game.\nWhat it adds:\n- Fast, powerful and unbreakable sources.\n- Super duper mega battery.\n- OP power node.\n- Fast (stack-)conveyor\n- OP Turret\n- OP Walls\n"
   }
 ]
