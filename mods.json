@@ -328,7 +328,7 @@
     "internalName": "",
     "name": "BioTech",
     "author": "Jammuu",
-    "lastUpdated": "2025-05-30T03:21:06Z",
+    "lastUpdated": "2025-05-31T00:25:09Z",
     "stars": 61,
     "minGameVersion": "148",
     "hasScripts": false,
@@ -592,7 +592,7 @@
     "internalName": "sw",
     "name": "Steam Works",
     "author": "Liz Aurora",
-    "lastUpdated": "2025-05-30T00:29:30Z",
+    "lastUpdated": "2025-05-31T00:26:59Z",
     "stars": 32,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -672,18 +672,6 @@
     "description": "A mod provides a variety of tools for modding.\n\n-----------------\nVersion 1.5.6\n## Highlight\n- Added some new features.\n- Fixed some bugs.\n-----------------\n\n## ShowUIList\n\n- Display `icon`, `tex`, `styles`, `colors`, `interps`\\\n!(./screenshots/UIList.png)\n\n## Tester\n\n!(./screenshots/tester.png)\n\n- Provide `JS` editor `Tester`\n- Shortcuts\n- Press `Ctrl`+`Shift`+`Enter` to `execute` code immediately\n- Press `Ctrl`+`Shift`+`↑/↓` to switch `history` records\n- Press `Ctrl`+`Shift`+`D` to `view` detailed information\n- Press `Alt`+`V` to preview `Texture`\n- Built-in `unsafe`, `lookup`\n- Built-in `IntFunc` class (abbreviated as `$`)\n- `$.xxx` can represent primitive data types (e.g., `$.void` represents `Void.TYPE`;`$.J` represents long.class)\n- `$p` represents `Packages`\n- Code: [JSFunc](https://github.com/i-hope1/mod-tools/src/modtools/utils/JSFunc.java)\n- Long press on code in the favorites to add to startup items\\\n!(./screenshots/startup.png)\n- Quick switch history\\\n![Screenshot 2024-03-10 14-45-37](https://github.com/I-hope1/mod-tools/assets/78016895/4918af35-19af-4fab-b961-70bdc8679fe8)\n- `$.item`, `$.liquid`, `$.unit` and so on.\n\n## UnitSpawn\n\n- Multiple team selection\n- Support for fixed point spawning\n- Display `name` and `localizedName`\n- Rightclick the name Label to copy save as JS var.\n\n## Selection\n\n- Selector\n- Supports `Tile`, `Building`, `Bullet`, `Unit`\n- Kill\n- Set Item/Liquid/Team\n- Press `Ctrl`+`Alt` to fix Focus Window\n\n## ReviewElement\n\n- Display element list, double-click to copy element to js variable\n- `Ctrl`+`Shift`+`C` to Inspect Element\n- `Ctrl`+`Alt`+`D` to display bounds of Element\n- Select untouchable elements\n- Mobile: Filter current element with two fingers\n- PC: Press `F` to filter current element\n- Functions shortcuts for Element\n- `i`: display details (open ShowInfoWindow)\\\n- `p`(for Image):  show `DrawablePicker`\n- `del`: (`shift` to ignore confirmation), delete element\n- `<` / `>`: collapse Group\n- `f`: fix floating Info column\n- `r`: invoke element's method\n\n- ![reviewElement](./screenshots/review_element.png)\n\n# Frag\n\n- Double-click the blue part of Frag to minimize/restore Frag\n- In the minimized state, click the blue part, it will behave like a floating ball\n\n## Window\n\n- Press `Ctrl`+`Tab` to switch windows\n- Press `Shift`+`F4` to close current window\n- RClick the close button to move and scl window.\n\n## ShowInfoWindow\n\n- Show all fields, methods, constructors and nested classes of a obj.\n- Field can be modified.\n- Method can be Invoked(Special).\n- Constructor can be invoked to new a instance.\n\n## Others\n\n### Extensions\n- Http Redirect\n> Redirect some websites, such as: github\\\n> Configuration file: b0kkihope/http_redirect.properties"
   },
   {
-    "repo": "unionofsovietsocialistrepublics/spore-biomechs",
-    "internalName": "sporepod",
-    "name": "Spore Biomechs",
-    "author": "Water molecules",
-    "lastUpdated": "2025-04-08T11:45:19Z",
-    "stars": 26,
-    "minGameVersion": "140",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod inspired by Starcraft 2, add zerg to the game and a bunch of spore related thing.\nCredit:\nHydro for creating the sprites\nDryehm for existing\nHave a great day :D\nhHhhhHH"
-  },
-  {
     "repo": "three-cold-planets/welcome-to-the-frostscape",
     "internalName": "",
     "name": "Welcome to the Frostscape",
@@ -706,6 +694,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A small mod which adds powders to the game, along with some of turrets, units, and other content."
+  },
+  {
+    "repo": "unionofsovietsocialistrepublics/spore-biomechs",
+    "internalName": "sporepod",
+    "name": "Spore Biomechs",
+    "author": "Water molecules",
+    "lastUpdated": "2025-04-08T11:45:19Z",
+    "stars": 25,
+    "minGameVersion": "140",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod inspired by Starcraft 2, add zerg to the game and a bunch of spore related thing.\nCredit:\nHydro for creating the sprites\nDryehm for existing\nHave a great day :D\nhHhhhHH"
   },
   {
     "repo": "wmf-industries/expandedindustries",
@@ -816,18 +816,6 @@
     "description": "A Mod In Dev"
   },
   {
-    "repo": "koctolom/mindustry-overhaul",
-    "internalName": "mov",
-    "name": "Mindustry Overhaul",
-    "author": "KOSTOLOM and D&X",
-    "lastUpdated": "2025-05-24T19:23:36Z",
-    "stars": 22,
-    "minGameVersion": "147",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "RU: Очень опасный мод, который влияет на баланс и механику игры, добавляет новый контент в виде статус эффектов и оборонительных сооружений (башен, мин и т.д.).\n\nРекомендуется перед установкой сделать сохранение (чтобы откатиться назад), если в случае вам не понравится то, что может сделать данный мод. И лучше в самом деле не рискуйте лишний раз и поверьте на слово: МОД. МЕНЯЕТ. МНОГОЕ.\n\n\n\nENG: A very dangerous mod that affects the balance and mechanics of the game, adds new content in the form of status effects and defensive structures (towers, mines, etc.).\n\n\nPreferably before installing make a save (to roll back), if in case you do not like what this mod can do. And it is better to really do not take unnecessary risks and take my word for it: MOD. CHANGES. EVERYTHING.\n\nmov mod testers:\n- eve_light."
-  },
-  {
     "repo": "emanuelg-gaming/erekir-expansion",
     "internalName": "erekir-expansion",
     "name": "Erekir Expansion",
@@ -898,6 +886,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod provide optimized ui"
+  },
+  {
+    "repo": "koctolom/mindustry-overhaul",
+    "internalName": "mov",
+    "name": "Mindustry Overhaul",
+    "author": "KOSTOLOM and D&X",
+    "lastUpdated": "2025-05-24T19:23:36Z",
+    "stars": 21,
+    "minGameVersion": "147",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "RU: Очень опасный мод, который влияет на баланс и механику игры, добавляет новый контент в виде статус эффектов и оборонительных сооружений (башен, мин и т.д.).\n\nРекомендуется перед установкой сделать сохранение (чтобы откатиться назад), если в случае вам не понравится то, что может сделать данный мод. И лучше в самом деле не рискуйте лишний раз и поверьте на слово: МОД. МЕНЯЕТ. МНОГОЕ.\n\n\n\nENG: A very dangerous mod that affects the balance and mechanics of the game, adds new content in the form of status effects and defensive structures (towers, mines, etc.).\n\n\nPreferably before installing make a save (to roll back), if in case you do not like what this mod can do. And it is better to really do not take unnecessary risks and take my word for it: MOD. CHANGES. EVERYTHING.\n\nmov mod testers:\n- eve_light."
   },
   {
     "repo": "sputnuc/asterion",
@@ -1224,6 +1224,18 @@
     "description": "A Mindustry Java mod."
   },
   {
+    "repo": "theangelurd/additional-content",
+    "internalName": "additional-content",
+    "name": " Additional  Content",
+    "author": "Tayros/theangelurd",
+    "lastUpdated": "2024-01-07T23:28:38Z",
+    "stars": 15,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "I know the name is very boring but i can't find another name. A mod that adds a great amount of content to the game. Have fun with the mod."
+  },
+  {
     "repo": "lehanchic25/testplanetmindustry",
     "internalName": "test",
     "name": "Test",
@@ -1252,7 +1264,7 @@
     "internalName": "azimut",
     "name": "Azimut",
     "author": "DeerCarbonate",
-    "lastUpdated": "2025-05-30T21:55:22Z",
+    "lastUpdated": "2025-05-30T22:21:13Z",
     "stars": 15,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -1270,18 +1282,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Roombas."
-  },
-  {
-    "repo": "theangelurd/additional-content",
-    "internalName": "additional-content",
-    "name": " Additional  Content",
-    "author": "Tayros/theangelurd",
-    "lastUpdated": "2024-01-07T23:28:38Z",
-    "stars": 14,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "I know the name is very boring but i can't find another name. A mod that adds a great amount of content to the game. Have fun with the mod."
   },
   {
     "repo": "iratzeymezeri/erekir-additions",
@@ -1912,7 +1912,7 @@
     "internalName": "mindustrinity",
     "name": "MindusTrinity",
     "author": "[#009BFF]Wolflab Studio",
-    "lastUpdated": "2025-05-30T17:18:53Z",
+    "lastUpdated": "2025-05-30T23:01:49Z",
     "stars": 10,
     "minGameVersion": "140.4",
     "hasScripts": true,
@@ -2688,18 +2688,6 @@
     "description": "Have you ever wondered what a drug overdose feels like? well lo and behold: the only mod made exclusively by uncontrolled autism\n\n  Featuring such fun features as: Novanox's evil microwave, NUCLEAR BOMBS, map where you can't defend against t1 air units, etc.\n\nIF YOU MAKE A MAP THAT IS *SOMEWHAT* BAREABLE, GO JUMP INTO A SLAG POOL, WE DONT DO THIS STUFF HERE.\n\n  We have 4 tiers of units, 8 turrets, and more laggy shit than your potato can handle. Because here at hell industries, we have 1 objective:\n    MAKE IT RAIN PAIN\n  if you complain that this mod is stupid congrats: you've proven we have done our job well and your soul is now scheduled for harvesting\nGo drill yourself!\nalso we have a discord server now: https://discord.gg/SUrhQKU2dw\nOnly at hell industries, home of the meanest sons of units in the interplanetary denomination of Erekir! GUARANTEED!"
   },
   {
-    "repo": "slashkig/astranium-mod",
-    "internalName": "astramod",
-    "name": "Operation: Aziris",
-    "author": "Slashkig, IAmRustee, VoidThreader",
-    "lastUpdated": "2025-05-27T02:19:42Z",
-    "stars": 7,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
-  },
-  {
     "repo": "new-guys5634/mechy-chaos",
     "internalName": " mech ",
     "name": "Combat Dustry",
@@ -2950,6 +2938,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "[ENG]A mod that adds new content to serpulo.\n\n[Ru]Мод добавляющий новый контент для серпуло."
+  },
+  {
+    "repo": "slashkig/astranium-mod",
+    "internalName": "astramod",
+    "name": "Operation: Aziris",
+    "author": "Slashkig, IAmRustee, VoidThreader",
+    "lastUpdated": "2025-05-27T02:19:42Z",
+    "stars": 6,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
   },
   {
     "repo": "unionofsovietsocialistrepublics/sporebiomethane",
@@ -3682,18 +3682,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod for adding both larger and smaller content to Erekir."
-  },
-  {
-    "repo": "balam314/flarogus-mod",
-    "internalName": "flarogus-mod",
-    "name": "Flarogus",
-    "author": "BalaM314",
-    "lastUpdated": "2024-01-12T14:50:58Z",
-    "stars": 4,
-    "minGameVersion": "136.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds flarogus to Mindustry."
   },
   {
     "repo": "abaines/kizraks-radar",
@@ -4474,6 +4462,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Gotoh-san turned into a force projector!!"
+  },
+  {
+    "repo": "balam314/flarogus-mod",
+    "internalName": "flarogus-mod",
+    "name": "Flarogus",
+    "author": "BalaM314",
+    "lastUpdated": "2024-01-12T14:50:58Z",
+    "stars": 3,
+    "minGameVersion": "136.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds flarogus to Mindustry."
   },
   {
     "repo": "xenoforce/exotic-unofficial",
