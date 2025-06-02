@@ -240,18 +240,6 @@
     "description": "Mod that adds a manual page library. RTFM in the About menu.\nComes with documentation of vanilla'a Logic system.\nOptionally requires deltanedas/ui-lib for extra buttons.\npt_BR translations by King-BR"
   },
   {
-    "repo": "meepoffaith/prog-mats-java",
-    "internalName": "",
-    "name": "Meepscellaneous Concepts",
-    "author": "MEEP of Faith (And a bunch of contributors. Load the game with Meepscillaneous Concepts enabled to view them!)",
-    "lastUpdated": "2025-02-22T01:25:42Z",
-    "stars": 78,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A collection of random ideas that come to my head.\n\nREQUIRES `MEEPofFaith/black-hole-renderer` TO RUN."
-  },
-  {
     "repo": "zielonytrojkat/frozen-farlands",
     "internalName": "moon mod",
     "name": "Frozen Farlands",
@@ -262,6 +250,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "[yellow]Before you'll play this mod, let me tell you that [red]skill and patience are highly required.\n[yellow]You need to learn from your mistakes and lost battles in order to complete some sectors.[white]\nWelcome to the Frozen farlands,\nhere, where there is no such thing called heat, Serpulo's Moon Awaits you!\nZilo, a place colonized by Bushark the fraction from Tantros,\nEven if that's only a moon there are many new things, new resources, blocks, units, turrets, just everything.\nThere is one more place we would like you to visit... Gheţar\nA Lonely Asteroid orbiting behind Zilo,\nMaybe it's a small place but it doesn't means it is going to be easy in there, but surely you'd be having fun...\n\nThis mod contains custom soundtracks, please do not steal them... instead get a better vibe while playing\nAnd Thanks to [#8c0303]Świrek[white] for helping us with code.\nWe hope you'll enjoy our mod\nThis Isn't our last creation, we have a huge plans upcoming, if you are interested in our plans, concepts and updates join our discord server\nOur contributtors: [#36a855]RouterXdd[white], [#327db3]Silin Veredno[white] and [#dba642]Catana8735[white]\nlink: [blue]https://discord.gg/TQTW3mfYyf[white]\nWe also have it on a disboard."
+  },
+  {
+    "repo": "meepoffaith/prog-mats-java",
+    "internalName": "",
+    "name": "Meepscellaneous Concepts",
+    "author": "MEEP of Faith (And a bunch of contributors. Load the game with Meepscillaneous Concepts enabled to view them!)",
+    "lastUpdated": "2025-06-02T11:55:41Z",
+    "stars": 78,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A collection of random ideas that come to my head.\n\nREQUIRES `MEEPofFaith/black-hole-renderer` TO RUN."
   },
   {
     "repo": "deltanedas/ui-lib",
@@ -1252,7 +1252,7 @@
     "internalName": "azimut",
     "name": "Azimut",
     "author": "DeerCarbonate",
-    "lastUpdated": "2025-06-02T09:17:27Z",
+    "lastUpdated": "2025-06-02T11:02:09Z",
     "stars": 15,
     "minGameVersion": "136",
     "hasScripts": true,
@@ -1452,18 +1452,6 @@
     "description": "A fun mod that adds yeeters and other small additions."
   },
   {
-    "repo": "meepoffaith/black-holes-library",
-    "internalName": "black-hole-renderer",
-    "name": "Black Holes Library",
-    "author": "MEEPofFaith",
-    "lastUpdated": "2024-12-05T08:28:54Z",
-    "stars": 13,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A library mod for rendering black holes."
-  },
-  {
     "repo": "otamamori917/axthrix-modded-java",
     "internalName": "aj",
     "name": "Axthrix",
@@ -1498,6 +1486,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The best sensory overload you can get, at least legally."
+  },
+  {
+    "repo": "meepoffaith/black-holes-library",
+    "internalName": "black-hole-renderer",
+    "name": "Black Holes Library",
+    "author": "MEEPofFaith",
+    "lastUpdated": "2025-06-02T11:51:03Z",
+    "stars": 13,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A library mod for rendering black holes."
   },
   {
     "repo": "eclipse-04/avkott",
@@ -4056,18 +4056,6 @@
     "description": "Reduces desyncs & applies flood changes on join."
   },
   {
-    "repo": "meepoffaith/extra-sand-redux",
-    "internalName": "",
-    "name": "Extra Sand in the Sandbox - Redux",
-    "author": "MEEP of Faith",
-    "lastUpdated": "2025-04-24T22:58:47Z",
-    "stars": 4,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A plethora of sandbox-only blocks dedicated for both fun and testing purposes.\n\nREQUIRES `MEEPofFaith/black-hole-renderer` TO RUN. THE GAME WILL CRASH WITHOUT IT INSTALLED."
-  },
-  {
     "repo": "dsfdsfwxp/savemaster",
     "internalName": "savemaster",
     "name": "saveMaster",
@@ -4162,6 +4150,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This mod will not get another star anytime soon, Never gets completed, Never gets balanced, and will almost always be the largest mod in its number of stars."
+  },
+  {
+    "repo": "meepoffaith/extra-sand-redux",
+    "internalName": "",
+    "name": "Extra Sand in the Sandbox - Redux",
+    "author": "MEEP of Faith",
+    "lastUpdated": "2025-06-02T11:02:14Z",
+    "stars": 4,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A plethora of sandbox-only blocks dedicated for both fun and testing purposes.\n\nREQUIRES `MEEPofFaith/black-hole-renderer` TO RUN. THE GAME WILL CRASH WITHOUT IT INSTALLED."
   },
   {
     "repo": "mythril382/u-r-a-i-c",
@@ -5116,7 +5116,7 @@
     "internalName": "ultimate-military-technic-mod",
     "name": "Ultimate Military Technic Mod",
     "author": "Volproil",
-    "lastUpdated": "2025-06-02T08:32:36Z",
+    "lastUpdated": "2025-06-02T11:46:35Z",
     "stars": 3,
     "minGameVersion": "142",
     "hasScripts": false,
