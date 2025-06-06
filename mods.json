@@ -5,7 +5,7 @@
     "name": "New Horizon",
     "author": "Yuria",
     "lastUpdated": "2025-06-05T04:31:52Z",
-    "stars": 456,
+    "stars": 453,
     "minGameVersion": "147",
     "hasScripts": false,
     "hasJava": true,
@@ -17,7 +17,7 @@
     "name": "Exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2024-05-23T14:12:55Z",
-    "stars": 407,
+    "stars": 406,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -48,18 +48,6 @@
     "description": "Brings back some of that early mindustry charm, can be multiplayered with vanilla\nContributors: VozDuh"
   },
   {
-    "repo": "xzxadixzx/scheme-size",
-    "internalName": "schema",
-    "name": "Schema",
-    "author": "xzxADIxzx",
-    "lastUpdated": "2025-04-29T22:07:01Z",
-    "stars": 203,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that started out as a desire to increase the schematic size limit, but has evolved into a whole set of quality of life features and tools.\n\nIt may not be compatible with other mods. Therefore, it's recommended to enable it only in vanilla game.\n\n    - Flexible control settings\n    - Building tools\n    - Shortcuts for schematics\n    - Display of additional info\n    - Advanced developer console\n    - Copy Link and Join"
-  },
-  {
     "repo": "lixiewulf/allure",
     "internalName": "allure",
     "name": "Allure",
@@ -72,12 +60,24 @@
     "description": "WARNING: Not supported on low-end devices.\n\nWorld logic contributed by Sh1penfire (@sh1penfire). Much thanks!\n\nAn attempt at an immersive content mod.\n\nHJSON at its core, Allure seeks to do what no other mod has ever done. With RTS-centered gameplay and a focus on combat diversity, this hardcore mod aims to put difficulty and replayability onto the table. Fight enemies as two factions, each with their own unique design and weapon trees. \nWage a new type of war on the existing planets, with much more simple yet dynamic balance of vanilla content. Does change vanilla ratios.\n\n!!! Allure isn't meant to be played with other mods! Expect balancing issues in a multi-mod playthrough. !!!\n\nThis mod may cause rage-quits and you may get stuck at any point in progression. Skill is required. Follow the tutorials provided.\n\nTHIS UPDATE IS STILL IN EARLY DEV - PLEASE DON'T MAKE BUG REPORTS"
   },
   {
+    "repo": "xzxadixzx/scheme-size",
+    "internalName": "schema",
+    "name": "Schema",
+    "author": "xzxADIxzx",
+    "lastUpdated": "2025-04-29T22:07:01Z",
+    "stars": 201,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that started out as a desire to increase the schematic size limit, but has evolved into a whole set of quality of life features and tools.\n\nIt may not be compatible with other mods. Therefore, it's recommended to enable it only in vanilla game.\n\n    - Flexible control settings\n    - Building tools\n    - Shortcuts for schematics\n    - Display of additional info\n    - Advanced developer console\n    - Copy Link and Join"
+  },
+  {
     "repo": "mindustryvn/mindustrytoolmod",
     "internalName": "mindustry-tool",
     "name": "Mindustry Tool",
     "author": "[red]VN-[#ff6347]Sharrlotte[]",
     "lastUpdated": "2025-06-01T20:37:47Z",
-    "stars": 147,
+    "stars": 145,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -173,7 +173,7 @@
     "name": "Omaloon",
     "author": "stabu, uujuju",
     "lastUpdated": "2025-06-05T21:51:11Z",
-    "stars": 112,
+    "stars": 111,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -316,7 +316,7 @@
     "internalName": "aquarion",
     "name": "Aquarion",
     "author": "twcash",
-    "lastUpdated": "2025-05-25T02:20:19Z",
+    "lastUpdated": "2025-06-06T02:00:20Z",
     "stars": 63,
     "minGameVersion": "149",
     "hasScripts": false,
@@ -328,7 +328,7 @@
     "internalName": "",
     "name": "BioTech",
     "author": "Jammuu",
-    "lastUpdated": "2025-06-05T05:29:21Z",
+    "lastUpdated": "2025-06-06T01:12:05Z",
     "stars": 61,
     "minGameVersion": "148",
     "hasScripts": false,
@@ -521,7 +521,7 @@
     "name": "Virtual Scheme Pack",
     "author": "Rogen4, KirillRum",
     "lastUpdated": "2024-06-21T20:01:18Z",
-    "stars": 36,
+    "stars": 35,
     "minGameVersion": "141",
     "hasScripts": true,
     "hasJava": false,
@@ -1372,7 +1372,7 @@
     "internalName": "resurrection",
     "name": "Cataclysm",
     "author": "[#0c6ed1]cewwi[] & [#BC5452FF]JJ[]",
-    "lastUpdated": "2025-06-05T21:21:03Z",
+    "lastUpdated": "2025-06-06T03:08:04Z",
     "stars": 14,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1812,18 +1812,6 @@
     "description": "Mod with tower defense maps and objects"
   },
   {
-    "repo": "foxitos/cmd-pack",
-    "internalName": "cmd-scheme-pack",
-    "name": "CMD Scheme Pack",
-    "author": "foxit, QE clan",
-    "lastUpdated": "2023-09-16T22:50:36Z",
-    "stars": 10,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\n RU\nПак добавляет 600+ различных схем. Они тщательно отсортированны по названиям и тегам.\nСхем пак в данный момент находится на стадии активной разработки.\nПредложения по моду: _foxit_#1274\n ENG\nThe pack adds 600+ different schematics. They are carefully sorted by names and tags.\nThe schematics pack is currently under active development.\n UA\nПак додає 600 + різних схем. Вони ретельно відсортовані за назвами і тегами.\nСхем пак в даний момент знаходиться на стадії активної розробки.\n"
-  },
-  {
     "repo": "jhrushbe/moardustry",
     "internalName": "moardustry",
     "name": "MOARdustry (Deprecated)",
@@ -1846,18 +1834,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Fight an eclipse, I dare you"
-  },
-  {
-    "repo": "obsidan55/schempack400",
-    "internalName": "shemepackbyobsidian",
-    "name": "Schemepack 400+",
-    "author": " Obsidian ",
-    "lastUpdated": "2024-06-02T10:09:59Z",
-    "stars": 10,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "⚠ВНИМАНИЕ!⚠\nПри удалении схемпака, теги остаются.\n Данный мод добавляет ОГРОМНУЮ КУЧУ схем на любой вкус.\nВсего здесь более чем 400 схем.\nОтдельное спасибо pixecoz, Qwertynoob, Anchovy, Mandu, Fox1va, Ilya034, Ohotni4ek, Snake, без них ничего бы не вышло. ОТДЕЛЬНОЕ СПАСИБО Ilya034, который снова все это отсортировал.\n\nВ новом обновлении были изменены названия схем по категориям:\ngreen - начало игры;\norange - середина игры\nred - конец игры;\n(делал это чисто по своему мнению, могут быть неточности)\nостальные схемы тоже промаркированы по цветам:\ncrimson - схемы на деф;\ngold - логика;\npurple - логика с дисплеями;\nstat - буры;\ncyan - арты и игры;"
   },
   {
     "repo": "agzam4/mindustry-mod",
@@ -1930,18 +1906,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "the ultimate ratio hell, a designer's challenge"
-  },
-  {
-    "repo": "xpdustry/claj",
-    "internalName": "claj",
-    "name": "CLaJ",
-    "author": "ZetaMap, xzxADIxzx",
-    "lastUpdated": "2025-06-05T19:58:35Z",
-    "stars": 10,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allow you to play with your friends just by creating a room, copy the link and send it to your friends.\n\nNote: To install on Mindustry v8, please click 'View Releases' instead and install the latest version named 'CLaJ for Mindustry V8'."
   },
   {
     "repo": "arth0x/mindustrinity",
@@ -2052,6 +2016,18 @@
     "description": "makes thorium blocks pink"
   },
   {
+    "repo": "foxitos/cmd-pack",
+    "internalName": "cmd-scheme-pack",
+    "name": "CMD Scheme Pack",
+    "author": "foxit, QE clan",
+    "lastUpdated": "2023-09-16T22:50:36Z",
+    "stars": 9,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\n RU\nПак добавляет 600+ различных схем. Они тщательно отсортированны по названиям и тегам.\nСхем пак в данный момент находится на стадии активной разработки.\nПредложения по моду: _foxit_#1274\n ENG\nThe pack adds 600+ different schematics. They are carefully sorted by names and tags.\nThe schematics pack is currently under active development.\n UA\nПак додає 600 + різних схем. Вони ретельно відсортовані за назвами і тегами.\nСхем пак в даний момент знаходиться на стадії активної розробки.\n"
+  },
+  {
     "repo": "electricgun/toggle-editor-mode",
     "internalName": "toggle-editor-mode",
     "name": "Toggle Editor Mode",
@@ -2076,16 +2052,16 @@
     "description": "[green]=============|DESCRIPTION|============\n[lightgray]I'm making the biggest mod for mindustry. If you like mod, please leave a [yellow]star [lightgray]on [purple]github.\n[green]=================|INFO|=================\n[white]Mod need \"[#42a5f5]MultiCrafter Lib[white]\" to work.\n[green]===============|DISCORD|===============\n  [navy]Discord [white]link - \n [blue]https://discord.gg/7SSAupjxeD\n[forest]-------------------------------------\n[lime]Me [white]polish_subfarm61\n[green]==============|PROBLEMS|==============\n[white]If you have [lime]suggestion[white] or you find a \n[purple]bug[white], describe it on our discord server. \n[green]========================================"
   },
   {
-    "repo": "jacobr743/schemepack",
-    "internalName": "schemepack",
-    "name": "SchemePack",
-    "author": "| VI |",
-    "lastUpdated": "2024-06-25T01:27:42Z",
+    "repo": "obsidan55/schempack400",
+    "internalName": "shemepackbyobsidian",
+    "name": "Schemepack 400+",
+    "author": " Obsidian ",
+    "lastUpdated": "2024-06-02T10:09:59Z",
     "stars": 9,
-    "minGameVersion": "141",
+    "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": false,
-    "description": "SchemePack"
+    "description": "⚠ВНИМАНИЕ!⚠\nПри удалении схемпака, теги остаются.\n Данный мод добавляет ОГРОМНУЮ КУЧУ схем на любой вкус.\nВсего здесь более чем 400 схем.\nОтдельное спасибо pixecoz, Qwertynoob, Anchovy, Mandu, Fox1va, Ilya034, Ohotni4ek, Snake, без них ничего бы не вышло. ОТДЕЛЬНОЕ СПАСИБО Ilya034, который снова все это отсортировал.\n\nВ новом обновлении были изменены названия схем по категориям:\ngreen - начало игры;\norange - середина игры\nred - конец игры;\n(делал это чисто по своему мнению, могут быть неточности)\nостальные схемы тоже промаркированы по цветам:\ncrimson - схемы на деф;\ngold - логика;\npurple - логика с дисплеями;\nstat - буры;\ncyan - арты и игры;"
   },
   {
     "repo": "i-hope1/mod.make",
@@ -2160,16 +2136,16 @@
     "description": "This mod adds tons of items and a new planet!!!\nThe planet contains a poisonous atmosphere, but at the same time it has precious green material. The planet also contains the poisonous substance Puplenite.\nMod version beta 1.2"
   },
   {
-    "repo": "newcrs/new-crescent",
-    "internalName": "new-crescent",
-    "name": "New Crescent",
-    "author": "CrS Team",
-    "lastUpdated": "2025-06-03T17:33:24Z",
+    "repo": "xpdustry/claj",
+    "internalName": "claj",
+    "name": "CLaJ",
+    "author": "ZetaMap, xzxADIxzx",
+    "lastUpdated": "2025-06-05T19:58:35Z",
     "stars": 9,
     "minGameVersion": "146",
     "hasScripts": false,
-    "hasJava": false,
-    "description": "A Work in Progress: This project is still under development, and features may change in the future.\n\nContributors:\n\n* Author: CrS Team (Lead: SyNav [SycNav])\n* Sprites: TDaggers [TDRS], Ru (kyrusis2), Quy [Quy109372]\n* Contents: SyNav [SycNav], TDaggers [TDRS], Crypt [CrystalMist], EarGods [Earthegodlybeing]\n* Scripting: SyNav [SycNav], Quy [Quy109372], EarGods [Earthegodlybeing]\n\nBug Reporting:\nPlease report any bugs or glitches to the CrS team for fixing.\n\nJoin the Community: Join our Discord server to stay updated on the project and connect with the community! (discord: https://discord.gg/FHg4FDDeVH)\n"
+    "hasJava": true,
+    "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allow you to play with your friends just by creating a room, copy the link and send it to your friends.\n\nNote: To install on Mindustry v8, please click 'View Releases' instead and install the latest version named 'CLaJ for Mindustry V8'."
   },
   {
     "repo": "warcry98/speedcontrol",
@@ -2256,6 +2232,18 @@
     "description": "Siuuuuu - Cristiano Ronaldo. if you enjoy this mod, star pls"
   },
   {
+    "repo": "jacobr743/schemepack",
+    "internalName": "schemepack",
+    "name": "SchemePack",
+    "author": "| VI |",
+    "lastUpdated": "2024-06-25T01:27:42Z",
+    "stars": 8,
+    "minGameVersion": "141",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "SchemePack"
+  },
+  {
     "repo": "falkowitz/medieval-mindustry",
     "internalName": "mm",
     "name": "Medieval Mindustry",
@@ -2340,18 +2328,6 @@
     "description": "\nWARNING: For Ukrainian language only.\n\nModification for translation testing. Can be used for an example testing bundles and for testing a new Ukrainian translation. Developed in Ukraine.\nSupports v7 only.\n\nDiscord for Ukrainian speaking: https://discord.gg/VDjWyCssvP\n\n----------------------------------------\n\nПОПЕРЕДЖЕННЯ: Лише для української мови.\n\nМодифікація для тестування перекладів. Можете використовувати задля прикладу і задля тестування нового українського перекладу. Розроблено в Україні.\nПідтримує тільки v7.\n\nDiscord для українськомовних: https://discord.gg/VDjWyCssvP"
   },
   {
-    "repo": "silinveredno/newhorizonmod-schematics",
-    "internalName": "nh-scheme-pack",
-    "name": "New Horizon schematics pack",
-    "author": "Silin Veredno",
-    "lastUpdated": "2025-03-15T10:00:31Z",
-    "stars": 8,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\nRU\nМод добавляет Схемы для модификации New Horizon. Тег: +\n\nENG\nThe mod adds Schematics for the New Horizon modification. Tag: +\nMy Discord: silinveredno_edmstep\n"
-  },
-  {
     "repo": "goobrr/esoterum-ii",
     "internalName": "eso",
     "name": "Esoterum II",
@@ -2410,6 +2386,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Based on the hit minecraft mod \"Gregtech\", this mod attempt to add some realism into the game as well as making the game more grindy \n Currently work in progress, some item may be uncraftable and some block doesnt have sprite."
+  },
+  {
+    "repo": "newcrs/new-crescent",
+    "internalName": "new-crescent",
+    "name": "New Crescent",
+    "author": "CrS Team",
+    "lastUpdated": "2025-06-03T17:33:24Z",
+    "stars": 8,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A Work in Progress: This project is still under development, and features may change in the future.\n\nContributors:\n\n* Author: CrS Team (Lead: SyNav [SycNav])\n* Sprites: TDaggers [TDRS], Ru (kyrusis2), Quy [Quy109372]\n* Contents: SyNav [SycNav], TDaggers [TDRS], Crypt [CrystalMist], EarGods [Earthegodlybeing]\n* Scripting: SyNav [SycNav], Quy [Quy109372], EarGods [Earthegodlybeing]\n\nBug Reporting:\nPlease report any bugs or glitches to the CrS team for fixing.\n\nJoin the Community: Join our Discord server to stay updated on the project and connect with the community! (discord: https://discord.gg/FHg4FDDeVH)\n"
   },
   {
     "repo": "mythril382/thisthing",
@@ -2638,6 +2626,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "cook MOD is FUN"
+  },
+  {
+    "repo": "silinveredno/newhorizonmod-schematics",
+    "internalName": "nh-scheme-pack",
+    "name": "New Horizon schematics pack",
+    "author": "Silin Veredno",
+    "lastUpdated": "2025-03-15T10:00:31Z",
+    "stars": 7,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nRU\nМод добавляет Схемы для модификации New Horizon. Тег: +\n\nENG\nThe mod adds Schematics for the New Horizon modification. Tag: +\nMy Discord: silinveredno_edmstep\n"
   },
   {
     "repo": "sublemon-team/fonticonslib",
@@ -4296,18 +4296,6 @@
     "description": "English: Adds new items, buildings, liquids to serpulo and erekir.\nRussian: Добавляет новые предметы, постройки, жидкости для серпуло и эрекир."
   },
   {
-    "repo": "rorivus/uaschem",
-    "internalName": "ua schempack",
-    "name": "UA schempack",
-    "author": "Chat-bot",
-    "lastUpdated": "2023-03-24T23:01:53Z",
-    "stars": 3,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "mod added new schemes for Ukrainian Community\nДякую за допомогу: Жак фреско#0391 , racti555\n#5468,"
-  },
-  {
     "repo": "imnotthatbrave/mindustrytexturetweaks",
     "internalName": "texturetweaks (erekir)",
     "name": "TextureTweaks (Erekir)",
@@ -5112,18 +5100,6 @@
     "description": "On a random day, all the civilizations joined forces to leave the dying state of the world in which they are inhabiting. They left in fleets of much grandeur and it was at that time when a vortex opened somewhere between the stars and they entered it where they had the encounter with the Beings. They acquired exotic technologies from them but little did they know that it was all part of a much greater story and that there was nothing random about that day. The Exotic technologies include: Bombs and Nukes Guided missile systems Power manipulation devices Unconventional weapon systems and much more."
   },
   {
-    "repo": "shatteredskies/mindustry-mass-driver-logic",
-    "internalName": "mass-driver-logic",
-    "name": "Mass-Driver Logic",
-    "author": "ShatteredSkies",
-    "lastUpdated": "2025-06-04T16:03:35Z",
-    "stars": 3,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "mass-driver logic schemes"
-  },
-  {
     "repo": "mindustryid/terjemahanindonesia",
     "internalName": "terjemahan-indonesia",
     "name": "Terjemahan Indonesia",
@@ -5386,6 +5362,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": ""
+  },
+  {
+    "repo": "rorivus/uaschem",
+    "internalName": "ua schempack",
+    "name": "UA schempack",
+    "author": "Chat-bot",
+    "lastUpdated": "2023-03-24T23:01:53Z",
+    "stars": 2,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "mod added new schemes for Ukrainian Community\nДякую за допомогу: Жак фреско#0391 , racti555\n#5468,"
   },
   {
     "repo": "redstonneur1256/largerserverlist",
@@ -6358,6 +6346,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "этот мод добавит в игру новую планету и куча контента"
+  },
+  {
+    "repo": "shatteredskies/mindustry-mass-driver-logic",
+    "internalName": "mass-driver-logic",
+    "name": "Mass-Driver Logic",
+    "author": "ShatteredSkies",
+    "lastUpdated": "2025-06-04T16:03:35Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "mass-driver logic schemes"
   },
   {
     "repo": "novanox4/astralis",
@@ -8004,18 +8004,6 @@
     "description": "pls turn on the mod to know more about it"
   },
   {
-    "repo": "fallingdice/super-spores",
-    "internalName": "super-spores",
-    "name": "Super Spores",
-    "author": "FallingDice",
-    "lastUpdated": "2025-06-03T12:00:07Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "new infection!"
-  },
-  {
     "repo": "chinhonnang0000/intermod",
     "internalName": "intermod",
     "name": "intermod",
@@ -8026,6 +8014,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "JSON-javaScript compliation of several mods that are unplayable. \n\nThe contents as they were, no balancing adjustments, no respriting unless prompted. All sprites belong to respective owners"
+  },
+  {
+    "repo": "fallingdice/super-spores",
+    "internalName": "super-spores",
+    "name": "Super Spores",
+    "author": "FallingDice",
+    "lastUpdated": "2025-06-06T02:56:39Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "new infection!"
   },
   {
     "repo": "exxleo/exoterusmod",
