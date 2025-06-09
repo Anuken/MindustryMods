@@ -172,7 +172,7 @@
     "internalName": "omaloon",
     "name": "Omaloon",
     "author": "stabu, uujuju",
-    "lastUpdated": "2025-06-09T02:08:25Z",
+    "lastUpdated": "2025-06-09T17:12:07Z",
     "stars": 111,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -592,7 +592,7 @@
     "internalName": "psammos",
     "name": "Psammos Mod",
     "author": "AndromedaGalaxy29",
-    "lastUpdated": "2025-06-09T14:58:55Z",
+    "lastUpdated": "2025-06-09T16:05:50Z",
     "stars": 32,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -936,6 +936,18 @@
     "description": "Adds various testers for easier mod development.\nThanks to: Gdeft"
   },
   {
+    "repo": "saigon0nozomi/nightscape",
+    "internalName": "nscape",
+    "name": "NightScape",
+    "author": "Saigo no-nozomi. \n Few sprites from: Sundered \n Translation help: CyberSirnik",
+    "lastUpdated": "2024-11-07T09:16:57Z",
+    "stars": 20,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds hard new planet with unique content and new mechanics"
+  },
+  {
     "repo": "xtarsagency/zeridmuth",
     "internalName": "zeridmuth",
     "name": "Zeridmuth: A New Beginning",
@@ -958,18 +970,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Logic Debugger\n\n一个逻辑辅助工具\n\n原作DeltaNedas/ldb\n\nyaddrx2将其升级到了137，仅供学习交流使用\n\n当前版本：1.7.0\n\n更新日志\n\nv1.0.1\n将mod版本升为137\n\nv1.0.2\n取消ui-lib的前置\n\nv1.0.3\n逻辑码编辑板\n新增代码语句的文本形式编辑\n\nv1.0.4\n逻辑块变量面板\n变量更新闪烁\n增加逻辑块所连方块的显示\n\nv1.0.5\n内存块编辑板\n内存值更新闪烁\n新增内存值的二进制形式视察\n实现内存值的十六进制形式编辑\n\nv1.0.6\n新增代码插入相关操作\n实现从剪切板导入代码块到指定位置\n\nv1.0.7\n新增面板的折叠按钮\n修复学术端运行mod导致的面板移位或覆盖\n修复面板横向抖动的bug\n\nv1.0.8\n单步调试面板\n实现代码单步运行调试\n\nv1.1.0\n新增调试面板设置断点\n实现运行到下一断点操作\n\nv1.1.1\n新增变量位置指示器\n显示单位变量的flag\n\nv1.2\n新增调试面板的运行位置追踪\n新增功能标签\n\nv1.3\n位置指示器增加变量名\n\nv1.4\n内存块面板增加内存值导入导出\n\nv1.5\n变量面板增加变量值导出\n\nv1.6\n内存面板的变量名筛选\n内存值导出筛选器\n\nv1.7\n增加信息板复制与导入"
-  },
-  {
-    "repo": "saigon0nozomi/nightscape",
-    "internalName": "nscape",
-    "name": "NightScape",
-    "author": "Saigo no-nozomi. \n Few sprites from: Sundered \n Translation help: CyberSirnik",
-    "lastUpdated": "2024-11-07T09:16:57Z",
-    "stars": 19,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds hard new planet with unique content and new mechanics"
   },
   {
     "repo": "jslkr2707/quests",
@@ -1608,18 +1608,6 @@
     "description": "Ru: Данная модификация изменяет внешний вид юнитов. Респрайты только Серпуловских юнитов.\r\n\r\nEng: This modification changes the appearance of the units. Resprites of only Serpulo units."
   },
   {
-    "repo": "andashikkozlov/thezsia-revival",
-    "internalName": "thezsia1",
-    "name": "Thezsia Revival",
-    "author": "Programmers: AnDashik, ItzCraft\nSpriters: AnDasik\nTesters: AnDashik, ItzCraft\nTranslators: AnDashik, Sputnuc\nMappers: Andashik\nComposers: Ace, CY4NIDE\n\nOriginal idea: Thruster (DisplayName)",
-    "lastUpdated": "2025-04-15T19:58:07Z",
-    "stars": 12,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "ALPHA VERSION\nNew planet, new stuff, what a surprise\nNot dead now :) (Or dead :/ idk)"
-  },
-  {
     "repo": "abe-ischarlie/op-mod",
     "internalName": "op-things",
     "name": "OP Things",
@@ -1666,6 +1654,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThe mod is still in development, and many things in the mod are subject to change. I hope that you will have fun playing it."
+  },
+  {
+    "repo": "andashikkozlov/thezsia-revival",
+    "internalName": "thezsia1",
+    "name": "Thezsia Revival",
+    "author": "Programmers: AnDashik, ItzCraft\nSpriters: AnDasik\nTesters: AnDashik, ItzCraft\nTranslators: AnDashik, Sputnuc\nMappers: Andashik\nComposers: Ace, CY4NIDE\n\nOriginal idea: Thruster (DisplayName)",
+    "lastUpdated": "2025-06-09T17:47:17Z",
+    "stars": 12,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "ALPHA VERSION\nNew planet, new stuff, what a surprise\nNot dead now :) (Or dead :/ idk)"
   },
   {
     "repo": "def-try/parkour-mod",
@@ -4204,12 +4204,12 @@
     "internalName": "oe",
     "name": "Oil Extended",
     "author": "Atomic",
-    "lastUpdated": "2025-06-08T17:54:13Z",
+    "lastUpdated": "2025-06-09T17:46:26Z",
     "stars": 4,
     "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": false,
-    "description": "Added new blocks that can interact with Oil and improve player quality of life"
+    "description": "Added new blocks & units that can interact with Oil and improve player quality of life"
   },
   {
     "repo": "mythril382/u-r-a-i-c",
@@ -6388,7 +6388,7 @@
     "internalName": "astralis",
     "name": "Astralis",
     "author": "NV-NX, Haznobrain",
-    "lastUpdated": "2025-06-09T15:56:48Z",
+    "lastUpdated": "2025-06-09T16:36:53Z",
     "stars": 2,
     "minGameVersion": "149",
     "hasScripts": false,
