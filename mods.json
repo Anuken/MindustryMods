@@ -672,6 +672,18 @@
     "description": "A mod provides a variety of tools for modding.\n\n-----------------\nVersion 1.5.6\n## Highlight\n- Added some new features.\n- Fixed some bugs.\n-----------------\n\n## ShowUIList\n\n- Display `icon`, `tex`, `styles`, `colors`, `interps`\\\n!(./screenshots/UIList.png)\n\n## Tester\n\n!(./screenshots/tester.png)\n\n- Provide `JS` editor `Tester`\n- Shortcuts\n- Press `Ctrl`+`Shift`+`Enter` to `execute` code immediately\n- Press `Ctrl`+`Shift`+`↑/↓` to switch `history` records\n- Press `Ctrl`+`Shift`+`D` to `view` detailed information\n- Press `Alt`+`V` to preview `Texture`\n- Built-in `unsafe`, `lookup`\n- Built-in `IntFunc` class (abbreviated as `$`)\n- `$.xxx` can represent primitive data types (e.g., `$.void` represents `Void.TYPE`;`$.J` represents long.class)\n- `$p` represents `Packages`\n- Code: [JSFunc](https://github.com/i-hope1/mod-tools/src/modtools/utils/JSFunc.java)\n- Long press on code in the favorites to add to startup items\\\n!(./screenshots/startup.png)\n- Quick switch history\\\n![Screenshot 2024-03-10 14-45-37](https://github.com/I-hope1/mod-tools/assets/78016895/4918af35-19af-4fab-b961-70bdc8679fe8)\n- `$.item`, `$.liquid`, `$.unit` and so on.\n\n## UnitSpawn\n\n- Multiple team selection\n- Support for fixed point spawning\n- Display `name` and `localizedName`\n- Rightclick the name Label to copy save as JS var.\n\n## Selection\n\n- Selector\n- Supports `Tile`, `Building`, `Bullet`, `Unit`\n- Kill\n- Set Item/Liquid/Team\n- Press `Ctrl`+`Alt` to fix Focus Window\n\n## ReviewElement\n\n- Display element list, double-click to copy element to js variable\n- `Ctrl`+`Shift`+`C` to Inspect Element\n- `Ctrl`+`Alt`+`D` to display bounds of Element\n- Select untouchable elements\n- Mobile: Filter current element with two fingers\n- PC: Press `F` to filter current element\n- Functions shortcuts for Element\n- `i`: display details (open ShowInfoWindow)\\\n- `p`(for Image):  show `DrawablePicker`\n- `del`: (`shift` to ignore confirmation), delete element\n- `<` / `>`: collapse Group\n- `f`: fix floating Info column\n- `r`: invoke element's method\n\n- ![reviewElement](./screenshots/review_element.png)\n\n# Frag\n\n- Double-click the blue part of Frag to minimize/restore Frag\n- In the minimized state, click the blue part, it will behave like a floating ball\n\n## Window\n\n- Press `Ctrl`+`Tab` to switch windows\n- Press `Shift`+`F4` to close current window\n- RClick the close button to move and scl window.\n\n## ShowInfoWindow\n\n- Show all fields, methods, constructors and nested classes of a obj.\n- Field can be modified.\n- Method can be Invoked(Special).\n- Constructor can be invoked to new a instance.\n\n## Others\n\n### Extensions\n- Http Redirect\n> Redirect some websites, such as: github\\\n> Configuration file: b0kkihope/http_redirect.properties"
   },
   {
+    "repo": "wmf-industries/expandedindustries",
+    "internalName": "ei",
+    "name": "Expanded Industries",
+    "author": "WMF Industries",
+    "lastUpdated": "2024-04-12T14:47:08Z",
+    "stars": 25,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Some content for people to enjoy :>\n-Current version : 1.7 [EoL]"
+  },
+  {
     "repo": "three-cold-planets/welcome-to-the-frostscape",
     "internalName": "",
     "name": "Welcome to the Frostscape",
@@ -706,18 +718,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod inspired by Starcraft 2, add zerg to the game and a bunch of spore related thing.\nCredit:\nHydro for creating the sprites\nDryehm for existing\nHave a great day :D\nhHhhhHH"
-  },
-  {
-    "repo": "wmf-industries/expandedindustries",
-    "internalName": "ei",
-    "name": "Expanded Industries",
-    "author": "WMF Industries",
-    "lastUpdated": "2024-04-12T14:47:08Z",
-    "stars": 24,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Some content for people to enjoy :>\n-Current version : 1.7 [EoL]"
   },
   {
     "repo": "teamviscott/modprojectviscott",
@@ -3912,18 +3912,6 @@
     "description": "A mindustry content mod inspired by terrarias end game resources."
   },
   {
-    "repo": "catana791/floatydustry",
-    "internalName": "ftd",
-    "name": "Floatydustry",
-    "author": "\nAuthor: Fresh791\n",
-    "lastUpdated": "2024-07-15T11:33:10Z",
-    "stars": 4,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\nThis mod adds all vanilla turrets as units.\n\nIt is a FUN mod and in no way meant to be balanced!\n\n(Just imagine a meltdown flying towards you at 100 mp/h)\n"
-  },
-  {
     "repo": "chrono-heritage/moderndustry",
     "internalName": "chrono-moderndustry",
     "name": "Moderndustry",
@@ -4116,18 +4104,6 @@
     "description": "Turns most projectiles into stingrays."
   },
   {
-    "repo": "fallingdice/mechanical-factions",
-    "internalName": "mechanical-factions",
-    "name": "Mechanical Factions",
-    "author": "FallingDice",
-    "lastUpdated": "2025-04-12T02:39:19Z",
-    "stars": 4,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Add new mechanical factions. (add novel unit&novel turret) version 0.531"
-  },
-  {
     "repo": "mindustry-antigrief/floodcompat",
     "internalName": "floodcompat",
     "name": "FloodCompat",
@@ -4234,6 +4210,30 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Added new blocks & units that can interact with Oil and improve player quality of life"
+  },
+  {
+    "repo": "catana791/floatydustry",
+    "internalName": "ftd",
+    "name": "Floatydustry",
+    "author": "\nAuthor: Catser\n",
+    "lastUpdated": "2025-06-13T09:03:27Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nThis mod adds all vanilla turrets as units.\n\nIt is a FUN mod and in no way meant to be balanced!\n\n(Just imagine a meltdown flying towards you at 100 mp/h)\n"
+  },
+  {
+    "repo": "fallingdice/mechanical-factions",
+    "internalName": "mechanical-factions",
+    "name": "Mechanical Factions",
+    "author": "FallingDice",
+    "lastUpdated": "2025-06-13T09:16:28Z",
+    "stars": 4,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Add new mechanical factions. (add novel unit&novel turret)"
   },
   {
     "repo": "mythril382/u-r-a-i-c",
@@ -6400,7 +6400,7 @@
     "internalName": "astralis",
     "name": "Astralis",
     "author": "NV-NX, Haznobrain",
-    "lastUpdated": "2025-06-13T07:56:05Z",
+    "lastUpdated": "2025-06-13T08:47:50Z",
     "stars": 2,
     "minGameVersion": "149",
     "hasScripts": false,
@@ -8080,7 +8080,7 @@
     "internalName": "super-spores",
     "name": "Super Spores",
     "author": "FallingDice",
-    "lastUpdated": "2025-06-13T07:49:03Z",
+    "lastUpdated": "2025-06-13T08:02:16Z",
     "stars": 1,
     "minGameVersion": "146",
     "hasScripts": false,
