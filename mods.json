@@ -916,7 +916,7 @@
     "internalName": "as",
     "name": "Asterion",
     "author": " |Asterion Team| ",
-    "lastUpdated": "2025-06-20T19:28:25Z",
+    "lastUpdated": "2025-06-20T22:51:28Z",
     "stars": 21,
     "minGameVersion": "147",
     "hasScripts": true,
@@ -1252,7 +1252,7 @@
     "internalName": "azimut",
     "name": "Azimut",
     "author": "DeerCarbonate",
-    "lastUpdated": "2025-06-20T21:56:50Z",
+    "lastUpdated": "2025-06-20T22:40:55Z",
     "stars": 15,
     "minGameVersion": "149",
     "hasScripts": true,
@@ -1372,7 +1372,7 @@
     "internalName": "etigeox",
     "name": "Etigei Exile",
     "author": "[lime]Mitemi[lightgray] & [cyan]Tikup",
-    "lastUpdated": "2025-06-18T20:01:11Z",
+    "lastUpdated": "2025-06-20T22:58:14Z",
     "stars": 14,
     "minGameVersion": "147",
     "hasScripts": true,
@@ -4260,6 +4260,18 @@
     "description": "Swaps ammo of turrets.\nThis is cursed. Don't play this in campaign.\n\nCreate a new save for every game when using this mod. Loading a save has a 90% chance to crash your game."
   },
   {
+    "repo": "mythril382/rainpuddles",
+    "internalName": "rain-puddles",
+    "name": "Rain Puddles",
+    "author": "Mythril",
+    "lastUpdated": "2022-07-14T15:29:47Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Spawns puddles when it is raining.\nMay or may not be laggy."
+  },
+  {
     "repo": "boolmano/bombermod",
     "internalName": "bombermod",
     "name": "Bombers mod",
@@ -5218,18 +5230,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Disables flying in bomberman maps"
-  },
-  {
-    "repo": "mythril382/rainpuddles",
-    "internalName": "rain-puddles",
-    "name": "Rain Puddles",
-    "author": "Mythril",
-    "lastUpdated": "2022-07-14T15:29:47Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Spawns puddles when it is raining.\nMay or may not be laggy."
   },
   {
     "repo": "kirillrum/mega-builds",
@@ -10440,18 +10440,6 @@
     "description": "adds turrets!"
   },
   {
-    "repo": "efsfse2280/scaled-serpulo",
-    "internalName": "scldsrp",
-    "name": "Scaled Serpulo",
-    "author": "Vicestuck (efefse)",
-    "lastUpdated": "2025-06-20T17:17:12Z",
-    "stars": 0,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "- Heavily altered fork of Upgraded Tiers.\n- This mod adds scaled versions of Serpulo blocks, with extra Q-o-L blocks in certain categories.\n- thanks to original authors: \n- mq_1175 for base mod and sprites\n- sputnuc(?) for added oil gens and added content from base mod"
-  },
-  {
     "repo": "raviravirego76466/project-delicate-dyes",
     "internalName": "delicate-dyes",
     "name": "Project: Delicate Dyes",
@@ -10462,5 +10450,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod."
+  },
+  {
+    "repo": "efsfse2280/scaled-serpulo",
+    "internalName": "scldsrp",
+    "name": "Scaled Serpulo",
+    "author": "Vicestuck (efefse)",
+    "lastUpdated": "2025-06-21T00:24:29Z",
+    "stars": 0,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "- Heavily altered fork of Upgraded Tiers.\n- This mod adds scaled versions of Serpulo blocks, with extra Q-o-L blocks in certain categories.\n- thanks to original authors: \n- mq_1175 for base mod and sprites\n- sputnuc(?) for added oil gens and added content from base mod"
   }
 ]
