@@ -293,7 +293,7 @@
     "name": "ArchiveDustry Java",
     "author": "WilloIzCitron. Copyrights remains with Nexon, Nexon Games and Yostar",
     "lastUpdated": "2025-06-05T15:15:03Z",
-    "stars": 75,
+    "stars": 76,
     "minGameVersion": "149",
     "hasScripts": false,
     "hasJava": true,
@@ -792,6 +792,18 @@
     "description": "[#00FFFF](RU)[#FFFFFF] Модификация добавляет полезные блоки.\n[#00FFFF](EN)[#FFFFFF] Modification adds useful blocks.\nMod is now probably in release. \nv1.1."
   },
   {
+    "repo": "electricgun/cheat-codes-mod",
+    "internalName": "cheat-codes",
+    "name": "Cheat Codes Mod",
+    "author": "electricgun",
+    "lastUpdated": "2024-08-26T17:28:23Z",
+    "stars": 23,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Reworked for PC to be the same as mobile\nAdds some rather powerful and fun powerups activated by entering the correct strings.\n\nPowerups include:\n[yellow]-Time stop\n-God mode\n-Konami code\n-Thanos snap\nand more...\n\n[white]Can be used to cheat your way through the game.\n\n[red]READ GITHUB REPO FOR CHEAT LIST"
+  },
+  {
     "repo": "anuken/wind3",
     "internalName": "wind3",
     "name": "wind3",
@@ -814,18 +826,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mod In Dev"
-  },
-  {
-    "repo": "electricgun/cheat-codes-mod",
-    "internalName": "cheat-codes",
-    "name": "Cheat Codes Mod",
-    "author": "electricgun",
-    "lastUpdated": "2024-08-26T17:28:23Z",
-    "stars": 22,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Reworked for PC to be the same as mobile\nAdds some rather powerful and fun powerups activated by entering the correct strings.\n\nPowerups include:\n[yellow]-Time stop\n-God mode\n-Konami code\n-Thanos snap\nand more...\n\n[white]Can be used to cheat your way through the game.\n\n[red]READ GITHUB REPO FOR CHEAT LIST"
   },
   {
     "repo": "eb-wilson/helium",
@@ -1656,28 +1656,28 @@
     "description": "Add flesh units with various actions and skills, novel turrets and various objects."
   },
   {
-    "repo": "andashikkozlov/thezsia-revival",
-    "internalName": "thezsia1",
-    "name": "Thezsia Revival",
-    "author": "Main developer: AnDashik\nMusic by Ace, CY4NIDE\nContrubutors: ItzCraft, Weeersix, Sputnuc\nOriginal version of the mod: Thruster (aka  DisplayName)",
-    "lastUpdated": "2025-06-29T20:31:53Z",
-    "stars": 12,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "ALPHA VERSION\nNew planet, new stuff, what a surprise\nNot dead now :) (Or dead :/ idk)"
-  },
-  {
     "repo": "hungrycloud4913/esocatalyst",
     "internalName": "esocatalyst",
     "name": "Esocatalyst",
     "author": "HungryCloud4913",
-    "lastUpdated": "2025-06-30T16:00:52Z",
+    "lastUpdated": "2025-06-30T17:11:07Z",
     "stars": 12,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
     "description": "Please leave a star on Github, It lets me know you enjoy the mod.\n\nCredits to everyone who helped even in the slightest bit ever,\n\nDiscord Helpers: \n           mindustridiot_06647 - Unit suggestions and unit FX work, \n           /////\n           cy4nide0165 - Railhammer unit FX work and suggestion, \n           /////\n           Elysia - A couple spare sprites given because they didn't need them, \n           /////\n           display_namer - Small coding help for animated items and liquids\n           /////\n           Aureus - Helping me understand tank treads by a tiny margin"
+  },
+  {
+    "repo": "andashikkozlov/thezsia-revival",
+    "internalName": "thezsia1",
+    "name": "Thezsia Revival",
+    "author": "Main developer: AnDashik\nMusic by Ace, CY4NIDE\nContrubutors: ItzCraft, Weeersix, Sputnuc\nOriginal version of the mod: Thruster (aka  DisplayName)",
+    "lastUpdated": "2025-06-30T17:42:45Z",
+    "stars": 12,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "ALPHA VERSION\nNew planet, new stuff, what a surprise\nNot dead now :) (Or dead :/ idk)"
   },
   {
     "repo": "def-try/parkour-mod",
@@ -1846,6 +1846,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod for Mindustry that adds MOAR to your game.\n\nLast Update: v7 Patch on 1-27-2023\n\nPing me on discord with suggestions/issues: jhrushbe#8085"
+  },
+  {
+    "repo": "electricgun/toggle-editor-mode",
+    "internalName": "toggle-editor-mode",
+    "name": "Toggle Editor Mode",
+    "author": "ElectricGun",
+    "lastUpdated": "2024-02-18T14:48:01Z",
+    "stars": 10,
+    "minGameVersion": "138",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Allows access to Editor Mode on Sandbox and Singleplayer\n\nDoes not work on Multiplayer and Campaign.\n\nUpdate: Fixed map editor crash and delay."
   },
   {
     "repo": "twcash/eclipse",
@@ -2062,18 +2074,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\n RU\nПак добавляет 600+ различных схем. Они тщательно отсортированны по названиям и тегам.\nСхем пак в данный момент находится на стадии активной разработки.\nПредложения по моду: _foxit_#1274\n ENG\nThe pack adds 600+ different schematics. They are carefully sorted by names and tags.\nThe schematics pack is currently under active development.\n UA\nПак додає 600 + різних схем. Вони ретельно відсортовані за назвами і тегами.\nСхем пак в даний момент знаходиться на стадії активної розробки.\n"
-  },
-  {
-    "repo": "electricgun/toggle-editor-mode",
-    "internalName": "toggle-editor-mode",
-    "name": "Toggle Editor Mode",
-    "author": "ElectricGun",
-    "lastUpdated": "2024-02-18T14:48:01Z",
-    "stars": 9,
-    "minGameVersion": "138",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Allows access to Editor Mode on Sandbox and Singleplayer\n\nDoes not work on Multiplayer and Campaign.\n\nUpdate: Fixed map editor crash and delay."
   },
   {
     "repo": "plsubfarm61/project_b",
@@ -4240,7 +4240,7 @@
     "internalName": " b ",
     "name": "Caverns Rebirth",
     "author": "beee",
-    "lastUpdated": "2025-06-30T15:54:45Z",
+    "lastUpdated": "2025-06-30T17:56:50Z",
     "stars": 4,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -6456,18 +6456,6 @@
     "description": "A Mindustry Java mod adding a new planet called Tekton, with lots of hazards and other things."
   },
   {
-    "repo": "novanox4/astralis",
-    "internalName": "astralis",
-    "name": "Astralis",
-    "author": "NV-NX, Haznobrain",
-    "lastUpdated": "2025-06-30T12:17:33Z",
-    "stars": 2,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\nIN DEVELOPMENT, EXPECT BUGS AND UNFINISHED/UNPOLISHED CONTENT!\nAstralis is a mod focused on adding a brand new campaign on a planet harboring the same name.\nSet in the same universe as Hell Industries (althought not as horribly painful), fight hordes of eldritch AND mechanical horrors alike with your own mechanical horrors!\nOverthrow a government, kill god and ravage an entire planet now!"
-  },
-  {
     "repo": "blackdeluxecat/mitour-lib",
     "internalName": "mitour-lib",
     "name": "MI Tour Lib",
@@ -6478,6 +6466,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "MI2's Lib Mod. 界面、IO、渲染工具类，不涉及游戏内容。"
+  },
+  {
+    "repo": "novanox4/astralis",
+    "internalName": "astralis",
+    "name": "Astralis",
+    "author": "NV-NX, Haznobrain",
+    "lastUpdated": "2025-06-30T16:53:20Z",
+    "stars": 2,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nIN DEVELOPMENT, EXPECT BUGS AND UNFINISHED/UNPOLISHED CONTENT!\nAstralis is a mod focused on adding a brand new campaign on a planet harboring the same name.\nSet in the same universe as Hell Industries (althought not as horribly painful), fight hordes of eldritch AND mechanical horrors alike with your own mechanical horrors!\nOverthrow a government, kill god and ravage an entire planet now!"
   },
   {
     "repo": "teaeempire/gghv7",
@@ -7894,6 +7894,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds some OST from Infinitode 2 and Portal Stories: Mel"
+  },
+  {
+    "repo": "dx-36/trolldustryv8",
+    "internalName": "trolldustryv8",
+    "name": "Trolldustry V8",
+    "author": "DX-36",
+    "lastUpdated": "2025-04-20T03:14:32Z",
+    "stars": 1,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "modifies the campain maps to troll you, now in V8 (Serpulo maps up to Planetary Launch Terminal)\nthis mod will overwrite campaign sectors with troll versions, have fun"
   },
   {
     "repo": "decar4ct/advancedwaterextractor",
@@ -9982,18 +9994,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "very poopy dustry"
-  },
-  {
-    "repo": "dx-36/trolldustryv8",
-    "internalName": "trolldustryv8",
-    "name": "Trolldustry V8",
-    "author": "DX-36",
-    "lastUpdated": "2025-04-20T03:14:32Z",
-    "stars": 0,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "modifies the campain maps to troll you, now in V8 (Serpulo maps up to Planetary Launch Terminal)\nthis mod will overwrite campaign sectors with troll versions, have fun"
   },
   {
     "repo": "sharkjr17/periodic",
