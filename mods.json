@@ -88,7 +88,7 @@
     "internalName": "asthosus",
     "name": "Asthosus",
     "author": "Catser",
-    "lastUpdated": "2025-07-06T08:33:40Z",
+    "lastUpdated": "2025-07-06T11:35:44Z",
     "stars": 146,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -228,6 +228,18 @@
     "description": "[yellow]Before you'll play this mod, let me tell you that [red]skill and patience are highly required.\n[yellow]You need to learn from your mistakes and lost battles in order to complete some sectors.[white]\nWelcome to the Frozen farlands,\nhere, where there is no such thing called heat, Serpulo's Moon Awaits you!\nZilo, a place colonized by Bushark the fraction from Tantros,\nEven if that's only a moon there are many new things, new resources, blocks, units, turrets, just everything.\nThere is one more place we would like you to visit... Gheţar\nA Lonely Asteroid orbiting behind Zilo,\nMaybe it's a small place but it doesn't means it is going to be easy in there, but surely you'd be having fun...\n\nThis mod contains custom soundtracks, please do not steal them... instead get a better vibe while playing\nAnd Thanks to [#8c0303]Świrek[white] for helping us with code.\nWe hope you'll enjoy our mod\nThis Isn't our last creation, we have a huge plans upcoming, if you are interested in our plans, concepts and updates join our discord server\nOur contributtors: [#36a855]RouterXdd[white], [#327db3]Silin Veredno[white] and [#dba642]Catana8735[white]\nlink: [blue]https://discord.gg/TQTW3mfYyf[white]\nWe also have it on a disboard."
   },
   {
+    "repo": "meepoffaith/prog-mats-java",
+    "internalName": "",
+    "name": "Meepscellaneous Concepts",
+    "author": "MEEP of Faith (And a bunch of contributors. Load the game with Meepscillaneous Concepts enabled to view them!)",
+    "lastUpdated": "2025-06-03T00:12:08Z",
+    "stars": 80,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A collection of random ideas that come to my head.\n\nREQUIRES `MEEPofFaith/black-hole-renderer` TO RUN."
+  },
+  {
     "repo": "deltanedas/rtfm",
     "internalName": "rtfm",
     "name": "RTFM",
@@ -238,18 +250,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Mod that adds a manual page library. RTFM in the About menu.\nComes with documentation of vanilla'a Logic system.\nOptionally requires deltanedas/ui-lib for extra buttons.\npt_BR translations by King-BR"
-  },
-  {
-    "repo": "meepoffaith/prog-mats-java",
-    "internalName": "",
-    "name": "Meepscellaneous Concepts",
-    "author": "MEEP of Faith (And a bunch of contributors. Load the game with Meepscillaneous Concepts enabled to view them!)",
-    "lastUpdated": "2025-06-03T00:12:08Z",
-    "stars": 79,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A collection of random ideas that come to my head.\n\nREQUIRES `MEEPofFaith/black-hole-renderer` TO RUN."
   },
   {
     "repo": "deltanedas/ui-lib",
@@ -588,18 +588,6 @@
     "description": "A tech demo mod with a bunch of stuff, whose content is all in lore made by the pure will of a person."
   },
   {
-    "repo": "coaldeficit/moredefences",
-    "internalName": "md3",
-    "name": "MoreDefences",
-    "author": "CD, 7rodo and meowkitty",
-    "lastUpdated": "2025-07-06T00:52:51Z",
-    "stars": 31,
-    "minGameVersion": "147",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod made by CD, meowkitty and 7rodo that features:\n- A new planet.\n- LOTS of new Serpulo content such as units, turrets, sectors, etc.\n- Many changes to existing Serpulo content.\n- Some new erekir content.\n- Cross-mod content with a couple few mods.\n- FULL Multiplayer and Android compatibility.\n- Extra minor additions.\n\nDiscord: https://discord.gg/9YHA3q8HHq"
-  },
-  {
     "repo": "sh1penfire/meld",
     "internalName": "meld",
     "name": "Meld",
@@ -610,6 +598,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "[accent]An experimental RTS mod. Features a rich environment and a unique cast of enemies to fight.[]\n\nTrudge through Ikaru, home to [#ea9ad6]Meld[]. Salvage the remains of previous incursions. Fend off the wildlife.\n\nPlay as a field commander. Rally tierless specialists to push back the flood of constructs.\n\n[red]DEFEND, TAKE GROUND, HARVEST, REPEAT[]\n\n[accent]*Campaign will not be worked on till sufficient content is finished. There are custom game maps to play though!\n\nThis type of project takes lots of time to develop so if you wana know what's happening with the mod, join the Mindustry discord server and look for Meld in the fourm thread :D\n\nAlternatively, join the Meld discord server!\nhttps://discord.gg/NdWMm73H79[]\n"
+  },
+  {
+    "repo": "coaldeficit/moredefences",
+    "internalName": "md3",
+    "name": "MoreDefences",
+    "author": "CD, 7rodo and meowkitty",
+    "lastUpdated": "2025-07-06T11:50:15Z",
+    "stars": 31,
+    "minGameVersion": "147",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod made by CD, meowkitty and 7rodo that features:\n- A new planet.\n- LOTS of new Serpulo content such as units, turrets, sectors, etc.\n- Many changes to existing Serpulo content.\n- Some new erekir content.\n- Cross-mod content with a couple few mods.\n- FULL Multiplayer and Android compatibility.\n- Extra minor additions.\n\nDiscord: https://discord.gg/9YHA3q8HHq"
   },
   {
     "repo": "andromeda-galaxy29/psammos-mod",
@@ -856,7 +856,7 @@
     "internalName": "as",
     "name": "Asterion",
     "author": " |Asterion Team| ",
-    "lastUpdated": "2025-07-05T19:19:23Z",
+    "lastUpdated": "2025-07-06T10:52:50Z",
     "stars": 22,
     "minGameVersion": "147",
     "hasScripts": true,
@@ -1080,6 +1080,18 @@
     "description": "This a mod that can show the hidden item of the item bridge."
   },
   {
+    "repo": "lehanchic25/testplanetmindustry",
+    "internalName": "test",
+    "name": "Test",
+    "author": "Lehanchic25",
+    "lastUpdated": "2024-12-26T10:27:58Z",
+    "stars": 17,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "My new planet mod!"
+  },
+  {
     "repo": "huanxefh/reindustrialization",
     "internalName": "reind",
     "name": "Reindustrialization",
@@ -1164,18 +1176,6 @@
     "description": "A mod that adds many different types of duos, recreates vanilla blocks into duos, and duo units! Discord Tag: gwapowo"
   },
   {
-    "repo": "lehanchic25/testplanetmindustry",
-    "internalName": "test",
-    "name": "Test",
-    "author": "Lehanchic25",
-    "lastUpdated": "2024-12-26T10:27:58Z",
-    "stars": 16,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "My new planet mod!"
-  },
-  {
     "repo": "thomasthings/xenacia",
     "internalName": "xenacia",
     "name": "Xenacia",
@@ -1192,7 +1192,7 @@
     "internalName": "carpe-diem",
     "name": "Carpe Diem",
     "author": "Nullotte",
-    "lastUpdated": "2025-07-05T18:23:26Z",
+    "lastUpdated": "2025-07-06T11:47:02Z",
     "stars": 16,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -1356,6 +1356,18 @@
     "description": "WIP"
   },
   {
+    "repo": "meepoffaith/black-holes-library",
+    "internalName": "black-hole-renderer",
+    "name": "Black Holes Library",
+    "author": "MEEPofFaith",
+    "lastUpdated": "2025-06-02T11:51:03Z",
+    "stars": 14,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A library mod for rendering black holes."
+  },
+  {
     "repo": "lysent/etigei-exile",
     "internalName": "etigeox",
     "name": "Etigei Exile",
@@ -1486,18 +1498,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The best sensory overload you can get, at least legally."
-  },
-  {
-    "repo": "meepoffaith/black-holes-library",
-    "internalName": "black-hole-renderer",
-    "name": "Black Holes Library",
-    "author": "MEEPofFaith",
-    "lastUpdated": "2025-06-02T11:51:03Z",
-    "stars": 13,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A library mod for rendering black holes."
   },
   {
     "repo": "blackdeluxecat/schematicparse",
@@ -4252,7 +4252,7 @@
     "internalName": "astherive-gen",
     "name": "Astherive: Genesis",
     "author": "Astherive Team",
-    "lastUpdated": "2025-07-06T09:34:51Z",
+    "lastUpdated": "2025-07-06T11:35:24Z",
     "stars": 4,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -6480,11 +6480,23 @@
     "description": "[white]Da[lightgray]rke[gray]ns [white]bright tiles to reduce eye strain"
   },
   {
+    "repo": "sambuyya/waterbattleship",
+    "internalName": "water-battleship",
+    "name": "Water Battleship",
+    "author": "SAMBUYYA",
+    "lastUpdated": "2025-07-06T10:16:33Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Let us war at the water territory!"
+  },
+  {
     "repo": "novanox4/astralis",
     "internalName": "astralis",
     "name": "Astralis",
     "author": "NV-NX, Haznobrain",
-    "lastUpdated": "2025-07-05T20:15:20Z",
+    "lastUpdated": "2025-07-06T10:48:53Z",
     "stars": 2,
     "minGameVersion": "149",
     "hasScripts": false,
@@ -8122,18 +8134,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "JSON-javaScript compliation of several mods that are unplayable. \n\nThe contents as they were, no balancing adjustments, no respriting unless prompted. All sprites belong to respective owners"
-  },
-  {
-    "repo": "sambuyya/waterbattleship",
-    "internalName": "water-battleship",
-    "name": "Water Battleship",
-    "author": "SAMBUYYA",
-    "lastUpdated": "2025-07-04T15:16:22Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Let us war at the water territory!"
   },
   {
     "repo": "xpdustry/kotlin-runtime",
@@ -10488,18 +10488,6 @@
     "description": "An incmplete mod that represents failed solar system far far away from the sun."
   },
   {
-    "repo": "tafgo7162/aerion",
-    "internalName": "aerion",
-    "name": "Aerion",
-    "author": "Tafgo7162",
-    "lastUpdated": "2025-06-29T14:54:18Z",
-    "stars": 0,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Aerion mod was actually made before, but got abandoned, so that's just new version"
-  },
-  {
     "repo": "darksidethelol/planetary-warfare",
     "internalName": "",
     "name": "Planetary Warfare",
@@ -10582,5 +10570,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "- Heavily altered fork of Upgraded Tiers.\n- This mod adds scaled versions of Serpulo blocks, with extra Q-o-L blocks in certain categories.\n- thanks to original authors: \n- mq_1175 for base mod and sprites\n- sputnuc(?) for added oil gens and added content from base mod"
+  },
+  {
+    "repo": "tafgo7162/aerion",
+    "internalName": "aerion",
+    "name": "Aerion",
+    "author": "Tafgo7162",
+    "lastUpdated": "2025-07-06T10:42:19Z",
+    "stars": 0,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Aerion mod was actually made before, but got abandoned, so that's just new version"
   }
 ]
