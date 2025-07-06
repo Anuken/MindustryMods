@@ -88,7 +88,7 @@
     "internalName": "asthosus",
     "name": "Asthosus",
     "author": "Catser",
-    "lastUpdated": "2025-07-05T17:00:05Z",
+    "lastUpdated": "2025-07-06T08:33:40Z",
     "stars": 146,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -197,7 +197,7 @@
     "name": "Saturation Firepower Mod",
     "author": "RAdea.exe",
     "lastUpdated": "2025-07-05T17:25:16Z",
-    "stars": 85,
+    "stars": 86,
     "minGameVersion": "149",
     "hasScripts": false,
     "hasJava": true,
@@ -384,6 +384,18 @@
     "description": "New guns, drills, crafting, materials and resourses"
   },
   {
+    "repo": "eb-wilson/toomanyitems",
+    "internalName": "tmi",
+    "name": "Too Many Items",
+    "author": "EBwilson",
+    "lastUpdated": "2025-06-04T15:04:48Z",
+    "stars": 52,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "An auxiliary mod that provides you with quick retrieval of production and collection guidance information for materials, units, buildings, minerals, etc., so that you are no longer overwhelmed by installing too many mods.\n\n---\n\n一个辅助mod，为您提供快速检索材料，单位，建筑和矿物等的生产与采集引导信息，让您不再因为安装了太多mod而不知所措"
+  },
+  {
     "repo": "vvseangtvv/project-restoration",
     "internalName": "restored-mind",
     "name": "Project: Restoration",
@@ -394,18 +406,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry builds including some classic ones are added to Mindustry v7!"
-  },
-  {
-    "repo": "eb-wilson/toomanyitems",
-    "internalName": "tmi",
-    "name": "Too Many Items",
-    "author": "EBwilson",
-    "lastUpdated": "2025-06-04T15:04:48Z",
-    "stars": 51,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "An auxiliary mod that provides you with quick retrieval of production and collection guidance information for materials, units, buildings, minerals, etc., so that you are no longer overwhelmed by installing too many mods.\n\n---\n\n一个辅助mod，为您提供快速检索材料，单位，建筑和矿物等的生产与采集引导信息，让您不再因为安装了太多mod而不知所措"
   },
   {
     "repo": "mindustry-antigrief/installer",
@@ -604,7 +604,7 @@
     "internalName": "meld",
     "name": "Meld",
     "author": "Sh1penfire",
-    "lastUpdated": "2025-07-06T06:55:51Z",
+    "lastUpdated": "2025-07-06T09:38:28Z",
     "stars": 31,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1092,18 +1092,6 @@
     "description": "\nA simple javascript mod that adds a hell amount of contents and mechanics to the game.\n\nTech tree, environment and gameplay totally separated from vanilla game.\n\nBased on chemical engineering and chemistry classes, or not. No more fictional real names.\n\nDesigned for Greg Tech-styled mod enjoyers/sufferers, not typical Mindustry players.\n\nWill be WIP forever.\n\nSee the complete credits in game!\n"
   },
   {
-    "repo": "itzcraft/xanthia",
-    "internalName": "xanthia-3",
-    "name": "Xanthia",
-    "author": "[accent]Coders:[] Decaract, ItzCraft, Nahan\n\n[accent]Spriters:[] Decaract, Nahan\n\n[accent]Testers:[] DarkSniper, Nahan, ItzCraft, AnDashik\n\n[accent]Contributors:[] Arbuzer, Los Sasikos, AnDashik\n\n[accent]Translators:[] Kevin Vilyan, ItzCraft",
-    "lastUpdated": "2025-06-28T15:07:55Z",
-    "stars": 17,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Discover and explore a brand new planet with its own campaign: Xanthia, a mountainous hot planet with more dangers and threat hiding there.\n\nRemember that Xanthia is in beta test right now. Everything is subject to change.\n\nAnd please, try to download it not from releases due to releases can have unfounded bugs but latest version of the mod could have fixed that. "
-  },
-  {
     "repo": "jirocab/nyfalis",
     "internalName": "olupis",
     "name": "Nyfalis (Olupis)",
@@ -1114,6 +1102,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "(⚠Work in progress⚠)\n Yet another planet mod \nThat does it's best to give the player(s) a bit of something new,\n with a minor hint of what the base game has to offer, focus on RTS controls, and pain on top"
+  },
+  {
+    "repo": "itzcraft/xanthia",
+    "internalName": "xanthia-3",
+    "name": "Xanthia",
+    "author": "[accent]Coders:[] Decaract, ItzCraft, Nahan\n\n[accent]Spriters:[] Decaract, Nahan\n\n[accent]Testers:[] DarkSniper, Nahan, ItzCraft, AnDashik\n\n[accent]Contributors:[] Arbuzer, Los Sasikos, AnDashik\n\n[accent]Translators:[] Kevin Vilyan, ItzCraft",
+    "lastUpdated": "2025-07-06T08:07:44Z",
+    "stars": 17,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Discover and explore a brand new planet with its own campaign: Xanthia, a mountainous hot planet with more dangers and threat hiding there.\n\nRemember that Xanthia is in beta test right now. Everything is subject to change.\n\nAnd please, try to download it not from releases due to releases can have unfounded bugs but latest version of the mod could have fixed that. "
   },
   {
     "repo": "mnemotechnician/new-controls-public",
@@ -2164,7 +2164,7 @@
     "internalName": "creators",
     "name": "创世神2-起源独立版",
     "author": "编号9527",
-    "lastUpdated": "2025-06-18T22:28:36Z",
+    "lastUpdated": "2025-07-06T08:02:34Z",
     "stars": 9,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -2440,7 +2440,7 @@
     "internalName": "hld",
     "name": "High-level Divisions",
     "author": "D&X",
-    "lastUpdated": "2025-07-06T07:05:00Z",
+    "lastUpdated": "2025-07-06T09:08:32Z",
     "stars": 8,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2482,18 +2482,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds different light sources to the player unit. Purely a visual mod."
-  },
-  {
-    "repo": "slava0135/seadustry",
-    "internalName": "seadustry",
-    "name": "Seadustry",
-    "author": "Slava0135",
-    "lastUpdated": "2022-11-01T16:59:27Z",
-    "stars": 7,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Survive on sand island and expand by placing land on water around "
   },
   {
     "repo": "sakuralilly/powered-by-nature",
@@ -2748,6 +2736,18 @@
     "description": "THE SECOND INSTALLMENT to the lore of the crux\n\n A mod that adds a new planet and it focuses on combat.\n\nA planet called shards was located far away from the sun\nyour sent mission was to destroy this planet but you went to investigate the new planet but soon to discover this planet had been destroyed but what lives on this planet and why...\n\nShards: a strange mystic planet filled with snow and unnamed matter across its surface but deeper down the more crystal stone will be. beware that the surface is covered in slow pace purple like winds. \n\nkjol: a surging cold moon was the last history before the D##N#7# incident.\n\nMake sure to reinstall regular or your progression will be error\n\nEvents coming: [\n-waste land mode\n-rework units effects and descriptions\n-sector balances\n-halloween event soon!\n-christmas event soon \n-secret mode?\n]\nVengeance will happen"
   },
   {
+    "repo": "slava0135/seadustry",
+    "internalName": "seadustry",
+    "name": "Seadustry",
+    "author": "Slava0135",
+    "lastUpdated": "2025-07-06T08:52:11Z",
+    "stars": 7,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Survive on sand island and expand by placing land on water around "
+  },
+  {
     "repo": "xzxadixzx/crawler-language",
     "internalName": "crawler-language",
     "name": "Crawler Language",
@@ -2988,18 +2988,6 @@
     "description": "the osakan worlds project will focus on adding a new planet(maybe) cluster that can connect with each other (first planets name is osaka)\n  Enjoy!\n   also is the place of containment of some of my ideas like a gregtech-styled mod, so stuff inside the mod can clash\nwere hallucinating you to give us a star, please if you instal this mod give us a star on github so we know you enjoy the torture of whatever this is"
   },
   {
-    "repo": "sputnuc/expansion",
-    "internalName": "exp",
-    "name": "Expansion mod",
-    "author": "sputnuc",
-    "lastUpdated": "2025-06-22T07:24:52Z",
-    "stars": 6,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "[ENG]A mod that adds new content to serpulo.\n\n[Ru]Мод добавляющий новый контент для серпуло."
-  },
-  {
     "repo": "frilofril19/cobatstry",
     "internalName": "cobatstry",
     "name": "Cobatstry",
@@ -3046,6 +3034,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Welcome to Arikoth, a massive desert planet. Arrikoth has a single massive ocean and 3 small continents is in its beta version"
+  },
+  {
+    "repo": "sputnuc/expansion",
+    "internalName": "exp",
+    "name": "Expansion mod",
+    "author": "sputnuc",
+    "lastUpdated": "2025-07-06T09:10:33Z",
+    "stars": 6,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Является модом-расширением серпуло, также планируется эрекир контент \nP.s Мой первый мод"
   },
   {
     "repo": "yaroslav242/yfjs",
@@ -4252,7 +4252,7 @@
     "internalName": "astherive-gen",
     "name": "Astherive: Genesis",
     "author": "Astherive Team",
-    "lastUpdated": "2025-07-06T07:57:18Z",
+    "lastUpdated": "2025-07-06T09:34:51Z",
     "stars": 4,
     "minGameVersion": "147",
     "hasScripts": false,
