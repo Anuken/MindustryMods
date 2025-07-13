@@ -329,7 +329,7 @@
     "name": "BioTech",
     "author": "Jammuu",
     "lastUpdated": "2025-06-08T01:45:59Z",
-    "stars": 63,
+    "stars": 64,
     "minGameVersion": "148",
     "hasScripts": false,
     "hasJava": true,
@@ -648,6 +648,18 @@
     "description": "A mod provides a variety of tools for modding.\n\n-----------------\nVersion 1.5.6\n## Highlight\n- Added some new features.\n- Fixed some bugs.\n-----------------\n\n## ShowUIList\n\n- Display `icon`, `tex`, `styles`, `colors`, `interps`\\\n!(./screenshots/UIList.png)\n\n## Tester\n\n!(./screenshots/tester.png)\n\n- Provide `JS` editor `Tester`\n- Shortcuts\n- Press `Ctrl`+`Shift`+`Enter` to `execute` code immediately\n- Press `Ctrl`+`Shift`+`↑/↓` to switch `history` records\n- Press `Ctrl`+`Shift`+`D` to `view` detailed information\n- Press `Alt`+`V` to preview `Texture`\n- Built-in `unsafe`, `lookup`\n- Built-in `IntFunc` class (abbreviated as `$`)\n- `$.xxx` can represent primitive data types (e.g., `$.void` represents `Void.TYPE`;`$.J` represents long.class)\n- `$p` represents `Packages`\n- Code: [JSFunc](https://github.com/i-hope1/mod-tools/src/modtools/utils/JSFunc.java)\n- Long press on code in the favorites to add to startup items\\\n!(./screenshots/startup.png)\n- Quick switch history\\\n![Screenshot 2024-03-10 14-45-37](https://github.com/I-hope1/mod-tools/assets/78016895/4918af35-19af-4fab-b961-70bdc8679fe8)\n- `$.item`, `$.liquid`, `$.unit` and so on.\n\n## UnitSpawn\n\n- Multiple team selection\n- Support for fixed point spawning\n- Display `name` and `localizedName`\n- Rightclick the name Label to copy save as JS var.\n\n## Selection\n\n- Selector\n- Supports `Tile`, `Building`, `Bullet`, `Unit`\n- Kill\n- Set Item/Liquid/Team\n- Press `Ctrl`+`Alt` to fix Focus Window\n\n## ReviewElement\n\n- Display element list, double-click to copy element to js variable\n- `Ctrl`+`Shift`+`C` to Inspect Element\n- `Ctrl`+`Alt`+`D` to display bounds of Element\n- Select untouchable elements\n- Mobile: Filter current element with two fingers\n- PC: Press `F` to filter current element\n- Functions shortcuts for Element\n- `i`: display details (open ShowInfoWindow)\\\n- `p`(for Image):  show `DrawablePicker`\n- `del`: (`shift` to ignore confirmation), delete element\n- `<` / `>`: collapse Group\n- `f`: fix floating Info column\n- `r`: invoke element's method\n\n- ![reviewElement](./screenshots/review_element.png)\n\n# Frag\n\n- Double-click the blue part of Frag to minimize/restore Frag\n- In the minimized state, click the blue part, it will behave like a floating ball\n\n## Window\n\n- Press `Ctrl`+`Tab` to switch windows\n- Press `Shift`+`F4` to close current window\n- RClick the close button to move and scl window.\n\n## ShowInfoWindow\n\n- Show all fields, methods, constructors and nested classes of a obj.\n- Field can be modified.\n- Method can be Invoked(Special).\n- Constructor can be invoked to new a instance.\n\n## Others\n\n### Extensions\n- Http Redirect\n> Redirect some websites, such as: github\\\n> Configuration file: b0kkihope/http_redirect.properties"
   },
   {
+    "repo": "way-zer/contentstweaker",
+    "internalName": "contentstweaker",
+    "name": "ContentsTweaker-内容包修改器",
+    "author": "WayZer",
+    "lastUpdated": "2025-07-03T15:49:33Z",
+    "stars": 28,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Dynamic load custom contents patch account to server"
+  },
+  {
     "repo": "zelaux/bytelogicmod",
     "internalName": "byte-logic-mod",
     "name": "Byte Logic Mod",
@@ -658,18 +670,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds byte logic blocks from v5"
-  },
-  {
-    "repo": "way-zer/contentstweaker",
-    "internalName": "contentstweaker",
-    "name": "ContentsTweaker-内容包修改器",
-    "author": "WayZer",
-    "lastUpdated": "2025-07-03T15:49:33Z",
-    "stars": 27,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Dynamic load custom contents patch account to server"
   },
   {
     "repo": "routerxdd/erekir-extended",
@@ -6468,18 +6468,6 @@
     "description": "Changes music files to tracks from the SANABI game (not a bad game, I advise you to take a closer look at it)"
   },
   {
-    "repo": "novanox4/astralis",
-    "internalName": "astralis",
-    "name": "Astralis",
-    "author": "NV-NX, Haznobrain",
-    "lastUpdated": "2025-07-12T20:46:42Z",
-    "stars": 2,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\nIN DEVELOPMENT, EXPECT BUGS AND UNFINISHED/UNPOLISHED CONTENT!\nAstralis is a mod focused on adding a brand new campaign on a planet harboring the same name.\nSet in the same universe as Hell Industries (althought not as horribly painful), fight hordes of eldritch AND mechanical horrors alike with your own mechanical horrors!\nOverthrow a government, kill god and ravage an entire planet now!"
-  },
-  {
     "repo": "rocket550/zytheron-technology",
     "internalName": "1zytheron",
     "name": "Zytheron Technology(Beta)",
@@ -6490,6 +6478,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "(This mod is on BETA so many things can change in the future)\n\nThis is my first mod, so dont hope its going to have very high quality. This mod adds new units, turrets, factories, ores, a new planet and more (Extra: the textures are made in paint by the way,Develoment Help: melis and WALLE-E)"
+  },
+  {
+    "repo": "novanox4/astralis",
+    "internalName": "astralis",
+    "name": "Astralis",
+    "author": "NV-NX, Haznobrain",
+    "lastUpdated": "2025-07-13T09:54:46Z",
+    "stars": 2,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nIN DEVELOPMENT, EXPECT BUGS AND UNFINISHED/UNPOLISHED CONTENT!\nAstralis is a mod focused on adding a brand new campaign on a planet harboring the same name.\nSet in the same universe as Hell Industries (althought not as horribly painful), fight hordes of eldritch AND mechanical horrors alike with your own mechanical horrors!\nOverthrow a government, kill god and ravage an entire planet now!"
   },
   {
     "repo": "teaeempire/gghv7",
