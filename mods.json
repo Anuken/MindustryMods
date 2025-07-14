@@ -252,6 +252,18 @@
     "description": "Mod that adds a manual page library. RTFM in the About menu.\nComes with documentation of vanilla'a Logic system.\nOptionally requires deltanedas/ui-lib for extra buttons.\npt_BR translations by King-BR"
   },
   {
+    "repo": "blackdeluxecat/mi2-utilities-java",
+    "internalName": "mi2-utilities-java",
+    "name": "MI2-Utilities Java",
+    "author": "BlackDeluxeCat",
+    "lastUpdated": "2025-07-13T04:28:31Z",
+    "stars": 79,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "QOL Mod, powerful assists to vanilla gameplay. For destined Mindustry players."
+  },
+  {
     "repo": "deltanedas/ui-lib",
     "internalName": "ui_lib",
     "name": "UI Lib",
@@ -274,18 +286,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a dialog for turning images into processor schematics.\nRequires deltanedas/ui-lib."
-  },
-  {
-    "repo": "blackdeluxecat/mi2-utilities-java",
-    "internalName": "mi2-utilities-java",
-    "name": "MI2-Utilities Java",
-    "author": "BlackDeluxeCat",
-    "lastUpdated": "2025-07-13T04:28:31Z",
-    "stars": 78,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "QOL Mod, powerful assists to vanilla gameplay. For destined Mindustry players."
   },
   {
     "repo": "willoizcitron/archivedustry-java",
@@ -768,18 +768,6 @@
     "description": "Another go, once more."
   },
   {
-    "repo": "uenhe/fire",
-    "internalName": "fire",
-    "name": "Fire",
-    "author": "飞雨a_sszylfyzgmz\nKochiyaUeneh油苗子",
-    "lastUpdated": "2025-07-11T10:05:27Z",
-    "stars": 24,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#FFE9BF]A Mindustry Mod that adds many unique things...\nClick the 'Repo' button below to skip to GitHub page.\nAny feedback, GitHub issue, pull request or translation tweak is welcome.\nStar us on GitHub if you suppose this mod awesome!\n\n模组QQ交流群: 711467227\n模组GitHub页面点击下方'查看'按钮即可跳转\n一个奇奇怪怪又十分核锂的mod...\n欢迎反映任何关于此模组的BUG和建议\n去GitHub star我们再好不过了!"
-  },
-  {
     "repo": "eb-wilson/helium",
     "internalName": "he",
     "name": "Helium",
@@ -790,6 +778,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod provide optimized ui and more utilities.\nMajor features:\n- ***In-Game Entity Information Components***: Provides various UI elements for game entities including units and blocks\n- ***Health & Status Indicators***: Displays real-time status (health, shields) above units and entities. When shield stacks exceed max health, multi-layer shields with stack counters are shown.\n- ***Attack Range Indicators***: Units and turrets now visualize their attack ranges as translucent areas. Processed boundaries emphasize combined team range contours to prevent visual clutter, with subtle pulsating animations and chromatic borders.\n- ***Functional Block Effect Range Indicators***: Devices like Mend Projectors, Overdrive Projectors, and unit repair stations display effect ranges with distinctive colors.\n- ***Enhanced Block Placement Panel***: A refined block selection panel integrating a quick item bar and standardized tool buttons.\n- ***The better Mod Manager and Mod Browser***: Reworked the Mods Manager and Mods Browser, now they looks more aesthetically pleasing and functional"
+  },
+  {
+    "repo": "uenhe/fire",
+    "internalName": "fire",
+    "name": "Fire",
+    "author": "飞雨a_sszylfyzgmz\nKochiyaUeneh油苗子",
+    "lastUpdated": "2025-07-14T07:21:05Z",
+    "stars": 24,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#FFE9BF]A Mindustry Mod that adds many unique things...\nClick the 'Repo' button below to skip to GitHub page.\nAny feedback, GitHub issue, pull request or translation tweak is welcome.\nStar us on GitHub if you suppose this mod awesome!\n\n模组QQ交流群: 711467227\n模组GitHub页面点击下方'查看'按钮即可跳转\n一个奇奇怪怪又十分核锂的mod...\n欢迎反映任何关于此模组的BUG和建议\n去GitHub star我们再好不过了!"
   },
   {
     "repo": "realshizi/oxynoe",
@@ -1368,6 +1368,18 @@
     "description": "A library mod for rendering black holes."
   },
   {
+    "repo": "blackdeluxecat/schematicparse",
+    "internalName": "schematicparse",
+    "name": "Schematic Parse",
+    "author": "BlackDeluxeCat",
+    "lastUpdated": "2025-07-03T11:22:57Z",
+    "stars": 14,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "1.从蓝图详情页直接复制逻辑和信息板。2.蓝图消耗计算套件。\nCopy processor/message in schematic info without placing it. Schematic consumption computing tool. \nGithub: BlackDeluxeCat/SchematicParse"
+  },
+  {
     "repo": "lysent/etigei-exile",
     "internalName": "etigeox",
     "name": "Etigei Exile",
@@ -1500,18 +1512,6 @@
     "description": "The best sensory overload you can get, at least legally."
   },
   {
-    "repo": "blackdeluxecat/schematicparse",
-    "internalName": "schematicparse",
-    "name": "Schematic Parse",
-    "author": "BlackDeluxeCat",
-    "lastUpdated": "2025-07-03T11:22:57Z",
-    "stars": 13,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "1.从蓝图详情页直接复制逻辑和信息板。2.蓝图消耗计算套件。\nCopy processor/message in schematic info without placing it. Schematic consumption computing tool. \nGithub: BlackDeluxeCat/SchematicParse"
-  },
-  {
     "repo": "eclipse-04/avkott",
     "internalName": "avkott",
     "name": "Avkott",
@@ -1570,6 +1570,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Stripped down version of the original mod. Contains only CLaJ and enlarged schematics."
+  },
+  {
+    "repo": "blackdeluxecat/shadowshader",
+    "internalName": "shadowshader",
+    "name": "Shadow Shader",
+    "author": "BlackDeluxeCat",
+    "lastUpdated": "2024-02-19T03:21:11Z",
+    "stars": 12,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "SHADOOOW your GAME!! repo: BlackDeluxeCat/ShadowShader"
   },
   {
     "repo": "teamoct/erekir-music",
@@ -1714,18 +1726,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "What Am I Shooting At, shows info on targeted enemies.\nRequires deltanedas/ui-lib."
-  },
-  {
-    "repo": "blackdeluxecat/shadowshader",
-    "internalName": "shadowshader",
-    "name": "Shadow Shader",
-    "author": "BlackDeluxeCat",
-    "lastUpdated": "2024-02-19T03:21:11Z",
-    "stars": 11,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "SHADOOOW your GAME!! repo: BlackDeluxeCat/ShadowShader"
   },
   {
     "repo": "newb7140/duomod",
@@ -5148,6 +5148,18 @@
     "description": "Ark Of Rebirth or mod-AR is a mod that aim to extend the campaign by adding two more additional planets,now with comete reworks and resprites. Please note that the campaign is not tested yet after the rework and may not be playable."
   },
   {
+    "repo": "blackdeluxecat/mitour-lib",
+    "internalName": "mitour-lib",
+    "name": "MI Tour Lib",
+    "author": "BlackDeluxeCat",
+    "lastUpdated": "2025-06-30T15:54:09Z",
+    "stars": 3,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "MI2's Lib Mod. 界面、IO、渲染工具类，不涉及游戏内容。"
+  },
+  {
     "repo": "xavierisdeadasheck15/infinity-industry",
     "internalName": "infinidustry",
     "name": "Infinity Industry",
@@ -6382,18 +6394,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod adding a new planet called Tekton, with lots of hazards and other things."
-  },
-  {
-    "repo": "blackdeluxecat/mitour-lib",
-    "internalName": "mitour-lib",
-    "name": "MI Tour Lib",
-    "author": "BlackDeluxeCat",
-    "lastUpdated": "2025-06-30T15:54:09Z",
-    "stars": 2,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "MI2's Lib Mod. 界面、IO、渲染工具类，不涉及游戏内容。"
   },
   {
     "repo": "siligone69/darkmodetexturepack",
