@@ -588,18 +588,6 @@
     "description": "A tech demo mod with a bunch of stuff, whose content is all in lore made by the pure will of a person."
   },
   {
-    "repo": "sh1penfire/meld",
-    "internalName": "meld",
-    "name": "Meld",
-    "author": "Sh1penfire",
-    "lastUpdated": "2025-07-12T08:14:50Z",
-    "stars": 31,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "[accent]An experimental RTS mod. Features a rich environment and a unique cast of enemies to fight.[]\n\nTrudge through Ikaru, home to [#ea9ad6]Meld[]. Salvage the remains of previous incursions. Fend off the wildlife.\n\nPlay as a field commander. Rally tierless specialists to push back the flood of constructs.\n\n[red]DEFEND, TAKE GROUND, HARVEST, REPEAT[]\n\n[accent]*Campaign will not be worked on till sufficient content is finished. There are custom game maps to play though!\n\nThis type of project takes lots of time to develop so if you wana know what's happening with the mod, join the Mindustry discord server and look for Meld in the fourm thread :D\n\nAlternatively, join the Meld discord server!\nhttps://discord.gg/NdWMm73H79[]\n"
-  },
-  {
     "repo": "coaldeficit/moredefences",
     "internalName": "md3",
     "name": "MoreDefences",
@@ -610,6 +598,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod made by CD, meowkitty and 7rodo that features:\n- A new planet.\n- LOTS of new Serpulo content such as units, turrets, sectors, etc.\n- Many changes to existing Serpulo content.\n- Some new erekir content.\n- Cross-mod content with a couple few mods.\n- FULL Multiplayer and Android compatibility.\n- Extra minor additions.\n\nDiscord: https://discord.gg/9YHA3q8HHq"
+  },
+  {
+    "repo": "sh1penfire/meld",
+    "internalName": "meld",
+    "name": "Meld",
+    "author": "Sh1penfire",
+    "lastUpdated": "2025-07-17T11:42:21Z",
+    "stars": 31,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "[accent]An experimental RTS mod. Features a rich environment and a unique cast of enemies to fight.[]\n\nTrudge through Ikaru, home to [#ea9ad6]Meld[]. Salvage the remains of previous incursions. Fend off the wildlife.\n\nPlay as a field commander. Rally tierless specialists to push back the flood of constructs.\n\n[red]DEFEND, TAKE GROUND, HARVEST, REPEAT[]\n\n[accent]*Campaign will not be worked on till sufficient content is finished. There are custom game maps to play though!\n\nThis type of project takes lots of time to develop so if you wana know what's happening with the mod, join the Mindustry discord server and look for Meld in the fourm thread :D\n\nAlternatively, join the Meld discord server!\nhttps://discord.gg/NdWMm73H79[]\n"
   },
   {
     "repo": "andromeda-galaxy29/psammos-mod",
@@ -1020,6 +1020,18 @@
     "description": "Adds clientside logic debugging tools.\nRequires DeltaNedas/override-lib."
   },
   {
+    "repo": "lehanchic25/testplanetmindustry",
+    "internalName": "test",
+    "name": "Test",
+    "author": "Lehanchic25",
+    "lastUpdated": "2024-12-26T10:27:58Z",
+    "stars": 18,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "My new planet mod!"
+  },
+  {
     "repo": "laohuajiofficial/multiblocklib",
     "internalName": "multi-block-lib",
     "name": "Multi-Block Library",
@@ -1078,18 +1090,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts"
-  },
-  {
-    "repo": "lehanchic25/testplanetmindustry",
-    "internalName": "test",
-    "name": "Test",
-    "author": "Lehanchic25",
-    "lastUpdated": "2024-12-26T10:27:58Z",
-    "stars": 17,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "My new planet mod!"
   },
   {
     "repo": "huanxefh/reindustrialization",
@@ -1396,7 +1396,7 @@
     "internalName": "pyra",
     "name": "Pyra Erekir",
     "author": "\nAuthor: \"[#ff6600]Vali#5378[]\"\nHelped with the code a bit: \"Fresh791\"\nSpriter and Coder: \"[purple]Otamamori#4716[]\"\nPart time spriter: \"Abreaker\"\n",
-    "lastUpdated": "2025-07-17T09:59:51Z",
+    "lastUpdated": "2025-07-17T10:01:56Z",
     "stars": 14,
     "minGameVersion": "140",
     "hasScripts": false,
@@ -6456,18 +6456,6 @@
     "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
   },
   {
-    "repo": "novanox4/astralis",
-    "internalName": "astralis",
-    "name": "Astralis",
-    "author": "NV-NX, Haznobrain",
-    "lastUpdated": "2025-07-16T18:58:18Z",
-    "stars": 2,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\nIN DEVELOPMENT, EXPECT BUGS AND UNFINISHED/UNPOLISHED CONTENT!\nAstralis is a mod focused on adding a brand new campaign on a planet harboring the same name.\nSet in the same universe as Hell Industries (althought not as horribly painful), fight hordes of eldritch AND mechanical horrors alike with your own mechanical horrors!\nOverthrow a government, kill god and ravage an entire planet now!"
-  },
-  {
     "repo": "rocket550/zytheron-technology",
     "internalName": "1zytheron",
     "name": "Zytheron Technology(Beta)",
@@ -6484,12 +6472,24 @@
     "internalName": "delight",
     "name": "Mission: Antopia",
     "author": "Rustedbeee",
-    "lastUpdated": "2025-07-17T09:25:48Z",
+    "lastUpdated": "2025-07-17T10:05:58Z",
     "stars": 2,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
     "description": "mission Antopia:\nThe lost antopia drifts slowly around the sun, the finale part is here.\nantopia description: \nLost destroyed planet, due to the crux discovering spores a research team on antopia decided to manufacture a bio fungus type spore but like serpulo something bad happened the bio fungus leaked out and destroyed everything on the planet few millenniums later the bio fungus has faded away leaving nothing behind, YOUR mission is to fight the crux empire that's left on antopia and finally take down the sergeant: Clocksmox\n...\nCaverns nightmares :\n  A new mod series this will be the first planet out of 5 this mod adds a new planet that is erikers moon! this mod ain't easy it's very hard there are also 15 main sectors so this will be a long experience and these sectors are list to change\n\n\nplanet description: a hot planet near the sun with waistlands of heated sand/lava sand, due to hot temperatures it's nearly impossible to survive on the outside so your squad decided to drill into the ground to mine and survive but turns out there's two factions that want you gone while list fighting eachother.\n\nNOTE: caverns nightmares is officially part 0 in the series.\nThe chaos is in your hands what will you do with it?..."
+  },
+  {
+    "repo": "novanox4/astralis",
+    "internalName": "astralis",
+    "name": "Astralis",
+    "author": "NV-NX, Haznobrain",
+    "lastUpdated": "2025-07-17T11:56:42Z",
+    "stars": 2,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nIN DEVELOPMENT, EXPECT BUGS AND UNFINISHED/UNPOLISHED CONTENT!\nAstralis is a mod focused on adding a brand new campaign on a planet harboring the same name.\nSet in the same universe as Hell Industries (althought not as horribly painful), fight hordes of eldritch AND mechanical horrors alike with your own mechanical horrors!\nOverthrow a government, kill god and ravage an entire planet now!"
   },
   {
     "repo": "teaeempire/gghv7",
@@ -10618,5 +10618,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "adding new turret tech and other bit \n-the mod is not fully done so there will be releases soon"
+  },
+  {
+    "repo": "filip-mitish/china-music-china-partiya",
+    "internalName": "china music",
+    "name": "china music partiya",
+    "author": "filipok mododel(for nazar)",
+    "lastUpdated": "2025-07-17T10:36:59Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "музыка китайской партии"
   }
 ]
