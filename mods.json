@@ -1212,6 +1212,18 @@
     "description": "A mod with ambitious goals, and a fresh start. Incomplete, still in pre-pre-alpha."
   },
   {
+    "repo": "undaria/mindustry-calamity-mod",
+    "internalName": "calamity",
+    "name": "Mindustry-Calamity-Mod",
+    "author": "-Undaria-",
+    "lastUpdated": "2025-07-20T12:06:21Z",
+    "stars": 16,
+    "minGameVersion": "147",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod based on the old legend of the Terraria Calamity is being continuously updated and currently has over 300 contents! \nThe Mod campaign emphasizes blitzkrieg, please pay attention to it when playing for the first time. \nIf you encounter any problems during the gameplay, please provide feedback to the author. "
+  },
+  {
     "repo": "yuria-shikibe/gameinfoimager",
     "internalName": "game-info-imager",
     "name": "Game Info Imager",
@@ -1258,30 +1270,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod."
-  },
-  {
-    "repo": "cewwi/resurrection-mod",
-    "internalName": "resurrection",
-    "name": "Cataclysm",
-    "author": "[#0c6ed1]cewwi[] & [#BC5452FF]JJ[]",
-    "lastUpdated": "2025-07-09T20:02:01Z",
-    "stars": 15,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "We plan to add three new planets into the game, with two new tech trees. \n(actually might add much more, but one step at a time I guess)\n\nA Planet Devestated by time. Tronoe P07 was never the planet the we expected to find. \nUnder all the rubble, was an emmense cavern that had spanded through nearly the whole planet.\nWho knows what we'll find down here.\n\nYou have heard rumors... That on the dark, irradiated wasteland of Nevorix, there lie ancient technologies yet to be uncovered.\nThe only thing that stands in your way, is The New Order. A faction of mindless vessels cotrolled by the Hivemind, an amalgamation of assimilated minds.\nbring this powerful technology back from the planet, so that you may annihilate an ancient foe once and for all..."
-  },
-  {
-    "repo": "undaria/mindustry-calamity-mod",
-    "internalName": "calamity",
-    "name": "Mindustry-Calamity-Mod",
-    "author": "-Undaria-",
-    "lastUpdated": "2025-07-20T12:06:21Z",
-    "stars": 15,
-    "minGameVersion": "147",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod based on the old legend of the Terraria Calamity is being continuously updated and currently has over 300 contents! \nThe Mod campaign emphasizes blitzkrieg, please pay attention to it when playing for the first time. \nIf you encounter any problems during the gameplay, please provide feedback to the author. "
   },
   {
     "repo": "deercarbonate/azimut",
@@ -2476,12 +2464,12 @@
     "internalName": "newunits",
     "name": "New Content",
     "author": "Rylid Umil",
-    "lastUpdated": "2025-07-22T09:19:51Z",
+    "lastUpdated": "2025-07-23T00:37:22Z",
     "stars": 8,
     "minGameVersion": "147",
     "hasScripts": true,
     "hasJava": false,
-    "description": "My first mod! It adds in a lot of new vanilla branches, but I'll leave you to finding out what those are.\nThanks to my spriter Aegires for making some of theese awesome sprites!\n\nThis mod is very ambitious. And unfinished. I'm probably going to add new planets. One is already in the works."
+    "description": "My first mod! It adds in a lot of new vanilla branches, but I'll leave you to finding out what those are.\nThanks to my spriter Aegires for making some of theese awesome sprites!\n\nThis mod is very ambitious. And unfinished. I'm probably going to add new planets. One is already in the works.\n\nAs of Version 7x1, the mod's custom and new music has been moved to Chaoticans-mindustry-modding-team/New-Content-Music."
   },
   {
     "repo": "reborntrack970/infinicampaign",
@@ -10690,5 +10678,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A basic SLF4J implementation for Mindustry."
+  },
+  {
+    "repo": "chaoticans-mindustry-modding-team/new-content-music",
+    "internalName": "newunitsmusic",
+    "name": "New Content Music Pack",
+    "author": "Rylid Umil",
+    "lastUpdated": "2025-07-23T00:42:33Z",
+    "stars": 0,
+    "minGameVersion": "147",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Music pack for New Content."
   }
 ]
