@@ -148,7 +148,7 @@
     "internalName": "omaloon",
     "name": "Omaloon",
     "author": "stabu, uujuju",
-    "lastUpdated": "2025-07-24T14:08:26Z",
+    "lastUpdated": "2025-07-24T17:07:00Z",
     "stars": 117,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -341,7 +341,7 @@
     "name": "Fictional Octo System",
     "author": "Team Oct",
     "lastUpdated": "2025-03-23T17:06:50Z",
-    "stars": 60,
+    "stars": 61,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -616,7 +616,7 @@
     "internalName": "md3",
     "name": "MoreDefences",
     "author": "CD, 7rodo and meowkitty",
-    "lastUpdated": "2025-07-24T11:36:13Z",
+    "lastUpdated": "2025-07-24T17:52:11Z",
     "stars": 31,
     "minGameVersion": "149",
     "hasScripts": true,
@@ -1672,7 +1672,7 @@
     "internalName": "thezsia1",
     "name": "Thezsia Revival",
     "author": "Main developer: AnDashik\nMusic by Ace, CY4NIDE\nOther help (code, sprites, etc): ItzCraft, Weeersix, Sputnuc, CY4NIDE\nOriginal version of the mod: Thruster (aka  DisplayName)",
-    "lastUpdated": "2025-07-24T01:15:36Z",
+    "lastUpdated": "2025-07-24T16:18:36Z",
     "stars": 12,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -2964,6 +2964,18 @@
     "description": "Better visuals? Not only that!"
   },
   {
+    "repo": "nikonf20/oil-extended",
+    "internalName": "oe",
+    "name": "Oil Extended",
+    "author": "Atomic",
+    "lastUpdated": "2025-06-11T05:17:44Z",
+    "stars": 6,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Added new blocks & units that can interact with Oil and improve player quality of life"
+  },
+  {
     "repo": "oleksiy1409liut/auvathiaworlds",
     "internalName": "auvathiaworlds",
     "name": "Osakan Worlds :D",
@@ -3430,18 +3442,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": ""
-  },
-  {
-    "repo": "nikonf20/oil-extended",
-    "internalName": "oe",
-    "name": "Oil Extended",
-    "author": "Atomic",
-    "lastUpdated": "2025-06-11T05:17:44Z",
-    "stars": 5,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Added new blocks & units that can interact with Oil and improve player quality of life"
   },
   {
     "repo": "meepoffaith/extra-sand-redux",
@@ -4272,18 +4272,6 @@
     "description": "Add an admin button."
   },
   {
-    "repo": "agzam4/mindustry-mod-v8",
-    "internalName": "agzam4mod",
-    "name": "Agzam's Mod",
-    "author": "Agzam4",
-    "lastUpdated": "2025-07-24T10:22:31Z",
-    "stars": 4,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Additional functionality"
-  },
-  {
     "repo": "weeersix/xenrose",
     "internalName": "xenrose",
     "name": "Xenrose",
@@ -4294,6 +4282,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": ""
+  },
+  {
+    "repo": "agzam4/mindustry-mod-v8",
+    "internalName": "agzam4mod",
+    "name": "Agzam's Mod",
+    "author": "Agzam4",
+    "lastUpdated": "2025-07-24T17:50:20Z",
+    "stars": 4,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Additional functionality"
   },
   {
     "repo": "mythril382/u-r-a-i-c",
@@ -6508,7 +6508,7 @@
     "internalName": "astralis",
     "name": "Astralis",
     "author": "NV-NX, Haznobrain",
-    "lastUpdated": "2025-07-24T13:00:46Z",
+    "lastUpdated": "2025-07-24T16:49:28Z",
     "stars": 2,
     "minGameVersion": "149",
     "hasScripts": false,
@@ -10656,18 +10656,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "xpdustry/slf4md",
-    "internalName": "slf4md",
-    "name": "SLF4MD",
-    "author": "xpdustry",
-    "lastUpdated": "2025-07-22T04:04:29Z",
-    "stars": 0,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A basic SLF4J implementation for Mindustry."
-  },
-  {
     "repo": "chaoticans-mindustry-modding-team/new-content-music",
     "internalName": "newunitsmusic",
     "name": "New Content Music Pack",
@@ -10702,5 +10690,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Changes Mindustry's title and appends the player name for various reasons like win cap\n RESTAERT UPDATE THE TITLE"
+  },
+  {
+    "repo": "xpdustry/slf4md",
+    "internalName": "slf4md",
+    "name": "SLF4MD",
+    "author": "xpdustry",
+    "lastUpdated": "2025-07-24T18:06:12Z",
+    "stars": 0,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A basic SLF4J implementation for Mindustry."
   }
 ]
