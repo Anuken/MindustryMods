@@ -101,7 +101,7 @@
     "name": "Time Control",
     "author": "sk7725",
     "lastUpdated": "2024-07-25T09:11:47Z",
-    "stars": 144,
+    "stars": 145,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
@@ -672,6 +672,18 @@
     "description": "Adds byte logic blocks from v5"
   },
   {
+    "repo": "eb-wilson/helium",
+    "internalName": "he",
+    "name": "Helium",
+    "author": "EBwilson",
+    "lastUpdated": "2025-07-20T15:22:03Z",
+    "stars": 27,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod provide optimized ui and more utilities.\nMajor features:\n- ***In-Game Entity Information Components***: Provides various UI elements for game entities including units and blocks\n- ***Health & Status Indicators***: Displays real-time status (health, shields) above units and entities. When shield stacks exceed max health, multi-layer shields with stack counters are shown.\n- ***Attack Range Indicators***: Units and turrets now visualize their attack ranges as translucent areas. Processed boundaries emphasize combined team range contours to prevent visual clutter, with subtle pulsating animations and chromatic borders.\n- ***Functional Block Effect Range Indicators***: Devices like Mend Projectors, Overdrive Projectors, and unit repair stations display effect ranges with distinctive colors.\n- ***Enhanced Block Placement Panel***: A refined block selection panel integrating a quick item bar and standardized tool buttons.\n- ***The better Mod Manager and Mod Browser***: Reworked the Mods Manager and Mods Browser, now they looks more aesthetically pleasing and functional"
+  },
+  {
     "repo": "routerxdd/erekir-extended",
     "internalName": "erek",
     "name": "Erekir Extended",
@@ -682,18 +694,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Add the new sectors and content on Erekir"
-  },
-  {
-    "repo": "eb-wilson/helium",
-    "internalName": "he",
-    "name": "Helium",
-    "author": "EBwilson",
-    "lastUpdated": "2025-07-20T15:22:03Z",
-    "stars": 26,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod provide optimized ui and more utilities.\nMajor features:\n- ***In-Game Entity Information Components***: Provides various UI elements for game entities including units and blocks\n- ***Health & Status Indicators***: Displays real-time status (health, shields) above units and entities. When shield stacks exceed max health, multi-layer shields with stack counters are shown.\n- ***Attack Range Indicators***: Units and turrets now visualize their attack ranges as translucent areas. Processed boundaries emphasize combined team range contours to prevent visual clutter, with subtle pulsating animations and chromatic borders.\n- ***Functional Block Effect Range Indicators***: Devices like Mend Projectors, Overdrive Projectors, and unit repair stations display effect ranges with distinctive colors.\n- ***Enhanced Block Placement Panel***: A refined block selection panel integrating a quick item bar and standardized tool buttons.\n- ***The better Mod Manager and Mod Browser***: Reworked the Mods Manager and Mods Browser, now they looks more aesthetically pleasing and functional"
   },
   {
     "repo": "uenhe/fire",
@@ -1656,18 +1656,6 @@
     "description": "An extremely large mod solely dedicated for mindustry roleplaying and builds alike.\n\nThe long awaited version 6 has been released. \nChangelog V6:\n- Custom palette canvases (screens)\n- Chiseled Unloaders\n- Connector Conduits and Ducts\n- Link blocks\n- Config distribution, logic, and misc blocks\n- Stone, Dark Metal, Void Metal, Salt, and Flesh colour walls\n- Cobalt and Salt environmental walls\n- Red Sandstone, Flesh, Corrupted, Honeycomb, Void Metal environmental walls + floors\n- Blooming Foliage, Overgrown Stone, Igneous Carbon decorated envwall sets\n- Green, Yellow, Teal, Violet, Salmon, Rose walls\n- Pastel Red, Blue, Green and Cyan Walls\n- Eclipse Red, Blue, Green and Purple walls\n- Translucent walls\n- Highlighted walls\n- Middle corner variants, Sealed halfsorters, and diagonal sortertypes\n- Tinted borsorters\n- Lined/outlined borderless invisorter and transorters\n- Mini borderless sorter, transorter and hex transorter\n- Pure red, green, blue, white, black floors\n- Cobalt, Crab, Pastel sky and eclipse purple, and teal item colours\n\nMisc\n- Black holes\n- Environmental subwall revamp\n- Flat blocks\n- Slate Messages\n- Rimmed Messages\n- Light and dark sorter revamp\n- Spectral, crimson, shade, and light wall revamps\n- Fixed shadows for most blocks\n- Blocks consistency\n- Java module and advance lighting implementation\n- Fixed dark item antivoid\n- Overall more polished\n\nVersion v6"
   },
   {
-    "repo": "hungrycloud4913/esocatalyst",
-    "internalName": "esocatalyst",
-    "name": "Esocatalyst",
-    "author": "HungryCloud4913",
-    "lastUpdated": "2025-07-15T15:51:43Z",
-    "stars": 12,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Please leave a star on Github, It lets me know you enjoy the mod.\n\nCredits to everyone who helped even in the slightest bit ever,\n\nDiscord Helpers: \n           mindustridiot_06647 - Unit suggestions and unit FX work, \n           /////\n           cy4nide0165 - Railhammer unit FX work and suggestion, \n           /////\n           Elysia - A couple spare sprites given because they didn't need them, \n           /////\n           display_namer - Small coding help for animated items and liquids\n           /////\n           Aureus - Helping me understand tank treads by a tiny margin"
-  },
-  {
     "repo": "andashikkozlov/thezsia-revival",
     "internalName": "thezsia1",
     "name": "Thezsia Revival",
@@ -1678,6 +1666,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "ALPHA VERSION\nNew planet, new stuff, what a surprise\nThezsia — wasteland planet but underwater."
+  },
+  {
+    "repo": "hungrycloud4913/esocatalyst",
+    "internalName": "esocatalyst",
+    "name": "Esocatalyst",
+    "author": "HungryCloud4913",
+    "lastUpdated": "2025-07-29T12:16:14Z",
+    "stars": 12,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Please leave a star on Github, It lets me know you enjoy the mod.\n\nCredits to everyone who helped even in the slightest bit ever,\n\nDiscord Helpers: \n           mindustridiot_06647 - Unit suggestions and unit FX work, \n           /////\n           cy4nide0165 - Railhammer unit FX work and suggestion, \n           /////\n           Elysia - A couple spare sprites given because they didn't need them, \n           /////\n           display_namer - Small coding help for animated items and liquids\n           /////\n           Aureus - Helping me understand tank treads by a tiny margin"
   },
   {
     "repo": "def-try/parkour-mod",
@@ -3040,7 +3040,7 @@
     "internalName": "oe",
     "name": "Oil Extended",
     "author": "Atomic",
-    "lastUpdated": "2025-07-26T15:06:36Z",
+    "lastUpdated": "2025-07-29T10:46:45Z",
     "stars": 6,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -3504,18 +3504,6 @@
     "description": "A mod centered around fighting bosses, only using HJSON and world processors. Best experienced with a mouse and a keyboard."
   },
   {
-    "repo": "jirocab/caster-ui-java",
-    "internalName": "caster-ui-java",
-    "name": "Caster User interface",
-    "author": "RushieWashie, WMF Industries",
-    "lastUpdated": "2025-07-27T07:12:46Z",
-    "stars": 5,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Aming to make the client a bit better for casting! with ease of use, simplicity and elegance in mind \n \n Java rewrite of 'JiroCab/Caster-Ui' which was based off 'Ferlern/extended-UI' \nconflicts with 'Ferlern/extended-UI'  \n\nPLEASE DON'T THIS FOR AN ADVANTAGE IN PVP THANKS"
-  },
-  {
     "repo": "koctz34/minduntm",
     "internalName": "ntm",
     "name": "NTM - Nuclear tech mod",
@@ -3526,6 +3514,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Hbm's NTM (by Bobcat) in mindustry!\nMinecraft, Satisfactory, Rust, and other...\n\nOnly decor blocks\n\nDisable linear filtering in settings!"
+  },
+  {
+    "repo": "jirocab/caster-ui-java",
+    "internalName": "caster-ui-java",
+    "name": "Caster User interface",
+    "author": "RushieWashie, WMF Industries",
+    "lastUpdated": "2025-07-29T10:52:20Z",
+    "stars": 5,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Aming to make the client a bit better for casting! with ease of use, simplicity and elegance in mind \n \n Java rewrite of 'JiroCab/Caster-Ui' which was based off 'Ferlern/extended-UI' \nconflicts with 'Ferlern/extended-UI'  \n\nPLEASE DON'T THIS FOR AN ADVANTAGE IN PVP THANKS"
   },
   {
     "repo": "seuearth/banana",
@@ -5260,7 +5260,7 @@
     "internalName": "colored-bridges",
     "name": "Colored Bridges",
     "author": "buj",
-    "lastUpdated": "2025-07-28T16:26:14Z",
+    "lastUpdated": "2025-07-29T11:35:49Z",
     "stars": 3,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -6480,28 +6480,28 @@
     "description": "Every time Haznobrain spells a word wrong I add it to the bundle.properties"
   },
   {
-    "repo": "nagamerlol/nagyjavamod",
-    "internalName": "nagyjavamod",
-    "name": "Nagy's Java Mod",
-    "author": "You",
-    "lastUpdated": "2025-07-28T11:06:07Z",
-    "stars": 2,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod."
-  },
-  {
     "repo": "novanox4/astralis",
     "internalName": "astralis",
     "name": "Astralis",
     "author": "NV-NX, Haznobrain",
-    "lastUpdated": "2025-07-29T09:10:16Z",
+    "lastUpdated": "2025-07-29T12:12:55Z",
     "stars": 2,
     "minGameVersion": "150",
     "hasScripts": false,
     "hasJava": false,
     "description": "\nIN DEVELOPMENT, EXPECT BUGS AND UNFINISHED/UNPOLISHED CONTENT!\nAstralis is a mod focused on adding a brand new campaign on a planet harboring the same name.\nSet in the same universe as Hell Industries (althought not as horribly painful), fight hordes of eldritch AND mechanical horrors alike with your own mechanical horrors!\nOverthrow a government, kill god and ravage an entire planet now!"
+  },
+  {
+    "repo": "nagamerlol/nagyjavamod",
+    "internalName": "nagyjavamod",
+    "name": "Nagy's Java Mod",
+    "author": "You",
+    "lastUpdated": "2025-07-29T12:13:30Z",
+    "stars": 2,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod."
   },
   {
     "repo": "teaeempire/gghv7",
@@ -10744,7 +10744,7 @@
     "internalName": "lovec",
     "name": "Lovecraftian Library",
     "author": "MaboroshiX",
-    "lastUpdated": "2025-07-28T07:20:11Z",
+    "lastUpdated": "2025-07-29T11:59:42Z",
     "stars": 0,
     "minGameVersion": "147",
     "hasScripts": true,
