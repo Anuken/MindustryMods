@@ -337,15 +337,15 @@
   },
   {
     "repo": "teamoct/fos",
-    "internalName": "",
+    "internalName": "fos",
     "name": "Fictional Octo System",
     "author": "Team Oct",
     "lastUpdated": "2025-03-23T17:06:50Z",
     "stars": 61,
-    "minGameVersion": "146",
+    "minGameVersion": "145",
     "hasScripts": false,
     "hasJava": true,
-    "description": "FOS is a large-scale mod with a campaign that contains a brand-new solar system and unique mechanics."
+    "description": "A mod focused on space exploration."
   },
   {
     "repo": "vvseangtvv/project-restoration",
@@ -654,7 +654,7 @@
     "author": "Zelaux",
     "lastUpdated": "2024-09-24T22:19:06Z",
     "stars": 27,
-    "minGameVersion": "141.1",
+    "minGameVersion": "136",
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds byte logic blocks from v5"
@@ -874,6 +874,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "RU: Очень опасный мод, который влияет на баланс и механику игры, добавляет новый контент в виде статус эффектов и оборонительных сооружений (башен, мин и т.д.).\n\nРекомендуется перед установкой сделать сохранение (чтобы откатиться назад), если в случае вам не понравится то, что может сделать данный мод. И лучше в самом деле не рискуйте лишний раз и поверьте на слово: МОД. МЕНЯЕТ. МНОГОЕ.\n\n\n\nENG: A very dangerous mod that affects the balance and mechanics of the game, adds new content in the form of status effects and defensive structures (towers, mines, etc.).\n\n\nPreferably before installing make a save (to roll back), if in case you do not like what this mod can do. And it is better to really do not take unnecessary risks and take my word for it: MOD. CHANGES. EVERYTHING.\n\nmov mod testers:\n- eve_light."
+  },
+  {
+    "repo": "nullotte/carpe-diem",
+    "internalName": "carpe-diem",
+    "name": "Carpe Diem",
+    "author": "Nullotte",
+    "lastUpdated": "2025-07-27T16:07:52Z",
+    "stars": 22,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThe mod is still in development, and many things in the mod are subject to change. I hope that you will have fun playing it."
   },
   {
     "repo": "sputnuc/asterion",
@@ -1392,18 +1404,6 @@
     "description": "Adds miniature versions of various buildings."
   },
   {
-    "repo": "shadowpazzo99/shadowdustry",
-    "internalName": "shadowdustry",
-    "name": "ShadowDustry",
-    "author": "ShadowPazzo#5003",
-    "lastUpdated": "2022-08-17T23:53:11Z",
-    "stars": 13,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "something perhaps"
-  },
-  {
     "repo": "hortisquash/hortiblocks",
     "internalName": "horti blocks",
     "name": "horti blocks",
@@ -1566,7 +1566,7 @@
     "author": "BlackDeluxeCat",
     "lastUpdated": "2024-02-19T03:21:11Z",
     "stars": 12,
-    "minGameVersion": "145",
+    "minGameVersion": "144.1",
     "hasScripts": false,
     "hasJava": true,
     "description": "SHADOOOW your GAME!! repo: BlackDeluxeCat/ShadowShader"
@@ -2856,18 +2856,6 @@
     "description": "Demonstrates the built-in effects of the game.\n\n[olive]How to use?[]\nEffect blocks use copper to operate. Once they get copper, they will generate the effect.\nIf you want to use the effect just write the block's name in your code, as their name is the same as the effect's in-game name.\n\nThe sprites are placeholders, because they are not important in this mod.\n\n[acid]Includes a map displaying all the effects sorted by size and shape!!![]\n\nI hope this mod helps!"
   },
   {
-    "repo": "ocalhoun6/resource-supply-mod",
-    "internalName": "source_mod",
-    "name": "Resource Supply Mod",
-    "author": "DLS",
-    "lastUpdated": "2023-05-23T22:27:20Z",
-    "stars": 6,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod provides infinite sources of liquid, power, and resources in campaign maps."
-  },
-  {
     "repo": "sirvoid/mindustryvcode",
     "internalName": "vcode compiler",
     "name": "VCode Compiler",
@@ -3130,6 +3118,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "No description provided."
+  },
+  {
+    "repo": "ocalhoun6/resource-supply-mod",
+    "internalName": "source_mod",
+    "name": "Resource Supply Mod",
+    "author": "DLS",
+    "lastUpdated": "2023-05-23T22:27:20Z",
+    "stars": 5,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod provides infinite sources of liquid, power, and resources in campaign maps."
   },
   {
     "repo": "routerxdd/sc-music-pack",
@@ -8556,18 +8556,6 @@
     "description": "A mod to reinstall all mods with just one button.\nWill re-enable mods."
   },
   {
-    "repo": "kapzduke/arseface",
-    "internalName": "arseface",
-    "name": "JSON Planet Test",
-    "author": "kapzduke",
-    "lastUpdated": "2023-07-14T22:02:57Z",
-    "stars": 0,
-    "minGameVersion": "144",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "No description provided."
-  },
-  {
     "repo": "ssaagamemer/earape-mod",
     "internalName": "earape mindustry",
     "name": "EarapeMindustry",
@@ -9591,7 +9579,7 @@
     "repo": "bluetechnocat/convenience-mod",
     "internalName": "convenience-mod",
     "name": "Convenience Mod",
-    "author": "[#0088ff]Blue[]Techno",
+    "author": "BlueTechno",
     "lastUpdated": "2024-11-01T16:54:36Z",
     "stars": 0,
     "minGameVersion": "144",
@@ -9934,18 +9922,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Funny mod about spins and stress"
-  },
-  {
-    "repo": "darkdustry-coders/mindurkacompat",
-    "internalName": "mindurkacompat",
-    "name": "MindurkaCompat",
-    "author": "buj",
-    "lastUpdated": "2025-02-26T22:27:56Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mod that adds extra compatibility with Mindurka"
   },
   {
     "repo": "miaozi-cn/mee",
