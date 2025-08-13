@@ -4,7 +4,7 @@
     "internalName": "new-horizon",
     "name": "New Horizon",
     "author": "Yuria",
-    "lastUpdated": "2025-08-13T06:10:50Z",
+    "lastUpdated": "2025-08-13T12:52:20Z",
     "stars": 476,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -274,6 +274,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds a dialog for turning images into processor schematics.\nRequires deltanedas/ui-lib."
+  },
+  {
+    "repo": "deltanedas/rtfm",
+    "internalName": "rtfm",
+    "name": "RTFM",
+    "author": "deltanedas",
+    "lastUpdated": "2023-07-14T01:02:34Z",
+    "stars": 79,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Mod that adds a manual page library. RTFM in the About menu.\nComes with documentation of vanilla'a Logic system.\nOptionally requires deltanedas/ui-lib for extra buttons.\npt_BR translations by King-BR"
   },
   {
     "repo": "deltanedas/ui-lib",
@@ -816,6 +828,18 @@
     "description": "Not recommended for weak devices. Only supports Vanilla/Supported-Json content. This mod replaces/add some effects, and may cause issues with mods that actively check on those effects. May conflict with vanilla bloom."
   },
   {
+    "repo": "sputnuc/asterion",
+    "internalName": "as",
+    "name": "Asterion",
+    "author": " |Asterion Team| ",
+    "lastUpdated": "2025-08-10T20:20:55Z",
+    "stars": 23,
+    "minGameVersion": "147",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This is collaboration mod.\n\n |Asterion Team| \nDevelopers/Helpers:\nSputnuc - Creator,coder, spriter, mapper\nbloody_ocean1846_66553 - Spriter\nsundered8134 - Spriter\nR.O.T - coder, spriter\nandashik - coder, spriter, mapper\nscrap1020spawn/ace1020spawn - composer,mapper\nlos_sasikos - balancer\ngg_word - WTF man!? Where is russian translate!?\nitz.craft_ - funny man\nlehanchic25 - funny man"
+  },
+  {
     "repo": "electricgun/cheat-codes-mod",
     "internalName": "cheat-codes",
     "name": "Cheat Codes Mod",
@@ -874,18 +898,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThe mod is still in development, and many things in the mod are subject to change. I hope that you will have fun playing it."
-  },
-  {
-    "repo": "sputnuc/asterion",
-    "internalName": "as",
-    "name": "Asterion",
-    "author": " |Asterion Team| ",
-    "lastUpdated": "2025-08-10T20:20:55Z",
-    "stars": 22,
-    "minGameVersion": "147",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This is collaboration mod.\n\n |Asterion Team| \nDevelopers/Helpers:\nSputnuc - Creator,coder, spriter, mapper\nbloody_ocean1846_66553 - Spriter\nsundered8134 - Spriter\nR.O.T - coder, spriter\nandashik - coder, spriter, mapper\nscrap1020spawn/ace1020spawn - composer,mapper\nlos_sasikos - balancer\ngg_word - WTF man!? Where is russian translate!?\nitz.craft_ - funny man\nlehanchic25 - funny man"
   },
   {
     "repo": "emanuelg-gaming/erekir-expansion",
@@ -5400,6 +5412,18 @@
     "description": "A modern, minimalist skin with a focus on clarity and readability."
   },
   {
+    "repo": "stacktrace-error/master-chief",
+    "internalName": "master-chief",
+    "name": "Master chief? Do you mind telling me why you're in that...",
+    "author": "NullPointerException/stacktrace-error",
+    "lastUpdated": "2022-11-01T07:50:26Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Sir, *mines copper*"
+  },
+  {
     "repo": "sakuralilly/trade-it",
     "internalName": "trade it",
     "name": "Trade it",
@@ -8392,7 +8416,7 @@
     "internalName": "aria-atim",
     "name": "Aria//Atim",
     "author": "Main developer: Ambient Push\nContribiutors: Blehhhh cat",
-    "lastUpdated": "2025-08-13T05:53:50Z",
+    "lastUpdated": "2025-08-13T13:44:16Z",
     "stars": 1,
     "minGameVersion": "143.1",
     "hasScripts": false,
@@ -9169,27 +9193,15 @@
   },
   {
     "repo": "footermandev/footerman",
-    "internalName": "rtfm",
-    "name": "RTFM",
-    "author": "deltanedas",
+    "internalName": "footerman",
+    "name": "A mod.",
+    "author": "FooterMan",
     "lastUpdated": "2024-04-26T16:40:24Z",
     "stars": 0,
-    "minGameVersion": "136",
+    "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
-    "description": "Mod that adds a manual page library. RTFM in the About menu.\nComes with documentation of vanilla'a Logic system.\nOptionally requires deltanedas/ui-lib for extra buttons.\npt_BR translations by King-BR"
-  },
-  {
-    "repo": "footermandev/footerman",
-    "internalName": "rtfm",
-    "name": "RTFM",
-    "author": "deltanedas",
-    "lastUpdated": "2024-04-26T16:40:24Z",
-    "stars": 0,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Mod that adds a manual page library. RTFM in the About menu.\nComes with documentation of vanilla'a Logic system.\nOptionally requires deltanedas/ui-lib for extra buttons.\npt_BR translations by King-BR"
+    "description": "Footer's mod"
   },
   {
     "repo": "taggamer555/arcaneedge",
