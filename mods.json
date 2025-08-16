@@ -580,7 +580,7 @@
     "internalName": "md3",
     "name": "MoreDefences",
     "author": "CD, 7rodo and meowkitty",
-    "lastUpdated": "2025-08-15T13:07:54Z",
+    "lastUpdated": "2025-08-15T23:01:33Z",
     "stars": 33,
     "minGameVersion": "150.1",
     "hasScripts": true,
@@ -652,7 +652,7 @@
     "internalName": "erekirliquefied",
     "name": "Erekir Liquefied",
     "author": "Haznobrain",
-    "lastUpdated": "2025-08-08T19:54:40Z",
+    "lastUpdated": "2025-08-16T00:01:57Z",
     "stars": 28,
     "minGameVersion": "150",
     "hasScripts": true,
@@ -2772,18 +2772,6 @@
     "description": "V7 fixed, Generate power out of nature. Four types of windmills, a water dam, three powernodes and two large batteries. It is still under development so feedback on the workshop is welcome"
   },
   {
-    "repo": "arc0480/cookmod",
-    "internalName": "cookmod",
-    "name": "cookmod",
-    "author": "open chat",
-    "lastUpdated": "2025-08-12T14:11:47Z",
-    "stars": 7,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "cook MOD is FUN"
-  },
-  {
     "repo": "slashkig/astranium-mod",
     "internalName": "astramod",
     "name": "Operation: Aziris",
@@ -2794,6 +2782,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
+  },
+  {
+    "repo": "arc0480/cookmod",
+    "internalName": "cookmod",
+    "name": "cookmod",
+    "author": "open chat",
+    "lastUpdated": "2025-08-16T00:20:03Z",
+    "stars": 7,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "cook MOD is FUN"
   },
   {
     "repo": "xzxadixzx/crawler-language",
@@ -2926,18 +2926,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds more debugging features and improvements.\n\nFeatures:\n- Fully customizable log messages /w timestamp;\n- Translate chat messages to your language;\n- Change log level;\n- Colorize `[colorname]` in log messages;\n- Log event triggers;\n- Various other QoL improvements.\n\n!!! Important !!!\nAndroid support was dropped from version 2.1.0 onwards due to technical constraints. You can still try to use an older version, though it's not guaranteed to work.\n\nSee README.md for more information."
-  },
-  {
-    "repo": "raffel080108/unlocktechtreemod",
-    "internalName": "unlock-tech-tree-mod",
-    "name": "UnlockTechTreeMod",
-    "author": "You",
-    "lastUpdated": "2024-03-08T22:15:45Z",
-    "stars": 6,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Fully unlocks all research on the research tree instantly"
   },
   {
     "repo": "laohuajiofficial/unitarsenal",
@@ -3262,6 +3250,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Complete tasks, fight, control ships, in space"
+  },
+  {
+    "repo": "raffel080108/unlocktechtreemod",
+    "internalName": "unlock-tech-tree-mod",
+    "name": "UnlockTechTreeMod",
+    "author": "You",
+    "lastUpdated": "2024-03-08T22:15:45Z",
+    "stars": 5,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Fully unlocks all research on the research tree instantly"
   },
   {
     "repo": "ochpochmaks/larnos-planet",
@@ -10906,5 +10906,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod adding extra useful stuff, from solving siligone to even more useless stuff"
+  },
+  {
+    "repo": "firfaronde/no-uri",
+    "internalName": "nouri",
+    "name": "No uri",
+    "author": "firfaronde",
+    "lastUpdated": "2025-08-15T23:44:27Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "disable display of server URIs"
   }
 ]
