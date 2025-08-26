@@ -408,6 +408,18 @@
     "description": "New guns, drills, crafting, materials and resourses"
   },
   {
+    "repo": "mindustry-antigrief/installer",
+    "internalName": "fooinstaller",
+    "name": "Foo's Client Installer",
+    "author": "foo, buthed010203",
+    "lastUpdated": "2022-11-08T23:31:31Z",
+    "stars": 52,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
+  },
+  {
     "repo": "meepoffaith/testing-utilities-java",
     "internalName": "test-utils",
     "name": "Testing Utilities",
@@ -418,18 +430,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
-  },
-  {
-    "repo": "mindustry-antigrief/installer",
-    "internalName": "fooinstaller",
-    "name": "Foo's Client Installer",
-    "author": "foo, buthed010203",
-    "lastUpdated": "2022-11-08T23:31:31Z",
-    "stars": 51,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible."
   },
   {
     "repo": "flintyx/animalia",
@@ -1336,7 +1336,7 @@
     "internalName": "azimut",
     "name": "Azimut",
     "author": "DeerCarbonate",
-    "lastUpdated": "2025-08-26T18:49:09Z",
+    "lastUpdated": "2025-08-26T20:57:59Z",
     "stars": 15,
     "minGameVersion": "149",
     "hasScripts": true,
@@ -2232,6 +2232,18 @@
     "description": "Added new blocks & units that can interact with Oil and improve player quality of life"
   },
   {
+    "repo": "falkowitz/medieval-mindustry",
+    "internalName": "mm",
+    "name": "Medieval Mindustry",
+    "author": "Fitz",
+    "lastUpdated": "2025-08-13T16:29:16Z",
+    "stars": 9,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Total conversion PVP mod set in fantasy medieval times"
+  },
+  {
     "repo": "chaoticans-mindustry-modding-team/new-content",
     "internalName": "newunits",
     "name": "New Content",
@@ -2458,18 +2470,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A quality of life mod that adds useful blocks for transportation and logistics."
-  },
-  {
-    "repo": "falkowitz/medieval-mindustry",
-    "internalName": "mm",
-    "name": "Medieval Mindustry",
-    "author": "Fitz",
-    "lastUpdated": "2025-08-13T16:29:16Z",
-    "stars": 8,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Total conversion PVP mod set in fantasy medieval times"
   },
   {
     "repo": "icexuegao/deepspace",
@@ -4420,7 +4420,7 @@
     "internalName": "astralis",
     "name": "Astralis",
     "author": "NV-NX, Haznobrain",
-    "lastUpdated": "2025-08-26T15:57:41Z",
+    "lastUpdated": "2025-08-26T21:58:12Z",
     "stars": 4,
     "minGameVersion": "150",
     "hasScripts": false,
@@ -5316,18 +5316,6 @@
     "description": "Makes the sounds for breaking things more Crunchy."
   },
   {
-    "repo": "thepi14/tekton",
-    "internalName": "",
-    "name": "Tekton",
-    "author": "ThePi14",
-    "lastUpdated": "2025-08-18T20:13:28Z",
-    "stars": 3,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod adding a new planet called Tekton, with it's own campaign, mechanics, hazards, blocks and units. \n\t\n\tTekton is a extremely cold planet far away from the sun, where a agressive faction called Hapax is located. Because of the low temperature the physical properties of many elements here are radically different from the other planets. The dense  methane rich atmosphere blocks the vision and unknown threats lure on the poles of the planet.\n\t\n\tCan you survive and thrive in this enviroment?\n\t\n\tAvailable languages:\n\t-English\n\t-Brazilian Portuguese\n\t\n\t[accent](The planet is based off on Titan, one of Saturns moons)[]\n\t"
-  },
-  {
     "repo": "tinport/tinport-serpulo-resprites",
     "internalName": "tinport-fancy-resprites",
     "name": "tinport serpulo resprites",
@@ -5362,6 +5350,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod that adds a new planet, Kaltos, and its moon, Aetheria into the game.\n  \nKaltos is an ancient and once life blooming planet. Now ruined by eras of industrial abuse, the life became scarce and the planet is undergoing constant ice ages. It's infested with ruins of ancient factions. \nAetheria on the other hand, was always a deserted, hot celestial body. Thus resulting in 2 different factions present on Kaltos and Aetheria. \n\nThis mod is still in VERY early development, as of now it only adds a bunch of sandbox only blocks and environment tiles. Several maps have been made already, but will be added later, since they need other content from the mod finished.\n\nOther then that, the mod focuses on complex factories and refining Crude Oil. \n\nI re-used no content from vanilla, even though this mod seemingly has several things from it. \n\nCurrently the mod is way too early into development to have any proper translations. \n\nHave fun with whats already added, I guess. :)"
+  },
+  {
+    "repo": "thepi14/tekton",
+    "internalName": "",
+    "name": "Tekton",
+    "author": "ThePi14",
+    "lastUpdated": "2025-08-26T21:59:51Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod adding a new planet called Tekton, with it's own campaign, mechanics, hazards, blocks and units. \n\t\n\tTekton is a extremely cold planet far away from the sun, where a agressive faction called Hapax is located. Because of the low temperature the physical properties of many elements here are radically different from the other planets. The dense  methane rich atmosphere blocks the vision and unknown threats lure on the poles of the planet.\n\t\n\tCan you survive and thrive in this enviroment?\n\t\n\tAvailable languages:\n\t-English\n\t-Brazilian Portuguese\n\t\n\t[accent](The planet is based off on Titan, one of Saturns moons)[]\n\t"
   },
   {
     "repo": "wshon/mindustrytoolkit",
@@ -6652,7 +6652,7 @@
     "internalName": "annoica",
     "name": "Annoica",
     "author": "Caboosket",
-    "lastUpdated": "2025-08-26T19:42:44Z",
+    "lastUpdated": "2025-08-26T21:58:18Z",
     "stars": 2,
     "minGameVersion": "146",
     "hasScripts": false,
