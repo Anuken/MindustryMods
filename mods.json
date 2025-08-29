@@ -588,18 +588,6 @@
     "description": "A mod made by CD, meowkitty and 7rodo that features:\n- A new planet.\n- LOTS of new Serpulo content such as units, turrets, sectors, etc.\n- Many changes to existing Serpulo content.\n- Some new erekir content.\n- Cross-mod content with a couple few mods.\n- FULL Multiplayer and Android compatibility.\n- Extra minor additions.\n\nDiscord: https://discord.gg/9YHA3q8HHq"
   },
   {
-    "repo": "andromeda-galaxy29/psammos-mod",
-    "internalName": "psammos",
-    "name": "Psammos Mod",
-    "author": "AndromedaGalaxy29",
-    "lastUpdated": "2025-06-14T13:49:35Z",
-    "stars": 32,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer [accent]Psammos[white].\r\n\r\nJoin our discord server: [#5865f2]https://discord.gg/eBzANBKCBA[]\r\n\r\nIf you like the mod, consider giving it a star on GitHub. Thank you\r\n\r\n[#31fea7]Contributors:[]\r\n- [#5865f2]@inxie_ratzey[] - suggestions, sprites, many maps and other contributions\r\n- [#5865f2]@thisiscrimsoncheck[] - several maps, suggestions and other contributions\r\n- [#5865f2]@tinport[] - various suggestions and maps\r\n- [#5865f2]@mrapple_0[] - maps\r\n\r\n[#9b59b6]Special thanks:[]\r\n- [#5865f2]@chozochorizo[] for help with balancing the mod\r\n- [#5865f2]@thomas_has_things[] and [#5865f2]@twcash.[] for the main menu title font\r\n\r\n[#abe2ca]Suggestors:[]\r\n- [#5865f2]@nekoarkbruhagain_07111[]\r\n- [#5865f2]@allayscrafter[]"
-  },
-  {
     "repo": "i-hope1/mod-tools",
     "internalName": "mod-tools",
     "name": "mod-tools",
@@ -610,6 +598,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod provides a variety of tools for modding.\n\n-----------------\nVersion 1.5.6\n## Highlight\n- Added some new features.\n- Fixed some bugs.\n-----------------\n\n## ShowUIList\n\n- Display `icon`, `tex`, `styles`, `colors`, `interps`\\\n!(./screenshots/UIList.png)\n\n## Tester\n\n!(./screenshots/tester.png)\n\n- Provide `JS` editor `Tester`\n- Shortcuts\n- Press `Ctrl`+`Shift`+`Enter` to `execute` code immediately\n- Press `Ctrl`+`Shift`+`↑/↓` to switch `history` records\n- Press `Ctrl`+`Shift`+`D` to `view` detailed information\n- Press `Alt`+`V` to preview `Texture`\n- Built-in `unsafe`, `lookup`\n- Built-in `IntFunc` class (abbreviated as `$`)\n- `$.xxx` can represent primitive data types (e.g., `$.void` represents `Void.TYPE`;`$.J` represents long.class)\n- `$p` represents `Packages`\n- Code: [JSFunc](https://github.com/i-hope1/mod-tools/src/modtools/utils/JSFunc.java)\n- Long press on code in the favorites to add to startup items\\\n!(./screenshots/startup.png)\n- Quick switch history\\\n![Screenshot 2024-03-10 14-45-37](https://github.com/I-hope1/mod-tools/assets/78016895/4918af35-19af-4fab-b961-70bdc8679fe8)\n- `$.item`, `$.liquid`, `$.unit` and so on.\n\n## UnitSpawn\n\n- Multiple team selection\n- Support for fixed point spawning\n- Display `name` and `localizedName`\n- Rightclick the name Label to copy save as JS var.\n\n## Selection\n\n- Selector\n- Supports `Tile`, `Building`, `Bullet`, `Unit`\n- Kill\n- Set Item/Liquid/Team\n- Press `Ctrl`+`Alt` to fix Focus Window\n\n## ReviewElement\n\n- Display element list, double-click to copy element to js variable\n- `Ctrl`+`Shift`+`C` to Inspect Element\n- `Ctrl`+`Alt`+`D` to display bounds of Element\n- Select untouchable elements\n- Mobile: Filter current element with two fingers\n- PC: Press `F` to filter current element\n- Functions shortcuts for Element\n- `i`: display details (open ShowInfoWindow)\\\n- `p`(for Image):  show `DrawablePicker`\n- `del`: (`shift` to ignore confirmation), delete element\n- `<` / `>`: collapse Group\n- `f`: fix floating Info column\n- `r`: invoke element's method\n\n- ![reviewElement](./screenshots/review_element.png)\n\n# Frag\n\n- Double-click the blue part of Frag to minimize/restore Frag\n- In the minimized state, click the blue part, it will behave like a floating ball\n\n## Window\n\n- Press `Ctrl`+`Tab` to switch windows\n- Press `Shift`+`F4` to close current window\n- RClick the close button to move and scl window.\n\n## ShowInfoWindow\n\n- Show all fields, methods, constructors and nested classes of a obj.\n- Field can be modified.\n- Method can be Invoked(Special).\n- Constructor can be invoked to new a instance.\n\n## Others\n\n### Extensions\n- Http Redirect\n> Redirect some websites, such as: github\\\n> Configuration file: b0kkihope/http_redirect.properties"
+  },
+  {
+    "repo": "andromeda-galaxy29/psammos-mod",
+    "internalName": "psammos",
+    "name": "Psammos Mod",
+    "author": "AndromedaGalaxy29",
+    "lastUpdated": "2025-08-29T11:24:32Z",
+    "stars": 32,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer [accent]Psammos[white].\r\n\r\nJoin our discord server: [#5865f2]https://discord.gg/eBzANBKCBA[]\r\n\r\nIf you like the mod, consider giving it a star on GitHub. Thank you\r\n\r\n[#31fea7]Contributors:[]\r\n- [#5865f2]@inxie_ratzey[] - suggestions, sprites, many maps and other contributions\r\n- [#5865f2]@thisiscrimsoncheck[] - several maps, suggestions and other contributions\r\n- [#5865f2]@tinport[] - various suggestions and maps\r\n- [#5865f2]@mrapple_0[] - maps\r\n\r\n[#9b59b6]Special thanks:[]\r\n- [#5865f2]@chozochorizo[] for help with balancing the mod\r\n- [#5865f2]@thomas_has_things[] and [#5865f2]@twcash.[] for the main menu title font\r\n\r\n[#abe2ca]Suggestors:[]\r\n- [#5865f2]@nekoarkbruhagain_07111[]\r\n- [#5865f2]@allayscrafter[]"
   },
   {
     "repo": "sh1penfire/meld",
@@ -864,6 +864,18 @@
     "description": "This is collaboration mod.\n\n |Asterion Team| \nDevelopers/Helpers:\nSputnuc - Creator,coder, spriter, mapper\nbloody_ocean1846_66553 - Spriter\nsundered8134 - Spriter\nR.O.T - coder, spriter\nandashik - coder, spriter, mapper\nscrap1020spawn/ace1020spawn - composer,mapper\nlos_sasikos - balancer\ngg_word - WTF man!? Where is russian translate!?\nitz.craft_ - funny man\nlehanchic25 - funny man"
   },
   {
+    "repo": "koctolom/mindustry-overhaul",
+    "internalName": "mov",
+    "name": "Mindustry Overhaul",
+    "author": "KOSTOLOM and D&X",
+    "lastUpdated": "2025-08-28T20:56:01Z",
+    "stars": 23,
+    "minGameVersion": "151.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "RU: Очень опасный мод, который влияет на баланс и механику игры, добавляет новый контент в виде статус эффектов и оборонительных сооружений (башен, мин и т.д.).\n\nРекомендуется перед установкой сделать сохранение (чтобы откатиться назад), если в случае вам не понравится то, что может сделать данный мод. И лучше в самом деле не рискуйте лишний раз и поверьте на слово: МОД. МЕНЯЕТ. МНОГОЕ.\n\n\n\nENG: A very dangerous mod that affects the balance and mechanics of the game, adds new content in the form of status effects and defensive structures (towers, mines, etc.).\n\n\nPreferably before installing make a save (to roll back), if in case you do not like what this mod can do. And it is better to really do not take unnecessary risks and take my word for it: MOD. CHANGES. EVERYTHING.\n\nmov mod testers:\n- eve_light."
+  },
+  {
     "repo": "anuken/wind3",
     "internalName": "wind3",
     "name": "wind3",
@@ -886,18 +898,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mod In Dev"
-  },
-  {
-    "repo": "koctolom/mindustry-overhaul",
-    "internalName": "mov",
-    "name": "Mindustry Overhaul",
-    "author": "KOSTOLOM and D&X",
-    "lastUpdated": "2025-08-28T20:56:01Z",
-    "stars": 22,
-    "minGameVersion": "151.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "RU: Очень опасный мод, который влияет на баланс и механику игры, добавляет новый контент в виде статус эффектов и оборонительных сооружений (башен, мин и т.д.).\n\nРекомендуется перед установкой сделать сохранение (чтобы откатиться назад), если в случае вам не понравится то, что может сделать данный мод. И лучше в самом деле не рискуйте лишний раз и поверьте на слово: МОД. МЕНЯЕТ. МНОГОЕ.\n\n\n\nENG: A very dangerous mod that affects the balance and mechanics of the game, adds new content in the form of status effects and defensive structures (towers, mines, etc.).\n\n\nPreferably before installing make a save (to roll back), if in case you do not like what this mod can do. And it is better to really do not take unnecessary risks and take my word for it: MOD. CHANGES. EVERYTHING.\n\nmov mod testers:\n- eve_light."
   },
   {
     "repo": "emanuelg-gaming/erekir-expansion",
@@ -1096,7 +1096,7 @@
     "internalName": "olupis",
     "name": "Nyfalis (Olupis)",
     "author": " ;3\nProgramming:\nRushieWashie, Siede, WMF Industries, Otamamori \n---------------------\nSprites:\nRushieWashie, NightmarishWolf, Ethanol10, kapzduke, Otamamori, Catana, Lixie, ItsKirby69\n---------------------\nMaps:\nRushieWashie, MrApple, NightmarishWolf ",
-    "lastUpdated": "2025-08-28T13:22:28Z",
+    "lastUpdated": "2025-08-29T11:22:37Z",
     "stars": 18,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -2824,12 +2824,12 @@
     "internalName": "hjsonpp",
     "name": "hjson++",
     "author": "ItzCraft\nhelpers: Photon_gravity, Sputnuc",
-    "lastUpdated": "2025-08-29T09:37:51Z",
+    "lastUpdated": "2025-08-29T10:11:45Z",
     "stars": 7,
     "minGameVersion": "150.1",
     "hasScripts": false,
     "hasJava": true,
-    "description": "Adds some new additional classes to help hjson modders. \nNote: this a liblary. Not playable mod."
+    "description": "Adds some new additional classes to help hjson modders. \nNote: this a library. Not playable mod."
   },
   {
     "repo": "xzxadixzx/crawler-language",
@@ -5344,7 +5344,7 @@
     "internalName": "echo-fleet",
     "name": "Echo Fleet",
     "author": "Main dev - Blehhhh cat \nCo-dev - Ambient Push \nContributors - Kamikazefoxmk.i, Tinport, Aerodynamic Attorney",
-    "lastUpdated": "2025-08-29T08:00:33Z",
+    "lastUpdated": "2025-08-29T11:49:53Z",
     "stars": 3,
     "minGameVersion": "146",
     "hasScripts": false,
