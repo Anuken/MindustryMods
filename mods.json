@@ -4,7 +4,7 @@
     "internalName": "new-horizon",
     "name": "New Horizon",
     "author": "Yuria & Lao",
-    "lastUpdated": "2025-08-29T02:34:42Z",
+    "lastUpdated": "2025-08-29T07:17:00Z",
     "stars": 484,
     "minGameVersion": "151",
     "hasScripts": false,
@@ -2388,6 +2388,18 @@
     "description": "Add something helpful for vanilla. Also have some better UI.\n\n- Coreitem display for mobile.\n- Unit conter display.\n- Time control.\n- Some change for vanilla (see in setting, default is off):\n+ Bigger vault, container and vault in Erekir.\n+ Bigger range for override dome, 200% speed up.\n+ Force projector have more shield health.\n- Auto update.\n- New contents as well:\n+ Thorium / surge conveyor (serpulo)\n+ Some storage blocks\n+ \"T6\" units\n- Aslo make some hidden contents available\n\nWarning: The mod under development, any contributions would be gratefully appreciated. See github for more details."
   },
   {
+    "repo": "prosta4okua/ukrajinisator",
+    "internalName": "ukrainian-translation-mod",
+    "name": "Ukrainian translation",
+    "author": "Prosta4ok_ua#6336",
+    "lastUpdated": "2025-02-20T22:11:53Z",
+    "stars": 8,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nWARNING: For Ukrainian language only.\n\nModification for translation testing. Can be used for an example testing bundles and for testing a new Ukrainian translation. Developed in Ukraine.\nSupports v7 only.\n\nDiscord for Ukrainian speaking: https://discord.gg/VDjWyCssvP\n\n----------------------------------------\n\nПОПЕРЕДЖЕННЯ: Лише для української мови.\n\nМодифікація для тестування перекладів. Можете використовувати задля прикладу і задля тестування нового українського перекладу. Розроблено в Україні.\nПідтримує тільки v7.\n\nDiscord для українськомовних: https://discord.gg/VDjWyCssvP"
+  },
+  {
     "repo": "7003mars/bridges",
     "internalName": "bridging",
     "name": "Bridging assistant",
@@ -2811,8 +2823,8 @@
     "repo": "itzcraft/hjsonpp",
     "internalName": "hjsonpp",
     "name": "hjson++",
-    "author": "ItzCraft \n also thanks to Sputnuc for AccelTurret code.",
-    "lastUpdated": "2025-08-29T04:46:25Z",
+    "author": "ItzCraft\nhelpers: Photon_gravity, Sputnuc",
+    "lastUpdated": "2025-08-29T07:34:15Z",
     "stars": 7,
     "minGameVersion": "150.1",
     "hasScripts": false,
@@ -4044,6 +4056,18 @@
     "description": "adding best processors in sandbox"
   },
   {
+    "repo": "stabu-dev/schemeinspect",
+    "internalName": "scheminspect",
+    "name": "Schem Inspect",
+    "author": "Goobrr, _StaBU_",
+    "lastUpdated": "2024-07-13T12:10:06Z",
+    "stars": 4,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mindustry modification that adds a scheme inspection selection. Displays the number of buildings, power generation/consumption/storage, build cost. It's a fork of the deleted Goober's modification with some upgrades and bug fixes. \nNo mobile support yet."
+  },
+  {
     "repo": "cbmshadowgd/terrariacontentmod",
     "internalName": "terraria-content-mod",
     "name": "Terarria Content Mod",
@@ -4897,15 +4921,15 @@
   },
   {
     "repo": "demonevd/kadd-mod-lite",
-    "internalName": "arcade_graphics",
-    "name": "Mindustry_Arcade",
-    "author": "BOGDOG",
+    "internalName": "kadd",
+    "name": "KaDD mod",
+    "author": "TeslaCoil",
     "lastUpdated": "2024-10-11T13:32:20Z",
     "stars": 3,
-    "minGameVersion": "136",
+    "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
-    "description": "Arcade style graphics for Serpulo."
+    "description": "\nJSON mod\n\nI`m working on:\n\n- New materials\n- New electricity\n- New planet (Not commpleted)\n- New units (Not commpleted)\n- A ton of new planet content (Not commpleted)\n\nTODO:\n1. Conveyors etc\n2. Some difficult stuff\n3. Turrets\n4. Units\n5. Sectors + planet (now)\n"
   },
   {
     "repo": "fallingdice/project-hivemind",
@@ -5304,18 +5328,6 @@
     "description": "A Mindustry Java mod adding a new planet called Tekton, with it's own campaign, mechanics, hazards, blocks and units. \n\t\n\tTekton is a extremely cold planet far away from the sun, where a agressive faction called Hapax is located. Because of the low temperature the physical properties of many elements here are radically different from the other planets. The dense  methane rich atmosphere blocks the vision and unknown threats lure on the poles of the planet.\n\t\n\tCan you survive and thrive in this enviroment?\n\t\n\tAvailable languages:\n\t-English\n\t-Brazilian Portuguese\n\t\n\t[accent](The planet is based off on Titan, one of Saturns moons)[]\n\t"
   },
   {
-    "repo": "bsp-2/echo-fleet",
-    "internalName": "echo-fleet",
-    "name": "Echo Fleet",
-    "author": "Main dev - Blehhhh cat \nCo-dev - Ambient Push \nContributors - Kamikazefoxmk.i, Tinport, Aerodynamic Attorney",
-    "lastUpdated": "2025-08-29T00:58:33Z",
-    "stars": 3,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that adds a new planet, Kaltos, and its moon, Aetheria into the game.\n  \nKaltos is an ancient and once life blooming planet. Now ruined by eras of industrial abuse, the life became scarce and the planet is undergoing constant ice ages. It's infested with ruins of ancient factions. \nAetheria on the other hand, was always a deserted, hot celestial body. Thus resulting in 2 different factions present on Kaltos and Aetheria. \n\nThis mod is still in VERY early development, as of now it only adds a bunch of sandbox only blocks and environment tiles. Several maps have been made already, but will be added later, since they need other content from the mod finished.\n\nOther then that, the mod focuses on complex factories and refining Crude Oil. \n\nI re-used no content from vanilla, even though this mod seemingly has several things from it. \n\nCurrently the mod is way too early into development to have any proper translations. \n\nHave fun with whats already added, I guess. :)"
-  },
-  {
     "repo": "mindustryid/terjemahanindonesia",
     "internalName": "terjemahan-indonesia",
     "name": "Terjemahan Indonesia",
@@ -5326,6 +5338,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dianjurkan untuk digunakan di Versi 8 !!!"
+  },
+  {
+    "repo": "bsp-2/echo-fleet",
+    "internalName": "echo-fleet",
+    "name": "Echo Fleet",
+    "author": "Main dev - Blehhhh cat \nCo-dev - Ambient Push \nContributors - Kamikazefoxmk.i, Tinport, Aerodynamic Attorney",
+    "lastUpdated": "2025-08-29T07:58:11Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that adds a new planet, Kaltos, and its moon, Aetheria into the game.\n  \nKaltos is an ancient and once life blooming planet. Now ruined by eras of industrial abuse, the life became scarce and the planet is undergoing constant ice ages. It's infested with ruins of ancient factions. \nAetheria on the other hand, was always a deserted, hot celestial body. Thus resulting in 2 different factions present on Kaltos and Aetheria. \n\nThis mod is still in VERY early development, as of now it only adds a bunch of sandbox only blocks and environment tiles. Several maps have been made already, but will be added later, since they need other content from the mod finished.\n\nOther then that, the mod focuses on complex factories and refining Crude Oil. \n\nI re-used no content from vanilla, even though this mod seemingly has several things from it. \n\nCurrently the mod is way too early into development to have any proper translations. \n\nHave fun with whats already added, I guess. :)"
   },
   {
     "repo": "wshon/mindustrytoolkit",
@@ -6037,15 +6061,15 @@
   },
   {
     "repo": "ademonorig/element-248k",
-    "internalName": "apolon",
-    "name": "Element-248k",
-    "author": "Nannerbz & VDoble",
+    "internalName": "element 248k",
+    "name": "Element 248k",
+    "author": "ADemonOrig",
     "lastUpdated": "2024-09-23T13:11:27Z",
     "stars": 2,
-    "minGameVersion": "140",
+    "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
-    "description": "Introducing, Apolon! the long awaited passion project by me, Nannerbz (or like 3 different nicknames online), and my friend VDoble! This project has been in development for a LONG while and im happy im finally able to release it to the public! This mod contains: Brand new gameplay, New units, A new campaign, and MORE!\n\nDiscord: fandslimu\n(Or Fandslimu#9712)"
+    "description": "Can you do it Element 248000???!!!"
   },
   {
     "repo": "agzam4/mindustry-new-game-mode",
@@ -6457,15 +6481,15 @@
   },
   {
     "repo": "nagamerlol/nagyjavamod",
-    "internalName": "sporex",
-    "name": "Spore biometh plus",
-    "author": "Water molecues",
+    "internalName": "nagyjavamod",
+    "name": "Nagy's Java Mod",
+    "author": "You",
     "lastUpdated": "2025-07-31T14:19:42Z",
     "stars": 2,
-    "minGameVersion": "144",
+    "minGameVersion": "147",
     "hasScripts": false,
     "hasJava": true,
-    "description": "Expansion for spore biometh, required mods: spore biomech (duh) and magnification"
+    "description": "A Mindustry Java mod."
   },
   {
     "repo": "stabu-dev/thats-fire",
@@ -6600,6 +6624,18 @@
     "description": "Somewhat advanced endgame technologies. It is recommended to disable vertical synchronization."
   },
   {
+    "repo": "kosmofrog/planet-vulcanum",
+    "internalName": "v",
+    "name": "Planet Vulcanum",
+    "author": "kosmofrog",
+    "lastUpdated": "2025-08-28T12:50:05Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nEN: Adds Vulcanum - hot dirty planet, that has dangerous enemies. P.s. now mod has two sectors you can beat, but there are some bugs I can't fix. \nRU: Добавляет Вулканум - горячую пыльную планеты с опасными противниками. P.s. сейчас мод имеет два сектора, которые можно пройти, но здесь также немного багов, которые я не могу исправить."
+  },
+  {
     "repo": "ambientpush/aria-atim",
     "internalName": "aria-atim",
     "name": "Aria//Atim",
@@ -6610,6 +6646,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Description in progress. [red]The mod is heavily work in progress."
+  },
+  {
+    "repo": "nannerbz/apolon",
+    "internalName": "apolon",
+    "name": "apolon",
+    "author": "Nannerbz & VDoble",
+    "lastUpdated": "2025-08-29T00:24:55Z",
+    "stars": 2,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Introducing, Apolon! the long awaited passion project by me, Nannerbz (or like 3 different nicknames online), and my friend VDoble! This project has been in development for a LONG while and im happy im finally able to release it to the public! This mod contains: Brand new gameplay, New units, A new campaign, and MORE!\n\nDiscord: fandslimu\n(Or Fandslimu#9712)"
   },
   {
     "repo": "teaeempire/gghv7",
@@ -7054,6 +7102,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Brings back the old mender color when phased"
+  },
+  {
+    "repo": "spore-biometh-team/spore-expandsion",
+    "internalName": "sporex",
+    "name": "Spore biometh plus",
+    "author": "Water molecues",
+    "lastUpdated": "2023-10-05T06:26:23Z",
+    "stars": 1,
+    "minGameVersion": "144",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Expansion for spore biometh, required mods: spore biomech (duh) and magnification"
   },
   {
     "repo": "godlyshkaf/circle-target-flares",
@@ -8496,18 +8556,6 @@
     "description": "一个新视界材质包使用了新的艺术风格\nA mod that makes the texture style of NewHorizon Mod. If Lao uses these textures in NewHorizon, this Mod will not update."
   },
   {
-    "repo": "kosmofrog/planet-vulcanum",
-    "internalName": "v",
-    "name": "Planet Vulcanum",
-    "author": "kosmofrog",
-    "lastUpdated": "2025-08-28T12:50:05Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\nEN: Adds Vulcanum - hot dirty planet, that has dangerous enemies. P.s. now mod has two sectors you can beat, but there are some bugs I can't fix. \nRU: Добавляет Вулканум - горячую пыльную планеты с опасными противниками. P.s. сейчас мод имеет два сектора, которые можно пройти, но здесь также немного багов, которые я не могу исправить."
-  },
-  {
     "repo": "huanxefh/lovecraftian-library",
     "internalName": "lovec",
     "name": "Lovecraftian Library",
@@ -9000,6 +9048,18 @@
     "description": "This mod provides infinite sources of liquid, power, and resources in campaign maps."
   },
   {
+    "repo": "bogdogmax/mindustry_arcade",
+    "internalName": "arcade_graphics",
+    "name": "Mindustry_Arcade",
+    "author": "BOGDOG",
+    "lastUpdated": "2023-11-14T03:58:59Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Arcade style graphics for Serpulo."
+  },
+  {
     "repo": "radio-silence-1/dimension-shard",
     "internalName": "dimensioncore",
     "name": "Dimension Shard Core",
@@ -9046,6 +9106,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Scheme Size(勝手に略してSS)を日本語に訳しました。"
+  },
+  {
+    "repo": "camelstyleuser/unlockable-content",
+    "internalName": "unlockable-content",
+    "name": "UnlockableContent",
+    "author": "camelStyleUser",
+    "lastUpdated": "2024-01-03T12:53:28Z",
+    "stars": 0,
+    "minGameVersion": "137",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "dont you love some js"
   },
   {
     "repo": "teamcheburek/amigus",
