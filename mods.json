@@ -1336,9 +1336,9 @@
     "internalName": "azimut",
     "name": "Azimut",
     "author": "DeerCarbonate",
-    "lastUpdated": "2025-08-30T15:46:39Z",
+    "lastUpdated": "2025-08-30T17:39:26Z",
     "stars": 15,
-    "minGameVersion": "150",
+    "minGameVersion": "150.1",
     "hasScripts": true,
     "hasJava": false,
     "description": "Develop complex logistics, repel waves, and destroy enemy bases on the new planet Gelion.\n  \nTHE MOD IS CURRENTLY UNDER DEVELOPMENT, there are already 7 sectors at the moment, and work is underway on quality of life.\n\nSpecials thanks to: ace1020spawn, Kivet/БОБ, Alpotat, KOSTOLOM, Fate of Adrastus"
@@ -2496,6 +2496,18 @@
     "description": "Welcome to Farborne Industries! Explore Erbius, a terrestrial planet covered predominantly in water, and Deimo, Erbius's moon, which is covered in lakes of Ethane\n\nAll sectors (except for Embark and Trench) will be completely remade from scratch relatively soon\n\nConsider joining my Telegram channel https://t.me/farborne\n\nUPDATES ARE BACK ON THE MENU, BOYS! Redux\nNote: restart your game for special settings to take effect\n\n\nAttributions; Special thanks to all of the following:\n♡  Annie, for supporting me and bringing joy to my life\n☆  Endofreeze, for your immense help with the project, including brainstorming and sprites\n☆  CasualWhale, for playtesting and feedback\n☆  sh1penfire, for creating the best sector in the mod: Trench, and for the 'planetarium' script\n✧  nullevoy, for helping sprite the Withdraw turret\n✧  abreaker, for helping with the Dread team glyph script\n✧  2017Knight2017, for Strontium and Edison concepts\n✧  Anuke, for creating Mindustry\n✧  Special thanks to the Mindustry Discord and everyone else who helped me create my first public game mod\n"
   },
   {
+    "repo": "itzcraft/hjsonpp",
+    "internalName": "hjsonpp",
+    "name": "hjson++",
+    "author": "ItzCraft\nhelpers: Photon_gravity, Sputnuc",
+    "lastUpdated": "2025-08-29T10:11:45Z",
+    "stars": 8,
+    "minGameVersion": "150.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds some new additional classes to help hjson modders. \nNote: this a library. Not playable mod."
+  },
+  {
     "repo": "reborntrack970/infinicampaign",
     "internalName": "inficamp",
     "name": "InfiniCampaign",
@@ -2808,18 +2820,6 @@
     "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
   },
   {
-    "repo": "itzcraft/hjsonpp",
-    "internalName": "hjsonpp",
-    "name": "hjson++",
-    "author": "ItzCraft\nhelpers: Photon_gravity, Sputnuc",
-    "lastUpdated": "2025-08-29T10:11:45Z",
-    "stars": 7,
-    "minGameVersion": "150.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds some new additional classes to help hjson modders. \nNote: this a library. Not playable mod."
-  },
-  {
     "repo": "nannerbz/frires-json-library",
     "internalName": "frires-json-lib",
     "name": "FrireDragon's Json Lib",
@@ -2836,7 +2836,7 @@
     "internalName": "arikoth",
     "name": "Arikoth",
     "author": "Hyperium",
-    "lastUpdated": "2025-08-30T15:59:27Z",
+    "lastUpdated": "2025-08-30T16:07:25Z",
     "stars": 7,
     "minGameVersion": "150",
     "hasScripts": false,
@@ -4419,8 +4419,8 @@
     "repo": "bsp-2/echo-fleet",
     "internalName": "echo-fleet",
     "name": "Echo Fleet",
-    "author": "Main dev - Blehhhh cat \nCo-dev - Ambient Push \nContributors - Kamikazefoxmk.i, Tinport, Aerodynamic Attorney",
-    "lastUpdated": "2025-08-30T15:43:40Z",
+    "author": "Main dev - Blehhhh cat \nCo-dev - Ambient Push \nContributors - Kamikazefoxmk.i, Tinport, Aerodynamic Attorney \n Music Composer - Ace1020spawn",
+    "lastUpdated": "2025-08-30T17:40:26Z",
     "stars": 4,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -6612,6 +6612,18 @@
     "description": "Every time my friend Haznobrain spells a word wrong I add it to the bundle.properties and also I add weird random ideas I have at like 2 AM"
   },
   {
+    "repo": "undaria/newhorizntexturepack",
+    "internalName": "cnh",
+    "name": "Newhorizn Texture Pack",
+    "author": "裙带菜Undaria",
+    "lastUpdated": "2025-08-28T12:18:38Z",
+    "stars": 2,
+    "minGameVersion": "144",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "一个新视界材质包使用了新的艺术风格\nA mod that makes the texture style of NewHorizon Mod. If Lao uses these textures in NewHorizon, this Mod will not update."
+  },
+  {
     "repo": "kosmofrog/planet-vulcanum",
     "internalName": "v",
     "name": "Planet Vulcanum",
@@ -8554,18 +8566,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Music & SFX Pack"
-  },
-  {
-    "repo": "undaria/newhorizntexturepack",
-    "internalName": "cnh",
-    "name": "Newhorizn Texture Pack",
-    "author": "裙带菜Undaria",
-    "lastUpdated": "2025-08-28T12:18:38Z",
-    "stars": 1,
-    "minGameVersion": "144",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "一个新视界材质包使用了新的艺术风格\nA mod that makes the texture style of NewHorizon Mod. If Lao uses these textures in NewHorizon, this Mod will not update."
   },
   {
     "repo": "uranyukedev/touhou-music-pack",
