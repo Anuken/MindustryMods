@@ -988,7 +988,7 @@
     "internalName": "calamity",
     "name": "MindustryCalamity",
     "author": "-Undaria-",
-    "lastUpdated": "2025-08-17T07:53:21Z",
+    "lastUpdated": "2025-08-31T04:10:51Z",
     "stars": 20,
     "minGameVersion": "147",
     "hasScripts": true,
@@ -1696,7 +1696,7 @@
     "internalName": "",
     "name": "MineDusty",
     "author": "[scarlet]ItsKirby",
-    "lastUpdated": "2025-08-24T13:18:42Z",
+    "lastUpdated": "2025-08-31T05:23:47Z",
     "stars": 12,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -2496,6 +2496,18 @@
     "description": "Welcome to Farborne Industries! Explore Erbius, a terrestrial planet covered predominantly in water, and Deimo, Erbius's moon, which is covered in lakes of Ethane\n\nAll sectors (except for Embark and Trench) will be completely remade from scratch relatively soon\n\nConsider joining my Telegram channel https://t.me/farborne\n\nUPDATES ARE BACK ON THE MENU, BOYS! Redux\nNote: restart your game for special settings to take effect\n\n\nAttributions; Special thanks to all of the following:\n♡  Annie, for supporting me and bringing joy to my life\n☆  Endofreeze, for your immense help with the project, including brainstorming and sprites\n☆  CasualWhale, for playtesting and feedback\n☆  sh1penfire, for creating the best sector in the mod: Trench, and for the 'planetarium' script\n✧  nullevoy, for helping sprite the Withdraw turret\n✧  abreaker, for helping with the Dread team glyph script\n✧  2017Knight2017, for Strontium and Edison concepts\n✧  Anuke, for creating Mindustry\n✧  Special thanks to the Mindustry Discord and everyone else who helped me create my first public game mod\n"
   },
   {
+    "repo": "itzcraft/hjsonpp",
+    "internalName": "hjsonpp",
+    "name": "hjson++",
+    "author": "ItzCraft\nhelpers: Photon_gravity, Sputnuc",
+    "lastUpdated": "2025-08-29T10:11:45Z",
+    "stars": 8,
+    "minGameVersion": "150.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds some new additional classes to help hjson modders. \nNote: this a library. Not playable mod."
+  },
+  {
     "repo": "reborntrack970/infinicampaign",
     "internalName": "inficamp",
     "name": "InfiniCampaign",
@@ -2806,18 +2818,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
-  },
-  {
-    "repo": "itzcraft/hjsonpp",
-    "internalName": "hjsonpp",
-    "name": "hjson++",
-    "author": "ItzCraft\nhelpers: Photon_gravity, Sputnuc",
-    "lastUpdated": "2025-08-29T10:11:45Z",
-    "stars": 7,
-    "minGameVersion": "150.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds some new additional classes to help hjson modders. \nNote: this a library. Not playable mod."
   },
   {
     "repo": "nannerbz/frires-json-library",
@@ -5328,16 +5328,16 @@
     "description": "A Mindustry Java mod adding a new planet called Tekton, with it's own campaign, mechanics, hazards, blocks and units. \n\t\n\tTekton is a extremely cold planet far away from the sun, where a agressive faction called Hapax is located. Because of the low temperature the physical properties of many elements here are radically different from the other planets. The dense  methane rich atmosphere blocks the vision and unknown threats lure on the poles of the planet.\n\t\n\tCan you survive and thrive in this enviroment?\n\t\n\tAvailable languages:\n\t-English\n\t-Brazilian Portuguese\n\t\n\t[accent](The planet is based off on Titan, one of Saturns moons)[]\n\t"
   },
   {
-    "repo": "mindustryid/terjemahanindonesia",
-    "internalName": "terjemahan-indonesia",
-    "name": "Terjemahan Indonesia",
-    "author": "Kevin Vilyan",
-    "lastUpdated": "2025-08-30T01:53:47Z",
+    "repo": "undaria/newhorizntexturepack",
+    "internalName": "cnh",
+    "name": "Newhorizn Texture Pack",
+    "author": "裙带菜Undaria",
+    "lastUpdated": "2025-08-28T12:18:38Z",
     "stars": 3,
-    "minGameVersion": "146",
-    "hasScripts": true,
+    "minGameVersion": "144",
+    "hasScripts": false,
     "hasJava": false,
-    "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dianjurkan untuk digunakan di Versi 8 !!!"
+    "description": "一个新视界材质包使用了新的艺术风格\nA mod that makes the texture style of NewHorizon Mod. If Lao uses these textures in NewHorizon, this Mod will not update."
   },
   {
     "repo": "grandendeavor100/stellar-interstice",
@@ -5362,6 +5362,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "resprites random garbage. since im so cool. do not use this with a bad computer or phone or you will get horrible fps."
+  },
+  {
+    "repo": "mindustryid/terjemahanindonesia",
+    "internalName": "terjemahan-indonesia",
+    "name": "Terjemahan Indonesia",
+    "author": "Kevin Vilyan",
+    "lastUpdated": "2025-08-31T05:16:21Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• WilloIzCitron - William A\n• Kevin Vilyan - Kenny\n\n[scarlet]Tidak dianjurkan untuk digunakan di Versi 8 !!!"
   },
   {
     "repo": "wshon/mindustrytoolkit",
@@ -6598,18 +6610,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Every time my friend Haznobrain spells a word wrong I add it to the bundle.properties and also I add weird random ideas I have at like 2 AM"
-  },
-  {
-    "repo": "undaria/newhorizntexturepack",
-    "internalName": "cnh",
-    "name": "Newhorizn Texture Pack",
-    "author": "裙带菜Undaria",
-    "lastUpdated": "2025-08-28T12:18:38Z",
-    "stars": 2,
-    "minGameVersion": "144",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "一个新视界材质包使用了新的艺术风格\nA mod that makes the texture style of NewHorizon Mod. If Lao uses these textures in NewHorizon, this Mod will not update."
   },
   {
     "repo": "kosmofrog/planet-vulcanum",
@@ -11116,11 +11116,11 @@
     "internalName": "超限工艺",
     "name": "[TransfiniteTechnology]",
     "author": "主作者:\n没有炮台的炮台s(PurTers)\n\n地图制作者:\n蓝细菌光合自养\n\n宣传人员:\nFire\n\n贴图师:\nMr.世纪灯泡 & 睌暙\n\n地图世处:\nalpha & 没有炮台的炮台s(PurTers)\n\n代码制作:\n没有炮台的炮台s(PurTers)\n\nMOD设定:\n纯萌新 & 没有炮台的炮台s(PurTers)",
-    "lastUpdated": "2025-08-30T15:45:19Z",
+    "lastUpdated": "2025-08-31T05:31:17Z",
     "stars": 0,
     "minGameVersion": "150",
     "hasScripts": false,
     "hasJava": false,
-    "description": "警告！您当前游玩的为MOD内测版本，如果您是非内测群玩家但是得到此版本，请与没有炮台的炮台s本人联系(QQ:737629445)\n感谢您的配合！"
+    "description": "欢迎来到超限工艺！！！\n\nMOD已经将部分原版战役覆盖，难度会相对提高，更为富有挑战性，同时有部分MOD额外战役。\n目前模组一共11张主线战役地图，1张支线地图\n(未制作完的战役已禁用)\n\nMOD轻工业部分已经完成\n\nMOD主群：789966619\n\n其他系列MOD主群:\n无尽奇点:242384028或595152276\n\nMOD目前能存在一些平衡性问题,欢迎各位加群反馈\n\nmod目前阵容:\n代码师&策划&贴图师:没有炮台的炮台s\n贴图师:世纪灯泡&晚暙\n宣传人员&贴图援助:Fire\n地图师&平衡性测试人员:蓝细菌光合自养\n地图世处:alpha\n场外代码援助:nan\n设定完善:纯萌新\n\n\n\n关于开发者单位:\n有开发者单位≠参与MOD开发,但可能曾参与MOD开发,或对MOD的贡献较大\n\n\n\n致谢名单:\n星月\nnan(代码指导)\nRA2-RA2(代码参考)\nKochiyaUeneh油苗子[white(防混模代码)]\nwwwww(贴图,灵感和地图投稿)\n普通的MDT玩家\n西红柿汤(世界处理器指导)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n“由无数失败所构筑”"
   }
 ]
