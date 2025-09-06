@@ -208,9 +208,9 @@
     "internalName": "mi2-utilities-java",
     "name": "MI2-Utilities Java",
     "author": "BlackDeluxeCat",
-    "lastUpdated": "2025-08-09T01:50:33Z",
+    "lastUpdated": "2025-09-06T03:35:24Z",
     "stars": 87,
-    "minGameVersion": "150.1",
+    "minGameVersion": "151.1",
     "hasScripts": false,
     "hasJava": true,
     "description": "QOL Mod, powerful assists to vanilla gameplay. For destined Mindustry players."
@@ -600,6 +600,18 @@
     "description": "A mod provides a variety of tools for modding.\n\n-----------------\nVersion 1.5.6\n## Highlight\n- Added some new features.\n- Fixed some bugs.\n-----------------\n\n## ShowUIList\n\n- Display `icon`, `tex`, `styles`, `colors`, `interps`\\\n!(./screenshots/UIList.png)\n\n## Tester\n\n!(./screenshots/tester.png)\n\n- Provide `JS` editor `Tester`\n- Shortcuts\n- Press `Ctrl`+`Shift`+`Enter` to `execute` code immediately\n- Press `Ctrl`+`Shift`+`↑/↓` to switch `history` records\n- Press `Ctrl`+`Shift`+`D` to `view` detailed information\n- Press `Alt`+`V` to preview `Texture`\n- Built-in `unsafe`, `lookup`\n- Built-in `IntFunc` class (abbreviated as `$`)\n- `$.xxx` can represent primitive data types (e.g., `$.void` represents `Void.TYPE`;`$.J` represents long.class)\n- `$p` represents `Packages`\n- Code: [JSFunc](https://github.com/i-hope1/mod-tools/src/modtools/utils/JSFunc.java)\n- Long press on code in the favorites to add to startup items\\\n!(./screenshots/startup.png)\n- Quick switch history\\\n![Screenshot 2024-03-10 14-45-37](https://github.com/I-hope1/mod-tools/assets/78016895/4918af35-19af-4fab-b961-70bdc8679fe8)\n- `$.item`, `$.liquid`, `$.unit` and so on.\n\n## UnitSpawn\n\n- Multiple team selection\n- Support for fixed point spawning\n- Display `name` and `localizedName`\n- Rightclick the name Label to copy save as JS var.\n\n## Selection\n\n- Selector\n- Supports `Tile`, `Building`, `Bullet`, `Unit`\n- Kill\n- Set Item/Liquid/Team\n- Press `Ctrl`+`Alt` to fix Focus Window\n\n## ReviewElement\n\n- Display element list, double-click to copy element to js variable\n- `Ctrl`+`Shift`+`C` to Inspect Element\n- `Ctrl`+`Alt`+`D` to display bounds of Element\n- Select untouchable elements\n- Mobile: Filter current element with two fingers\n- PC: Press `F` to filter current element\n- Functions shortcuts for Element\n- `i`: display details (open ShowInfoWindow)\\\n- `p`(for Image):  show `DrawablePicker`\n- `del`: (`shift` to ignore confirmation), delete element\n- `<` / `>`: collapse Group\n- `f`: fix floating Info column\n- `r`: invoke element's method\n\n- ![reviewElement](./screenshots/review_element.png)\n\n# Frag\n\n- Double-click the blue part of Frag to minimize/restore Frag\n- In the minimized state, click the blue part, it will behave like a floating ball\n\n## Window\n\n- Press `Ctrl`+`Tab` to switch windows\n- Press `Shift`+`F4` to close current window\n- RClick the close button to move and scl window.\n\n## ShowInfoWindow\n\n- Show all fields, methods, constructors and nested classes of a obj.\n- Field can be modified.\n- Method can be Invoked(Special).\n- Constructor can be invoked to new a instance.\n\n## Others\n\n### Extensions\n- Http Redirect\n> Redirect some websites, such as: github\\\n> Configuration file: b0kkihope/http_redirect.properties"
   },
   {
+    "repo": "eb-wilson/helium",
+    "internalName": "he",
+    "name": "Helium",
+    "author": "EBwilson",
+    "lastUpdated": "2025-08-11T15:35:03Z",
+    "stars": 32,
+    "minGameVersion": "150",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod provide optimized ui and more utilities.\nMajor features:\n- ***In-Game Entity Information Components***: Provides various UI elements for game entities including units and blocks\n- ***Health & Status Indicators***: Displays real-time status (health, shields) above units and entities. When shield stacks exceed max health, multi-layer shields with stack counters are shown.\n- ***Attack Range Indicators***: Units and turrets now visualize their attack ranges as translucent areas. Processed boundaries emphasize combined team range contours to prevent visual clutter, with subtle pulsating animations and chromatic borders.\n- ***Functional Block Effect Range Indicators***: Devices like Mend Projectors, Overdrive Projectors, and unit repair stations display effect ranges with distinctive colors.\n- ***Enhanced Block Placement Panel***: A refined block selection panel integrating a quick item bar and standardized tool buttons.\n- ***The better Mod Manager and Mod Browser***: Reworked the Mods Manager and Mods Browser, now they looks more aesthetically pleasing and functional"
+  },
+  {
     "repo": "andromeda-galaxy29/psammos-mod",
     "internalName": "psammos",
     "name": "Psammos Mod",
@@ -610,18 +622,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer [accent]Psammos[white].\r\n\r\nJoin our discord server: [#5865f2]https://discord.gg/eBzANBKCBA[]\r\n\r\nIf you like the mod, consider giving it a star on GitHub. Thank you\r\n\r\n[#31fea7]Contributors:[]\r\n- [#5865f2]@inxie_ratzey[] - suggestions, sprites, many maps and other contributions\r\n- [#5865f2]@thisiscrimsoncheck[] - several maps, suggestions and other contributions\r\n- [#5865f2]@tinport[] - various suggestions and maps\r\n- [#5865f2]@mrapple_0[] - maps\r\n\r\n[#9b59b6]Special thanks:[]\r\n- [#5865f2]@chozochorizo[] for help with balancing the mod\r\n- [#5865f2]@thomas_has_things[] and [#5865f2]@twcash.[] for the main menu title font\r\n\r\n[#abe2ca]Suggestors:[]\r\n- [#5865f2]@nekoarkbruhagain_07111[]\r\n- [#5865f2]@allayscrafter[]"
-  },
-  {
-    "repo": "eb-wilson/helium",
-    "internalName": "he",
-    "name": "Helium",
-    "author": "EBwilson",
-    "lastUpdated": "2025-08-11T15:35:03Z",
-    "stars": 31,
-    "minGameVersion": "150",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod provide optimized ui and more utilities.\nMajor features:\n- ***In-Game Entity Information Components***: Provides various UI elements for game entities including units and blocks\n- ***Health & Status Indicators***: Displays real-time status (health, shields) above units and entities. When shield stacks exceed max health, multi-layer shields with stack counters are shown.\n- ***Attack Range Indicators***: Units and turrets now visualize their attack ranges as translucent areas. Processed boundaries emphasize combined team range contours to prevent visual clutter, with subtle pulsating animations and chromatic borders.\n- ***Functional Block Effect Range Indicators***: Devices like Mend Projectors, Overdrive Projectors, and unit repair stations display effect ranges with distinctive colors.\n- ***Enhanced Block Placement Panel***: A refined block selection panel integrating a quick item bar and standardized tool buttons.\n- ***The better Mod Manager and Mod Browser***: Reworked the Mods Manager and Mods Browser, now they looks more aesthetically pleasing and functional"
   },
   {
     "repo": "sh1penfire/meld",
@@ -5328,6 +5328,18 @@
     "description": "一个新视界材质包使用了新的艺术风格\nA mod that makes the texture style of NewHorizon Mod. If Lao uses these textures in NewHorizon, this Mod will not update."
   },
   {
+    "repo": "kosmofrog/planet-vulcanum",
+    "internalName": "v",
+    "name": "Planet Vulcanum",
+    "author": "kosmofrog",
+    "lastUpdated": "2025-08-28T12:50:05Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nEN: Adds Vulcanum - hot dirty planet, that has dangerous enemies. P.s. now mod has two sectors you can beat, but there are some bugs I can't fix. \nRU: Добавляет Вулканум - горячую пыльную планеты с опасными противниками. P.s. сейчас мод имеет два сектора, которые можно пройти, но здесь также немного багов, которые я не могу исправить."
+  },
+  {
     "repo": "tinport/tinport-serpulo-resprites",
     "internalName": "tinport-fancy-resprites",
     "name": "tinport serpulo resprites",
@@ -5392,7 +5404,7 @@
     "internalName": "apolon",
     "name": "apolon",
     "author": "Nannerbz & VDoble",
-    "lastUpdated": "2025-09-06T01:34:31Z",
+    "lastUpdated": "2025-09-06T02:53:03Z",
     "stars": 3,
     "minGameVersion": "150",
     "hasScripts": false,
@@ -6600,30 +6612,6 @@
     "description": "Every time my friend Haznobrain spells a word wrong I add it to the bundle.properties and also I add weird random ideas I have at like 2 AM"
   },
   {
-    "repo": "kosmofrog/planet-vulcanum",
-    "internalName": "v",
-    "name": "Planet Vulcanum",
-    "author": "kosmofrog",
-    "lastUpdated": "2025-08-28T12:50:05Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\nEN: Adds Vulcanum - hot dirty planet, that has dangerous enemies. P.s. now mod has two sectors you can beat, but there are some bugs I can't fix. \nRU: Добавляет Вулканум - горячую пыльную планеты с опасными противниками. P.s. сейчас мод имеет два сектора, которые можно пройти, но здесь также немного багов, которые я не могу исправить."
-  },
-  {
-    "repo": "713712/scr",
-    "internalName": "强化战役-再临",
-    "name": "强化战役［SCR］",
-    "author": "24岁是个鼠标",
-    "lastUpdated": "2025-08-30T04:29:27Z",
-    "stars": 2,
-    "minGameVersion": "150",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "继强化战役的下一代模组\n模组群：927366409\n特别感谢：?和爬爬跟鱼\n故事线：这是来自另一个比赛普罗科技水平更高的星球\n原住民成称它为赛普拉\n赛普拉第1000年赛普拉即将承载不住赛普拉人的开采，濒临崩溃\n赛普拉的高层想起了在古老的废弃遗迹里发现了与赛普罗互通的行星折跃门\n安排了01先遣队从折跃门中穿越到了赛普罗星的偏远前哨站\n但是由于技术不够成熟先遣队进去之后就与母星失联了.......总之先把这个前哨站占领下来吧\n\n\n\n当先遣抬头仰望他们的家乡...他们惊恐的发现曾经繁华的赛普拉已经不复存在\n\n\n\n\n\n\n\n\n敢盗贴图让你飞起来\n我会盯着你\n战役的正确顺序是哨所-盆地-零号-森林"
-  },
-  {
     "repo": "chuvaak/futurehorizons",
     "internalName": "futurehorizons",
     "name": "Future Horizons",
@@ -6694,6 +6682,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "介绍日后再写"
+  },
+  {
+    "repo": "713712/scr",
+    "internalName": "强化战役-再临",
+    "name": "强化战役［SCR］",
+    "author": "24岁是个鼠标",
+    "lastUpdated": "2025-09-06T03:20:01Z",
+    "stars": 2,
+    "minGameVersion": "150",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "继强化战役的下一代模组\n模组群：927366409\n特别感谢：?和爬爬跟鱼还有棕熊\n特别感谢炮塔的修复炮代码还有大闸蟹提供的改版地图\n故事线：这是来自另一个比赛普罗科技水平更高的星球\n原住民成称它为赛普拉\n赛普拉第1000年赛普拉即将承载不住赛普拉人的开采，濒临崩溃\n赛普拉的高层想起了在古老的废弃遗迹里发现了与赛普罗互通的行星折跃门\n安排了01先遣队从折跃门中穿越到了赛普罗星的偏远前哨站\n但是由于技术不够成熟先遣队进去之后就与母星失联了.......总之先把这个前哨站占领下来吧\n\n\n\n当先遣抬头仰望他们的家乡...他们惊恐的发现曾经繁华的赛普拉已经不复存在\n\n\n\n\n\n\n\n\n敢盗贴图让你飞起来\n我会盯着你\n战役的正确顺序是哨所-盆地-零号-森林-陨石带"
   },
   {
     "repo": "teaeempire/gghv7",
