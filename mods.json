@@ -2208,6 +2208,18 @@
     "description": "This mod adds tons of items and a new planet!!!\nThe planet contains a poisonous atmosphere, but at the same time it has precious green material. The planet also contains the poisonous substance Puplenite.\nMod version beta 1.2"
   },
   {
+    "repo": "meepoffaith/additional-logistics",
+    "internalName": "tranqol",
+    "name": "Additional Logistics",
+    "author": "MEEPofFaith",
+    "lastUpdated": "2025-08-03T05:55:17Z",
+    "stars": 9,
+    "minGameVersion": "147.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A quality of life mod that adds useful blocks for transportation and logistics."
+  },
+  {
     "repo": "haznobrain/tower-defense-molten",
     "internalName": "towerdefensemolten",
     "name": "Tower Defense: Molten",
@@ -2458,18 +2470,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that adds logic components to the game, such as logic gates, wires and more."
-  },
-  {
-    "repo": "meepoffaith/additional-logistics",
-    "internalName": "tranqol",
-    "name": "Additional Logistics",
-    "author": "MEEPofFaith",
-    "lastUpdated": "2025-08-03T05:55:17Z",
-    "stars": 8,
-    "minGameVersion": "147.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A quality of life mod that adds useful blocks for transportation and logistics."
   },
   {
     "repo": "icexuegao/deepspace",
@@ -5220,18 +5220,6 @@
     "description": "A mod where i focus on making a content base on Infinitode 2, The Campaign is Still Playable, But it will getting Remaked and the Sector will be Remade Alongside the Tech Tree As Well"
   },
   {
-    "repo": "m-e-l-i-s/silvirium-mod",
-    "internalName": "silvirium",
-    "name": "Silvirium",
-    "author": "Melis and rocket550",
-    "lastUpdated": "2025-07-18T01:43:43Z",
-    "stars": 3,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "My frist mod, this mod add silvirium units/blocks and star units/blocks \n\nmixed with other random suff"
-  },
-  {
     "repo": "volproil/ultimate-military-technic",
     "internalName": "ultimate-military-technic-mod",
     "name": "Ultimate Military Technic Mod",
@@ -5398,6 +5386,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Introducing, Apolon! the long awaited passion project by me, Nannerbz (or like 3 different nicknames online), and my friend VDoble! This project has been in development for a LONG while and im happy im finally able to release it to the public! This mod contains: Brand new gameplay, New units, A new campaign, and MORE!\n\nDiscord: fandslimu\n(Or Fandslimu#9712)"
+  },
+  {
+    "repo": "m-e-l-i-s/silvirium-mod",
+    "internalName": "silvirium",
+    "name": "Silvirium",
+    "author": "Melis and rocket550",
+    "lastUpdated": "2025-09-12T12:19:06Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "My frist mod, this mod add silvirium units/blocks and star units/blocks \n\nmixed with other random suff"
   },
   {
     "repo": "wshon/mindustrytoolkit",
@@ -6660,18 +6660,6 @@
     "description": "介绍日后再写"
   },
   {
-    "repo": "m-e-l-i-s/silviriumjava",
-    "internalName": "slib",
-    "name": "SilviriumLib",
-    "author": "Melis",
-    "lastUpdated": "2025-09-06T22:40:34Z",
-    "stars": 2,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod that i use as a library."
-  },
-  {
     "repo": "caboosket/annoica",
     "internalName": "annoica",
     "name": "Annoica",
@@ -6694,6 +6682,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Any block/unit/statistic not mentioned here has been left unchanged\n\n\n\nFoundation & Nucleus core\n   Health increased significantly\n\nAll factories & constructors\n   Health increased significantly\n\nT5 units \n   doubled in cost and build time\n\nT4 units \n   0.67x cost and build time\n\nT4 reconstructor cost reduced\n   Lead - 1200\n   Titanium - 1000\n   Thorium - 650\n   Silicon - 700\n   Plastanium - 250\n\nT2 reconstructor cost increased\n   copper - 400\n   lead - 240\n   titanium - 200\n   silicon - 270\n\nT1 air factory\n   cost adjusted\n      copper - 60\n      lead - 69\n      silicon - 90\n\nT1 naval factory\n   cost adjusted\n      copper - 300\n      lead - 260\n      silicon - 180\n      metaglass - 240\n\n\n\nPhase Wall\n   60% deflection chance\n\nSurge Wall\n   20 armor\n\n\n\nDuo \n   No longer hits air\n   Range increased to 23.75\n   Shoots 2 shots per second\n\nSalvo\n   No longer hits air\n   Shoots a salvo of 25 bullets\n   Very long reload time\n   Massively increased build cost\n   Range increased to 30\n\nFuse\n   No longer hits air\n   Range increased to 14\n   Applies unmoving for 1 second\n   Doubled reload time\n   \nRipple\n   Shoots 20 shells at a time\n   Very long reload\n   Shells do more damage\n   Massively increased build cost\n\nSpectre\n   Knowckback increased to 10\n\nParallax\n   Applies Unmoving \n   Range increased to 35\n   Build cost increased 3x\n\nSegment\n   Range increased to 37.5\n\nTsunami\n   30° spread\n   Shoots more\n\nMeltdown \n   no longer hit air\n\nForeshadow \n   2.7x longer reload\n\nSwarmer\n   ***Hits air only***\n   Build cost increased 6x\n   Range greatly increased to 50\n   Damage rework:\n      Surge Alloy\n        70 +\n        10x2 lightning \n      Blast Compund\n        90 +\n        10 area (3.5 aoe)\n      Pyratite\n        90\n\nCyclone \n   ***Hits air only***\n   Build cost increased 4x\n   Range increase to 30\n   Damage rework:\n      Metaglass\n         6\n         45 area (2.5 aoe)\n         2 x 110 frag bullets\n      Plastanium\n        8\n        37 area (2.5 aoe)\n        4 x 110 frag bullets\n      Surge Alloy\n        13\n        75 area (2.5 aoe)\n        2 x 55 lightning\n      Blast Compound\n        8\n        55 area (7.5 aoe)\n\n\n\nFlare\n   Homing bullets\n   Rotates faster\n\nHorizon\n   Now a hit & run carpet bomber\n   Health 100\n   Speed 20\n   Drops 8 bombs rapidly\n   5 second reload time\n   Bomb AOE increased to 4\n\nZenith\n   Now an air superiority fighter\n   Health 400\n   Speed 26\n   Missiles can only damage air units\n   Ignores shields\n   Damage 45 +15 area (3.1 aoe)\n   Range ~30\n\nAntumbra\n   Health 5000\n   Now has 3x3 payload capacity\n   Has an extra AA missile\n      Damage 150\n      Reload 4s\n      Extended range\n\nEclipse \n   Health 66000\n\n\n\nMono\n   Increased HP\n   Extremely slow self-healing\n\nPoly\n   Now a multi-role AA fighter\n   Now heals blocks using a laser\n   Missiles can only damage air units \n   Ignores shields\n   Damage 40\n   Able to transport up to T2 units\n\nMega\n   Health 1200\n   Armor 0\n   Speed 16\n   Healing factor of bullets reduced\n\nQuad\n   Now a hit & run strategic bomber\n   Health 1000\n   Damage 1000\n   Reload 5s\n   Speed 20\n   No longer has payload capacity\n\nOct\n   Health 12000\n   Shield 40000\n   Shield regen 500\n   Item capacity 1000\n   Hugely increased payload cap\n   Added Shield Regen Field ability\n\n\n\nMace\n   Speed 5.25\n   Cannot hit air\n   20 dmg\n   700 HP\n\nFortress\n   Health 500\n   Range 32\n   Has a new long range AA missile\n      Damage 150\n      Reload 4s\n\nScepter\n   Health 2000\n   Range 31\n   Shield ability removed\n   Big guns only hit ground\n      Damage 100\n      Lightning damage 5\n   Little guns only hit air\n      Damage 15\n      Homing\n\nReign\n   Heath 75000\n   Range 31\n   Cannot hit air\n\n\n\nNova\n   Now heals units using lasers\n\nPulsar\n   Health 640\n   No mining\n\nQuasar\n   Cannot hit air\n   Shield size increase\n   No mining\n   \nVela\n   Cannot hit air\n   Health 3000\n   Damage 200/s\n\nCorvus\n   Cannot hit air\n   Health 7000\n   Range 61\n   Damage 3000\n\n\n\nCrawler\n   Damage 200\n   Cannot hit air\n   Build time increased to 15s\n\nAtrax\n   400 HP\n   Amphibious\n   Has slow firing AA flak cannon\n      Damage 40 area(3.1aoe)\n      Reload 3s\n\nSpiroct\n   Cannot hit air\n   Speed 5\n   Health 2000\n   Amphibious\n   Now fires Torpedos:\n      Damage 300\n        +40 area (4aoe)\n      Range 30\n      Reload 4s\n   Sap lasers:\n      no longer life steal\n      -90% building dmg\n      slow the Sproct when fired\n\nArkyid\n   Cannot hit air\n   Speed 5\n   Health 8000\n   Amphibious\n   Now fires 3x Torpedos:\n      Damage 300\n        +40 area (4aoe)\n      Range 30\n      Reload 4s\n   Main cannon damage 5\n   Sap lasers:\n      no longer life steal\n      -90% building dmg\n      slow the Arkyid when fired\n\nToxopid\n   Cannot hit air\n   Speed 5\n   Amphibious\n   Now fires Torpedos:\n      Damage 10000\n        +1000 area (4aoe)\n      Range 80\n      Reload 10s\n   Fuse-like cannon damage 500\n\n\n\nSei\n   Health 3000\n   Missile launcher 0.5x fire rate\n\nOmura\n   Health 15000\n   Damage 1250\n   Speed 2.25\n   Now spawns Horizons\n\n\n\nRetusa\n   Incrased the laset bolt guns to 4\n\nAegires\n   Health 2200\n\nNavanax\n   Health 60000\n   Laser beams no longer hit air\n   Got a frontal shield like the Tecta"
+  },
+  {
+    "repo": "m-e-l-i-s/silviriumjava",
+    "internalName": "slib",
+    "name": "SilviriumLib",
+    "author": "Melis",
+    "lastUpdated": "2025-09-12T12:10:57Z",
+    "stars": 2,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod that i use as a library."
   },
   {
     "repo": "teaeempire/gghv7",
@@ -8640,18 +8640,6 @@
     "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
-    "repo": "m1cxzfw3q/thermal-engineering-java",
-    "internalName": "temod",
-    "name": "Thermal Engineering Java",
-    "author": "[sky]114514[white]",
-    "lastUpdated": "2025-09-10T14:31:16Z",
-    "stars": 1,
-    "minGameVersion": "151.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[blue]-----INFO----------------[white]\nThermal Engineering [acid]0.0.2[red]\nAlpha(Pre)\n\n当前版本已发布"
-  },
-  {
     "repo": "mrdoes/copper-units",
     "internalName": "copperamic",
     "name": "Copper Units",
@@ -8674,6 +8662,30 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "An upcoming mod that has biotic life\n  "
+  },
+  {
+    "repo": "m1cxzfw3q/thermal-engineering-java",
+    "internalName": "temod",
+    "name": "Thermal Engineering Java",
+    "author": "[sky]114514[white]",
+    "lastUpdated": "2025-09-12T12:56:14Z",
+    "stars": 1,
+    "minGameVersion": "151.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[blue]-----INFO----------------[white]\nThermal Engineering [acid]0.0.2[red]\nAlpha(Pre)\n\n当前版本已发布"
+  },
+  {
+    "repo": "kashkinzey/cheatmindy",
+    "internalName": "kashkinzey_cheat",
+    "name": "Kashkinzey Cheat",
+    "author": "Kashkinzey",
+    "lastUpdated": "2025-09-12T13:53:43Z",
+    "stars": 1,
+    "minGameVersion": "150",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The best cheat mod for mindustry. Adds a button to change the rules of the game in all game modes and automatically unlocks all research. Want to see the new features? Message me on GitHub. In the future, I will add settings to disable many features, and you'll find out more on GitHub."
   },
   {
     "repo": "exxleo/exoterusmod",
@@ -11176,10 +11188,10 @@
     "internalName": "nuclear-dustry",
     "name": "Nuclear Mindustry",
     "author": "alstocras",
-    "lastUpdated": "2025-09-12T11:28:45Z",
+    "lastUpdated": "2025-09-12T13:49:48Z",
     "stars": 0,
     "minGameVersion": "146",
-    "hasScripts": true,
+    "hasScripts": false,
     "hasJava": false,
     "description": "Adds nuclear stuff to the game."
   }
