@@ -328,7 +328,7 @@
     "internalName": "aquarion",
     "name": "Aquarion",
     "author": "twcash",
-    "lastUpdated": "2025-09-16T21:40:16Z",
+    "lastUpdated": "2025-09-17T19:52:27Z",
     "stars": 67,
     "minGameVersion": "150",
     "hasScripts": false,
@@ -856,7 +856,7 @@
     "internalName": "as",
     "name": "Asterion",
     "author": " |Asterion Team| ",
-    "lastUpdated": "2025-09-17T17:44:46Z",
+    "lastUpdated": "2025-09-17T18:36:46Z",
     "stars": 23,
     "minGameVersion": "147",
     "hasScripts": true,
@@ -3144,18 +3144,6 @@
     "description": "Adds multiple new factories, turrets and items to enhance vanilla content and add more things post-late game.\nIMPORTANT: Credit for sprites cuz stealing bad: \n- Eschatologue/Unlimited-Armament-Works\n- AureusStratus/ExoGenesis \n- Eschatologue/Heavy-Armaments-Industries\n- uujuju1/project-oblivion\n- Twcash/Aquarion\n- thomas_has_things(discord) Thomas's Things \n- and a huge shoutout to y'all on the Mindustry Discord\nas well as reskins of vanilla sprites\nI'm really sorry for stealing sprites I just can't good results otherwise, and the mod was originally just a personnal project for late-game, I \"had\" to share it on GitHub for compatibility issues."
   },
   {
-    "repo": "weeersix/xenrose",
-    "internalName": "xenrose",
-    "name": "Xenrose",
-    "author": "Weersix?",
-    "lastUpdated": "2025-09-14T11:17:23Z",
-    "stars": 6,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Beta 0.3"
-  },
-  {
     "repo": "novanox4/astralis",
     "internalName": "astralis",
     "name": "Astralis",
@@ -3166,6 +3154,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\nIN DEVELOPMENT, EXPECT BUGS AND UNFINISHED/UNPOLISHED CONTENT!\n\nAstralis is a mod focused on adding a brand new campaign on a planet harboring the same name.\n\nSet in the same universe as Hell Industries (althought not as horribly painful), fight hordes of eldritch AND mechanical horrors alike with your own mechanical horrors!\nOverthrow a government, kill god and ravage an entire planet now! (or maybe when the mod is done)\n\nDifficulty: uhhh... it depends...\nContent: For now, quite a decent amount. A lot is in store for the future though :3\nSillyness: MAXIMUM\nEldritch Horrors: very.\nQuality: uhhh... it depends...\nBalancing: If everything is op then everything is balanced\n"
+  },
+  {
+    "repo": "weeersix/xenrose",
+    "internalName": "xenrose",
+    "name": "Xenrose",
+    "author": "Weersix?",
+    "lastUpdated": "2025-09-17T19:22:08Z",
+    "stars": 6,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Beta 0.3"
   },
   {
     "repo": "yaroslav242/yfjs",
@@ -5436,18 +5436,6 @@
     "description": "this mod contains wips, unpolished blocks and random crap like new conveyors, turrets and resources."
   },
   {
-    "repo": "nannerbz/apolon",
-    "internalName": "apolon",
-    "name": "apolon",
-    "author": "Nannerbz & VDoble",
-    "lastUpdated": "2025-09-16T18:58:00Z",
-    "stars": 3,
-    "minGameVersion": "150",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Introducing, Apolon! the long awaited passion project by me, Nannerbz (or like 3 different nicknames online), and my friend VDoble! This project has been in development for a LONG while and im happy im finally able to release it to the public! This mod contains: Brand new gameplay, New units, A new campaign, and MORE!\n\nDiscord: fandslimu\n(Or Fandslimu#9712)"
-  },
-  {
     "repo": "thepi14/tekton",
     "internalName": "",
     "name": "Tekton",
@@ -5470,6 +5458,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "An upcoming mod that has biotic life\n  "
+  },
+  {
+    "repo": "nannerbz/apolon",
+    "internalName": "apolon",
+    "name": "apolon",
+    "author": "Nannerbz & VDoble",
+    "lastUpdated": "2025-09-17T19:48:26Z",
+    "stars": 3,
+    "minGameVersion": "150",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Introducing, Apolon! the long awaited passion project by me, Nannerbz (or like 3 different nicknames online), and my friend VDoble! This project has been in development for a LONG while and im happy im finally able to release it to the public! This mod contains: Brand new gameplay, New units, A new campaign, and MORE!\n\nDiscord: fandslimu\n(Or Fandslimu#9712)"
   },
   {
     "repo": "wshon/mindustrytoolkit",
@@ -6766,18 +6766,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Any block/unit/statistic not mentioned here has been left unchanged\n\n\n\nFoundation & Nucleus core\n   Health increased significantly\n\nAll factories & constructors\n   Health increased significantly\n\nT5 units \n   doubled in cost and build time\n\nT4 units \n   0.67x cost and build time\n\nT4 reconstructor cost reduced\n   Lead - 1200\n   Titanium - 1000\n   Thorium - 650\n   Silicon - 700\n   Plastanium - 250\n\nT2 reconstructor cost increased\n   copper - 400\n   lead - 240\n   titanium - 200\n   silicon - 270\n\nT1 air factory\n   cost adjusted\n      copper - 60\n      lead - 69\n      silicon - 90\n\nT1 naval factory\n   cost adjusted\n      copper - 300\n      lead - 260\n      silicon - 180\n      metaglass - 240\n\n\n\nPhase Wall\n   60% deflection chance\n\nSurge Wall\n   20 armor\n\n\n\nDuo \n   No longer hits air\n   Range increased to 23.75\n   Shoots 2 shots per second\n\nScatter\n   1 armor\n\nScorch\n   12 armor\n\nSalvo\n   No longer hits air\n   Shoots a salvo of 25 bullets\n   Very long reload time\n   Massively increased build cost\n   Range increased to 30\n\nFuse\n   No longer hits air\n   Range increased to 14\n   Applies unmoving for 1 second\n   Doubled reload time\n   \nRipple\n   Shoots 20 shells at a time\n   Very long reload\n   Shells do more damage\n   Massively increased build cost\n\nSpectre\n   Knowckback increased to 10\n\nParallax\n   Applies Unmoving \n   Range increased to 35\n   Build cost increased 3x\n\nSegment\n   Range increased to 37.5\n\nTsunami\n   30° spread\n   Shoots more\n\nMeltdown \n   no longer hit air\n\nForeshadow \n   2.7x longer reload\n\nSwarmer\n   ***Hits air only***\n   Build cost increased 6x\n   Range greatly increased to 50\n   Damage rework:\n      Surge Alloy\n        70 +\n        10x2 lightning \n      Blast Compund\n        90 +\n        10 area (3.5 aoe)\n      Pyratite\n        90\n\nCyclone \n   ***Hits air only***\n   Build cost increased 4x\n   Range increase to 30\n   Damage rework:\n      Metaglass\n         6\n         45 area (2.5 aoe)\n         2 x 110 frag bullets\n      Plastanium\n        8\n        37 area (2.5 aoe)\n        4 x 110 frag bullets\n      Surge Alloy\n        13\n        75 area (2.5 aoe)\n        2 x 55 lightning\n      Blast Compound\n        8\n        55 area (7.5 aoe)\n\n\n\nFlare\n   Homing bullets\n   Rotates faster\n   Damage 4\n   5 shots per second\n\nHorizon\n   Now a hit & run carpet bomber\n   Health 100\n   Speed 20\n   Drops 8 bombs rapidly\n   5 second reload time\n   Bomb AOE increased to 4\n\nZenith\n   Now an air superiority fighter\n   Health 400\n   Speed 26\n   Missiles can only damage air units\n   Ignores shields\n   Damage 45 +15 area (3.1 aoe)\n   Range ~30\n\nAntumbra\n   Health 5000\n   Now has 3x3 payload capacity\n   Has an extra AA missile\n      Damage 150\n      Reload 4s\n      Extended range\n\nEclipse \n   Health 100,000\n\n\n\nMono\n   Increased HP\n   Extremely slow self-healing\n\nPoly\n   Now a multi-role AA fighter\n   Now heals blocks using a laser\n   Missiles can only damage air units \n   Ignores shields\n   Damage 40\n   Able to transport up to T2 units\n\nMega\n   Health 1200\n   Armor 0\n   Speed 16\n   Healing factor of bullets reduced\n\nQuad\n   Now a hit & run strategic bomber\n   Health 1000\n   Damage 1000\n   Reload 5s\n   Speed 20\n   No longer has payload capacity\n\nOct\n   Health 12000\n   Shield 40000\n   Shield regen 500\n   Item capacity 1000\n   Hugely increased payload cap\n   Added Shield Regen Field ability\n\n\n\nDagger \n   1 armor\n\nMace\n   Speed 5.25\n   Cannot hit air\n   20 dmg\n   700 HP\n\nFortress\n   Health 500\n   Range 32\n   Has a new long range AA missile\n      Damage 150\n      Reload 4s\n\nScepter\n   Health 2000\n   Range 31\n   Shield ability removed\n   Big guns only hit ground\n      Damage 100\n      Lightning damage 5\n   Little guns only hit air\n      Damage 15\n      Homing\n\nReign\n   Heath 75000\n   Range 31\n   Cannot hit air\n\n\n\nNova\n   Now heals units using lasers\n\nPulsar\n   Health 640\n   No mining\n   Damage 7\n\nQuasar\n   Cannot hit air\n   Shield size increase\n   No mining\n   \nVela\n   Cannot hit air\n   Health 3000\n   Damage 200/s\n\nCorvus\n   Cannot hit air\n   Health 7000\n   Range 61\n   Damage 3000\n\n\n\nCrawler\n   Damage 200\n   Cannot hit air\n   Build time increased to 15s\n\nAtrax\n   400 HP\n   0 Armor\n   Amphibious\n   Has slow firing AA flak cannon\n      Damage 40 area(3.1aoe)\n      Reload 3s\n\nSpiroct\n   Cannot hit air\n   Speed 5\n   Health 2000\n   Amphibious\n   Now fires Torpedos:\n      Damage 300\n        +40 area (4aoe)\n      Range 30\n      Reload 4s\n   Sap lasers:\n      no longer life steal\n      -90% building dmg\n      slow the Sproct when fired\n\nArkyid\n   Cannot hit air\n   Speed 5\n   Health 8000\n   Amphibious\n   Now fires 3x Torpedos:\n      Damage 300\n        +40 area (4aoe)\n      Range 30\n      Reload 4s\n   Main cannon damage 5\n   Sap lasers:\n      no longer life steal\n      -90% building dmg\n      slow the Arkyid when fired\n\nToxopid\n   Cannot hit air\n   Speed 5\n   Amphibious\n   Now fires Torpedos:\n      Damage 10000\n        +1000 area (4aoe)\n      Range 80\n      Reload 10s\n   Fuse-like cannon damage 500\n\n\n\nSei\n   Health 3000\n   Missile launcher 0.5x fire rate\n\nOmura\n   Health 15000\n   Damage 1250\n   Speed 2.25\n   Now spawns Horizons\n\n\n\nRetusa\n   Incrased the laser bolt guns to 4\n\nAegires\n   Health 1200\n   Now Projects a sheild like quasar\n      1000 hp\n      18 hp/s regen\n      15 tile range\n      30 second cooldown\n\nNavanax\n   Health 60000\n   Laser beams no longer hit air\n   Got a frontal shield like the Tecta"
-  },
-  {
-    "repo": "urij19cc7e4/machindustry",
-    "internalName": "machindustry",
-    "name": "Machindustry",
-    "author": "[gold]Urij[]",
-    "lastUpdated": "2025-09-17T10:55:16Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[gold]Machine do nothing I can not do. It just do faster.[]\n\n\n\n[red]E[][white]N[][cyan]: This mod is focused on the quality of the game in PvP mode on the planet Erekir. It is not intended for mobile devices.\n\nThe following features are currently implemented:\n– Finding path for items\n– Finding path for liquids\n– Finding path for beam nodes\n– Connecting turbine condensers in the map area to the main power net[]\n\n\n\n[red]R[][blue]U[][cyan]: Этот мод ориентирован на качество игры в режиме PvP на планете Эрекир. Он не предназначен для мобильных устройств.\n\nВ данный момент реализованы следующие возможности:\n– Построение маршрута для предметов\n– Построение маршрута для жидкостей\n– Построение маршрута для лучевых узлов\n– Присоединение жерловых конденсаторов в области карты к основной энергетической сети[]"
   },
   {
     "repo": "sputnuc/expansion-java",
@@ -8772,18 +8760,6 @@
     "description": "A basic SLF4J implementation for Mindustry."
   },
   {
-    "repo": "nannerbz/apolonost",
-    "internalName": "apolonost",
-    "name": "Apolon OST",
-    "author": "Vdoble",
-    "lastUpdated": "2025-09-17T07:56:44Z",
-    "stars": 1,
-    "minGameVersion": "150",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "The Official Soundtrack for Apolon! Music entirely by Vdoble.\n\nNOTE: Overrides vanilla music. Will remove vanilla tracks until disabled."
-  },
-  {
     "repo": "m1cxzfw3q/thermal-engineering-java",
     "internalName": "temod",
     "name": "Thermal Engineering Java",
@@ -8794,6 +8770,30 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[blue]-----INFO----------------[white]\nThermal Engineering [acid]0.0.2[red]\nAlpha(Pre)\n\n当前版本已发布"
+  },
+  {
+    "repo": "ramazanduruev/luntunworld",
+    "internalName": "ln",
+    "name": "luntun",
+    "author": "Votak",
+    "lastUpdated": "2025-09-17T14:40:46Z",
+    "stars": 1,
+    "minGameVersion": "150",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This is hard mod\n\nDeveloper: Votak (abzobua)\nlanguage\nEnglish (USA)\nРусский"
+  },
+  {
+    "repo": "nannerbz/apolonost",
+    "internalName": "apolonost",
+    "name": "Apolon OST",
+    "author": "Vdoble",
+    "lastUpdated": "2025-09-17T19:48:42Z",
+    "stars": 1,
+    "minGameVersion": "150",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "The Official Soundtrack for Apolon! Music entirely by Vdoble.\n\nNOTE: Overrides vanilla music. Will remove vanilla tracks until disabled."
   },
   {
     "repo": "exxleo/exoterusmod",
@@ -9778,18 +9778,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\nMindustry mod.\n"
-  },
-  {
-    "repo": "makeitgame/shadow-fog",
-    "internalName": "shadow-fog",
-    "name": "Shadow Fog",
-    "author": "Minty",
-    "lastUpdated": "2024-07-27T00:45:38Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "(WIP) Welcome to my Mindustry mod called \"Shadow Fog\", with this mod comes a complete restyle of the original and a lot of new additions. It includes a playable story and a concept to use for pvp battles."
   },
   {
     "repo": "makeitgame/shadow-fog-texture-pack",
@@ -11256,18 +11244,6 @@
     "description": "Two autistic idiots make a mindustry mod with some balanced content, and some... unbalanced shit (we are trying to balance it).\n\nRequires Multicrafter lib."
   },
   {
-    "repo": "ramazanduruev/luntunworld",
-    "internalName": "ln",
-    "name": "luntun",
-    "author": "Votak",
-    "lastUpdated": "2025-09-17T14:40:46Z",
-    "stars": 0,
-    "minGameVersion": "150",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This is hard mod\n\nDeveloper: Votak (abzobua)\nlanguage\nEnglish (USA)\nРусский"
-  },
-  {
     "repo": "ottocolten/ottos-advancing-machines",
     "internalName": "advancing-machines",
     "name": "otto's Advancing machines",
@@ -11284,7 +11260,7 @@
     "internalName": "p-processors",
     "name": "Poi's processors (wip)",
     "author": "poiu-y",
-    "lastUpdated": "2025-09-17T17:58:58Z",
+    "lastUpdated": "2025-09-17T19:24:07Z",
     "stars": 0,
     "minGameVersion": "146",
     "hasScripts": false,
