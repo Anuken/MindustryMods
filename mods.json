@@ -4,7 +4,7 @@
     "internalName": "new-horizon",
     "name": "New Horizon",
     "author": "Yuria & Lao",
-    "lastUpdated": "2025-09-16T17:34:20Z",
+    "lastUpdated": "2025-09-18T12:41:56Z",
     "stars": 487,
     "minGameVersion": "151",
     "hasScripts": false,
@@ -6756,6 +6756,18 @@
     "description": "A Mindustry Java mod that i use as a library."
   },
   {
+    "repo": "ramazanduruev/luntunworld",
+    "internalName": "ln",
+    "name": "luntun",
+    "author": "Votak",
+    "lastUpdated": "2025-09-17T14:40:46Z",
+    "stars": 2,
+    "minGameVersion": "150",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This is hard mod\n\nDeveloper: Votak (abzobua)\nlanguage\nEnglish (USA)\nРусский"
+  },
+  {
     "repo": "sputnuc/expansion-java",
     "internalName": "expansion",
     "name": "Expansion java",
@@ -8760,30 +8772,6 @@
     "description": "A JavaScript library for my other mods."
   },
   {
-    "repo": "xpdustry/slf4md",
-    "internalName": "slf4md",
-    "name": "SLF4MD",
-    "author": "xpdustry",
-    "lastUpdated": "2025-09-16T22:44:16Z",
-    "stars": 1,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A basic SLF4J implementation for Mindustry."
-  },
-  {
-    "repo": "ramazanduruev/luntunworld",
-    "internalName": "ln",
-    "name": "luntun",
-    "author": "Votak",
-    "lastUpdated": "2025-09-17T14:40:46Z",
-    "stars": 1,
-    "minGameVersion": "150",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This is hard mod\n\nDeveloper: Votak (abzobua)\nlanguage\nEnglish (USA)\nРусский"
-  },
-  {
     "repo": "nannerbz/apolonost",
     "internalName": "apolonost",
     "name": "Apolon OST",
@@ -8796,11 +8784,23 @@
     "description": "The Official Soundtrack for Apolon! Music entirely by Vdoble.\n\nNOTE: Overrides vanilla music. Will remove vanilla tracks until disabled."
   },
   {
+    "repo": "xpdustry/slf4md",
+    "internalName": "slf4md",
+    "name": "SLF4MD",
+    "author": "xpdustry",
+    "lastUpdated": "2025-09-18T13:47:48Z",
+    "stars": 1,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A basic SLF4J implementation for Mindustry."
+  },
+  {
     "repo": "m1cxzfw3q/thermal-engineering-java",
     "internalName": "temod",
     "name": "Thermal Engineering Java",
     "author": "[sky]114514[white]",
-    "lastUpdated": "2025-09-18T11:59:18Z",
+    "lastUpdated": "2025-09-18T13:56:44Z",
     "stars": 1,
     "minGameVersion": "151.1",
     "hasScripts": false,
@@ -11256,18 +11256,6 @@
     "description": "Two autistic idiots make a mindustry mod with some balanced content, and some... unbalanced shit (we are trying to balance it).\n\nRequires Multicrafter lib."
   },
   {
-    "repo": "ottocolten/ottos-advancing-machines",
-    "internalName": "advancing-machines",
-    "name": "otto's Advancing machines",
-    "author": "ottocolten",
-    "lastUpdated": "2025-09-17T17:57:59Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Are the current high-tier Erekir machines boring? Update taking too long to release? Well dont worry, as this mods [will add] tons of stronger and higher-tier units, turrets, factories, etc! (My First Real Mod!)/n By the way, this mod is my gonna be my big main mod, with the most stuff gonna be in it then any other mod ill make./n Therefore, expect this mod to take MAAANNNNYY months :3"
-  },
-  {
     "repo": "wmf-industries/extremity",
     "internalName": "extremity",
     "name": "Extremity",
@@ -11290,5 +11278,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "adds new processors for eriker.\n\n\n\ncoming soon: dismantling tower(logic controlable turret that also dammages blocks on it's team), \nshield tower(projects an arc shaped shield in an arbitrary direction)"
+  },
+  {
+    "repo": "ottocolten/ottos-advancing-machines",
+    "internalName": " advancing-machines",
+    "name": " otto's Advancing machines",
+    "author": " ottocolten",
+    "lastUpdated": "2025-09-18T12:16:43Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Are the current high-tier Erekir machines boring? Update taking too long to release? Well dont worry, as this mods [will add] tons of stronger and higher-tier units, turrets, factories, etc! (My First Real Mod!)/n By the way, this mod is my gonna be my big main mod, with the most stuff gonna be in it then any other mod ill make./n Therefore, expect this mod to take MAAANNNNYY months :3"
   }
 ]
