@@ -756,6 +756,18 @@
     "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThe mod is still in development, and many things in the mod are subject to change. I hope that you will have fun playing it."
   },
   {
+    "repo": "wmf-industries/expandedindustries",
+    "internalName": "ei",
+    "name": "Expanded Industries",
+    "author": "WMF Industries",
+    "lastUpdated": "2024-04-12T14:47:08Z",
+    "stars": 25,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Some content for people to enjoy :>\n-Current version : 1.7 [EoL]"
+  },
+  {
     "repo": "three-cold-planets/welcome-to-the-frostscape",
     "internalName": "",
     "name": "Welcome to the Frostscape",
@@ -2110,6 +2122,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Для работы на сервере нужен плагин: https://github.com/MindustryInside/JSEval\nи админ"
+  },
+  {
+    "repo": "sk7725/betamindymusic",
+    "internalName": "betamindy-music",
+    "name": "BetaMindy Music",
+    "author": "sk7725",
+    "lastUpdated": "2023-03-01T12:54:43Z",
+    "stars": 9,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "BetaMindy music assets. Does nothing on its own!"
   },
   {
     "repo": "pixecoz/better-vaults",
@@ -5436,11 +5460,23 @@
     "description": "A Mindustry Java mod adding a new planet called Tekton, with it's own campaign, mechanics, hazards, blocks and units. \n\t\n\tTekton is a extremely cold planet far away from the sun, where a agressive faction called Hapax is located. Because of the low temperature the physical properties of many elements here are radically different from the other planets. The dense  methane rich atmosphere blocks the vision and unknown threats lure on the poles of the planet.\n\t\n\tCan you survive and thrive in this enviroment?\n\t\n\tAvailable languages:\n\t-English\n\t-Brazilian Portuguese\n\t\n\t[accent](The planet is based off on Titan, one of Saturns moons)[]\n\t"
   },
   {
+    "repo": "urij19cc7e4/machindustry",
+    "internalName": "machindustry",
+    "name": "Machindustry",
+    "author": "[gold]Urij[]",
+    "lastUpdated": "2025-09-21T16:09:03Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[gold]Machine do nothing I can not do. It just do faster.[]\n\n\n\n\n[red]E[][white]N[][cyan]: This mod is focused on the quality of the game in PvP mode on the planet Erekir. It is not intended for mobile devices.\n\nThe following features are currently implemented:\n – Finding path for items\n – Finding path for liquids\n – Finding path for beam nodes\n – Connecting turbine condensers in the map area to the main power net\n – Changing order of the build plan queue[]\n\n\n\n\n[red]R[][blue]U[][cyan]: Этот мод ориентирован на качество игры в режиме PvP на планете Эрекир. Он не предназначен для мобильных устройств.\n\nВ данный момент реализованы следующие возможности:\n – Построение маршрута для предметов\n – Построение маршрута для жидкостей\n – Построение маршрута для лучевых узлов\n – Присоединение жерловых конденсаторов в области карты к основной энергетической сети\n – Изменение очерёдности планов строительства[]\n\n\n"
+  },
+  {
     "repo": "nannerbz/apolon",
     "internalName": "apolon",
     "name": "apolon",
     "author": "Nannerbz & VDoble",
-    "lastUpdated": "2025-09-21T16:30:55Z",
+    "lastUpdated": "2025-09-22T13:47:10Z",
     "stars": 3,
     "minGameVersion": "150",
     "hasScripts": false,
@@ -6156,6 +6192,18 @@
     "description": "Can you do it Element 248000???!!!"
   },
   {
+    "repo": "agzam4/mindustry-new-game-mode",
+    "internalName": "newgamemod",
+    "name": "New game Mod",
+    "author": "Agzam4",
+    "lastUpdated": "2024-10-04T13:04:28Z",
+    "stars": 2,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "NG mod"
+  },
+  {
     "repo": "megalp/factory",
     "internalName": "factory",
     "name": "FACTORY",
@@ -6766,18 +6814,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Any block/unit/statistic not mentioned here has been left unchanged\n\n\n\nFoundation & Nucleus core\n   Health increased significantly\n\nAll factories & constructors\n   Health increased significantly\n\nT5 units \n   doubled in cost and build time\n\nT4 units \n   0.67x cost and build time\n\nT4 reconstructor cost reduced\n   Lead - 1200\n   Titanium - 1000\n   Thorium - 650\n   Silicon - 700\n   Plastanium - 250\n\nT2 reconstructor cost increased\n   copper - 400\n   lead - 240\n   titanium - 200\n   silicon - 270\n\nT1 air factory\n   cost adjusted\n      copper - 60\n      lead - 69\n      silicon - 90\n\nT1 naval factory\n   cost adjusted\n      copper - 300\n      lead - 260\n      silicon - 180\n      metaglass - 240\n\n\n\nPhase Wall\n   60% deflection chance\n\nSurge Wall\n   20 armor\n\n\n\nDuo \n   No longer hits air\n   Range increased to 23.75\n   Shoots 2 shots per second\n\nScatter\n   1 armor\n\nScorch\n   12 armor\n\nSalvo\n   No longer hits air\n   Shoots a salvo of 25 bullets\n   Very long reload time\n   Massively increased build cost\n   Range increased to 30\n\nFuse\n   No longer hits air\n   Range increased to 14\n   Applies unmoving for 1 second\n   Doubled reload time\n   \nRipple\n   Shoots 20 shells at a time\n   Very long reload\n   Shells do more damage\n   Massively increased build cost\n\nSpectre\n   Knowckback increased to 10\n\nParallax\n   Applies Unmoving \n   Range increased to 35\n   Build cost increased 3x\n\nSegment\n   Range increased to 37.5\n\nTsunami\n   30° spread\n   Shoots more\n\nMeltdown \n   no longer hit air\n\nForeshadow \n   2.7x longer reload\n\nSwarmer\n   ***Hits air only***\n   Build cost increased 6x\n   Range greatly increased to 50\n   Damage rework:\n      Surge Alloy\n        70 +\n        10x2 lightning \n      Blast Compund\n        90 +\n        10 area (3.5 aoe)\n      Pyratite\n        90\n\nCyclone \n   ***Hits air only***\n   Build cost increased 4x\n   Range increase to 30\n   Damage rework:\n      Metaglass\n         6\n         45 area (2.5 aoe)\n         2 x 110 frag bullets\n      Plastanium\n        8\n        37 area (2.5 aoe)\n        4 x 110 frag bullets\n      Surge Alloy\n        13\n        75 area (2.5 aoe)\n        2 x 55 lightning\n      Blast Compound\n        8\n        55 area (7.5 aoe)\n\n\n\nFlare\n   Homing bullets\n   Rotates faster\n   Damage 4\n   5 shots per second\n\nHorizon\n   Now a hit & run carpet bomber\n   Health 100\n   Armor 0\n   Speed 20\n   Drops 8 bombs rapidly\n   5 second reload time\n   Bomb AOE increased to 4\n\nZenith\n   Now an air superiority fighter\n   Health 420\n   Speed 26\n   Missiles can only damage air units\n   Ignores shields\n   Damage 45 +15 area (3.1 aoe)\n   Range ~30\n\nAntumbra\n   Health 5000\n   Now has 3x3 payload capacity\n   Has an extra AA missile\n      Damage 150\n      Reload 4s\n      Extended range\n\nEclipse \n   Health 100,000\n\n\n\nMono\n   Increased HP\n   Extremely slow self-healing\n\nPoly\n   Now a multi-role AA fighter\n   Now heals blocks using a laser\n   Missiles can only damage air units \n   Ignores shields\n   Damage 40\n   Armor 2\n   Able to transport up to T2 units\n\nMega\n   Health 1200\n   Armor 0\n   Speed 16\n   Healing factor of bullets reduced\n   90 item capacity\n\nQuad\n   Now a hit & run strategic bomber\n   Health 1000\n   Damage 1000 + 1000 aoe\n   Reload 5s\n   Speed 20\n   No longer has payload capacity\n\nOct\n   Health 12000\n   Shield 40000\n   Shield regen 500\n   Item capacity 1000\n   Hugely increased payload cap\n   Added Shield Regen Field ability\n\n\n\nDagger \n   1 armor\n\nMace\n   Speed 5.25\n   Cannot hit air\n   20 dmg\n   700 HP\n\nFortress\n   Health 500\n   Range 32\n   Has a new long range AA missile\n      Damage 150\n      Reload 4s\n\nScepter\n   Health 2000\n   Range 31\n   Shield ability removed\n   Big guns only hit ground\n      Damage 100\n      Lightning damage 5\n   Little guns only hit air\n      Damage 15\n      Homing\n\nReign\n   Heath 75000\n   Range 31\n   Cannot hit air\n\n\n\nNova\n   Now heals units using lasers\n\nPulsar\n   Health 360\n   No mining\n\nQuasar\n   Cannot hit air\n   Shield size increase\n   No mining\n   \nVela\n   Cannot hit air\n   Health 3000\n\nCorvus\n   Cannot hit air\n   Health 7000\n   Range 61\n   Damage 3000\n\n\n\nCrawler\n   Health 200\n   Damage 200\n   Cannot hit air\n   Build time increased to 15s\n\nAtrax\n   400 HP\n   0 Armor\n   Amphibious\n   Has slow firing AA flak cannon\n      Damage 40 area(5aoe)\n      Reload 3s\n\nSpiroct\n   Cannot hit air\n   Speed 5\n   Health 2000\n   Amphibious\n   Now fires Torpedos:\n      Damage 300\n        +40 area (4aoe)\n      Range 30\n      Reload 4s\n   Sap lasers:\n      no longer life steal\n      -90% building dmg\n      slow the Sproct when fired\n\nArkyid\n   Cannot hit air\n   Speed 5\n   Health 8000\n   Amphibious\n   Now fires 3x Torpedos:\n      Damage 300\n        +40 area (4aoe)\n      Range 30\n      Reload 4s\n   Main cannon damage 5\n   Sap lasers:\n      no longer life steal\n      -90% building dmg\n      slow the Arkyid when fired\n\nToxopid\n   Cannot hit air\n   Speed 5\n   Amphibious\n   Now fires Torpedos:\n      Damage 10000\n        +1000 area (4aoe)\n      Range 80\n      Reload 10s\n   Fuse-like cannon damage 500\n\n\n\nSei\n   Health 3000\n   Missile launcher 0.5x fire rate\n\nOmura\n   Health 15000\n   Damage 1250\n   Speed 2.25\n   Now spawns Horizons\n\n\n\nRetusa\n   Incrased the laser bolt guns to 4\n\nAegires\n   Health 1200\n   Now Projects a sheild like quasar\n      1000 hp\n      18 hp/s regen\n      15 tile range\n      30 second cooldown\n\nNavanax\n   Health 60000\n   Laser beams no longer hit air\n   Got a frontal shield like the Tecta"
-  },
-  {
-    "repo": "urij19cc7e4/machindustry",
-    "internalName": "machindustry",
-    "name": "Machindustry",
-    "author": "[gold]Urij[]",
-    "lastUpdated": "2025-09-21T16:09:03Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[gold]Machine do nothing I can not do. It just do faster.[]\n\n\n\n\n[red]E[][white]N[][cyan]: This mod is focused on the quality of the game in PvP mode on the planet Erekir. It is not intended for mobile devices.\n\nThe following features are currently implemented:\n – Finding path for items\n – Finding path for liquids\n – Finding path for beam nodes\n – Connecting turbine condensers in the map area to the main power net\n – Changing order of the build plan queue[]\n\n\n\n\n[red]R[][blue]U[][cyan]: Этот мод ориентирован на качество игры в режиме PvP на планете Эрекир. Он не предназначен для мобильных устройств.\n\nВ данный момент реализованы следующие возможности:\n – Построение маршрута для предметов\n – Построение маршрута для жидкостей\n – Построение маршрута для лучевых узлов\n – Присоединение жерловых конденсаторов в области карты к основной энергетической сети\n – Изменение очерёдности планов строительства[]\n\n\n"
   },
   {
     "repo": "teaeempire/gghv7",
@@ -7632,6 +7668,18 @@
     "description": "REALLY cursed mod"
   },
   {
+    "repo": "grandendeavor100/singularity",
+    "internalName": "singularity",
+    "name": "Singularity",
+    "author": "Stellar",
+    "lastUpdated": "2024-07-01T14:43:57Z",
+    "stars": 1,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Alpha Java"
+  },
+  {
     "repo": "martingamescz/biostry",
     "internalName": "biostry",
     "name": "Biostry",
@@ -8232,6 +8280,18 @@
     "description": "Allow to land the sector of erekir---允许着落埃里克尔的卫星"
   },
   {
+    "repo": "balam314/extensions",
+    "internalName": "extensions",
+    "name": "Extensions",
+    "author": "BalaM314",
+    "lastUpdated": "2025-05-06T13:10:50Z",
+    "stars": 1,
+    "minGameVersion": "145.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Extends everything and improves the endgame by adding an extra tier of stuff."
+  },
+  {
     "repo": "eight-squared/pretty-fire",
     "internalName": "pretty-fire",
     "name": "Pretty fire",
@@ -8818,6 +8878,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\nIt's Cheat MOD for V7. Works on Erekir as well.\n\ncheat blocks from super-cheat by Evo04Taser.\nsome turret and Units from Sapphirium by Snake.\nsome blocks and Units from many other MODs.\nedit Code, draw sprites and add ideas by zig-jeff.\n"
+  },
+  {
+    "repo": "fallendraggon/easyplayadminspawn",
+    "internalName": "admpanel",
+    "name": "EasyPlay Adm",
+    "author": "FD",
+    "lastUpdated": "2023-04-29T15:07:42Z",
+    "stars": 0,
+    "minGameVersion": "143",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Admins commands"
   },
   {
     "repo": "sunkymp3g/swp",
@@ -10332,6 +10404,18 @@
     "description": "none null 0 haha"
   },
   {
+    "repo": "coaxgames/mcem-e",
+    "internalName": "mcem extension",
+    "name": "MCEM-E",
+    "author": "Xaon4207",
+    "lastUpdated": "2025-03-14T05:31:26Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Details coming soon, Currently adding the content with new sprites and Base Content for expansion"
+  },
+  {
     "repo": "zusysys/more-blocks-and-item-mod",
     "internalName": "more blocks and item mod",
     "name": "More-Blocks-And-item-mod",
@@ -10630,6 +10714,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "tixiy ogonek for nazar"
+  },
+  {
+    "repo": "raviravirego76466/copperalloymod",
+    "internalName": "copper-alloy-lover",
+    "name": "Copper Alloy",
+    "author": "Raviravirego76466",
+    "lastUpdated": "2025-06-11T15:02:20Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "add blocks and items and more."
   },
   {
     "repo": "raviravirego76466/mini-core",
