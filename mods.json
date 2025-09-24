@@ -17,7 +17,7 @@
     "name": "Exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2024-05-23T14:12:55Z",
-    "stars": 416,
+    "stars": 417,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -76,7 +76,7 @@
     "internalName": "asthosus",
     "name": "Asthosus",
     "author": "Catser",
-    "lastUpdated": "2025-09-24T08:07:37Z",
+    "lastUpdated": "2025-09-24T11:26:38Z",
     "stars": 167,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1084,7 +1084,7 @@
     "internalName": "olupis",
     "name": "Nyfalis (Olupis)",
     "author": " ;3\nProgramming:\nRushieWashie, Siede, WMF Industries, Otamamori \n---------------------\nSprites:\nRushieWashie, NightmarishWolf, Ethanol10, kapzduke, Otamamori, Catana, Lixie, ItsKirby69\n---------------------\nMaps:\nRushieWashie, MrApple, NightmarishWolf ",
-    "lastUpdated": "2025-09-19T10:53:54Z",
+    "lastUpdated": "2025-09-24T10:16:59Z",
     "stars": 19,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -3108,18 +3108,6 @@
     "description": "Adds multiple new factories, turrets and items to enhance vanilla content and add more things post-late game.\nIMPORTANT: Credit for sprites cuz stealing bad: \n- Eschatologue/Unlimited-Armament-Works\n- AureusStratus/ExoGenesis \n- Eschatologue/Heavy-Armaments-Industries\n- uujuju1/project-oblivion\n- Twcash/Aquarion\n- thomas_has_things(discord) Thomas's Things \n- and a huge shoutout to y'all on the Mindustry Discord\nas well as reskins of vanilla sprites\nI'm really sorry for stealing sprites I just can't good results otherwise, and the mod was originally just a personnal project for late-game, I \"had\" to share it on GitHub for compatibility issues."
   },
   {
-    "repo": "novanox4/astralis",
-    "internalName": "astralis",
-    "name": "Astralis",
-    "author": "NV-NX, Haznobrain",
-    "lastUpdated": "2025-09-14T11:41:43Z",
-    "stars": 6,
-    "minGameVersion": "150",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\nIN DEVELOPMENT, EXPECT BUGS AND UNFINISHED/UNPOLISHED CONTENT!\n\nAstralis is a mod focused on adding a brand new campaign on a planet harboring the same name.\n\nSet in the same universe as Hell Industries (althought not as horribly painful), fight hordes of eldritch AND mechanical horrors alike with your own mechanical horrors!\nOverthrow a government, kill god and ravage an entire planet now! (or maybe when the mod is done)\n\nDifficulty: uhhh... it depends...\nContent: For now, quite a decent amount. A lot is in store for the future though :3\nSillyness: MAXIMUM\nEldritch Horrors: very.\nQuality: uhhh... it depends...\nBalancing: If everything is op then everything is balanced\n"
-  },
-  {
     "repo": "weeersix/xenrose",
     "internalName": "xenrose",
     "name": "Xenrose",
@@ -3154,6 +3142,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\nQ群：575994735\n使用这个MOD来体验在mindustry中极不平衡（甚至有点离谱）的战役进度！"
+  },
+  {
+    "repo": "novanox4/astralis",
+    "internalName": "astralis",
+    "name": "Astralis",
+    "author": "NV-NX, Haznobrain",
+    "lastUpdated": "2025-09-24T11:27:21Z",
+    "stars": 6,
+    "minGameVersion": "150",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nIN DEVELOPMENT, EXPECT BUGS AND UNFINISHED/UNPOLISHED CONTENT!\n\nAstralis is a mod focused on adding a brand new campaign on a planet harboring the same name.\n\nSet in the same universe as Hell Industries (althought not as horribly painful), fight hordes of eldritch AND mechanical horrors alike with your own mechanical horrors!\nOverthrow a government, kill god and ravage an entire planet now! (or maybe when the mod is done)\n\nDifficulty: uhhh... it depends...\nContent: For now, quite a decent amount. A lot is in store for the future though :3\nSillyness: MAXIMUM\nEldritch Horrors: very.\nQuality: uhhh... it depends...\nBalancing: If everything is op then everything is balanced\n"
   },
   {
     "repo": "yaroslav242/yfjs",
@@ -8712,30 +8712,6 @@
     "description": "The Official Soundtrack for Apolon! Music entirely by Vdoble.\n\nNOTE: Overrides vanilla music. Will remove vanilla tracks until disabled."
   },
   {
-    "repo": "xpdustry/kotlin-runtime",
-    "internalName": "kotlin-runtime",
-    "name": "KotlinRuntime",
-    "author": "Xpdustry",
-    "lastUpdated": "2025-09-18T17:56:03Z",
-    "stars": 1,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A companion mod for Kotlin based mods and plugins."
-  },
-  {
-    "repo": "xpdustry/slf4md",
-    "internalName": "slf4md",
-    "name": "SLF4MD",
-    "author": "xpdustry",
-    "lastUpdated": "2025-09-19T21:32:40Z",
-    "stars": 1,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A basic SLF4J implementation for Mindustry."
-  },
-  {
     "repo": "50275/legacy-launch-pads",
     "internalName": "legacy-launch-pads",
     "name": "Legacy Launch Pads",
@@ -8806,6 +8782,30 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "世界は新たに創造され、我々は文明を再構築する"
+  },
+  {
+    "repo": "xpdustry/slf4md",
+    "internalName": "slf4md",
+    "name": "SLF4MD",
+    "author": "xpdustry",
+    "lastUpdated": "2025-09-24T10:15:24Z",
+    "stars": 1,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A basic SLF4J implementation for Mindustry."
+  },
+  {
+    "repo": "xpdustry/kotlin-runtime",
+    "internalName": "kotlin-runtime",
+    "name": "KotlinRuntime",
+    "author": "Xpdustry",
+    "lastUpdated": "2025-09-24T10:56:14Z",
+    "stars": 1,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
     "repo": "exxleo/exoterusmod",
