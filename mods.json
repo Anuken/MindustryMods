@@ -2592,6 +2592,18 @@
     "description": "Mod based on the Factory Industry mod - Texture Pack from Xelo"
   },
   {
+    "repo": "ocalhoun6/resource-supply-mod",
+    "internalName": "source_mod",
+    "name": "Resource Supply Mod",
+    "author": "DLS",
+    "lastUpdated": "2023-05-23T22:27:20Z",
+    "stars": 7,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod provides infinite sources of liquid, power, and resources in campaign maps."
+  },
+  {
     "repo": "krita-burstflakes/envirius-industries",
     "internalName": "envirius",
     "name": "Envirius",
@@ -2938,18 +2950,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Demonstrates the built-in effects of the game.\n\n[olive]How to use?[]\nEffect blocks use copper to operate. Once they get copper, they will generate the effect.\nIf you want to use the effect just write the block's name in your code, as their name is the same as the effect's in-game name.\n\nThe sprites are placeholders, because they are not important in this mod.\n\n[acid]Includes a map displaying all the effects sorted by size and shape!!![]\n\nI hope this mod helps!"
-  },
-  {
-    "repo": "ocalhoun6/resource-supply-mod",
-    "internalName": "source_mod",
-    "name": "Resource Supply Mod",
-    "author": "DLS",
-    "lastUpdated": "2023-05-23T22:27:20Z",
-    "stars": 6,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod provides infinite sources of liquid, power, and resources in campaign maps."
   },
   {
     "repo": "sirvoid/mindustryvcode",
@@ -5340,18 +5340,6 @@
     "description": "\nEN: Adds Vulcanum - hot dirty planet, that has dangerous enemies. P.s. now mod has two sectors you can beat, but there are some bugs I can't fix. \nRU: Добавляет Вулканум - горячую пыльную планеты с опасными противниками. P.s. сейчас мод имеет два сектора, которые можно пройти, но здесь также немного багов, которые я не могу исправить."
   },
   {
-    "repo": "tinport/tinport-serpulo-resprites",
-    "internalName": "tinport-fancy-resprites",
-    "name": "tinport serpulo resprites",
-    "author": "tinport",
-    "lastUpdated": "2025-08-30T13:51:34Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "resprites random garbage. since im so cool. do not use this with a bad computer or phone or you will get horrible fps."
-  },
-  {
     "repo": "grandendeavor100/stellar-interstice",
     "internalName": "stellarinterstice",
     "name": "Stellar Interstice",
@@ -5412,18 +5400,6 @@
     "description": ""
   },
   {
-    "repo": "urij19cc7e4/machindustry",
-    "internalName": "machindustry",
-    "name": "Machindustry",
-    "author": "[gold]Urij[]",
-    "lastUpdated": "2025-09-21T16:09:03Z",
-    "stars": 3,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[gold]Machine do nothing I can not do. It just do faster.[]\n\n\n\n\n[red]E[][white]N[][cyan]: This mod is focused on the quality of the game in PvP mode on the planet Erekir. It is not intended for mobile devices.\n\nThe following features are currently implemented:\n – Finding path for items\n – Finding path for liquids\n – Finding path for beam nodes\n – Connecting turbine condensers in the map area to the main power net\n – Changing order of the build plan queue[]\n\n\n\n\n[red]R[][blue]U[][cyan]: Этот мод ориентирован на качество игры в режиме PvP на планете Эрекир. Он не предназначен для мобильных устройств.\n\nВ данный момент реализованы следующие возможности:\n – Построение маршрута для предметов\n – Построение маршрута для жидкостей\n – Построение маршрута для лучевых узлов\n – Присоединение жерловых конденсаторов в области карты к основной энергетической сети\n – Изменение очерёдности планов строительства[]\n\n\n"
-  },
-  {
     "repo": "nannerbz/apolon",
     "internalName": "apolon",
     "name": "apolon",
@@ -5472,11 +5448,35 @@
     "description": "Recreation of my first mod"
   },
   {
+    "repo": "tinport/tinport-serpulo-resprites",
+    "internalName": "tinport-fancy-resprites",
+    "name": "tinport serpulo resprites",
+    "author": "tinport",
+    "lastUpdated": "2025-09-26T18:10:05Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "resprites random garbage. since im so cool. do not use this with a bad computer or phone or you will get horrible fps."
+  },
+  {
+    "repo": "urij19cc7e4/machindustry",
+    "internalName": "machindustry",
+    "name": "Machindustry",
+    "author": "[gold]Urij[]",
+    "lastUpdated": "2025-09-26T18:49:41Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[gold]Machine do nothing I can not do. It just do faster.[]\n\n\n\n\n[red]E[][white]N[][cyan]: This mod is focused on the quality of the game in PvP mode on the planet Erekir. It is not intended for mobile devices.\n\nThe following features are currently implemented:\n – Finding path for items\n – Finding path for liquids\n – Finding path for beam nodes\n – Connecting turbine condensers in the map area to the main power net\n – Changing order of the build plan queue[]\n\n\n\n\n[red]R[][blue]U[][cyan]: Этот мод ориентирован на качество игры в режиме PvP на планете Эрекир. Он не предназначен для мобильных устройств.\n\nВ данный момент реализованы следующие возможности:\n – Построение маршрута для предметов\n – Построение маршрута для жидкостей\n – Построение маршрута для лучевых узлов\n – Присоединение жерловых конденсаторов в области карты к основной энергетической сети\n – Изменение очерёдности планов строительства[]\n\n\n"
+  },
+  {
     "repo": "thepi14/tekton",
     "internalName": "",
     "name": "Tekton",
     "author": "ThePi14",
-    "lastUpdated": "2025-09-26T17:16:52Z",
+    "lastUpdated": "2025-09-26T19:34:21Z",
     "stars": 3,
     "minGameVersion": "146",
     "hasScripts": false,
