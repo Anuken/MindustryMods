@@ -552,6 +552,18 @@
     "description": "A Mindustry Java mod."
   },
   {
+    "repo": "eb-wilson/helium",
+    "internalName": "he",
+    "name": "Helium",
+    "author": "EBwilson",
+    "lastUpdated": "2025-09-26T12:26:08Z",
+    "stars": 35,
+    "minGameVersion": "150",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod provide optimized ui and more utilities.\nMajor features:\n- ***In-Game Entity Information Components***: Provides various UI elements for game entities including units and blocks\n- ***Health & Status Indicators***: Displays real-time status (health, shields) above units and entities. When shield stacks exceed max health, multi-layer shields with stack counters are shown.\n- ***Attack Range Indicators***: Units and turrets now visualize their attack ranges as translucent areas. Processed boundaries emphasize combined team range contours to prevent visual clutter, with subtle pulsating animations and chromatic borders.\n- ***Functional Block Effect Range Indicators***: Devices like Mend Projectors, Overdrive Projectors, and unit repair stations display effect ranges with distinctive colors.\n- ***Enhanced Block Placement Panel***: A refined block selection panel integrating a quick item bar and standardized tool buttons.\n- ***The better Mod Manager and Mod Browser***: Reworked the Mods Manager and Mods Browser, now they looks more aesthetically pleasing and functional"
+  },
+  {
     "repo": "rogeh4/virtual-scheme-pack-",
     "internalName": "v-scheme-pack",
     "name": "Virtual Scheme Pack",
@@ -586,18 +598,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod made by CD, meowkitty and 7rodo that features:\n- A new planet.\n- LOTS of new Serpulo content such as units, turrets, sectors, etc.\n- Many changes to existing Serpulo content.\n- Some new erekir content.\n- Cross-mod content with a couple few mods.\n- FULL Multiplayer and Android compatibility.\n- Extra minor additions.\n\nDiscord: https://discord.gg/9YHA3q8HHq"
-  },
-  {
-    "repo": "eb-wilson/helium",
-    "internalName": "he",
-    "name": "Helium",
-    "author": "EBwilson",
-    "lastUpdated": "2025-09-26T12:26:08Z",
-    "stars": 34,
-    "minGameVersion": "150",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod provide optimized ui and more utilities.\nMajor features:\n- ***In-Game Entity Information Components***: Provides various UI elements for game entities including units and blocks\n- ***Health & Status Indicators***: Displays real-time status (health, shields) above units and entities. When shield stacks exceed max health, multi-layer shields with stack counters are shown.\n- ***Attack Range Indicators***: Units and turrets now visualize their attack ranges as translucent areas. Processed boundaries emphasize combined team range contours to prevent visual clutter, with subtle pulsating animations and chromatic borders.\n- ***Functional Block Effect Range Indicators***: Devices like Mend Projectors, Overdrive Projectors, and unit repair stations display effect ranges with distinctive colors.\n- ***Enhanced Block Placement Panel***: A refined block selection panel integrating a quick item bar and standardized tool buttons.\n- ***The better Mod Manager and Mod Browser***: Reworked the Mods Manager and Mods Browser, now they looks more aesthetically pleasing and functional"
   },
   {
     "repo": "i-hope1/mod-tools",
@@ -1456,7 +1456,7 @@
     "internalName": "echo-fleet",
     "name": "Echo Fleet",
     "author": "Dev - Blehhhh cat\nContributors - Kamikazefoxmk.i, Tinport, Aerodynamic Attorney \nMusic Composer - Ace1020spawn",
-    "lastUpdated": "2025-09-27T13:24:50Z",
+    "lastUpdated": "2025-09-27T15:23:51Z",
     "stars": 14,
     "minGameVersion": "151.1",
     "hasScripts": false,
@@ -4416,6 +4416,18 @@
     "description": "\nThis mod adds all vanilla turrets as units.\n\nIt is a FUN mod and in no way meant to be balanced!\n\n(Just imagine a meltdown flying towards you at 100 mp/h)\n"
   },
   {
+    "repo": "thepi14/tekton",
+    "internalName": "",
+    "name": "Tekton",
+    "author": "ThePi14",
+    "lastUpdated": "2025-09-26T19:34:21Z",
+    "stars": 4,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod adding a new planet called Tekton, with it's own campaign, mechanics, hazards, blocks and units. \n\t\n\tTekton is a extremely cold planet far away from the sun, where a agressive faction called Hapax is located. Because of the low temperature the physical properties of many elements here are radically different from the other planets. The dense  methane rich atmosphere blocks the vision and unknown threats lure on the poles of the planet.\n\t\n\tCan you survive and thrive in this enviroment?\n\t\n\tAvailable languages:\n\t-English\n\t-Brazilian Portuguese\n\t\n\t[accent](The planet is based off on Titan, one of Saturns moons)[]\n\t"
+  },
+  {
     "repo": "mindustryid/terjemahanindonesia",
     "internalName": "terjemahan-indonesia",
     "name": "Terjemahan Indonesia",
@@ -5136,18 +5148,6 @@
     "description": "Small mod that keeps adding stuff"
   },
   {
-    "repo": "lysent/timber",
-    "internalName": "edt",
-    "name": "Timber (EDT)",
-    "author": "[lime]Mitemi[lightgray] & [cyan]Tikup",
-    "lastUpdated": "2025-04-11T15:06:00Z",
-    "stars": 3,
-    "minGameVersion": "147",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "[green]EDT [yellow]- Environment Destruction Timber\n\n[white]Adds destructible environment to make trees destructible in Serpulo, from which you can harvest timber which can be used as fuel.\n\nDependency of the Etigei Exile mod, but works as a standalone mod.\n\n[white]Discord: [blue]https://discord.com/invite/TJKZgr6UDg"
-  },
-  {
     "repo": "not8097/suck_mod",
     "internalName": "suck_mod",
     "name": "suck mod",
@@ -5460,18 +5460,6 @@
     "description": "[gold]Machine do nothing I can not do. It just do faster.[]\n\n\n\n\n[red]E[][white]N[][cyan]: This mod is focused on the quality of the game in PvP mode on the planet Erekir. It is not intended for mobile devices.\n\nThe following features are currently implemented:\n – Finding path for items\n – Finding path for liquids\n – Finding path for beam nodes\n – Connecting turbine condensers in the map area to the main power net\n – Changing order of the build plan queue[]\n\n\n\n\n[red]R[][blue]U[][cyan]: Этот мод ориентирован на качество игры в режиме PvP на планете Эрекир. Он не предназначен для мобильных устройств.\n\nВ данный момент реализованы следующие возможности:\n – Построение маршрута для предметов\n – Построение маршрута для жидкостей\n – Построение маршрута для лучевых узлов\n – Присоединение жерловых конденсаторов в области карты к основной энергетической сети\n – Изменение очерёдности планов строительства[]\n\n\n"
   },
   {
-    "repo": "thepi14/tekton",
-    "internalName": "",
-    "name": "Tekton",
-    "author": "ThePi14",
-    "lastUpdated": "2025-09-26T19:34:21Z",
-    "stars": 3,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod adding a new planet called Tekton, with it's own campaign, mechanics, hazards, blocks and units. \n\t\n\tTekton is a extremely cold planet far away from the sun, where a agressive faction called Hapax is located. Because of the low temperature the physical properties of many elements here are radically different from the other planets. The dense  methane rich atmosphere blocks the vision and unknown threats lure on the poles of the planet.\n\t\n\tCan you survive and thrive in this enviroment?\n\t\n\tAvailable languages:\n\t-English\n\t-Brazilian Portuguese\n\t\n\t[accent](The planet is based off on Titan, one of Saturns moons)[]\n\t"
-  },
-  {
     "repo": "tinport/tinport-serpulo-resprites",
     "internalName": "tinport-fancy-resprites",
     "name": "tinport serpulo resprites",
@@ -5614,18 +5602,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\r\n[#00FFFF]櫻花星辰(N.o.s_Mod)目前還是BETA版\r\n有任何疑問或建議歡迎至github提問\r\n\r\n\r\n[#FF0000][需要依賴下列MOD]\r\n[#FFFF00]MultiCrafter lib-mod"
-  },
-  {
-    "repo": "manybear-a1/starner",
-    "internalName": "starner",
-    "name": "starner",
-    "author": "many bear",
-    "lastUpdated": "2022-12-04T11:49:18Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\nwelcome to 'starner'!\n\nthis mod add wonderful content.\n\nsmall turret which spreads star.\n\nbig unit which spreads star.\n\nfactory which spreads star.\n\n...oh, well... have fun!\n\n\n\n\nstars are falling...\n\nstill falling...\n"
   },
   {
     "repo": "lvdanyi/lvdanyi_coppermoneymod",
@@ -8808,23 +8784,11 @@
     "description": "A basic SLF4J implementation for Mindustry."
   },
   {
-    "repo": "rodrigoasfr24022003/rodrigonia-mod",
-    "internalName": "rodrigonia",
-    "name": "Rodrigonia",
-    "author": "rodrigo_of_rodrigonia",
-    "lastUpdated": "2025-09-27T11:39:41Z",
-    "stars": 1,
-    "minGameVersion": "152",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "My planet mod for Mindustry. Heavily unfinished.\nThe latest BE build is required for the mod to work.\nMeowkitty contributed with sprites and maps for this mod.\n\nCredits go the the rest of the MoreDefences team for their code, LixieWulf for Allure's planet code (which I modified to make the planet) and Catana791 for some bits of code from Asthosus used in my crafting blocks."
-  },
-  {
     "repo": "mvpoksdofe/textures-match-resources-mindustry-mod",
-    "internalName": "textures match resources",
+    "internalName": "textures-match-resources",
     "name": "Textures Match Resources",
     "author": "mvpoksdofe",
-    "lastUpdated": "2025-09-27T12:10:29Z",
+    "lastUpdated": "2025-09-27T14:10:47Z",
     "stars": 1,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -8832,16 +8796,16 @@
     "description": "Makes blocks display way too accurately which resources they have been built with. Warning: Ugly."
   },
   {
-    "repo": "m1cxzfw3q/thermal-engineering-java",
-    "internalName": "temod",
-    "name": "Thermal Engineering Java",
-    "author": "[sky]114514[white]",
-    "lastUpdated": "2025-09-27T13:45:53Z",
+    "repo": "rodrigoasfr24022003/rodrigonia-mod",
+    "internalName": "rodrigonia",
+    "name": "Rodrigonia",
+    "author": "rodrigo_of_rodrigonia",
+    "lastUpdated": "2025-09-27T15:09:56Z",
     "stars": 1,
-    "minGameVersion": "151.1",
+    "minGameVersion": "152",
     "hasScripts": false,
-    "hasJava": true,
-    "description": "[blue]-----INFO----------------[white]\nThermal Engineering [acid]0.0.2[red]\nAlpha(Pre)\n\n当前版本已发布"
+    "hasJava": false,
+    "description": "My planet mod for Mindustry. Heavily unfinished.\nThe latest BE build is required for the mod to work.\nMeowkitty contributed with sprites and maps for this mod.\n\nCredits go the the rest of the MoreDefences team for their code, LixieWulf for Allure's planet code (which I modified to make the planet) and Catana791 for some bits of code from Asthosus used in my crafting blocks."
   },
   {
     "repo": "exxleo/exoterusmod",
