@@ -5148,6 +5148,18 @@
     "description": "Small mod that keeps adding stuff"
   },
   {
+    "repo": "lysent/timber",
+    "internalName": "edt",
+    "name": "Timber (EDT)",
+    "author": "[lime]Mitemi[lightgray] & [cyan]Tikup",
+    "lastUpdated": "2025-04-11T15:06:00Z",
+    "stars": 3,
+    "minGameVersion": "147",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "[green]EDT [yellow]- Environment Destruction Timber\n\n[white]Adds destructible environment to make trees destructible in Serpulo, from which you can harvest timber which can be used as fuel.\n\nDependency of the Etigei Exile mod, but works as a standalone mod.\n\n[white]Discord: [blue]https://discord.com/invite/TJKZgr6UDg"
+  },
+  {
     "repo": "not8097/suck_mod",
     "internalName": "suck_mod",
     "name": "suck mod",
@@ -5448,18 +5460,6 @@
     "description": "Recreation of my first mod"
   },
   {
-    "repo": "urij19cc7e4/machindustry",
-    "internalName": "machindustry",
-    "name": "Machindustry",
-    "author": "[gold]Urij[]",
-    "lastUpdated": "2025-09-26T18:49:41Z",
-    "stars": 3,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[gold]Machine do nothing I can not do. It just do faster.[]\n\n\n\n\n[red]E[][white]N[][cyan]: This mod is focused on the quality of the game in PvP mode on the planet Erekir. It is not intended for mobile devices.\n\nThe following features are currently implemented:\n – Finding path for items\n – Finding path for liquids\n – Finding path for beam nodes\n – Connecting turbine condensers in the map area to the main power net\n – Changing order of the build plan queue[]\n\n\n\n\n[red]R[][blue]U[][cyan]: Этот мод ориентирован на качество игры в режиме PvP на планете Эрекир. Он не предназначен для мобильных устройств.\n\nВ данный момент реализованы следующие возможности:\n – Построение маршрута для предметов\n – Построение маршрута для жидкостей\n – Построение маршрута для лучевых узлов\n – Присоединение жерловых конденсаторов в области карты к основной энергетической сети\n – Изменение очерёдности планов строительства[]\n\n\n"
-  },
-  {
     "repo": "tinport/tinport-serpulo-resprites",
     "internalName": "tinport-fancy-resprites",
     "name": "tinport serpulo resprites",
@@ -5470,6 +5470,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "resprites random garbage. since im so cool. do not use this with a bad computer or phone or you will get horrible fps."
+  },
+  {
+    "repo": "urij19cc7e4/machindustry",
+    "internalName": "machindustry",
+    "name": "Machindustry",
+    "author": "[gold]Urij[]",
+    "lastUpdated": "2025-09-27T17:54:05Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[gold]Machine do nothing I can not do. It just do faster.[]\n\n\n\n\n[red]E[][white]N[][cyan]: This mod is focused on the quality of the game in PvP mode on the planet Erekir. It is not intended for mobile devices.\n\nThe following features are currently implemented:\n – Finding path for items\n – Finding path for liquids\n – Finding path for beam nodes\n – Connecting turbine condensers in the map area to the main power net\n – Changing order of the build plan queue[]\n\n\n\n\n[red]R[][blue]U[][cyan]: Этот мод ориентирован на качество игры в режиме PvP на планете Эрекир. Он не предназначен для мобильных устройств.\n\nВ данный момент реализованы следующие возможности:\n – Построение маршрута для предметов\n – Построение маршрута для жидкостей\n – Построение маршрута для лучевых узлов\n – Присоединение жерловых конденсаторов в области карты к основной энергетической сети\n – Изменение очерёдности планов строительства[]\n\n\n"
   },
   {
     "repo": "wshon/mindustrytoolkit",
@@ -5602,6 +5614,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\r\n[#00FFFF]櫻花星辰(N.o.s_Mod)目前還是BETA版\r\n有任何疑問或建議歡迎至github提問\r\n\r\n\r\n[#FF0000][需要依賴下列MOD]\r\n[#FFFF00]MultiCrafter lib-mod"
+  },
+  {
+    "repo": "manybear-a1/starner",
+    "internalName": "starner",
+    "name": "starner",
+    "author": "many bear",
+    "lastUpdated": "2022-12-04T11:49:18Z",
+    "stars": 2,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\nwelcome to 'starner'!\n\nthis mod add wonderful content.\n\nsmall turret which spreads star.\n\nbig unit which spreads star.\n\nfactory which spreads star.\n\n...oh, well... have fun!\n\n\n\n\nstars are falling...\n\nstill falling...\n"
   },
   {
     "repo": "lvdanyi/lvdanyi_coppermoneymod",
@@ -8784,28 +8808,40 @@
     "description": "A basic SLF4J implementation for Mindustry."
   },
   {
-    "repo": "mvpoksdofe/textures-match-resources-mindustry-mod",
-    "internalName": "textures-match-resources",
-    "name": "Textures Match Resources",
-    "author": "mvpoksdofe",
-    "lastUpdated": "2025-09-27T14:10:47Z",
+    "repo": "m1cxzfw3q/thermal-engineering-java",
+    "internalName": "temod",
+    "name": "Thermal Engineering Java",
+    "author": "[sky]114514[white]",
+    "lastUpdated": "2025-09-27T16:12:12Z",
     "stars": 1,
-    "minGameVersion": "136",
+    "minGameVersion": "151.1",
     "hasScripts": false,
-    "hasJava": false,
-    "description": "Makes blocks display way too accurately which resources they have been built with. Warning: Ugly."
+    "hasJava": true,
+    "description": "[blue]-----INFO----------------[white]\nThermal Engineering [acid]0.0.2[red]\nAlpha(Pre)\n\n当前版本已发布"
   },
   {
     "repo": "rodrigoasfr24022003/rodrigonia-mod",
     "internalName": "rodrigonia",
     "name": "Rodrigonia",
     "author": "rodrigo_of_rodrigonia",
-    "lastUpdated": "2025-09-27T15:09:56Z",
+    "lastUpdated": "2025-09-27T16:17:28Z",
     "stars": 1,
     "minGameVersion": "152",
     "hasScripts": false,
     "hasJava": false,
     "description": "My planet mod for Mindustry. Heavily unfinished.\nThe latest BE build is required for the mod to work.\nMeowkitty contributed with sprites and maps for this mod.\n\nCredits go the the rest of the MoreDefences team for their code, LixieWulf for Allure's planet code (which I modified to make the planet) and Catana791 for some bits of code from Asthosus used in my crafting blocks."
+  },
+  {
+    "repo": "mvpoksdofe/textures-match-resources-mindustry-mod",
+    "internalName": "textures-match-resources",
+    "name": "Textures Match Resources",
+    "author": "mvpoksdofe",
+    "lastUpdated": "2025-09-27T16:20:17Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Makes blocks display way too accurately which resources they have been built with. Warning: Ugly."
   },
   {
     "repo": "exxleo/exoterusmod",
