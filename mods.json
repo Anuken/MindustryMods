@@ -360,6 +360,18 @@
     "description": "A Mindustry builds including some classic ones are added to Mindustry v7!"
   },
   {
+    "repo": "eb-wilson/toomanyitems",
+    "internalName": "tmi",
+    "name": "Too Many Items",
+    "author": "EBwilson",
+    "lastUpdated": "2025-06-04T15:04:48Z",
+    "stars": 56,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "An auxiliary mod that provides you with quick retrieval of production and collection guidance information for materials, units, buildings, minerals, etc., so that you are no longer overwhelmed by installing too many mods.\n\n---\n\n一个辅助mod，为您提供快速检索材料，单位，建筑和矿物等的生产与采集引导信息，让您不再因为安装了太多mod而不知所措"
+  },
+  {
     "repo": "sharlottes/sharustry",
     "internalName": "shar",
     "name": "Sharustry",
@@ -382,18 +394,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry mod library for (H)JSON, JavaScript and Java mods,\nincluding a crafter supporting multiple recipes for items, fluids, power, heat and payloads production.\nPlease check the repository below to learn more.\nWork on v136 to v146."
-  },
-  {
-    "repo": "eb-wilson/toomanyitems",
-    "internalName": "tmi",
-    "name": "Too Many Items",
-    "author": "EBwilson",
-    "lastUpdated": "2025-06-04T15:04:48Z",
-    "stars": 55,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "An auxiliary mod that provides you with quick retrieval of production and collection guidance information for materials, units, buildings, minerals, etc., so that you are no longer overwhelmed by installing too many mods.\n\n---\n\n一个辅助mod，为您提供快速检索材料，单位，建筑和矿物等的生产与采集引导信息，让您不再因为安装了太多mod而不知所措"
   },
   {
     "repo": "petruchiorus/lead_ind",
@@ -1372,7 +1372,7 @@
     "internalName": "azimut",
     "name": "Azimut",
     "author": "DeerCarbonate",
-    "lastUpdated": "2025-10-01T03:53:45Z",
+    "lastUpdated": "2025-10-01T05:15:06Z",
     "stars": 15,
     "minGameVersion": "150.1",
     "hasScripts": true,
@@ -11316,18 +11316,6 @@
     "description": "Mindustry mod. Makes launch pads always configurable. Note that this is a client-side mod. Code provided by Anuke, the developer of Mindustry."
   },
   {
-    "repo": "alstocras/nucleardustry",
-    "internalName": "element-dustry",
-    "name": "Elemental Mindustry",
-    "author": "alstocras",
-    "lastUpdated": "2025-09-30T17:55:20Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds elemental stuff to the game."
-  },
-  {
     "repo": "wmf-industries/extremity",
     "internalName": "extremity",
     "name": "Extremity",
@@ -11350,5 +11338,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "adds a new planet (wip)"
+  },
+  {
+    "repo": "alstocras/nucleardustry",
+    "internalName": "element-dustry",
+    "name": "Elemental Mindustry",
+    "author": "alstocras",
+    "lastUpdated": "2025-10-01T04:05:13Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds elemental stuff to the game."
   }
 ]
