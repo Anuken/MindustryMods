@@ -592,7 +592,7 @@
     "internalName": "sw",
     "name": "Steam Works",
     "author": "Liz Aurora",
-    "lastUpdated": "2025-10-03T18:55:32Z",
+    "lastUpdated": "2025-10-04T15:04:31Z",
     "stars": 34,
     "minGameVersion": "150",
     "hasScripts": false,
@@ -1456,7 +1456,7 @@
     "internalName": "echo-fleet",
     "name": "Echo Fleet",
     "author": "Dev - Blehhhh cat\nContributors - Kamikazefoxmk.i, Tinport, Aerodynamic Attorney \nMusic Composer - Ace1020spawn",
-    "lastUpdated": "2025-10-04T13:16:16Z",
+    "lastUpdated": "2025-10-04T15:37:08Z",
     "stars": 14,
     "minGameVersion": "151.1",
     "hasScripts": false,
@@ -5424,18 +5424,6 @@
     "description": "An upcoming mod that has biotic life\n  "
   },
   {
-    "repo": "sputnuc/expansion-java",
-    "internalName": "expansion",
-    "name": "Expansion java",
-    "author": "Sputnuc",
-    "lastUpdated": "2025-09-26T15:51:08Z",
-    "stars": 3,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Recreation of my first mod"
-  },
-  {
     "repo": "tinport/tinport-serpulo-resprites",
     "internalName": "tinport-fancy-resprites",
     "name": "tinport serpulo resprites",
@@ -5494,6 +5482,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[gold]Machine do nothing I can not do. It just do faster.[]\n\n\n\n\n[red]E[][white]N[][cyan]: This mod is focused on the quality of the game in PvP mode on the planet Erekir. [green]Now it also works on mobile devices.[]\n\nThe following features are currently implemented:\n – Finding path for items\n – Finding path for liquids\n – Finding path for beam nodes\n – Connecting turbine condensers in the map area to the main power net\n – Changing order of the build plan queue[]\n\n\n\n\n[red]R[][blue]U[][cyan]: Этот мод ориентирован на качество игры в режиме PvP на планете Эрекир. [green]Теперь он также работает на мобильных устройствах.[]\n\nВ данный момент реализованы следующие возможности:\n – Построение маршрута для предметов\n – Построение маршрута для жидкостей\n – Построение маршрута для лучевых узлов\n – Присоединение жерловых конденсаторов в области карты к основной энергетической сети\n – Изменение очерёдности планов строительства[]\n\n\n"
+  },
+  {
+    "repo": "sputnuc/expansion-java",
+    "internalName": "expansion",
+    "name": "Expansion java",
+    "author": "Sputnuc",
+    "lastUpdated": "2025-10-04T14:05:20Z",
+    "stars": 3,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Recreation of my first mod"
   },
   {
     "repo": "wshon/mindustrytoolkit",
@@ -6214,6 +6214,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Updated (06.10.2024)\n\n-Tiger MG shooting improved\n-Now able to create different Tank variants (Beta) 🠖 Not multiplayer testet\n\nSome major bug fixes\n\n\nLatest content addition: \n🠖Tactical nuker\n🠖P-1000-Ratte tank\n🠖Tiger tank\n🠖A new Planet\n🠖Darkshade and Galaxy material\n\n\nContent: \n🠖3 Maps\n🠖more materials\n🠖new units/enemys\n🠖8 new Mech pads\n🠖Material teleporters\n🠖New blocks and walls\n\nAnd we keep updating it! This mod is a good content addition to the game, but it's also a challange! So its time to get a Pro and master this mod. Of course we would like to hear your feedback!!\n\n Thanks to Eni_YT for helping with sprites, giving me ideas and updating this section."
+  },
+  {
+    "repo": "mythril382/ahh",
+    "internalName": "ahh",
+    "name": "ahh",
+    "author": "Mythrilahh",
+    "lastUpdated": "2024-11-02T05:26:48Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "ahh"
   },
   {
     "repo": "mq-1175/cursed-ass-heat-efficiency",
@@ -7932,18 +7944,6 @@
     "description": "make the logic look better"
   },
   {
-    "repo": "mythril382/ahh",
-    "internalName": "ahh",
-    "name": "ahh",
-    "author": "Mythrilahh",
-    "lastUpdated": "2024-11-02T05:26:48Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "ahh"
-  },
-  {
     "repo": "haznobrain/stupiditydustry",
     "internalName": "stupidustry",
     "name": "Stupiditydustry",
@@ -8362,6 +8362,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Expansion mod. Alpha stage."
+  },
+  {
+    "repo": "arsen1ygd/removeunitcap",
+    "internalName": "ruc",
+    "name": "Remove unit cap",
+    "author": "Arsen1yGD",
+    "lastUpdated": "2025-05-31T19:22:05Z",
+    "stars": 1,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mod that removes unit cap for player (host) team. If  ran on a server, it'll remove the cap only for sharded team."
   },
   {
     "repo": "kokimada/simple-duo-json",
@@ -10738,18 +10750,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A simple UI for toggling the unlock status of tech tree nodes."
-  },
-  {
-    "repo": "arsen1ygd/removeunitcap",
-    "internalName": "ruc",
-    "name": "Remove unit cap",
-    "author": "Arsen1yGD",
-    "lastUpdated": "2025-05-31T19:22:05Z",
-    "stars": 0,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mod that removes unit cap for player (host) team. If  ran on a server, it'll remove the cap only for sharded team."
   },
   {
     "repo": "durmiendo/extendlogs",
