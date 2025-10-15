@@ -4741,15 +4741,15 @@
   },
   {
     "repo": "bin-tenkuu/mindustry-morelogicmod",
-    "internalName": "touhou-2hu-pack",
-    "name": "Mindustry Touhou Pack",
-    "author": "Nyuke",
+    "internalName": "bin-more-logic",
+    "name": "更多逻辑",
+    "author": "bin",
     "lastUpdated": "2024-02-14T11:29:47Z",
     "stars": 3,
-    "minGameVersion": "140",
+    "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
-    "description": "Replaces existing OST with Touhou orchestral/ambient music that fit well in the game."
+    "description": "添加更多逻辑条：打印缓存处理逻辑"
   },
   {
     "repo": "kubikaugustyn/mindustrytoolkit",
@@ -6672,6 +6672,18 @@
     "description": "Every time my friend Haznobrain spells a word wrong I add it to the bundle.properties and also I add weird random ideas I have at like 2 AM"
   },
   {
+    "repo": "uranyukedev/touhou-music-pack",
+    "internalName": "touhou-2hu-pack",
+    "name": "Mindustry Touhou Pack",
+    "author": "Nyuke",
+    "lastUpdated": "2025-08-28T13:29:32Z",
+    "stars": 2,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Replaces existing OST with Touhou orchestral/ambient music that fit well in the game."
+  },
+  {
     "repo": "rocket550/zytheron-technology",
     "internalName": "1zytheron",
     "name": "Zytheron Technology(Beta)",
@@ -6804,18 +6816,6 @@
     "description": "Replaces every single musics ingame with some cool and nostalgic musics I got from YouTube.\nBoss1 and boss2 is unchanged because they are cool."
   },
   {
-    "repo": "xpdustry/kotlin-runtime",
-    "internalName": "kotlin-runtime",
-    "name": "KotlinRuntime",
-    "author": "Xpdustry",
-    "lastUpdated": "2025-10-12T17:08:38Z",
-    "stars": 2,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A companion mod for Kotlin based mods and plugins."
-  },
-  {
     "repo": "penguip/a-mindustry-mod",
     "internalName": "daf",
     "name": "BEEPDUSTRY",
@@ -6826,6 +6826,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "The new Mindustry."
+  },
+  {
+    "repo": "xpdustry/kotlin-runtime",
+    "internalName": "kotlin-runtime",
+    "name": "KotlinRuntime",
+    "author": "Xpdustry",
+    "lastUpdated": "2025-10-14T23:12:37Z",
+    "stars": 2,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
     "repo": "teaeempire/gghv7",
