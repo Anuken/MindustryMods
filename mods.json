@@ -528,18 +528,6 @@
     "description": "Aquatic-stylized mod with new planet and unique mechanics"
   },
   {
-    "repo": "eb-wilson/helium",
-    "internalName": "he",
-    "name": "Helium",
-    "author": "EBwilson",
-    "lastUpdated": "2025-09-26T12:26:08Z",
-    "stars": 37,
-    "minGameVersion": "150",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod provide optimized ui and more utilities.\nMajor features:\n- ***In-Game Entity Information Components***: Provides various UI elements for game entities including units and blocks\n- ***Health & Status Indicators***: Displays real-time status (health, shields) above units and entities. When shield stacks exceed max health, multi-layer shields with stack counters are shown.\n- ***Attack Range Indicators***: Units and turrets now visualize their attack ranges as translucent areas. Processed boundaries emphasize combined team range contours to prevent visual clutter, with subtle pulsating animations and chromatic borders.\n- ***Functional Block Effect Range Indicators***: Devices like Mend Projectors, Overdrive Projectors, and unit repair stations display effect ranges with distinctive colors.\n- ***Enhanced Block Placement Panel***: A refined block selection panel integrating a quick item bar and standardized tool buttons.\n- ***The better Mod Manager and Mod Browser***: Reworked the Mods Manager and Mods Browser, now they looks more aesthetically pleasing and functional"
-  },
-  {
     "repo": "ferlern/extended-ui-v7",
     "internalName": "extended-ui",
     "name": "extended UI",
@@ -550,6 +538,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> extended UI.\n\nIf u have any bugs create an issue on github or contact me in discord: wizer1233\n\nTranslators:\n1stvaliduser - UA\nCoCo Snow - DE\n\nContributors:\nRushieWashie, Garen7, 7003Mars (Mars)"
+  },
+  {
+    "repo": "eb-wilson/helium",
+    "internalName": "he",
+    "name": "Helium",
+    "author": "EBwilson",
+    "lastUpdated": "2025-10-27T07:35:18Z",
+    "stars": 37,
+    "minGameVersion": "150",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod provide optimized ui and more utilities.\nMajor features:\n- ***In-Game Entity Information Components***: Provides various UI elements for game entities including units and blocks\n- ***Health & Status Indicators***: Displays real-time status (health, shields) above units and entities. When shield stacks exceed max health, multi-layer shields with stack counters are shown.\n- ***Attack Range Indicators***: Units and turrets now visualize their attack ranges as translucent areas. Processed boundaries emphasize combined team range contours to prevent visual clutter, with subtle pulsating animations and chromatic borders.\n- ***Functional Block Effect Range Indicators***: Devices like Mend Projectors, Overdrive Projectors, and unit repair stations display effect ranges with distinctive colors.\n- ***Enhanced Block Placement Panel***: A refined block selection panel integrating a quick item bar and standardized tool buttons.\n- ***The better Mod Manager and Mod Browser***: Reworked the Mods Manager and Mods Browser, now they looks more aesthetically pleasing and functional"
   },
   {
     "repo": "zeutd/disintegration",
@@ -1264,7 +1264,7 @@
     "internalName": "azimut",
     "name": "Azimut",
     "author": "DeerCarbonate",
-    "lastUpdated": "2025-10-26T10:53:14Z",
+    "lastUpdated": "2025-10-27T07:29:08Z",
     "stars": 16,
     "minGameVersion": "150.1",
     "hasScripts": true,
@@ -2916,6 +2916,18 @@
     "description": "A mod centered around fighting bosses, with a focus on pattern-based attacks. Entirely detached from Mindustry's traditional gameplay loop - The Virtuality Archives restrains the player in a measly vessel and pits them against encoded entities. Does not utilize scripts or Java, seeking to explore the technical scope of (H)JSON and MLOG. Best experienced with a mouse and keyboard.\n\nCurrently features five of seven planned bosses in the campaign - Candor, Ardent & Argent, Pandemonium, Nyx, and Alluvion."
   },
   {
+    "repo": "mindustry-antigrief/floodcompat",
+    "internalName": "floodcompat",
+    "name": "FloodCompat",
+    "author": "io community",
+    "lastUpdated": "2025-10-18T21:10:41Z",
+    "stars": 7,
+    "minGameVersion": "152.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Improves your experience on the official io  Flood server."
+  },
+  {
     "repo": "xzxadixzx/crawler-language",
     "internalName": "crawler-language",
     "name": "Crawler Language",
@@ -3166,18 +3178,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nThis mod is not the original port of Scheme Size — it is a custom port. The developer of the original mod is not involved in this in any way.\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Copy Link and Join\n"
-  },
-  {
-    "repo": "mindustry-antigrief/floodcompat",
-    "internalName": "floodcompat",
-    "name": "FloodCompat",
-    "author": "io community",
-    "lastUpdated": "2025-10-18T21:10:41Z",
-    "stars": 6,
-    "minGameVersion": "152.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Improves your experience on the official io  Flood server."
   },
   {
     "repo": "mohuqwq/brilliance",
