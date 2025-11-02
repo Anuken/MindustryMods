@@ -1264,9 +1264,9 @@
     "internalName": "azimut",
     "name": "Azimut",
     "author": "DeerCarbonate",
-    "lastUpdated": "2025-11-02T06:07:52Z",
+    "lastUpdated": "2025-11-02T11:47:48Z",
     "stars": 16,
-    "minGameVersion": "150.1",
+    "minGameVersion": "153",
     "hasScripts": true,
     "hasJava": false,
     "description": "Develop complex logistics, repel waves, and destroy enemy bases on the new planet Gelion.\n  \nTHE MOD IS CURRENTLY UNDER DEVELOPMENT, there are already 7 sectors at the moment, and work is underway on quality of life.\n\nSpecials thanks to: ace1020spawn, Kivet/БОБ, Alpotat, KOSTOLOM, Fate of Adrastus"
@@ -1656,6 +1656,18 @@
     "description": "Adds some new additional classes to help hjson modders. \nNote: this a library. Not playable mod."
   },
   {
+    "repo": "obsidan55/schempack400",
+    "internalName": "shemepackbyobsidian",
+    "name": "Schemepack 400+",
+    "author": " Obsidian ",
+    "lastUpdated": "2025-09-20T05:03:47Z",
+    "stars": 13,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "⚠ВНИМАНИЕ!⚠\nПри удалении схемпака, теги остаются.\n Данный мод добавляет ОГРОМНУЮ КУЧУ схем на любой вкус.\nВсего здесь более чем 400 схем.\nОтдельное спасибо pixecoz, Qwertynoob, Anchovy, Mandu, Fox1va, Ilya034, Ohotni4ek, Snake, без них ничего бы не вышло. ОТДЕЛЬНОЕ СПАСИБО Ilya034, который снова все это отсортировал.\n\nВ новом обновлении были изменены названия схем по категориям:\ngreen - начало игры;\norange - середина игры\nred - конец игры;\n(делал это чисто по своему мнению, могут быть неточности)\nостальные схемы тоже промаркированы по цветам:\ncrimson - схемы на деф;\ngold - логика;\npurple - логика с дисплеями;\nstat - буры;\ncyan - арты и игры;"
+  },
+  {
     "repo": "andashikkozlov/thezsia-revival",
     "internalName": "thezsia1",
     "name": "Thezsia Revival",
@@ -1738,18 +1750,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "SHADOOOW your GAME!! repo: BlackDeluxeCat/ShadowShader"
-  },
-  {
-    "repo": "obsidan55/schempack400",
-    "internalName": "shemepackbyobsidian",
-    "name": "Schemepack 400+",
-    "author": " Obsidian ",
-    "lastUpdated": "2025-09-20T05:03:47Z",
-    "stars": 12,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "⚠ВНИМАНИЕ!⚠\nПри удалении схемпака, теги остаются.\n Данный мод добавляет ОГРОМНУЮ КУЧУ схем на любой вкус.\nВсего здесь более чем 400 схем.\nОтдельное спасибо pixecoz, Qwertynoob, Anchovy, Mandu, Fox1va, Ilya034, Ohotni4ek, Snake, без них ничего бы не вышло. ОТДЕЛЬНОЕ СПАСИБО Ilya034, который снова все это отсортировал.\n\nВ новом обновлении были изменены названия схем по категориям:\ngreen - начало игры;\norange - середина игры\nred - конец игры;\n(делал это чисто по своему мнению, могут быть неточности)\nостальные схемы тоже промаркированы по цветам:\ncrimson - схемы на деф;\ngold - логика;\npurple - логика с дисплеями;\nstat - буры;\ncyan - арты и игры;"
   },
   {
     "repo": "sputnuc/upgrated-tiers",
@@ -5608,7 +5608,7 @@
     "internalName": "logic-extend",
     "name": "LogicExtend - 逻辑扩展",
     "author": "[sky]114514[white]",
-    "lastUpdated": "2025-11-02T09:33:36Z",
+    "lastUpdated": "2025-11-02T10:58:18Z",
     "stars": 3,
     "minGameVersion": "151.1",
     "hasScripts": false,
@@ -6912,18 +6912,6 @@
     "description": "我们通过行星发射终端的加速器发射到了这颗星球,当地人称它为赛普拉\n这里的科技我们揣摩不透，而且敌人并不欢迎我们\n同时我们的科技也遗失了\n你能征服这颗比赛普罗更加强大的星球吗\n模组作者:鼠标\n\n\n\n敌军也到了这里，只不过被迫和我们合作\n\n\n\n\n\n致敬传奇拖更王------------鱼"
   },
   {
-    "repo": "dustdustry/contentseditor",
-    "internalName": "contents-editor",
-    "name": "ContentsEditor",
-    "author": "minRi2",
-    "lastUpdated": "2025-11-01T05:19:38Z",
-    "stars": 2,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
-  },
-  {
     "repo": "sarakaunciv/anserserpulocheatopsimple",
     "internalName": "anser serpulo",
     "name": "Anser serpulo",
@@ -6934,6 +6922,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Add a lot of content.\n\t\n\t-Over simplified factories. and heaters.\n\t-Super Drill and pump.\n\t-Op conveyer, Overdrive x10 speed.\n\t-OP units and turret.\n\t\n\tYou can watch mod sample on my Youtube. Link in Repo\n\t\n\tThere are both Serpulo and Erekir version of this mod. make sure to download both mods"
+  },
+  {
+    "repo": "dustdustry/contentseditor",
+    "internalName": "contents-editor",
+    "name": "ContentsEditor",
+    "author": "minRi2",
+    "lastUpdated": "2025-11-02T11:41:42Z",
+    "stars": 2,
+    "minGameVersion": "153",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
   },
   {
     "repo": "teaeempire/gghv7",
