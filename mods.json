@@ -736,7 +736,7 @@
     "internalName": "exoprosopa",
     "name": "Exoprosopa",
     "author": "TnmSpiroct",
-    "lastUpdated": "2025-11-01T04:31:10Z",
+    "lastUpdated": "2025-11-02T02:09:45Z",
     "stars": 27,
     "minGameVersion": "153",
     "hasScripts": true,
@@ -928,7 +928,7 @@
     "internalName": "bundles",
     "name": "Bundles",
     "author": "SMOLKEYS",
-    "lastUpdated": "2025-02-10T11:33:46Z",
+    "lastUpdated": "2025-11-02T01:06:51Z",
     "stars": 22,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -1476,18 +1476,6 @@
     "description": "A mod that adds a new planet, Kaltos, and its moon, Aetheria into the game.\n  \n[royal]Kaltos[] is an ancient and once life blooming planet. Now ruined by eras of industrial abuse, the life became scarce and the planet is undergoing constant ice ages. It's infested with ruins of ancient factions. \n[gold]Aetheria[] on the other hand, was always a deserted, hot celestial body. Thus resulting in 2 different factions present on [royal]Kaltos[] and [gold]Aetheria[]. \n\n[red]This mod is still in early development,[] as of now it only adds a bunch of [accent]sandbox only blocks[] and [accent]environment tiles[]. Several sectors have been made already, more are yet to come. It also has custom music. \n\nOther then that, the mod focuses on [accent]complex factories[] and [accent]refining Crude Oil[]. \n\n[accent]I re-used no content from vanilla, even though this mod seemingly has several things from it. \n\n[red]Currently the mod is way too early into development to have any proper translations. \n\n[]Have fun with whats already added, I guess. :)"
   },
   {
-    "repo": "woodjecket/commundustry",
-    "internalName": "commundustry-v5",
-    "name": "CommunDustry",
-    "author": "CommunDustry",
-    "lastUpdated": "2025-10-27T14:58:24Z",
-    "stars": 14,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "WIP"
-  },
-  {
     "repo": "gmugxd/qr-mod",
     "internalName": "camod",
     "name": "Quantum Realm Mod",
@@ -1498,6 +1486,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Your schemes and saves are prone to corruption. Export your data before updating.\n\nAn extremely large mod solely dedicated for mindustry roleplaying and builds alike.\n\nQRM V7.1 aims to fix most of the bugs found after v7's release.\nQRM v7 Changelog:\nAdded\n- Beveled sorters, Highlighted sorters, and Unloader Two chiseled sets\n- Way, way more chiseled diagonal variants \n- Chiseled diagonal duct router and bezeled sets\n- Hazel, Tyrian, Royal, Terracotta, Pale, Graphene Walls\n- Ash and Alternate sand and red sand env walls \n- RGBCMY + White, Black Overlay floors\n- CMY, Sorter gray + Source yellow floors\n- Thunder, Windstorm, Thunderstorm, Rain and Ping SFX blocks\n- Void messages\n- Vials readded\n- Message blocks that look like RP books\n- [WIP] Particle gen with changeable colours via ammo\n- Powerline Blockers (invisible plast walls)\n- Arrow block that looks like a logic block (Path Cell)\n- Ritual circles\n\nFixed\n- Large slate message being omega\n- Flat surge router is flat unloader\n- Stone colour walls being named snow\n- Cruiser being implemented\n- Slower emanates\n- All unit building\n- Rocky en stairs being offset\n- Config mender now a unloader\n- Config nodes having glow\n- Unloader two a sorter now\n- Revert noise sorter changes, now unlegacy'd\n\nQRM v7.1 Changelog\nFixed\n- Bezeled chiseled side-line being offset\n- Transperant, white, black item source having the wrong name\n- Liquid router source not having a texture\n- Particle generators not being invisible \n- Normal, inverted, highlight, bezel, spectral, source centered corners, diagonal router corner 3 being offset\n- Config stuff not being flat\n- Sorter gray colour 5 being olive\n- Open Item Vial not being able to rotate\n- Full liquid vials being able to rotate, even they can't visually\n- Books resprite\n\nAdded\n- Borderless item source (for SFX turrets)\n- Flat beveled, highlight sorters\n- More books\n- Duct router catears\n\nRemoved\n- Extra surge router slope corner\n\nVersion v7.1 "
+  },
+  {
+    "repo": "woodjecket/commundustry",
+    "internalName": "commundustry-v5",
+    "name": "CommunDustry",
+    "author": "CommunDustry",
+    "lastUpdated": "2025-11-02T01:25:07Z",
+    "stars": 14,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "WIP"
   },
   {
     "repo": "shadowpazzo99/shadowdustry",
@@ -3684,18 +3684,6 @@
     "description": ""
   },
   {
-    "repo": "typicaldeveloper123/biotic-zlo",
-    "internalName": "corpuscles",
-    "name": "Corpuscles",
-    "author": "Bismutotantalite/Biz",
-    "lastUpdated": "2025-10-31T11:48:57Z",
-    "stars": 5,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod that features life.\nSPOILER:\n- MIGHT CONTAIN DISTURBING GORE\n- HAS TRYPOPHOBIA WHICH IS THE FEAR OF ALOT OF HOLES\n- BIO UNITS MIGHT BE UNCOMFORTABLE TO SOME PEOPLE\n\nWIP\n\nIf you wanna see whats the latest news with the mod, since modding kinda takes really long.\nJoin our Discord Server!\ndiscord server for Corpuscles: https://discord.gg/SkvZaCwvXR\n  "
-  },
-  {
     "repo": "i-drink-gasoline/admin-button-2",
     "internalName": "admin-button-2",
     "name": "Admin Button 2",
@@ -3706,6 +3694,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Add an admin button."
+  },
+  {
+    "repo": "typicaldeveloper123/biotic-zlo",
+    "internalName": "corpuscles",
+    "name": "Corpuscles",
+    "author": "Bismutotantalite/Biz",
+    "lastUpdated": "2025-11-02T01:43:41Z",
+    "stars": 5,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod that features life.\nSPOILER:\n- MIGHT CONTAIN DISTURBING GORE\n- HAS TRYPOPHOBIA WHICH IS THE FEAR OF ALOT OF HOLES\n- BIO UNITS MIGHT BE UNCOMFORTABLE TO SOME PEOPLE\n\nWIP\n\nIf you wanna see whats the latest news with the mod, since modding kinda takes really long.\nJoin our Discord Server!\ndiscord server for Corpuscles: https://discord.gg/SkvZaCwvXR\n  "
   },
   {
     "repo": "seuearth/banana",
