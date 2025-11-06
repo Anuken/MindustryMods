@@ -4,7 +4,7 @@
     "internalName": "new-horizon",
     "name": "New Horizon",
     "author": "Yuria & Lao",
-    "lastUpdated": "2025-11-05T15:45:01Z",
+    "lastUpdated": "2025-11-06T13:49:48Z",
     "stars": 502,
     "minGameVersion": "152",
     "hasScripts": false,
@@ -604,7 +604,7 @@
     "internalName": "md3",
     "name": "MoreDefences",
     "author": "CD, 7rodo and meowkitty",
-    "lastUpdated": "2025-11-05T23:09:28Z",
+    "lastUpdated": "2025-11-06T13:04:17Z",
     "stars": 34,
     "minGameVersion": "152.2",
     "hasScripts": true,
@@ -636,18 +636,6 @@
     "description": "A mod provides a variety of tools for modding.\n\n-----------------\nVersion 1.5.6\n## Highlight\n- Added some new features.\n- Fixed some bugs.\n-----------------\n\n## ShowUIList\n\n- Display `icon`, `tex`, `styles`, `colors`, `interps`\\\n!(./screenshots/UIList.png)\n\n## Tester\n\n!(./screenshots/tester.png)\n\n- Provide `JS` editor `Tester`\n- Shortcuts\n- Press `Ctrl`+`Shift`+`Enter` to `execute` code immediately\n- Press `Ctrl`+`Shift`+`↑/↓` to switch `history` records\n- Press `Ctrl`+`Shift`+`D` to `view` detailed information\n- Press `Alt`+`V` to preview `Texture`\n- Built-in `unsafe`, `lookup`\n- Built-in `IntFunc` class (abbreviated as `$`)\n- `$.xxx` can represent primitive data types (e.g., `$.void` represents `Void.TYPE`;`$.J` represents long.class)\n- `$p` represents `Packages`\n- Code: [JSFunc](https://github.com/i-hope1/mod-tools/src/modtools/utils/JSFunc.java)\n- Long press on code in the favorites to add to startup items\\\n!(./screenshots/startup.png)\n- Quick switch history\\\n![Screenshot 2024-03-10 14-45-37](https://github.com/I-hope1/mod-tools/assets/78016895/4918af35-19af-4fab-b961-70bdc8679fe8)\n- `$.item`, `$.liquid`, `$.unit` and so on.\n\n## UnitSpawn\n\n- Multiple team selection\n- Support for fixed point spawning\n- Display `name` and `localizedName`\n- Rightclick the name Label to copy save as JS var.\n\n## Selection\n\n- Selector\n- Supports `Tile`, `Building`, `Bullet`, `Unit`\n- Kill\n- Set Item/Liquid/Team\n- Press `Ctrl`+`Alt` to fix Focus Window\n\n## ReviewElement\n\n- Display element list, double-click to copy element to js variable\n- `Ctrl`+`Shift`+`C` to Inspect Element\n- `Ctrl`+`Alt`+`D` to display bounds of Element\n- Select untouchable elements\n- Mobile: Filter current element with two fingers\n- PC: Press `F` to filter current element\n- Functions shortcuts for Element\n- `i`: display details (open ShowInfoWindow)\\\n- `p`(for Image):  show `DrawablePicker`\n- `del`: (`shift` to ignore confirmation), delete element\n- `<` / `>`: collapse Group\n- `f`: fix floating Info column\n- `r`: invoke element's method\n\n- ![reviewElement](./screenshots/review_element.png)\n\n# Frag\n\n- Double-click the blue part of Frag to minimize/restore Frag\n- In the minimized state, click the blue part, it will behave like a floating ball\n\n## Window\n\n- Press `Ctrl`+`Tab` to switch windows\n- Press `Shift`+`F4` to close current window\n- RClick the close button to move and scl window.\n\n## ShowInfoWindow\n\n- Show all fields, methods, constructors and nested classes of a obj.\n- Field can be modified.\n- Method can be Invoked(Special).\n- Constructor can be invoked to new a instance.\n\n## Others\n\n### Extensions\n- Http Redirect\n> Redirect some websites, such as: github\\\n> Configuration file: b0kkihope/http_redirect.properties"
   },
   {
-    "repo": "dong-wo-long/betterdustrymod",
-    "internalName": "bsm",
-    "name": "Betterustry Mod",
-    "author": "D&X",
-    "lastUpdated": "2025-06-20T16:12:39Z",
-    "stars": 30,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "SPRITERS ARE URGENTLY NEEDED FOR THE MOD!!!\nIf there are any among you, please drop me a line...\n\n= = = = = О моде / About mod = = = = =\n\nRU: Очень опасный мод, который влияет на баланс и механику игры, добавляет новый контент в виде статус эффектов и оборонительных сооружений (башен, мин и т.д.).\n\nРекомендуется перед установкой сделать сохранение (чтобы откатиться назад), если в случае вам не понравится то, что может сделать данный мод. И лучше в самом деле не рискуйте лишний раз и поверьте на слово: МОД. МЕНЯЕТ. МНОГОЕ.\n\nВажно: Описание некоторых юнитов не корректно, либо и вовсе неправильное.\n\n\n\nENG: A very dangerous mod that affects the balance and mechanics of the game, adds new content in the form of status effects and defensive structures (towers, mines, etc.).\n\n\nPreferably before installing make a save (to roll back), if in case you do not like what this mod can do. And it is better to really do not take unnecessary risks and take my word for it: MOD. CHANGES. MULTIPLE.\n\nImportant: The description of some units is not correct or even incorrect.\n\nSpecial thanks:\n- inflarespirit (eve_light)\n- ARmOrDer\n- 6matie9 (.miaofficial.)"
-  },
-  {
     "repo": "way-zer/contentstweaker",
     "internalName": "contentstweaker",
     "name": "ContentsTweaker-内容包修改器",
@@ -658,6 +646,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Dynamic load custom contents patch account to server"
+  },
+  {
+    "repo": "dong-wo-long/betterdustrymod",
+    "internalName": "bsm",
+    "name": "Betterustry Mod",
+    "author": "D&X",
+    "lastUpdated": "2025-11-06T13:58:10Z",
+    "stars": 30,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "SPRITERS ARE URGENTLY NEEDED FOR THE MOD!!!\nIf there are any among you, please drop me a line...\n\n= = = = = О моде / About mod = = = = =\n\nRU: Очень опасный мод, который влияет на баланс и механику игры, добавляет новый контент в виде статус эффектов и оборонительных сооружений (башен, мин и т.д.).\n\nРекомендуется перед установкой сделать сохранение (чтобы откатиться назад), если в случае вам не понравится то, что может сделать данный мод. И лучше в самом деле не рискуйте лишний раз и поверьте на слово: МОД. МЕНЯЕТ. МНОГОЕ.\n\nВажно: Описание некоторых юнитов не корректно, либо и вовсе неправильное.\n\n\n\nENG: A very dangerous mod that affects the balance and mechanics of the game, adds new content in the form of status effects and defensive structures (towers, mines, etc.).\n\n\nPreferably before installing make a save (to roll back), if in case you do not like what this mod can do. And it is better to really do not take unnecessary risks and take my word for it: MOD. CHANGES. MULTIPLE.\n\nImportant: The description of some units is not correct or even incorrect.\n\nSpecial thanks:\n- inflarespirit (eve_light)\n- ARmOrDer\n- 6matie9 (.miaofficial.)"
   },
   {
     "repo": "haznobrain/erekir-liquefied",
@@ -736,7 +736,7 @@
     "internalName": "exoprosopa",
     "name": "Exoprosopa",
     "author": "TnmSpiroct",
-    "lastUpdated": "2025-11-05T16:36:38Z",
+    "lastUpdated": "2025-11-06T13:25:19Z",
     "stars": 27,
     "minGameVersion": "153",
     "hasScripts": true,
@@ -1861,15 +1861,15 @@
   },
   {
     "repo": "dong-wo-long/high-leveldivisions",
-    "internalName": "xmd",
-    "name": "X-Morph: Defence theme",
+    "internalName": "hld",
+    "name": "High-level Divisions",
     "author": "D&X",
     "lastUpdated": "2025-07-08T13:35:43Z",
     "stars": 11,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
-    "description": "Change the music files to tracks from the game X-Morph: Defence (a TD game, like mindustry, but without PvP and with its own features)"
+    "description": "This mod adds new modified units, such as Elites and Officers, as well as several new items to the gameplay."
   },
   {
     "repo": "arth0x/mindustrinity",
@@ -3156,18 +3156,6 @@
     "description": "the osakan worlds project will focus on adding a new planet(maybe) cluster that can connect with each other (first planets name is osaka)\n  Enjoy!\n   also is the place of containment of some of my ideas like a gregtech-styled mod, so stuff inside the mod can clash\ngive this mod a star if you like it, DM theavatar_of_emptiness if you want to contribute to the mod with ideas, sprites or other stuff or if you want to join our discord server"
   },
   {
-    "repo": "mohuqwq/brilliance",
-    "internalName": "brilliance",
-    "name": "光辉",
-    "author": "末狐是个鸽子",
-    "lastUpdated": "2025-10-24T13:46:26Z",
-    "stars": 6,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\nQ群：575994735\n使用这个MOD来体验在mindustry中极不平衡（甚至有点离谱）的战役进度！"
-  },
-  {
     "repo": "acookieg/carbon-vanilla",
     "internalName": "carbon vanilla",
     "name": "Carbon-Vanilla",
@@ -3190,6 +3178,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nThis mod is not the original port of Scheme Size — it is a custom port. The developer of the original mod is not involved in this in any way.\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Copy Link and Join\n"
+  },
+  {
+    "repo": "mohuqwq/brilliance",
+    "internalName": "brilliance",
+    "name": "光辉",
+    "author": "末狐是个鸽子",
+    "lastUpdated": "2025-11-06T12:49:06Z",
+    "stars": 6,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nQ群：575994735\n使用这个MOD来体验在mindustry中极不平衡（甚至有点离谱）的战役进度！"
   },
   {
     "repo": "yaroslav242/yfjs",
@@ -6948,6 +6948,18 @@
     "description": "A recreation of a peak roblox game called \"factory simulator\".\nWill require some sort of multicrafter libs later on. \nCurrently in early dev. Not intended to be played just yet. "
   },
   {
+    "repo": "spacetwoo/nolea-siege",
+    "internalName": "nul",
+    "name": "Nolea Siege",
+    "author": "Spacetwoo N cool guys",
+    "lastUpdated": "2025-11-06T05:21:40Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "If something deforms your body beyond recognition and takes away your mind, will it still be you?... \n \n A fast-paced mod with a variety of enemies, bosses and strange gameplay decisions! Right now there are 4 sectors out of 12! also There are still some unfinished things in here. \n Code - SpaceTwoo. \n Maps - SpaceTwoo SKYPETR, Lewiafan ROVO. \n Sprites - SpaceTwoo, ArtmX, Bloody-Ocean \n Other - Closed_Ink, Gribdius."
+  },
+  {
     "repo": "teaeempire/gghv7",
     "internalName": "ggh2.1",
     "name": "GGH2.4",
@@ -7906,6 +7918,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Uh its ah its a dingus. a dingus"
+  },
+  {
+    "repo": "dong-wo-long/x-morph-defence-ost",
+    "internalName": "xmd",
+    "name": "X-Morph: Defence theme",
+    "author": "D&X",
+    "lastUpdated": "2024-08-25T06:33:27Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Change the music files to tracks from the game X-Morph: Defence (a TD game, like mindustry, but without PvP and with its own features)"
   },
   {
     "repo": "nezerit6/extended-walls",
@@ -9000,16 +9024,16 @@
     "description": "a mod that implements new serpulo stuff (that is totally usefull and not unbalanced) to the game. read the github for more info..."
   },
   {
-    "repo": "spacetwoo/nolea-siege",
-    "internalName": "nul",
-    "name": "Nolea Siege",
-    "author": "Spacetwoo N cool guys",
-    "lastUpdated": "2025-11-06T05:21:40Z",
+    "repo": "fat-bird-owner/the-infestations",
+    "internalName": "infestation",
+    "name": "The Infestation",
+    "author": "Fat Bird's Owner",
+    "lastUpdated": "2025-11-05T15:42:42Z",
     "stars": 1,
-    "minGameVersion": "146",
+    "minGameVersion": "153",
     "hasScripts": false,
     "hasJava": false,
-    "description": "If something deforms your body beyond recognition and takes away your mind, will it still be you?... \n \n A fast-paced mod with a variety of enemies, bosses and strange gameplay decisions! Right now there are 4 sectors out of 12! also There are still some unfinished things in here. \n Code - SpaceTwoo. \n Maps - SpaceTwoo SKYPETR, Lewiafan ROVO. \n Sprites - SpaceTwoo, ArtmX, Bloody-Ocean \n Other - Closed_Ink, Gribdius."
+    "description": "\nThey are waiting.\n\nA mod inspired by neoplasm and the creeper world series.\n\nfeaturing 30+ buildings with a barely finished planet.\nThere is only 1 act as of now.\n\nThanks for playing.\n:)\n\n"
   },
   {
     "repo": "exxleo/exoterusmod",
@@ -11578,17 +11602,5 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Fills and create barrels for transport. Serpulo only."
-  },
-  {
-    "repo": "fat-bird-owner/the-infestations",
-    "internalName": "infestation",
-    "name": "The Infestation",
-    "author": "Fat Bird's Owner",
-    "lastUpdated": "2025-11-05T15:42:42Z",
-    "stars": 0,
-    "minGameVersion": "153",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\nThey are waiting.\n\nA mod inspired by neoplasm and the creeper world series.\n\nfeaturing 30+ buildings with a barely finished planet.\nThere is only 1 act as of now.\n\nThanks for playing.\n:)\n\n"
   }
 ]
