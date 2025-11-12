@@ -77,7 +77,7 @@
     "name": "Asthosus",
     "author": "Catser",
     "lastUpdated": "2025-11-11T14:34:57Z",
-    "stars": 181,
+    "stars": 182,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
@@ -1464,6 +1464,18 @@
     "description": "Your schemes and saves are prone to corruption. Export your data before updating.\n\nAn extremely large mod solely dedicated for mindustry roleplaying and builds alike.\n\nQRM V7.1 aims to fix most of the bugs found after v7's release.\nQRM v7 Changelog:\nAdded\n- Beveled sorters, Highlighted sorters, and Unloader Two chiseled sets\n- Way, way more chiseled diagonal variants \n- Chiseled diagonal duct router and bezeled sets\n- Hazel, Tyrian, Royal, Terracotta, Pale, Graphene Walls\n- Ash and Alternate sand and red sand env walls \n- RGBCMY + White, Black Overlay floors\n- CMY, Sorter gray + Source yellow floors\n- Thunder, Windstorm, Thunderstorm, Rain and Ping SFX blocks\n- Void messages\n- Vials readded\n- Message blocks that look like RP books\n- [WIP] Particle gen with changeable colours via ammo\n- Powerline Blockers (invisible plast walls)\n- Arrow block that looks like a logic block (Path Cell)\n- Ritual circles\n\nFixed\n- Large slate message being omega\n- Flat surge router is flat unloader\n- Stone colour walls being named snow\n- Cruiser being implemented\n- Slower emanates\n- All unit building\n- Rocky en stairs being offset\n- Config mender now a unloader\n- Config nodes having glow\n- Unloader two a sorter now\n- Revert noise sorter changes, now unlegacy'd\n\nQRM v7.1 Changelog\nFixed\n- Bezeled chiseled side-line being offset\n- Transperant, white, black item source having the wrong name\n- Liquid router source not having a texture\n- Particle generators not being invisible \n- Normal, inverted, highlight, bezel, spectral, source centered corners, diagonal router corner 3 being offset\n- Config stuff not being flat\n- Sorter gray colour 5 being olive\n- Open Item Vial not being able to rotate\n- Full liquid vials being able to rotate, even they can't visually\n- Books resprite\n\nAdded\n- Borderless item source (for SFX turrets)\n- Flat beveled, highlight sorters\n- More books\n- Duct router catears\n\nRemoved\n- Extra surge router slope corner\n\nVersion v7.1 "
   },
   {
+    "repo": "itzcraft/hjsonpp",
+    "internalName": "hjsonpp",
+    "name": "hjson++",
+    "author": "ItzCraft\nhelpers: Photon_gravity, Sputnuc",
+    "lastUpdated": "2025-11-03T15:00:15Z",
+    "stars": 14,
+    "minGameVersion": "150.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds some new additional classes to help hjson modders. \nNote: this a library. Not playable mod."
+  },
+  {
     "repo": "valigaming15/pyra-erekir",
     "internalName": "pyra",
     "name": "Pyra Erekir",
@@ -1654,18 +1666,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "OP Things is a mod that makes the game easier, but isn't a hack.\n\n[#FF0000]WARNING: A lot of the mod things are just some shit. See more on readme.md on github"
-  },
-  {
-    "repo": "itzcraft/hjsonpp",
-    "internalName": "hjsonpp",
-    "name": "hjson++",
-    "author": "ItzCraft\nhelpers: Photon_gravity, Sputnuc",
-    "lastUpdated": "2025-11-03T15:00:15Z",
-    "stars": 13,
-    "minGameVersion": "150.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds some new additional classes to help hjson modders. \nNote: this a library. Not playable mod."
   },
   {
     "repo": "suenodev/sueno",
@@ -2892,6 +2892,18 @@
     "description": "V7 fixed, Generate power out of nature. Four types of windmills, a water dam, three powernodes and two large batteries. It is still under development so feedback on the workshop is welcome"
   },
   {
+    "repo": "00sunray00/scheme-size-port",
+    "internalName": "scheme-size",
+    "name": "Scheme Size Port",
+    "author": "xzxADIxzx\nPort: 00SunRay00",
+    "lastUpdated": "2025-11-06T15:20:07Z",
+    "stars": 7,
+    "minGameVersion": "150",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nThis mod is not the original port of Scheme Size — it is a custom port. The developer of the original mod is not involved in this in any way.\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Copy Link and Join\n"
+  },
+  {
     "repo": "mindustry-antigrief/floodcompat",
     "internalName": "floodcompat",
     "name": "FloodCompat",
@@ -3178,18 +3190,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\nQ群：575994735\n使用这个MOD来体验在mindustry中极不平衡（甚至有点离谱）的战役进度！"
-  },
-  {
-    "repo": "00sunray00/scheme-size-port",
-    "internalName": "scheme-size",
-    "name": "Scheme Size Port",
-    "author": "xzxADIxzx\nPort: 00SunRay00",
-    "lastUpdated": "2025-11-06T15:20:07Z",
-    "stars": 6,
-    "minGameVersion": "150",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nThis mod is not the original port of Scheme Size — it is a custom port. The developer of the original mod is not involved in this in any way.\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Copy Link and Join\n"
   },
   {
     "repo": "oleksiy1409liut/auvathiaworlds",
@@ -5604,6 +5604,18 @@
     "description": "\nEN: Adds Vulcanum - hot dirty planet, that has dangerous enemies. P.s. now mod has two sectors you can beat, but there are some bugs I can't fix. \nRU: Добавляет Вулканум - горячую пыльную планеты с опасными противниками. P.s. сейчас мод имеет два сектора, которые можно пройти, но здесь также немного багов, которые я не могу исправить.\n  (2.3)"
   },
   {
+    "repo": "wantechfan/my-cursed-ahh-mindustry-mod",
+    "internalName": "wantechfan's-cursed-bundles",
+    "name": "Cursed Bundles",
+    "author": "WantechFan",
+    "lastUpdated": "2025-11-09T14:04:01Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod is also modifiy ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request[]."
+  },
+  {
     "repo": "m1cxzfw3q/logicextend",
     "internalName": "logic-extend",
     "name": "LogicExtend - 逻辑扩展",
@@ -5626,6 +5638,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod add new planet and new solar sistem you drone which cleans planets \n\nDeveloper: Votak (abzobua)\nhelper and map creator: TEKTA_RU\nlanguage\nEnglish\nРусский"
+  },
+  {
+    "repo": "bsp-2/factory-simulator",
+    "internalName": "factory-sim",
+    "name": "The Factory Must Grow",
+    "author": "Blehhhhious Feline",
+    "lastUpdated": "2025-11-12T16:01:02Z",
+    "stars": 3,
+    "minGameVersion": "152.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A recreation of a peak roblox game called \"factory simulator\".\nWill require some sort of multicrafter libs later on. \nCurrently in early dev. Not intended to be played just yet. "
   },
   {
     "repo": "blockzilla101/bomberman-disable-flying",
@@ -6912,18 +6936,6 @@
     "description": "我们通过行星发射终端的加速器发射到了这颗星球,当地人称它为赛普拉\n这里的科技我们揣摩不透，而且敌人并不欢迎我们\n同时我们的科技也遗失了\n你能征服这颗比赛普罗更加强大的星球吗\n模组作者:鼠标\n\n\n\n敌军也到了这里，只不过被迫和我们合作\n\n\n\n\n\n致敬传奇拖更王------------鱼"
   },
   {
-    "repo": "bsp-2/factory-simulator",
-    "internalName": "factory-sim",
-    "name": "The Factory Must Grow",
-    "author": "Blehhhhious Feline",
-    "lastUpdated": "2025-11-07T21:50:39Z",
-    "stars": 2,
-    "minGameVersion": "152.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A recreation of a peak roblox game called \"factory simulator\".\nWill require some sort of multicrafter libs later on. \nCurrently in early dev. Not intended to be played just yet. "
-  },
-  {
     "repo": "sarakaunciv/anserserpulocheatopsimple",
     "internalName": "anser serpulo",
     "name": "Anser serpulo",
@@ -6934,18 +6946,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Add a lot of content.\n\t\n\t-Over simplified factories. and heaters.\n\t-Super Drill and pump.\n\t-Op conveyer, Overdrive x10 speed.\n\t-OP units and turret.\n\t\n\tYou can watch mod sample on my Youtube. Link in Repo\n\t\n\tThere are both Serpulo and Erekir version of this mod. make sure to download both mods"
-  },
-  {
-    "repo": "wantechfan/my-cursed-ahh-mindustry-mod",
-    "internalName": "wantechfan's-cursed-bundles",
-    "name": "Cursed Bundles",
-    "author": "WantechFan",
-    "lastUpdated": "2025-11-09T14:04:01Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod is also modifiy ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request[]."
   },
   {
     "repo": "m1cxzfw3q/thermal-engineering-java",
