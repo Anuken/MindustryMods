@@ -89,7 +89,7 @@
     "name": "Mindustry Tool",
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
     "lastUpdated": "2025-12-03T13:11:40Z",
-    "stars": 173,
+    "stars": 174,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -2328,6 +2328,18 @@
     "description": "Для работы на сервере нужен плагин: https://github.com/MindustryInside/JSEval\nи админ"
   },
   {
+    "repo": "00sunray00/scheme-size-port",
+    "internalName": "scheme-size",
+    "name": "Scheme Size Port",
+    "author": "xzxADIxzx\nPort: 00SunRay00",
+    "lastUpdated": "2025-12-03T13:53:06Z",
+    "stars": 9,
+    "minGameVersion": "150",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nThis mod is not the original port of Scheme Size — it is a custom port. The developer of the original mod is not involved in this in any way.\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Copy Link and Join\n"
+  },
+  {
     "repo": "warcry98/speedcontrol",
     "internalName": "speed-control",
     "name": "Speed Control",
@@ -2578,18 +2590,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod that features life.\nSPOILER:\n- MIGHT CONTAIN DISTURBING GORE\n- HAS TRYPOPHOBIA WHICH IS THE FEAR OF ALOT OF HOLES\n- BIO UNITS MIGHT BE UNCOMFORTABLE TO SOME PEOPLE\n\nIf you wanna see whats the latest news with the mod, since modding kinda takes really long.\nJoin our Discord Server!\ndiscord server for Corpuscles: https://discord.gg/SkvZaCwvXR\n\nThanks to HunNimbus, and VdobleMSG for the some of the sprites!\nWIP\n  "
-  },
-  {
-    "repo": "00sunray00/scheme-size-port",
-    "internalName": "scheme-size",
-    "name": "Scheme Size Port",
-    "author": "xzxADIxzx\nPort: 00SunRay00",
-    "lastUpdated": "2025-12-03T13:53:06Z",
-    "stars": 8,
-    "minGameVersion": "150",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nThis mod is not the original port of Scheme Size — it is a custom port. The developer of the original mod is not involved in this in any way.\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Copy Link and Join\n"
   },
   {
     "repo": "fabizocker456/test",
@@ -3696,18 +3696,6 @@
     "description": "Add an admin button."
   },
   {
-    "repo": "tinport/tinport-serpulo-resprites",
-    "internalName": "tinport-fancy-resprites",
-    "name": "tinport serpulo resprites",
-    "author": "tinport",
-    "lastUpdated": "2025-11-22T21:01:29Z",
-    "stars": 5,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "resprites random garbage. since im so cool. do not use this with a bad computer or phone or you will get horrible fps."
-  },
-  {
     "repo": "new-guys5634/lava-rebirth",
     "internalName": " b ",
     "name": "Caverns Rebirth",
@@ -3718,6 +3706,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "IN EARLY DEV\n\nA mod inspired by Greek tech with all of its annoying grinding Elements\na planet called lava zrogro arises and this will pinpoint where all the lore has started and will it end?\n\nPROPER: this mod will not be easy and you have to use more brain power than serpulo, anything can go wrong leading to your death, retake the lost and crux nations and find more about the destroyed planet, also links with antopia in many ways such as sulfur, beware the sectors will be changing often.\n\nMISSION: on zrogro your previous captures and defeats if the lost empire had been shattered, the crux empire had taken back everything, the Vengeance empire had informed you that the crux empire had some how cooked zrogro and moved the planet barely but enough for water to exist underground, your mission is to establish the vengeance empire on this planet, establish hard to work and pollute this planet to the grave, destroy and take back this planet! good luck captain.\n\nenjoy, drink cola, eat raw coal, have fun"
+  },
+  {
+    "repo": "tinport/tinport-serpulo-resprites",
+    "internalName": "tinport-fancy-resprites",
+    "name": "Tinport Serpulo Resprites",
+    "author": "[#f09267]Tinport[]",
+    "lastUpdated": "2025-12-03T18:29:07Z",
+    "stars": 5,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Resprites a (currently) small amount of serpulo right now.\n\nCurrently Revamped:\n- [#fbe488]Power[]\n- [#e7ecac]Drills[]\n\nSpecial Thanks To:\n- [#dd9eb1]Blehhhhh Cat[] (@g_o_r_t_) For giving a decent amount of feedback.\n- [#9b59b6]CY4NIDE[] (@CY4NIDE) For assisting me with making Impact Reactor plasma resprites.\n"
   },
   {
     "repo": "seuearth/banana",
@@ -5592,6 +5592,18 @@
     "description": "A mod that extends logical statements\n 一个扩展了逻辑语句的模组"
   },
   {
+    "repo": "mrdoes-nobody/copper-units",
+    "internalName": "copperamic",
+    "name": "Copper Units",
+    "author": "  Coding: MrDoes\nSprites: Kelin ",
+    "lastUpdated": "2025-11-29T13:31:00Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "MORE COPPER, MORE!!!"
+  },
+  {
     "repo": "ramazanduruev/luntunworld",
     "internalName": "ln",
     "name": "luntun",
@@ -6946,18 +6958,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The sun is gone guys, what do we do?"
-  },
-  {
-    "repo": "mrdoes-nobody/copper-units",
-    "internalName": "copperamic",
-    "name": "Copper Units",
-    "author": "  Coding: MrDoes\nSprites: Kelin ",
-    "lastUpdated": "2025-11-29T13:31:00Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "MORE COPPER, MORE!!!"
   },
   {
     "repo": "titanite-1574/a-new-hope",
