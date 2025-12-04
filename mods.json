@@ -960,18 +960,6 @@
     "description": "Mindustry mod library which provides support for non-square blocks implementation for json mod."
   },
   {
-    "repo": "melomelodeon/mindy-conveyor",
-    "internalName": "fstrcnvyrs",
-    "name": "Definitely Balanced Conveyors",
-    "author": "Rhoo",
-    "lastUpdated": "2025-09-18T04:26:45Z",
-    "stars": 22,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds a few distribution blocks... very few distribution blocks"
-  },
-  {
     "repo": "smolkeys/bundles",
     "internalName": "bundles",
     "name": "Bundles",
@@ -982,6 +970,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "hehe angish go nrrrt\n\n\ntargets:\n\n- vanilla\n\n- foo's client (builtin)\n\n- SMOLKEYS/yellow-java (extension)"
+  },
+  {
+    "repo": "melomelodeon/mindy-conveyor",
+    "internalName": "fstrcnvyrs",
+    "name": "Definitely Balanced Conveyors",
+    "author": "Rhoo",
+    "lastUpdated": "2025-12-04T15:55:41Z",
+    "stars": 22,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds a few distribution blocks... very few distribution blocks"
   },
   {
     "repo": "dong-wo-long/enhancementunits",
@@ -1012,7 +1012,7 @@
     "internalName": "olupis",
     "name": "Nyfalis (Olupis)",
     "author": " ;3\nFounded by:RushieWashie, NightmarishWolf\n With massive help and thanks to: Ethanol10, Siede, WMF Industries, MrApple, Kapzduke, Otamamori, Catana, ItsKirby69, slario&asterisk.txt",
-    "lastUpdated": "2025-11-25T14:48:56Z",
+    "lastUpdated": "2025-12-04T15:19:02Z",
     "stars": 21,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -8892,18 +8892,6 @@
     "description": "A planet shrouded in arcane mysteries."
   },
   {
-    "repo": "huanxefh/lovecraftian-library",
-    "internalName": "lovec",
-    "name": "Lovecraftian Library",
-    "author": "MaboroshiX",
-    "lastUpdated": "2025-10-29T17:21:39Z",
-    "stars": 1,
-    "minGameVersion": "151",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A JavaScript library for my other mods."
-  },
-  {
     "repo": "hfg00559-rgb/re-industry",
     "internalName": "industry",
     "name": "Re:Industry",
@@ -9058,6 +9046,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds powerful, unique, non begginer-friendly custom bosses for campaign maps. DOES NOT WORK YET!"
+  },
+  {
+    "repo": "huanxefh/lovecraftian-library",
+    "internalName": "lovec",
+    "name": "Lovecraftian Library",
+    "author": "MaboroshiX",
+    "lastUpdated": "2025-12-04T15:42:19Z",
+    "stars": 1,
+    "minGameVersion": "152",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A JavaScript library for my other mods."
   },
   {
     "repo": "exxleo/exoterusmod",
@@ -11460,30 +11460,6 @@
     "description": "Greatly enhances the boss's health and attack."
   },
   {
-    "repo": "huanxefh/lovecraftian-laboratory",
-    "internalName": "loveclab",
-    "name": "Lovecraftian Laboratory",
-    "author": "MaboroshiX",
-    "lastUpdated": "2025-10-29T17:23:17Z",
-    "stars": 0,
-    "minGameVersion": "151",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "The base mod for Lovecraftian series that adds essential resource, environmental blocks and planets."
-  },
-  {
-    "repo": "huanxefh/project-reindustrialization",
-    "internalName": "projreind",
-    "name": "Project Reindustrialization",
-    "author": "MaboroshiX",
-    "lastUpdated": "2025-10-29T17:24:55Z",
-    "stars": 0,
-    "minGameVersion": "151",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "OBJECT: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech that makes manufacturing realistic and even harder.\nPart of Lovecraftian series, you will need Lovecraftian Library and Lovecraftian Laboratory to load the mod correctly.\nWarning: recipe hell ahead!"
-  },
-  {
     "repo": "713712/asepsis-mdt",
     "internalName": "阿塞普斯",
     "name": "阿塞普斯",
@@ -11722,5 +11698,29 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "made by @betu.ioskatev from Mindustry discord. Very cursed translátións of the game. Not fully translated yet!"
+  },
+  {
+    "repo": "huanxefh/lovecraftian-laboratory",
+    "internalName": "loveclab",
+    "name": "Lovecraftian Laboratory",
+    "author": "MaboroshiX",
+    "lastUpdated": "2025-12-04T15:42:42Z",
+    "stars": 0,
+    "minGameVersion": "152",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "The base mod for Lovecraftian series that adds essential resource, environmental blocks and planets."
+  },
+  {
+    "repo": "huanxefh/project-reindustrialization",
+    "internalName": "projreind",
+    "name": "Project Reindustrialization",
+    "author": "MaboroshiX",
+    "lastUpdated": "2025-12-04T15:43:06Z",
+    "stars": 0,
+    "minGameVersion": "152",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "OBJECT: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech that makes manufacturing realistic and even harder.\nPart of Lovecraftian series, you will need Lovecraftian Library and Lovecraftian Laboratory to load the mod correctly.\nWarning: recipe hell ahead!"
   }
 ]
