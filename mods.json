@@ -88,7 +88,7 @@
     "internalName": "mindustry-tool",
     "name": "Mindustry Tool",
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2025-12-07T06:26:20Z",
+    "lastUpdated": "2025-12-10T13:33:09Z",
     "stars": 176,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -616,7 +616,7 @@
     "internalName": "md3",
     "name": "MoreDefences",
     "author": "CD, 7rodo and meowkitty",
-    "lastUpdated": "2025-12-10T10:16:01Z",
+    "lastUpdated": "2025-12-10T12:43:57Z",
     "stars": 34,
     "minGameVersion": "152.2",
     "hasScripts": true,
@@ -3720,6 +3720,18 @@
     "description": "Resprites a (currently) small amount of serpulo right now.\n\nCurrently Revamped:\n- [#fbe488]Power[]\n- [#e7ecac]Drills[]\n\nSpecial Thanks To:\n- [#dd9eb1]Blehhhhh Cat[] (@g_o_r_t_) For giving a decent amount of feedback.\n- [#9b59b6]CY4NIDE[] (@CY4NIDE) For assisting me with making Impact Reactor plasma resprites.\n"
   },
   {
+    "repo": "dustdustry/contentseditor",
+    "internalName": "contents-editor",
+    "name": "ContentsEditor",
+    "author": "minRi2",
+    "lastUpdated": "2025-12-07T07:13:13Z",
+    "stars": 5,
+    "minGameVersion": "153",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
+  },
+  {
     "repo": "samielxd/shopsystemmod",
     "internalName": "shopsystem",
     "name": "Shop System",
@@ -4558,18 +4570,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A project that includes three planets although the two are still being worked on.\n\nThis mod has to be played on 147+\n\nRusted dunes is a type of mod that's not hard or easy and your goals are to make technology in use of eroded materials or rusted materials and produce rusted units and soon upgrade them to there potential.\n\nDunes is a wasted planet near serpulo but far from the sun, take control and provide chaos to this dead planet.\n\nQuick notes: [\nLushion is currently in WIP.\nBe sure to have weather graphics for weather's if your on a low end device turn it off.\nMake sure to reinstall regular.\nGive a star if you enjoy Thanks!!!.0\nWho ever wants to make music go to the mindustry discord then to my thread.\n}"
-  },
-  {
-    "repo": "dustdustry/contentseditor",
-    "internalName": "contents-editor",
-    "name": "ContentsEditor",
-    "author": "minRi2",
-    "lastUpdated": "2025-12-07T07:13:13Z",
-    "stars": 4,
-    "minGameVersion": "153",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
   },
   {
     "repo": "wantechfan/my-cursed-ahh-mindustry-mod",
@@ -5640,11 +5640,23 @@
     "description": "fih"
   },
   {
+    "repo": "samielxd/modinfoplus",
+    "internalName": "modinfo",
+    "name": "ModInfo+",
+    "author": "[accent]SamielXD[]",
+    "lastUpdated": "2025-12-10T08:07:15Z",
+    "stars": 3,
+    "minGameVersion": "147",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "[accent]ModInfo+ v1.1 📊✨[]\n\nTrack real-time GitHub download statistics for Mindustry mods directly in-game!\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n🌟 [accent]What is ModInfo+?[]\n\nModInfo+ is a lightweight statistics viewer that connects to GitHub's API to fetch [lime]actual download counts[] for your favorite Mindustry mods. No more guessing — see exactly how popular each mod is with [cyan]real data[].\n\nThe tracker is organized into categories and displays mods in a clean, easy-to-read interface with pagination and smart caching for optimal performance.\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n📊 [accent]Features[]\n\n[lime]✓[] Real-time GitHub statistics\n[lime]✓[] Smart 5-minute caching system\n[lime]✓[] Category-based organization (My Mods, Content Mods, Tool Mods)\n[lime]✓[] Paginated view (2 mods per page for zero lag)\n[lime]✓[] 60-second refresh cooldown\n[lime]✓[] Download counts formatted (1.2K, 3.5M, etc.)\n[lime]✓[] Release count tracking\n[lime]✓[] Cache timer display (shows time until auto-refresh)\n[lime]✓[] Color-coded status indicators\n[lime]✓[] Clean, intuitive UI with navigation\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n🎮 [accent]How to Use[]\n\n1. Click the [cyan]ModInfo+[] button in the main menu\n2. Select a category from the top tabs\n3. Browse mods (2 per page)\n4. Use [lightgray]< Prev[] and [lightgray]Next >[] to navigate\n5. Hit [accent]Refresh[] to update stats (1-minute cooldown)\n6. Watch the cache timer count down until auto-refresh\n\nYour tracked mods will load automatically with their latest GitHub data!\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n📦 [accent]Currently Tracked[]\n\n[cyan]⭐ My Mods (3)[]\n- Unit Namer Mod\n- Shop System Mod\n- ModInfo+ Mod\n\n[lime]📚 Content Mods (5)[]\n- The Infestations\n- Astralis\n- Lovecraftian Library\n- Thermal Engineering\n- Rusted Dunes\n\n[yellow]🛠️ Tool Mods (2)[]\n- Mod Tools\n- HJSON++\n\n[accent]Total: 10 mods tracked across 3 categories![]\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n📢 [accent]Help Expand the List![]\n\nThis mod is [scarlet]community-driven[]. Want to add a mod?\n\n[cyan]How to suggest a mod:[]\n- Contact me on Discord: [lime]samielkun[]\n- Open a GitHub issue with the repo link\n- Format: [lightgray]owner/repo[] (e.g., SamielXD/UnitNamerMod)\n\nIf you're a mod creator or know someone's repo, please share!\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n🔍 [accent]How It Works[]\n\nModInfo+ connects to the [cyan]GitHub API[] and fetches:\n- All releases for each tracked mod\n- Download counts for each release asset\n- Total downloads across all versions\n\n[yellow]Smart Caching System:[]\n- Stats cached for [lime]5 minutes[] per mod\n- Displays time remaining until refresh\n- Reduces API calls and improves performance\n- Manual refresh available with 60-second cooldown\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n⚠️ [accent]Important Notes[]\n\n[yellow]Accuracy Disclaimer:[]\nSome mod info may be inaccurate due to:\n- Incorrect or outdated repo links\n- Typos in owner/repo names\n- Forks instead of main repos\n- Private or deleted repositories\n\nIf you spot an error, [cyan]please report it[] so I can fix it!\n\n[yellow]Requirements:[]\n- Active internet connection\n- GitHub API access (token included)\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n📊 [accent]Tracked Statistics[]\n\nFor each mod, you'll see:\n- [lime]Total downloads[] (formatted: 1.2K, 500, 2.3M)\n- [cyan]Release count[] (how many versions published)\n- [gray]Cache status[] (time until refresh)\n- [yellow]Loading status[] (while fetching)\n- [scarlet]Error status[] (if repo fails or has no releases)\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n🔄 [accent]Caching & Refresh System[]\n\n[lime]Smart Caching:[]\n- Stats cached for [cyan]5 minutes[] per mod\n- Cache timer displays remaining time\n- Automatic refresh when cache expires\n- Separate cache for each repository\n\n[yellow]Manual Refresh:[]\n- [scarlet]60-second cooldown[] between refreshes\n- Clears all cached data\n- Reloads dialog with fresh stats\n- Shows toast notification if cooldown active\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n🎨 [accent]UI Design[]\n\n[cyan]Category Tabs[] → Switch between My Mods, Content Mods, Tool Mods\n[lime]Pagination[] → 2 mods per page for smooth scrolling\n[yellow]Color Coding[] → Cyan for my mods, white for others\n[scarlet]Status Colors[] → Yellow (loading), Lime (success), Red (failed)\n[gray]Cache Display[] → Shows time until next refresh\n[accent]Navigation[] → Disabled buttons when at page limits\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n🚀 [accent]Future Plans[]\n\n- Add more popular mods with verified repos\n- Search/filter functionality\n- Sort by downloads, releases, or alphabetically\n- Export stats to clipboard\n- Mod comparison tool\n- Historical download tracking\n- Additional categories (Utility, Graphics, PvP, etc.)\n\n[gray]Development is ongoing — stay tuned for updates![]\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n⭐ [accent]Support & Feedback[]\n\nEnjoying ModInfo+? Here's how to help:\n\n[lime]✓[] Star the GitHub repo\n[lime]✓[] Share accurate mod repos with me\n[lime]✓[] Report bugs or inaccuracies\n[lime]✓[] Suggest new features\n\n[cyan]Contact:[] Discord [lime]samielkun[] | GitHub issues\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n📜 [accent]Changelog[]\n\n[cyan]v1.1 (Current)[]\n[lime]New Features:[]\n- Smart 5-minute caching system per repository\n- Cache timer display showing time until auto-refresh\n- Added 8 new tracked mods (total: 10)\n- Reorganized into 3 categories: My Mods, Content Mods, Tool Mods\n- Improved navigation with disabled buttons at page limits\n\n[yellow]Tracked Mods Added:[]\n- The Infestations, Astralis, Lovecraftian Library\n- Thermal Engineering, Rusted Dunes\n- Mod Tools, HJSON++\n\n[lime]Performance:[]\n- Reduced API calls with intelligent caching\n- Faster load times with cached data\n- Better error handling for failed requests\n\n[cyan]v1.0 (Initial Release)[]\n[lime]Features:[]\n- Real-time GitHub statistics fetching\n- Category-based organization\n- Paginated view (2 mods per page)\n- 60-second manual refresh cooldown\n- Download count formatting (K, M)\n- Color-coded UI with status indicators\n\n[yellow]Initial Tracked Mods:[]\n- Unit Namer Mod, Shop System Mod\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n📜 [accent]Version Info[]\n\n[lightgray]Current Version:[] v1.1\n[lightgray]Mods Tracked:[] 10\n[lightgray]Categories:[] 3\n[lightgray]New Features:[] 5-minute caching system, cache timer display\n\nThanks for using ModInfo+ and helping grow the Mindustry mod community! 🎉"
+  },
+  {
     "repo": "fat-bird-owner/the-infestations",
     "internalName": "infestation",
     "name": "The Infestation",
     "author": "Fat Bird's Owner",
-    "lastUpdated": "2025-12-10T11:55:38Z",
+    "lastUpdated": "2025-12-10T13:57:02Z",
     "stars": 3,
     "minGameVersion": "153",
     "hasScripts": false,
@@ -6996,28 +7008,16 @@
     "description": "anotha planet mod\nsooooooooo\nconquest!!!\nand bring ur own music\n\n!! NOTICE:\nmajor credit to the creators of asthosus as i used the mod as a template/refrence for things\n!!"
   },
   {
-    "repo": "titanite-1574/a-new-hope",
-    "internalName": "a new hope",
-    "name": " A New Hope.",
-    "author": "Titan",
-    "lastUpdated": "2025-12-09T13:11:50Z",
+    "repo": "samielxd/unitnamermod",
+    "internalName": "unit-namer",
+    "name": "Unit Namer",
+    "author": "[#00D4FF]SamielXD[]",
+    "lastUpdated": "2025-12-10T05:49:36Z",
     "stars": 2,
-    "minGameVersion": "152.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "[#93e2ee] A mod that adds a brand new world with it's solar system"
-  },
-  {
-    "repo": "samielxd/modinfoplus",
-    "internalName": "modinfo",
-    "name": "ModInfo+",
-    "author": "[accent]SamielXD[]",
-    "lastUpdated": "2025-12-10T08:07:15Z",
-    "stars": 2,
-    "minGameVersion": "147",
+    "minGameVersion": "153",
     "hasScripts": true,
     "hasJava": false,
-    "description": "[accent]ModInfo+ v1.1 📊✨[]\n\nTrack real-time GitHub download statistics for Mindustry mods directly in-game!\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n🌟 [accent]What is ModInfo+?[]\n\nModInfo+ is a lightweight statistics viewer that connects to GitHub's API to fetch [lime]actual download counts[] for your favorite Mindustry mods. No more guessing — see exactly how popular each mod is with [cyan]real data[].\n\nThe tracker is organized into categories and displays mods in a clean, easy-to-read interface with pagination and smart caching for optimal performance.\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n📊 [accent]Features[]\n\n[lime]✓[] Real-time GitHub statistics\n[lime]✓[] Smart 5-minute caching system\n[lime]✓[] Category-based organization (My Mods, Content Mods, Tool Mods)\n[lime]✓[] Paginated view (2 mods per page for zero lag)\n[lime]✓[] 60-second refresh cooldown\n[lime]✓[] Download counts formatted (1.2K, 3.5M, etc.)\n[lime]✓[] Release count tracking\n[lime]✓[] Cache timer display (shows time until auto-refresh)\n[lime]✓[] Color-coded status indicators\n[lime]✓[] Clean, intuitive UI with navigation\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n🎮 [accent]How to Use[]\n\n1. Click the [cyan]ModInfo+[] button in the main menu\n2. Select a category from the top tabs\n3. Browse mods (2 per page)\n4. Use [lightgray]< Prev[] and [lightgray]Next >[] to navigate\n5. Hit [accent]Refresh[] to update stats (1-minute cooldown)\n6. Watch the cache timer count down until auto-refresh\n\nYour tracked mods will load automatically with their latest GitHub data!\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n📦 [accent]Currently Tracked[]\n\n[cyan]⭐ My Mods (3)[]\n- Unit Namer Mod\n- Shop System Mod\n- ModInfo+ Mod\n\n[lime]📚 Content Mods (5)[]\n- The Infestations\n- Astralis\n- Lovecraftian Library\n- Thermal Engineering\n- Rusted Dunes\n\n[yellow]🛠️ Tool Mods (2)[]\n- Mod Tools\n- HJSON++\n\n[accent]Total: 10 mods tracked across 3 categories![]\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n📢 [accent]Help Expand the List![]\n\nThis mod is [scarlet]community-driven[]. Want to add a mod?\n\n[cyan]How to suggest a mod:[]\n- Contact me on Discord: [lime]samielkun[]\n- Open a GitHub issue with the repo link\n- Format: [lightgray]owner/repo[] (e.g., SamielXD/UnitNamerMod)\n\nIf you're a mod creator or know someone's repo, please share!\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n🔍 [accent]How It Works[]\n\nModInfo+ connects to the [cyan]GitHub API[] and fetches:\n- All releases for each tracked mod\n- Download counts for each release asset\n- Total downloads across all versions\n\n[yellow]Smart Caching System:[]\n- Stats cached for [lime]5 minutes[] per mod\n- Displays time remaining until refresh\n- Reduces API calls and improves performance\n- Manual refresh available with 60-second cooldown\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n⚠️ [accent]Important Notes[]\n\n[yellow]Accuracy Disclaimer:[]\nSome mod info may be inaccurate due to:\n- Incorrect or outdated repo links\n- Typos in owner/repo names\n- Forks instead of main repos\n- Private or deleted repositories\n\nIf you spot an error, [cyan]please report it[] so I can fix it!\n\n[yellow]Requirements:[]\n- Active internet connection\n- GitHub API access (token included)\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n📊 [accent]Tracked Statistics[]\n\nFor each mod, you'll see:\n- [lime]Total downloads[] (formatted: 1.2K, 500, 2.3M)\n- [cyan]Release count[] (how many versions published)\n- [gray]Cache status[] (time until refresh)\n- [yellow]Loading status[] (while fetching)\n- [scarlet]Error status[] (if repo fails or has no releases)\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n🔄 [accent]Caching & Refresh System[]\n\n[lime]Smart Caching:[]\n- Stats cached for [cyan]5 minutes[] per mod\n- Cache timer displays remaining time\n- Automatic refresh when cache expires\n- Separate cache for each repository\n\n[yellow]Manual Refresh:[]\n- [scarlet]60-second cooldown[] between refreshes\n- Clears all cached data\n- Reloads dialog with fresh stats\n- Shows toast notification if cooldown active\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n🎨 [accent]UI Design[]\n\n[cyan]Category Tabs[] → Switch between My Mods, Content Mods, Tool Mods\n[lime]Pagination[] → 2 mods per page for smooth scrolling\n[yellow]Color Coding[] → Cyan for my mods, white for others\n[scarlet]Status Colors[] → Yellow (loading), Lime (success), Red (failed)\n[gray]Cache Display[] → Shows time until next refresh\n[accent]Navigation[] → Disabled buttons when at page limits\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n🚀 [accent]Future Plans[]\n\n- Add more popular mods with verified repos\n- Search/filter functionality\n- Sort by downloads, releases, or alphabetically\n- Export stats to clipboard\n- Mod comparison tool\n- Historical download tracking\n- Additional categories (Utility, Graphics, PvP, etc.)\n\n[gray]Development is ongoing — stay tuned for updates![]\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n⭐ [accent]Support & Feedback[]\n\nEnjoying ModInfo+? Here's how to help:\n\n[lime]✓[] Star the GitHub repo\n[lime]✓[] Share accurate mod repos with me\n[lime]✓[] Report bugs or inaccuracies\n[lime]✓[] Suggest new features\n\n[cyan]Contact:[] Discord [lime]samielkun[] | GitHub issues\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n📜 [accent]Changelog[]\n\n[cyan]v1.1 (Current)[]\n[lime]New Features:[]\n- Smart 5-minute caching system per repository\n- Cache timer display showing time until auto-refresh\n- Added 8 new tracked mods (total: 10)\n- Reorganized into 3 categories: My Mods, Content Mods, Tool Mods\n- Improved navigation with disabled buttons at page limits\n\n[yellow]Tracked Mods Added:[]\n- The Infestations, Astralis, Lovecraftian Library\n- Thermal Engineering, Rusted Dunes\n- Mod Tools, HJSON++\n\n[lime]Performance:[]\n- Reduced API calls with intelligent caching\n- Faster load times with cached data\n- Better error handling for failed requests\n\n[cyan]v1.0 (Initial Release)[]\n[lime]Features:[]\n- Real-time GitHub statistics fetching\n- Category-based organization\n- Paginated view (2 mods per page)\n- 60-second manual refresh cooldown\n- Download count formatting (K, M)\n- Color-coded UI with status indicators\n\n[yellow]Initial Tracked Mods:[]\n- Unit Namer Mod, Shop System Mod\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n📜 [accent]Version Info[]\n\n[lightgray]Current Version:[] v1.1\n[lightgray]Mods Tracked:[] 10\n[lightgray]Categories:[] 3\n[lightgray]New Features:[] 5-minute caching system, cache timer display\n\nThanks for using ModInfo+ and helping grow the Mindustry mod community! 🎉"
+    "description": "[accent] [#FFD700]Unit Namer v1.1[] - Give Your Units Personality!\n\n[white]Transform your gameplay by naming every unit with custom names, colors, and icons that follow them across the battlefield. Perfect for organizing squads, tracking favorites, or just having fun![]\n\n[gray]Note: Still in beta, expect some bugs. Avoid clicking \"Reset to Default\" - it's currently bugged.[]\n\n[accent] [#00D4FF]✨ New in v1.1:[]\n[lime]• Icon System - Add symbols to your unit names[]\n[lime]• Name Packs - Browse preset name collections[]\n[lime]• Backup System - Save and restore your collections (3 slots)[]\n[lime]• Smart Alerts - Get notified when named units are low health[]\n[lime]• Tutorial System - Interactive guide for new users[]\n[lime]• Name Validation - Auto-capitalize and content filtering[]\n[lime]• Export/Import - Share your naming collections[]\n\n[accent] [#FFD700]Core Features:[]\n[white]• Tap any unit to open the rename menu[]\n[white]• Custom names with 12 vibrant colors[]\n[white]• 16 symbols to personalize your units (⚔️, ⚡, ★, etc.)[]\n[white]• Names float above units[]\n[white]• Names persist as long as the unit lives[]\n[white]• Quick names menu with templates and history[]\n[white]• Adjustable name size (10-90)[]\n[white]• Filter: Show only your team's units[]\n[white]• Auto-save every 10 seconds[]\n\n[accent] [#00D4FF]How to Use:[]\n[#BFBFBF]1. Tap on any unit in the game[]\n[#BFBFBF]2. Choose from rename, color, icon, or quick names[]\n[#BFBFBF]3. Enter your custom name (auto-capitalizes)[]\n[#BFBFBF]4. Watch your personalized unit in action![]\n\n[accent] [#FFD700]Pro Tips:[]\n[white]• Use military names for tank squadrons (Alpha, Bravo, Charlie)[]\n[white]• Track powerful units with star symbols ★[]\n[white]• Organize attack groups with themed colors[]\n[white]• Save backups before risky missions[]\n[white]• Check settings for alerts and customization[]\n[white]• Export your collection to share with friends![]\n\n[accent] [#00D4FF]Quick Names Templates:[]\n[white]Scout • Guard • Attack • Defense • Support[]\n\n[accent] [#FFD700]Name Pack Themes:[]\n[red]⚔️ Military[] [blue]🔢 Numbers[] [green]🎨 Colors[] [yellow]⚙️ Roles[] [cyan]🌊 Nature[]\n\n[accent] [#00D4FF]Settings Menu Options:[]\n[white]• Enable/Disable the mod[]\n[white]• Show only your team's units[]\n[white]• Auto-capitalize names[]\n[white]• Health alerts on/off[]\n[white]• Name size slider (10-90)[]\n[white]• Tutorial toggle[]\n[white]• Backup management (3 slots)[]\n[white]• Name pack browser[]\n[white]• Export/Import system[]\n\n[gray]Report bugs or suggest features on GitHub[]"
   },
   {
     "repo": "rodrigoasfr24022003/rodrigonia-mod",
@@ -7030,6 +7030,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "My planet mod for Mindustry. Heavily unfinished.\nThe latest BE build is required for the mod to work.\nMeowkitty contributed with sprites and maps for this mod.\n\nCredits go the the rest of the MoreDefences team for their code, LixieWulf for Allure's planet code (which I modified to make the planet) and Catana791 for some bits of code from Asthosus used in my crafting blocks."
+  },
+  {
+    "repo": "titanite-1574/a-new-hope",
+    "internalName": "a new hope",
+    "name": " A New Hope.",
+    "author": "Titan",
+    "lastUpdated": "2025-12-10T13:26:48Z",
+    "stars": 2,
+    "minGameVersion": "152.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "[#93e2ee] A mod that adds a brand new world with it's solar system"
   },
   {
     "repo": "teaeempire/gghv7",
@@ -9048,30 +9060,6 @@
     "description": "pls turn on the mod to know more about it"
   },
   {
-    "repo": "dimon112/sand-storm-mindustry",
-    "internalName": "sand stormv2",
-    "name": "sand-storm-mindustry",
-    "author": "dimon",
-    "lastUpdated": "2025-12-09T23:17:25Z",
-    "stars": 1,
-    "minGameVersion": "144",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "this mod adds new planet with blocks, items, units and will continue to be updated, which i hope is actually true"
-  },
-  {
-    "repo": "samielxd/unitnamermod",
-    "internalName": "unit-namer",
-    "name": "Unit Namer",
-    "author": "[#00D4FF]SamielXD[]",
-    "lastUpdated": "2025-12-10T05:49:36Z",
-    "stars": 1,
-    "minGameVersion": "153",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "[accent] [#FFD700]Unit Namer v1.1[] - Give Your Units Personality!\n\n[white]Transform your gameplay by naming every unit with custom names, colors, and icons that follow them across the battlefield. Perfect for organizing squads, tracking favorites, or just having fun![]\n\n[gray]Note: Still in beta, expect some bugs. Avoid clicking \"Reset to Default\" - it's currently bugged.[]\n\n[accent] [#00D4FF]✨ New in v1.1:[]\n[lime]• Icon System - Add symbols to your unit names[]\n[lime]• Name Packs - Browse preset name collections[]\n[lime]• Backup System - Save and restore your collections (3 slots)[]\n[lime]• Smart Alerts - Get notified when named units are low health[]\n[lime]• Tutorial System - Interactive guide for new users[]\n[lime]• Name Validation - Auto-capitalize and content filtering[]\n[lime]• Export/Import - Share your naming collections[]\n\n[accent] [#FFD700]Core Features:[]\n[white]• Tap any unit to open the rename menu[]\n[white]• Custom names with 12 vibrant colors[]\n[white]• 16 symbols to personalize your units (⚔️, ⚡, ★, etc.)[]\n[white]• Names float above units[]\n[white]• Names persist as long as the unit lives[]\n[white]• Quick names menu with templates and history[]\n[white]• Adjustable name size (10-90)[]\n[white]• Filter: Show only your team's units[]\n[white]• Auto-save every 10 seconds[]\n\n[accent] [#00D4FF]How to Use:[]\n[#BFBFBF]1. Tap on any unit in the game[]\n[#BFBFBF]2. Choose from rename, color, icon, or quick names[]\n[#BFBFBF]3. Enter your custom name (auto-capitalizes)[]\n[#BFBFBF]4. Watch your personalized unit in action![]\n\n[accent] [#FFD700]Pro Tips:[]\n[white]• Use military names for tank squadrons (Alpha, Bravo, Charlie)[]\n[white]• Track powerful units with star symbols ★[]\n[white]• Organize attack groups with themed colors[]\n[white]• Save backups before risky missions[]\n[white]• Check settings for alerts and customization[]\n[white]• Export your collection to share with friends![]\n\n[accent] [#00D4FF]Quick Names Templates:[]\n[white]Scout • Guard • Attack • Defense • Support[]\n\n[accent] [#FFD700]Name Pack Themes:[]\n[red]⚔️ Military[] [blue]🔢 Numbers[] [green]🎨 Colors[] [yellow]⚙️ Roles[] [cyan]🌊 Nature[]\n\n[accent] [#00D4FF]Settings Menu Options:[]\n[white]• Enable/Disable the mod[]\n[white]• Show only your team's units[]\n[white]• Auto-capitalize names[]\n[white]• Health alerts on/off[]\n[white]• Name size slider (10-90)[]\n[white]• Tutorial toggle[]\n[white]• Backup management (3 slots)[]\n[white]• Name pack browser[]\n[white]• Export/Import system[]\n\n[gray]Report bugs or suggest features on GitHub[]"
-  },
-  {
     "repo": "xavierisdeadasheck15/interstellar-spaceline",
     "internalName": "interstellar-spaceline",
     "name": "Interstellar Spaceline",
@@ -9082,6 +9070,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Cultivation of Mod Project i made, And the Predecessor of Lasertech Mod, this Mod Focus on the Inspiration of TDX, Helldiver 2, and More"
+  },
+  {
+    "repo": "dimon112/sand-storm-mindustry",
+    "internalName": "sand stormv2",
+    "name": "sand-storm-mindustry",
+    "author": "dimon",
+    "lastUpdated": "2025-12-10T12:57:52Z",
+    "stars": 1,
+    "minGameVersion": "144",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "this mod adds new planet with blocks, items, units and will continue to be updated, which i hope is actually true \n[accent]special thanks to: Blehhhh cat[]"
   },
   {
     "repo": "exxleo/exoterusmod",
@@ -11700,27 +11700,27 @@
     "description": "Mindustry: Evil Edition"
   },
   {
-    "repo": "theerawate/anser-jua",
-    "internalName": "anser jua help item",
-    "name": "Anser Jua Help item",
-    "author": "Jua",
-    "lastUpdated": "2025-12-10T07:52:06Z",
-    "stars": 0,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\n\n I have dizzy from Item line , complicated power plan , complicated factory and CoreBase .\n This for help for easy way to play .\n Enjoy , Good mood , Good Luck\n \n Jua\n\n copy some part from Anser erekir , Anser serpulo , \n\n "
-  },
-  {
     "repo": "seraphalim4404/serpulo-definition",
     "internalName": "serpulo-definition",
     "name": "Serpulo: Augmented Definition",
     "author": "Seraphim4404",
-    "lastUpdated": "2025-12-10T11:51:51Z",
+    "lastUpdated": "2025-12-10T13:09:28Z",
     "stars": 0,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
     "description": "[purple]<WARNING>\nTHIS MOD IS IN BETA\n\n\n[red]This is a mod that is a remake or enhancing serpulo for fun with additions to various turrets and units, sometimes with a rebalance.\n\n[white]A mod that enhances serpulo by adding more ammunitions to turrets as well as enhancing the units. This is not intended to be for an actual rebalance mod."
+  },
+  {
+    "repo": "theerawate/anser-jua",
+    "internalName": "anser jua help item",
+    "name": "Anser Jua Help item",
+    "author": "Jua",
+    "lastUpdated": "2025-12-10T13:43:37Z",
+    "stars": 0,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\n\n I have dizzy from Item line , complicated power plan , complicated factory and CoreBase .\n This for help for easy way to play .\n Enjoy , Good mood , Good Luck\n \n Jua\n\n copy some part from Anser erekir , Anser serpulo , \n\n "
   }
 ]
