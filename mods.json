@@ -88,7 +88,7 @@
     "internalName": "mindustry-tool",
     "name": "Mindustry Tool",
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2025-12-18T07:29:22Z",
+    "lastUpdated": "2025-12-18T13:16:14Z",
     "stars": 177,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1260,18 +1260,6 @@
     "description": "A mod with ambitious goals, and a fresh start. Incomplete, still in pre-pre-alpha."
   },
   {
-    "repo": "mindustrydesignit/schematic-browser-mod",
-    "internalName": "schematic-browser",
-    "name": "Schematic Browser",
-    "author": "SByte, Eeve-lyn, zxtej",
-    "lastUpdated": "2025-05-02T20:48:20Z",
-    "stars": 16,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod for browsing schematic repositories."
-  },
-  {
     "repo": "itzcraft/hjsonpp",
     "internalName": "hjsonpp",
     "name": "hjson++",
@@ -1282,6 +1270,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds some new additional classes to help hjson modders. \nNote: this a library. Not playable mod."
+  },
+  {
+    "repo": "mindustrydesignit/schematic-browser-mod",
+    "internalName": "schematic-browser",
+    "name": "Schematic Browser",
+    "author": "SByte, Eeve-lyn, zxtej",
+    "lastUpdated": "2025-12-18T12:25:30Z",
+    "stars": 16,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod for browsing schematic repositories."
   },
   {
     "repo": "mythril382/roombas",
@@ -2328,7 +2328,7 @@
     "description": "Add something helpful for vanilla. Also have some better UI.\n\n- Coreitem display for mobile.\n- Unit conter display.\n- Time control.\n- Some change for vanilla (see in setting, default is off):\n+ Bigger vault, container and vault in Erekir.\n+ Bigger range for override dome, 200% speed up.\n+ Force projector have more shield health.\n- Auto update.\n- New contents as well:\n+ Thorium / surge conveyor (serpulo)\n+ Some storage blocks\n+ \"T6\" units\n- Aslo make some hidden contents available\n\nWarning: The mod under development, any contributions would be gratefully appreciated. See github for more details."
   },
   {
-    "repo": "paulieg626/admintool",
+    "repo": "oleglysukhin/admintool",
     "internalName": "admintool",
     "name": "AdminTool",
     "author": "oleglysukhin",
@@ -4524,18 +4524,6 @@
     "description": "DISCLAIMER!!!: please use the install with version button and NOT the install button!!!! the version displayed is outdated majority of the time!!\n\nBuffs the Alpha and Evoke units so its better to stay on the Shard or Bastion core (smallest ones),\nAdds a TON of HP to the Alpha and Evoke,\nChanged bullet to Fire bullet for the Alpha (shard and bastion core has alot of hp),\nMining Speed, Item capacity is also Improved,\nHave a good day!\nthe Duo and Scatter turrets are also Buffed\nCopper walls are now the best defense in the game\nthe Mechanical Drill is also the best Drill and can mine anything\nand the Plasma Bore and Impact Drill has been buffed\nNormal Conveyors are also the best along with Ducts.\nMenders are WAAAAAAAAAAAAAAAAAAAAAY better than mend projectors now\n\nIt's my First Mod\nMay have some bugs so please tell me any and also tell me code improvements :D\n\nFeel free to use this as a base or reference for your mods. (maybe not base)"
   },
   {
-    "repo": "wantechfan/mindustry-mod-some-musics",
-    "internalName": "cool-musics",
-    "name": "Cool Musics",
-    "author": "WantechFan",
-    "lastUpdated": "2025-11-19T12:35:15Z",
-    "stars": 4,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Replaces every single musics ingame with some cool and nostalgic musics I took from YouTube. Please leave a star in the repository if you like it."
-  },
-  {
     "repo": "wmf-industries/neonnights2",
     "internalName": "neonnights 2",
     "name": "NeonNights 2",
@@ -4572,11 +4560,23 @@
     "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry Versi 7 Build 146[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• Kevin Vilyan - Kenny\n• WilloIzCitron - William A\n• SAMBUYYA\n\n[accent]Anggota - Pensiun:[gray]\n• Korxopid\n• TheMrAlbert\n• GrimSoul\n\n[scarlet]Tidak dianjurkan untuk digunakan di Versi 8 !!!"
   },
   {
+    "repo": "wantechfan/my-cursed-ahh-mindustry-mod",
+    "internalName": "cursed-bundles",
+    "name": "Cursed Bundles",
+    "author": "WantechFan",
+    "lastUpdated": "2025-12-18T13:03:57Z",
+    "stars": 4,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod is also modifiy ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request[]."
+  },
+  {
     "repo": "fat-bird-owner/the-infestations",
     "internalName": "infestation",
     "name": "The Infestation",
     "author": "\nFat Bird's Owner - Creator\nLJ - Some sprites\n",
-    "lastUpdated": "2025-12-18T08:12:06Z",
+    "lastUpdated": "2025-12-18T13:20:30Z",
     "stars": 4,
     "minGameVersion": "153",
     "hasScripts": false,
@@ -4584,16 +4584,16 @@
     "description": "\n\n[lightgrey]\nA mod inspired by neoplasm and the creeper world series.\n[accent]\nfeaturing 30+ buildings with two barely finished planets.\nThere is only 1 act as of now.\n\n[]\nThanks for playing.\n:)\n\n[accent]\nIf you like this mod please show support by giving a star in the github.\n\n"
   },
   {
-    "repo": "wantechfan/my-cursed-ahh-mindustry-mod",
-    "internalName": "cursed-bundles",
-    "name": "Cursed Bundles",
+    "repo": "wantechfan/mindustry-mod-some-musics",
+    "internalName": "cool-musics",
+    "name": "Cool Musics",
     "author": "WantechFan",
-    "lastUpdated": "2025-12-18T12:14:48Z",
+    "lastUpdated": "2025-12-18T13:36:13Z",
     "stars": 4,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
-    "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod is also modifiy ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request[]."
+    "description": "Replaces every single musics ingame with some cool and nostalgic musics I took from YouTube. Please leave a star in the repository if you like it."
   },
   {
     "repo": "mythril382/u-r-a-i-c",
@@ -9148,9 +9148,9 @@
     "internalName": "apolotus",
     "name": "Apolotus",
     "author": "Tweu(Yt:R99_99,Dc:Tinnphat) and Lucas(Dc:MicroProcessor)",
-    "lastUpdated": "2025-12-17T13:31:37Z",
+    "lastUpdated": "2025-12-18T13:21:44Z",
     "stars": 1,
-    "minGameVersion": "153",
+    "minGameVersion": "154.2",
     "hasScripts": false,
     "hasJava": false,
     "description": "If you like the mod, please star on github!\n↓↓ Still wip ↓↓\nadd new solar system called Apolotus\na system that have planet-?̴̱͈͆?̸̟̾̓?̴͍̾̊ That seem spreading and growing?\nThe Organization Have sent 7(?) ships and your mission is find them all."
@@ -11794,5 +11794,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod about storms and power"
+  },
+  {
+    "repo": "zinwire/mine-dust",
+    "internalName": "md",
+    "name": "Mine Dust",
+    "author": "mamasha",
+    "lastUpdated": "2025-12-18T12:55:53Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Vanila+ type mod\nHis telegram: https://t.me/+4rPeX3SZMnxlMDdi"
   }
 ]
