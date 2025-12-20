@@ -88,8 +88,8 @@
     "internalName": "mindustry-tool",
     "name": "Mindustry Tool",
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2025-12-20T13:24:50Z",
-    "stars": 178,
+    "lastUpdated": "2025-12-20T15:58:49Z",
+    "stars": 179,
     "minGameVersion": "154.2",
     "hasScripts": false,
     "hasJava": true,
@@ -2088,18 +2088,6 @@
     "description": "Meet shards\nShards is located far away from the sun and is basically frozen with tiny bugs of radiation.\nAlthough this planet has units, most of the time you'll be fighting walking mushrooms which is infected by lushion and droxium.\nThis mod is also filled with random stuff and after the fifth sector it's basically unplayable as it'll be unbalanced.\nAlso I'm actively reworking every sector.\nNote that kjol and cold moon is being removed and is rather be kept as a normal moon."
   },
   {
-    "repo": "430230562/vanilla-neoplasm-extend",
-    "internalName": "vne",
-    "name": "Vanilla Neoplasm Extend",
-    "author": "pardon",
-    "lastUpdated": "2025-12-14T15:11:15Z",
-    "stars": 10,
-    "minGameVersion": "153",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Do you think the original neoplasm solution, burned in a slag pool, is a too singular; Such biologically active materials should have other uses: as ammunition, synthesizing new materials, and even building their own biological armies... Please unleash your imagination to the fullest \n\n You can't wait any longer？ Let's embark on this bloody journey"
-  },
-  {
     "repo": "chaoticans-mindustry-modding-team/new-content",
     "internalName": "newunits",
     "name": "New Content",
@@ -2110,6 +2098,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "My first mod! It adds in a lot of new vanilla branches, but I'll leave you to finding out what those are.\nThanks to my spriter Aegires for making some of theese awesome sprites!\n\nThis mod is very ambitious. And unfinished. I'm probably going to add new planets. One is already in the works.\n\nAs of Version 7x1, the mod's custom and new music has been moved to Chaoticans-mindustry-modding-team/New-Content-Music."
+  },
+  {
+    "repo": "430230562/vanilla-neoplasm-extend",
+    "internalName": "vne",
+    "name": "Vanilla Neoplasm Extend",
+    "author": "pardon",
+    "lastUpdated": "2025-12-20T14:47:17Z",
+    "stars": 10,
+    "minGameVersion": "153",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Do you think the original neoplasm solution, burned in a slag pool, is a too singular; Such biologically active materials should have other uses: as ammunition, synthesizing new materials, and even building their own biological armies... Please unleash your imagination to the fullest \n\n You can't wait any longer？ Let's embark on this bloody journey"
   },
   {
     "repo": "deltanedas/mobile-ui",
@@ -4612,7 +4612,7 @@
     "internalName": "infestation",
     "name": "The Infestation",
     "author": "\nFat Bird's Owner - Creator\nLJ - Some sprites\n",
-    "lastUpdated": "2025-12-20T13:57:44Z",
+    "lastUpdated": "2025-12-20T14:22:43Z",
     "stars": 4,
     "minGameVersion": "153",
     "hasScripts": false,
@@ -9156,6 +9156,18 @@
     "description": "A basic SLF4J implementation for Mindustry."
   },
   {
+    "repo": "redloong9527/logic-chinese-localization",
+    "internalName": "logicchineselocalization",
+    "name": "逻辑汉化补丁v1.1.2",
+    "author": "redloong9527",
+    "lastUpdated": "2025-12-20T14:27:16Z",
+    "stars": 1,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "给逻辑处理器界面里的部分词条添加了中文悬停提示框"
+  },
+  {
     "repo": "exxleo/exoterusmod",
     "internalName": "exoterus-mod",
     "name": "Exoterus",
@@ -11736,18 +11748,6 @@
     "description": "OBJECT: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech that makes manufacturing realistic and even harder.\nPart of Lovecraftian series, you will need Lovecraftian Library and Lovecraftian Laboratory to load the mod correctly.\nWarning: recipe hell ahead!"
   },
   {
-    "repo": "zinwire/mine-dust",
-    "internalName": "md",
-    "name": "Mine Dust",
-    "author": "mamasha",
-    "lastUpdated": "2025-12-18T15:36:48Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Vanila+ type mod\nHis telegram: https://t.me/MineDustMod"
-  },
-  {
     "repo": "seraphalim4404/serpulo-definition",
     "internalName": "serpulo-definition",
     "name": "Serpulo: Augmented Definition",
@@ -11808,15 +11808,15 @@
     "description": "\n\n I have dizzy from Item line , complicated power plan , complicated factory and CoreBase .\n This for help for easy way to play .\n Enjoy , Good mood , Good Luck\n \n Jua\n\n copy some part from Anser erekir , Anser serpulo , \n\n "
   },
   {
-    "repo": "redloong9527/logic-chinese-localization",
-    "internalName": "logicchineselocalization",
-    "name": "逻辑汉化补丁v1.1.1",
-    "author": "redloong9527",
-    "lastUpdated": "2025-12-20T13:13:49Z",
+    "repo": "zinwire/mine-dust",
+    "internalName": "md",
+    "name": "Mine Dust",
+    "author": "mamasha",
+    "lastUpdated": "2025-12-20T14:50:24Z",
     "stars": 0,
-    "minGameVersion": "147",
+    "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
-    "description": "给逻辑处理器添加了中文词条"
+    "description": "Vanila+ type mod\nHis telegram: https://t.me/MineDustMod"
   }
 ]
