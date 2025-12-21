@@ -4,7 +4,7 @@
     "internalName": "new-horizon",
     "name": "New Horizon",
     "author": "Yuria & Lao",
-    "lastUpdated": "2025-12-20T11:54:36Z",
+    "lastUpdated": "2025-12-21T18:31:47Z",
     "stars": 507,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -88,7 +88,7 @@
     "internalName": "mindustry-tool",
     "name": "Mindustry Tool",
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2025-12-21T09:18:33Z",
+    "lastUpdated": "2025-12-21T19:14:50Z",
     "stars": 179,
     "minGameVersion": "154.2",
     "hasScripts": false,
@@ -904,7 +904,7 @@
     "internalName": "echo-fleet",
     "name": "Echo Fleet",
     "author": "Dev - Blehhhh cat\nContributors - Kamikazefoxmk.i, Tinport, Aerodynamic Attorney \nMusic Composer - Ace1020spawn",
-    "lastUpdated": "2025-12-21T11:05:12Z",
+    "lastUpdated": "2025-12-21T19:53:16Z",
     "stars": 23,
     "minGameVersion": "153",
     "hasScripts": true,
@@ -2616,6 +2616,18 @@
     "description": "Arikoth mod, wip."
   },
   {
+    "repo": "dustdustry/patcheditor",
+    "internalName": "patch-editor",
+    "name": "PatchEditor",
+    "author": "minRi2",
+    "lastUpdated": "2025-12-21T10:44:51Z",
+    "stars": 8,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
+  },
+  {
     "repo": "samielxd/shopsystemmod",
     "internalName": "shopsystem",
     "name": "Shop System",
@@ -2974,18 +2986,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds a dialog for turning images into schematics"
-  },
-  {
-    "repo": "dustdustry/patcheditor",
-    "internalName": "patch-editor",
-    "name": "PatchEditor",
-    "author": "minRi2",
-    "lastUpdated": "2025-12-21T10:44:51Z",
-    "stars": 7,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
   },
   {
     "repo": "acookieg/carbon-vanilla",
@@ -7044,18 +7044,6 @@
     "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
-    "repo": "dimon112/sand-storm-mindustry",
-    "internalName": "sand stormv2",
-    "name": "sand-storm-mindustry",
-    "author": "dimon",
-    "lastUpdated": "2025-12-18T16:29:18Z",
-    "stars": 2,
-    "minGameVersion": "144",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "this mod adds new planet with blocks, items, units and will continue to be updated, which i hope is actually true \n[accent]special thanks to: Blehhhh cat[]"
-  },
-  {
     "repo": "m-e-l-i-s/silviriumjava",
     "internalName": "sli",
     "name": "Silvirium",
@@ -7116,11 +7104,23 @@
     "description": "[accent] [#FFD700]Unit Namer v1.1[] - Give Your Units Personality!\n\n[white]Transform your gameplay by naming every unit with custom names, colors, and icons that follow them across the battlefield. Perfect for organizing squads, tracking favorites, or just having fun![]\n\n[gray]Note: Still in beta, expect some bugs. Avoid clicking \"Reset to Default\" - it's currently bugged.[]\n\n[accent] [#00D4FF]✨ New in v1.1:[]\n[lime]• Icon System - Add symbols to your unit names[]\n[lime]• Name Packs - Browse preset name collections[]\n[lime]• Backup System - Save and restore your collections (3 slots)[]\n[lime]• Smart Alerts - Get notified when named units are low health[]\n[lime]• Tutorial System - Interactive guide for new users[]\n[lime]• Name Validation - Auto-capitalize and content filtering[]\n[lime]• Export/Import - Share your naming collections[]\n\n[accent] [#FFD700]Core Features:[]\n[white]• Tap any unit to open the rename menu[]\n[white]• Custom names with 12 vibrant colors[]\n[white]• 16 symbols to personalize your units (⚔️, ⚡, ★, etc.)[]\n[white]• Names float above units[]\n[white]• Names persist as long as the unit lives[]\n[white]• Quick names menu with templates and history[]\n[white]• Adjustable name size (10-90)[]\n[white]• Filter: Show only your team's units[]\n[white]• Auto-save every 10 seconds[]\n\n[accent] [#00D4FF]How to Use:[]\n[#BFBFBF]1. Tap on any unit in the game[]\n[#BFBFBF]2. Choose from rename, color, icon, or quick names[]\n[#BFBFBF]3. Enter your custom name (auto-capitalizes)[]\n[#BFBFBF]4. Watch your personalized unit in action![]\n\n[accent] [#FFD700]Pro Tips:[]\n[white]• Use military names for tank squadrons (Alpha, Bravo, Charlie)[]\n[white]• Track powerful units with star symbols ★[]\n[white]• Organize attack groups with themed colors[]\n[white]• Save backups before risky missions[]\n[white]• Check settings for alerts and customization[]\n[white]• Export your collection to share with friends![]\n\n[accent] [#00D4FF]Quick Names Templates:[]\n[white]Scout • Guard • Attack • Defense • Support[]\n\n[accent] [#FFD700]Name Pack Themes:[]\n[red]⚔️ Military[] [blue]🔢 Numbers[] [green]🎨 Colors[] [yellow]⚙️ Roles[] [cyan]🌊 Nature[]\n\n[accent] [#00D4FF]Settings Menu Options:[]\n[white]• Enable/Disable the mod[]\n[white]• Show only your team's units[]\n[white]• Auto-capitalize names[]\n[white]• Health alerts on/off[]\n[white]• Name size slider (10-90)[]\n[white]• Tutorial toggle[]\n[white]• Backup management (3 slots)[]\n[white]• Name pack browser[]\n[white]• Export/Import system[]\n\n[gray]Report bugs or suggest features on GitHub[]"
   },
   {
+    "repo": "dimon112/sand-storm-mindustry",
+    "internalName": "sand stormv2",
+    "name": "sand-storm-mindustry",
+    "author": "dimon",
+    "lastUpdated": "2025-12-21T18:45:12Z",
+    "stars": 2,
+    "minGameVersion": "144",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "this mod adds new planet with blocks, items, units and will continue to be updated, which i hope is actually true \n[accent]special thanks to: Blehhhh cat[]"
+  },
+  {
     "repo": "oleksiy1409liut/factorio-space-exploration",
     "internalName": "factorio-se-k2",
     "name": "space exploration",
     "author": "minos prime ultrakill",
-    "lastUpdated": "2025-12-21T17:45:41Z",
+    "lastUpdated": "2025-12-21T20:00:51Z",
     "stars": 2,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -9178,6 +9178,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A JavaScript library for my other mods."
+  },
+  {
+    "repo": "somenamemindustry/mody",
+    "internalName": "mm",
+    "name": "My first moddy mod",
+    "author": "justcallmejust",
+    "lastUpdated": "2025-12-21T19:53:07Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "My first mod so far, currently has not much to it,\nAdds balista tower"
   },
   {
     "repo": "exxleo/exoterusmod",
