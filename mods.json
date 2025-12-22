@@ -1464,18 +1464,6 @@
     "description": "adds stuff to erekir"
   },
   {
-    "repo": "gmugxd/qr-mod",
-    "internalName": "camod",
-    "name": "Quantum Realm Mod",
-    "author": "\nAdrift - Main Dev\nXaoc - Original Mod\nT4SC, 4.b1, Hurb - Major help with everything\nMolten - Major help with effects and units\nHanLarence, petal - Major help with sprites and more\nClick, Hurb, Nameless - Minor help with sprites and ideas\nEris - Troubleshooting",
-    "lastUpdated": "2025-11-02T05:40:15Z",
-    "stars": 14,
-    "minGameVersion": "143",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Your schemes and saves are prone to corruption. Export your data before updating.\n\nAn extremely large mod solely dedicated for mindustry roleplaying and builds alike.\n\nQRM V7.1 aims to fix most of the bugs found after v7's release.\nQRM v7 Changelog:\nAdded\n- Beveled sorters, Highlighted sorters, and Unloader Two chiseled sets\n- Way, way more chiseled diagonal variants \n- Chiseled diagonal duct router and bezeled sets\n- Hazel, Tyrian, Royal, Terracotta, Pale, Graphene Walls\n- Ash and Alternate sand and red sand env walls \n- RGBCMY + White, Black Overlay floors\n- CMY, Sorter gray + Source yellow floors\n- Thunder, Windstorm, Thunderstorm, Rain and Ping SFX blocks\n- Void messages\n- Vials readded\n- Message blocks that look like RP books\n- [WIP] Particle gen with changeable colours via ammo\n- Powerline Blockers (invisible plast walls)\n- Arrow block that looks like a logic block (Path Cell)\n- Ritual circles\n\nFixed\n- Large slate message being omega\n- Flat surge router is flat unloader\n- Stone colour walls being named snow\n- Cruiser being implemented\n- Slower emanates\n- All unit building\n- Rocky en stairs being offset\n- Config mender now a unloader\n- Config nodes having glow\n- Unloader two a sorter now\n- Revert noise sorter changes, now unlegacy'd\n\nQRM v7.1 Changelog\nFixed\n- Bezeled chiseled side-line being offset\n- Transperant, white, black item source having the wrong name\n- Liquid router source not having a texture\n- Particle generators not being invisible \n- Normal, inverted, highlight, bezel, spectral, source centered corners, diagonal router corner 3 being offset\n- Config stuff not being flat\n- Sorter gray colour 5 being olive\n- Open Item Vial not being able to rotate\n- Full liquid vials being able to rotate, even they can't visually\n- Books resprite\n\nAdded\n- Borderless item source (for SFX turrets)\n- Flat beveled, highlight sorters\n- More books\n- Duct router catears\n\nRemoved\n- Extra surge router slope corner\n\nVersion v7.1 "
-  },
-  {
     "repo": "valigaming15/pyra-erekir",
     "internalName": "pyra",
     "name": "Pyra Erekir",
@@ -1522,6 +1510,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "1.从蓝图详情页直接复制逻辑和信息板。2.蓝图消耗计算套件。\nCopy processor/message in schematic info without placing it. Schematic consumption computing tool. \nGithub: BlackDeluxeCat/SchematicParse"
+  },
+  {
+    "repo": "gmugxd/qr-mod",
+    "internalName": "camod",
+    "name": "Quantum Realm Mod",
+    "author": "\nAdrift - Main Dev\nXaoc - Original Mod\nT4SC, 4.b1, Hurb - Major help with everything\nMolten - Major help with effects and units\nHanLarence, petal - Major help with sprites and more\nClick, Hurb, Nameless - Minor help with sprites and ideas\nEris - Troubleshooting",
+    "lastUpdated": "2025-12-22T13:30:50Z",
+    "stars": 14,
+    "minGameVersion": "143",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Your schemes and saves are prone to corruption. Export your data before updating.\n\nAn extremely large mod solely dedicated for mindustry roleplaying and builds alike.\n\nQRM V7.1 aims to fix most of the bugs found after v7's release.\nQRM v7 Changelog:\nAdded\n- Beveled sorters, Highlighted sorters, and Unloader Two chiseled sets\n- Way, way more chiseled diagonal variants \n- Chiseled diagonal duct router and bezeled sets\n- Hazel, Tyrian, Royal, Terracotta, Pale, Graphene Walls\n- Ash and Alternate sand and red sand env walls \n- RGBCMY + White, Black Overlay floors\n- CMY, Sorter gray + Source yellow floors\n- Thunder, Windstorm, Thunderstorm, Rain and Ping SFX blocks\n- Void messages\n- Vials readded\n- Message blocks that look like RP books\n- [WIP] Particle gen with changeable colours via ammo\n- Powerline Blockers (invisible plast walls)\n- Arrow block that looks like a logic block (Path Cell)\n- Ritual circles\n\nFixed\n- Large slate message being omega\n- Flat surge router is flat unloader\n- Stone colour walls being named snow\n- Cruiser being implemented\n- Slower emanates\n- All unit building\n- Rocky en stairs being offset\n- Config mender now a unloader\n- Config nodes having glow\n- Unloader two a sorter now\n- Revert noise sorter changes, now unlegacy'd\n\nQRM v7.1 Changelog\nFixed\n- Bezeled chiseled side-line being offset\n- Transperant, white, black item source having the wrong name\n- Liquid router source not having a texture\n- Particle generators not being invisible \n- Normal, inverted, highlight, bezel, spectral, source centered corners, diagonal router corner 3 being offset\n- Config stuff not being flat\n- Sorter gray colour 5 being olive\n- Open Item Vial not being able to rotate\n- Full liquid vials being able to rotate, even they can't visually\n- Books resprite\n\nAdded\n- Borderless item source (for SFX turrets)\n- Flat beveled, highlight sorters\n- More books\n- Duct router catears\n\nRemoved\n- Extra surge router slope corner\n\nVersion v7.1 "
   },
   {
     "repo": "shadowpazzo99/shadowdustry",
@@ -1644,18 +1644,6 @@
     "description": "⚠ВНИМАНИЕ!⚠\nПри удалении схемпака, теги остаются.\n Данный мод добавляет ОГРОМНУЮ КУЧУ схем на любой вкус.\nВсего здесь более чем 400 схем.\nОтдельное спасибо pixecoz, Qwertynoob, Anchovy, Mandu, Fox1va, Ilya034, Ohotni4ek, Snake, без них ничего бы не вышло. ОТДЕЛЬНОЕ СПАСИБО Ilya034, который снова все это отсортировал.\n\nВ новом обновлении были изменены названия схем по категориям:\ngreen - начало игры;\norange - середина игры\nred - конец игры;\n(делал это чисто по своему мнению, могут быть неточности)\nостальные схемы тоже промаркированы по цветам:\ncrimson - схемы на деф;\ngold - логика;\npurple - логика с дисплеями;\nstat - буры;\ncyan - арты и игры;"
   },
   {
-    "repo": "sputnuc/upgrated-tiers",
-    "internalName": "tiered",
-    "name": "Upgraded Tiers",
-    "author": "sputnuc",
-    "lastUpdated": "2025-10-04T08:50:08Z",
-    "stars": 13,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "- This mod adds in 1 or 2 higher tiers of vanilla blocks. Mod is still in development. More contents coming soon.\n- Erekir is cooking\n- thanks to original autor: mq_1175 "
-  },
-  {
     "repo": "abe-ischarlie/op-mod",
     "internalName": "op-things",
     "name": "OP Things",
@@ -1702,6 +1690,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nThis mod is not the original port of Scheme Size — it is a custom port. The developer of the original mod is not involved in this in any way.\n!!!ATTENTION: VERSIONS BELOW v154 ARE NOT SUPPORTED!!!\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Copy Link and Join\n   - Rule setter\n"
+  },
+  {
+    "repo": "sputnuc/upgrated-tiers",
+    "internalName": "tiered",
+    "name": "Upgraded Tiers",
+    "author": "sputnuc",
+    "lastUpdated": "2025-12-22T13:45:50Z",
+    "stars": 13,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "- This mod adds in 1 or 2 higher tiers of vanilla blocks. Mod is still in development. More contents coming soon.\n- Erekir is cooking\n- thanks to original autor: mq_1175 "
   },
   {
     "repo": "def-try/parkour-mod",
@@ -2628,18 +2628,6 @@
     "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
   },
   {
-    "repo": "acookieg/carbon-vanilla",
-    "internalName": "carbon vanilla",
-    "name": "Carbon-Vanilla",
-    "author": "AcookieG",
-    "lastUpdated": "2025-12-21T16:49:33Z",
-    "stars": 8,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds multiple new factories, turrets and items to enhance vanilla content and add more things post-late game.\nIMPORTANT: Credit for sprites cuz stealing bad: \n- Eschatologue/Unlimited-Armament-Works\n- AureusStratus/ExoGenesis \n- Eschatologue/Heavy-Armaments-Industries\n- uujuju1/project-oblivion\n- Twcash/Aquarion\n- thomas_has_things(discord) Thomas's Things \n- and a huge shoutout to y'all on the Mindustry Discord\nMod was originally a personal project, sorry if I used your sprites without consent."
-  },
-  {
     "repo": "samielxd/shopsystemmod",
     "internalName": "shopsystem",
     "name": "Shop System",
@@ -2650,6 +2638,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "[accent]ShopSystemMod v1.3 - Your Personal In-Game Economy![]\n\n[white]🎮 NEW: Press K key or type /shop to access the shop on PC! Mobile users tap the SHOP button![]\n\n[yellow]⚠️ MAJOR UPDATE v1.3: Full Erekir Support, PC Compatibility, Pet Evolution, and tons of new features![]\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n[gold]📋 CHANGELOG - What's New in v1.3:[]\n\n[cyan]🎮 PC & Mobile Support:[]\n• Press K key to open shop instantly (PC)\n• Type /shop in chat to access shop\n• Touch-optimized UI for mobile\n• Works seamlessly on both platforms!\n\n[lime]🪐 Full Erekir Support:[]\n• 4 Erekir Resources: Beryllium, Tungsten, Oxide, Carbide\n• 3 Erekir Units: Stell, Locus, Merui\n• Separate Serpulo and Erekir categories\n• Auto planet detection\n• Resource Converter for cross-planet trading\n\n[white]🐾 Pet System Overhaul:[]\n• Real animal names: Cat, Dog, Eagle, Fox, Bear, Panther, etc.\n• Pet Evolution System - Upgrade pets to stronger versions!\n• Cat → Lion, Dog → Wolf, Eagle → Phoenix\n• 9 NEW pets added (13 total now!)\n• Erekir Pets: Cobra, Hawk, Tiger\n• Max income: 369 coins/min (up from 164!)\n\n[cyan]✨ New Features:[]\n• Pet Missions - Send pets for guaranteed rewards (4 types)\n• Daily Challenges - 4 challenges, 80-120 coins each\n• Milestone Rewards - 6 tiers, up to 3000 coins\n• Crafting System - Craft Surge Alloy, Phase Fabric, Plastanium\n• Resource Converter - Convert Serpulo ↔ Erekir resources\n• Better UI with organized categories\n\n[white]🏆 New Rewards:[]\n• 3 New Achievements\n• 6 Milestone Rewards\n• 4 Pet Mission Types\n• New Redeem Codes\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n[lime]💰 What's This All About?[]\n\nEarn coins by playing the game - killing enemies, completing waves, doing daily tasks. Spend those coins in the shop to buy resources, spawn units, or use special abilities. Now with full support for both Serpulo and Erekir!\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n[cyan]🛒 The Shop Has:[]\n\n[white]Serpulo Resources[] → Copper, Lead, Coal, Titanium, Thorium\n[white]Erekir Resources[] → Beryllium, Tungsten, Oxide, Carbide\n[white]Serpulo Units[] → Flare, Dagger, Mace squads\n[white]Erekir Units[] → Stell, Locus, Merui squads\n[white]Boosts[] → Skip waves or heal all buildings\n[white]Pets[] → 13 pets with evolution system\n[white]Pet Missions[] → Send pets for guaranteed rewards\n[white]Auction House[] → Bid on exclusive items\n[white]Converter[] → Exchange Serpulo ↔ Erekir resources\n[white]Crafting[] → Craft advanced materials\n[white]Favorites[] → Star your favorite items\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n[gold]⭐ VIP System[]\n\nThe more you spend, the more VIP EXP you get. Level up your VIP status and earn coins way faster. At max level (VIP 5), you get 6x coins and 25% discount on everything!\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n[lime]🎮 How Do I Use This?[]\n\n[cyan]PC:[]\n1. Press K key anywhere\n2. Type /shop in chat\n3. Click Shop button in pause menu\n\n[cyan]Mobile:[]\n1. Tap the SHOP [K] button on the right side of your screen\n\nYour coins, VIP level, and Shop level are always shown in the UI!\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n[cyan]📈 Ways to Earn Coins:[]\n\n[white]Playing the game:[]\n• Each enemy killed = 1 coin (× VIP level)\n• Each wave completed = 5 coins (× VIP level)\n\n[white]Daily stuff:[]\n• Daily Quests → 15-25 coins\n• Daily Challenges → 80-120 coins each (4 challenges)\n• Daily Work → 30-50 coins\n• Daily Login → Up to 150 coins\n\n[white]Long-term:[]\n• Achievements → 50-300 coins\n• Milestone Rewards → 50-3000 coins\n• Pets → 2-100 coins per minute automatically\n• Pet Missions → 40-450 coins per mission\n• Auction House → Bid smart and win!\n\n[white]Secret stuff:[]\n• Flash Sales → Up to 50% off random items\n• Redeem Codes → Hidden codes for free coins!\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n[yellow]🐾 Pet System - All 13 Pets with Evolution:[]\n\n[cyan]Serpulo Pets:[]\n[white]Cat[] → Lion (2 → 30 coins/min) [Wave 3]\n[white]Dog[] → Wolf (3 → 25 coins/min) [Wave 5]\n[white]Eagle[] → Phoenix (5 → 40 coins/min) [Wave 10]\n[white]Fox[] → Kitsune (8 coins/min) [Wave 15]\n[white]Bear[] → Grizzly (12 coins/min) [Wave 20]\n[white]Panther[] → Jaguar (18 coins/min) [Wave 25]\n\n[gold]Erekir Pets:[]\n[white]Cobra[] → Python (15 coins/min) [Wave 22]\n[white]Hawk[] → Falcon (22 coins/min) [Wave 28]\n[white]Tiger[] (35 coins/min) [Wave 38]\n\n[accent]Legendary:[]\n[white]Dragon[] (100 coins/min) [Wave 60]\n\n[lime]Max passive income: 369 coins/min![]\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n[cyan]🚀 Pet Missions - Guaranteed Rewards:[]\n\n[white]Scout Mission[] → 2 min, 40 coins (Need 1 pet)\n[white]Resource Hunt[] → 4 min, 90 coins (Need 2 pets)\n[white]Treasure Search[] → 8 min, 200 coins (Need 3 pets)\n[white]Epic Journey[] → 15 min, 450 coins (Need 5 pets)\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n[gold]🏛️ Auction House[]\n\nBid on exclusive high-tier items:\n• Plastanium (50 units)\n• Phase Fabric (30 units)\n• Surge Alloy (20 units)\n• Carbide (40 units) - Erekir exclusive!\n\nPlace bids or use \"Buy Now\" to get items instantly!\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n[cyan]🔄 Resource Converter:[]\n\nExchange resources between planets at fixed rates:\n• Copper ↔ Beryllium (2:1)\n• Lead ↔ Tungsten (3:1)\n• Titanium ↔ Oxide (4:1)\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n[gold]⚒️ Crafting System:[]\n\nCraft advanced materials:\n• Surge Alloy (100 Copper + 100 Lead + 50 Titanium + 200 coins)\n• Phase Fabric (50 Thorium + 80 Titanium + 150 coins)\n• Plastanium (60 Titanium + 40 Coal + 100 coins)\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n[white]🔒 The Lock System:[]\n\nItems unlock based on:\n• Waves completed\n• Shop level\n\nLocked items show exactly what you need to unlock them!\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n[cyan]💡 Pro Tips:[]\n\n• Do daily quests and challenges for easy coins\n• Complete pet missions for guaranteed rewards\n• Save up for pets - they pay for themselves!\n• With all 13 pets, earn 369 coins/min passively\n• Evolve your pets for even better earnings\n• Use the Resource Converter to get planet-specific items\n• Craft advanced materials when you have extra resources\n• Check the auction house regularly\n• Use bulk buying for bonus items!\n• Press K on PC for instant shop access!\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n[red]⚠️ Known Issues:[]\n\n• Work system might not track progress sometimes (just restart it)\n• Spam-clicking can cause weird behavior\n• UI might look odd on very small screens\n• Pet missions may not update immediately\n• Sound effects need sound files in sounds/ folder\n• daily login not working properly\n\nNothing game-breaking!\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n[lime]📊 Current Content (v1.3):[]\n\n9 Resources (5 Serpulo + 4 Erekir) • 6 Unit types • 2 Boosts\n13 Pets with Evolution • 4 Pet Missions • 4 Auction Items\n3 Daily Quests • 4 Daily Challenges • 3 Work Activities\n10 Login Rewards • 6 Achievements • 6 Milestone Rewards\n15+ Redeem Codes • Flash Sales • VIP Levels 1-5\nAuction House • Favorites • Bulk Buying • Resource Converter\nCrafting System • PC Keybind (K) • Chat Command (/shop)\nAdvanced Statistics • 3 Custom Sound Effects\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n[cyan]🔊 Sound Files Needed:[]\n\nPlace these in your mod's sounds/ folder:\n• pop.ogg - UI clicks\n• switch.ogg - Menu transitions\n• coins.ogg - Coin sounds\n\nMod works without them but sounds are better!\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n[white]That's it! Press K (PC) or tap SHOP (Mobile) to start building your economy![]\n\n[gray]Have fun, Hope you enjoy my mod! 💰[]\n\n[white]- SamielXD[]"
+  },
+  {
+    "repo": "acookieg/carbon-vanilla",
+    "internalName": "carbon vanilla",
+    "name": "Carbon-Vanilla",
+    "author": "AcookieG",
+    "lastUpdated": "2025-12-22T13:40:07Z",
+    "stars": 8,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds multiple new factories, turrets and items to enhance vanilla content and add more things post-late game.\nIMPORTANT: Credit for sprites cuz stealing bad: \n- Eschatologue/Unlimited-Armament-Works\n- AureusStratus/ExoGenesis \n- Eschatologue/Heavy-Armaments-Industries\n- uujuju1/project-oblivion\n- Twcash/Aquarion\n- thomas_has_things(discord) Thomas's Things \n- and a huge shoutout to y'all on the Mindustry Discord\nMod was originally a personal project, sorry if I used your sprites without consent."
   },
   {
     "repo": "fabizocker456/test",
@@ -4612,7 +4612,7 @@
     "internalName": "infestation",
     "name": "The Infestation",
     "author": "\nFat Bird's Owner - Creator\nLJ - Some sprites\n",
-    "lastUpdated": "2025-12-22T11:57:03Z",
+    "lastUpdated": "2025-12-22T14:00:09Z",
     "stars": 4,
     "minGameVersion": "153",
     "hasScripts": false,
@@ -11820,18 +11820,6 @@
     "description": "A mod about storms and power"
   },
   {
-    "repo": "theerawate/anser-jua",
-    "internalName": "anser jua help item",
-    "name": "Anser Jua Help item",
-    "author": "Jua",
-    "lastUpdated": "2025-12-21T12:19:18Z",
-    "stars": 0,
-    "minGameVersion": "147",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "\n\n I have dizzy from Item line , complicated power plan , complicated factory and CoreBase .\n This for help for easy way to play .\n Enjoy , Good mood , Good Luck\n \n Jua\n\n copy some part from Anser erekir , Anser serpulo , \n\n "
-  },
-  {
     "repo": "meesst/mindustry-multiunitbindmod",
     "internalName": "logic-extend-mod",
     "name": "LogicExtendMod - 逻辑指令扩展",
@@ -11854,5 +11842,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "- As a heavily altered fork of Upgraded Tiers, this mod aims to extend production complexity and scale.\n- This mod also adds scaled versions of/new Serpulo structures, as well as some vanilla changes.\n- thanks to original authors: \n- mq_1175 \n- sputnuc(?)"
+  },
+  {
+    "repo": "theerawate/anser-jua",
+    "internalName": "anser jua help item",
+    "name": "Anser Jua Help item",
+    "author": "Jua",
+    "lastUpdated": "2025-12-22T13:19:51Z",
+    "stars": 0,
+    "minGameVersion": "147",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\n\n I have dizzy from Item line , complicated power plan , complicated factory and CoreBase .\n This for help for easy way to play .\n Enjoy , Good mood , Good Luck\n \n Jua\n\n copy some part from Anser erekir , Anser serpulo , \n\n "
   }
 ]
