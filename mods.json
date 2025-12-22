@@ -88,7 +88,7 @@
     "internalName": "mindustry-tool",
     "name": "Mindustry Tool",
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2025-12-21T19:14:50Z",
+    "lastUpdated": "2025-12-22T01:12:19Z",
     "stars": 179,
     "minGameVersion": "154.2",
     "hasScripts": false,
@@ -148,7 +148,7 @@
     "internalName": "omaloon",
     "name": "Omaloon",
     "author": "stabu, uujuju",
-    "lastUpdated": "2025-12-21T23:07:52Z",
+    "lastUpdated": "2025-12-22T02:23:46Z",
     "stars": 122,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -352,7 +352,7 @@
     "internalName": "restored-mind",
     "name": "Project: Restoration",
     "author": "VvSeanGtvV",
-    "lastUpdated": "2025-12-21T17:00:23Z",
+    "lastUpdated": "2025-12-22T02:50:04Z",
     "stars": 61,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -480,6 +480,18 @@
     "description": "Java mod that contains a full of content planet. This is the beta version so it may not display the final version of the project."
   },
   {
+    "repo": "eb-wilson/helium",
+    "internalName": "he",
+    "name": "Helium",
+    "author": "EBwilson",
+    "lastUpdated": "2025-10-27T07:35:18Z",
+    "stars": 40,
+    "minGameVersion": "150",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod provide optimized ui and more utilities.\nMajor features:\n- ***In-Game Entity Information Components***: Provides various UI elements for game entities including units and blocks\n- ***Health & Status Indicators***: Displays real-time status (health, shields) above units and entities. When shield stacks exceed max health, multi-layer shields with stack counters are shown.\n- ***Attack Range Indicators***: Units and turrets now visualize their attack ranges as translucent areas. Processed boundaries emphasize combined team range contours to prevent visual clutter, with subtle pulsating animations and chromatic borders.\n- ***Functional Block Effect Range Indicators***: Devices like Mend Projectors, Overdrive Projectors, and unit repair stations display effect ranges with distinctive colors.\n- ***Enhanced Block Placement Panel***: A refined block selection panel integrating a quick item bar and standardized tool buttons.\n- ***The better Mod Manager and Mod Browser***: Reworked the Mods Manager and Mods Browser, now they looks more aesthetically pleasing and functional"
+  },
+  {
     "repo": "eb-wilson/universecore",
     "internalName": "universe-core",
     "name": "Universe Core",
@@ -502,18 +514,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Aquatic-stylized mod with new planet and unique mechanics"
-  },
-  {
-    "repo": "eb-wilson/helium",
-    "internalName": "he",
-    "name": "Helium",
-    "author": "EBwilson",
-    "lastUpdated": "2025-10-27T07:35:18Z",
-    "stars": 39,
-    "minGameVersion": "150",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod provide optimized ui and more utilities.\nMajor features:\n- ***In-Game Entity Information Components***: Provides various UI elements for game entities including units and blocks\n- ***Health & Status Indicators***: Displays real-time status (health, shields) above units and entities. When shield stacks exceed max health, multi-layer shields with stack counters are shown.\n- ***Attack Range Indicators***: Units and turrets now visualize their attack ranges as translucent areas. Processed boundaries emphasize combined team range contours to prevent visual clutter, with subtle pulsating animations and chromatic borders.\n- ***Functional Block Effect Range Indicators***: Devices like Mend Projectors, Overdrive Projectors, and unit repair stations display effect ranges with distinctive colors.\n- ***Enhanced Block Placement Panel***: A refined block selection panel integrating a quick item bar and standardized tool buttons.\n- ***The better Mod Manager and Mod Browser***: Reworked the Mods Manager and Mods Browser, now they looks more aesthetically pleasing and functional"
   },
   {
     "repo": "oleglysukhin/cheat",
@@ -1140,6 +1140,18 @@
     "description": "Discover and explore a brand new planet with its own campaign: Xanthia, a mountainous hot planet with more dangers and threat hiding there.\n\nRemember that Xanthia is in beta test right now. Everything is subject to change.\n\nAnd please, try to download it not from releases due to releases can have unfounded bugs but latest version of the mod could have fixed that. "
   },
   {
+    "repo": "deercarbonate/azimut",
+    "internalName": "azimut",
+    "name": "Azimut",
+    "author": "DeerCarbonate",
+    "lastUpdated": "2025-12-21T15:17:37Z",
+    "stars": 19,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Develop complex logistics, repel waves, and destroy enemy bases on the new planet Gelion.\n  \nTHE MOD IS CURRENTLY UNDER DEVELOPMENT, there are already 7 sectors at the moment, and work is underway on quality of life.\n\nSpecials thanks to: ace1020spawn, Kivet/БОБ, Alpotat, KOSTOLOM, Fate of Adrastus"
+  },
+  {
     "repo": "evo04taser/super-cheat",
     "internalName": "super-cheat",
     "name": "Super Cheat",
@@ -1162,18 +1174,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "This a mod that can show the hidden item of the item bridge."
-  },
-  {
-    "repo": "deercarbonate/azimut",
-    "internalName": "azimut",
-    "name": "Azimut",
-    "author": "DeerCarbonate",
-    "lastUpdated": "2025-12-21T15:17:37Z",
-    "stars": 18,
-    "minGameVersion": "154",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Develop complex logistics, repel waves, and destroy enemy bases on the new planet Gelion.\n  \nTHE MOD IS CURRENTLY UNDER DEVELOPMENT, there are already 7 sectors at the moment, and work is underway on quality of life.\n\nSpecials thanks to: ace1020spawn, Kivet/БОБ, Alpotat, KOSTOLOM, Fate of Adrastus"
   },
   {
     "repo": "dagamerfiles/classic-music",
@@ -1924,7 +1924,7 @@
     "internalName": "corpuscles",
     "name": "Corpuscles",
     "author": "SezoVK",
-    "lastUpdated": "2025-12-22T00:42:15Z",
+    "lastUpdated": "2025-12-22T03:18:26Z",
     "stars": 11,
     "minGameVersion": "154.3",
     "hasScripts": true,
@@ -3204,18 +3204,6 @@
     "description": "Add new campaign on 3 planets (still WIP:)"
   },
   {
-    "repo": "ovulam5480/ovulamtools",
-    "internalName": "ovulamtools",
-    "name": "OvulamTools",
-    "author": "Ovulam5480",
-    "lastUpdated": "2025-08-27T02:35:25Z",
-    "stars": 6,
-    "minGameVersion": "151",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "用于显示子弹溅射范围或者单位坠落伤害半径的辅助模组(起码以前是)"
-  },
-  {
     "repo": "fivedextor/axoxium",
     "internalName": "axoxium",
     "name": "Axoxium",
@@ -3262,6 +3250,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "yo we be making big planets in a mod so please leave a star or im gonna starve to no silicon, dm avatar_of_emptiness in discord if you wanna report shit or you can ask me for our discord server link\npreviously auvathia worlds"
+  },
+  {
+    "repo": "ovulam5480/ovulamtools",
+    "internalName": "ovulamtools",
+    "name": "OvulamTools",
+    "author": "Ovulam5480",
+    "lastUpdated": "2025-12-22T02:52:47Z",
+    "stars": 6,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "用于显示子弹溅射范围或者单位坠落伤害半径的辅助模组(起码以前是)"
   },
   {
     "repo": "yaroslav242/yfjs",
@@ -4612,7 +4612,7 @@
     "internalName": "infestation",
     "name": "The Infestation",
     "author": "\nFat Bird's Owner - Creator\nLJ - Some sprites\n",
-    "lastUpdated": "2025-12-21T15:00:27Z",
+    "lastUpdated": "2025-12-22T01:55:11Z",
     "stars": 4,
     "minGameVersion": "153",
     "hasScripts": false,
@@ -9184,7 +9184,7 @@
     "internalName": "mm",
     "name": "My first moddy mod",
     "author": "justcallmejust",
-    "lastUpdated": "2025-12-22T00:25:21Z",
+    "lastUpdated": "2025-12-22T00:48:28Z",
     "stars": 1,
     "minGameVersion": "146",
     "hasScripts": false,
