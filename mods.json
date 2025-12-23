@@ -1924,7 +1924,7 @@
     "internalName": "corpuscles",
     "name": "Corpuscles",
     "author": "SezoVK",
-    "lastUpdated": "2025-12-23T03:12:28Z",
+    "lastUpdated": "2025-12-23T03:51:16Z",
     "stars": 11,
     "minGameVersion": "154.3",
     "hasScripts": true,
@@ -2104,7 +2104,7 @@
     "internalName": "newunits",
     "name": "New Content",
     "author": "Rylid Umil & Aegires",
-    "lastUpdated": "2025-12-22T23:36:46Z",
+    "lastUpdated": "2025-12-23T03:57:19Z",
     "stars": 10,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -9132,18 +9132,6 @@
     "description": "Reverses all Mindustry musics."
   },
   {
-    "repo": "zeefoe/simple-chat-translator",
-    "internalName": "simple-chat-translator",
-    "name": "Simple Chat Translator",
-    "author": "Zeefoe",
-    "lastUpdated": "2025-12-14T10:56:10Z",
-    "stars": 1,
-    "minGameVersion": "150",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A chat translator that just works.\nTranslates the chat using google translate without any setup and configuration.\n\nThe target language should be automatically set by what language you have your game in."
-  },
-  {
     "repo": "r99space99yt/apolotus",
     "internalName": "apolotus",
     "name": "Apolotus",
@@ -9226,6 +9214,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "[accent]MobileConsole v1.0 - Developer Tools for Mobile Players[]\n[white]📱 Full console access on your phone or tablet![]\n[yellow]⚠️ This mod is specifically designed for mobile devices where console features are normally unavailable.[]\n[red]⚠️ SINGLE-PLAYER ONLY - This mod does not work in multiplayer![]\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[red]⚠️ IMPORTANT DISCLAIMERS:[]\n[yellow]• Not all commands may work on every device or game version[]\n[yellow]• Commands only work in single-player mode[]\n[yellow]• Building commands require appropriate permissions[]\n[yellow]• Use at your own risk - some commands may affect game performance[]\n[yellow]• This mod is in active development - bugs may occur[]\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[gold]📋 What Is This?[]\nMobileConsole brings developer tools to your mobile device. Build, spawn, modify, and control your game with over 20 commands optimized for touch screens.\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[cyan]🎮 How to Access:[]\n[white]In-Game:[]\n• Type [cyan]/customhelp[] in chat to see all commands\n• Type [cyan]/chelp[] for console system help\n[white]Settings Menu:[]\n• Open Settings → Developer Console\n• Tap [cyan]Open Console[] button\n[white]Quick Commands:[]\n• Type any command in chat starting with /\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[lime]🏗️ Building Commands:[]\n[cyan]/wallcore [type][] - Builds walls around your core\n[cyan]/fill     [] - Fill area with blocks\n[cyan]/clear [radius][] - Clear buildings around position\n[cyan]/conveyor    [] - Build conveyor lines\n[cyan]/powerline    [] - Create power connections\n[cyan]/wallline     [type][] - Draw wall lines\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[yellow]🔧 Modification Commands:[]\n[cyan]/upgrade  [] - Upgrade building types\n[cyan]/replace  [] - Replace blocks\n[cyan]/toggle [block][] - Enable/disable buildings\n[cyan]/repair[] - Repair all damaged buildings\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[royal]⚔️ Unit Commands:[]\n[cyan]/spawn   [x] [y][] - Spawn units\n[cyan]/healunits[] - Restore all friendly units to full health\n[cyan]/rally[] - Command units to your position\n[cyan]/killenemies [radius][] - Eliminate enemies\n[cyan]/units[] - Display unit statistics\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[cyan]⚡ Quick Actions:[]\n[cyan]/turrets[] - Toggle all turrets\n[cyan]/power[] - Display power grid statistics\n[cyan]/resources[] - Check core resources\n[cyan]/screenshot[] - Take clean screenshot\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[lime]🖥️ Console System:[]\n[cyan]/chelp[] - Show console help\n[cyan]/clear[] - Clear console logs\n[cyan]/scan[] - Scan for available commands\n[cyan]/stats[] - Show console statistics\n[cyan]/commands[] - List all detected commands\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[gold]🎯 Features:[]\n• Command history (last 50 commands)\n• Favorites system\n• Log management (1,500 entries)\n• Search and filter functionality\n• Touch-optimized interface\n• Color-coded logs\n• Mod management system\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[white]Type [cyan]/customhelp[] in chat or open Settings → Developer Console to start![]\n[yellow]Report issues on GitHub: github.com/SamielXD/MobileConsole[]\n[white]- SamielXD[]"
+  },
+  {
+    "repo": "zeefoe/simple-chat-translator",
+    "internalName": "simple-chat-translator",
+    "name": "Simple Chat Translator",
+    "author": "Zeefoe",
+    "lastUpdated": "2025-12-23T04:21:23Z",
+    "stars": 1,
+    "minGameVersion": "154.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A chat translator that just works.\nTranslates the chat using google translate without any setup and configuration.\n\nThe target language should be automatically set by what language you have your game in."
   },
   {
     "repo": "exxleo/exoterusmod",
