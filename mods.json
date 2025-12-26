@@ -88,9 +88,9 @@
     "internalName": "mindustry-tool",
     "name": "Mindustry Tool",
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2025-12-26T03:45:50Z",
+    "lastUpdated": "2025-12-26T06:30:48Z",
     "stars": 179,
-    "minGameVersion": "154.2",
+    "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
     "description": "[accent] [#FFF000]Mindustry Tool  [white]- The Ultimate Utility for Every Player[]\n\n[white]Mindustry Tool is an extended utility that integrates multiple features, including the website [#88C6ED]mindustry-tool.com[white], allowing players to share and download [#394BA0]maps [white]and [#D54799]schematics [white]with just a few simple steps. Most notably, it introduces powerful features that help you play with friends using tools tailored specifically for the game.\n\n[accent] [#009F75]Play With Friends:[]\n[white] No complicated setup required — a single button is all it takes to host your own server and invite friends.\n[white] Connections are optimized for international play, delivering a smooth and stable multiplayer experience.\n\n[accent] [#88C6ED]Community Servers:[]\n[white] Quickly browse and join servers via Mindustry Tool, offering a wide variety of game modes.\n[white] Enhance your community experience through exclusive free servers and community events.\n\n[accent] [#FFF000]Maps & Schematics:[]\n[white] Effortlessly share or save high-quality maps, explore strategic schematics, and optimize your production or defense builds.\n[white] Designed to meet the needs of all players — from beginners to pros.\n\n[accent] [#82C341]Strict Content Moderation:[]\n[white] All content is reviewed by the [#82C341]Mindustry Tool [white]team to ensure creativity, safety, and compatibility.\n[white] Play with confidence knowing the tools you use are verified and trustworthy.\n\n[accent] [#FAA31B]Advanced Filtering System:[]\n[white] Use powerful tags and filters to find the exact content you're looking for, tailored to any purpose.\n[white] A modern, intuitive interface speeds up your search and enhances the discovery process.\n\n[accent] [#FFF000]Community Credits[]:\n[#88C6ED] Design-it Community:  \n[#394BA0]  Discord: [white]discord.gg/SYVkWPhmXY  \n[#394BA0]  GitHub: [white]MindustryDesignIt\n\n[#82C341] Mindustry Top Community:  \n[#88C6ED]  Website: [white]www.mindustry.top  \n[#009F75]  Email: [white]me@wayzer.top\n\n[accent] [#FFF000]Useful Links[]:\n[#88C6ED]  Website: [white]mindustry-tool.com[]\n[#394BA0]  Discord: [white]discord.gg/nQDrEHVkrt[]\n[#009F75]  Email: [white]mindustrytool@gmail.com[]\n[#FAA31B]  Reddit: [white]r/MindustryTool[]\n[#EF4444]  YouTube: [white]Mindustry Tool[]"
@@ -1536,6 +1536,18 @@
     "description": "1.从蓝图详情页直接复制逻辑和信息板。2.蓝图消耗计算套件。\nCopy processor/message in schematic info without placing it. Schematic consumption computing tool. \nGithub: BlackDeluxeCat/SchematicParse"
   },
   {
+    "repo": "00sunray00/scheme-size-port",
+    "internalName": "scheme-size",
+    "name": "Scheme Size Port",
+    "author": "xzxADIxzx\nPort: 00SunRay00",
+    "lastUpdated": "2025-12-19T16:25:12Z",
+    "stars": 14,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nThis mod is not the original port of Scheme Size — it is a custom port. The developer of the original mod is not involved in this in any way.\n!!!ATTENTION: VERSIONS BELOW v154 ARE NOT SUPPORTED!!!\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Copy Link and Join\n   - Rule setter\n"
+  },
+  {
     "repo": "gmugxd/qr-mod",
     "internalName": "camod",
     "name": "Quantum Realm Mod",
@@ -1702,18 +1714,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "ALPHA VERSION\nNew planet, new stuff, what a surprise\nThezsia — wasteland planet but underwater."
-  },
-  {
-    "repo": "00sunray00/scheme-size-port",
-    "internalName": "scheme-size",
-    "name": "Scheme Size Port",
-    "author": "xzxADIxzx\nPort: 00SunRay00",
-    "lastUpdated": "2025-12-19T16:25:12Z",
-    "stars": 13,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nThis mod is not the original port of Scheme Size — it is a custom port. The developer of the original mod is not involved in this in any way.\n!!!ATTENTION: VERSIONS BELOW v154 ARE NOT SUPPORTED!!!\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Copy Link and Join\n   - Rule setter\n"
   },
   {
     "repo": "def-try/parkour-mod",
@@ -2976,18 +2976,6 @@
     "description": "Improves your experience on the official io  Flood server."
   },
   {
-    "repo": "slashkig/astranium-mod",
-    "internalName": "astramod",
-    "name": "Operation: Aziris",
-    "author": "Slashkig, IAmRustee, VoidThreader, Phil",
-    "lastUpdated": "2025-12-25T09:11:06Z",
-    "stars": 7,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
-  },
-  {
     "repo": "7003mars/pic2tri",
     "internalName": "triangles",
     "name": "PicToTri",
@@ -2998,6 +2986,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds a dialog for turning images into schematics"
+  },
+  {
+    "repo": "slashkig/astranium-mod",
+    "internalName": "astramod",
+    "name": "Operation: Aziris",
+    "author": "Slashkig, IAmRustee, VoidThreader, Phil",
+    "lastUpdated": "2025-12-26T07:48:11Z",
+    "stars": 7,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
   },
   {
     "repo": "xzxadixzx/crawler-language",
@@ -3820,7 +3820,7 @@
     "internalName": "infestation",
     "name": "The Infestation",
     "author": "\nFat Bird's Owner - Creator\nLJ - Some sprites\n",
-    "lastUpdated": "2025-12-26T05:58:52Z",
+    "lastUpdated": "2025-12-26T07:52:58Z",
     "stars": 5,
     "minGameVersion": "153",
     "hasScripts": false,
@@ -4596,18 +4596,6 @@
     "description": "A project that includes three planets although the two are still being worked on.\n\nThis mod has to be played on 147+\n\nRusted dunes is a type of mod that's not hard or easy and your goals are to make technology in use of eroded materials or rusted materials and produce rusted units and soon upgrade them to there potential.\n\nDunes is a wasted planet near serpulo but far from the sun, take control and provide chaos to this dead planet.\n\nQuick notes: [\nLushion is currently in WIP.\nBe sure to have weather graphics for weather's if your on a low end device turn it off.\nMake sure to reinstall regular.\nGive a star if you enjoy Thanks!!!.0\nWho ever wants to make music go to the mindustry discord then to my thread.\n}"
   },
   {
-    "repo": "wantechfan/my-cursed-ahh-mindustry-mod",
-    "internalName": "cursed-bundles",
-    "name": "Cursed Bundles",
-    "author": "WantechFan",
-    "lastUpdated": "2025-12-25T14:14:24Z",
-    "stars": 4,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod is also modifiy ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request[]."
-  },
-  {
     "repo": "nezerit6/cosmic-industries",
     "internalName": "ci",
     "name": "Cosmic Industries",
@@ -4618,6 +4606,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "NOT PLAYABLE"
+  },
+  {
+    "repo": "wantechfan/my-cursed-ahh-mindustry-mod",
+    "internalName": "cursed-bundles",
+    "name": "Cursed Bundles",
+    "author": "WantechFan",
+    "lastUpdated": "2025-12-26T07:29:08Z",
+    "stars": 4,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod is also modifiy ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request[]."
   },
   {
     "repo": "mythril382/ammoswap",
