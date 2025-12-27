@@ -5,7 +5,7 @@
     "name": "New Horizon",
     "author": "Yuria & Lao",
     "lastUpdated": "2025-12-24T19:10:14Z",
-    "stars": 511,
+    "stars": 512,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
@@ -76,8 +76,8 @@
     "internalName": "asthosus",
     "name": "Asthosus",
     "author": "Catser",
-    "lastUpdated": "2025-12-27T13:59:23Z",
-    "stars": 196,
+    "lastUpdated": "2025-12-27T14:49:37Z",
+    "stars": 197,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
@@ -88,8 +88,8 @@
     "internalName": "mindustry-tool",
     "name": "Mindustry Tool",
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2025-12-27T12:18:08Z",
-    "stars": 180,
+    "lastUpdated": "2025-12-27T15:56:28Z",
+    "stars": 181,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
@@ -185,7 +185,7 @@
     "name": "Saturation Firepower Mod",
     "author": "RAdea.exe",
     "lastUpdated": "2025-12-24T07:17:07Z",
-    "stars": 110,
+    "stars": 111,
     "minGameVersion": "154.2",
     "hasScripts": false,
     "hasJava": true,
@@ -484,9 +484,9 @@
     "internalName": "he",
     "name": "Helium",
     "author": "EBwilson",
-    "lastUpdated": "2025-10-27T07:35:18Z",
-    "stars": 40,
-    "minGameVersion": "150",
+    "lastUpdated": "2025-12-27T15:22:49Z",
+    "stars": 41,
+    "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod provide optimized ui and more utilities.\nMajor features:\n- ***In-Game Entity Information Components***: Provides various UI elements for game entities including units and blocks\n- ***Health & Status Indicators***: Displays real-time status (health, shields) above units and entities. When shield stacks exceed max health, multi-layer shields with stack counters are shown.\n- ***Attack Range Indicators***: Units and turrets now visualize their attack ranges as translucent areas. Processed boundaries emphasize combined team range contours to prevent visual clutter, with subtle pulsating animations and chromatic borders.\n- ***Functional Block Effect Range Indicators***: Devices like Mend Projectors, Overdrive Projectors, and unit repair stations display effect ranges with distinctive colors.\n- ***Enhanced Block Placement Panel***: A refined block selection panel integrating a quick item bar and standardized tool buttons.\n- ***The better Mod Manager and Mod Browser***: Reworked the Mods Manager and Mods Browser, now they looks more aesthetically pleasing and functional"
@@ -652,7 +652,7 @@
     "internalName": "mod-tools",
     "name": "mod-tools",
     "author": "I hope...",
-    "lastUpdated": "2025-12-07T07:22:46Z",
+    "lastUpdated": "2025-12-27T14:49:21Z",
     "stars": 33,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -2100,6 +2100,18 @@
     "description": "Meet shards\nShards is located far away from the sun and is basically frozen with tiny bugs of radiation.\nAlthough this planet has units, most of the time you'll be fighting walking mushrooms which is infected by lushion and droxium.\nThis mod is also filled with random stuff and after the fifth sector it's basically unplayable as it'll be unbalanced.\nAlso I'm actively reworking every sector.\nNote that kjol and cold moon is being removed and is rather be kept as a normal moon."
   },
   {
+    "repo": "icexuegao/deepspace",
+    "internalName": "ice",
+    "name": "Deep Space",
+    "author": "Alon",
+    "lastUpdated": "2025-12-21T09:20:52Z",
+    "stars": 10,
+    "minGameVersion": "154.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "模组为MDT引入四大势力,拓展全新科技树,单位,星球及地形机制"
+  },
+  {
     "repo": "racti2037/real-military-techic-mod",
     "internalName": "military-techic-mod",
     "name": "Military Technic Mod",
@@ -2328,16 +2340,16 @@
     "description": "Для работы на сервере нужен плагин: https://github.com/MindustryInside/JSEval\nи админ"
   },
   {
-    "repo": "icexuegao/deepspace",
-    "internalName": "ice",
-    "name": "Deep Space",
-    "author": "Alon",
-    "lastUpdated": "2025-12-21T09:20:52Z",
+    "repo": "smolkeys/new-console-hardline",
+    "internalName": "newconsole-hardline",
+    "name": "New Console Hardline",
+    "author": "Mnemotechnician (original developer), SMOLKEYS (port maintainer)",
+    "lastUpdated": "2025-12-24T03:30:31Z",
     "stars": 9,
-    "minGameVersion": "154.2",
+    "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
-    "description": "模组为MDT引入四大势力,拓展全新科技树,单位,星球及地形机制"
+    "description": "The officially acknowledged port of New Console for v147-above.\n\nAdds a console UI superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more:\nA good log panel, execution history - all of that is included in this mod.\n\nIn addition to the console, this mod offers:\n- An ability to save as many scripts as you want and to either execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
   },
   {
     "repo": "samielxd/shopsystemmod",
@@ -2628,16 +2640,16 @@
     "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
   },
   {
-    "repo": "smolkeys/new-console-hardline",
-    "internalName": "newconsole-hardline",
-    "name": "New Console Hardline",
-    "author": "Mnemotechnician (original developer), SMOLKEYS (port maintainer)",
-    "lastUpdated": "2025-12-24T03:30:31Z",
+    "repo": "slashkig/astranium-mod",
+    "internalName": "astramod",
+    "name": "Operation: Aziris",
+    "author": "Slashkig, IAmRustee, VoidThreader, Phil",
+    "lastUpdated": "2025-12-26T07:48:11Z",
     "stars": 8,
-    "minGameVersion": "154",
+    "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
-    "description": "The officially acknowledged port of New Console for v147-above.\n\nAdds a console UI superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more:\nA good log panel, execution history - all of that is included in this mod.\n\nIn addition to the console, this mod offers:\n- An ability to save as many scripts as you want and to either execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
+    "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
   },
   {
     "repo": "acookieg/carbon-vanilla",
@@ -2988,18 +3000,6 @@
     "description": "Adds a dialog for turning images into schematics"
   },
   {
-    "repo": "slashkig/astranium-mod",
-    "internalName": "astramod",
-    "name": "Operation: Aziris",
-    "author": "Slashkig, IAmRustee, VoidThreader, Phil",
-    "lastUpdated": "2025-12-26T07:48:11Z",
-    "stars": 7,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
-  },
-  {
     "repo": "xzxadixzx/crawler-language",
     "internalName": "crawler-language",
     "name": "Crawler Language",
@@ -3070,18 +3070,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Compiler for a mindustry programming language.\nTokens:\nfunc,call,if,elif,else,while,break,continue,return,end,wait,cmd\nSee example: https://pastebin.com/3vTgba6k"
-  },
-  {
-    "repo": "ka4ok52/persea-mod",
-    "internalName": "persea",
-    "name": "P.E.R.S.E.A. MOD",
-    "author": "Ka4ok52_ and Shesus",
-    "lastUpdated": "2023-12-08T13:20:44Z",
-    "stars": 6,
-    "minGameVersion": "143",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mod add new plants also factories and turrets..."
   },
   {
     "repo": "raffel080108/unlocktechtreemod",
@@ -3274,6 +3262,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "用于显示子弹溅射范围或者单位坠落伤害半径的辅助模组(起码以前是)"
+  },
+  {
+    "repo": "ka4ok52/persea-mod",
+    "internalName": "persea",
+    "name": "P.E.R.S.E.A. MOD",
+    "author": "Ka4ok52_ and Shesus",
+    "lastUpdated": "2025-12-27T15:32:28Z",
+    "stars": 6,
+    "minGameVersion": "143",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mod add new plants also factories and turrets..."
   },
   {
     "repo": "yaroslav242/yfjs",
@@ -3820,7 +3820,7 @@
     "internalName": "infestation",
     "name": "The Infestation",
     "author": "\nFat Bird's Owner - Creator\nLJ - Some sprites\n",
-    "lastUpdated": "2025-12-27T13:58:38Z",
+    "lastUpdated": "2025-12-27T15:24:22Z",
     "stars": 5,
     "minGameVersion": "153",
     "hasScripts": false,
@@ -4630,6 +4630,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "[accent]MobileConsole v1.0 - Developer Tools for Mobile Players[]\n[white]📱 Full console access on your phone or tablet![]\n[yellow]⚠️ This mod is specifically designed for mobile devices where console features are normally unavailable.[]\n[red]⚠️ SINGLE-PLAYER ONLY - This mod does not work in multiplayer![]\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[red]⚠️ IMPORTANT DISCLAIMERS:[]\n[yellow]• Not all commands may work on every device or game version[]\n[yellow]• Commands only work in single-player mode[]\n[yellow]• Building commands require appropriate permissions[]\n[yellow]• Use at your own risk - some commands may affect game performance[]\n[yellow]• This mod is in active development - bugs may occur[]\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[gold]📋 What Is This?[]\nMobileConsole brings developer tools to your mobile device. Build, spawn, modify, and control your game with over 20 commands optimized for touch screens.\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[cyan]🎮 How to Access:[]\n[white]In-Game:[]\n• Type [cyan]/customhelp[] in chat to see all commands\n• Type [cyan]/chelp[] for console system help\n[white]Settings Menu:[]\n• Open Settings → Developer Console\n• Tap [cyan]Open Console[] button\n[white]Quick Commands:[]\n• Type any command in chat starting with /\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[lime]🏗️ Building Commands:[]\n[cyan]/wallcore [type][] - Builds walls around your core\n[cyan]/fill     [] - Fill area with blocks\n[cyan]/clear [radius][] - Clear buildings around position\n[cyan]/conveyor    [] - Build conveyor lines\n[cyan]/powerline    [] - Create power connections\n[cyan]/wallline     [type][] - Draw wall lines\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[yellow]🔧 Modification Commands:[]\n[cyan]/upgrade  [] - Upgrade building types\n[cyan]/replace  [] - Replace blocks\n[cyan]/toggle [block][] - Enable/disable buildings\n[cyan]/repair[] - Repair all damaged buildings\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[royal]⚔️ Unit Commands:[]\n[cyan]/spawn   [x] [y][] - Spawn units\n[cyan]/healunits[] - Restore all friendly units to full health\n[cyan]/rally[] - Command units to your position\n[cyan]/killenemies [radius][] - Eliminate enemies\n[cyan]/units[] - Display unit statistics\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[cyan]⚡ Quick Actions:[]\n[cyan]/turrets[] - Toggle all turrets\n[cyan]/power[] - Display power grid statistics\n[cyan]/resources[] - Check core resources\n[cyan]/screenshot[] - Take clean screenshot\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[lime]🖥️ Console System:[]\n[cyan]/chelp[] - Show console help\n[cyan]/clear[] - Clear console logs\n[cyan]/scan[] - Scan for available commands\n[cyan]/stats[] - Show console statistics\n[cyan]/commands[] - List all detected commands\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[gold]🎯 Features:[]\n• Command history (last 50 commands)\n• Favorites system\n• Log management (1,500 entries)\n• Search and filter functionality\n• Touch-optimized interface\n• Color-coded logs\n• Mod management system\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n[white]Type [cyan]/customhelp[] in chat or open Settings → Developer Console to start![]\n[yellow]Report issues on GitHub: github.com/SamielXD/MobileConsole[]\n[white]- SamielXD[]"
+  },
+  {
+    "repo": "samielxd/modinfoplus",
+    "internalName": "modinfo",
+    "name": "ModInfo+",
+    "author": "[accent]SamielXD[]",
+    "lastUpdated": "2025-12-27T07:38:29Z",
+    "stars": 4,
+    "minGameVersion": "154.3",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "[accent]ModInfo+ v1.3 📊✨[]\n\nTrack real-time GitHub download statistics for Mindustry mods directly in-game, now with new features like search and GitHub repo access!\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n🌟 [accent]What is ModInfo+?[]\n\nModInfo+ is a lightweight statistics viewer that connects to GitHub's API to fetch [lime]actual download counts[] for your favorite Mindustry mods. No more guessing — see exactly how popular each mod is with [cyan]real data[].\n\nThe tracker is organized into categories, displays mods in a clean interface, includes pagination, smart caching, and now lets you **search mods**, **open GitHub repos directly**, and **read repo READMEs in-game**.\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n📊 [accent]Features[]\n\n[lime]✓[] Real-time GitHub statistics with detailed mod view\n[lime]✓[] Smart 5-minute caching system\n[lime]✓[] Category-based organization (My Mods, Content Mods, Tool Mods)\n[lime]✓[] Paginated view (2 mods per page for zero lag)\n[lime]✓[] 60-second refresh cooldown\n[lime]✓[] Download counts formatted (1.2K, 3.5M, etc.)\n[lime]✓[] [cyan]NEW:[] Click mod names for detailed statistics\n[lime]✓[] [cyan]NEW:[] Tier system (Diamond, Gold, Silver, Bronze, Rising)\n[lime]✓[] [cyan]NEW:[] Star button opens GitHub repo directly\n[lime]✓[] [cyan]NEW:[] Search mods by name or owner\n[lime]✓[] [cyan]NEW:[] View a mod’s README directly in-game\n[lime]✓[] Star counts and release dates\n[lime]✓[] Growth rate tracking (downloads/month)\n[lime]✓[] Cache timer display (shows time until auto-refresh)\n[lime]✓[] Color-coded status indicators\n[lime]✓[] Clean, intuitive UI with navigation\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n🎮 [accent]How to Use[]\n\n1. Click the [cyan]ModInfo+[] button in the main menu\n2. Select a category from the top tabs\n3. Browse mods (2 per page) or use [lime]Search[]\n4. [cyan]Click on any mod name[] to view detailed statistics\n5. Use [lightgray]< Prev[] and [lightgray]Next >[] to navigate\n6. Click the [yellow]Star[] button to open the mod's GitHub repo\n7. Click [lime]View README[] to read the mod’s README in-game\n8. Hit [accent]Refresh[] to update stats (1-minute cooldown)\n9. Watch the cache timer count down until auto-refresh\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n📦 [accent]Currently Tracked[]\n\n[cyan]⭐ My Mods (3)[]\n- Unit Namer Mod\n- Shop System Mod\n- ModInfo+ Mod\n\n[lime]📚 Content Mods (8)[]\n- The Infestations\n- Astralis\n- Lovecraftian Library\n- Thermal Engineering\n- Rusted Dunes\n- Echo Fleet\n- Arikoth\n- More Defences\n\n[yellow]🛠️ Tool Mods (2)[]\n- Mod Tools\n- HJSON++\n\n[accent]Total: 13 mods tracked across 3 categories![]\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n🏆 [accent]Tier System[]\n\nClick any mod to see its tier badge based on downloads:\n\n[sky]💎 Diamond Tier[] - 10,000+ downloads\n[yellow]⭐ Gold Tier[] - 5,000+ downloads\n[lightgray]⭐ Silver Tier[] - 1,000+ downloads\n[orange]⭐ Bronze Tier[] - 500+ downloads\n[white]🛡️ Rising Star[] - Under 500 downloads\n\nEach tier represents the mod's popularity and success!\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n📊 [accent]Detailed Statistics View[]\n\nClick any mod name to see:\n\n[cyan]Basic Stats:[]\n- [lime]Total downloads[] (formatted)\n- [cyan]Release count[] (all versions)\n- [yellow]Star count[] (GitHub stars)\n\n[cyan]Timeline:[]\n- [lightgray]Latest release date[]\n- [lightgray]First release date[]\n\n[cyan]Growth Metrics:[]\n- [accent]Downloads per month[] (estimated growth rate)\n- Based on time since first release\n\n[cyan]Tier Badge:[]\n- Visual tier indicator with icon\n- Color-coded by achievement level\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n📢 [accent]Help Expand the List![]\n\nThis mod is [scarlet]community-driven[]. Want to add a mod?\n\n[cyan]How to suggest a mod:[]\n- Contact me on Discord: [lime]samielkun[]\n- Open a GitHub issue with the repo link\n- Format: [lightgray]owner/repo[] (e.g., SamielXD/UnitNamerMod)\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n🔍 [accent]How It Works[]\n\nModInfo+ connects to the [cyan]GitHub API[] and fetches:\n- All releases for each tracked mod\n- Download counts for each release asset\n- Repository information (stars, dates)\n- Total downloads across all versions\n\n[yellow]Smart Caching System:[]\n- Stats cached for [lime]5 minutes[] per mod\n- Displays time remaining until refresh\n- Reduces API calls and improves performance\n- Manual refresh available with 60-second cooldown\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n⚠️ [accent]Important Notes[]\n\n[yellow]Accuracy Disclaimer:[]\nSome mod info may be inaccurate due to:\n- Incorrect or outdated repo links\n- Typos in owner/repo names\n- Forks instead of main repos\n- Private or deleted repositories\n- [scarlet]Some mods may show 0 downloads or not work[] because:\n- They only publish source code in releases (no downloadable files)\n- No release assets attached to their releases\n- Releases contain non-mod files only\n- GitHub API doesn't track direct repository downloads\n\n[yellow]Requirements:[]\n- Active internet connection\n- GitHub API access (token included)\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n🔄 [accent]Caching & Refresh System[]\n\n[lime]Smart Caching:[]\n- Stats cached for [cyan]5 minutes[] per mod\n- Cache timer displays remaining time\n- Automatic refresh when cache expires\n- Separate cache for each repository\n\n[yellow]Manual Refresh:[]\n- [scarlet]60-second cooldown[] between refreshes\n- Clears all cached data\n- Reloads dialog with fresh stats\n- Shows toast notification if cooldown active\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n🎨 [accent]UI Design Updates v1.3[]\n\n[cyan]Category Tabs[] → Switch between My Mods, Content Mods, Tool Mods\n[lime]Pagination[] → 2 mods per page for smooth scrolling\n[yellow]Clickable Mod Names[] → Open detailed statistics dialog\n[sky]Star Button[] → Opens GitHub repo\n[lightgray]View README[] → Read the repo README in-game\n[scarlet]Status Colors[] → Yellow (loading), White (success), Red (failed)\n[gray]Cache Display[] → Shows time until next refresh\n[accent]Navigation[] → Disabled buttons when at page limits\n[sky]Tier Badges[] → Visual achievement indicators\n[lime]Search Bar[] → Search mods by name or owner\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n📜 [accent]Changelog[]\n\n[cyan]v1.3[]\n[lime]New Features:[]\n- Search mods by name or owner\n- Star button opens GitHub repo directly\n- View a mod’s README in-game\n- Minor UI updates for better readability\n- Bug fixes and performance improvements\n\n[cyan]v1.2[]\n[lime]New Features:[]\n- Clickable mod names for detailed stats\n- Tier system (Diamond, Gold, Silver, Bronze, Rising)\n- Star counts and release dates\n- Growth rate tracking (downloads per month)\n- Added 3 new content mods: Echo Fleet, Arikoth, More Defences\n- Enhanced detail dialog with icons\n\n[cyan]v1.1[]\n[lime]New Features:[]\n- Smart 5-minute caching system per repository\n- Cache timer display showing time until auto-refresh\n- Added 8 new tracked mods (total: 10)\n- Reorganized into 3 categories\n- Improved navigation with disabled buttons at page limits\n\n[cyan]v1.0 (Initial Release)[]\n[lime]Features:[]\n- Real-time GitHub statistics fetching\n- Category-based organization\n- Paginated view (2 mods per page)\n- 60-second manual refresh cooldown\n- Download count formatting (K, M)\n- Color-coded UI with status indicators\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n📜 [accent]Version Info[]\n\n[lightgray]Current Version:[] v1.3\n[lightgray]Mods Tracked:[] 13\n[lightgray]Categories:[] 3\n[lightgray]New Features:[] Search, GitHub star button, in-game README, UI updates\n\nThanks for using ModInfo+ and helping grow the Mindustry mod community! 🎉"
   },
   {
     "repo": "mythril382/ammoswap",
@@ -5674,18 +5686,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "[accent] [#FFD700]Unit Namer v1.1[] - Give Your Units Personality!\n\n[white]Transform your gameplay by naming every unit with custom names, colors, and icons that follow them across the battlefield. Perfect for organizing squads, tracking favorites, or just having fun![]\n\n[gray]Note: Still in beta, expect some bugs. Avoid clicking \"Reset to Default\" - it's currently bugged.[]\n\n[accent] [#00D4FF]✨ New in v1.1:[]\n[lime]• Icon System - Add symbols to your unit names[]\n[lime]• Name Packs - Browse preset name collections[]\n[lime]• Backup System - Save and restore your collections (3 slots)[]\n[lime]• Smart Alerts - Get notified when named units are low health[]\n[lime]• Tutorial System - Interactive guide for new users[]\n[lime]• Name Validation - Auto-capitalize and content filtering[]\n[lime]• Export/Import - Share your naming collections[]\n\n[accent] [#FFD700]Core Features:[]\n[white]• Tap any unit to open the rename menu[]\n[white]• Custom names with 12 vibrant colors[]\n[white]• 16 symbols to personalize your units (⚔️, ⚡, ★, etc.)[]\n[white]• Names float above units[]\n[white]• Names persist as long as the unit lives[]\n[white]• Quick names menu with templates and history[]\n[white]• Adjustable name size (10-90)[]\n[white]• Filter: Show only your team's units[]\n[white]• Auto-save every 10 seconds[]\n\n[accent] [#00D4FF]How to Use:[]\n[#BFBFBF]1. Tap on any unit in the game[]\n[#BFBFBF]2. Choose from rename, color, icon, or quick names[]\n[#BFBFBF]3. Enter your custom name (auto-capitalizes)[]\n[#BFBFBF]4. Watch your personalized unit in action![]\n\n[accent] [#FFD700]Pro Tips:[]\n[white]• Use military names for tank squadrons (Alpha, Bravo, Charlie)[]\n[white]• Track powerful units with star symbols ★[]\n[white]• Organize attack groups with themed colors[]\n[white]• Save backups before risky missions[]\n[white]• Check settings for alerts and customization[]\n[white]• Export your collection to share with friends![]\n\n[accent] [#00D4FF]Quick Names Templates:[]\n[white]Scout • Guard • Attack • Defense • Support[]\n\n[accent] [#FFD700]Name Pack Themes:[]\n[red]⚔️ Military[] [blue]🔢 Numbers[] [green]🎨 Colors[] [yellow]⚙️ Roles[] [cyan]🌊 Nature[]\n\n[accent] [#00D4FF]Settings Menu Options:[]\n[white]• Enable/Disable the mod[]\n[white]• Show only your team's units[]\n[white]• Auto-capitalize names[]\n[white]• Health alerts on/off[]\n[white]• Name size slider (10-90)[]\n[white]• Tutorial toggle[]\n[white]• Backup management (3 slots)[]\n[white]• Name pack browser[]\n[white]• Export/Import system[]\n\n[gray]Report bugs or suggest features on GitHub[]"
-  },
-  {
-    "repo": "samielxd/modinfoplus",
-    "internalName": "modinfo",
-    "name": "ModInfo+",
-    "author": "[accent]SamielXD[]",
-    "lastUpdated": "2025-12-27T07:38:29Z",
-    "stars": 3,
-    "minGameVersion": "154.3",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "[accent]ModInfo+ v1.3 📊✨[]\n\nTrack real-time GitHub download statistics for Mindustry mods directly in-game, now with new features like search and GitHub repo access!\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n🌟 [accent]What is ModInfo+?[]\n\nModInfo+ is a lightweight statistics viewer that connects to GitHub's API to fetch [lime]actual download counts[] for your favorite Mindustry mods. No more guessing — see exactly how popular each mod is with [cyan]real data[].\n\nThe tracker is organized into categories, displays mods in a clean interface, includes pagination, smart caching, and now lets you **search mods**, **open GitHub repos directly**, and **read repo READMEs in-game**.\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n📊 [accent]Features[]\n\n[lime]✓[] Real-time GitHub statistics with detailed mod view\n[lime]✓[] Smart 5-minute caching system\n[lime]✓[] Category-based organization (My Mods, Content Mods, Tool Mods)\n[lime]✓[] Paginated view (2 mods per page for zero lag)\n[lime]✓[] 60-second refresh cooldown\n[lime]✓[] Download counts formatted (1.2K, 3.5M, etc.)\n[lime]✓[] [cyan]NEW:[] Click mod names for detailed statistics\n[lime]✓[] [cyan]NEW:[] Tier system (Diamond, Gold, Silver, Bronze, Rising)\n[lime]✓[] [cyan]NEW:[] Star button opens GitHub repo directly\n[lime]✓[] [cyan]NEW:[] Search mods by name or owner\n[lime]✓[] [cyan]NEW:[] View a mod’s README directly in-game\n[lime]✓[] Star counts and release dates\n[lime]✓[] Growth rate tracking (downloads/month)\n[lime]✓[] Cache timer display (shows time until auto-refresh)\n[lime]✓[] Color-coded status indicators\n[lime]✓[] Clean, intuitive UI with navigation\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n🎮 [accent]How to Use[]\n\n1. Click the [cyan]ModInfo+[] button in the main menu\n2. Select a category from the top tabs\n3. Browse mods (2 per page) or use [lime]Search[]\n4. [cyan]Click on any mod name[] to view detailed statistics\n5. Use [lightgray]< Prev[] and [lightgray]Next >[] to navigate\n6. Click the [yellow]Star[] button to open the mod's GitHub repo\n7. Click [lime]View README[] to read the mod’s README in-game\n8. Hit [accent]Refresh[] to update stats (1-minute cooldown)\n9. Watch the cache timer count down until auto-refresh\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n📦 [accent]Currently Tracked[]\n\n[cyan]⭐ My Mods (3)[]\n- Unit Namer Mod\n- Shop System Mod\n- ModInfo+ Mod\n\n[lime]📚 Content Mods (8)[]\n- The Infestations\n- Astralis\n- Lovecraftian Library\n- Thermal Engineering\n- Rusted Dunes\n- Echo Fleet\n- Arikoth\n- More Defences\n\n[yellow]🛠️ Tool Mods (2)[]\n- Mod Tools\n- HJSON++\n\n[accent]Total: 13 mods tracked across 3 categories![]\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n🏆 [accent]Tier System[]\n\nClick any mod to see its tier badge based on downloads:\n\n[sky]💎 Diamond Tier[] - 10,000+ downloads\n[yellow]⭐ Gold Tier[] - 5,000+ downloads\n[lightgray]⭐ Silver Tier[] - 1,000+ downloads\n[orange]⭐ Bronze Tier[] - 500+ downloads\n[white]🛡️ Rising Star[] - Under 500 downloads\n\nEach tier represents the mod's popularity and success!\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n📊 [accent]Detailed Statistics View[]\n\nClick any mod name to see:\n\n[cyan]Basic Stats:[]\n- [lime]Total downloads[] (formatted)\n- [cyan]Release count[] (all versions)\n- [yellow]Star count[] (GitHub stars)\n\n[cyan]Timeline:[]\n- [lightgray]Latest release date[]\n- [lightgray]First release date[]\n\n[cyan]Growth Metrics:[]\n- [accent]Downloads per month[] (estimated growth rate)\n- Based on time since first release\n\n[cyan]Tier Badge:[]\n- Visual tier indicator with icon\n- Color-coded by achievement level\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n📢 [accent]Help Expand the List![]\n\nThis mod is [scarlet]community-driven[]. Want to add a mod?\n\n[cyan]How to suggest a mod:[]\n- Contact me on Discord: [lime]samielkun[]\n- Open a GitHub issue with the repo link\n- Format: [lightgray]owner/repo[] (e.g., SamielXD/UnitNamerMod)\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n🔍 [accent]How It Works[]\n\nModInfo+ connects to the [cyan]GitHub API[] and fetches:\n- All releases for each tracked mod\n- Download counts for each release asset\n- Repository information (stars, dates)\n- Total downloads across all versions\n\n[yellow]Smart Caching System:[]\n- Stats cached for [lime]5 minutes[] per mod\n- Displays time remaining until refresh\n- Reduces API calls and improves performance\n- Manual refresh available with 60-second cooldown\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n⚠️ [accent]Important Notes[]\n\n[yellow]Accuracy Disclaimer:[]\nSome mod info may be inaccurate due to:\n- Incorrect or outdated repo links\n- Typos in owner/repo names\n- Forks instead of main repos\n- Private or deleted repositories\n- [scarlet]Some mods may show 0 downloads or not work[] because:\n- They only publish source code in releases (no downloadable files)\n- No release assets attached to their releases\n- Releases contain non-mod files only\n- GitHub API doesn't track direct repository downloads\n\n[yellow]Requirements:[]\n- Active internet connection\n- GitHub API access (token included)\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n🔄 [accent]Caching & Refresh System[]\n\n[lime]Smart Caching:[]\n- Stats cached for [cyan]5 minutes[] per mod\n- Cache timer displays remaining time\n- Automatic refresh when cache expires\n- Separate cache for each repository\n\n[yellow]Manual Refresh:[]\n- [scarlet]60-second cooldown[] between refreshes\n- Clears all cached data\n- Reloads dialog with fresh stats\n- Shows toast notification if cooldown active\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n🎨 [accent]UI Design Updates v1.3[]\n\n[cyan]Category Tabs[] → Switch between My Mods, Content Mods, Tool Mods\n[lime]Pagination[] → 2 mods per page for smooth scrolling\n[yellow]Clickable Mod Names[] → Open detailed statistics dialog\n[sky]Star Button[] → Opens GitHub repo\n[lightgray]View README[] → Read the repo README in-game\n[scarlet]Status Colors[] → Yellow (loading), White (success), Red (failed)\n[gray]Cache Display[] → Shows time until next refresh\n[accent]Navigation[] → Disabled buttons when at page limits\n[sky]Tier Badges[] → Visual achievement indicators\n[lime]Search Bar[] → Search mods by name or owner\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n📜 [accent]Changelog[]\n\n[cyan]v1.3[]\n[lime]New Features:[]\n- Search mods by name or owner\n- Star button opens GitHub repo directly\n- View a mod’s README in-game\n- Minor UI updates for better readability\n- Bug fixes and performance improvements\n\n[cyan]v1.2[]\n[lime]New Features:[]\n- Clickable mod names for detailed stats\n- Tier system (Diamond, Gold, Silver, Bronze, Rising)\n- Star counts and release dates\n- Growth rate tracking (downloads per month)\n- Added 3 new content mods: Echo Fleet, Arikoth, More Defences\n- Enhanced detail dialog with icons\n\n[cyan]v1.1[]\n[lime]New Features:[]\n- Smart 5-minute caching system per repository\n- Cache timer display showing time until auto-refresh\n- Added 8 new tracked mods (total: 10)\n- Reorganized into 3 categories\n- Improved navigation with disabled buttons at page limits\n\n[cyan]v1.0 (Initial Release)[]\n[lime]Features:[]\n- Real-time GitHub statistics fetching\n- Category-based organization\n- Paginated view (2 mods per page)\n- 60-second manual refresh cooldown\n- Download count formatting (K, M)\n- Color-coded UI with status indicators\n\n[accent]━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[]\n\n📜 [accent]Version Info[]\n\n[lightgray]Current Version:[] v1.3\n[lightgray]Mods Tracked:[] 13\n[lightgray]Categories:[] 3\n[lightgray]New Features:[] Search, GitHub star button, in-game README, UI updates\n\nThanks for using ModInfo+ and helping grow the Mindustry mod community! 🎉"
   },
   {
     "repo": "blockzilla101/bomberman-disable-flying",
@@ -9208,7 +9208,7 @@
     "internalName": "apolotus",
     "name": "Apolotus",
     "author": "Tweu(Yt:R99_99,Dc:Tinnphat) and Lucas(Dc:MicroProcessor)",
-    "lastUpdated": "2025-12-27T13:17:28Z",
+    "lastUpdated": "2025-12-27T14:59:34Z",
     "stars": 1,
     "minGameVersion": "154.2",
     "hasScripts": false,
@@ -11860,7 +11860,7 @@
     "internalName": "oleksiyresprites",
     "name": "oleksiy's stuff",
     "author": "minos prime ultrakill (AKA auvathia teams leader)",
-    "lastUpdated": "2025-12-27T13:50:03Z",
+    "lastUpdated": "2025-12-27T14:13:39Z",
     "stars": 0,
     "minGameVersion": "154",
     "hasScripts": false,
