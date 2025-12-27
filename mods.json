@@ -5,7 +5,7 @@
     "name": "New Horizon",
     "author": "Yuria & Lao",
     "lastUpdated": "2025-12-24T19:10:14Z",
-    "stars": 512,
+    "stars": 513,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
@@ -88,7 +88,7 @@
     "internalName": "mindustry-tool",
     "name": "Mindustry Tool",
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2025-12-27T15:56:28Z",
+    "lastUpdated": "2025-12-27T16:48:18Z",
     "stars": 181,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -484,7 +484,7 @@
     "internalName": "he",
     "name": "Helium",
     "author": "EBwilson",
-    "lastUpdated": "2025-12-27T15:22:49Z",
+    "lastUpdated": "2025-12-27T16:20:25Z",
     "stars": 41,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -2352,6 +2352,18 @@
     "description": "The officially acknowledged port of New Console for v147-above.\n\nAdds a console UI superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more:\nA good log panel, execution history - all of that is included in this mod.\n\nIn addition to the console, this mod offers:\n- An ability to save as many scripts as you want and to either execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
   },
   {
+    "repo": "acookieg/carbon-vanilla",
+    "internalName": "carbon vanilla",
+    "name": "Carbon-Vanilla",
+    "author": "AcookieG",
+    "lastUpdated": "2025-12-26T12:37:16Z",
+    "stars": 9,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds multiple new factories, turrets and items to enhance vanilla content and add more things post-late game.\nIMPORTANT: Credit for sprites cuz stealing bad: \n- Eschatologue/Unlimited-Armament-Works\n- AureusStratus/ExoGenesis \n- Eschatologue/Heavy-Armaments-Industries\n- uujuju1/project-oblivion\n- Twcash/Aquarion\n- thomas_has_things(discord) Thomas's Things \n- and a huge shoutout to y'all on the Mindustry Discord\nMod was originally a personal project, sorry if I used your sprites without consent."
+  },
+  {
     "repo": "samielxd/shopsystemmod",
     "internalName": "shopsystem",
     "name": "Shop System",
@@ -2650,18 +2662,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
-  },
-  {
-    "repo": "acookieg/carbon-vanilla",
-    "internalName": "carbon vanilla",
-    "name": "Carbon-Vanilla",
-    "author": "AcookieG",
-    "lastUpdated": "2025-12-26T12:37:16Z",
-    "stars": 8,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds multiple new factories, turrets and items to enhance vanilla content and add more things post-late game.\nIMPORTANT: Credit for sprites cuz stealing bad: \n- Eschatologue/Unlimited-Armament-Works\n- AureusStratus/ExoGenesis \n- Eschatologue/Heavy-Armaments-Industries\n- uujuju1/project-oblivion\n- Twcash/Aquarion\n- thomas_has_things(discord) Thomas's Things \n- and a huge shoutout to y'all on the Mindustry Discord\nMod was originally a personal project, sorry if I used your sprites without consent."
   },
   {
     "repo": "fabizocker456/test",
@@ -7140,18 +7140,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "somenamemindustry/mody",
-    "internalName": "mm",
-    "name": "My first moddy mod",
-    "author": "justcallmejust",
-    "lastUpdated": "2025-12-27T02:48:38Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "My first mod so far, currently has not much to it,\nAdds balista, multi-balista tower, cyber-balista(WIP), two new maps for serpulo,\ni would be pleased if you tested the mod and found any non-intencional mistakes\nName ideas would be welcome as well\nv0.07\nIdk how to fix the arrow projectile btw."
-  },
-  {
     "repo": "dustdustry/dpsheatmap",
     "internalName": "dps-heatmap",
     "name": "Dps Heatmap",
@@ -7162,6 +7150,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Dps Heatmap"
+  },
+  {
+    "repo": "somenamemindustry/mody",
+    "internalName": "mm",
+    "name": "Moddy Mod",
+    "author": "justcallmejust",
+    "lastUpdated": "2025-12-27T17:31:31Z",
+    "stars": 2,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "My first mod so far, currently has not much to it,\nv0.08\n\n\nAdds balista, multi-balista tower, cyber-balista( or Bettle in-game, WIP), two new maps for serpulo,\nwe removed support for v7 due to some problems with mapping, we will try to fix it later\ncyber balista finally has a sprite (...).\nrenamed from My first moddy mod to Moddy Mod\n\ni would be pleased if you tested the mod and dm me about any bug\nIdk how to fix the arrow projectile btw."
   },
   {
     "repo": "teaeempire/gghv7",
@@ -9208,7 +9208,7 @@
     "internalName": "apolotus",
     "name": "Apolotus",
     "author": "Tweu(Yt:R99_99,Dc:Tinnphat) and Lucas(Dc:MicroProcessor)",
-    "lastUpdated": "2025-12-27T14:59:34Z",
+    "lastUpdated": "2025-12-27T16:46:40Z",
     "stars": 1,
     "minGameVersion": "154.2",
     "hasScripts": false,
@@ -11860,7 +11860,7 @@
     "internalName": "oleksiyresprites",
     "name": "oleksiy's stuff",
     "author": "minos prime ultrakill (AKA auvathia teams leader)",
-    "lastUpdated": "2025-12-27T14:13:39Z",
+    "lastUpdated": "2025-12-27T17:56:56Z",
     "stars": 0,
     "minGameVersion": "154",
     "hasScripts": false,
