@@ -76,7 +76,7 @@
     "internalName": "asthosus",
     "name": "Asthosus",
     "author": "Catser",
-    "lastUpdated": "2025-12-27T05:06:06Z",
+    "lastUpdated": "2025-12-27T13:59:23Z",
     "stars": 196,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -88,7 +88,7 @@
     "internalName": "mindustry-tool",
     "name": "Mindustry Tool",
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2025-12-27T11:43:52Z",
+    "lastUpdated": "2025-12-27T12:18:08Z",
     "stars": 180,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -353,7 +353,7 @@
     "name": "Project: Restoration",
     "author": "VvSeanGtvV",
     "lastUpdated": "2025-12-22T02:50:04Z",
-    "stars": 62,
+    "stars": 63,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
@@ -624,6 +624,18 @@
     "description": "A mod made by CD, meowkitty and 7rodo that features:\n- A new planet.\n- LOTS of new Serpulo content such as units, turrets, sectors, etc.\n- Many changes to existing Serpulo content.\n- Some new erekir content.\n- Cross-mod content with a couple few mods.\n- FULL Multiplayer and Android compatibility.\n- Extra minor additions.\n\nDiscord: https://discord.gg/9YHA3q8HHq"
   },
   {
+    "repo": "tnmspiroct/exoprosopa",
+    "internalName": "exoprosopa",
+    "name": "Exoprosopa",
+    "author": "TnmSpiroct",
+    "lastUpdated": "2025-12-18T06:55:05Z",
+    "stars": 34,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "  [#93E2EE]Exoprosopa[] adds Frostnova as a third planet into the game alongside with its own unique techtree and environment.\n\n  Polished content & linear campaign progression.\n  Capture and conquer with over 20 campaign maps.\n  Over 21 items to be discovered, 196 blocks to be researched. and 30 different units to build!\n  Harvest the planet with your technology before Astral Infection awaken and conquer the entire planet.\n\n  [accent]Thankyou for playing this mod! \n  You can contributes maps or gives suggestions by join Exoprosopa Discord Server! \n  Check it on my profile. My username is TnmSpiroct.\n\n  [salmon]This mod requires newest mindustry build to be played (Beta 153)"
+  },
+  {
     "repo": "dong-wo-long/betterdustrymod",
     "internalName": "bsm",
     "name": "Betterustry Mod",
@@ -646,18 +658,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod provides a variety of tools for modding.\n\n-----------------\nVersion 1.5.6\n## Highlight\n- Added some new features.\n- Fixed some bugs.\n-----------------\n\n## ShowUIList\n\n- Display `icon`, `tex`, `styles`, `colors`, `interps`\\\n!(./screenshots/UIList.png)\n\n## Tester\n\n!(./screenshots/tester.png)\n\n- Provide `JS` editor `Tester`\n- Shortcuts\n- Press `Ctrl`+`Shift`+`Enter` to `execute` code immediately\n- Press `Ctrl`+`Shift`+`↑/↓` to switch `history` records\n- Press `Ctrl`+`Shift`+`D` to `view` detailed information\n- Press `Alt`+`V` to preview `Texture`\n- Built-in `unsafe`, `lookup`\n- Built-in `IntFunc` class (abbreviated as `$`)\n- `$.xxx` can represent primitive data types (e.g., `$.void` represents `Void.TYPE`;`$.J` represents long.class)\n- `$p` represents `Packages`\n- Code: [JSFunc](https://github.com/i-hope1/mod-tools/src/modtools/utils/JSFunc.java)\n- Long press on code in the favorites to add to startup items\\\n!(./screenshots/startup.png)\n- Quick switch history\\\n![Screenshot 2024-03-10 14-45-37](https://github.com/I-hope1/mod-tools/assets/78016895/4918af35-19af-4fab-b961-70bdc8679fe8)\n- `$.item`, `$.liquid`, `$.unit` and so on.\n\n## UnitSpawn\n\n- Multiple team selection\n- Support for fixed point spawning\n- Display `name` and `localizedName`\n- Rightclick the name Label to copy save as JS var.\n\n## Selection\n\n- Selector\n- Supports `Tile`, `Building`, `Bullet`, `Unit`\n- Kill\n- Set Item/Liquid/Team\n- Press `Ctrl`+`Alt` to fix Focus Window\n\n## ReviewElement\n\n- Display element list, double-click to copy element to js variable\n- `Ctrl`+`Shift`+`C` to Inspect Element\n- `Ctrl`+`Alt`+`D` to display bounds of Element\n- Select untouchable elements\n- Mobile: Filter current element with two fingers\n- PC: Press `F` to filter current element\n- Functions shortcuts for Element\n- `i`: display details (open ShowInfoWindow)\\\n- `p`(for Image):  show `DrawablePicker`\n- `del`: (`shift` to ignore confirmation), delete element\n- `<` / `>`: collapse Group\n- `f`: fix floating Info column\n- `r`: invoke element's method\n\n- ![reviewElement](./screenshots/review_element.png)\n\n# Frag\n\n- Double-click the blue part of Frag to minimize/restore Frag\n- In the minimized state, click the blue part, it will behave like a floating ball\n\n## Window\n\n- Press `Ctrl`+`Tab` to switch windows\n- Press `Shift`+`F4` to close current window\n- RClick the close button to move and scl window.\n\n## ShowInfoWindow\n\n- Show all fields, methods, constructors and nested classes of a obj.\n- Field can be modified.\n- Method can be Invoked(Special).\n- Constructor can be invoked to new a instance.\n\n## Others\n\n### Extensions\n- Http Redirect\n> Redirect some websites, such as: github\\\n> Configuration file: b0kkihope/http_redirect.properties"
-  },
-  {
-    "repo": "tnmspiroct/exoprosopa",
-    "internalName": "exoprosopa",
-    "name": "Exoprosopa",
-    "author": "TnmSpiroct",
-    "lastUpdated": "2025-12-18T06:55:05Z",
-    "stars": 33,
-    "minGameVersion": "154",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "  [#93E2EE]Exoprosopa[] adds Frostnova as a third planet into the game alongside with its own unique techtree and environment.\n\n  Polished content & linear campaign progression.\n  Capture and conquer with over 20 campaign maps.\n  Over 21 items to be discovered, 196 blocks to be researched. and 30 different units to build!\n  Harvest the planet with your technology before Astral Infection awaken and conquer the entire planet.\n\n  [accent]Thankyou for playing this mod! \n  You can contributes maps or gives suggestions by join Exoprosopa Discord Server! \n  Check it on my profile. My username is TnmSpiroct.\n\n  [salmon]This mod requires newest mindustry build to be played (Beta 153)"
   },
   {
     "repo": "uenhe/fire",
@@ -1828,7 +1828,7 @@
     "internalName": "corpuscles",
     "name": "Corpuscles",
     "author": "SezoVK",
-    "lastUpdated": "2025-12-27T01:35:11Z",
+    "lastUpdated": "2025-12-27T13:21:49Z",
     "stars": 12,
     "minGameVersion": "154.3",
     "hasScripts": true,
@@ -1948,7 +1948,7 @@
     "internalName": "vne",
     "name": "Vanilla Neoplasm Extend",
     "author": "pardon",
-    "lastUpdated": "2025-12-22T15:26:28Z",
+    "lastUpdated": "2025-12-27T13:06:33Z",
     "stars": 11,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -3792,18 +3792,6 @@
     "description": "Replaces every single musics ingame with some cool and nostalgic musics I took from YouTube. Please leave a star in the repository if you like it."
   },
   {
-    "repo": "mindustryid/terjemahanindonesia",
-    "internalName": "terjemahan-indonesia",
-    "name": "Terjemahan Indonesia",
-    "author": "Kevin Vilyan",
-    "lastUpdated": "2025-12-25T02:31:56Z",
-    "stars": 5,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• Kevin Vilyan - Kenny\n• WilloIzCitron - William A\n• SAMBUYYA\n\n[accent]Anggota - Pensiun:[gray]\n• Korxopid\n• TheMrAlbert\n• GrimSoul"
-  },
-  {
     "repo": "koctz34/minduntm",
     "internalName": "ntm",
     "name": "NTM - Nuclear tech mod",
@@ -3816,11 +3804,23 @@
     "description": "Hbm's NTM (by Bobcat) in mindustry!\nMinecraft, Satisfactory, Rust, and other...\n\nOnly decor blocks\n\nDisable linear filtering in settings!"
   },
   {
+    "repo": "mindustryid/terjemahanindonesia",
+    "internalName": "terjemahan-indonesia",
+    "name": "Terjemahan Indonesia",
+    "author": "Kevin Vilyan",
+    "lastUpdated": "2025-12-27T13:27:57Z",
+    "stars": 5,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• Kevin Vilyan - Kenny\n• WilloIzCitron - William A\n• SAMBUYYA\n\n[accent]Anggota - Pensiun:[gray]\n• Korxopid\n• TheMrAlbert\n• GrimSoul"
+  },
+  {
     "repo": "fat-bird-owner/the-infestations",
     "internalName": "infestation",
     "name": "The Infestation",
     "author": "\nFat Bird's Owner - Creator\nLJ - Some sprites\n",
-    "lastUpdated": "2025-12-27T08:59:55Z",
+    "lastUpdated": "2025-12-27T13:58:38Z",
     "stars": 5,
     "minGameVersion": "153",
     "hasScripts": false,
@@ -8868,30 +8868,6 @@
     "description": "Welcome to Farborne Dynamics! A remake/soft reboot of my Mindustry mod Farborne Industries\n\nNote: restart your game for special settings to take effect"
   },
   {
-    "repo": "kashkinzey/cheatmindy",
-    "internalName": "kashkinzey_cheat",
-    "name": "Kashkinzey Cheat",
-    "author": "Kashkinzey",
-    "lastUpdated": "2025-09-12T14:07:26Z",
-    "stars": 1,
-    "minGameVersion": "150",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The best cheat mod for mindustry. Adds a button to change the rules of the game in all game modes and automatically unlocks all research. Want to see the new features? Message me on GitHub. In the future, I will add settings to disable many features, and you'll find out more on GitHub."
-  },
-  {
-    "repo": "kashkinzey/autopump",
-    "internalName": "auto-pump",
-    "name": "Auto Pump",
-    "author": "Kashkinzey",
-    "lastUpdated": "2025-09-14T05:35:29Z",
-    "stars": 1,
-    "minGameVersion": "150",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "This mod places pumps in such a way that they occupy 75 percent of the water body area, while the bridge pipelines occupy 25 percent of the water body area. The mod has its own section in the game settings."
-  },
-  {
     "repo": "nannerbz/apolonost",
     "internalName": "apolonost",
     "name": "Apolon OST",
@@ -9232,7 +9208,7 @@
     "internalName": "apolotus",
     "name": "Apolotus",
     "author": "Tweu(Yt:R99_99,Dc:Tinnphat) and Lucas(Dc:MicroProcessor)",
-    "lastUpdated": "2025-12-27T11:56:13Z",
+    "lastUpdated": "2025-12-27T13:17:28Z",
     "stars": 1,
     "minGameVersion": "154.2",
     "hasScripts": false,
@@ -11868,27 +11844,27 @@
     "description": "\n\n I have dizzy from Item line , complicated power plan , complicated factory and CoreBase .\n This for help for easy way to play .\n Enjoy , Good mood , Good Luck\n \n Jua\n\n copy some part from Anser erekir , Anser serpulo , \n\n "
   },
   {
-    "repo": "oleksiy1409liut/oleksiysstuff",
-    "internalName": "oleksiyresprites",
-    "name": "oleksiy's stuff",
-    "author": "minos prime ultrakill (AKA auvathia teams leader)",
-    "lastUpdated": "2025-12-27T10:57:30Z",
-    "stars": 0,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "random additional stuff in the game, beta versions only"
-  },
-  {
     "repo": "firfaronde/packet-patcher",
     "internalName": "packet-patcher",
     "name": "Packet Patcher",
     "author": "firnoarde",
-    "lastUpdated": "2025-12-27T11:32:45Z",
+    "lastUpdated": "2025-12-27T12:15:26Z",
     "stars": 0,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
     "description": "Lib that helps you patch packets."
+  },
+  {
+    "repo": "oleksiy1409liut/oleksiysstuff",
+    "internalName": "oleksiyresprites",
+    "name": "oleksiy's stuff",
+    "author": "minos prime ultrakill (AKA auvathia teams leader)",
+    "lastUpdated": "2025-12-27T13:50:03Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "random additional stuff in the game, beta versions only"
   }
 ]
