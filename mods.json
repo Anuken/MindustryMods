@@ -352,7 +352,7 @@
     "internalName": "restored-mind",
     "name": "Project: Restoration",
     "author": "VvSeanGtvV",
-    "lastUpdated": "2025-12-22T02:50:04Z",
+    "lastUpdated": "2025-12-27T22:01:23Z",
     "stars": 63,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -916,7 +916,7 @@
     "internalName": "echo-fleet",
     "name": "Echo Fleet",
     "author": "Dev - Blehhhh cat\nContributors - Kamikazefoxmk.i, Tinport, Aerodynamic Attorney \nMusic Composer - Ace1020spawn",
-    "lastUpdated": "2025-12-24T12:46:04Z",
+    "lastUpdated": "2025-12-27T22:08:54Z",
     "stars": 23,
     "minGameVersion": "153",
     "hasScripts": true,
@@ -1828,7 +1828,7 @@
     "internalName": "corpuscles",
     "name": "Corpuscles",
     "author": "SezoVK",
-    "lastUpdated": "2025-12-27T13:21:49Z",
+    "lastUpdated": "2025-12-28T00:33:28Z",
     "stars": 12,
     "minGameVersion": "154.3",
     "hasScripts": true,
@@ -7044,18 +7044,6 @@
     "description": "[#93e2ee] A mod that adds a brand new world with it's solar system"
   },
   {
-    "repo": "xpdustry/kotlin-runtime",
-    "internalName": "kotlin-runtime",
-    "name": "KotlinRuntime",
-    "author": "Xpdustry",
-    "lastUpdated": "2025-12-16T13:41:33Z",
-    "stars": 2,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A companion mod for Kotlin based mods and plugins."
-  },
-  {
     "repo": "m-e-l-i-s/silviriumjava",
     "internalName": "sli",
     "name": "Silvirium",
@@ -7162,6 +7150,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "My first mod so far, currently has not much to it,\nv0.08\n\n\nAdds balista, multi-balista tower, cyber-balista( or Bettle in-game, WIP), two new maps for serpulo,\nwe removed support for v7 due to some problems with mapping, we will try to fix it later\ncyber balista finally has a sprite (...).\nrenamed from My first moddy mod to Moddy Mod\n\ni would be pleased if you tested the mod and dm me about any bug\nIdk how to fix the arrow projectile btw."
+  },
+  {
+    "repo": "xpdustry/kotlin-runtime",
+    "internalName": "kotlin-runtime",
+    "name": "KotlinRuntime",
+    "author": "Xpdustry",
+    "lastUpdated": "2025-12-27T22:12:24Z",
+    "stars": 2,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
     "repo": "teaeempire/gghv7",
@@ -8880,18 +8880,6 @@
     "description": "The Official Soundtrack for Apolon! Music entirely by Vdoble.\n\nNOTE: Overrides vanilla music. Will remove vanilla tracks until disabled."
   },
   {
-    "repo": "50275/legacy-launch-pads",
-    "internalName": "legacy-launch-pads",
-    "name": "Legacy Launch Pads",
-    "author": "50275",
-    "lastUpdated": "2025-09-20T21:48:47Z",
-    "stars": 1,
-    "minGameVersion": "147",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "For Mindustry versions newer than v146: advanced launch pads and landing pads are replaced by the v146 launch pad."
-  },
-  {
     "repo": "figseu-technology/greenfortress",
     "internalName": "green fortress",
     "name": "Green Fortress",
@@ -9192,18 +9180,6 @@
     "description": "A JavaScript library for my other mods."
   },
   {
-    "repo": "r99space99yt/apolotus",
-    "internalName": "apolotus",
-    "name": "Apolotus",
-    "author": "Tweu(Yt:R99_99,Dc:Tinnphat) and Lucas(Dc:MicroProcessor)",
-    "lastUpdated": "2025-12-27T16:46:40Z",
-    "stars": 1,
-    "minGameVersion": "154.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "If you like the mod, please star on github!\n campaign unavailable\nadd new solar system called Apolotus\na system that have planet-?̴̱͈͆?̸̟̾̓?̴͍̾̊ That seem spreading and growing?\nThe Organization Have sent 7(?) ships and your mission is find them all."
-  },
-  {
     "repo": "xpdustry/slf4md",
     "internalName": "slf4md",
     "name": "SLF4MD",
@@ -9214,6 +9190,31 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A basic SLF4J implementation for Mindustry."
+  },
+  {
+    "repo": "50275/legacy-launch-pads",
+    "internalName": "legacy-launch-pads",
+    "name": "Legacy Launch Pads",
+    "author": "50275",
+    "lastUpdated": "2025-12-28T00:06:20Z",
+    "stars": 1,
+    "minGameVersion": "147",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "For Mindustry versions newer than v146: advanced launch pads and landing pads are replaced by the v146 launch pad.",
+    "iosCompatible": true
+  },
+  {
+    "repo": "r99space99yt/apolotus",
+    "internalName": "apolotus",
+    "name": "Apolotus",
+    "author": "Tweu(Yt:R99_99,Dc:Tinnphat) and Lucas(Dc:MicroProcessor)",
+    "lastUpdated": "2025-12-28T00:39:01Z",
+    "stars": 1,
+    "minGameVersion": "154.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "If you like the mod, please star on github!\n campaign unavailable\nadd new solar system called Apolotus\na system that have planet-?̴̱͈͆?̸̟̾̓?̴͍̾̊ That seem spreading and growing?\nThe Organization Have sent 7(?) ships and your mission is find them all."
   },
   {
     "repo": "exxleo/exoterusmod",
