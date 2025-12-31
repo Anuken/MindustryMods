@@ -648,18 +648,6 @@
     "description": "I'm too lazy to work on this mod 24/7, so don't expect frequent updates. The reason is simple: no spriters, no testers, no moral support... in short, we endure and we carry on\n\n= = = = = О моде / About mod = = = = =\n\nRU: Очень опасный мод, который влияет на баланс и механику игры, добавляет новый контент в виде статус эффектов и оборонительных сооружений (башен, мин и т.д.).\n\nРекомендуется перед установкой сделать сохранение (чтобы откатиться назад), если в случае вам не понравится то, что может сделать данный мод. И лучше в самом деле не рискуйте лишний раз и поверьте на слово: МОД. МЕНЯЕТ. МНОГОЕ.\n\nВажно: Описание некоторых юнитов не корректно, либо и вовсе неправильное.\n\n\n\nENG: A highly dangerous mod that affects game balance and mechanics, adding new content in the form of status effects and defensive structures (towers, mines, etc.).\n\n\nIt is highly recommended to create a backup save before installation (so you can revert), in case you don't like what this mod might do. And really, it's better not to take unnecessary risks and just take our word for it: THIS MOD. CHANGES. MANY THINGS.\n\nImportant: The descriptions for some units are incorrect or entirely wrong.\n\nОсобая благодарность для людей / A Special Thank You to people:\n- inflarespirit (eve_light)\n- ARmOrDer\n\nСтатисты / Playtesters: kakoy-to Nekit, a takze nytiki i haters\n\n(Nekit, don't be offended, it's a joke. You are also worthy of special thanks on the same level as ARmOrDer)"
   },
   {
-    "repo": "uenhe/fire",
-    "internalName": "fire",
-    "name": "Fire",
-    "author": "飞雨a_sszylfyzgmz\nKochiyaUeneh油苗子",
-    "lastUpdated": "2025-12-19T11:47:13Z",
-    "stars": 33,
-    "minGameVersion": "154.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#FFE9BF]A Mindustry Mod that adds many unique things...\nClick the 'Repo' button below to skip to GitHub page.\nAny feedback, GitHub issue, pull request or translation tweak is welcome.\nStar us on GitHub if you suppose this mod awesome!\n\n模组QQ交流群: 711467227\n模组GitHub页面点击下方'查看'按钮即可跳转\n一个奇奇怪怪又十分核锂的mod...\n欢迎反映任何关于此模组的BUG和建议\n去GitHub star我们再好不过了!"
-  },
-  {
     "repo": "i-hope1/mod-tools",
     "internalName": "mod-tools",
     "name": "mod-tools",
@@ -670,6 +658,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod provides a variety of tools for modding.\n\n-----------------\nVersion 1.5.6\n## Highlight\n- Added some new features.\n- Fixed some bugs.\n-----------------\n\n## ShowUIList\n\n- Display `icon`, `tex`, `styles`, `colors`, `interps`\\\n!(./screenshots/UIList.png)\n\n## Tester\n\n!(./screenshots/tester.png)\n\n- Provide `JS` editor `Tester`\n- Shortcuts\n- Press `Ctrl`+`Shift`+`Enter` to `execute` code immediately\n- Press `Ctrl`+`Shift`+`↑/↓` to switch `history` records\n- Press `Ctrl`+`Shift`+`D` to `view` detailed information\n- Press `Alt`+`V` to preview `Texture`\n- Built-in `unsafe`, `lookup`\n- Built-in `IntFunc` class (abbreviated as `$`)\n- `$.xxx` can represent primitive data types (e.g., `$.void` represents `Void.TYPE`;`$.J` represents long.class)\n- `$p` represents `Packages`\n- Code: [JSFunc](https://github.com/i-hope1/mod-tools/src/modtools/utils/JSFunc.java)\n- Long press on code in the favorites to add to startup items\\\n!(./screenshots/startup.png)\n- Quick switch history\\\n![Screenshot 2024-03-10 14-45-37](https://github.com/I-hope1/mod-tools/assets/78016895/4918af35-19af-4fab-b961-70bdc8679fe8)\n- `$.item`, `$.liquid`, `$.unit` and so on.\n\n## UnitSpawn\n\n- Multiple team selection\n- Support for fixed point spawning\n- Display `name` and `localizedName`\n- Rightclick the name Label to copy save as JS var.\n\n## Selection\n\n- Selector\n- Supports `Tile`, `Building`, `Bullet`, `Unit`\n- Kill\n- Set Item/Liquid/Team\n- Press `Ctrl`+`Alt` to fix Focus Window\n\n## ReviewElement\n\n- Display element list, double-click to copy element to js variable\n- `Ctrl`+`Shift`+`C` to Inspect Element\n- `Ctrl`+`Alt`+`D` to display bounds of Element\n- Select untouchable elements\n- Mobile: Filter current element with two fingers\n- PC: Press `F` to filter current element\n- Functions shortcuts for Element\n- `i`: display details (open ShowInfoWindow)\\\n- `p`(for Image):  show `DrawablePicker`\n- `del`: (`shift` to ignore confirmation), delete element\n- `<` / `>`: collapse Group\n- `f`: fix floating Info column\n- `r`: invoke element's method\n\n- ![reviewElement](./screenshots/review_element.png)\n\n# Frag\n\n- Double-click the blue part of Frag to minimize/restore Frag\n- In the minimized state, click the blue part, it will behave like a floating ball\n\n## Window\n\n- Press `Ctrl`+`Tab` to switch windows\n- Press `Shift`+`F4` to close current window\n- RClick the close button to move and scl window.\n\n## ShowInfoWindow\n\n- Show all fields, methods, constructors and nested classes of a obj.\n- Field can be modified.\n- Method can be Invoked(Special).\n- Constructor can be invoked to new a instance.\n\n## Others\n\n### Extensions\n- Http Redirect\n> Redirect some websites, such as: github\\\n> Configuration file: b0kkihope/http_redirect.properties"
+  },
+  {
+    "repo": "uenhe/fire",
+    "internalName": "fire",
+    "name": "Fire",
+    "author": "飞雨a_sszylfyzgmz\nKochiyaUeneh油苗子",
+    "lastUpdated": "2025-12-31T09:39:05Z",
+    "stars": 33,
+    "minGameVersion": "154.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#FFE9BF]A Mindustry Mod that adds many unique things...\nClick the 'Repo' button below to skip to GitHub page.\nAny feedback, GitHub issue, pull request or translation tweak is welcome.\nStar us on GitHub if you suppose this mod awesome!\n\n模组QQ交流群: 711467227\n模组GitHub页面点击下方'查看'按钮即可跳转\n一个奇奇怪怪又十分核锂的mod...\n欢迎反映任何关于此模组的BUG和建议\n去GitHub star我们再好不过了!"
   },
   {
     "repo": "haznobrain/erekir-liquefied",
@@ -1936,12 +1936,12 @@
     "internalName": "vne",
     "name": "Vanilla Neoplasm Extend",
     "author": "pardon",
-    "lastUpdated": "2025-12-27T13:06:33Z",
+    "lastUpdated": "2025-12-31T08:36:44Z",
     "stars": 11,
     "minGameVersion": "154",
     "hasScripts": true,
     "hasJava": false,
-    "description": "Do you think the original neoplasm solution, burned in a slag pool, is a too singular; Such biologically active materials should have other uses: as ammunition, synthesizing new materials, and even building their own biological armies... Please unleash your imagination to the fullest \n\n You can't wait any longer？ Let's embark on this bloody journey"
+    "description": "Do you think the original neoplasm solution, burned in a slag pool, is a too singular; Such biologically active materials should have other uses: as ammunition, synthesizing new materials, and even building their own biological armies... Please unleash your imagination to the fullest \n\n You can't wait any longer? Let's embark on this bloody journey"
   },
   {
     "repo": "darealmonika/eriker-logic",
@@ -9217,18 +9217,6 @@
     "description": "Random java mod experiment"
   },
   {
-    "repo": "zoggers-cc/relax",
-    "internalName": "relax",
-    "name": "Relax",
-    "author": "ZoGGerS-Dim4ik",
-    "lastUpdated": "2025-12-30T20:10:48Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "The mod is still in development!"
-  },
-  {
     "repo": "r99space99yt/apolotus",
     "internalName": "apolotus",
     "name": "Apolotus",
@@ -9239,6 +9227,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "If you like the mod, please star on github!\nCAMPAIGN ONLY 2 SECTOR DONE(massSpread and LandZone)\nadd new solar system called Apolotus\na system that have planet-?̴̱͈͆?̸̟̾̓?̴͍̾̊ That seem spreading and growing?\nThe Organization Have sent 7(?) ships and your mission is find them all."
+  },
+  {
+    "repo": "zoggers-cc/relax",
+    "internalName": "relax",
+    "name": "Relax",
+    "author": "ZoGGerS & Dim4ik",
+    "lastUpdated": "2025-12-31T09:32:37Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "The mod is still in development!"
   },
   {
     "repo": "exxleo/exoterusmod",
