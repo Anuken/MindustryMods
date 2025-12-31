@@ -636,6 +636,18 @@
     "description": "  [#93E2EE]Exoprosopa[] adds Frostnova as a third planet into the game alongside with its own unique techtree and environment.\n\n  Polished content & linear campaign progression.\n  Capture and conquer with over 20 campaign maps.\n  Over 21 items to be discovered, 196 blocks to be researched. and 30 different units to build!\n  Harvest the planet with your technology before Astral Infection awaken and conquer the entire planet.\n\n  [accent]Thankyou for playing this mod! \n  You can contributes maps or gives suggestions by join Exoprosopa Discord Server! \n  Check it on my profile. My username is TnmSpiroct.\n\n  [salmon]This mod requires newest mindustry build to be played (Beta 153)"
   },
   {
+    "repo": "uenhe/fire",
+    "internalName": "fire",
+    "name": "Fire",
+    "author": "飞雨a_sszylfyzgmz\nKochiyaUeneh油苗子",
+    "lastUpdated": "2025-12-31T09:39:05Z",
+    "stars": 34,
+    "minGameVersion": "154.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#FFE9BF]A Mindustry Mod that adds many unique things...\nClick the 'Repo' button below to skip to GitHub page.\nAny feedback, GitHub issue, pull request or translation tweak is welcome.\nStar us on GitHub if you suppose this mod awesome!\n\n模组QQ交流群: 711467227\n模组GitHub页面点击下方'查看'按钮即可跳转\n一个奇奇怪怪又十分核锂的mod...\n欢迎反映任何关于此模组的BUG和建议\n去GitHub star我们再好不过了!"
+  },
+  {
     "repo": "dong-wo-long/betterdustrymod",
     "internalName": "bsm",
     "name": "Betterustry Mod",
@@ -658,18 +670,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod provides a variety of tools for modding.\n\n-----------------\nVersion 1.5.6\n## Highlight\n- Added some new features.\n- Fixed some bugs.\n-----------------\n\n## ShowUIList\n\n- Display `icon`, `tex`, `styles`, `colors`, `interps`\\\n!(./screenshots/UIList.png)\n\n## Tester\n\n!(./screenshots/tester.png)\n\n- Provide `JS` editor `Tester`\n- Shortcuts\n- Press `Ctrl`+`Shift`+`Enter` to `execute` code immediately\n- Press `Ctrl`+`Shift`+`↑/↓` to switch `history` records\n- Press `Ctrl`+`Shift`+`D` to `view` detailed information\n- Press `Alt`+`V` to preview `Texture`\n- Built-in `unsafe`, `lookup`\n- Built-in `IntFunc` class (abbreviated as `$`)\n- `$.xxx` can represent primitive data types (e.g., `$.void` represents `Void.TYPE`;`$.J` represents long.class)\n- `$p` represents `Packages`\n- Code: [JSFunc](https://github.com/i-hope1/mod-tools/src/modtools/utils/JSFunc.java)\n- Long press on code in the favorites to add to startup items\\\n!(./screenshots/startup.png)\n- Quick switch history\\\n![Screenshot 2024-03-10 14-45-37](https://github.com/I-hope1/mod-tools/assets/78016895/4918af35-19af-4fab-b961-70bdc8679fe8)\n- `$.item`, `$.liquid`, `$.unit` and so on.\n\n## UnitSpawn\n\n- Multiple team selection\n- Support for fixed point spawning\n- Display `name` and `localizedName`\n- Rightclick the name Label to copy save as JS var.\n\n## Selection\n\n- Selector\n- Supports `Tile`, `Building`, `Bullet`, `Unit`\n- Kill\n- Set Item/Liquid/Team\n- Press `Ctrl`+`Alt` to fix Focus Window\n\n## ReviewElement\n\n- Display element list, double-click to copy element to js variable\n- `Ctrl`+`Shift`+`C` to Inspect Element\n- `Ctrl`+`Alt`+`D` to display bounds of Element\n- Select untouchable elements\n- Mobile: Filter current element with two fingers\n- PC: Press `F` to filter current element\n- Functions shortcuts for Element\n- `i`: display details (open ShowInfoWindow)\\\n- `p`(for Image):  show `DrawablePicker`\n- `del`: (`shift` to ignore confirmation), delete element\n- `<` / `>`: collapse Group\n- `f`: fix floating Info column\n- `r`: invoke element's method\n\n- ![reviewElement](./screenshots/review_element.png)\n\n# Frag\n\n- Double-click the blue part of Frag to minimize/restore Frag\n- In the minimized state, click the blue part, it will behave like a floating ball\n\n## Window\n\n- Press `Ctrl`+`Tab` to switch windows\n- Press `Shift`+`F4` to close current window\n- RClick the close button to move and scl window.\n\n## ShowInfoWindow\n\n- Show all fields, methods, constructors and nested classes of a obj.\n- Field can be modified.\n- Method can be Invoked(Special).\n- Constructor can be invoked to new a instance.\n\n## Others\n\n### Extensions\n- Http Redirect\n> Redirect some websites, such as: github\\\n> Configuration file: b0kkihope/http_redirect.properties"
-  },
-  {
-    "repo": "uenhe/fire",
-    "internalName": "fire",
-    "name": "Fire",
-    "author": "飞雨a_sszylfyzgmz\nKochiyaUeneh油苗子",
-    "lastUpdated": "2025-12-31T09:39:05Z",
-    "stars": 33,
-    "minGameVersion": "154.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#FFE9BF]A Mindustry Mod that adds many unique things...\nClick the 'Repo' button below to skip to GitHub page.\nAny feedback, GitHub issue, pull request or translation tweak is welcome.\nStar us on GitHub if you suppose this mod awesome!\n\n模组QQ交流群: 711467227\n模组GitHub页面点击下方'查看'按钮即可跳转\n一个奇奇怪怪又十分核锂的mod...\n欢迎反映任何关于此模组的BUG和建议\n去GitHub star我们再好不过了!"
   },
   {
     "repo": "haznobrain/erekir-liquefied",
@@ -1000,7 +1000,7 @@
     "internalName": "azimut",
     "name": "Azimut",
     "author": "DeerCarbonate",
-    "lastUpdated": "2025-12-31T12:00:08Z",
+    "lastUpdated": "2025-12-31T12:00:48Z",
     "stars": 22,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -3856,7 +3856,7 @@
     "internalName": "infestation",
     "name": "The Infestation",
     "author": "\nFat Bird's Owner - Creator\nLJ - Some sprites\n",
-    "lastUpdated": "2025-12-31T07:14:40Z",
+    "lastUpdated": "2025-12-31T13:59:11Z",
     "stars": 5,
     "minGameVersion": "153",
     "hasScripts": false,
@@ -5628,18 +5628,6 @@
     "description": "fih"
   },
   {
-    "repo": "argon1321/simple-additions",
-    "internalName": "simple-additions",
-    "name": "Simple additions",
-    "author": "argon1321",
-    "lastUpdated": "2025-12-14T15:13:00Z",
-    "stars": 3,
-    "minGameVersion": "153",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod adding extra useful stuff, from solving siligone to even more useless stuff, yes, it's that simple. And dumb."
-  },
-  {
     "repo": "m-e-l-i-s/silvirium-mod",
     "internalName": "silvirium",
     "name": "Silvirium",
@@ -5722,6 +5710,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Small mod that keeps adding stuff"
+  },
+  {
+    "repo": "argon1321/simple-additions",
+    "internalName": "simple-additions",
+    "name": "Simple additions",
+    "author": "argon1321",
+    "lastUpdated": "2025-12-31T13:48:51Z",
+    "stars": 3,
+    "minGameVersion": "153",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod adding extra useful stuff, from solving siligone to even more useless stuff, yes, it's that simple. And dumb."
   },
   {
     "repo": "blockzilla101/bomberman-disable-flying",
@@ -11909,7 +11909,7 @@
     "internalName": "anser jua help item",
     "name": "Anser Jua Help item",
     "author": "Jua",
-    "lastUpdated": "2025-12-31T06:45:50Z",
+    "lastUpdated": "2025-12-31T12:09:31Z",
     "stars": 0,
     "minGameVersion": "147",
     "hasScripts": true,
