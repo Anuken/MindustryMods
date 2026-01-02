@@ -5,7 +5,7 @@
     "name": "New Horizon",
     "author": "Yuria & Lao",
     "lastUpdated": "2026-01-01T17:06:43Z",
-    "stars": 515,
+    "stars": 516,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
@@ -89,7 +89,7 @@
     "name": "Mindustry Tool",
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
     "lastUpdated": "2026-01-02T09:42:32Z",
-    "stars": 180,
+    "stars": 181,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
@@ -516,6 +516,18 @@
     "description": "Aquatic-stylized mod with new planet and unique mechanics"
   },
   {
+    "repo": "ferlern/extended-ui-v7",
+    "internalName": "extended-ui",
+    "name": "extended UI",
+    "author": "wizer",
+    "lastUpdated": "2025-10-01T13:51:57Z",
+    "stars": 39,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> extended UI.\n\nIf u have any bugs create an issue on github or contact me in discord: wizer1233\n\nTranslators:\n1stvaliduser - UA\nCoCo Snow - DE\n\nContributors:\nRushieWashie, Garen7, 7003Mars (Mars)"
+  },
+  {
     "repo": "oleglysukhin/cheat",
     "internalName": "cheat",
     "name": "CheatMod",
@@ -526,18 +538,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Добавляет разные штуки для читов\nhttps://vk.com/mindustry_cheat"
-  },
-  {
-    "repo": "ferlern/extended-ui-v7",
-    "internalName": "extended-ui",
-    "name": "extended UI",
-    "author": "wizer",
-    "lastUpdated": "2025-10-01T13:51:57Z",
-    "stars": 38,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> extended UI.\n\nIf u have any bugs create an issue on github or contact me in discord: wizer1233\n\nTranslators:\n1stvaliduser - UA\nCoCo Snow - DE\n\nContributors:\nRushieWashie, Garen7, 7003Mars (Mars)"
   },
   {
     "repo": "andromeda-galaxy29/psammos-mod",
@@ -664,7 +664,7 @@
     "internalName": "mod-tools",
     "name": "mod-tools",
     "author": "I hope...",
-    "lastUpdated": "2026-01-01T11:39:11Z",
+    "lastUpdated": "2026-01-02T15:31:16Z",
     "stars": 33,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -1404,18 +1404,6 @@
     "description": "Pyratite focused mod which adds units turrets drills and factory\nNOT the most balanced"
   },
   {
-    "repo": "cewwi/resurrection-mod",
-    "internalName": "resurrection",
-    "name": "Cataclysm",
-    "author": "[#757575]cewwi[] & [#757575]JJ[]",
-    "lastUpdated": "2025-11-25T18:37:02Z",
-    "stars": 15,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Not now, maybe later."
-  },
-  {
     "repo": "00sunray00/scheme-size-port",
     "internalName": "scheme-size",
     "name": "Scheme Size Port",
@@ -1438,6 +1426,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "- This mod adds in 1 or 2 higher tiers of vanilla blocks. Mod is still in development. More contents coming soon.\n- Erekir is cooking"
+  },
+  {
+    "repo": "cewwi/resurrection-mod",
+    "internalName": "resurrection",
+    "name": "Cataclysm",
+    "author": "[#757575]cewwi[] & [#757575]JJ[]",
+    "lastUpdated": "2026-01-02T15:39:55Z",
+    "stars": 15,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Not now, maybe later."
   },
   {
     "repo": "yal-game-things/mindustry-tiny-things",
@@ -1732,7 +1732,7 @@
     "internalName": "vne",
     "name": "Vanilla Neoplasm Extend",
     "author": "pardon",
-    "lastUpdated": "2026-01-01T14:26:28Z",
+    "lastUpdated": "2026-01-02T15:14:49Z",
     "stars": 13,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -3868,7 +3868,7 @@
     "internalName": "infestation",
     "name": "The Infestation",
     "author": "\nFat Bird's Owner - Creator\nLJ - Some sprites\n",
-    "lastUpdated": "2026-01-02T11:50:51Z",
+    "lastUpdated": "2026-01-02T15:14:16Z",
     "stars": 5,
     "minGameVersion": "153",
     "hasScripts": false,
@@ -11917,23 +11917,11 @@
     "description": "Zoom+ mod is made for Players that wants to increase the zoom feature ingame. other people already made this mod idea but I did it anyways because some people don't want to download big mods but they just wants the zoom feature in that mod"
   },
   {
-    "repo": "oleksiy1409liut/oleksiysstuff",
-    "internalName": "oleksiyresprites",
-    "name": "oleksiy's stuff",
-    "author": "oleskiy",
-    "lastUpdated": "2026-01-02T13:07:43Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS"
-  },
-  {
     "repo": "eight-squared/iron-clouds",
     "internalName": "iron-clouds",
     "name": "Iron clouds",
     "author": "Eight Squared",
-    "lastUpdated": "2026-01-02T13:58:52Z",
+    "lastUpdated": "2026-01-02T14:30:21Z",
     "stars": 0,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -11941,11 +11929,23 @@
     "description": "UNFINISHED 20% done Adds new campaign on a molten planet. Beware! The mod adds a lot of sprite changes to the vanilla content!"
   },
   {
+    "repo": "oleksiy1409liut/oleksiysstuff",
+    "internalName": "oleksiyresprites",
+    "name": "oleksiy's stuff",
+    "author": "oleskiy",
+    "lastUpdated": "2026-01-02T14:35:17Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS"
+  },
+  {
     "repo": "isekairid/unixglobalwars",
     "internalName": "unixglobalwars",
     "name": "UnixGlobalWars",
     "author": "UnixGlobalWars",
-    "lastUpdated": "2026-01-02T13:59:35Z",
+    "lastUpdated": "2026-01-02T15:17:20Z",
     "stars": 0,
     "minGameVersion": "146",
     "hasScripts": false,
