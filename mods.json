@@ -1000,7 +1000,7 @@
     "internalName": "azimut",
     "name": "Azimut",
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-01-03T03:49:49Z",
+    "lastUpdated": "2026-01-03T06:08:01Z",
     "stars": 22,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -1564,7 +1564,7 @@
     "internalName": "corpuscles",
     "name": "Corpuscles",
     "author": "SezoVK",
-    "lastUpdated": "2026-01-02T02:49:00Z",
+    "lastUpdated": "2026-01-03T06:12:57Z",
     "stars": 14,
     "minGameVersion": "154.3",
     "hasScripts": true,
@@ -3868,7 +3868,7 @@
     "internalName": "infestation",
     "name": "The Infestation",
     "author": "\nFat Bird's Owner - Creator\nLJ - Some sprites\n",
-    "lastUpdated": "2026-01-03T04:07:38Z",
+    "lastUpdated": "2026-01-03T05:44:32Z",
     "stars": 5,
     "minGameVersion": "153",
     "hasScripts": false,
@@ -9169,18 +9169,6 @@
     "description": "​操作中にSDキャラを表示する機能を追加、Added a function to display chibi during operation (and router)"
   },
   {
-    "repo": "huanxefh/project-reindustrialization",
-    "internalName": "projreind",
-    "name": "Project Reindustrialization",
-    "author": "MaboroshiX",
-    "lastUpdated": "2025-12-21T03:47:52Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "OBJECT: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech that makes manufacturing realistic and even harder.\nPart of Lovecraftian series, you will need Lovecraftian Library and Lovecraftian Laboratory to load the mod correctly.\nWarning: recipe hell ahead!"
-  },
-  {
     "repo": "zeefoe/simple-chat-translator",
     "internalName": "simple-chat-translator",
     "name": "Simple Chat Translator",
@@ -9191,18 +9179,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A chat translator that just works.\nTranslates the chat using google translate without any setup and configuration.\n\nThe target language should be automatically set by what language you have your game in."
-  },
-  {
-    "repo": "huanxefh/lovecraftian-library",
-    "internalName": "lovec",
-    "name": "Lovecraftian Library",
-    "author": "MaboroshiX",
-    "lastUpdated": "2025-12-25T13:17:05Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A JavaScript library for my other mods."
   },
   {
     "repo": "xpdustry/slf4md",
@@ -9287,6 +9263,30 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds more serpulo unit and buildings to support your experience. Drone code from Pirojok3000 mod.\n\nI indonesian people btw :)"
+  },
+  {
+    "repo": "huanxefh/lovecraftian-library",
+    "internalName": "lovec",
+    "name": "Lovecraftian Library",
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-01-03T05:41:05Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A JavaScript library for my other mods."
+  },
+  {
+    "repo": "huanxefh/project-reindustrialization",
+    "internalName": "projreind",
+    "name": "Project Reindustrialization",
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-01-03T05:47:49Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "OBJECT: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with hardcore production.\n- A separate and complex tech tree.\n- Multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\nThis mod is part of Lovecraftian series, which requires Lovecraftian Library and Lovecraftian Laboratory.\n\nWARNING: RECIPE HELL AHEAD!"
   },
   {
     "repo": "exxleo/exoterusmod",
@@ -11785,18 +11785,6 @@
     "description": "Mindustry: Evil Edition"
   },
   {
-    "repo": "huanxefh/lovecraftian-laboratory",
-    "internalName": "loveclab",
-    "name": "Lovecraftian Laboratory",
-    "author": "MaboroshiX",
-    "lastUpdated": "2025-12-21T03:34:59Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "The base mod for Lovecraftian series that adds essential resource, environmental blocks and planets."
-  },
-  {
     "repo": "meesst/mindustry-multiunitbindmod",
     "internalName": "logic-extend-mod",
     "name": "LogicExtendMod - 逻辑指令扩展",
@@ -11963,5 +11951,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "all json-able mature balancing tweaks from the channel will (hopefully) be here.\n\nCurrent changes list:\n\n- Percentage-only overdrive nerf (20-60-70).\n- Enlarged gap between AB and laser."
+  },
+  {
+    "repo": "huanxefh/lovecraftian-laboratory",
+    "internalName": "loveclab",
+    "name": "Lovecraftian Laboratory",
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-01-03T05:45:47Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "The base mod for Lovecraftian series that adds essential resource, environmental blocks and planets."
   }
 ]
