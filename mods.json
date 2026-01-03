@@ -5,7 +5,7 @@
     "name": "New Horizon",
     "author": "Yuria & Lao",
     "lastUpdated": "2026-01-01T17:06:43Z",
-    "stars": 518,
+    "stars": 519,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
@@ -1000,7 +1000,7 @@
     "internalName": "azimut",
     "name": "Azimut",
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-01-02T06:50:38Z",
+    "lastUpdated": "2026-01-03T03:49:49Z",
     "stars": 22,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -2532,18 +2532,6 @@
     "description": "\nRU\nМод добавляет Схемы для модификации New Horizon. Тег: +\n\nENG\nThe mod adds Schematics for the New Horizon modification. Tag: +\nMy Discord: silinveredno_edmstep\n"
   },
   {
-    "repo": "7003mars/bridges",
-    "internalName": "bridging",
-    "name": "Bridging assistant",
-    "author": "Mars",
-    "lastUpdated": "2025-04-17T16:14:32Z",
-    "stars": 8,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Displays all bridge links. Helps with bridge weaving"
-  },
-  {
     "repo": "mythril382/thisthing",
     "internalName": "this-thing",
     "name": "This Thing",
@@ -2698,6 +2686,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod which introduces actually unique [accent]Story Based Campaign[].\nMain goal of this mod is to show that lore based mods can be good too.\n\nWith story gameplay it introduces to you some new mechanics."
+  },
+  {
+    "repo": "7003mars/bridges",
+    "internalName": "bridging",
+    "name": "Bridging assistant",
+    "author": "Mars",
+    "lastUpdated": "2026-01-03T04:20:43Z",
+    "stars": 8,
+    "minGameVersion": "154.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Displays all bridge links. Helps with bridge weaving"
   },
   {
     "repo": "fabizocker456/test",
@@ -3288,18 +3288,6 @@
     "description": "用于显示子弹溅射范围或者单位坠落伤害半径的辅助模组(起码以前是)"
   },
   {
-    "repo": "7003mars/pic2tri",
-    "internalName": "triangles",
-    "name": "PicToTri",
-    "author": "Mars#7003",
-    "lastUpdated": "2025-12-25T10:13:52Z",
-    "stars": 6,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds a dialog for turning images into schematics"
-  },
-  {
     "repo": "ka4ok52/persea-mod",
     "internalName": "persea",
     "name": "P.E.R.S.E.A. MOD",
@@ -3334,6 +3322,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod.\n\nOfficially discontinued."
+  },
+  {
+    "repo": "7003mars/pic2tri",
+    "internalName": "triangles",
+    "name": "PicToTri",
+    "author": "Mars#7003",
+    "lastUpdated": "2026-01-03T03:37:57Z",
+    "stars": 6,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a dialog for turning images into schematics"
   },
   {
     "repo": "yaroslav242/yfjs",
@@ -3868,7 +3868,7 @@
     "internalName": "infestation",
     "name": "The Infestation",
     "author": "\nFat Bird's Owner - Creator\nLJ - Some sprites\n",
-    "lastUpdated": "2026-01-03T02:10:57Z",
+    "lastUpdated": "2026-01-03T04:07:38Z",
     "stars": 5,
     "minGameVersion": "153",
     "hasScripts": false,
@@ -11929,18 +11929,6 @@
     "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS"
   },
   {
-    "repo": "efsfse2280/-serpulo-balancing",
-    "internalName": "serpbalance",
-    "name": "#serpulo-balancing",
-    "author": "many",
-    "lastUpdated": "2026-01-02T20:26:01Z",
-    "stars": 0,
-    "minGameVersion": "153",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "all json-able mature balancing tweaks from the channel will (hopefully) be here.\n\nCurrent changes list:\n\n- Percentage-only overdrive nerf (20-60-70)."
-  },
-  {
     "repo": "arduino228/testing_mod",
     "internalName": "testing_mod",
     "name": "my mod",
@@ -11965,15 +11953,15 @@
     "description": "- As a heavily altered fork of Upgraded Tiers, this mod aims to extend production complexity and scale.\n- This mod also adds scaled versions of/new Serpulo structures, as well as some vanilla changes.\n- thanks to original authors: \n- mq_1175 \n- sputnuc(?)"
   },
   {
-    "repo": "isekairid/unixglobalwars",
-    "internalName": "unixglobalwars",
-    "name": "UnixGlobalWars",
-    "author": "UnixGlobalWars",
-    "lastUpdated": "2026-01-03T02:59:18Z",
+    "repo": "efsfse2280/-serpulo-balancing",
+    "internalName": "serpbalance",
+    "name": "#serpulo-balancing",
+    "author": "many",
+    "lastUpdated": "2026-01-03T03:47:41Z",
     "stars": 0,
-    "minGameVersion": "154",
+    "minGameVersion": "153",
     "hasScripts": false,
-    "hasJava": true,
-    "description": "A global-scale warfare mod for Mindustry."
+    "hasJava": false,
+    "description": "all json-able mature balancing tweaks from the channel will (hopefully) be here.\n\nCurrent changes list:\n\n- Percentage-only overdrive nerf (20-60-70).\n- Enlarged gap between AB and laser."
   }
 ]
