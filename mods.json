@@ -148,7 +148,7 @@
     "internalName": "omaloon",
     "name": "Omaloon",
     "author": "stabu, uujuju",
-    "lastUpdated": "2026-01-03T21:51:53Z",
+    "lastUpdated": "2026-01-03T23:34:47Z",
     "stars": 122,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1056,6 +1056,18 @@
     "description": "Adds various testers for easier mod development.\nThanks to: Gdeft"
   },
   {
+    "repo": "lehanchic25/testplanetmindustry",
+    "internalName": "test",
+    "name": "Test",
+    "author": "Lehanchic25",
+    "lastUpdated": "2024-12-26T10:27:58Z",
+    "stars": 20,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "My new planet mod!"
+  },
+  {
     "repo": "xtarsagency/zeridmuth",
     "internalName": "zeridmuth",
     "name": "Zeridmuth: A New Beginning",
@@ -1114,18 +1126,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds hard new planet with unique content and new mechanics"
-  },
-  {
-    "repo": "lehanchic25/testplanetmindustry",
-    "internalName": "test",
-    "name": "Test",
-    "author": "Lehanchic25",
-    "lastUpdated": "2024-12-26T10:27:58Z",
-    "stars": 19,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "My new planet mod!"
   },
   {
     "repo": "jslkr2707/quests",
@@ -1564,7 +1564,7 @@
     "internalName": "corpuscles",
     "name": "Corpuscles",
     "author": "SezoVK",
-    "lastUpdated": "2026-01-03T06:12:57Z",
+    "lastUpdated": "2026-01-04T00:37:46Z",
     "stars": 14,
     "minGameVersion": "154.3",
     "hasScripts": true,
@@ -5676,18 +5676,6 @@
     "description": "Explore a new planet submerged in naphtha and utilize buildings with an exotic, new form."
   },
   {
-    "repo": "alstin112/context",
-    "internalName": "context",
-    "name": "Context",
-    "author": "Alstin112 and Flintyx",
-    "lastUpdated": "2025-12-24T06:49:36Z",
-    "stars": 3,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "this mod add more command blocks to help mod-creators, inspired in \"testers\" by sk7725"
-  },
-  {
     "repo": "oleksiy1409liut/factorio-space-exploration",
     "internalName": "factorio",
     "name": "space exploration",
@@ -5734,6 +5722,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod adding extra useful stuff, from solving siligone to even more useless stuff, yes, it's that simple. And dumb."
+  },
+  {
+    "repo": "alstin112/context",
+    "internalName": "context",
+    "name": "Context",
+    "author": "Alstin112 and Flintyx",
+    "lastUpdated": "2026-01-04T00:26:05Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "this mod add more command blocks to help mod-creators, inspired in \"testers\" by sk7725"
   },
   {
     "repo": "blockzilla101/bomberman-disable-flying",
@@ -11905,18 +11905,6 @@
     "description": "UNFINISHED 20% done Adds new campaign on a molten planet. Beware! The mod adds a lot of sprite changes to the vanilla content!"
   },
   {
-    "repo": "oleksiy1409liut/oleksiysstuff",
-    "internalName": "oleksiyresprites",
-    "name": "oleksiy's stuff",
-    "author": "oleskiy",
-    "lastUpdated": "2026-01-02T14:35:17Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS"
-  },
-  {
     "repo": "efsfse2280/scaled-serpulo",
     "internalName": "scldsrp",
     "name": "Serproduction",
@@ -11927,18 +11915,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "- As a heavily altered fork of Upgraded Tiers, this mod aims to extend production complexity and scale.\n- This mod also adds scaled versions of/new Serpulo structures, as well as some vanilla changes.\n- thanks to original authors: \n- mq_1175 \n- sputnuc(?)"
-  },
-  {
-    "repo": "efsfse2280/-serpulo-balancing",
-    "internalName": "serpbalance",
-    "name": "#serpulo-balancing",
-    "author": "many",
-    "lastUpdated": "2026-01-03T03:47:41Z",
-    "stars": 0,
-    "minGameVersion": "153",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "all json-able mature balancing tweaks from the channel will (hopefully) be here.\n\nCurrent changes list:\n\n- Percentage-only overdrive nerf (20-60-70).\n- Enlarged gap between AB and laser."
   },
   {
     "repo": "huanxefh/lovecraftian-laboratory",
@@ -11965,15 +11941,39 @@
     "description": "Expansion games design extra! A full-scale war mod for Mindustry featuring new planets, enhanced campaigns, and strategic warfare mechanics."
   },
   {
+    "repo": "efsfse2280/-serpulo-balancing",
+    "internalName": "serpbalance",
+    "name": "#serpulo-balancing",
+    "author": "many",
+    "lastUpdated": "2026-01-03T22:16:35Z",
+    "stars": 0,
+    "minGameVersion": "153",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "all json-able mature balancing tweaks from the channel will (hopefully) be here.\n\nCurrent changes list:\n\n- Percentage-only overdrive nerf (20-60-70).\n- Enlarged gap between AB and laser.\n- Ammo AoE values wap between Ripple and Cyclone."
+  },
+  {
     "repo": "arduino228/testing_mod",
     "internalName": "testing_mod",
     "name": "my mod",
     "author": "BobaFett",
-    "lastUpdated": "2026-01-03T21:22:47Z",
+    "lastUpdated": "2026-01-03T22:31:52Z",
     "stars": 0,
     "minGameVersion": "154",
     "hasScripts": true,
     "hasJava": false,
     "description": "idk"
+  },
+  {
+    "repo": "oleksiy1409liut/oleksiysstuff",
+    "internalName": "oleksiyresprites",
+    "name": "oleksiy's stuff",
+    "author": "oleskiy",
+    "lastUpdated": "2026-01-03T23:14:28Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS"
   }
 ]
