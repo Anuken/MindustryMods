@@ -64,12 +64,12 @@
     "internalName": "allure",
     "name": "Allure",
     "author": "Elixias Adrys",
-    "lastUpdated": "2025-10-17T09:34:11Z",
+    "lastUpdated": "2026-01-06T10:29:52Z",
     "stars": 211,
-    "minGameVersion": "147",
+    "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": false,
-    "description": "WARNING: Not supported on low-end devices.\n\nWorld logic contributed by Sh1penfire (@sh1penfire). Much thanks!\n\nAn attempt at an immersive content mod.\n\nHJSON at its core, Allure seeks to do what no other mod has ever done. With RTS-centered gameplay and a focus on combat diversity, this hardcore mod aims to put difficulty and replayability onto the table. Fight enemies as two factions, each with their own unique design and weapon trees. \nWage a new type of war on the existing planets, with much more simple yet dynamic balance of vanilla content. Does change vanilla ratios.\n\n!!! Allure isn't meant to be played with other mods! Expect balancing issues in a multi-mod playthrough. !!!\n\nThis mod may cause rage-quits and you may get stuck at any point in progression. Skill is required. Follow the tutorials provided.\n\nTHIS UPDATE IS STILL IN EARLY DEV - PLEASE DON'T MAKE BUG REPORTS"
+    "description": "Contributors: Sh1penfire (world logic)\n\n⚠ PERFORMANCE WARNING: This mod may crash or misbehave on weaker PCs and phones.\nBest played with a completely fresh campaign save. \n\nCurrently in development. Description will try to increase player engagement later.\nAllure is a large RTS mod that attempts to bring a true start-to-finish storyline to the table. And also hardcore gameplay. Enjoy being swarmed by the bee legion. \n\nThis mod is planned to introduce an overhauled vanilla experience, with sweeping changes across every aspect of Serpulo. Maps are redone, tutorials added.\nWhat comes after? Well, I guess we'll have to find out. I'm not giving you any spoilers. You'll find out if you're curious.\n\nEnabling this mod will break every Serpulo schematic until disabled. Be careful, well, if you like yours. \n\nAlso, I know the mod's bugs. Please don't report them, it saves me time."
   },
   {
     "repo": "catana791/asthosus",
@@ -3016,7 +3016,7 @@
     "internalName": "infestation",
     "name": "The Infestation",
     "author": "\nFat Bird's Owner - [accent]Main Developer[]\nLJ - [accent]A number of sprites and Mod icon[]\n",
-    "lastUpdated": "2026-01-06T07:06:46Z",
+    "lastUpdated": "2026-01-06T11:29:11Z",
     "stars": 7,
     "minGameVersion": "154.3",
     "hasScripts": false,
@@ -9170,18 +9170,6 @@
     "description": "A chat translator that just works.\nTranslates the chat using google translate without any setup and configuration.\n\nThe target language should be automatically set by what language you have your game in."
   },
   {
-    "repo": "xpdustry/slf4md",
-    "internalName": "slf4md",
-    "name": "SLF4MD",
-    "author": "xpdustry",
-    "lastUpdated": "2025-12-27T20:52:10Z",
-    "stars": 1,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A basic SLF4J implementation for Mindustry."
-  },
-  {
     "repo": "aceofspade213/cat-ears-mod",
     "internalName": "cat-ears-mod",
     "name": "Cat Ears",
@@ -9312,6 +9300,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Replaces sounds with cooler ones"
+  },
+  {
+    "repo": "xpdustry/slf4md",
+    "internalName": "slf4md",
+    "name": "SLF4MD",
+    "author": "xpdustry",
+    "lastUpdated": "2026-01-06T10:12:54Z",
+    "stars": 1,
+    "minGameVersion": "149",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A basic SLF4J implementation for Mindustry."
   },
   {
     "repo": "exxleo/exoterusmod",
@@ -11534,18 +11534,6 @@
     "description": "Searching for new materials you decided to drill into the core of the planet, and you managed to find something that might change the tide in your favor..."
   },
   {
-    "repo": "redeagle0705/poopdustry",
-    "internalName": "redeagle0705-poopdustry",
-    "name": "poopdustry",
-    "author": "redeagle0705",
-    "lastUpdated": "2025-10-18T19:10:34Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "very poopy dustry"
-  },
-  {
     "repo": "sunkymp3g/netroniumtfs",
     "internalName": "netroniummod",
     "name": "Netronium: The Final Showdown",
@@ -11988,5 +11976,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "UNFINISHED 20% done Adds new campaign on a molten planet. Beware! The mod adds a lot of sprite changes to the vanilla content!"
+  },
+  {
+    "repo": "redeagle0705/poopdustry",
+    "internalName": "redeagle0705-poopdustry",
+    "name": "poopdustry",
+    "author": "redeagle0705",
+    "lastUpdated": "2026-01-06T11:01:39Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "very poopy dustry"
   }
 ]
