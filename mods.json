@@ -53,7 +53,7 @@
     "name": "Schema",
     "author": "xzxADIxzx",
     "lastUpdated": "2025-04-29T22:07:01Z",
-    "stars": 228,
+    "stars": 229,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -88,7 +88,7 @@
     "internalName": "mindustry-tool",
     "name": "Mindustry Tool",
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2026-01-21T06:00:50Z",
+    "lastUpdated": "2026-01-21T07:52:00Z",
     "stars": 182,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -360,6 +360,18 @@
     "description": "An auxiliary mod that provides you with quick retrieval of production and collection guidance information for materials, units, buildings, minerals, etc., so that you are no longer overwhelmed by installing too many mods.\n\n---\n\n一个辅助mod，为您提供快速检索材料，单位，建筑和矿物等的生产与采集引导信息，让您不再因为安装了太多mod而不知所措"
   },
   {
+    "repo": "liplum/multicrafterlib",
+    "internalName": "multi-crafter",
+    "name": "MultiCrafter Lib",
+    "author": "[#42a5f5]Liplum[] & Jojo",
+    "lastUpdated": "2025-04-01T15:40:11Z",
+    "stars": 56,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod library for (H)JSON, JavaScript and Java mods,\nincluding a crafter supporting multiple recipes for items, fluids, power, heat and payloads production.\nPlease check the repository below to learn more.\nWork on v136 to v146."
+  },
+  {
     "repo": "sharlottes/sharustry",
     "internalName": "shar",
     "name": "Sharustry",
@@ -598,6 +610,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "[accent]An experimental RTS mod. Features a rich environment and a unique cast of enemies to fight.[]\n\nTrudge through Ikaru, home to [#ea9ad6]Meld[]. Salvage the remains of previous incursions. Fend off the wildlife.\n\nPlay as a field commander. Rally tierless specialists to push back the flood of constructs.\n\n[red]DEFEND, TAKE GROUND, HARVEST, REPEAT[]\n\n[accent]Campaign is a demo for what's to come. Refer to the custom game maps once you've finished.\n\nThis type of project takes lots of time to develop so if you wana know what's happening with the mod, join the Mindustry discord server and look for Meld in the fourm thread :D\n\nAlternatively, join the Meld discord server!\nhttps://discord.gg/eNynvuJXud[]\n\nTranslated to Russian by: Dovintc\nCompletion: ~6%\n"
+  },
+  {
+    "repo": "uujuju1/steam-works",
+    "internalName": "sw",
+    "name": "Steam Works",
+    "author": "Liz Aurora",
+    "lastUpdated": "2026-01-21T02:53:14Z",
+    "stars": 36,
+    "minGameVersion": "154.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A tech demo mod with a bunch of stuff, whose content is all in lore made by the pure will of a person."
   },
   {
     "repo": "coaldeficit/moredefences",
@@ -1164,6 +1188,18 @@
     "description": "This a mod that can show the hidden item of the item bridge."
   },
   {
+    "repo": "00sunray00/scheme-size-port",
+    "internalName": "scheme-size",
+    "name": "Scheme Size Port",
+    "author": "xzxADIxzx\nPort: 00SunRay00",
+    "lastUpdated": "2025-12-19T16:25:12Z",
+    "stars": 18,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nThis mod is not the original port of Scheme Size — it is a custom port. The developer of the original mod is not involved in this in any way.\n!!!ATTENTION: VERSIONS BELOW v154 ARE NOT SUPPORTED!!!\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Copy Link and Join\n   - Rule setter\n"
+  },
+  {
     "repo": "itzcraft/hjsonpp",
     "internalName": "hjsonpp",
     "name": "hjson++",
@@ -1198,18 +1234,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts"
-  },
-  {
-    "repo": "00sunray00/scheme-size-port",
-    "internalName": "scheme-size",
-    "name": "Scheme Size Port",
-    "author": "xzxADIxzx\nPort: 00SunRay00",
-    "lastUpdated": "2025-12-19T16:25:12Z",
-    "stars": 17,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nThis mod is not the original port of Scheme Size — it is a custom port. The developer of the original mod is not involved in this in any way.\n!!!ATTENTION: VERSIONS BELOW v154 ARE NOT SUPPORTED!!!\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Copy Link and Join\n   - Rule setter\n"
   },
   {
     "repo": "mnemotechnician/new-controls-public",
@@ -2952,18 +2976,6 @@
     "description": "A mod that adds a new planet, Derepica.\nExplore this planet with full of waste and toxic acid.\n\n[red]Not recommended to play with other planet mod!"
   },
   {
-    "repo": "7003mars/pic2tri",
-    "internalName": "triangles",
-    "name": "PicToTri",
-    "author": "Mars#7003",
-    "lastUpdated": "2026-01-18T15:45:09Z",
-    "stars": 7,
-    "minGameVersion": "154.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds a dialog for turning images into schematics"
-  },
-  {
     "repo": "mindustry-antigrief/floodcompat",
     "internalName": "floodcompat",
     "name": "FloodCompat",
@@ -2974,6 +2986,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Improves your experience on the official io  Flood server."
+  },
+  {
+    "repo": "7003mars/pic2tri",
+    "internalName": "triangles",
+    "name": "PicToTri",
+    "author": "Mars#7003",
+    "lastUpdated": "2026-01-21T07:46:42Z",
+    "stars": 7,
+    "minGameVersion": "154.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a dialog for turning images into schematics"
   },
   {
     "repo": "xzxadixzx/crawler-language",
@@ -3649,6 +3673,18 @@
     "description": "for people who like pain\nmultiplies most stats 10x"
   },
   {
+    "repo": "pirojok3000/erekir-cargo-drone-for-serpulo",
+    "internalName": "serpulo-payload-drone-alternative",
+    "name": "Serpulo cargo drone",
+    "author": "Pirojok3000",
+    "lastUpdated": "2024-09-24T20:57:31Z",
+    "stars": 5,
+    "minGameVersion": "144",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds serpulo cargo drone that functions exactly like erekir cargo drone. No more complicated logic!"
+  },
+  {
     "repo": "fghjk455rg/items-reforged-by-captain-doshik",
     "internalName": "kap-dosh-ir",
     "name": "Items Reforged",
@@ -4079,6 +4115,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Currently in development. Descend upon Nomine, a planet of stark snow and desolate deserts. Fend off its Legion that rules rampant."
+  },
+  {
+    "repo": "falkowitz/pineappledustry",
+    "internalName": "pineapple",
+    "name": "PineappleDustry",
+    "author": "Fitz",
+    "lastUpdated": "2023-09-21T13:57:31Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "AHAHAC?"
   },
   {
     "repo": "pirojok3000/mindustry-classic-music",
@@ -4537,6 +4585,18 @@
     "description": "模仿了学术端cyan字的效果，增加了几乎所有物品的下方灰字补充说明"
   },
   {
+    "repo": "sambuyya/waterbattleship",
+    "internalName": "water-battleship",
+    "name": "Water Battleship",
+    "author": "SAMBUYYA",
+    "lastUpdated": "2025-10-26T02:18:38Z",
+    "stars": 4,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Let us war at the water territory!"
+  },
+  {
     "repo": "thesmal/starter-buffer",
     "internalName": "starter buffer",
     "name": "STARTER-BUFFER",
@@ -4955,6 +5015,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Gotoh-san turned into a force projector!!"
+  },
+  {
+    "repo": "balam314/flarogus-mod",
+    "internalName": "flarogus-mod",
+    "name": "Flarogus",
+    "author": "BalaM314",
+    "lastUpdated": "2024-01-12T14:50:58Z",
+    "stars": 3,
+    "minGameVersion": "136.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds flarogus to Mindustry."
   },
   {
     "repo": "kubikaugustyn/mindustrytoolkit",
@@ -6013,6 +6085,18 @@
     "description": "Turns most text to morse code.\nSet the language to English for the Morse Code to apply."
   },
   {
+    "repo": "ostost2/payload-mass-driver-inator",
+    "internalName": "payload-mass-driver-inator",
+    "name": "Payload Mass Driver-inator",
+    "author": "ostost",
+    "lastUpdated": "2023-10-08T13:28:10Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Turns mass drivers into payload mass drivers"
+  },
+  {
     "repo": "godlyshkaf/matter-industries",
     "internalName": "matind",
     "name": "Matter Industries",
@@ -6841,6 +6925,18 @@
     "description": "Somewhat advanced endgame technologies. It is recommended to disable vertical synchronization."
   },
   {
+    "repo": "jirocab/yetanotherserpulorebalance",
+    "internalName": "yasr",
+    "name": "Yet another Serpulo Rebalance (yasr)",
+    "author": "Rushie Washie, GooglyGoo",
+    "lastUpdated": "2025-09-20T07:07:38Z",
+    "stars": 2,
+    "minGameVersion": "143.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Any block/unit/statistic not mentioned here has been left unchanged\n\n\n\nFoundation & Nucleus core\n   Health increased significantly\n\nAll factories & constructors\n   Health increased significantly\n\nT5 units \n   doubled in cost and build time\n\nT4 units \n   0.67x cost and build time\n\nT4 reconstructor cost reduced\n   Lead - 1200\n   Titanium - 1000\n   Thorium - 650\n   Silicon - 700\n   Plastanium - 250\n\nT2 reconstructor cost increased\n   copper - 400\n   lead - 240\n   titanium - 200\n   silicon - 270\n\nT1 air factory\n   cost adjusted\n      copper - 60\n      lead - 69\n      silicon - 90\n\nT1 naval factory\n   cost adjusted\n      copper - 300\n      lead - 260\n      silicon - 180\n      metaglass - 240\n\n\n\nPhase Wall\n   60% deflection chance\n\nSurge Wall\n   20 armor\n\n\n\nDuo \n   No longer hits air\n   Range increased to 23.75\n   Shoots 2 shots per second\n\nScatter\n   1 armor\n\nScorch\n   12 armor\n\nSalvo\n   No longer hits air\n   Shoots a salvo of 25 bullets\n   Very long reload time\n   Massively increased build cost\n   Range increased to 30\n\nFuse\n   No longer hits air\n   Range increased to 14\n   Applies unmoving for 1 second\n   Doubled reload time\n   \nRipple\n   Shoots 20 shells at a time\n   Very long reload\n   Shells do more damage\n   Massively increased build cost\n\nSpectre\n   Knowckback increased to 10\n\nParallax\n   Applies Unmoving \n   Range increased to 35\n   Build cost increased 3x\n\nSegment\n   Range increased to 37.5\n\nTsunami\n   30° spread\n   Shoots more\n\nMeltdown \n   no longer hit air\n\nForeshadow \n   2.7x longer reload\n\nSwarmer\n   ***Hits air only***\n   Build cost increased 6x\n   Range greatly increased to 50\n   Damage rework:\n      Surge Alloy\n        70 +\n        10x2 lightning \n      Blast Compund\n        90 +\n        10 area (3.5 aoe)\n      Pyratite\n        90\n\nCyclone \n   ***Hits air only***\n   Build cost increased 4x\n   Range increase to 30\n   Damage rework:\n      Metaglass\n         6\n         45 area (2.5 aoe)\n         2 x 110 frag bullets\n      Plastanium\n        8\n        37 area (2.5 aoe)\n        4 x 110 frag bullets\n      Surge Alloy\n        13\n        75 area (2.5 aoe)\n        2 x 55 lightning\n      Blast Compound\n        8\n        55 area (7.5 aoe)\n\n\n\nFlare\n   Homing bullets\n   Rotates faster\n   Damage 4\n   5 shots per second\n\nHorizon\n   Now a hit & run carpet bomber\n   Health 100\n   Armor 0\n   Speed 20\n   Drops 8 bombs rapidly\n   5 second reload time\n   Bomb AOE increased to 4\n\nZenith\n   Now an air superiority fighter\n   Health 420\n   Speed 26\n   Missiles can only damage air units\n   Ignores shields\n   Damage 45 +15 area (3.1 aoe)\n   Range ~30\n\nAntumbra\n   Health 5000\n   Now has 3x3 payload capacity\n   Has an extra AA missile\n      Damage 150\n      Reload 4s\n      Extended range\n\nEclipse \n   Health 100,000\n\n\n\nMono\n   Increased HP\n   Extremely slow self-healing\n\nPoly\n   Now a multi-role AA fighter\n   Now heals blocks using a laser\n   Missiles can only damage air units \n   Ignores shields\n   Damage 40\n   Armor 2\n   Able to transport up to T2 units\n\nMega\n   Health 1200\n   Armor 0\n   Speed 16\n   Healing factor of bullets reduced\n   90 item capacity\n\nQuad\n   Now a hit & run strategic bomber\n   Health 1000\n   Damage 1000 + 1000 aoe\n   Reload 5s\n   Speed 20\n   No longer has payload capacity\n\nOct\n   Health 12000\n   Shield 40000\n   Shield regen 500\n   Item capacity 1000\n   Hugely increased payload cap\n   Added Shield Regen Field ability\n\n\n\nDagger \n   1 armor\n\nMace\n   Speed 5.25\n   Cannot hit air\n   20 dmg\n   700 HP\n\nFortress\n   Health 500\n   Range 32\n   Has a new long range AA missile\n      Damage 150\n      Reload 4s\n\nScepter\n   Health 2000\n   Range 31\n   Shield ability removed\n   Big guns only hit ground\n      Damage 100\n      Lightning damage 5\n   Little guns only hit air\n      Damage 15\n      Homing\n\nReign\n   Heath 75000\n   Range 31\n   Cannot hit air\n\n\n\nNova\n   Now heals units using lasers\n\nPulsar\n   Health 360\n   No mining\n\nQuasar\n   Cannot hit air\n   Shield size increase\n   No mining\n   \nVela\n   Cannot hit air\n   Health 3000\n\nCorvus\n   Cannot hit air\n   Health 7000\n   Range 61\n   Damage 3000\n\n\n\nCrawler\n   Health 200\n   Damage 200\n   Cannot hit air\n   Build time increased to 15s\n\nAtrax\n   400 HP\n   0 Armor\n   Amphibious\n   Has slow firing AA flak cannon\n      Damage 40 area(5aoe)\n      Reload 3s\n\nSpiroct\n   Cannot hit air\n   Speed 5\n   Health 2000\n   Amphibious\n   Now fires Torpedos:\n      Damage 300\n        +40 area (4aoe)\n      Range 30\n      Reload 4s\n   Sap lasers:\n      no longer life steal\n      -90% building dmg\n      slow the Sproct when fired\n\nArkyid\n   Cannot hit air\n   Speed 5\n   Health 8000\n   Amphibious\n   Now fires 3x Torpedos:\n      Damage 300\n        +40 area (4aoe)\n      Range 30\n      Reload 4s\n   Main cannon damage 5\n   Sap lasers:\n      no longer life steal\n      -90% building dmg\n      slow the Arkyid when fired\n\nToxopid\n   Cannot hit air\n   Speed 5\n   Amphibious\n   Now fires Torpedos:\n      Damage 10000\n        +1000 area (4aoe)\n      Range 80\n      Reload 10s\n   Fuse-like cannon damage 500\n\n\n\nSei\n   Health 3000\n   Missile launcher 0.5x fire rate\n\nOmura\n   Health 15000\n   Damage 1250\n   Speed 2.25\n   Now spawns Horizons\n\n\n\nRetusa\n   Incrased the laser bolt guns to 4\n\nAegires\n   Health 1200\n   Now Projects a sheild like quasar\n      1000 hp\n      18 hp/s regen\n      15 tile range\n      30 second cooldown\n\nNavanax\n   Health 60000\n   Laser beams no longer hit air\n   Got a frontal shield like the Tecta"
+  },
+  {
     "repo": "mrdoes-nobody/statuses-plus",
     "internalName": "statuses+-",
     "name": "Statuses+",
@@ -7130,18 +7226,6 @@
     "description": "A java remake of my json unfinished mod."
   },
   {
-    "repo": "darkdustry-coders/mindurkacompat",
-    "internalName": "mindurkacompat",
-    "name": "MindurkaCompat",
-    "author": "buj",
-    "lastUpdated": "2026-01-20T22:50:01Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mod that adds extra compatibility with Mindurka"
-  },
-  {
     "repo": "rocket550/zytheron-technology-java-",
     "internalName": "zytheron",
     "name": "Zytheron Technology(Java)",
@@ -7152,6 +7236,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "(This mod is on BETA so many things can change in the future)\n\nThis is my first mod, so dont hope its going to have very high quality. This mod adds new units, turrets, factories, ores, a new planet and more (Extra: the textures are made in paint by the way,Develoment Help: melis and WALLE-E)"
+  },
+  {
+    "repo": "darkdustry-coders/mindurkacompat",
+    "internalName": "mindurkacompat",
+    "name": "MindurkaCompat",
+    "author": "buj",
+    "lastUpdated": "2026-01-21T07:10:00Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mod that adds extra compatibility with Mindurka"
   },
   {
     "repo": "teaeempire/gghv7",
