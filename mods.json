@@ -88,7 +88,7 @@
     "internalName": "mindustry-tool",
     "name": "Mindustry Tool",
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2026-01-21T17:09:24Z",
+    "lastUpdated": "2026-01-21T19:24:47Z",
     "stars": 182,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -3004,7 +3004,7 @@
     "internalName": "floodcompat",
     "name": "FloodCompat",
     "author": "io community",
-    "lastUpdated": "2026-01-21T17:15:08Z",
+    "lastUpdated": "2026-01-21T19:19:56Z",
     "stars": 7,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -12038,18 +12038,6 @@
     "description": "\nA complete 4-bit RGB color palette (4096 colors) implemented as Mindustry items for pixel art via sorter abuse.\n\nEach color is named by its hex code (000-fff) and expands to full 8-bit representation:\n- #f00 → #FF0000 (pure red)\n- #888 → #888888 (mid gray)\n- #5d8 → #55DD88 (mint green)\n\nWarning: Loading 4096 items may impact performance on lower-end devices. If the game lags, consider not using this mod.\n\nv1.0.0 - Initial release\n"
   },
   {
-    "repo": "malthael972/darkmodtest",
-    "internalName": "dark tank expansion",
-    "name": "darkmodtest",
-    "author": "AverageGuy972",
-    "lastUpdated": "2026-01-21T03:55:09Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "this mod is my testing mod for the game. trying to figure things out. adds copies of units with slight changes and ther own factories"
-  },
-  {
     "repo": "theerawate/anser-jua",
     "internalName": "anser jua help item",
     "name": "Anser Jua Help item",
@@ -12072,5 +12060,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A next-generation Mindustry utility ecosystem."
+  },
+  {
+    "repo": "malthael972/darkmodtest",
+    "internalName": "dark tank expansion",
+    "name": "darkmodtest",
+    "author": "AverageGuy972",
+    "lastUpdated": "2026-01-21T18:33:54Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "this mod is my testing mod for the game. trying to figure things out. adds copies of units with slight changes and ther own factories"
   }
 ]
