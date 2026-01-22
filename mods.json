@@ -88,7 +88,7 @@
     "internalName": "mindustry-tool",
     "name": "Mindustry Tool",
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2026-01-22T11:21:09Z",
+    "lastUpdated": "2026-01-22T15:39:29Z",
     "stars": 182,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -148,7 +148,7 @@
     "internalName": "omaloon",
     "name": "Omaloon",
     "author": "stabu, uujuju",
-    "lastUpdated": "2026-01-21T21:40:58Z",
+    "lastUpdated": "2026-01-22T12:41:16Z",
     "stars": 123,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -221,7 +221,7 @@
     "name": "ArchiveDustry Java",
     "author": "WilloIzCitron. Copyrights remains with Nexon, Nexon Games and Yostar",
     "lastUpdated": "2026-01-21T01:03:43Z",
-    "stars": 89,
+    "stars": 90,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
@@ -2676,6 +2676,18 @@
     "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
   },
   {
+    "repo": "7003mars/pic2tri",
+    "internalName": "triangles",
+    "name": "PicToTri",
+    "author": "Mars#7003",
+    "lastUpdated": "2026-01-21T07:46:42Z",
+    "stars": 8,
+    "minGameVersion": "154.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a dialog for turning images into schematics"
+  },
+  {
     "repo": "slashkig/astranium-mod",
     "internalName": "astramod",
     "name": "Operation: Aziris",
@@ -2986,18 +2998,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod that adds a new planet, Derepica.\nExplore this planet with full of waste and toxic acid.\n\n[red]Not recommended to play with other planet mod!"
-  },
-  {
-    "repo": "7003mars/pic2tri",
-    "internalName": "triangles",
-    "name": "PicToTri",
-    "author": "Mars#7003",
-    "lastUpdated": "2026-01-21T07:46:42Z",
-    "stars": 7,
-    "minGameVersion": "154.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds a dialog for turning images into schematics"
   },
   {
     "repo": "mindustry-antigrief/floodcompat",
@@ -3817,18 +3817,6 @@
     "description": "Replaces existing OST with Touhou orchestral/ambient music that fit well in the game."
   },
   {
-    "repo": "obsidian55/the-rising-sun",
-    "internalName": "trs",
-    "name": "The Rising Sun",
-    "author": "obsidian and Bloody-Ocean (Mesyachnuy/Месячный)",
-    "lastUpdated": "2025-10-20T18:15:55Z",
-    "stars": 5,
-    "minGameVersion": "151.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": ""
-  },
-  {
     "repo": "new-guys5634/lava-rebirth",
     "internalName": " b ",
     "name": "Caverns Rebirth",
@@ -3887,6 +3875,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that add modern items and block inculde industry or nuclear."
+  },
+  {
+    "repo": "obsidian55/the-rising-sun",
+    "internalName": "trs",
+    "name": "The Rising Sun",
+    "author": "obsidian and Bloody-Ocean (Mesyachnuy/Месячный)",
+    "lastUpdated": "2026-01-22T15:33:05Z",
+    "stars": 5,
+    "minGameVersion": "151.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": ""
   },
   {
     "repo": "seuearth/banana",
@@ -4079,6 +4079,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Provides a variety of advanced production buildings to supply materials for the most greedy of players. Доступен перевод на русский язык."
+  },
+  {
+    "repo": "vadit2020/betamindytranslated",
+    "internalName": "betamindy",
+    "name": "BetaMindy",
+    "author": "sk7725",
+    "lastUpdated": "2023-06-08T18:34:40Z",
+    "stars": 4,
+    "minGameVersion": "144",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "BetaMindy на русском"
   },
   {
     "repo": "stacktrace-error/gas-colorblindness-pack",
@@ -4907,18 +4919,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "(This mod is BlueArchive fan mod.) Sensei, let's get to work! Send weapons used by students as relief supplies."
-  },
-  {
-    "repo": "vadit2020/betamindytranslated",
-    "internalName": "betamindy",
-    "name": "BetaMindy",
-    "author": "sk7725",
-    "lastUpdated": "2023-06-08T18:34:40Z",
-    "stars": 3,
-    "minGameVersion": "144",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "BetaMindy на русском"
   },
   {
     "repo": "seuearth/command-block",
@@ -12066,11 +12066,11 @@
     "internalName": "oleksiyresprites",
     "name": "oleksiy's stuff",
     "author": "oleskiy",
-    "lastUpdated": "2026-01-21T20:24:23Z",
+    "lastUpdated": "2026-01-22T15:13:20Z",
     "stars": 0,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": false,
-    "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS"
+    "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS\nneeds hjson++ for more functionality"
   }
 ]
