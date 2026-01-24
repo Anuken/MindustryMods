@@ -53,7 +53,7 @@
     "name": "Schema",
     "author": "xzxADIxzx",
     "lastUpdated": "2025-04-29T22:07:01Z",
-    "stars": 229,
+    "stars": 230,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -88,7 +88,7 @@
     "internalName": "mindustry-tool",
     "name": "Mindustry Tool",
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2026-01-24T07:58:18Z",
+    "lastUpdated": "2026-01-24T09:25:01Z",
     "stars": 182,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -996,6 +996,18 @@
     "description": "hehe angish go nrrrt\n\n\ntargets:\n\n- vanilla\n\n- foo's client (builtin)\n\n- SMOLKEYS/yellow-java (extension)"
   },
   {
+    "repo": "00sunray00/scheme-size-port",
+    "internalName": "scheme-size",
+    "name": "Scheme Size Port",
+    "author": "xzxADIxzx\nPort: 00SunRay00",
+    "lastUpdated": "2025-12-19T16:25:12Z",
+    "stars": 22,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nThis mod is not the original port of Scheme Size — it is a custom port. The developer of the original mod is not involved in this in any way.\n!!!ATTENTION: VERSIONS BELOW v154 ARE NOT SUPPORTED!!!\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Copy Link and Join\n   - Rule setter\n"
+  },
+  {
     "repo": "dong-wo-long/enhancementunits",
     "internalName": "enhancement-units",
     "name": "Enhancement Units",
@@ -1018,18 +1030,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Мой первый мод, добавляющий новый контент и свою планету с кампанией (не рекомендуется ее сейчас проходить, потому что в настоящий момент она полностью поломана изза обновлений). \n  \n\nВерсия мода: 0.7.2\n\n\nПомогли в создании мода: Obsidian (сделал спрайты почти всех фабрик), \nTopyriot (сделал спрайты баз турелей).\n\n\nTelegram: @Thisispzdcnh"
-  },
-  {
-    "repo": "00sunray00/scheme-size-port",
-    "internalName": "scheme-size",
-    "name": "Scheme Size Port",
-    "author": "xzxADIxzx\nPort: 00SunRay00",
-    "lastUpdated": "2025-12-19T16:25:12Z",
-    "stars": 21,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nThis mod is not the original port of Scheme Size — it is a custom port. The developer of the original mod is not involved in this in any way.\n!!!ATTENTION: VERSIONS BELOW v154 ARE NOT SUPPORTED!!!\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Copy Link and Join\n   - Rule setter\n"
   },
   {
     "repo": "jirocab/nyfalis",
@@ -2676,18 +2676,6 @@
     "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
   },
   {
-    "repo": "7003mars/pic2tri",
-    "internalName": "triangles",
-    "name": "PicToTri",
-    "author": "Mars#7003",
-    "lastUpdated": "2026-01-21T07:46:42Z",
-    "stars": 8,
-    "minGameVersion": "154.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds a dialog for turning images into schematics"
-  },
-  {
     "repo": "slashkig/astranium-mod",
     "internalName": "astramod",
     "name": "Operation: Aziris",
@@ -2698,6 +2686,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
+  },
+  {
+    "repo": "7003mars/pic2tri",
+    "internalName": "triangles",
+    "name": "PicToTri",
+    "author": "Mars#7003",
+    "lastUpdated": "2026-01-24T09:09:37Z",
+    "stars": 8,
+    "minGameVersion": "154.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a dialog for turning images into schematics"
   },
   {
     "repo": "fabizocker456/test",
@@ -4757,7 +4757,7 @@
     "internalName": "sand stormv2",
     "name": "sand-storm-mindustry",
     "author": "chmonya",
-    "lastUpdated": "2026-01-24T07:59:29Z",
+    "lastUpdated": "2026-01-24T10:00:24Z",
     "stars": 4,
     "minGameVersion": "144",
     "hasScripts": false,
@@ -11484,6 +11484,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "titanium-is-not-lead"
+  },
+  {
+    "repo": "bluetechnocat/treetest",
+    "internalName": "tree-test",
+    "name": "Tree Test",
+    "author": "[#0088ff]Blue[]Techno",
+    "lastUpdated": "2025-10-16T17:35:05Z",
+    "stars": 0,
+    "minGameVersion": "143",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Just testing some tree shenanigans"
   },
   {
     "repo": "bluetechnocat/neomod",
