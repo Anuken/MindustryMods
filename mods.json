@@ -76,7 +76,7 @@
     "internalName": "asthosus",
     "name": "Asthosus",
     "author": "Catser",
-    "lastUpdated": "2026-01-25T17:53:08Z",
+    "lastUpdated": "2026-01-25T18:27:33Z",
     "stars": 202,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2388,18 +2388,6 @@
     "description": "Adds multiple new factories, turrets and items to enhance vanilla content and add more things post-late game.\nIMPORTANT: Credit for sprites cuz stealing bad: \n- Eschatologue/Unlimited-Armament-Works\n- AureusStratus/ExoGenesis \n- Eschatologue/Heavy-Armaments-Industries\n- uujuju1/project-oblivion\n- Twcash/Aquarion\n- thomas_has_things(discord) Thomas's Things \n- and a huge shoutout to y'all on the Mindustry Discord\nMod was originally a personal project, sorry if I used your sprites without consent."
   },
   {
-    "repo": "agzam4/mindustry-mod-v8",
-    "internalName": "agzam4mod",
-    "name": "Agzam's Mod",
-    "author": "Agzam4",
-    "lastUpdated": "2026-01-25T13:41:04Z",
-    "stars": 9,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Additional functionality"
-  },
-  {
     "repo": "meepoffaith/additional-logistics",
     "internalName": "tranqol",
     "name": "Additional Logistics",
@@ -2410,6 +2398,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A quality of life mod that adds useful blocks for transportation and logistics."
+  },
+  {
+    "repo": "agzam4/mindustry-mod-v8",
+    "internalName": "agzam4mod",
+    "name": "Agzam's Mod",
+    "author": "Agzam4",
+    "lastUpdated": "2026-01-25T19:30:21Z",
+    "stars": 9,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Additional functionality"
   },
   {
     "repo": "warcry98/speedcontrol",
@@ -9290,18 +9290,6 @@
     "description": "A basic SLF4J implementation for Mindustry."
   },
   {
-    "repo": "hubdustry/hubdustrymod",
-    "internalName": "hubdustry",
-    "name": "Hubdustry",
-    "author": "Aibox",
-    "lastUpdated": "2026-01-25T10:10:35Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A next-generation Mindustry utility ecosystem."
-  },
-  {
     "repo": "mr816543/endless_compression",
     "internalName": "ec",
     "name": "无尽压缩Endless Compression",
@@ -9338,11 +9326,23 @@
     "description": "Eine Turret, die Lichtbögen wie Arcus schießt."
   },
   {
+    "repo": "hubdustry/hubdustrymod",
+    "internalName": "hubdustry",
+    "name": "Hubdustry",
+    "author": "Aibox",
+    "lastUpdated": "2026-01-25T19:02:52Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A next-generation Mindustry utility ecosystem."
+  },
+  {
     "repo": "poiu-y/mindustry-ich-mod",
     "internalName": "ich-mod",
     "name": "Ich",
     "author": "zeriki",
-    "lastUpdated": "2026-01-25T18:00:21Z",
+    "lastUpdated": "2026-01-25T19:52:58Z",
     "stars": 1,
     "minGameVersion": "145",
     "hasScripts": false,
@@ -11330,18 +11330,6 @@
     "description": "Provides tools for easier debugging in Mindustry Logic."
   },
   {
-    "repo": "cardillan/mlogassertions-7",
-    "internalName": "mlog-assertions-7",
-    "name": "Mlog Assertions (v7)",
-    "author": "cardillan",
-    "lastUpdated": "2025-08-31T07:55:13Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Provides tools for easier debugging in Mindustry Logic."
-  },
-  {
     "repo": "routerxdd/item-resprites",
     "internalName": "rot-resprites",
     "name": "Item resprites",
@@ -12054,11 +12042,23 @@
     "internalName": "oleksiyresprites",
     "name": "oleksiy's stuff",
     "author": "oleskiy",
-    "lastUpdated": "2026-01-25T17:01:06Z",
+    "lastUpdated": "2026-01-25T18:36:50Z",
     "stars": 0,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": false,
     "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS\nneeds hjson++ for more functionality"
+  },
+  {
+    "repo": "cardillan/mlogassertions-7",
+    "internalName": "mlog-assertions-7",
+    "name": "Mlog Assertions (v7)",
+    "author": "cardillan",
+    "lastUpdated": "2026-01-25T19:44:23Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Provides tools for easier debugging in Mindustry Logic."
   }
 ]
