@@ -3096,18 +3096,6 @@
     "description": "Adds modest modifications to the default Mindustry sounds.\n\nChanges include:\n•UI Sounds\n•Block Sounds\n•Action Sounds\n•Ambient sounds"
   },
   {
-    "repo": "jojoblackfr/futuristic-industries",
-    "internalName": "trolldustryv8",
-    "name": "Trolldustry V8",
-    "author": "DX-36",
-    "lastUpdated": "2023-12-14T17:54:41Z",
-    "stars": 6,
-    "minGameVersion": "150",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "modifies the campain maps to troll you, now in V8 (Serpulo maps up to Planetary Launch Terminal)\nthis mod will overwrite campaign sectors with troll versions, have fun"
-  },
-  {
     "repo": "raffel080108/unlocktechtreemod",
     "internalName": "unlock-tech-tree-mod",
     "name": "UnlockTechTreeMod",
@@ -7947,15 +7935,15 @@
   },
   {
     "repo": "xxy173/transportplus",
-    "internalName": "utm",
-    "name": "Ultimate Tank Mod",
-    "author": "Gadsal0",
+    "internalName": "transportplus",
+    "name": "TransportPlus",
+    "author": "xxy173",
     "lastUpdated": "2024-04-30T13:35:50Z",
     "stars": 1,
-    "minGameVersion": "142",
+    "minGameVersion": "143.1",
     "hasScripts": false,
     "hasJava": false,
-    "description": "A mod made for my friends, you must extract the mod into a folder to be able to play! (idk why)"
+    "description": "Add the following contents.\n-Electrified conveyor,junction,router,sorter,and overflow gate.\n-Mini masdriver\n-Cargo loader and cargo unload point that can be used in Serpulo.\n-Strengthened Unloader."
   },
   {
     "repo": "routerxdd/mechanicalwarfareport",
@@ -8366,6 +8354,18 @@
     "description": "支持语言 | Language\n中文简体 | English\n\n将一些物质进行压缩\n并添加大量bug\n\n无尽压缩Mod交流群(QQ):708031203\n\n更新日志\nv1.3.0\n1.在设置中添加了压缩敌人的设置选项,会对所有使用了压缩器的地图波次进行修改,修改后的波次将于第5*n*n波开始出现n重压缩敌人\n2.上述修改目前是不可逆的\n3.正在修复bug\n\nv1.2.0\n1.修复了压缩装卸器无法选择输出物品的问题\n2.大幅优化了压缩物品源极端情况下的卡顿问题\n3.修复了压缩力墙投影,压缩照明器不耗电的问题\n4.新增压缩液体源\n5.优化了压缩激光钻头的挖掘和输出速度\n\nv1.1.9\n1.新增压缩传送带桥,压缩液体导管桥\n2.尝试优化了压缩钻头数量过多会导致卡顿的问题\n\nv1.1.8\n1.修复了装卸器装卸物品时的异常现象\n2.修复了液体压缩器在重新加载游戏后的异常输出现象\n3.修复了压缩钻头在使用液体增幅时重新加载游戏后的异常现象\n4.修复了压缩钻井实际并未增强的bug\n5.现在万能压缩器之间不能直接互相传递物品/液体\n\nv1.1.7-a\n1.修复了闪退问题\n\nv1.1.7\n1.下调的多重压缩器的压缩时间,根据配方增加了多重压缩器的耗电\n2.增强了传送带\n3.压缩卸载器现在的实际速度和面板一致了\n4.新增万能压缩器,能够将输入的物品自动压缩为下一级物品\n5.修复了液体压缩器/多重液体压缩器偶现不输出液体的情况\n6.现在压缩弹药将增幅炮塔的索敌范围\n7.新增压缩融毁,压缩脉冲地雷\n8.所有压缩单位的容量都正常增幅了\n9.修复了电力节点与照明器在科技树中消失的问题\n\nv1.1.6\n1.新增压缩培养基,压缩热能坩埚,压缩发射台,压缩维修点,压缩石油钻井,压缩门\n2.修复了压缩质量驱动器子弹存在时间过短的问题\n3.修复了多重液体压缩机时间过短的问题\n4.修复了压缩照明器不亮的问题\n5.更换了更好看的数字贴图\n6.打开测试功能后,启动游戏时会在控制台显示测试功能的部分信息\n\nv1.1.5\n1.修复了抛投类压缩子弹实际的最大射程并未改变的问题\n2.修复了火焰,浪涌的子弹特效与实际射程不一致的问题\n3.新增了多重液体压缩器,能将原版液体直接压缩为多重压缩液体,具备智能容量\n4.去除了液体压缩器的解压配方\n5.新增压缩能量炮台\n6.修复了力墙投影消耗不正常的问题\n7.修复了单位工厂不能使用原料的问题\n8.修复了电力节点不能自动连接的问题\n9.修改了固态能量的解锁方式\n\nv1.1.4\n1.修复了原版工厂材料变为一重压缩材料的问题\n\nv1.1.3\n1.修复了多重压缩工厂材料,压缩温差发电机仍是原版材料的问题\n2.现在多重压缩器的容量会随配方的不同而变化,最大容量=配方内最大物品数*2\n3.添加了压缩物品/液体容器,压缩修理投影,压缩地热\n4.更换了部分逻辑,减少了非预期方块的出现,如压缩热源\n5.修复了多人游戏中压缩器会错乱的bug\n6.添加了部分难以发现的bug\n7.添加压缩物品源,压缩电力源,压缩质量驱动器,压缩冲击反应堆\n\nv1.1.2\n1.换了更好看的mod名(?)\n2.支持English\n3.更换了温差发电机的压缩方式\n4.新增压缩超速投影,力墙投影\n5.修复了钻头的挖掘速度存在隐藏上限的问题,现在钻头的挖掘速度如面板所示\n6.修复了压缩器输出过慢的问题\n7.移除了对作者更新过于勤快问题的修复\n\nv1.1.1\n1.修复了使用4重压缩以上弹药手机会卡的问题\n2.修复了部分原版方块血量2.1B的问题\n3.修复了部分压缩方块信息显示错误的问题\n4.修复了能随地放置各种压缩核心的问题\n5.新增了压缩反应堆\n6.修复了作者更新过于勤快的问题\n\nv1.1.0\n1.修复了与科技树显示mod不兼容的问题\n\nv1.0.9\n1.压缩材料,压缩器,多重压缩器新增的角标贴图以便分辨\n\nv1.0.8\n1.修复了部分bug\n\nv1.0.7\n1.修复了测试功能打开后的闪退问题\n2.修复了科技树不能解锁的问题\n3.新增了部分多重压缩方块\n4.修复了bug不够多的问题\n\nv1.0.6\n1.修复了1.0.5的崩溃问题\n\nv1.0.5\n1.新增压缩核心\n2.压缩器的建造材料改为硅,以便能够在E星上建造\n3.电池的爆炸被增强了\n\nv1.0.0正式版\n1.优化了代码结构,同时添加了部分注释\n2.修改了科技树,现在本Mod提供的新内容会直接作为原内容的子科技节点\n3.对原版的大部分内容均可进行压缩\n\nv0.9.2\n1.现在多重压缩器可以解压压缩材料了\n2.去除了液体多重压缩器,液体压缩器现在能够逐层解压压缩液体了\n3.现在能够对电力进行压缩了\n4.新增了压缩t1空军与海军\n5.修复了部分贴图bug\n\nv0.9.1\n1.使用了新的多合成工厂组件,现在不再需要多合成前置mod了\n(感谢来自guiY归某人大佬的帮助)\n2.略微加快了压缩器的合成速度\n3.新增多重压缩火力发电机,涡轮发电机,电力节点,电池\n\nv0.9.0\n1.新增多重压缩器,能够直接将原版物品压缩为多重压缩的物品\n2.新增压缩钛传送带\n\nv0.8.7\n1.现在压缩机械钻头能够提升挖掘等级了\n\nv0.8.6\n1.修复了科技树无法解锁的问题\n\nv0.8.5\n1.新增t1压缩地面单位\n2.新增了原版工厂的压缩版本\n3.微调了平衡性\n\nv0.8.0\n1.重写了mod的底层代码\n2.现在原版全部的几乎所有非能量炮台都支持使用压缩物品作为弹药了\n3.现在原版的几乎所有小型墙都具有压缩版本了\n4.新增压缩水,矿渣,石油,冷冻液\n5.调整了部分因为使用压缩物品而产生的属性变化\n\nv0.7.0\n1.新增压缩机械钻头\n2.新增压缩传送带\n3.优化了压缩物品的贴图,现在多重压缩物品的贴图不会过于暗淡/明亮了\n\nv0.6.0\n1.原版基础物品全部可以压缩了\n2.原版双管,分裂,火焰完全支持使用原版弹药的压缩版本作为弹药了\n\nv0.5.3\n1.新增压缩钢化玻璃,废料,煤系列\n2.原版分裂现在可以使用压缩钢化玻璃,压缩废料作为弹药\n3.原版火焰现在可以使用压缩煤作为弹药\n4.修复了压缩材料作为建材时不会延长建造时间的问题\n\nv0.5.2\n1.新增压缩铅,沙,钛系列\n2.原版分裂炮现在可以使用压缩铅作为弹药\n\nv0.5.1\n1.每种压缩铜现在可以制作对应的城墙了\n\nv0.5\n1.新增压缩铜,新增铜压缩器\n2.原版双管炮现在可以使用压缩铜作为弹药\n3.构建了新的无尽压缩科技树\n\n"
   },
   {
+    "repo": "gadsal0/ultimate-tank-mod",
+    "internalName": "utm",
+    "name": "Ultimate Tank Mod",
+    "author": "Gadsal0",
+    "lastUpdated": "2025-01-27T20:47:49Z",
+    "stars": 1,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod made for my friends, you must extract the mod into a folder to be able to play! (idk why)"
+  },
+  {
     "repo": "flavioandrade001/nowavetimer",
     "internalName": "nowavetimer",
     "name": "No Wave Timer",
@@ -8750,6 +8750,18 @@
     "description": "Makes all 'Sharded' units and blocks have ~0 HP"
   },
   {
+    "repo": "dx-36/trolldustryv8",
+    "internalName": "trolldustryv8",
+    "name": "Trolldustry V8",
+    "author": "DX-36",
+    "lastUpdated": "2025-07-28T15:32:52Z",
+    "stars": 1,
+    "minGameVersion": "150",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "modifies the campain maps to troll you, now in V8 (Serpulo maps up to Planetary Launch Terminal)\nthis mod will overwrite campaign sectors with troll versions, have fun"
+  },
+  {
     "repo": "bom-me/turret-tech-",
     "internalName": "turret tech and other bit",
     "name": "turret tech and other bit",
@@ -9039,14 +9051,26 @@
   },
   {
     "repo": "nezerit6/onetry",
+    "internalName": "onetry",
+    "name": "One Try",
+    "author": "Nezerit6",
+    "lastUpdated": "2025-11-28T22:56:40Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Hardcore permadeath mod for Mindustry."
+  },
+  {
+    "repo": "hungrycloud4913/hunnimbus-gas-resprites",
     "internalName": "hunnimbus gas resprites",
     "name": "HunNimbus Gas Resprites",
     "author": "HunNimbus",
-    "lastUpdated": "2025-11-28T22:56:40Z",
+    "lastUpdated": "2025-11-29T21:17:39Z",
     "stars": 1,
     "minGameVersion": "136",
     "hasScripts": false,
-    "hasJava": true,
+    "hasJava": false,
     "description": "Texture pack for my gas resprites"
   },
   {
@@ -9804,6 +9828,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Scheme Size(勝手に略してSS)を日本語に訳しました。"
+  },
+  {
+    "repo": "camelstyleuser/unlockable-content",
+    "internalName": "unlockable-content",
+    "name": "UnlockableContent",
+    "author": "camelStyleUser",
+    "lastUpdated": "2024-01-03T12:53:28Z",
+    "stars": 0,
+    "minGameVersion": "137",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "dont you love some js"
   },
   {
     "repo": "teamcheburek/amigus",
