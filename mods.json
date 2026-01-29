@@ -916,7 +916,7 @@
     "internalName": "azimut",
     "name": "Azimut",
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-01-28T11:11:45Z",
+    "lastUpdated": "2026-01-29T06:56:04Z",
     "stars": 23,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -1236,6 +1236,18 @@
     "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts"
   },
   {
+    "repo": "icexuegao/deepspace",
+    "internalName": "ice",
+    "name": "Deep Space",
+    "author": "Alon",
+    "lastUpdated": "2026-01-29T04:17:31Z",
+    "stars": 17,
+    "minGameVersion": "154.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "模组为MDT引入四大势力,拓展全新科技树,单位,星球及地形机制"
+  },
+  {
     "repo": "mnemotechnician/new-controls-public",
     "internalName": "newcontrols",
     "name": "New controls",
@@ -1318,18 +1330,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod for browsing schematic repositories."
-  },
-  {
-    "repo": "icexuegao/deepspace",
-    "internalName": "ice",
-    "name": "Deep Space",
-    "author": "Alon",
-    "lastUpdated": "2026-01-29T04:17:31Z",
-    "stars": 16,
-    "minGameVersion": "154.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "模组为MDT引入四大势力,拓展全新科技树,单位,星球及地形机制"
   },
   {
     "repo": "mythril382/roombas",
@@ -12062,30 +12062,6 @@
     "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS\nneeds hjson++ for more functionality"
   },
   {
-    "repo": "cardillan/mlogassertions",
-    "internalName": "mlog-assertions-8",
-    "name": "Mlog Assertions (v8)",
-    "author": "cardillan",
-    "lastUpdated": "2026-01-27T16:14:46Z",
-    "stars": 0,
-    "minGameVersion": "154.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Provides tools for easier debugging in Mindustry Logic."
-  },
-  {
-    "repo": "momiji142857/ve-addon-schematics",
-    "internalName": "ve-addon-schematics",
-    "name": "VE Addon: Schematics",
-    "author": "[sky]Momiji142857[white]",
-    "lastUpdated": "2026-01-27T16:26:37Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#90DBFF]Vanilla Expansion原版扩展[white]的蓝图附属模组\nschematics add‑on for the [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组主要收录并优化了来自VE模组交流群的一些蓝图，旨在让玩家能更方便地使用。\nThis pack collects and optimizes community schematics to make them easier for players to import and use.\n\n感谢所有为本合集贡献并参与测试的成员！\nThank you to everyone who contributed and helped test the pack!\n\n最后更新 / Last updated: 2026-01-28"
-  },
-  {
     "repo": "piggychu620/mindustrycontentpatcher",
     "internalName": "cp620",
     "name": "PiggyChu620 Core Patcher v1.0",
@@ -12096,5 +12072,41 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Content patcher for PiggyChu620 mods"
+  },
+  {
+    "repo": "cardillan/mlogassertions",
+    "internalName": "mlog-assertions-8",
+    "name": "Mlog Assertions (v8)",
+    "author": "cardillan",
+    "lastUpdated": "2026-01-29T07:08:35Z",
+    "stars": 0,
+    "minGameVersion": "154.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Provides tools for easier debugging in Mindustry Logic."
+  },
+  {
+    "repo": "ostost2/snek-mod",
+    "internalName": "snek-mod",
+    "name": "Container Chaining",
+    "author": "estee",
+    "lastUpdated": "2026-01-29T07:20:58Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Brings back the container chaining mechanic from Mindustry v4 beta"
+  },
+  {
+    "repo": "momiji142857/ve-addon-schematics",
+    "internalName": "ve-addon-schematics",
+    "name": "VE Addon: Schematics",
+    "author": "[sky]Momiji142857[white]",
+    "lastUpdated": "2026-01-29T08:21:26Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#90DBFF]Vanilla Expansion原版扩展[white]的蓝图附属模组\nschematics add‑on for the [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组主要收录并优化了来自VE模组交流群的一些蓝图，旨在让玩家能更方便地使用。\nThis pack collects and optimizes community schematics to make them easier for players to import and use.\n\n感谢所有为本合集贡献并参与测试的成员！\nThank you to everyone who contributed and helped test the pack!\n\n最后更新 / Last updated: 2026-01-29"
   }
 ]
