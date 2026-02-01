@@ -5,7 +5,7 @@
     "name": "New Horizon",
     "author": "Yuria & Lao",
     "lastUpdated": "2026-01-29T15:51:12Z",
-    "stars": 533,
+    "stars": 534,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
@@ -17,7 +17,7 @@
     "name": "Exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2025-10-08T14:45:39Z",
-    "stars": 429,
+    "stars": 428,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -88,7 +88,7 @@
     "internalName": "mindustry-tool",
     "name": "Mindustry Tool",
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2026-02-01T00:16:11Z",
+    "lastUpdated": "2026-02-01T02:56:17Z",
     "stars": 186,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -592,7 +592,7 @@
     "internalName": "meld",
     "name": "Meld",
     "author": "Sh1penfire",
-    "lastUpdated": "2026-01-30T04:46:10Z",
+    "lastUpdated": "2026-02-01T03:53:17Z",
     "stars": 37,
     "minGameVersion": "151.1",
     "hasScripts": false,
@@ -5714,18 +5714,6 @@
     "description": "mass-driver logic schemes"
   },
   {
-    "repo": "huanxefh/lovecraftian-library",
-    "internalName": "lovec",
-    "name": "Lovecraftian Library",
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-01-30T07:00:05Z",
-    "stars": 3,
-    "minGameVersion": "155",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A JavaScript library for my other mods, with codes for multi-crafters, recipe dictionary, damage display, etc."
-  },
-  {
     "repo": "thechronodonut1337/silent-orchestra",
     "internalName": "silent-orchestra",
     "name": "Sounds like Argus",
@@ -5736,6 +5724,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Have you ever wondered what it would be like if Mindustry sounded like an open-world RPG? Well, now you can, with these collection of music and SFX replacements from FFXIV, Library of Ruina, Arknights, Terraria, and more."
+  },
+  {
+    "repo": "huanxefh/lovecraftian-library",
+    "internalName": "lovec",
+    "name": "Lovecraftian Library",
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-02-01T03:19:09Z",
+    "stars": 3,
+    "minGameVersion": "155",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A JavaScript library for my other mods, with codes for multi-crafters, recipe dictionary, damage display, etc."
   },
   {
     "repo": "blockzilla101/bomberman-disable-flying",
@@ -7214,18 +7214,6 @@
     "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
-    "repo": "huanxefh/project-reindustrialization",
-    "internalName": "projreind",
-    "name": "Project Reindustrialization",
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-01-30T07:01:34Z",
-    "stars": 2,
-    "minGameVersion": "155",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "OBJECT: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with hardcore production.\n- A separate and complex tech tree.\n- Multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\nThis mod is part of Lovecraftian series, which requires Lovecraftian Library and Lovecraftian Laboratory.\n\nWARNING: RECIPE HELL AHEAD!"
-  },
-  {
     "repo": "jasonp01/foosinstaller",
     "internalName": "fooinstallerv8",
     "name": "Foo's Client Installer (V8)",
@@ -7254,12 +7242,24 @@
     "internalName": "temod",
     "name": "Thermal Engineering",
     "author": "[sky]114514[white]",
-    "lastUpdated": "2026-01-31T14:54:51Z",
+    "lastUpdated": "2026-02-01T02:16:30Z",
     "stars": 2,
     "minGameVersion": "154.2",
     "hasScripts": false,
     "hasJava": true,
     "description": "-----INFO-----------------------\nThermalEnginerring  0.0.2_A\n-----DESCRIPTION----------------\nA mindustry Java&Kotlin(JVM) Mod\n一个Mindustry的JVMMod\nMod中文名：热力工程"
+  },
+  {
+    "repo": "huanxefh/project-reindustrialization",
+    "internalName": "projreind",
+    "name": "Project Reindustrialization",
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-02-01T03:20:23Z",
+    "stars": 2,
+    "minGameVersion": "155",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "OBJECT: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with hardcore production.\n- A separate and complex tech tree.\n- Multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\nThis mod is part of Lovecraftian series, which requires Lovecraftian Library and Lovecraftian Laboratory.\n\nWARNING: RECIPE HELL AHEAD!"
   },
   {
     "repo": "teaeempire/gghv7",
@@ -10080,18 +10080,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod changes the UI elements to fit the Simpledustry texturepack.\n\nNot compatible with every other mod!"
-  },
-  {
-    "repo": "leo-mathguy/mindsutry",
-    "internalName": "mindsutry",
-    "name": "Mindsutry",
-    "author": "LeoMathGuy",
-    "lastUpdated": "2024-04-11T14:39:06Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Stupid stuff"
   },
   {
     "repo": "verilazic/serpulo-unit-rebalance",
