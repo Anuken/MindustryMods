@@ -88,7 +88,7 @@
     "internalName": "mindustry-tool",
     "name": "Mindustry Tool",
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2026-02-08T06:58:24Z",
+    "lastUpdated": "2026-02-08T15:51:34Z",
     "stars": 186,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -460,7 +460,7 @@
     "internalName": "az",
     "name": "Azaria",
     "author": "Azaria Team",
-    "lastUpdated": "2026-02-08T13:28:19Z",
+    "lastUpdated": "2026-02-08T14:35:27Z",
     "stars": 45,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -496,7 +496,7 @@
     "internalName": "subvoyage",
     "name": "Subvoyage",
     "author": "Skoow, IriDark",
-    "lastUpdated": "2026-02-08T13:43:22Z",
+    "lastUpdated": "2026-02-08T14:19:23Z",
     "stars": 40,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -2916,18 +2916,6 @@
     "description": "V7 fixed, Generate power out of nature. Four types of windmills, a water dam, three powernodes and two large batteries. It is still under development so feedback on the workshop is welcome"
   },
   {
-    "repo": "ovulam5480/ovulamtools",
-    "internalName": "ovulamtools",
-    "name": "OvulamTools",
-    "author": "Ovulam5480",
-    "lastUpdated": "2025-12-22T02:52:47Z",
-    "stars": 7,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "用于显示子弹溅射范围或者单位坠落伤害半径的辅助模组(起码以前是)"
-  },
-  {
     "repo": "piggychu620/mindustryrandomplanet",
     "internalName": "ec620",
     "name": "Random Planet v0.4.9.b4",
@@ -4765,18 +4753,6 @@
     "description": "以战锤40k为原型的MOD,Mod官方QQ交流群：316481519\n贡献者DOC-A-7244(bundles和翻译),Eipusino(java技术指导)"
   },
   {
-    "repo": "huanxefh/lovecraftian-library",
-    "internalName": "lovec",
-    "name": "Lovecraftian Library",
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-02-08T14:04:06Z",
-    "stars": 4,
-    "minGameVersion": "155",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "A JavaScript library for my other mods, with codes for multi-crafters, recipe dictionary, damage display, etc."
-  },
-  {
     "repo": "mythril382/ammoswap",
     "internalName": "ammo-swap",
     "name": "Ammo Swap",
@@ -5754,7 +5730,7 @@
     "internalName": "loveclab",
     "name": "Lovecraftian Laboratory",
     "author": "MaboroshiX",
-    "lastUpdated": "2026-02-07T08:20:28Z",
+    "lastUpdated": "2026-02-08T15:07:52Z",
     "stars": 3,
     "minGameVersion": "155",
     "hasScripts": true,
@@ -5766,7 +5742,7 @@
     "internalName": "projreind",
     "name": "Project Reindustrialization",
     "author": "MaboroshiX",
-    "lastUpdated": "2026-02-07T08:21:42Z",
+    "lastUpdated": "2026-02-08T15:09:03Z",
     "stars": 3,
     "minGameVersion": "155",
     "hasScripts": true,
@@ -12096,5 +12072,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Allows players other than the host to pause in multiplayer. Both the host and the person pausing need the mod. Supports Mindustry v154 with enhanced synchronization features."
+  },
+  {
+    "repo": "huanxefh/lovecraftian-library-java",
+    "internalName": "lovec",
+    "name": "Lovecraftian Library",
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-02-08T15:19:50Z",
+    "stars": 0,
+    "minGameVersion": "155",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "A JavaScript library for my other mods, with codes for multi-crafters, recipe dictionary, damage display, etc."
   }
 ]
