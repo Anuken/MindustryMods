@@ -604,7 +604,7 @@
     "internalName": "meld",
     "name": "Meld",
     "author": "Sh1penfire",
-    "lastUpdated": "2026-02-09T03:37:41Z",
+    "lastUpdated": "2026-02-09T04:47:21Z",
     "stars": 37,
     "minGameVersion": "151.1",
     "hasScripts": false,
@@ -928,7 +928,7 @@
     "internalName": "azimut",
     "name": "Azimut",
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-02-09T03:42:10Z",
+    "lastUpdated": "2026-02-09T05:37:23Z",
     "stars": 23,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -1296,6 +1296,18 @@
     "description": "A mod with ambitious goals, and a fresh start. Incomplete, still in pre-pre-alpha."
   },
   {
+    "repo": "fallingdice/flesh-mod",
+    "internalName": "flesh-mod",
+    "name": "Flesh Mod",
+    "author": "FallingDice",
+    "lastUpdated": "2025-06-22T09:23:15Z",
+    "stars": 16,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Add flesh units with various actions and skills, novel turrets and various objects."
+  },
+  {
     "repo": "hungrycloud4913/esocatalyst",
     "internalName": "esocatalyst",
     "name": "Esocatalyst",
@@ -1414,18 +1426,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod."
-  },
-  {
-    "repo": "fallingdice/flesh-mod",
-    "internalName": "flesh-mod",
-    "name": "Flesh Mod",
-    "author": "FallingDice",
-    "lastUpdated": "2025-06-22T09:23:15Z",
-    "stars": 15,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Add flesh units with various actions and skills, novel turrets and various objects."
   },
   {
     "repo": "valigaming15/pyra-erekir",
@@ -2640,18 +2640,6 @@
     "description": "[#B2002A]The war is Infinite![#FFFFFF]\n\n-Adding [#FFAA00]Functional building[#FFFFFF].\n-Adding new units include [#FF00FF]Tanks[#FFFFFF], [#FF5A00]Helicopters[#FFFFFF], and [#00FF00]Support Units[#FFFFFF].\nAdding a new [#FFB200]Technology[#FFFFFF] in game!\n( [#FF00FF]SERPULO ONLY[#FFFFFF] )\n\n\nI [#FF0000]indo[#FFFFFF]nesian people btw :)\n\nFound a bug? tag me on Discord ( @red.id9990 )"
   },
   {
-    "repo": "dustdustry/patcheditor",
-    "internalName": "patch-editor",
-    "name": "PatchEditor",
-    "author": "minRi2",
-    "lastUpdated": "2026-02-06T13:19:40Z",
-    "stars": 8,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
-  },
-  {
     "repo": "slashkig/astranium-mod",
     "internalName": "astramod",
     "name": "Operation: Aziris",
@@ -2674,6 +2662,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Java Mindustry mod that adds a new campaign on the planet Xilion. Currently still in pre-alpha"
+  },
+  {
+    "repo": "dustdustry/patcheditor",
+    "internalName": "patch-editor",
+    "name": "PatchEditor",
+    "author": "minRi2",
+    "lastUpdated": "2026-02-09T05:21:05Z",
+    "stars": 8,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
   },
   {
     "repo": "fabizocker456/test",
@@ -5281,6 +5281,18 @@
     "description": "my first java mod-test ver"
   },
   {
+    "repo": "zinq7/beacons-yay",
+    "internalName": "beacons-yay",
+    "name": "Holy Light",
+    "author": "zinq",
+    "lastUpdated": "2024-12-24T17:28:36Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A very cool content mod. Adds tons of new blocks, resources, and units, uncluding a whole new tier of reconstructor. Discord link: https://discord.gg/juaRAGaQ"
+  },
+  {
     "repo": "wmf-industries/wheredidtheygo",
     "internalName": "wdtg",
     "name": "WhereDidTheyGo?",
@@ -6554,18 +6566,6 @@
     "description": "A simple mod. That will probably break around every corner. It'll be worked on infrequently, probably."
   },
   {
-    "repo": "zinq7/beacons-yay",
-    "internalName": "beacons-yay",
-    "name": "Holy Light",
-    "author": "zinq",
-    "lastUpdated": "2024-12-24T17:28:36Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A very cool content mod. Adds tons of new blocks, resources, and units, uncluding a whole new tier of reconstructor. Discord link: https://discord.gg/juaRAGaQ"
-  },
-  {
     "repo": "minri2/junctionassistant",
     "internalName": "junction-assistant",
     "name": "Junction Assistant",
@@ -7274,18 +7274,6 @@
     "description": "(MOBILE NOT SUPPORED). Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible. Mobile support will never be added to foos client"
   },
   {
-    "repo": "darkdustry-coders/mindurkacompat",
-    "internalName": "mindurkacompat",
-    "name": "MindurkaCompat",
-    "author": "buj",
-    "lastUpdated": "2026-02-02T09:04:04Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mod that adds extra compatibility with Mindurka"
-  },
-  {
     "repo": "xpdustry/kotlin-runtime",
     "internalName": "kotlin-runtime",
     "name": "KotlinRuntime",
@@ -7320,6 +7308,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A year ago. A year ago i was working on this, on ff 3.0. A year ago, CY4 chose to kick me out of the dev team.\n\nI was not informed\n\nFor three weeks.\n\nI was given no real reason at the time.\n\nToday i realised i still had access to the old repo and that i had free will.\n\nThus here is the prototype for Frozen Farlands 3.0 that i worked on.\n\nRevenge is a dish best served frozen."
+  },
+  {
+    "repo": "darkdustry-coders/mindurkacompat",
+    "internalName": "mindurkacompat",
+    "name": "MindurkaCompat",
+    "author": "buj",
+    "lastUpdated": "2026-02-09T06:12:28Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mod that adds extra compatibility with Mindurka"
   },
   {
     "repo": "teaeempire/gghv7",
