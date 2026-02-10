@@ -53,7 +53,7 @@
     "name": "Schema",
     "author": "xzxADIxzx",
     "lastUpdated": "2025-04-29T22:07:01Z",
-    "stars": 230,
+    "stars": 229,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -197,7 +197,7 @@
     "name": "MI2-Utilities Java",
     "author": "BlackDeluxeCat",
     "lastUpdated": "2025-12-19T14:19:10Z",
-    "stars": 99,
+    "stars": 98,
     "minGameVersion": "154.2",
     "hasScripts": false,
     "hasJava": true,
@@ -652,12 +652,12 @@
     "internalName": "mod-tools",
     "name": "mod-tools",
     "author": "I hope...",
-    "lastUpdated": "2026-02-10T12:27:32Z",
+    "lastUpdated": "2026-02-10T14:16:15Z",
     "stars": 33,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
-    "description": "A mod provides various tools for modding.\n\n-----------------\nVersion 1.5.6\n## Highlight\n1. 修改minGameVersion\n2. 桌面端支持HotSwap（Preview）\n3. 修复一些bug，如ValueLabel\n4. 支持WSA环境的键盘输入\n5. 其他的一些优化\n-----------------\nWIKI: https://i-hope1.github.io/mod-tools"
+    "description": "A mod provides various tools for modding.\n\n-----------------\nVersion 1.5.7\n## Highlight\n1. 完善HotSwap（Preview）\n- ClassDiff (field +/-, method +/-, method body change)\n2. 适配Mindustry v155的lwjgl\n3. 其他的一些优化\n4. 升级ScreenSampler（加了opengl2的判断）来修复bug\n\n-----------------\nWIKI: https://i-hope1.github.io/mod-tools"
   },
   {
     "repo": "haznobrain/erekir-liquefied",
@@ -1656,18 +1656,6 @@
     "description": "the mod was developed for 2 months, please put an asterisk in the github(generally without spoilers)"
   },
   {
-    "repo": "bloody-ocean/bloodyvisual",
-    "internalName": "vu",
-    "name": "Visual Units",
-    "author": "Bloody-Ocean (Mesyachnuy/Месячный)",
-    "lastUpdated": "2024-08-26T20:40:50Z",
-    "stars": 13,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Ru: Данная модификация изменяет внешний вид юнитов. Респрайты только Серпуловских юнитов.\r\n\r\nEng: This modification changes the appearance of the units. Resprites of only Serpulo units."
-  },
-  {
     "repo": "meepoffaith/hallucinogen",
     "internalName": "hallucinogen",
     "name": "Hallucinogen",
@@ -1740,18 +1728,6 @@
     "description": "This mod adds some new movement mechanics, gravity and jump to player. WIP, report all bugs to Benry#5935"
   },
   {
-    "repo": "mythril382/colorednames",
-    "internalName": "colored-names",
-    "name": "Colored Names",
-    "author": "Mythril",
-    "lastUpdated": "2023-04-22T11:24:54Z",
-    "stars": 12,
-    "minGameVersion": "143.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds colored names!\n\nSome colors may not be accurate!\nSadly, no colored names for units. I'm working on that."
-  },
-  {
     "repo": "r-omnom/z.p.g.m._mod",
     "internalName": "zpgm-mod",
     "name": "Z.P.G.M. Mod",
@@ -1788,6 +1764,18 @@
     "description": "SHADOOOW your GAME!! repo: BlackDeluxeCat/ShadowShader"
   },
   {
+    "repo": "bloody-ocean/bloodyvisual",
+    "internalName": "vu",
+    "name": "Visual Units",
+    "author": "Bloody-Ocean (Mesyachnuy/Месячный)",
+    "lastUpdated": "2024-08-26T20:40:50Z",
+    "stars": 12,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Ru: Данная модификация изменяет внешний вид юнитов. Респрайты только Серпуловских юнитов.\r\n\r\nEng: This modification changes the appearance of the units. Resprites of only Serpulo units."
+  },
+  {
     "repo": "arth0x/mindustrinity",
     "internalName": "mindustrinity",
     "name": "MindusTrinity",
@@ -1822,6 +1810,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod which introduces actually unique [accent]Story Based Campaign[].\nMain goal of this mod is to show that lore based mods can be good too.\n\nWith story gameplay it introduces to you some new mechanics."
+  },
+  {
+    "repo": "mythril382/colorednames",
+    "internalName": "colored-names",
+    "name": "Colored Names",
+    "author": "Mythril",
+    "lastUpdated": "2023-04-22T11:24:54Z",
+    "stars": 11,
+    "minGameVersion": "143.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds colored names!\n\nSome colors may not be accurate!\nSadly, no colored names for units. I'm working on that."
   },
   {
     "repo": "deltanedas/waisa",
@@ -2760,18 +2760,6 @@
     "description": "This mod replaces all texts in the game with random ones."
   },
   {
-    "repo": "weathercold/extra-logging",
-    "internalName": "extra-logging",
-    "name": "Extra Logging 2",
-    "author": "Weathercold",
-    "lastUpdated": "2023-12-17T22:56:45Z",
-    "stars": 7,
-    "minGameVersion": "143.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds more debugging features and improvements.\n\nFeatures:\n- Fully customizable log messages /w timestamp;\n- Translate chat messages to your language;\n- Change log level;\n- Colorize `[colorname]` in log messages;\n- Log event triggers;\n- Various other QoL improvements.\n\n!!! Important !!!\nAndroid support was dropped from version 2.1.0 onwards due to technical constraints. You can still try to use an older version, though it's not guaranteed to work.\n\nSee README.md for more information."
-  },
-  {
     "repo": "mikamolimo/legendary-rainbow-mod",
     "internalName": "legendary rainbow mod",
     "name": "Legendary Rainbow Mod",
@@ -3109,6 +3097,18 @@
     "description": "Adds modest modifications to the default Mindustry sounds.\n\nChanges include:\n•UI Sounds\n•Block Sounds\n•Action Sounds\n•Ambient sounds"
   },
   {
+    "repo": "weathercold/extra-logging",
+    "internalName": "extra-logging",
+    "name": "Extra Logging 2",
+    "author": "Weathercold",
+    "lastUpdated": "2023-12-17T22:56:45Z",
+    "stars": 6,
+    "minGameVersion": "143.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds more debugging features and improvements.\n\nFeatures:\n- Fully customizable log messages /w timestamp;\n- Translate chat messages to your language;\n- Change log level;\n- Colorize `[colorname]` in log messages;\n- Log event triggers;\n- Various other QoL improvements.\n\n!!! Important !!!\nAndroid support was dropped from version 2.1.0 onwards due to technical constraints. You can still try to use an older version, though it's not guaranteed to work.\n\nSee README.md for more information."
+  },
+  {
     "repo": "raffel080108/unlocktechtreemod",
     "internalName": "unlock-tech-tree-mod",
     "name": "UnlockTechTreeMod",
@@ -3377,7 +3377,7 @@
     "internalName": "astralis",
     "name": "Astralis",
     "author": "NV-NX, Haznobrain (FULL CREDITS IN DESC.)",
-    "lastUpdated": "2026-02-09T18:35:35Z",
+    "lastUpdated": "2026-02-10T13:35:39Z",
     "stars": 6,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -11738,18 +11738,6 @@
     "description": "Lib that helps you patch packets."
   },
   {
-    "repo": "efsfse2280/-serpulo-balancing",
-    "internalName": "serpbalance",
-    "name": "#serpulo-balancing",
-    "author": "many",
-    "lastUpdated": "2026-01-04T19:10:44Z",
-    "stars": 0,
-    "minGameVersion": "153",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "all json-able mature balancing tweaks from the channel will (hopefully) be here.\n\nCurrent changes list:\n\n- Percentage-only overdrive nerf (20-60-70).\n- Enlarged gap between AB and laser.\n- Ammo AoE values swap between Ripple and Cyclone. (Ripple dmg counternerf)"
-  },
-  {
     "repo": "isekairid/unixglobalwars",
     "internalName": "unixglobalwars",
     "name": "UnixGlobalWars",
@@ -12120,5 +12108,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Made by a novice mod developer. Adds more content to the player's arsenal. Five types of tanks await your command:\n- [#FFA665]Assault[]\n- [#84F491]Support[]\n- [#BF92F9]Specialist[]\n- [#FF1414]Flame[]\n- [#FFEE00]Shock[]\n\nHeavily inspired by:\n- Eschatologue's 'Unlimited Armament Works'\n- nyuB's (뉴B) 'DuoMod'\n- DedShotGames' 'WOTanks'\n- Anuke's Erekir Tanks\n\nSFX credits to the following games:\n- Terraria\n- Terraria: Calamity Mod\n- Plants vs. Zombies"
+  },
+  {
+    "repo": "efsfse2280/-serpulo-balancing",
+    "internalName": "serpbalance",
+    "name": "#serpulo-balancing",
+    "author": "many",
+    "lastUpdated": "2026-02-10T14:47:06Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "all json-able mature balancing tweaks from the channel will (hopefully) be here.\n\nCurrent changes list:\n\n- Percentage-only overdrive nerf (20-60-70).\n- AB bcost nerf. (graph added, overall increases)\n- Ammo AoE values buffed for ripple."
   }
 ]
