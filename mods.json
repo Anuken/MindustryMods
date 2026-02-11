@@ -4,7 +4,7 @@
     "internalName": "new-horizon",
     "name": "New Horizon",
     "author": "Yuria & Lao",
-    "lastUpdated": "2026-02-08T17:31:28Z",
+    "lastUpdated": "2026-02-11T15:17:08Z",
     "stars": 537,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -88,7 +88,7 @@
     "internalName": "mindustry-tool",
     "name": "Mindustry Tool",
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2026-02-08T16:19:49Z",
+    "lastUpdated": "2026-02-11T16:47:11Z",
     "stars": 188,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -652,7 +652,7 @@
     "internalName": "mod-tools",
     "name": "mod-tools",
     "author": "I hope...",
-    "lastUpdated": "2026-02-11T13:33:59Z",
+    "lastUpdated": "2026-02-11T15:27:39Z",
     "stars": 33,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -2364,6 +2364,18 @@
     "description": "A mod centered around fighting bosses, with a focus on pattern-based attacks. Entirely detached from Mindustry's traditional gameplay loop - The Virtuality Archives restrains the player in a measly vessel and pits them against encoded entities. Does not utilize scripts or Java, seeking to explore the technical scope of (H)JSON and MLOG. Best experienced with a mouse and keyboard.\n\nCurrently features five of seven planned bosses in the campaign - Candor, Ardent & Argent, Pandemonium, Nyx, and Alluvion."
   },
   {
+    "repo": "spacetwoo/nolea-siege",
+    "internalName": "nul",
+    "name": "Nolea Siege",
+    "author": "Spacetwoo N cool guys",
+    "lastUpdated": "2025-11-07T14:17:15Z",
+    "stars": 9,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "If something deforms your body beyond recognition and takes away your mind, will it still be you?... \n \n A fast-paced mod with a variety of enemies, bosses and strange gameplay decisions! Right now there are 4 sectors out of 12! also There are still some unfinished things in here. \n Code - SpaceTwoo. \n Maps - SpaceTwoo SKYPETR, Lewiafan ROVO. \n Sprites - SpaceTwoo, ArtmX, Bloody-Ocean \n Other - Closed_Ink, Gribdius."
+  },
+  {
     "repo": "theserjio/advanceddatabase",
     "internalName": "advanced-database",
     "name": "Advanced DataBase",
@@ -2614,18 +2626,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Have you ever wondered what a drug overdose feels like? well lo and behold: the only mod made exclusively by uncontrolled autism\n\n  Featuring such fun features as: Novanox's evil microwave, NUCLEAR BOMBS, map where you can't defend against t1 air units, etc.\n\nIF YOU MAKE A MAP THAT IS *SOMEWHAT* BAREABLE, GO JUMP INTO A SLAG POOL, WE DONT DO THIS STUFF HERE.\n\n  We have 4 tiers of units, 8 turrets, and more laggy shit than your potato can handle. Because here at hell industries, we have 1 objective:\n    MAKE IT RAIN PAIN\n  if you complain that this mod is stupid congrats: you've proven we have done our job well and your soul is now scheduled for harvesting\nGo drill yourself!\nalso we have a discord server now: https://discord.gg/SUrhQKU2dw\nOnly at hell industries, home of the meanest sons of units in the interplanetary denomination of Erekir! GUARANTEED!"
-  },
-  {
-    "repo": "spacetwoo/nolea-siege",
-    "internalName": "nul",
-    "name": "Nolea Siege",
-    "author": "Spacetwoo N cool guys",
-    "lastUpdated": "2025-11-07T14:17:15Z",
-    "stars": 8,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "If something deforms your body beyond recognition and takes away your mind, will it still be you?... \n \n A fast-paced mod with a variety of enemies, bosses and strange gameplay decisions! Right now there are 4 sectors out of 12! also There are still some unfinished things in here. \n Code - SpaceTwoo. \n Maps - SpaceTwoo SKYPETR, Lewiafan ROVO. \n Sprites - SpaceTwoo, ArtmX, Bloody-Ocean \n Other - Closed_Ink, Gribdius."
   },
   {
     "repo": "cyanide863/arikoth",
@@ -3389,7 +3389,7 @@
     "internalName": "astralis",
     "name": "Astralis",
     "author": "NV-NX, Haznobrain (FULL CREDITS IN DESC.)",
-    "lastUpdated": "2026-02-11T14:29:14Z",
+    "lastUpdated": "2026-02-11T14:50:37Z",
     "stars": 6,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -7250,18 +7250,6 @@
     "description": "8.2版本新增炮台以及效果!"
   },
   {
-    "repo": "m1cxzfw3q/thermal-engineering-java",
-    "internalName": "temod",
-    "name": "Thermal Engineering",
-    "author": "[sky]114514[white]",
-    "lastUpdated": "2026-02-01T02:16:30Z",
-    "stars": 2,
-    "minGameVersion": "154.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "-----INFO-----------------------\nThermalEnginerring  0.0.2_A\n-----DESCRIPTION----------------\nA mindustry Java&Kotlin(JVM) Mod\n一个Mindustry的JVMMod\nMod中文名：热力工程"
-  },
-  {
     "repo": "jasonp01/foosinstaller",
     "internalName": "fooinstallerv8",
     "name": "Foo's Client Installer (V8)",
@@ -7344,6 +7332,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mindustry mod that adds a new planet with its own campaign, still WIP. Thanks to amogus2824 on discord for fixing the icy sprite and resprite Benite"
+  },
+  {
+    "repo": "m1cxzfw3q/thermal-engineering-java",
+    "internalName": "temod",
+    "name": "Thermal Engineering",
+    "author": "[sky]114514[white]",
+    "lastUpdated": "2026-02-11T16:47:53Z",
+    "stars": 2,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\n-----INFO-----------------------\nThermalEnginerring  0.0.2_A\n-----DESCRIPTION----------------\nA mindustry Java&Kotlin(JVM) Mod\n一个Mindustry的JVMMod\n"
   },
   {
     "repo": "teaeempire/gghv7",
@@ -9414,7 +9414,7 @@
     "internalName": "dt",
     "name": "Doodle Tank",
     "author": "[accent]Dirge",
-    "lastUpdated": "2026-02-11T02:17:04Z",
+    "lastUpdated": "2026-02-11T16:33:04Z",
     "stars": 1,
     "minGameVersion": "146",
     "hasScripts": false,
