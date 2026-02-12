@@ -88,7 +88,7 @@
     "internalName": "mindustry-tool",
     "name": "Mindustry Tool",
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2026-02-11T17:18:07Z",
+    "lastUpdated": "2026-02-12T01:37:46Z",
     "stars": 188,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -928,7 +928,7 @@
     "internalName": "azimut",
     "name": "Azimut",
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-02-11T09:18:20Z",
+    "lastUpdated": "2026-02-12T03:00:07Z",
     "stars": 23,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -2220,6 +2220,18 @@
     "description": "Meet shards\nShards is located far away from the sun and is basically frozen with tiny bugs of radiation.\nAlthough this planet has units, most of the time you'll be fighting walking mushrooms which is infected by lushion and droxium.\nThis mod is also filled with random stuff and after the fifth sector it's basically unplayable as it'll be unbalanced.\nAlso I'm actively reworking every sector.\nNote that kjol and cold moon is being removed and is rather be kept as a normal moon."
   },
   {
+    "repo": "dustdustry/patcheditor",
+    "internalName": "patch-editor",
+    "name": "PatchEditor",
+    "author": "minRi2",
+    "lastUpdated": "2026-02-09T05:21:05Z",
+    "stars": 10,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
+  },
+  {
     "repo": "deltanedas/speed",
     "internalName": "speed",
     "name": "Speed",
@@ -2422,18 +2434,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds a dialog for turning images into schematics"
-  },
-  {
-    "repo": "dustdustry/patcheditor",
-    "internalName": "patch-editor",
-    "name": "PatchEditor",
-    "author": "minRi2",
-    "lastUpdated": "2026-02-09T05:21:05Z",
-    "stars": 9,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
   },
   {
     "repo": "warcry98/speedcontrol",
@@ -9050,18 +9050,6 @@
     "description": "提供一些辅助功能, 例如修改资源,建筑,单位,地图, 以及各种方便大家游玩的功能"
   },
   {
-    "repo": "purters/ttmod",
-    "internalName": "超限工艺",
-    "name": "[TransfiniteTechnology]",
-    "author": "主作者:\n没有炮台的炮台s(PurTers)\n\n地图制作者:\n蓝细菌光合自养\n\n宣传人员:\nFire\n\n贴图师:\nMr.世纪灯泡 & 睌暙\n\n地图世处:\nalpha & 没有炮台的炮台s(PurTers)\n\n代码制作:\n没有炮台的炮台s(PurTers)\n\nMOD设定:\n纯萌新 & 没有炮台的炮台s(PurTers)",
-    "lastUpdated": "2025-10-07T09:43:08Z",
-    "stars": 1,
-    "minGameVersion": "152",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A story-rich mod\nIncludes 13 main campaign chapters and one side campaign chapter\nOverhauls the original planet Cypro\nAdds new factionsnA large number of new buildings and units\nWe welcome everyone to try it out\n（The storyline is currently only available in Chinese.）\n（The Mod has not yet been translated into English or other languages.）\n\n一个剧情向模组\n内含12章主线战役和1张支线战役\n在原版星球赛普罗的基础上进行了覆盖\n新增额外的势力\n大量的全新建筑以及单位\n欢迎各位游玩\n（剧情目前只有中文）\n（模组尚未制作英文及其他语言的翻译）\n\n\n\n\n\n\nQQ主群：789966619\n\n\n\n关于开发者单位:\n有开发者单位≠参与MOD开发,但可能曾参与MOD开发,或对MOD的贡献较大\n\n\n\n致谢名单:\n星月\nnan(代码指导)\nRA2-RA2(代码参考)\nKochiyaUeneh油苗子[white(防混模代码)]\nwwwww(贴图,灵感和地图投稿)\n普通的MDT玩家\n西红柿汤(世界处理器指导)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n“由无数失败所构筑”"
-  },
-  {
     "repo": "radiancestorm/mindustry-corona-borealis",
     "internalName": "coronaborealismod",
     "name": "Corona Borealis",
@@ -9444,6 +9432,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Texture pack for my liquid resprites"
+  },
+  {
+    "repo": "purters/ttmod",
+    "internalName": "超限工艺",
+    "name": "[TransfiniteTechnology:Strife]超限工艺:纷争",
+    "author": "主作者:\n没有炮台的炮台s(PurTers)\n\n地图制作者:\n蓝细菌光合自养 & SchizoPhrenia\n\n宣传人员:\nFire\n\n贴图师:\nMr.世纪灯泡 & 睌暙\n\n地图世处:\nalpha & 没有炮台的炮台s(PurTers)\n\n代码制作:\n没有炮台的炮台s(PurTers)\n\nMOD设定:\n纯萌新 & 没有炮台的炮台s(PurTers)",
+    "lastUpdated": "2026-02-12T03:52:54Z",
+    "stars": 1,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A story-rich mod\nIncludes 13 main campaign chapters and one side campaign chapter\nOverhauls the original planet Cypro\nAdds new factionsnA large number of new buildings and units\nWe welcome everyone to try it out\n（The storyline is currently only available in Chinese.）\n（The Mod has not yet been translated into English or other languages.）\n\n一个剧情向模组\n内含12章主线战役和1张支线战役\n在原版星球赛普罗的基础上进行了覆盖\n新增额外的势力\n大量的全新建筑以及单位\n欢迎各位游玩\n（剧情目前只有中文）\n（模组尚未制作英文及其他语言的翻译）\n\n\n\n\n\n\nQQ主群：789966619\n\n\n\n关于开发者单位:\n有开发者单位≠参与MOD开发,但可能曾参与MOD开发,或对MOD的贡献较大\n\n\n\n致谢名单:\n星月\nnan(代码指导)\nRA2-RA2(代码参考)\nKochiyaUeneh油苗子[(防混模代码)]\nwwwww(贴图,灵感和地图投稿)\n普通的MDT玩家\n西红柿汤(世界处理器指导)\nR\n哈吉爱\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n“由无数失败所构筑”"
   },
   {
     "repo": "exxleo/exoterusmod",
