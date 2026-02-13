@@ -508,7 +508,7 @@
     "internalName": "subvoyage",
     "name": "Subvoyage",
     "author": "Skoow, IriDark",
-    "lastUpdated": "2026-02-09T11:45:16Z",
+    "lastUpdated": "2026-02-13T09:44:11Z",
     "stars": 40,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -652,7 +652,7 @@
     "internalName": "mod-tools",
     "name": "mod-tools",
     "author": "I hope...",
-    "lastUpdated": "2026-02-13T08:08:26Z",
+    "lastUpdated": "2026-02-13T09:57:52Z",
     "stars": 33,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -1204,7 +1204,7 @@
     "internalName": "corpuscles",
     "name": "Corpuscles",
     "author": "SezoVK",
-    "lastUpdated": "2026-02-11T06:46:21Z",
+    "lastUpdated": "2026-02-13T08:59:58Z",
     "stars": 18,
     "minGameVersion": "154.3",
     "hasScripts": true,
@@ -2364,18 +2364,6 @@
     "description": "Welcome to Farborne Industries! Explore Erbius, a terrestrial planet covered predominantly in water, and Deimo, Erbius's moon, which is covered in lakes of Ethane\n\nAll sectors (except for Embark and Trench) will be completely remade from scratch relatively soon\n\nConsider joining my Telegram channel https://t.me/farborne\n\nUPDATES ARE BACK ON THE MENU, BOYS! Redux\nNote: restart your game for special settings to take effect\n\n\nAttributions; Special thanks to all of the following:\n♡  Annie, for supporting me and bringing joy to my life\n☆  Endofreeze, for your immense help with the project, including brainstorming and sprites\n☆  CasualWhale, for playtesting and feedback\n☆  sh1penfire, for creating the best sector in the mod: Trench, and for the 'planetarium' script\n✧  nullevoy, for helping sprite the Withdraw turret\n✧  abreaker, for helping with the Dread team glyph script\n✧  2017Knight2017, for Strontium and Edison concepts\n✧  Anuke, for creating Mindustry\n✧  Special thanks to the Mindustry Discord and everyone else who helped me create my first public game mod\n"
   },
   {
-    "repo": "bttodi/virtuality",
-    "internalName": "virtuality",
-    "name": "Virtuality",
-    "author": "bttodi",
-    "lastUpdated": "2025-11-07T05:45:28Z",
-    "stars": 9,
-    "minGameVersion": "152.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod centered around fighting bosses, with a focus on pattern-based attacks. Entirely detached from Mindustry's traditional gameplay loop - The Virtuality Archives restrains the player in a measly vessel and pits them against encoded entities. Does not utilize scripts or Java, seeking to explore the technical scope of (H)JSON and MLOG. Best experienced with a mouse and keyboard.\n\nCurrently features five of seven planned bosses in the campaign - Candor, Ardent & Argent, Pandemonium, Nyx, and Alluvion."
-  },
-  {
     "repo": "spacetwoo/nolea-siege",
     "internalName": "nul",
     "name": "Nolea Siege",
@@ -3401,7 +3389,7 @@
     "internalName": "astralis",
     "name": "Astralis",
     "author": "NV-NX, Haznobrain (FULL CREDITS IN DESC.)",
-    "lastUpdated": "2026-02-12T20:46:01Z",
+    "lastUpdated": "2026-02-13T10:09:44Z",
     "stars": 6,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -3515,6 +3503,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Demonstrates the built-in effects of the game.\n\n[olive]How to use?[]\nEffect blocks use copper to operate. Once they get copper, they will generate the effect.\nIf you want to use the effect just write the block's name in your code, as their name is the same as the effect's in-game name.\n\nThe sprites are placeholders, because they are not important in this mod.\n\n[acid]Includes a map displaying all the effects sorted by size and shape!!![]\n\nI hope this mod helps!"
+  },
+  {
+    "repo": "vadit2020/betamindytranslated",
+    "internalName": "betamindy",
+    "name": "BetaMindy",
+    "author": "sk7725",
+    "lastUpdated": "2023-06-08T18:34:40Z",
+    "stars": 5,
+    "minGameVersion": "144",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "BetaMindy на русском"
   },
   {
     "repo": "routerxdd/sc-music-pack",
@@ -4091,18 +4091,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Provides a variety of advanced production buildings to supply materials for the most greedy of players. Доступен перевод на русский язык."
-  },
-  {
-    "repo": "vadit2020/betamindytranslated",
-    "internalName": "betamindy",
-    "name": "BetaMindy",
-    "author": "sk7725",
-    "lastUpdated": "2023-06-08T18:34:40Z",
-    "stars": 4,
-    "minGameVersion": "144",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "BetaMindy на русском"
   },
   {
     "repo": "stacktrace-error/gas-colorblindness-pack",
@@ -5641,18 +5629,6 @@
     "description": "MORE COPPER, MORE!!!"
   },
   {
-    "repo": "aazamitsu/chibi-display",
-    "internalName": "chibi-display",
-    "name": "chibi display",
-    "author": "あざみ",
-    "lastUpdated": "2025-12-20T09:29:37Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "​操作中にSDキャラを表示する機能を追加、Added a function to display chibi during operation (and router)"
-  },
-  {
     "repo": "photon-gravity/polarform",
     "internalName": "polar-form",
     "name": "Polar Form",
@@ -5820,6 +5796,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "让逻辑再次伟大！\nMake Logic Great Again!"
+  },
+  {
+    "repo": "aazamitsu/chibi-display",
+    "internalName": "anime-units-display",
+    "name": "anime units display",
+    "author": "あざみ",
+    "lastUpdated": "2026-02-13T10:19:43Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "​操作中にSDキャラを表示する機能を追加、Added a function to display chibi during operation (and router)"
   },
   {
     "repo": "kirillrum/mega-builds",
