@@ -120,6 +120,18 @@
     "description": "Install for fresh and revised mindustry experience"
   },
   {
+    "repo": "stabu-dev/omaloon",
+    "internalName": "omaloon",
+    "name": "Omaloon",
+    "author": "stabu, uujuju",
+    "lastUpdated": "2026-02-13T20:47:15Z",
+    "stars": 126,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "An ambitious modification aimed at expanding the game's standard campaign by adding a new star system."
+  },
+  {
     "repo": "3snake3/sapphirium",
     "internalName": "sapphirium",
     "name": "Sapphirium",
@@ -130,18 +142,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Ah the Sapphirium, sounds good right? \nLet us introduce the list of content it includes: A hell amount of fraction turrets, brand new fraction units and in the end new interesting materials and mechanics. \n\nContentmaker & Helpers List: \nKostolom - Balancer, Mapper, Json coder, Effect designer, Multi-tool functionally. Discord profile kostolom#9777 \nLaim - Spriter, map maker. Discord profile LaIm-Ik.json#5237\nLiplum - Multicrafter's library author. Discord profile Liplum#2623 \nFr4ncuzS4n - JS helper. Discord profile ADG021222#7589 \nFox1va - A small helper. Discord profile Fox1va_#3532 \nVervalamis - Spriter. Discord profile Saigo no-nozomi#1206 \n\nThanks everyone for support."
-  },
-  {
-    "repo": "stabu-dev/omaloon",
-    "internalName": "omaloon",
-    "name": "Omaloon",
-    "author": "stabu, uujuju",
-    "lastUpdated": "2026-02-13T20:47:15Z",
-    "stars": 125,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "An ambitious modification aimed at expanding the game's standard campaign by adding a new star system."
   },
   {
     "repo": "eschatologue/unlimited-armament-works",
@@ -9438,7 +9438,7 @@
     "internalName": "dt",
     "name": "Doodle Tank",
     "author": "[accent]Dirge",
-    "lastUpdated": "2026-02-14T12:03:03Z",
+    "lastUpdated": "2026-02-14T14:48:41Z",
     "stars": 1,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -12122,18 +12122,6 @@
     "description": "This mod is fully compatible with 147 and up, just change the minGameVersion and you're good to go."
   },
   {
-    "repo": "oleksiy1409liut/oleksiysstuff",
-    "internalName": "oleksiyresprites",
-    "name": "oleksiy's stuff",
-    "author": "oleskiy",
-    "lastUpdated": "2026-02-13T22:17:10Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS\nneeds hjson++ for more functionality"
-  },
-  {
     "repo": "lara-evangelista/earthquake-and-asteroid-mod",
     "internalName": "earthquake-asteroid-mod",
     "name": "Earthquake and Asteroid Mod",
@@ -12156,5 +12144,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "all json-able mature balancing tweaks from the channel will (most likely) be here.\n\nCurrent changes list:\n\n- halved overdrive nerf +(25-62.5-75)%.\n- AB bcost nerf.\n\nAlso contains maps with different balancing datapatches."
+  },
+  {
+    "repo": "oleksiy1409liut/oleksiysstuff",
+    "internalName": "oleksiyresprites",
+    "name": "oleksiy's stuff",
+    "author": "oleskiy",
+    "lastUpdated": "2026-02-14T15:54:46Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS\nneeds hjson++ for more functionality"
   }
 ]
