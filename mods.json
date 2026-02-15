@@ -636,6 +636,18 @@
     "description": "A mod made by CD, meowkitty and 7rodo that features:\n- A new planet.\n- LOTS of new Serpulo content such as units, turrets, sectors, etc.\n- Many changes to existing Serpulo content.\n- Some new erekir content.\n- Cross-mod content with a couple few mods.\n- FULL Multiplayer and Android compatibility.\n- Extra minor additions.\n\nDiscord: https://discord.gg/9YHA3q8HHq"
   },
   {
+    "repo": "i-hope1/mod-tools",
+    "internalName": "mod-tools",
+    "name": "mod-tools",
+    "author": "I hope...",
+    "lastUpdated": "2026-02-15T08:58:19Z",
+    "stars": 34,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod provides various tools for modding.\n\n-----------------\nVersion 1.5.7\n## Highlight\n1. 完善HotSwap（Preview）\n- ClassDiff (field +/-, method +/-, method body change)\n2. 适配Mindustry v155的lwjgl\n3. 其他的一些优化\n4. 升级ScreenSampler（加了opengl2的判断）来修复bug\n\n-----------------\nWIKI: https://i-hope1.github.io/mod-tools"
+  },
+  {
     "repo": "dong-wo-long/betterdustrymod",
     "internalName": "bsm",
     "name": "Betterustry Mod",
@@ -646,18 +658,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "I'm too lazy to work on this mod 24/7, so don't expect frequent updates. The reason is simple: no spriters, no testers, no moral support... in short, we endure and we carry on\n\n= = = = = О моде / About mod = = = = =\n\nRU: Очень опасный мод, который влияет на баланс и механику игры, добавляет новый контент в виде статус эффектов и оборонительных сооружений (башен, мин и т.д.).\n\nРекомендуется перед установкой сделать сохранение (чтобы откатиться назад), если в случае вам не понравится то, что может сделать данный мод. И лучше в самом деле не рискуйте лишний раз и поверьте на слово: МОД. МЕНЯЕТ. МНОГОЕ.\n\nВажно: Описание некоторых юнитов не корректно, либо и вовсе неправильное.\n\n\n\nENG: A highly dangerous mod that affects game balance and mechanics, adding new content in the form of status effects and defensive structures (towers, mines, etc.).\n\n\nIt is highly recommended to create a backup save before installation (so you can revert), in case you don't like what this mod might do. And really, it's better not to take unnecessary risks and just take our word for it: THIS MOD. CHANGES. MANY THINGS.\n\nImportant: The descriptions for some units are incorrect or entirely wrong.\n\nОсобая благодарность для людей / A Special Thank You to people:\n- inflarespirit (eve_light)\n- ARmOrDer\n\nСтатисты / Playtesters: kakoy-to Nekit, a takze nytiki i haters\n\n(Nekit, don't be offended, it's a joke. You are also worthy of special thanks on the same level as ARmOrDer)"
-  },
-  {
-    "repo": "i-hope1/mod-tools",
-    "internalName": "mod-tools",
-    "name": "mod-tools",
-    "author": "I hope...",
-    "lastUpdated": "2026-02-15T08:58:19Z",
-    "stars": 33,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod provides various tools for modding.\n\n-----------------\nVersion 1.5.7\n## Highlight\n1. 完善HotSwap（Preview）\n- ClassDiff (field +/-, method +/-, method body change)\n2. 适配Mindustry v155的lwjgl\n3. 其他的一些优化\n4. 升级ScreenSampler（加了opengl2的判断）来修复bug\n\n-----------------\nWIKI: https://i-hope1.github.io/mod-tools"
   },
   {
     "repo": "haznobrain/erekir-liquefied",
@@ -734,11 +734,11 @@
   {
     "repo": "icexuegao/deepspace",
     "internalName": "ice",
-    "name": "Deep Space",
+    "name": "DeepSpace",
     "author": "Alon",
-    "lastUpdated": "2026-02-07T05:58:28Z",
+    "lastUpdated": "2026-02-15T10:14:07Z",
     "stars": 29,
-    "minGameVersion": "154.3",
+    "minGameVersion": "155",
     "hasScripts": false,
     "hasJava": true,
     "description": "半成品模组,目的是为mdt添加更多的内容"
@@ -868,7 +868,7 @@
     "internalName": "azimut",
     "name": "Azimut",
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-02-15T08:45:28Z",
+    "lastUpdated": "2026-02-15T10:46:40Z",
     "stars": 26,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -4789,6 +4789,18 @@
     "description": "This mod add new planet and new solar sistem you drone which cleans planets \n\nDeveloper: Votak (abzobua)\nhelper and map creator: TEKTA_RU\nlanguage\nEnglish\nРусский"
   },
   {
+    "repo": "haznobrain/frozen-farlands-3.0-old",
+    "internalName": "frozen farlands",
+    "name": "Frozen Farlands 3.0",
+    "author": "Haznobrain, [#3bdbff]Hyperium[white] & [#11d41e]Zielony Trójkąt[white]",
+    "lastUpdated": "2026-02-08T19:02:48Z",
+    "stars": 4,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A year ago. A year ago i was working on this, on ff 3.0. A year ago, CY4 chose to kick me out of the dev team.\n\nI was not informed\n\nFor three weeks.\n\nI was given no real reason at the time.\n\nToday i realised i still had access to the old repo and that i had free will.\n\nThus here is the prototype for Frozen Farlands 3.0 that i worked on.\n\nRevenge is a dish best served frozen."
+  },
+  {
     "repo": "xavierisdeadasheck15/interstellar-spaceline",
     "internalName": "interstellar-spaceline",
     "name": "Interstellar Spaceline",
@@ -5748,18 +5760,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Have you ever wondered what it would be like if Mindustry sounded like an open-world RPG? Well, now you can, with these collection of music and SFX replacements from FFXIV, Library of Ruina, Arknights, Terraria, and more."
-  },
-  {
-    "repo": "haznobrain/frozen-farlands-3.0-old",
-    "internalName": "frozen farlands",
-    "name": "Frozen Farlands 3.0",
-    "author": "Haznobrain, [#3bdbff]Hyperium[white] & [#11d41e]Zielony Trójkąt[white]",
-    "lastUpdated": "2026-02-08T19:02:48Z",
-    "stars": 3,
-    "minGameVersion": "154",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A year ago. A year ago i was working on this, on ff 3.0. A year ago, CY4 chose to kick me out of the dev team.\n\nI was not informed\n\nFor three weeks.\n\nI was given no real reason at the time.\n\nToday i realised i still had access to the old repo and that i had free will.\n\nThus here is the prototype for Frozen Farlands 3.0 that i worked on.\n\nRevenge is a dish best served frozen."
   },
   {
     "repo": "darkdustry-coders/mindurkacompat",
@@ -9446,6 +9446,18 @@
     "description": "A story-rich mod\nIncludes 13 main campaign chapters and one side campaign chapter\nOverhauls the original planet Cypro\nAdds new factionsnA large number of new buildings and units\nWe welcome everyone to try it out\n（The storyline is currently only available in Chinese.）\n（The Mod has not yet been translated into English or other languages.）\n\n一个剧情向模组\n内含13章主线战役和1张支线战役\n在原版星球赛普罗的基础上进行了覆盖\n新增额外的势力\n大量的全新建筑以及单位\n欢迎各位游玩\n（剧情目前只有中文）\n（模组尚未制作英文及其他语言的翻译）\n\n\n\n\n\n\nQQ主群：789966619\n\n\n\n关于开发者单位:\n有开发者单位≠参与MOD开发,但可能曾参与MOD开发,或对MOD的贡献较大\n\n\n\n致谢名单:\n星月\nnan(代码指导)\nRA2-RA2(代码参考)\nKochiyaUeneh油苗子[(防混模代码)]\nwwwww(贴图,灵感和地图投稿)\n普通的MDT玩家\n西红柿汤(世界处理器指导)\nR\n哈吉爱\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n“由无数失败所构筑”"
   },
   {
+    "repo": "urbokie/tankdustry",
+    "internalName": "tankdustry",
+    "name": "TankDustry",
+    "author": "Urbokie",
+    "lastUpdated": "2026-02-15T10:33:58Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Real tank in Mindustry???"
+  },
+  {
     "repo": "exxleo/exoterusmod",
     "internalName": "exoterus-mod",
     "name": "Exoterus",
@@ -12144,17 +12156,5 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "all json-able mature balancing tweaks from the channel will (most likely) be here.\n\nCurrent changes list:\n\n- halved overdrive nerf +(25-62.5-75)%.\n- AB bcost nerf.\n\nAlso contains maps with different balancing datapatches."
-  },
-  {
-    "repo": "urbokie/tankdustry",
-    "internalName": "tankdustry",
-    "name": "TankDustry",
-    "author": "Urbokie",
-    "lastUpdated": "2026-02-15T10:12:33Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Real tank in Mindustry???"
   }
 ]
