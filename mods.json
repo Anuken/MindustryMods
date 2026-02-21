@@ -640,12 +640,12 @@
     "internalName": "mod-tools",
     "name": "mod-tools",
     "author": "I hope...",
-    "lastUpdated": "2026-02-21T04:59:24Z",
+    "lastUpdated": "2026-02-21T11:48:52Z",
     "stars": 34,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
-    "description": "A mod provides various tools for modding.\n\n-----------------\nVersion 1.5.7\n## Highlight\n1. 完善HotSwap（Preview）\n- ClassDiff (field +/-, method +/-, method body change)\n2. 适配Mindustry v155的lwjgl\n3. 其他的一些优化\n4. 升级ScreenSampler（加了opengl2的判断）来修复bug\n\n-----------------\nWIKI: https://i-hope1.github.io/mod-tools"
+    "description": "A mod provides various tools for modding.\n\n-----------------\nVersion 1.5.8\n## Highlight\n1. 继续完善HotSwap（Preview）\n2. 修复大量的bug\n- 修复配置文件的格式化问题\n- 修复ValueLabel的对齐不对，分隔符不对等大量问题\n3. 其他的一些优化\n\n-----------------\nWIKI: https://i-hope1.github.io/mod-tools"
   },
   {
     "repo": "dong-wo-long/betterdustrymod",
@@ -700,7 +700,7 @@
     "internalName": "ice",
     "name": "DeepSpace",
     "author": "Alon",
-    "lastUpdated": "2026-02-21T09:39:46Z",
+    "lastUpdated": "2026-02-21T10:29:23Z",
     "stars": 31,
     "minGameVersion": "155",
     "hasScripts": false,
@@ -760,7 +760,7 @@
     "internalName": "carpe-diem",
     "name": "Carpe Diem",
     "author": "Nullotte",
-    "lastUpdated": "2026-02-21T09:56:12Z",
+    "lastUpdated": "2026-02-21T11:10:49Z",
     "stars": 29,
     "minGameVersion": "155.3",
     "hasScripts": false,
@@ -868,7 +868,7 @@
     "internalName": "azimut",
     "name": "Azimut",
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-02-21T06:18:05Z",
+    "lastUpdated": "2026-02-21T11:45:36Z",
     "stars": 26,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -5581,6 +5581,18 @@
     "description": "9527，皴皲，咕咕点心,LYBF,Ovulam5480,杀虐无意识"
   },
   {
+    "repo": "chuvaak/futurehorizons",
+    "internalName": "futurehorizons",
+    "name": "Future Horizons",
+    "author": "Chuvaak",
+    "lastUpdated": "2025-09-15T05:06:18Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Somewhat advanced endgame technologies. It is recommended to disable vertical synchronization."
+  },
+  {
     "repo": "mikka6489/engineer-gaming",
     "internalName": "engineer gaming",
     "name": "engineer-gaming",
@@ -6962,18 +6974,6 @@
     "description": "MORE COPPER, MORE!!!"
   },
   {
-    "repo": "chuvaak/futurehorizons",
-    "internalName": "futurehorizons",
-    "name": "Future Horizons",
-    "author": "Chuvaak",
-    "lastUpdated": "2025-09-15T05:06:18Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Somewhat advanced endgame technologies. It is recommended to disable vertical synchronization."
-  },
-  {
     "repo": "jirocab/yetanotherserpulorebalance",
     "internalName": "yasr",
     "name": "Yet another Serpulo Rebalance (yasr)",
@@ -7374,7 +7374,7 @@
     "internalName": "sub0kelvin",
     "name": "sub0Kelvin",
     "author": "Hell Inc & Haznobrain",
-    "lastUpdated": "2026-02-20T23:37:08Z",
+    "lastUpdated": "2026-02-21T10:16:51Z",
     "stars": 2,
     "minGameVersion": "155",
     "hasScripts": false,
@@ -12174,7 +12174,7 @@
     "internalName": "endfield-industry-lib",
     "name": "Endfield Industry Lib",
     "author": "Hollow",
-    "lastUpdated": "2026-02-21T06:26:58Z",
+    "lastUpdated": "2026-02-21T11:00:48Z",
     "stars": 0,
     "minGameVersion": "154",
     "hasScripts": false,
