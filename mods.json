@@ -64,7 +64,7 @@
     "internalName": "allure",
     "name": "Allure",
     "author": "Elixias Adrys",
-    "lastUpdated": "2026-02-14T02:37:42Z",
+    "lastUpdated": "2026-02-22T16:01:04Z",
     "stars": 219,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -196,7 +196,7 @@
     "internalName": "mi2-utilities-java",
     "name": "MI2-Utilities Java",
     "author": "BlackDeluxeCat",
-    "lastUpdated": "2026-02-19T15:43:16Z",
+    "lastUpdated": "2026-02-22T15:22:43Z",
     "stars": 99,
     "minGameVersion": "155.4",
     "hasScripts": false,
@@ -353,7 +353,7 @@
     "name": "Too Many Items",
     "author": "EBwilson",
     "lastUpdated": "2026-02-11T19:00:23Z",
-    "stars": 62,
+    "stars": 61,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
@@ -640,7 +640,7 @@
     "internalName": "mod-tools",
     "name": "mod-tools",
     "author": "I hope...",
-    "lastUpdated": "2026-02-22T00:29:26Z",
+    "lastUpdated": "2026-02-22T15:37:21Z",
     "stars": 34,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -700,7 +700,7 @@
     "internalName": "ice",
     "name": "DeepSpace",
     "author": "Alon",
-    "lastUpdated": "2026-02-22T11:43:46Z",
+    "lastUpdated": "2026-02-22T15:42:13Z",
     "stars": 31,
     "minGameVersion": "155",
     "hasScripts": false,
@@ -724,7 +724,7 @@
     "internalName": "carpe-diem",
     "name": "Carpe Diem",
     "author": "Nullotte",
-    "lastUpdated": "2026-02-22T13:13:21Z",
+    "lastUpdated": "2026-02-22T15:28:52Z",
     "stars": 30,
     "minGameVersion": "155.3",
     "hasScripts": false,
@@ -1500,18 +1500,6 @@
     "description": "Adds miniature versions of various buildings."
   },
   {
-    "repo": "seuearth/factroundustry",
-    "internalName": "factroundustry",
-    "name": "Factroundustry",
-    "author": "SpaceEarthEX",
-    "lastUpdated": "2023-06-24T09:55:39Z",
-    "stars": 14,
-    "minGameVersion": "145.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "(Erekir Update!)\n\nA Soundpack that changes all sounds and musics from Factorio.\n\nYou can use it with Xeloboyo/Factoriodustry for better experience!"
-  },
-  {
     "repo": "slotterleet/example-planet-json",
     "internalName": "ep-json",
     "name": "JSON Example Solar System!",
@@ -1606,6 +1594,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Collection of joke blocks"
+  },
+  {
+    "repo": "seuearth/factroundustry",
+    "internalName": "factroundustry",
+    "name": "Factroundustry",
+    "author": "SpaceEarthEX",
+    "lastUpdated": "2023-06-24T09:55:39Z",
+    "stars": 13,
+    "minGameVersion": "145.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "(Erekir Update!)\n\nA Soundpack that changes all sounds and musics from Factorio.\n\nYou can use it with Xeloboyo/Factoriodustry for better experience!"
   },
   {
     "repo": "arksourcer/project-ark-public",
@@ -2196,18 +2196,6 @@
     "description": "The officially acknowledged port of New Console for v147-above.\n\nAdds a console UI superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more:\nA good log panel, execution history - all of that is included in this mod.\n\nIn addition to the console, this mod offers:\n- An ability to save as many scripts as you want and to either execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
   },
   {
-    "repo": "dustdustry/patcheditor",
-    "internalName": "patch-editor",
-    "name": "PatchEditor",
-    "author": "minRi2",
-    "lastUpdated": "2026-02-20T04:56:42Z",
-    "stars": 10,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
-  },
-  {
     "repo": "agzam4/mindustry-mod-v8",
     "internalName": "agzam4mod",
     "name": "Agzam's Mod",
@@ -2224,12 +2212,24 @@
     "internalName": "hao1337-mod",
     "name": "[ Better Vanilla ]",
     "author": "Hao1337",
-    "lastUpdated": "2026-02-22T12:45:10Z",
+    "lastUpdated": "2026-02-22T14:24:55Z",
     "stars": 10,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
     "description": "DUE TO VERSION MISMATCH, THIS VERSION IS USING FOR MOBILE ONLY\n- For windows/steam/beta version please look up on github:\nhttps://github.com/Hao-1337/mindustry-better-vanilla/releases/\n Thanks yall to support us!\n\n\nAdd something helpful for vanilla. Also have some better UI.\n\n- Coreitem display for mobile.\n- Unit conter display.\n- Time control.\n- Some change for vanilla (see in setting, default is off):\n+ Bigger vault, container and vault in Erekir.\n+ Bigger range for override dome, 200% speed up.\n+ Force projector have more shield health.\n- Auto update.\n- New contents as well:\n+ Thorium / surge conveyor (serpulo)\n+ Some storage blocks\n+ \"T6\" units\n- Aslo make some hidden contents available\n\nWarning: The mod under development, any contributions would be gratefully appreciated. See github for more details."
+  },
+  {
+    "repo": "dustdustry/patcheditor",
+    "internalName": "patch-editor",
+    "name": "PatchEditor",
+    "author": "minRi2",
+    "lastUpdated": "2026-02-22T14:34:36Z",
+    "stars": 10,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
   },
   {
     "repo": "deltanedas/speed",
@@ -9458,18 +9458,6 @@
     "description": "该mod还处于测试阶段,非常垃圾"
   },
   {
-    "repo": "purters/ttmod",
-    "internalName": "超限工艺",
-    "name": "[TransfiniteTechnology:Strife]超限工艺:纷争",
-    "author": "主作者:\n没有炮台的炮台s(PurTers)\n\n地图制作者:\n蓝细菌光合自养\n\n宣传人员:\nFire\n\n贴图师:\nMr.世纪灯泡 & 睌暙\n\n地图世处:\nalpha & 没有炮台的炮台s(PurTers)\n\n代码制作:\n没有炮台的炮台s(PurTers)\n\nMOD设定:\n纯萌新 & 没有炮台的炮台s(PurTers)",
-    "lastUpdated": "2026-02-21T07:47:12Z",
-    "stars": 1,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A story-rich mod\nIncludes 13 main campaign chapters and one side campaign chapter\nOverhauls the original planet Cypro\nAdds new factionsnA large number of new buildings and units\nWe welcome everyone to try it out\n（The storyline is currently only available in Chinese.）\n（The Mod has not yet been translated into English or other languages.）\n\n一个剧情向模组\n内含12章主线战役和1张支线战役\n在原版星球赛普罗的基础上进行了覆盖\n新增额外的势力\n大量的全新建筑以及单位\n欢迎各位游玩\n（剧情目前只有中文）\n（模组尚未制作英文及其他语言的翻译）\n\n\n\n\n\n\nQQ主群：789966619\n\n\n\n关于开发者单位:\n有开发者单位≠参与MOD开发,但可能曾参与MOD开发,或对MOD的贡献较大\n\n\n\n致谢名单:\n星月\nnan(代码指导)\nRA2-RA2(代码参考)\nKochiyaUeneh油苗子[(防混模代码)]\nwwwww(贴图,灵感和地图投稿)\n普通的MDT玩家\n西红柿汤(世界处理器指导)\nR\n哈吉爱\nSchizoPhrenia\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n“由无数失败所构筑”"
-  },
-  {
     "repo": "oleksiy1409liut/oleksiysstuff",
     "internalName": "oleksiyresprites",
     "name": "oleksiy's stuff",
@@ -9518,11 +9506,23 @@
     "description": "Arcane industry expansion: harvest ambient magic, forge magical copper, and upgrade defenses."
   },
   {
+    "repo": "purters/ttmod",
+    "internalName": "超限工艺",
+    "name": "[TransfiniteTechnology:Strife]超限工艺:纷争",
+    "author": "主作者:\n没有炮台的炮台s(PurTers)\n\n地图制作者:\n蓝细菌光合自养\n\n宣传人员:\nFire & 没有炮台的炮台s(PurTers)\n\n贴图师:\nMr.世纪灯泡 & 睌暙 & 没有炮台的炮台s(PurTers) \n\n地图世处:\nalpha & 没有炮台的炮台s(PurTers)\n\n代码制作:\n没有炮台的炮台s(PurTers) & 鼠标\n\nMOD设定:\n纯萌新 & 没有炮台的炮台s(PurTers)",
+    "lastUpdated": "2026-02-22T14:52:34Z",
+    "stars": 1,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A story-rich mod\nIncludes 14 main campaign chapters and one side campaign chapter\nOverhauls the original planet Cypro\nAdds new factionsnA large number of new buildings and units\nWe welcome everyone to try it out\n（The storyline is currently only available in Chinese.）\n（The Mod has not yet been translated into English or other languages.）\n\n本MOD严禁混模，混模会触发战役的反混模机制造成战役无法正常游玩\n一个剧情向模组\n内含14章主线战役和1张支线战役\n在原版星球赛普罗的基础上进行了覆盖\n新增额外的势力\n大量的全新建筑以及单位\n欢迎各位游玩\n（剧情目前只有中文）\n（模组尚未制作英文及其他语言的翻译）\n\n\n\n\n\n\nQQ主群：789966619\n\n\n\n关于开发者单位:\n有开发者单位≠参与MOD开发,但可能曾参与MOD开发,或对MOD的贡献较大\n\n\n\n致谢名单:\n星月\nnan(代码指导)\nRA2-RA2(代码参考)\nKochiyaUeneh油苗子[(防混模代码)]\nwwwww(贴图,灵感和地图投稿)\n普通的MDT玩家\n西红柿汤(世界处理器指导)\nR\n哈吉爱\nSchizoPhrenia\n飘星灵\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n“由无数失败所构筑”"
+  },
+  {
     "repo": "fat-bird-owner/gier-revitalized",
     "internalName": "gr",
     "name": "Gier: Revitalized",
     "author": "Fat Bird's Owner",
-    "lastUpdated": "2026-02-22T12:39:18Z",
+    "lastUpdated": "2026-02-22T16:12:08Z",
     "stars": 1,
     "minGameVersion": "155",
     "hasScripts": true,
@@ -12199,11 +12199,23 @@
     "internalName": "endfield-industry-lib",
     "name": "Endfield Industry Lib",
     "author": "Hollow",
-    "lastUpdated": "2026-02-22T12:59:19Z",
+    "lastUpdated": "2026-02-22T14:27:29Z",
     "stars": 0,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
     "description": "欢迎来到终末地工业。\n开发中……\n别急着期待\n"
+  },
+  {
+    "repo": "pizzb/show-hidden-content",
+    "internalName": "show-hidden-content",
+    "name": "Show Hidden Content",
+    "author": "pizzb",
+    "lastUpdated": "2026-02-22T14:40:25Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Unlock and show hidden and unused game content. Especially items, blocks, fluids, effects, units, and planets.\n\nThe campaign save will not be affected in any way."
   }
 ]
