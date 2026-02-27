@@ -1032,6 +1032,18 @@
     "description": "ATTENTION:\n\nFrom now on, the mod goes into experimental mode - this means that the balance may not be balanced, such as a Toxopid with a Corvus, whose attack radius go far beyond 60 cells!!!!!\nNevertheless, I advise you to calm down: when the mod reaches its peak (despite my crazy plans for it, the result of which you are already watching), I will make several versions to meet the needs of as many people as possible. In the meantime, it remains to wait. Sorry for the inconvenience.\n\nImportant:\n\nThis mod does not bring anything radically new to the game, but only expands the combat functionality of existing combat units.\n\nPlease pay attention:\n\nThe mod significantly redesigns units, changes the balance and generally complicates the game. Don't forget to make a backup in case you don't like the changes that the mod itself makes.\n\nP.S. The mod is made for ALE maps."
   },
   {
+    "repo": "deltanedas/ldb",
+    "internalName": "ldb",
+    "name": "Logic Debugger",
+    "author": "DeltaNedas",
+    "lastUpdated": "2024-07-19T18:01:49Z",
+    "stars": 21,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds clientside logic debugging tools.\nRequires DeltaNedas/override-lib."
+  },
+  {
     "repo": "jirocab/nyfalis",
     "internalName": "olupis",
     "name": "Nyfalis (Olupis)",
@@ -1054,18 +1066,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds various testers for easier mod development.\nThanks to: Gdeft"
-  },
-  {
-    "repo": "deltanedas/ldb",
-    "internalName": "ldb",
-    "name": "Logic Debugger",
-    "author": "DeltaNedas",
-    "lastUpdated": "2024-07-19T18:01:49Z",
-    "stars": 20,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds clientside logic debugging tools.\nRequires DeltaNedas/override-lib."
   },
   {
     "repo": "lehanchic25/testplanetmindustry",
@@ -3053,7 +3053,7 @@
     "internalName": "astralis",
     "name": "Astralis",
     "author": "NV-NX, Haznobrain (FULL CREDITS IN DESC.)",
-    "lastUpdated": "2026-02-26T19:26:00Z",
+    "lastUpdated": "2026-02-27T18:20:25Z",
     "stars": 7,
     "minGameVersion": "155.3",
     "hasScripts": false,
@@ -5173,6 +5173,18 @@
     "description": "This Mindustry mod will add alternate blocks which will be better then their analogues, but also will be cost more resources to build. Most of additional blocks will be batteries, containers, etc. But it will not be any turrets or something like this"
   },
   {
+    "repo": "derekshaheen/mindustry-resource-rate-monitor",
+    "internalName": "resource-rate-monitor",
+    "name": "Resource Rate Monitor",
+    "author": "Skrip",
+    "lastUpdated": "2024-05-25T07:16:16Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Simply allows you to monitor your resource rate changes in real time."
+  },
+  {
     "repo": "evo04taser/mindustry-turrets-extension",
     "internalName": "new-turrets",
     "name": "Mindustry Turrets Extension",
@@ -6362,18 +6374,6 @@
     "description": "Contains minor resprites for some Serpulo content. Wow."
   },
   {
-    "repo": "derekshaheen/mindustry-resource-rate-monitor",
-    "internalName": "resource-rate-monitor",
-    "name": "Resource Rate Monitor",
-    "author": "Skrip",
-    "lastUpdated": "2024-05-25T07:16:16Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Simply allows you to monitor your resource rate changes in real time."
-  },
-  {
     "repo": "obitel30/atnmod",
     "internalName": "atn",
     "name": "A-T-N Mod",
@@ -7392,6 +7392,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A companion mod for Kotlin based mods and plugins."
+  },
+  {
+    "repo": "fat-bird-owner/gier-revitalized",
+    "internalName": "gr",
+    "name": "Gier: Revitalized",
+    "author": "Fat Bird's Owner - Main Developer",
+    "lastUpdated": "2026-02-27T16:07:40Z",
+    "stars": 2,
+    "minGameVersion": "155",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\nMakes gier a playable planet.\n\nGier also has completely random terrain generation.\n( if your not happy with your terrian gen then just abandon the sector and relaunch to it.)\n\n[accent]IOS Compatible\n",
+    "iosCompatible": true
   },
   {
     "repo": "teaeempire/gghv7",
@@ -9518,18 +9531,6 @@
     "description": "A basic SLF4J implementation for Mindustry."
   },
   {
-    "repo": "hollow-yk/endfield_industry_lib",
-    "internalName": "endfield-industry-lib",
-    "name": "Endfield Industry Lib终末地工业Lib",
-    "author": "Hollow",
-    "lastUpdated": "2026-02-27T15:10:51Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "欢迎来到终末地工业。\n[blue]《终末地工业Lib》是一款将《明日方舟：终末地》的部分物品与设备加入Mindustry的模组。\n[green]开发中……\n[red]注意！该版本处于开发初期，存在大量Bug与未完成的部分。\n[green]欢迎前往GitHub Release下载本模组\n[red]别急着期待\n"
-  },
-  {
     "repo": "purters/ttmod",
     "internalName": "超限工艺",
     "name": "[TransfiniteTechnology:Strife]超限工艺:纷争",
@@ -9542,17 +9543,16 @@
     "description": "A story-rich mod\nIncludes 14 main campaign chapters and one side campaign chapter\nOverhauls the original planet Cypro\nAdds new factionsnA large number of new buildings and units\nWe welcome everyone to try it out\n（The storyline is currently only available in Chinese.）\n（The Mod has not yet been translated into English or other languages.）\n\n本MOD严禁混模，混模会触发战役的反混模机制造成战役无法正常游玩\n一个剧情向模组\n内含14章主线战役和1张支线战役\n在原版星球赛普罗的基础上进行了覆盖\n新增额外的势力\n大量的全新建筑以及单位\n欢迎各位游玩\n（剧情目前只有中文）\n（模组尚未制作英文及其他语言的翻译）\n\n\n\n\n\n\nQQ主群：789966619\n\n\n\n关于开发者单位:\n有开发者单位≠参与MOD开发,但可能曾参与MOD开发,或对MOD的贡献较大\n\n\n\n致谢名单:\n星月\nnan(代码指导)\nRA2-RA2(代码参考)\nKochiyaUeneh油苗子[(防混模代码)]\nwwwww(贴图,灵感和地图投稿)\n普通的MDT玩家\n西红柿汤(世界处理器指导)\nR\n哈吉爱\nSchizoPhrenia\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n“由无数失败所构筑”"
   },
   {
-    "repo": "fat-bird-owner/gier-revitalized",
-    "internalName": "gr",
-    "name": "Gier: Revitalized",
-    "author": "Fat Bird's Owner - Main Developer",
-    "lastUpdated": "2026-02-27T16:07:40Z",
+    "repo": "hollow-yk/endfield_industry_lib",
+    "internalName": "endfield-industry-lib",
+    "name": "Endfield Industry Lib终末地工业Lib",
+    "author": "Hollow",
+    "lastUpdated": "2026-02-27T18:13:40Z",
     "stars": 1,
-    "minGameVersion": "155",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "\nMakes gier a playable planet.\n\nGier also has completely random terrain generation.\n( if your not happy with your terrian gen then just abandon the sector and relaunch to it.)\n\n[accent]IOS Compatible\n",
-    "iosCompatible": true
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "欢迎来到终末地工业。\n[blue]《终末地工业Lib》是一款将《明日方舟：终末地》的部分物品与设备加入Mindustry的模组。\n[green]开发中……\n[red]注意！该版本处于开发初期，存在大量Bug与未完成的部分。\n[green]欢迎前往GitHub Release下载本模组\n[red]别急着期待\n"
   },
   {
     "repo": "exxleo/exoterusmod",
