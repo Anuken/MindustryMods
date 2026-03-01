@@ -580,7 +580,7 @@
     "internalName": "sw",
     "name": "Steam Works",
     "author": "Liz Aurora",
-    "lastUpdated": "2026-03-01T03:33:21Z",
+    "lastUpdated": "2026-03-01T05:33:01Z",
     "stars": 38,
     "minGameVersion": "155.2",
     "hasScripts": false,
@@ -641,7 +641,7 @@
     "name": "mod-tools",
     "author": "I hope...",
     "lastUpdated": "2026-03-01T03:39:02Z",
-    "stars": 34,
+    "stars": 35,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
@@ -1344,6 +1344,18 @@
     "description": "Add flesh units with various actions and skills, novel turrets and various objects."
   },
   {
+    "repo": "430230562/vanilla-neoplasm-extend",
+    "internalName": "vne",
+    "name": "原版瘤液拓展",
+    "author": "pardon",
+    "lastUpdated": "2026-02-21T14:14:28Z",
+    "stars": 16,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "你是否觉得原版瘤液的用途,在矿渣池中焚毁,过于单一;如此富有生物活性的材料应该还有有别的用途:作为弹药,合成新材料,甚至是组建自己的生物军队...请尽情发挥你的想象.\n\n什么？你已经等不及了吗？那么就让我们开启这趟血淋淋的旅途吧"
+  },
+  {
     "repo": "mythril382/roombas",
     "internalName": "roombas",
     "name": "Roombas",
@@ -1474,18 +1486,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A library mod for rendering black holes."
-  },
-  {
-    "repo": "430230562/vanilla-neoplasm-extend",
-    "internalName": "vne",
-    "name": "原版瘤液拓展",
-    "author": "pardon",
-    "lastUpdated": "2026-02-21T14:14:28Z",
-    "stars": 15,
-    "minGameVersion": "154",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "你是否觉得原版瘤液的用途,在矿渣池中焚毁,过于单一;如此富有生物活性的材料应该还有有别的用途:作为弹药,合成新材料,甚至是组建自己的生物军队...请尽情发挥你的想象.\n\n什么？你已经等不及了吗？那么就让我们开启这趟血淋淋的旅途吧"
   },
   {
     "repo": "yal-game-things/mindustry-tiny-things",
@@ -9495,18 +9495,6 @@
     "description": "adds a new planet : Ich and a new star! do note that this is my first mod and \nIF YOU SEE THE GAME TELLING YOU ANUKE MADE THE MAPS, JUST KNOW THAT THIS IS FALSE AND I DON'T KNOW WHY IT'S DOING THAT. \n\nthanks to asthosus for teaching me how to make custom blocks and thanks to example-planet-json for teaching me how to make custom planets\n\nthis mod is unfinished"
   },
   {
-    "repo": "dirga36/doodle-tank-m",
-    "internalName": "dt",
-    "name": "Doodle Tank",
-    "author": "Dirge",
-    "lastUpdated": "2026-02-27T08:58:29Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Add doodle looking tank unit to Mindustry. \n\n[yellow]Dependencies:[]\n - Beta[]Mindy[] (Provides item shop for obtaining the resources[])"
-  },
-  {
     "repo": "theplastanium/more.facilities",
     "internalName": "更多设施",
     "name": "更多设施",
@@ -9553,6 +9541,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "欢迎来到终末地工业。\n[blue]《终末地工业Lib》是一款将《明日方舟：终末地》的部分物品与设备加入Mindustry的模组。\n[green]开发中……\n[red]注意！该版本处于开发初期，存在大量Bug与未完成的部分。\n[green]欢迎前往GitHub Release下载本模组\n[red]别急着期待\n"
+  },
+  {
+    "repo": "dirga36/doodle-tank-m",
+    "internalName": "dt",
+    "name": "Doodle Tank",
+    "author": "Dirge",
+    "lastUpdated": "2026-03-01T06:20:50Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Add doodle looking tank unit to Mindustry. \n\n[yellow]Dependencies:[]\n - Beta[]Mindy[] (Provides item shop for obtaining the resources[])"
   },
   {
     "repo": "exxleo/exoterusmod",
@@ -12241,5 +12241,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "DP storage (serpulo)\nall \"datapatcheable\" mature balance proposals/ideas from the channel will (most likely) be here in the form of datapatches.\n\n### Current Balance datapatches;\n- Jehosulas's Rebalance\n- Efsfse's dp testing ground\n\n\n(to add new balance proposals, simply do a PR with the .msav file on github)"
+  },
+  {
+    "repo": "azumasoweren/sowie-mod-test-area",
+    "internalName": "sorc-test",
+    "name": "sowie-mod-test-area",
+    "author": "AzumaSoweren",
+    "lastUpdated": "2026-03-01T06:08:34Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "No description provided."
   }
 ]
