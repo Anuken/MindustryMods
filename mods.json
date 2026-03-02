@@ -88,7 +88,7 @@
     "internalName": "mindustry-tool",
     "name": "Mindustry Tool",
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2026-03-02T07:51:46Z",
+    "lastUpdated": "2026-03-02T10:30:31Z",
     "stars": 192,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -672,18 +672,6 @@
     "description": "A mod that was originally meant to add liquid related stuff to erekir but i ended up having too many ideas.\n  helpers: GameStuffOfficial, @mr_shapka228, @smolkeys_\n  special thanks to u/WishboneOk8660 on reddit, who made amazing fanart of the mod and the og idea for the support boat line.\n\n  Mod kind of abandoned, will just move it up to newer versions anytime one comes out"
   },
   {
-    "repo": "icexuegao/deepspace",
-    "internalName": "ice",
-    "name": "DeepSpace",
-    "author": "Alon",
-    "lastUpdated": "2026-03-01T13:16:50Z",
-    "stars": 32,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "半成品模组,目的是为mdt添加更多的内容"
-  },
-  {
     "repo": "itskirby69/minedusty",
     "internalName": "",
     "name": "MineDusty",
@@ -694,6 +682,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#fadf87]A java mod by [white]ItsKirby69 [gray](thats me!)[#fadf87] which introduces a new [acid]planet[#fadf87], many expansive [acid]biomes[#fadf87], and a wide variety of [acid]plant life!"
+  },
+  {
+    "repo": "icexuegao/deepspace",
+    "internalName": "ice",
+    "name": "DeepSpace",
+    "author": "Alon",
+    "lastUpdated": "2026-03-02T08:43:20Z",
+    "stars": 32,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "半成品模组,目的是为mdt添加更多的内容"
   },
   {
     "repo": "way-zer/contentstweaker",
@@ -3941,7 +3941,7 @@
     "internalName": "wh",
     "name": "WarHammer",
     "author": "牢陌泽",
-    "lastUpdated": "2026-03-01T12:40:36Z",
+    "lastUpdated": "2026-03-02T09:51:36Z",
     "stars": 5,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -5886,7 +5886,7 @@
     "internalName": "gr",
     "name": "Gier: Revitalized",
     "author": "Fat Bird's Owner - Main Developer",
-    "lastUpdated": "2026-03-02T03:02:06Z",
+    "lastUpdated": "2026-03-02T09:53:26Z",
     "stars": 3,
     "minGameVersion": "155",
     "hasScripts": true,
@@ -12183,18 +12183,6 @@
     "description": "更多的游戏内容"
   },
   {
-    "repo": "meesst/mindustry-multiunitbindmod",
-    "internalName": "logic-extend-mod",
-    "name": "LogicExtendMod - 逻辑指令扩展",
-    "author": "meesst",
-    "lastUpdated": "2026-02-20T07:23:03Z",
-    "stars": 0,
-    "minGameVersion": "154.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod that adds more logic instructions.\n一个添加了更多逻辑指令的模组"
-  },
-  {
     "repo": "128oteml/ice-peak",
     "internalName": "ice-peak",
     "name": "Ice Peak",
@@ -12243,18 +12231,6 @@
     "description": "Semi-realistic iron-based mod. Modifies serpulo progression and vanilla balance."
   },
   {
-    "repo": "onenewidea-m/serpuloautodoor",
-    "internalName": "serpulo-auto-door",
-    "name": "Serpulo Auto Door",
-    "author": "OneNewIdea-M",
-    "lastUpdated": "2026-02-28T10:31:04Z",
-    "stars": 0,
-    "minGameVersion": "155.4",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds an auto doors for Serpulo.\n\nAvailable languages: English, Russian, Ukrainian.\n\nAuthor: SmokeMachine (RealSlave)"
-  },
-  {
     "repo": "efsfse2280/serp-dpstorage",
     "internalName": "serpdp",
     "name": "DP storage (serpulo)",
@@ -12279,18 +12255,6 @@
     "description": "A Mindustry Java mod template."
   },
   {
-    "repo": "october-maker/tri-mod",
-    "internalName": "triangle",
-    "name": "triangle-mod",
-    "author": "一瓶圣水",
-    "lastUpdated": "2026-03-02T01:03:51Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "三角模组2.x半成品"
-  },
-  {
     "repo": "azumasoweren/sowie-mod-test-area",
     "internalName": "sorc-test",
     "name": "sowie-mod-test-area",
@@ -12301,5 +12265,41 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "No description provided."
+  },
+  {
+    "repo": "october-maker/tri-mod",
+    "internalName": "triangle",
+    "name": "triangle-mod",
+    "author": "一瓶圣水",
+    "lastUpdated": "2026-03-02T08:48:11Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "三角模组2.x半成品"
+  },
+  {
+    "repo": "meesst/mindustry-multiunitbindmod",
+    "internalName": "logic-extend-mod",
+    "name": "LogicExtendMod - 逻辑指令扩展",
+    "author": "meesst",
+    "lastUpdated": "2026-03-02T09:40:41Z",
+    "stars": 0,
+    "minGameVersion": "154.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod that adds more logic instructions.\n一个添加了更多逻辑指令的模组"
+  },
+  {
+    "repo": "onenewidea-m/serpuloautodoor",
+    "internalName": "serpulo-auto-door",
+    "name": "Serpulo Auto Door",
+    "author": "OneNewIdea-M",
+    "lastUpdated": "2026-03-02T09:44:16Z",
+    "stars": 0,
+    "minGameVersion": "155.4",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds an auto doors for Serpulo.\n\nAvailable languages: English, Russian, Ukrainian.\n\nAuthor: SmokeMachine (RealSlave)"
   }
 ]
