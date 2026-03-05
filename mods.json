@@ -3449,7 +3449,7 @@
     "internalName": "wh",
     "name": "WarHammer",
     "author": "牢陌泽",
-    "lastUpdated": "2026-03-02T09:51:36Z",
+    "lastUpdated": "2026-03-05T06:37:15Z",
     "stars": 6,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -3925,18 +3925,6 @@
     "description": "A plethora of sandbox-only blocks dedicated for both fun and testing purposes."
   },
   {
-    "repo": "huanxefh/lovecraftian-laboratory",
-    "internalName": "loveclab",
-    "name": "Lovecraftian Laboratory",
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-02-16T11:06:18Z",
-    "stars": 5,
-    "minGameVersion": "155",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "The base mod for Lovecraftian series that adds essential resource, environmental blocks and planets."
-  },
-  {
     "repo": "koctz34/minduntm",
     "internalName": "ntm",
     "name": "NTM - Nuclear tech mod",
@@ -3947,6 +3935,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Hbm's NTM (by Bobcat) in mindustry!\nMinecraft, Satisfactory, Rust, and other...\n\nOnly decor blocks\n\nDisable linear filtering in settings!"
+  },
+  {
+    "repo": "huanxefh/lovecraftian-laboratory",
+    "internalName": "loveclab",
+    "name": "Lovecraftian Laboratory",
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-03-05T07:42:16Z",
+    "stars": 5,
+    "minGameVersion": "156",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "The base mod for Lovecraftian series that adds essential resource, environmental blocks and planets."
   },
   {
     "repo": "seuearth/banana",
@@ -4801,18 +4801,6 @@
     "description": "This mod add new planet and new solar sistem you drone which cleans planets \n\nDeveloper: Votak (abzobua)\nhelper and map creator: TEKTA_RU\nlanguage\nEnglish\nРусский"
   },
   {
-    "repo": "huanxefh/project-reindustrialization",
-    "internalName": "projreind",
-    "name": "Project Reindustrialization",
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-02-16T11:11:40Z",
-    "stars": 4,
-    "minGameVersion": "155",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "OBJECT: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with hardcore production.\n- A separate and complex tech tree.\n- Multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\nThis mod is part of Lovecraftian series, which requires Lovecraftian Library and Lovecraftian Laboratory.\n\nWARNING: RECIPE HELL AHEAD!"
-  },
-  {
     "repo": "alstin112/context",
     "internalName": "context",
     "name": "Context",
@@ -4883,6 +4871,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\n  A mod that allows you to create browser windows directly in the game.\nYou can interact with them, they process clicks, and you can watch videos, read articles, or just play games.\n[red]Warning! Be prepared for the fact that some sites may not be supported, and some games may not work due to capture features.\n[scarlet]Although the mod supports Android devices, there is no guarantee that they will work stably. A different API is used to support Android, as they do not support JCEF.\n[stat]The mod can support servers, but a plugin is required for this. Request it from Ion - 7274 (Discord: koctz34). (I will probably release the plugin file along with updates soon).\n[scarlet]This mod does not working on Linux and MacOS.[]\n  "
+  },
+  {
+    "repo": "huanxefh/project-reindustrialization",
+    "internalName": "projreind",
+    "name": "Project Reindustrialization",
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-03-05T07:40:01Z",
+    "stars": 4,
+    "minGameVersion": "156",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "OBJECT: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with hardcore production.\n- A separate and complex tech tree.\n- Multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\nThis mod is part of Lovecraftian series, which requires Lovecraftian Library and Lovecraftian Laboratory.\n\nWARNING: RECIPE HELL AHEAD!"
   },
   {
     "repo": "mythril382/ammoswap",
@@ -5846,18 +5846,6 @@
     "description": "Mod that adds extra compatibility with Mindurka"
   },
   {
-    "repo": "huanxefh/lovecraftian-library-java",
-    "internalName": "lovec",
-    "name": "Lovecraftian Library",
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-02-17T18:18:42Z",
-    "stars": 3,
-    "minGameVersion": "155",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "A JavaScript library for my other mods, with codes for multi-crafters, recipe dictionary, damage display, etc.\nWell, not 100% JavaScript."
-  },
-  {
     "repo": "momiji142857/ve-addon-schematics",
     "internalName": "ve-addon-schematics",
     "name": "VE Addon: Schematics",
@@ -5929,6 +5917,18 @@
     "hasJava": false,
     "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe[]\n",
     "iosCompatible": true
+  },
+  {
+    "repo": "huanxefh/lovecraftian-library-java",
+    "internalName": "lovec",
+    "name": "Lovecraftian Library",
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-03-05T07:47:59Z",
+    "stars": 3,
+    "minGameVersion": "156",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "A JavaScript library for my other mods, with codes for multi-crafters, recipe dictionary, damage display, etc.\nWell, not 100% JavaScript."
   },
   {
     "repo": "kirillrum/mega-builds",
@@ -12283,7 +12283,7 @@
     "internalName": "logic-extend-mod",
     "name": "LogicExtendMod - 逻辑指令扩展",
     "author": "meesst",
-    "lastUpdated": "2026-03-05T06:10:53Z",
+    "lastUpdated": "2026-03-05T08:18:16Z",
     "stars": 0,
     "minGameVersion": "154.1",
     "hasScripts": false,
