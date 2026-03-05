@@ -4,7 +4,7 @@
     "internalName": "new-horizon",
     "name": "New Horizon",
     "author": "Yuria & Lao",
-    "lastUpdated": "2026-03-04T12:08:39Z",
+    "lastUpdated": "2026-03-05T16:10:17Z",
     "stars": 543,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -124,7 +124,7 @@
     "internalName": "omaloon",
     "name": "Omaloon",
     "author": "stabu, uujuju",
-    "lastUpdated": "2026-03-05T00:37:17Z",
+    "lastUpdated": "2026-03-05T16:29:02Z",
     "stars": 130,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -233,7 +233,7 @@
     "name": "Frozen Farlands",
     "author": "[#3bdbff]CY4N[white] & [#11d41e]Zielony Trójkąt[white]",
     "lastUpdated": "2025-11-18T16:58:21Z",
-    "stars": 86,
+    "stars": 87,
     "minGameVersion": "143.1",
     "hasScripts": true,
     "hasJava": false,
@@ -1464,6 +1464,18 @@
     "description": "Not now, maybe later."
   },
   {
+    "repo": "otamamori917/axthrix-modded-java",
+    "internalName": "aj",
+    "name": "Axthrix",
+    "author": "Otamamori#4716\ncontributors:\n    BetaMindy/sk7725#6110| BoltBulletType.\n    MEEPofFaith#7277| AcceleratedTurret, blackhole related stuff.\n    nullevoy#7763| Spriting Tips.\n    Monika#6030| Code clean up & starting blocks & bundles\n    Siede#6321| Status effect sprites\n    RushieWashie/jirocab| AmmoLifeTimeUnitType",
+    "lastUpdated": "2026-02-23T11:19:24Z",
+    "stars": 15,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "BETA sandbox only! requires blackhole render by meep of faith"
+  },
+  {
     "repo": "yal-game-things/mindustry-tiny-things",
     "internalName": "tiny-things",
     "name": "Tiny Things",
@@ -1522,18 +1534,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Your schemes and saves are prone to corruption. Export your data before updating.\n\nAn extremely large mod solely dedicated for mindustry roleplaying and builds alike.\n\nQRM V7.1 aims to fix most of the bugs found after v7's release.\nQRM v7 Changelog:\nAdded\n- Beveled sorters, Highlighted sorters, and Unloader Two chiseled sets\n- Way, way more chiseled diagonal variants \n- Chiseled diagonal duct router and bezeled sets\n- Hazel, Tyrian, Royal, Terracotta, Pale, Graphene Walls\n- Ash and Alternate sand and red sand env walls \n- RGBCMY + White, Black Overlay floors\n- CMY, Sorter gray + Source yellow floors\n- Thunder, Windstorm, Thunderstorm, Rain and Ping SFX blocks\n- Void messages\n- Vials readded\n- Message blocks that look like RP books\n- [WIP] Particle gen with changeable colours via ammo\n- Powerline Blockers (invisible plast walls)\n- Arrow block that looks like a logic block (Path Cell)\n- Ritual circles\n\nFixed\n- Large slate message being omega\n- Flat surge router is flat unloader\n- Stone colour walls being named snow\n- Cruiser being implemented\n- Slower emanates\n- All unit building\n- Rocky en stairs being offset\n- Config mender now a unloader\n- Config nodes having glow\n- Unloader two a sorter now\n- Revert noise sorter changes, now unlegacy'd\n\nQRM v7.1 Changelog\nFixed\n- Bezeled chiseled side-line being offset\n- Transperant, white, black item source having the wrong name\n- Liquid router source not having a texture\n- Particle generators not being invisible \n- Normal, inverted, highlight, bezel, spectral, source centered corners, diagonal router corner 3 being offset\n- Config stuff not being flat\n- Sorter gray colour 5 being olive\n- Open Item Vial not being able to rotate\n- Full liquid vials being able to rotate, even they can't visually\n- Books resprite\n\nAdded\n- Borderless item source (for SFX turrets)\n- Flat beveled, highlight sorters\n- More books\n- Duct router catears\n\nRemoved\n- Extra surge router slope corner\n\nVersion v7.1 "
-  },
-  {
-    "repo": "otamamori917/axthrix-modded-java",
-    "internalName": "aj",
-    "name": "Axthrix",
-    "author": "Otamamori#4716\ncontributors:\n    BetaMindy/sk7725#6110| BoltBulletType.\n    MEEPofFaith#7277| AcceleratedTurret, blackhole related stuff.\n    nullevoy#7763| Spriting Tips.\n    Monika#6030| Code clean up & starting blocks & bundles\n    Siede#6321| Status effect sprites\n    RushieWashie/jirocab| AmmoLifeTimeUnitType",
-    "lastUpdated": "2026-02-23T11:19:24Z",
-    "stars": 14,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "BETA sandbox only! requires blackhole render by meep of faith"
   },
   {
     "repo": "shadowpazzo99/shadowdustry",
@@ -1644,6 +1644,18 @@
     "description": "The best sensory overload you can get, at least legally."
   },
   {
+    "repo": "arth0x/mindustrinity",
+    "internalName": "mindustrinity",
+    "name": "MindusTrinity",
+    "author": "[#009BFF]Wolflab Studio",
+    "lastUpdated": "2025-07-26T11:50:34Z",
+    "stars": 13,
+    "minGameVersion": "140.4",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Add a lot of vanilla improvement :\n \n    -Add new turrets / items / liquids and more\n    -You can now biuld T6 units\n    -Mod compatible with multiplayer and campain\n\nStill in in development so might be bugged or unbalanced for now\nDon't forget to review and drop a star :P\n \n \n       \n    - Arth0x"
+  },
+  {
     "repo": "abe-ischarlie/op-mod",
     "internalName": "op-things",
     "name": "OP Things",
@@ -1750,18 +1762,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Ru: Данная модификация изменяет внешний вид юнитов. Респрайты только Серпуловских юнитов.\r\n\r\nEng: This modification changes the appearance of the units. Resprites of only Serpulo units."
-  },
-  {
-    "repo": "arth0x/mindustrinity",
-    "internalName": "mindustrinity",
-    "name": "MindusTrinity",
-    "author": "[#009BFF]Wolflab Studio",
-    "lastUpdated": "2025-07-26T11:50:34Z",
-    "stars": 12,
-    "minGameVersion": "140.4",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Add a lot of vanilla improvement :\n \n    -Add new turrets / items / liquids and more\n    -You can now biuld T6 units\n    -Mod compatible with multiplayer and campain\n\nStill in in development so might be bugged or unbalanced for now\nDon't forget to review and drop a star :P\n \n \n       \n    - Arth0x"
   },
   {
     "repo": "dong-wo-long/high-leveldivisions",
@@ -1884,6 +1884,18 @@
     "description": "the ultimate ratio hell, a designer's challenge"
   },
   {
+    "repo": "racti2037/real-military-techic-mod",
+    "internalName": "military-techic-mod",
+    "name": "Military Technic Mod",
+    "author": "Racti",
+    "lastUpdated": "2025-12-25T21:09:59Z",
+    "stars": 11,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Mod add tanks, aircraft and naval ships"
+  },
+  {
     "repo": "zoggers-cc/major",
     "internalName": "major",
     "name": "Major",
@@ -1930,6 +1942,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds multiple new factories, turrets and items to enhance vanilla content and add more things post-late game.\nIMPORTANT: Credit for sprites cuz stealing bad: \n- Eschatologue/Unlimited-Armament-Works\n- AureusStratus/ExoGenesis \n- Eschatologue/Heavy-Armaments-Industries\n- uujuju1/project-oblivion\n- Twcash/Aquarion\n- thomas_has_things(discord) Thomas's Things \n- and a huge shoutout to y'all on the Mindustry Discord\nMod was originally a personal project, sorry if I used your sprites without consent."
+  },
+  {
+    "repo": "smolkeys/new-console-hardline",
+    "internalName": "newconsole-hardline",
+    "name": "New Console Hardline",
+    "author": "Mnemotechnician (original developer), SMOLKEYS (port maintainer)",
+    "lastUpdated": "2026-02-19T14:17:45Z",
+    "stars": 11,
+    "minGameVersion": "155.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The officially acknowledged port of New Console for v147-above.\n\nAdds a console UI superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more:\nA good log panel, execution history - all of that is included in this mod.\n\nIn addition to the console, this mod offers:\n- An ability to save as many scripts as you want and to either execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
   },
   {
     "repo": "routerxdd/icicle-world",
@@ -2124,18 +2148,6 @@
     "description": "Total conversion PVP mod set in fantasy medieval times"
   },
   {
-    "repo": "racti2037/real-military-techic-mod",
-    "internalName": "military-techic-mod",
-    "name": "Military Technic Mod",
-    "author": "Racti",
-    "lastUpdated": "2025-12-25T21:09:59Z",
-    "stars": 10,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Mod add tanks, aircraft and naval ships"
-  },
-  {
     "repo": "samielxd/shopsystemmod",
     "internalName": "shopsystem",
     "name": "Shop System",
@@ -2172,18 +2184,6 @@
     "description": "Meet shards\nShards is located far away from the sun and is basically frozen with tiny bugs of radiation.\nAlthough this planet has units, most of the time you'll be fighting walking mushrooms which is infected by lushion and droxium.\nThis mod is also filled with random stuff and after the fifth sector it's basically unplayable as it'll be unbalanced.\nAlso I'm actively reworking every sector.\nNote that kjol and cold moon is being removed and is rather be kept as a normal moon."
   },
   {
-    "repo": "smolkeys/new-console-hardline",
-    "internalName": "newconsole-hardline",
-    "name": "New Console Hardline",
-    "author": "Mnemotechnician (original developer), SMOLKEYS (port maintainer)",
-    "lastUpdated": "2026-02-19T14:17:45Z",
-    "stars": 10,
-    "minGameVersion": "155.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The officially acknowledged port of New Console for v147-above.\n\nAdds a console UI superior to the built-in one and the ones provided by any other mods.\nUser-friendly interface, an actual code editor with syntax highlighting and indentation guides, assistance and more:\nA good log panel, execution history - all of that is included in this mod.\n\nIn addition to the console, this mod offers:\n- An ability to save as many scripts as you want and to either execute them or copy to the console\n- An ability to execute scripts when certain events get fired\n- A full-blown file browser (be careful, you can cause real harm with that!)\n\nSee README.md for more info."
-  },
-  {
     "repo": "agzam4/mindustry-mod-v8",
     "internalName": "agzam4mod",
     "name": "Agzam's Mod",
@@ -2194,6 +2194,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Additional functionality"
+  },
+  {
+    "repo": "bttodi/virtuality",
+    "internalName": "virtuality",
+    "name": "Virtuality",
+    "author": "bttodi",
+    "lastUpdated": "2026-02-24T23:37:46Z",
+    "stars": 10,
+    "minGameVersion": "152.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod centered around fighting bosses, with a focus on pattern-based attacks. Entirely detached from Mindustry's traditional gameplay loop - The Virtuality Archives restrains the player in a measly vessel and pits them against encoded entities. Does not utilize scripts or Java, seeking to explore the technical scope of (H)JSON and MLOG. Best experienced with a mouse and keyboard.\n\nCurrently features five of seven planned bosses in the campaign - Candor, Ardent & Argent, Pandemonium, Nyx, and Alluvion."
   },
   {
     "repo": "hao-1337/mindustry-better-vanilla",
@@ -2386,18 +2398,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Java Mindustry mod that adds a new campaign on the planet Xilion. Currently still in pre-alpha"
-  },
-  {
-    "repo": "bttodi/virtuality",
-    "internalName": "virtuality",
-    "name": "Virtuality",
-    "author": "bttodi",
-    "lastUpdated": "2026-02-24T23:37:46Z",
-    "stars": 9,
-    "minGameVersion": "152.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod centered around fighting bosses, with a focus on pattern-based attacks. Entirely detached from Mindustry's traditional gameplay loop - The Virtuality Archives restrains the player in a measly vessel and pits them against encoded entities. Does not utilize scripts or Java, seeking to explore the technical scope of (H)JSON and MLOG. Best experienced with a mouse and keyboard.\n\nCurrently features five of seven planned bosses in the campaign - Candor, Ardent & Argent, Pandemonium, Nyx, and Alluvion."
   },
   {
     "repo": "aazamitsu/chibi-display",
@@ -2674,6 +2674,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\r\nThis is a [unlaunched]personal[white] Serpulo campaign rework map pack , alongside with personal [sky]minor rebalancing[white] on certain blocks or units.\r\n\r\nThis mod's gameplay is based on [sky]NORMAL[white] difficulty and cannot be changed , a harder version of it will be planned soon in another planet.\r\n\r\nThis mod contains [sky]20+[white] levels from the very basic to completed tech tree contents , notice the tech tree nodes are [unlaunched]rearranged[white] for each level to unlock.\r\n\r\nAll maps in this mod(map pack) follow [accent]CC BY-SA 4.0 License[white] (All works are free to use but you must keep the original author, me , sunkenmelody's name).\r\n\r\nAll maps are created under Serpulo environment and are [#c5cbff]vanilla compatible on terrain , wavesets and most contents[white].\r\n\r\n\r\n\r\n[#c5cbff]Have fun[white].\r\nUpdate log: V0.2-- Chapter 3(From 3-1 to 3-10) added.\r\n\r\n\r\nMod by [#908bdc]Sun[#8982ed]ken[#6d72af]Mel[#535a9c]ody[#c5cbff]♫.\r\n\r\n--Credits--\r\n[#cccccc]Coding:Everdusk22\r\nSector icon:Seabed\r\nMusic selection:しかみど☆\r\nLocalization(zh_CN):仄井心升\r\n"
+  },
+  {
+    "repo": "novanox4/astralis",
+    "internalName": "astralis",
+    "name": "Astralis",
+    "author": "NV-NX, Haznobrain (FULL CREDITS IN DESC.)",
+    "lastUpdated": "2026-03-05T17:05:25Z",
+    "stars": 8,
+    "minGameVersion": "155.3",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Work in progress hjson campaign mod that plans to add a new planet with a full camapign. This is a remake of a previous mod of mine bearing the same name.\n\nAstralis is a mod which aims to add a new planet with unique gameplay mechanics (world processors go brrr), that will also do everything possible to give you as much pain as possible.\n\nThe difficulty spike is vertical. Intended for people familiar with mindustry/mindustry mods.\n\nNot reccomended on low end devices!\n\nCREDITS:\n\nNV-NX - Main dev and spriter\nHaznobrain - Occasional sprite and code help. Making music.\n"
   },
   {
     "repo": "fabizocker456/test",
@@ -3025,6 +3037,18 @@
     "iosCompatible": true
   },
   {
+    "repo": "haznobrain/frozen-farlands-3.0-old",
+    "internalName": "frozen farlands",
+    "name": "Frozen Farlands 3.0",
+    "author": "Haznobrain, [#3bdbff]Hyperium[white] & [#11d41e]Zielony Trójkąt[white]",
+    "lastUpdated": "2026-02-16T09:35:01Z",
+    "stars": 7,
+    "minGameVersion": "155",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A year ago. A year ago i was working on this, on ff 3.0. A year ago, CY4 chose to kick me out of the dev team.\n\nI was not informed\n\nFor three weeks.\n\nI was given no real reason at the time.\n\nToday i realised i still had access to the old repo and that i had free will.\n\nThus here is the prototype for Frozen Farlands 3.0 that i worked on.\n\nRevenge is a dish best served frozen."
+  },
+  {
     "repo": "unionofsovietsocialistrepublics/sporebiomethane",
     "internalName": "jp",
     "name": "Spore biomethane",
@@ -3035,18 +3059,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds New sector, units and buildings to the game, all zerg flavored.\nWhat does this mod offer?\n - Hardmode and normal mode \n - Campain map for serpulo\n - Possibly a new planet?\n - A bunch of zerggy unit and structure\n - Lore\nRemember to star the mod on github if you enjoy it!"
-  },
-  {
-    "repo": "novanox4/astralis",
-    "internalName": "astralis",
-    "name": "Astralis",
-    "author": "NV-NX, Haznobrain (FULL CREDITS IN DESC.)",
-    "lastUpdated": "2026-03-05T09:32:27Z",
-    "stars": 7,
-    "minGameVersion": "155.3",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Work in progress hjson campaign mod that plans to add a new planet with a full camapign. This is a remake of a previous mod of mine bearing the same name.\n\nAstralis is a mod which aims to add a new planet with unique gameplay mechanics (world processors go brrr), that will also do everything possible to give you as much pain as possible.\n\nThe difficulty spike is vertical. Intended for people familiar with mindustry/mindustry mods.\n\nNot reccomended on low end devices!\n\nCREDITS:\n\nNV-NX - Main dev and spriter\nHaznobrain - Occasional sprite and code help. Making music.\n"
   },
   {
     "repo": "mindustryid/terjemahanindonesia",
@@ -3337,18 +3349,6 @@
     "description": ""
   },
   {
-    "repo": "haznobrain/frozen-farlands-3.0-old",
-    "internalName": "frozen farlands",
-    "name": "Frozen Farlands 3.0",
-    "author": "Haznobrain, [#3bdbff]Hyperium[white] & [#11d41e]Zielony Trójkąt[white]",
-    "lastUpdated": "2026-02-16T09:35:01Z",
-    "stars": 6,
-    "minGameVersion": "155",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A year ago. A year ago i was working on this, on ff 3.0. A year ago, CY4 chose to kick me out of the dev team.\n\nI was not informed\n\nFor three weeks.\n\nI was given no real reason at the time.\n\nToday i realised i still had access to the old repo and that i had free will.\n\nThus here is the prototype for Frozen Farlands 3.0 that i worked on.\n\nRevenge is a dish best served frozen."
-  },
-  {
     "repo": "i-drink-gasoline/admin-button-2",
     "internalName": "admin-button-2",
     "name": "Admin Button 2",
@@ -3373,6 +3373,18 @@
     "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod is also modifiy ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request[]."
   },
   {
+    "repo": "sputnuc/deepsea",
+    "internalName": "deepsea",
+    "name": "Project: Deep Sea (Alpha)",
+    "author": "Authors: \n [#ffd469]Sputnuc - main creator[white] \n [#ffb969]AnDashik - co-creator[white] \n [#ff3d61]Skifor - SFX designer[white]",
+    "lastUpdated": "2026-02-28T23:46:16Z",
+    "stars": 6,
+    "minGameVersion": "154.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The mod is about planet P-I-312 and more. Some fishes and underwater campaign \nSpecial thanks to: \n- [#5865f2]@meepoffaith[white] for the pseudo-3D drawing code. \n\n[gray]Fish: (*=)<"
+  },
+  {
     "repo": "huanxefh/lovecraftian-laboratory",
     "internalName": "loveclab",
     "name": "Lovecraftian Laboratory",
@@ -3389,7 +3401,7 @@
     "internalName": "wh",
     "name": "WarHammer",
     "author": "牢陌泽",
-    "lastUpdated": "2026-03-05T13:12:04Z",
+    "lastUpdated": "2026-03-05T16:01:41Z",
     "stars": 6,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -3875,6 +3887,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A plethora of sandbox-only blocks dedicated for both fun and testing purposes."
+  },
+  {
+    "repo": "xavierisdeadasheck15/interstellar-spaceline",
+    "internalName": "interstellar-spaceline",
+    "name": "Interstellar Spaceline",
+    "author": "Creator: Xavierlazymahn8",
+    "lastUpdated": "2026-02-27T11:49:47Z",
+    "stars": 5,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A Cultivation of Mod Project i made, And the Predecessor of Lasertech Mod, this Mod Focus on the Inspiration of TDX, Helldiver 2, and More"
   },
   {
     "repo": "koctz34/minduntm",
@@ -4705,30 +4729,6 @@
     "description": "this mod adds new planet with blocks, items, units and will continue to be updated, which i hope is actually true \n[accent]special thanks to: Blehhhh cat, oscillatorium[]"
   },
   {
-    "repo": "xavierisdeadasheck15/interstellar-spaceline",
-    "internalName": "interstellar-spaceline",
-    "name": "Interstellar Spaceline",
-    "author": "Creator: Xavierlazymahn8",
-    "lastUpdated": "2026-02-27T11:49:47Z",
-    "stars": 4,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A Cultivation of Mod Project i made, And the Predecessor of Lasertech Mod, this Mod Focus on the Inspiration of TDX, Helldiver 2, and More"
-  },
-  {
-    "repo": "sputnuc/deepsea",
-    "internalName": "deepsea",
-    "name": "Project: Deep Sea (Alpha)",
-    "author": "Authors: \n [#ffd469]Sputnuc - main creator[white] \n [#ffb969]AnDashik - co-creator[white] \n [#ff3d61]Skifor - SFX designer[white]",
-    "lastUpdated": "2026-02-28T23:46:16Z",
-    "stars": 4,
-    "minGameVersion": "154.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The mod is about planet P-I-312 and more. Some fishes and underwater campaign \nSpecial thanks to: \n- [#5865f2]@meepoffaith[white] for the pseudo-3D drawing code. \n\n[gray]Fish: (*=)<"
-  },
-  {
     "repo": "sputnuc/expansion-java",
     "internalName": "expansion",
     "name": "Expansion java",
@@ -4765,11 +4765,23 @@
     "description": "A JavaScript library for my other mods, with codes for multi-crafters, recipe dictionary, damage display, etc.\nWell, not 100% JavaScript."
   },
   {
+    "repo": "r99space99yt/apolotus",
+    "internalName": "apolotus",
+    "name": "Apolotus",
+    "author": "Tweu(Yt:R99_99,Dc:Tinnphat) and Lucas(Dc:microprocessordustry)",
+    "lastUpdated": "2026-03-05T10:45:04Z",
+    "stars": 4,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "My 2nd mod! CAMPAIGN ONLY 3 SECTOR DONE..."
+  },
+  {
     "repo": "fat-bird-owner/gier-revitalized",
     "internalName": "gr",
     "name": "Gier: Revitalized",
     "author": "Fat Bird's Owner - Main Developer",
-    "lastUpdated": "2026-03-05T12:00:27Z",
+    "lastUpdated": "2026-03-05T15:31:16Z",
     "stars": 4,
     "minGameVersion": "155",
     "hasScripts": true,
@@ -5761,18 +5773,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A story-rich mod\nIncludes 14 main campaign chapters and one side campaign chapter\nOverhauls the original planet Cypro\nAdds new factionsnA large number of new buildings and units\nWe welcome everyone to try it out\n（The storyline is currently only available in Chinese.）\n（The Mod has not yet been translated into English or other languages.）\n（Supports iOS users.）\n\n本MOD严禁混模，混模会触发战役的反混模机制造成战役无法正常游玩\n一个剧情向模组\n内含14章主线战役和1张支线战役\n在原版星球赛普罗的基础上进行了覆盖\n新增额外的势力\n大量的全新建筑以及单位\n欢迎各位游玩\n（剧情目前只有中文）\n（模组尚未制作英文及其他语言的翻译）\n（支持iOS玩家）\n\n\n\n\n\nQQ主群：789966619\n\n\n\n关于开发者单位:\n有开发者单位≠参与MOD开发,但可能曾参与MOD开发,或对MOD的贡献较大\n\n\n\n致谢名单:\n星月\nnan(代码指导)\nRA2-RA2(代码参考)\nKochiyaUeneh油苗子[(防混模代码)]\nwwwww(贴图,灵感和地图投稿)\n普通的MDT玩家\n西红柿汤(世界处理器指导)\nR\n哈吉爱\nSchizoPhrenia\nCN方柠檬FNM\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n“由无数失败所构筑”"
-  },
-  {
-    "repo": "r99space99yt/apolotus",
-    "internalName": "apolotus",
-    "name": "Apolotus",
-    "author": "Tweu(Yt:R99_99,Dc:Tinnphat) and Lucas(Dc:microprocessordustry)",
-    "lastUpdated": "2026-03-05T10:45:04Z",
-    "stars": 3,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "My 2nd mod! CAMPAIGN ONLY 3 SECTOR DONE..."
   },
   {
     "repo": "kirillrum/mega-builds",
@@ -8967,6 +8967,18 @@
     "description": "I Lost My Data!"
   },
   {
+    "repo": "alstocras/nucleardustry",
+    "internalName": "element-dustry",
+    "name": "Elemental Mindustry",
+    "author": "alstocras",
+    "lastUpdated": "2025-11-20T14:07:29Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds elemental stuff to the game. And some physics and biology. And some biscuits, courtesy of reddycute."
+  },
+  {
     "repo": "chaoticans-mindustry-modding-team/new-content-music",
     "internalName": "newunitsmusic",
     "name": "New Content Music Pack",
@@ -11487,18 +11499,6 @@
     "description": "A Mindustry auto translate mod."
   },
   {
-    "repo": "alstocras/nucleardustry",
-    "internalName": "element-dustry",
-    "name": "Elemental Mindustry",
-    "author": "alstocras",
-    "lastUpdated": "2025-11-20T14:07:29Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds elemental stuff to the game. And some physics and biology. And some biscuits, courtesy of reddycute."
-  },
-  {
     "repo": "pinkkitty100/witheringwild",
     "internalName": "withering-wild",
     "name": "Withering Wild",
@@ -12061,5 +12061,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod that adds more logic instructions.\n一个添加了更多逻辑指令的模组"
+  },
+  {
+    "repo": "oleksiy1409liut/osakan-worlds-retinkered",
+    "internalName": "osakanretinkered",
+    "name": "osakan worlds: REtinkered",
+    "author": "gabriel ultrakill",
+    "lastUpdated": "2026-03-05T15:06:23Z",
+    "stars": 0,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "THE osakan worlds mod but i remade it and it SHOULD be better, there wont be ay vanilla override, the mod wont be as complex and the normal vanilla power system will be there (most vanilla blocks would still be blocked)",
+    "iosCompatible": true
   }
 ]
