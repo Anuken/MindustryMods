@@ -760,7 +760,7 @@
     "internalName": "azimut",
     "name": "Azimut",
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-03-07T12:19:25Z",
+    "lastUpdated": "2026-03-07T12:38:55Z",
     "stars": 29,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -1780,7 +1780,7 @@
     "internalName": "patch-editor",
     "name": "PatchEditor",
     "author": "minRi2",
-    "lastUpdated": "2026-03-05T13:34:43Z",
+    "lastUpdated": "2026-03-07T13:53:11Z",
     "stars": 12,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -2376,6 +2376,18 @@
     "description": "​操作中にSDキャラを表示する機能を追加、Added a function to display chibi during operation (and router) a lot of updates coming"
   },
   {
+    "repo": "sunkenmelody/rospule",
+    "internalName": "rospule",
+    "name": "「Rospule」",
+    "author": "[#908bdc]Sun[#8982ed]ken[#6d72af]Mel[#535a9c]ody[#c5cbff]♫",
+    "lastUpdated": "2026-03-06T16:36:29Z",
+    "stars": 9,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\r\nThis is a [unlaunched]personal[white] Serpulo campaign rework map pack , alongside with personal [sky]minor rebalancing[white] on certain blocks or units.\r\n\r\nThis mod's gameplay is based on [sky]NORMAL[white] difficulty and cannot be changed.\r\n\r\nThis mod contains [sky]30+[white] levels from the very basic to completed tech tree contents , notice the tech tree nodes are [unlaunched]rearranged[white] for each level to unlock.\r\n\r\nAll maps in this mod(map pack) follow [accent]CC BY-SA 4.0 License[white] (All works are free to use but you must keep the original author, me , sunkenmelody's name).\r\n\r\nAll maps are created under Serpulo environment and are [#c5cbff]vanilla compatible on terrain , wavesets and most contents[white].\r\n\r\n\r\n\r\n[#c5cbff]Have fun[white].\r\nUpdate log: V0.2.3-- Stage 3-8 'Petroleum Chasm' start loadout graphite increased. + Stage 3-10 'Dilemma' more bug fixes.\r\n\r\n\r\nMod by [#908bdc]Sun[#8982ed]ken[#6d72af]Mel[#535a9c]ody[#c5cbff]♫.\r\n\r\n--Credits--\r\n[#cccccc]Coding:Everdusk22\r\nSector icon:Seabed\r\nMusic selection:しかみど☆\r\nLocalization(zh_CN):仄井心升\r\n"
+  },
+  {
     "repo": "novanox4/astralis",
     "internalName": "astralis",
     "name": "Astralis",
@@ -2614,18 +2626,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\n神秘mod\n贴图抠得依托势，但胜在能看（）\n"
-  },
-  {
-    "repo": "sunkenmelody/rospule",
-    "internalName": "rospule",
-    "name": "「Rospule」",
-    "author": "[#908bdc]Sun[#8982ed]ken[#6d72af]Mel[#535a9c]ody[#c5cbff]♫",
-    "lastUpdated": "2026-03-06T16:36:29Z",
-    "stars": 8,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\r\nThis is a [unlaunched]personal[white] Serpulo campaign rework map pack , alongside with personal [sky]minor rebalancing[white] on certain blocks or units.\r\n\r\nThis mod's gameplay is based on [sky]NORMAL[white] difficulty and cannot be changed.\r\n\r\nThis mod contains [sky]30+[white] levels from the very basic to completed tech tree contents , notice the tech tree nodes are [unlaunched]rearranged[white] for each level to unlock.\r\n\r\nAll maps in this mod(map pack) follow [accent]CC BY-SA 4.0 License[white] (All works are free to use but you must keep the original author, me , sunkenmelody's name).\r\n\r\nAll maps are created under Serpulo environment and are [#c5cbff]vanilla compatible on terrain , wavesets and most contents[white].\r\n\r\n\r\n\r\n[#c5cbff]Have fun[white].\r\nUpdate log: V0.2.3-- Stage 3-8 'Petroleum Chasm' start loadout graphite increased. + Stage 3-10 'Dilemma' more bug fixes.\r\n\r\n\r\nMod by [#908bdc]Sun[#8982ed]ken[#6d72af]Mel[#535a9c]ody[#c5cbff]♫.\r\n\r\n--Credits--\r\n[#cccccc]Coding:Everdusk22\r\nSector icon:Seabed\r\nMusic selection:しかみど☆\r\nLocalization(zh_CN):仄井心升\r\n"
   },
   {
     "repo": "emanuelg-gaming/mindustry-raycaster",
@@ -4681,19 +4681,6 @@
     "description": "My 2nd mod! CAMPAIGN ONLY 3 SECTOR DONE..."
   },
   {
-    "repo": "fat-bird-owner/gier-revitalized",
-    "internalName": "gr",
-    "name": "Gier: Revitalized",
-    "author": "Fat Bird's Owner - Main Developer",
-    "lastUpdated": "2026-03-07T11:38:44Z",
-    "stars": 4,
-    "minGameVersion": "155",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe[]\n",
-    "iosCompatible": true
-  },
-  {
     "repo": "huanxefh/lovecraftian-library-java",
     "internalName": "lovec",
     "name": "Lovecraftian Library",
@@ -4716,6 +4703,19 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "OBJECT: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with hardcore production.\n- A separate and complex tech tree.\n- Multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\nThis mod is part of Lovecraftian series, which requires Lovecraftian Library and Lovecraftian Laboratory.\n\nWARNING: RECIPE HELL AHEAD!"
+  },
+  {
+    "repo": "fat-bird-owner/gier-revitalized",
+    "internalName": "gr",
+    "name": "Gier: Revitalized",
+    "author": "Fat Bird's Owner - Main Developer",
+    "lastUpdated": "2026-03-07T13:21:16Z",
+    "stars": 4,
+    "minGameVersion": "155",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe[]\n",
+    "iosCompatible": true
   },
   {
     "repo": "mythril382/ammoswap",
@@ -7107,18 +7107,6 @@
     "description": "A java remake of my json unfinished mod."
   },
   {
-    "repo": "hollow-yk/endfield_industry_lib",
-    "internalName": "endfield-industry-lib",
-    "name": "Endfield Industry Lib终末地工业Lib",
-    "author": "Hollow",
-    "lastUpdated": "2026-03-06T07:26:27Z",
-    "stars": 2,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "欢迎来到终末地工业。\n[blue]《终末地工业Lib》是一款将《明日方舟：终末地》的部分物品与设备加入Mindustry的模组。\n[green]开发中……\n[red]注意！该版本处于开发初期，存在大量Bug与未完成的部分。若想要进行游玩，需前往Github Release下载本模组。目前暂未适配手机端。\n[green]欢迎前往GitHub Release下载本模组\n[red]别急着期待\n"
-  },
-  {
     "repo": "haznobrain/sub0kelvin",
     "internalName": "sub0kelvin",
     "name": "sub0Kelvin",
@@ -7131,11 +7119,23 @@
     "description": "Far, far away from serpulo's sun, we have located a severe anomaly.\n\n    In the absence of a divine body to regulate our world, a thermal anomaly has popped up. \n    A single planet in the outskirts of its system. Initial scans expected a total of 1 joule of thermal energy in the entire object.\n\n    Later scans revealed that while the surface was still below what should be absolute 0, it possesses a warm and ressource rich core.\n\n    Land on it.\n    Survive the frost.\n    Exploit the core."
   },
   {
+    "repo": "hollow-yk/endfield_industry_lib",
+    "internalName": "endfield-industry-lib",
+    "name": "Endfield Industry Lib终末地工业Lib",
+    "author": "Hollow and W.gaster",
+    "lastUpdated": "2026-03-07T13:48:42Z",
+    "stars": 2,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "欢迎来到终末地工业。\n[blue]《终末地工业Lib》是一款将《明日方舟：终末地》的部分物品与设备加入Mindustry的模组。\n[green]开发中……\n[red]注意！该版本处于开发初期，存在大量Bug与未完成的部分。若想要进行游玩，需前往Github Release下载本模组。目前暂未适配手机端。\n[green]欢迎前往GitHub Release下载本模组\n[red]别急着期待\n"
+  },
+  {
     "repo": "m1cxzfw3q/thermal-engineering-java",
     "internalName": "temod",
     "name": "Thermal Engineering",
     "author": "[sky]114514[white]",
-    "lastUpdated": "2026-03-07T09:33:54Z",
+    "lastUpdated": "2026-03-07T14:09:58Z",
     "stars": 2,
     "minGameVersion": "155.4",
     "hasScripts": false,
