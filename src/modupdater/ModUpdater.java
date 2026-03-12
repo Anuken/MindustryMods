@@ -213,6 +213,7 @@ public class ModUpdater{
                 obj.add("hasJava", Jval.valueOf(modj.getBool("java", false) || javaLangs.contains(lang)));
                 obj.add("description", Strings.stripColors(modj.getString("description", "No description provided.")));
                 if(modj.getBool("iosCompatible", false)) obj.put("iosCompatible", true);
+                if(modj.getBool("legacyCompatible", false)) obj.put("legacyCompatible", true);
                 array.asArray().add(obj);
             }catch(Exception e){
                 //ignore horribly malformed json
