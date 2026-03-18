@@ -605,7 +605,7 @@
     "internalName": "ice",
     "name": "DeepSpace",
     "author": "Alon",
-    "lastUpdated": "2026-03-18T11:20:41Z",
+    "lastUpdated": "2026-03-18T14:41:48Z",
     "stars": 38,
     "minGameVersion": "155",
     "hasScripts": false,
@@ -725,7 +725,7 @@
     "internalName": "carpe-diem",
     "name": "Carpe Diem",
     "author": "Nullotte",
-    "lastUpdated": "2026-03-18T11:54:59Z",
+    "lastUpdated": "2026-03-18T13:17:26Z",
     "stars": 31,
     "minGameVersion": "155.3",
     "hasScripts": false,
@@ -1297,6 +1297,18 @@
     "description": "A mod for browsing schematic repositories."
   },
   {
+    "repo": "fallingdice/flesh-mod",
+    "internalName": "flesh-mod",
+    "name": "Flesh Mod",
+    "author": "FallingDice",
+    "lastUpdated": "2026-02-09T15:31:49Z",
+    "stars": 17,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Add flesh units with various actions and skills, novel turrets and various objects."
+  },
+  {
     "repo": "meepoffaith/black-holes-library",
     "internalName": "black-hole-renderer",
     "name": "Black Holes Library",
@@ -1343,18 +1355,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\nA mod that adds more content to Serpulo and Erekir, as well as a new planet, Thanaras, that has a fully playable campaign and tech tree!\n\nover 100+ blocks, 40+ units, 15+ sectors, and so much more!\n\nThis mod is still in development, and it will get updates every so often :)\n\nYou can check out my youtube channel @ajr1814 for NeXus Devlogs and other stuff, and feel free to comment on any of them if you have any thoughts or problems with the mod.\nI hope you enjoy!"
-  },
-  {
-    "repo": "fallingdice/flesh-mod",
-    "internalName": "flesh-mod",
-    "name": "Flesh Mod",
-    "author": "FallingDice",
-    "lastUpdated": "2026-02-09T15:31:49Z",
-    "stars": 16,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Add flesh units with various actions and skills, novel turrets and various objects."
   },
   {
     "repo": "430230562/vanilla-neoplasm-extend",
@@ -3026,18 +3026,6 @@
     "description": "Adds different light sources to the player unit. Purely a visual mod."
   },
   {
-    "repo": "sputnuc/deepsea",
-    "internalName": "deepsea",
-    "name": "Project: Deep Sea (Alpha)",
-    "author": "Authors: \n [#ffd469]Sputnuc - main creator[white] \n [#ffb969]AnDashik - co-creator[white] \n [#ff3d61]Skifor - SFX designer[white]",
-    "lastUpdated": "2026-03-17T18:40:46Z",
-    "stars": 7,
-    "minGameVersion": "154.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The mod is about planet P-I-312 and more. Some fishes and underwater campaign \nSpecial thanks to: \n- [#5865f2]@meepoffaith[white] for the pseudo-3D drawing code. \n\n[gray]Fish: (*=)<"
-  },
-  {
     "repo": "mindustryid/terjemahanindonesia",
     "internalName": "terjemahan-indonesia",
     "name": "Terjemahan Indonesia",
@@ -3048,6 +3036,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• Kevin Vilyan - Kenny\n• WilloIzCitron - William A\n• SAMBUYYA\n\n[accent]Anggota - Pensiun:[gray]\n• Korxopid\n• TheMrAlbert\n• GrimSoul"
+  },
+  {
+    "repo": "sputnuc/deepsea",
+    "internalName": "deepsea",
+    "name": "Project: Deep Sea (Alpha)",
+    "author": "Authors: \n [#ffd469]Sputnuc - main creator[white] \n [#ffb969]AnDashik - co-creator[white] \n [#ff3d61]Skifor - SFX designer[white]",
+    "lastUpdated": "2026-03-18T13:51:41Z",
+    "stars": 7,
+    "minGameVersion": "154.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The mod is about planet P-I-312 and more. Some fishes and underwater campaign \nSpecial thanks to: \n- [#5865f2]@meepoffaith[white] for the pseudo-3D drawing code. \n\n[gray]Fish: (*=)<"
   },
   {
     "repo": "xzxadixzx/crawler-language",
@@ -3386,18 +3386,6 @@
     "description": "The base mod for Lovecraftian series that adds essential resource, environmental blocks and planets."
   },
   {
-    "repo": "laomoze/warhammer",
-    "internalName": "wh",
-    "name": "WarHammer",
-    "author": "牢陌泽",
-    "lastUpdated": "2026-03-10T16:19:58Z",
-    "stars": 6,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "以战锤40k为原型的MOD,Mod官方QQ交流群：316481519\n贡献者DOC-A-7244(bundles和翻译),Eipusino(java技术指导)"
-  },
-  {
     "repo": "new-guys5634/lava-rebirth",
     "internalName": " b ",
     "name": "Caverns Rebirth",
@@ -3408,6 +3396,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "IN EARLY DEV\n\nA mod inspired by Greek tech with all of its annoying grinding Elements\na planet called lava zrogro arises and this will pinpoint where all the lore has started and will it end?\n\nPROPER: this mod will not be easy and you have to use more brain power than serpulo, anything can go wrong leading to your death, retake the lost and crux nations and find more about the destroyed planet, also links with antopia in many ways such as sulfur, beware the sectors will be changing often.\n\nMISSION: on zrogro your previous captures and defeats if the lost empire had been shattered, the crux empire had taken back everything, the Vengeance empire had informed you that the crux empire had some how cooked zrogro and moved the planet barely but enough for water to exist underground, your mission is to establish the vengeance empire on this planet, establish hard to work and pollute this planet to the grave, destroy and take back this planet! good luck captain.\n\nenjoy, drink cola, eat raw coal, have fun"
+  },
+  {
+    "repo": "laomoze/warhammer",
+    "internalName": "wh",
+    "name": "WarHammer",
+    "author": "牢陌泽",
+    "lastUpdated": "2026-03-18T14:53:48Z",
+    "stars": 6,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "以战锤40k为原型的MOD,Mod官方QQ交流群：316481519\n贡献者DOC-A-7244(bundles和翻译),Eipusino(java技术指导)"
   },
   {
     "repo": "yaroslav242/yfjs",
@@ -3902,18 +3902,6 @@
     "description": "Hbm's NTM (by Bobcat) in mindustry!\nMinecraft, Satisfactory, Rust, and other...\n\nOnly decor blocks\n\nDisable linear filtering in settings!"
   },
   {
-    "repo": "koctz34/browser-windows",
-    "internalName": "browser-windows",
-    "name": "Browser Windows (MinduCEF)",
-    "author": "Ion - 7274",
-    "lastUpdated": "2026-03-06T05:52:18Z",
-    "stars": 5,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\n  A mod that allows you to create browser windows directly in the game.\nYou can interact with them, they process clicks, and you can watch videos, read articles, or just play games.\n[red]Warning! Be prepared for the fact that some sites may not be supported, and some games may not work due to capture features.\n[scarlet]Although the mod supports Android devices, there is no guarantee that they will work stably. A different API is used to support Android, as they do not support JCEF.\n[stat]The mod can support servers, but a plugin is required for this. Request it from Ion - 7274 (Discord: koctz34). (I will probably release the plugin file along with updates soon).\n[scarlet]This mod does not working on Linux and MacOS.[]\n  "
-  },
-  {
     "repo": "huanxefh/project-reindustrialization",
     "internalName": "projreind",
     "name": "Project Reindustrialization",
@@ -3974,11 +3962,23 @@
     "description": "A Cultivation of Mod Project i made, And the Predecessor of Lasertech Mod, this Mod Focus on the Inspiration of TDX, Helldiver 2, and More"
   },
   {
+    "repo": "koctz34/browser-windows",
+    "internalName": "browser-windows",
+    "name": "Browser Windows (MinduCEF)",
+    "author": "Ion - 7274",
+    "lastUpdated": "2026-03-18T13:58:07Z",
+    "stars": 5,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\n  A mod that allows you to create browser windows directly in the game.\nYou can interact with them, they process clicks, and you can watch videos, read articles, or just play games.\n[red]Warning! Be prepared for the fact that some sites may not be supported, and some games may not work due to capture features.\n[scarlet]Although the mod supports Android devices, there is no guarantee that they will work stably. A different API is used to support Android, as they do not support JCEF.\n[stat]The mod can support servers, but a plugin is required for this. Request it from Ion - 7274 (Discord: koctz34). (I will probably release the plugin file along with updates soon).\n[scarlet]This mod does not working on Linux and MacOS.[]\n  "
+  },
+  {
     "repo": "fat-bird-owner/gier-revitalized",
     "internalName": "gr",
     "name": "Gier: Revitalized",
     "author": "Fat Bird's Owner - Main Developer",
-    "lastUpdated": "2026-03-18T12:15:39Z",
+    "lastUpdated": "2026-03-18T14:51:53Z",
     "stars": 5,
     "minGameVersion": "155",
     "hasScripts": true,
