@@ -605,7 +605,7 @@
     "internalName": "sw",
     "name": "Steam Works",
     "author": "Liz Aurora",
-    "lastUpdated": "2026-03-18T22:30:12Z",
+    "lastUpdated": "2026-03-19T01:11:25Z",
     "stars": 38,
     "minGameVersion": "155.2",
     "hasScripts": false,
@@ -2377,18 +2377,6 @@
     "description": "Adds a dialog for turning images into schematics"
   },
   {
-    "repo": "aazamitsu/chibi-display",
-    "internalName": "anime-units-display",
-    "name": "anime units display",
-    "author": "あざみ",
-    "lastUpdated": "2026-03-05T01:19:38Z",
-    "stars": 9,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "​操作中にSDキャラを表示する機能を追加、Added a function to display chibi during operation (and router) a lot of updates coming"
-  },
-  {
     "repo": "daxillion48/farborne-industries",
     "internalName": "farborne-industries",
     "name": "Farborne: Industries",
@@ -2423,6 +2411,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A lot of useful & QoL features\ntype !qol <cmd?> in chat to get more info\n\nyou can add your mlog codes in Mindustry directory /files/qol/mlog/ to use them with !mlog\n\nyou can add your regex in Mindustry directory /files/qol/mlog/regex.json to use it in !detector\n\nmore detailed mod info on github page, please give me a star :>\n\ndiscord: @tytxexebe"
+  },
+  {
+    "repo": "aazamitsu/chibi-display",
+    "internalName": "anime-units-display",
+    "name": "anime units display",
+    "author": "あざみ",
+    "lastUpdated": "2026-03-19T02:15:18Z",
+    "stars": 9,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "​操作中にSDキャラを表示する機能を追加、Added a function to display chibi during operation (and router) a lot of updates coming"
   },
   {
     "repo": "toriwake/kannadustry",
@@ -5595,19 +5595,6 @@
     "description": "Explore a new planet submerged in naphtha and utilize buildings with an exotic, new form."
   },
   {
-    "repo": "50275/legacy-launch-pads",
-    "internalName": "legacy-launch-pads",
-    "name": "Legacy Launch Pads",
-    "author": "50275",
-    "lastUpdated": "2025-12-28T00:06:20Z",
-    "stars": 3,
-    "minGameVersion": "147",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "For Mindustry versions newer than v146: advanced launch pads and landing pads are replaced by the v146 launch pad.",
-    "iosCompatible": true
-  },
-  {
     "repo": "skulzyetagain/firstmod",
     "internalName": "rosamachina",
     "name": "Machina a Deo",
@@ -5714,6 +5701,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Have you ever wondered what it would be like if Mindustry sounded like an open-world RPG? Well, now you can, with these collection of music and SFX replacements from FFXIV, Library of Ruina, Arknights, Terraria, and more."
+  },
+  {
+    "repo": "50275/legacy-launch-pads",
+    "internalName": "legacy-launch-pads",
+    "name": "Legacy Launch Pads",
+    "author": "50275",
+    "lastUpdated": "2026-03-19T03:12:14Z",
+    "stars": 3,
+    "minGameVersion": "147",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "For Mindustry versions newer than v146: advanced launch pads and landing pads are replaced by the v146 launch pad.",
+    "iosCompatible": true
   },
   {
     "repo": "rintadev5792/arcane-mindustry",
@@ -9365,18 +9365,6 @@
     "description": "\nrefactor v1.1\n"
   },
   {
-    "repo": "poiu-y/mindustry-ich-mod",
-    "internalName": "ich-mod",
-    "name": "Ich",
-    "author": "zeriki",
-    "lastUpdated": "2026-03-16T20:47:53Z",
-    "stars": 1,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "adds a new planet : Ich and a new star! do note that this is my first mod and \nIF YOU SEE THE GAME TELLING YOU ANUKE MADE THE MAPS, JUST KNOW THAT THIS IS FALSE AND I DON'T KNOW WHY IT'S DOING THAT. \n\nthanks to asthosus for teaching me how to make custom blocks and thanks to example-planet-json for teaching me how to make custom planets\n\nthis mod is unfinished"
-  },
-  {
     "repo": "xpdustry/slf4md",
     "internalName": "slf4md",
     "name": "SLF4MD",
@@ -9387,6 +9375,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A basic SLF4J implementation for Mindustry."
+  },
+  {
+    "repo": "poiu-y/mindustry-ich-mod",
+    "internalName": "ich-mod",
+    "name": "Ich",
+    "author": "zeriki",
+    "lastUpdated": "2026-03-19T01:43:34Z",
+    "stars": 1,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "adds a new planet : Ich and a new star! do note that this is my first mod and \nIF YOU SEE THE GAME TELLING YOU ANUKE MADE THE MAPS, JUST KNOW THAT THIS IS FALSE AND I DON'T KNOW WHY IT'S DOING THAT. \n\nthanks to asthosus for teaching me how to make custom blocks and thanks to example-planet-json for teaching me how to make custom planets\n\nthis mod is unfinished"
   },
   {
     "repo": "exxleo/exoterusmod",
