@@ -4,7 +4,7 @@
     "internalName": "new-horizon",
     "name": "New Horizon",
     "author": "Yuria & Lao",
-    "lastUpdated": "2026-03-21T14:49:16Z",
+    "lastUpdated": "2026-03-22T05:09:35Z",
     "stars": 552,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -244,7 +244,7 @@
     "internalName": "aquarion",
     "name": "aquarion",
     "author": "twcash",
-    "lastUpdated": "2026-03-21T19:47:36Z",
+    "lastUpdated": "2026-03-22T05:41:30Z",
     "stars": 85,
     "minGameVersion": "155.4",
     "hasScripts": false,
@@ -605,7 +605,7 @@
     "internalName": "ice",
     "name": "DeepSpace",
     "author": "Alon",
-    "lastUpdated": "2026-03-22T01:38:38Z",
+    "lastUpdated": "2026-03-22T04:55:31Z",
     "stars": 38,
     "minGameVersion": "155",
     "hasScripts": false,
@@ -653,7 +653,7 @@
     "internalName": "mod-tools",
     "name": "mod-tools",
     "author": "I hope...",
-    "lastUpdated": "2026-03-22T03:40:16Z",
+    "lastUpdated": "2026-03-22T05:53:34Z",
     "stars": 36,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -1385,7 +1385,7 @@
     "internalName": "vne",
     "name": "原版瘤液拓展",
     "author": "pardon",
-    "lastUpdated": "2026-03-20T14:49:49Z",
+    "lastUpdated": "2026-03-22T04:19:59Z",
     "stars": 16,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -3990,7 +3990,7 @@
     "internalName": "gr",
     "name": "Gier: Revitalized",
     "author": "Fat Bird's Owner - Main Developer",
-    "lastUpdated": "2026-03-22T04:05:48Z",
+    "lastUpdated": "2026-03-22T05:56:17Z",
     "stars": 5,
     "minGameVersion": "155",
     "hasScripts": true,
@@ -7168,18 +7168,6 @@
     "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
-    "repo": "m1cxzfw3q/thermal-engineering-java",
-    "internalName": "temod",
-    "name": "Thermal Engineering",
-    "author": "[sky]114514[white]",
-    "lastUpdated": "2026-03-21T19:13:57Z",
-    "stars": 2,
-    "minGameVersion": "155.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\n[blue]=====INFO=========================\n[gold]ThermalEnginerring  [red]0.0.2_A\n[blue]=====DESCRIPTION==================\n[sky]A mindustry Java&Kotlin(JVM) Mod\n一个Mindustry的JVMMod\n"
-  },
-  {
     "repo": "haznobrain/sub0kelvin",
     "internalName": "sub0kelvin",
     "name": "sub0Kelvin",
@@ -7190,6 +7178,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Far, far away from serpulo's sun, we have located a severe anomaly.\n\n    In the absence of a divine body to regulate our world, a thermal anomaly has popped up. \n    A single planet in the outskirts of its system. Initial scans expected a total of 1 joule of thermal energy in the entire object.\n\n    Later scans revealed that while the surface was still below what should be absolute 0, it possesses a warm and ressource rich core.\n\n    Land on it.\n    Survive the frost.\n    Exploit the core."
+  },
+  {
+    "repo": "m1cxzfw3q/thermal-engineering-java",
+    "internalName": "temod",
+    "name": "Thermal Engineering",
+    "author": "[sky]114514[white]",
+    "lastUpdated": "2026-03-22T06:32:10Z",
+    "stars": 2,
+    "minGameVersion": "155.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\n[blue]=====INFO=========================\n[gold]ThermalEnginerring  [red]0.0.2_A\n[blue]=====DESCRIPTION==================\n[sky]A mindustry Java&Kotlin(JVM) Mod\n一个Mindustry的JVMMod\n"
   },
   {
     "repo": "teaeempire/gghv7",
@@ -9196,18 +9196,6 @@
     "description": "A new planet, a new gaming experience and a great storyline are waiting for you in this mod\r\nExplore the planet Omega and finally get your paycheck, explore the history and secrets of what happened here, along with a difficult but balanced gameplay\r\n\r\nAvailable languages:\r\n--English\r\n--Українська\r\n--Руский\r\n--Español\r\n\r\nThe mod is still in development, so everything can still change\r\n\r\nDuring testing on version 155.3, an issue occurred with the planet’s broken atmosphere color. Please ignore it or disable the atmosphere rendering. This is a bug in the game version itself and is almost impossible to fix"
   },
   {
-    "repo": "zeefoe/simple-chat-translator",
-    "internalName": "simple-chat-translator",
-    "name": "Simple Chat Translator",
-    "author": "Zeefoe",
-    "lastUpdated": "2026-02-25T13:08:20Z",
-    "stars": 1,
-    "minGameVersion": "154.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A chat translator that just works.\nTranslates the chat using google translate without any setup and configuration.\n\nThe target language should be automatically set by what language you have your game in."
-  },
-  {
     "repo": "theplastanium/more.facilities",
     "internalName": "更多设施",
     "name": "更多设施",
@@ -9365,18 +9353,6 @@
     "description": "Adds elemental stuff to the game. And some physics and biology. And some biscuits, courtesy of reddycute. Classical music too! \n Music: \n menu: Passacaglia and Fugue in C minor — J.S. Bach. MIDI by Jürgen Knuth, licensed CC-BY-NC-SA, arranged by alstocras, same license applies \n launch: 10 Preludes, Op. 23, No. 5 alla marcia in G minor — S. Rachmaninov, arranged by alstocras. \n land: DSCH Motif — D. Shostakovich, arranged by alstocras \n editor: Gnossiene No. 1 — E. Satie, arranged by alstocras \n game1: C minor — alstocras \n game2: Music for Strings, Percussion, and Celesta — B. Bartok, arranged by alstocras"
   },
   {
-    "repo": "namds666/item-liquid-teleport",
-    "internalName": "item-liquid-teleport",
-    "name": "Item Liquid Teleport",
-    "author": "namds666 & Claude Code",
-    "lastUpdated": "2026-03-21T17:37:23Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Makes item and liquid teleport in a huge range! 4 cheat-grade 1x1 transport blocks."
-  },
-  {
     "repo": "poiu-y/mindustry-ich-mod",
     "internalName": "ich-mod",
     "name": "Ich",
@@ -9387,6 +9363,30 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "adds a new planet : Ich and a new star! do note that this is my first mod and \nIF YOU SEE THE GAME TELLING YOU ANUKE MADE THE MAPS, JUST KNOW THAT THIS IS FALSE AND I DON'T KNOW WHY IT'S DOING THAT. \n\nthanks to asthosus for teaching me how to make custom blocks and thanks to example-planet-json for teaching me how to make custom planets\n\nthis mod is unfinished"
+  },
+  {
+    "repo": "zeefoe/simple-chat-translator",
+    "internalName": "simple-chat-translator",
+    "name": "Simple Chat Translator",
+    "author": "Zeefoe",
+    "lastUpdated": "2026-03-22T05:21:42Z",
+    "stars": 1,
+    "minGameVersion": "154.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A chat translator that just works.\nTranslates the chat using google translate without any setup and configuration.\n\nThe target language should be automatically set by what language you have your game in."
+  },
+  {
+    "repo": "namds666/item-liquid-teleport",
+    "internalName": "item-liquid-teleport",
+    "name": "Item Liquid Teleport",
+    "author": "namds666 & Claude Code",
+    "lastUpdated": "2026-03-22T06:10:59Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Makes item and liquid teleport in a huge range! 4 cheat-grade 1x1 transport blocks."
   },
   {
     "repo": "exxleo/exoterusmod",
@@ -10383,18 +10383,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds Pullerium into the game."
-  },
-  {
-    "repo": "moganda12/infinte",
-    "internalName": "infinite",
-    "name": "Infinite",
-    "author": "skyTheDragon",
-    "lastUpdated": "2024-09-21T02:19:01Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "dum"
   },
   {
     "repo": "panilyam/emerald-mod",
