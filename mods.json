@@ -244,7 +244,7 @@
     "internalName": "aquarion",
     "name": "aquarion",
     "author": "twcash",
-    "lastUpdated": "2026-03-24T18:14:02Z",
+    "lastUpdated": "2026-03-24T19:01:37Z",
     "stars": 86,
     "minGameVersion": "155.4",
     "hasScripts": false,
@@ -408,6 +408,18 @@
     "description": "New guns, drills, crafting, materials and resourses"
   },
   {
+    "repo": "pointifix/autodrill",
+    "internalName": "auto-drill",
+    "name": "AutoDrill",
+    "author": "Pointifix",
+    "lastUpdated": "2025-09-20T15:42:00Z",
+    "stars": 53,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds tools for automatically filling resource patches with drills"
+  },
+  {
     "repo": "mindustry-antigrief/installer",
     "internalName": "fooinstaller",
     "name": "Foo's Client Installer",
@@ -419,18 +431,6 @@
     "hasJava": true,
     "description": "Simple mod to install Foo's client. Foo's client features hundreds of quality of life improvements to the mindustry experience while making as few compromises as possible.",
     "legacyCompatible": true
-  },
-  {
-    "repo": "pointifix/autodrill",
-    "internalName": "auto-drill",
-    "name": "AutoDrill",
-    "author": "Pointifix",
-    "lastUpdated": "2025-09-20T15:42:00Z",
-    "stars": 52,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds tools for automatically filling resource patches with drills"
   },
   {
     "repo": "tnmspiroct/exoprosopa",
@@ -581,7 +581,7 @@
     "internalName": "sw",
     "name": "Steam Works",
     "author": "Liz Aurora",
-    "lastUpdated": "2026-03-24T03:18:29Z",
+    "lastUpdated": "2026-03-24T18:52:51Z",
     "stars": 39,
     "minGameVersion": "155.2",
     "hasScripts": false,
@@ -2929,18 +2929,6 @@
     "description": "\nQ群：575994735\n使用这个MOD来体验在mindustry中极不平衡（甚至有点离谱）的战役进度！"
   },
   {
-    "repo": "tinport/tinport-serpulo-resprites",
-    "internalName": "tinport-fancy-resprites",
-    "name": "Tinport Serpulo Resprites",
-    "author": "[#f09267]Tinport[]",
-    "lastUpdated": "2025-12-03T18:29:07Z",
-    "stars": 7,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Resprites a (currently) small amount of serpulo right now.\n\nCurrently Revamped:\n- [#fbe488]Power[]\n- [#e7ecac]Drills[]\n\nSpecial Thanks To:\n- [#dd9eb1]Blehhhhh Cat[] (@g_o_r_t_) For giving a decent amount of feedback.\n- [#9b59b6]CY4NIDE[] (@CY4NIDE) For assisting me with making Impact Reactor plasma resprites.\n"
-  },
-  {
     "repo": "ovulam5480/ovulamtools",
     "internalName": "ovulamtools",
     "name": "OvulamTools",
@@ -3074,18 +3062,6 @@
     "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• Kevin Vilyan - Kenny\n• WilloIzCitron - William A\n• SAMBUYYA\n\n[accent]Anggota - Pensiun:[gray]\n• Korxopid\n• TheMrAlbert\n• GrimSoul"
   },
   {
-    "repo": "wantechfan/mindustry-mod-some-musics",
-    "internalName": "cool-musics",
-    "name": "Cool Musics",
-    "author": "WantechFan",
-    "lastUpdated": "2026-03-24T07:50:36Z",
-    "stars": 7,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Replaces every single musics ingame with some cool and nostalgic musics I took from YouTube. Please leave a star in the repository if you like it."
-  },
-  {
     "repo": "wantechfan/my-cursed-ahh-mindustry-mod",
     "internalName": "cursed-bundles",
     "name": "Cursed Bundles",
@@ -3096,6 +3072,30 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod is also modifiy ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request[]."
+  },
+  {
+    "repo": "tinport/tinport-serpulo-resprites",
+    "internalName": "tinport-fancy-resprites",
+    "name": "Tinport Serpulo Resprites",
+    "author": "[#f09267]Tinport[]",
+    "lastUpdated": "2026-03-24T18:52:55Z",
+    "stars": 7,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Resprites a (currently) small amount of serpulo right now.\n\nCurrently Revamped:\n- [#fbe488]Power[]\n- [#e7ecac]Drills[]\n\nSpecial Thanks To:\n- [#dd9eb1]Blehhhhh Cat[] (@g_o_r_t_) For giving a decent amount of feedback.\n- [#9b59b6]CY4NIDE[] (@CY4NIDE) For assisting me with making Impact Reactor plasma resprites.\n"
+  },
+  {
+    "repo": "wantechfan/mindustry-mod-some-musics",
+    "internalName": "cool-musics",
+    "name": "Cool Musics",
+    "author": "WantechFan",
+    "lastUpdated": "2026-03-24T19:21:05Z",
+    "stars": 7,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Replaces every single musics ingame with some cool and nostalgic musics I took from YouTube. Please leave a star in the repository if you like it."
   },
   {
     "repo": "xzxadixzx/crawler-language",
@@ -3974,18 +3974,6 @@
     "description": "A Cultivation of Mod Project i made, And the Predecessor of Lasertech Mod, this Mod Focus on the Inspiration of TDX, Helldiver 2, and More"
   },
   {
-    "repo": "kosmofrog/planet-vulcanum",
-    "internalName": "v",
-    "name": "Planet Vulcanum",
-    "author": "kosmofrog",
-    "lastUpdated": "2026-03-19T15:14:22Z",
-    "stars": 5,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "EN: Adds Vulcanum - hot dirty planet, that has dangerous enemies.\nP.s. There are a lot of bugs in sectors, so it's better to play in maps:\n1. Arc\n2. River\n\nRU: Добавляет Вулканум - жаркую пыльную планеты с опасными противниками.\nP.s. Сейчас в секторах много багов, так что лучше играть в карты:\n1. Arc\n2. River\n  (2.4)"
-  },
-  {
     "repo": "huanxefh/lovecraftian-library-java",
     "internalName": "lovec",
     "name": "Lovecraftian Library",
@@ -4009,6 +3997,18 @@
     "hasJava": false,
     "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe[]\n",
     "iosCompatible": true
+  },
+  {
+    "repo": "kosmofrog/planet-vulcanum",
+    "internalName": "v",
+    "name": "Planet Vulcanum",
+    "author": "kosmofrog",
+    "lastUpdated": "2026-03-24T18:48:22Z",
+    "stars": 5,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "EN: Adds Vulcanum - hot dirty planet, that has dangerous enemies.\nP.s. There are a lot of bugs in sectors, so it's better to play in maps:\n1. Arc\n2. River\n\nRU: Добавляет Вулканум - жаркую пыльную планеты с опасными противниками.\nP.s. Сейчас в секторах много багов, так что лучше играть в карты:\n1. Arc\n2. River\n  (2.4)"
   },
   {
     "repo": "mythril382/self-destruct-core",
@@ -9365,18 +9365,6 @@
     "description": "Makes item and liquid teleport in a huge range! 4 cheat-grade 1x1 transport blocks.\n  Update: fix auto rebuild when destroying blocks."
   },
   {
-    "repo": "poiu-y/mindustry-ich-mod",
-    "internalName": "ich-mod",
-    "name": "Ich",
-    "author": "zeriki",
-    "lastUpdated": "2026-03-24T17:46:56Z",
-    "stars": 1,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "adds a new planet : Ich and a new star! do note that this is my first mod and \nIF YOU SEE THE GAME TELLING YOU ANUKE MADE THE MAPS, JUST KNOW THAT THIS IS FALSE AND I DON'T KNOW WHY IT'S DOING THAT. \n\nthanks to asthosus for teaching me how to make custom blocks and thanks to example-planet-json for teaching me how to make custom planets\n\nthis mod is unfinished"
-  },
-  {
     "repo": "xpdustry/slf4md",
     "internalName": "slf4md",
     "name": "SLF4MD",
@@ -9387,6 +9375,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A basic SLF4J implementation for Mindustry."
+  },
+  {
+    "repo": "poiu-y/mindustry-ich-mod",
+    "internalName": "ich-mod",
+    "name": "Ich",
+    "author": "zeriki",
+    "lastUpdated": "2026-03-24T20:02:36Z",
+    "stars": 1,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "adds a new planet : Ich and a new star! do note that this is my first mod and \nIF YOU SEE THE GAME TELLING YOU ANUKE MADE THE MAPS, JUST KNOW THAT THIS IS FALSE AND I DON'T KNOW WHY IT'S DOING THAT. \n\nthanks to asthosus for teaching me how to make custom blocks and thanks to example-planet-json for teaching me how to make custom planets\n\nthis mod is unfinished"
   },
   {
     "repo": "exxleo/exoterusmod",
