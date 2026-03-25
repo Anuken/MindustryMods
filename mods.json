@@ -689,7 +689,7 @@
     "internalName": "azimut",
     "name": "Azimuth",
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-03-25T07:31:43Z",
+    "lastUpdated": "2026-03-25T11:28:57Z",
     "stars": 33,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -3986,19 +3986,6 @@
     "description": "EN: Adds Vulcanum - hot dirty planet, that has dangerous enemies.\nP.s. There are a lot of bugs in sectors, so it's better to play in maps:\n1. Arc\n2. River\n\nRU: Добавляет Вулканум - жаркую пыльную планеты с опасными противниками.\nP.s. Сейчас в секторах много багов, так что лучше играть в карты:\n1. Arc\n2. River\n  (2.4)"
   },
   {
-    "repo": "fat-bird-owner/gier-revitalized",
-    "internalName": "gr",
-    "name": "Gier: Revitalized",
-    "author": "Fat Bird's Owner - Main Developer",
-    "lastUpdated": "2026-03-25T07:45:54Z",
-    "stars": 5,
-    "minGameVersion": "155",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe[]\n",
-    "iosCompatible": true
-  },
-  {
     "repo": "huanxefh/lovecraftian-library-java",
     "internalName": "lovec",
     "name": "Lovecraftian Library",
@@ -4009,6 +3996,19 @@
     "hasScripts": true,
     "hasJava": true,
     "description": "A JavaScript library for my other mods, with codes for multi-crafters, recipe dictionary, damage display, etc.\nWell, not 100% JavaScript."
+  },
+  {
+    "repo": "fat-bird-owner/gier-revitalized",
+    "internalName": "gr",
+    "name": "Gier: Revitalized",
+    "author": "Fat Bird's Owner - Main Developer",
+    "lastUpdated": "2026-03-25T12:31:13Z",
+    "stars": 5,
+    "minGameVersion": "155",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe[]\n",
+    "iosCompatible": true
   },
   {
     "repo": "mythril382/self-destruct-core",
@@ -7048,6 +7048,18 @@
     "description": "给逻辑处理器界面里的部分词条添加了中文悬停提示框"
   },
   {
+    "repo": "maincand/mainindustry",
+    "internalName": "mainindustry",
+    "name": "MainIndustry",
+    "author": "MAINCAND",
+    "lastUpdated": "2026-02-12T16:37:19Z",
+    "stars": 2,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "神秘工业"
+  },
+  {
     "repo": "trrestghgytcftgbcxszd/cheatdustry",
     "internalName": "trrestghgytcftgbcxszdcheatdustry",
     "name": "Geriodustry V7",
@@ -7204,18 +7216,6 @@
     "description": "Far, far away from serpulo's sun, we have located a severe anomaly.\n\n    In the absence of a divine body to regulate our world, a thermal anomaly has popped up. \n    A single planet in the outskirts of its system. Initial scans expected a total of 1 joule of thermal energy in the entire object.\n\n    Later scans revealed that while the surface was still below what should be absolute 0, it possesses a warm and ressource rich core.\n\n    Land on it.\n    Survive the frost.\n    Exploit the core."
   },
   {
-    "repo": "m1cxzfw3q/thermal-engineering-java",
-    "internalName": "temod",
-    "name": "Thermal Engineering",
-    "author": "[sky]114514[white]",
-    "lastUpdated": "2026-03-24T13:46:06Z",
-    "stars": 2,
-    "minGameVersion": "155.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\n[blue]=====INFO=========================\n[gold]ThermalEnginerring  [red]0.0.2_A\n[blue]=====DESCRIPTION==================\n[sky]A mindustry Java&Kotlin(JVM) Mod\n一个Mindustry的JVMMod\n"
-  },
-  {
     "repo": "xpdustry/kotlin-runtime",
     "internalName": "kotlin-runtime",
     "name": "KotlinRuntime",
@@ -7226,6 +7226,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A companion mod for Kotlin based mods and plugins."
+  },
+  {
+    "repo": "m1cxzfw3q/thermal-engineering-java",
+    "internalName": "temod",
+    "name": "Thermal Engineering",
+    "author": "[sky]114514[white]",
+    "lastUpdated": "2026-03-25T12:32:32Z",
+    "stars": 2,
+    "minGameVersion": "155.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\n[blue]=====INFO=========================\n[gold]ThermalEnginerring  [red]0.0.2_A\n[blue]=====DESCRIPTION==================\n[sky]A mindustry Java&Kotlin(JVM) Mod\n一个Mindustry的JVMMod\n"
   },
   {
     "repo": "teaeempire/gghv7",
@@ -9122,18 +9134,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Made by a novice mod developer. Adds more content to the player's arsenal. Five types of tanks await your command:\n- [#FFA665]Assault[]\n- [#84F491]Support[]\n- [#BF92F9]Specialist[]\n- [#FF1414]Flame[]\n- [#FFEE00]Shock[]\n\nHeavily inspired by:\n- Eschatologue's 'Unlimited Armament Works'\n- nyuB's (뉴B) 'DuoMod'\n- DedShotGames' 'WOTanks'\n- Anuke's Erekir Tanks\n\nSFX credits to the following games:\n- Terraria\n- Terraria: Calamity Mod\n- Plants vs. Zombies"
-  },
-  {
-    "repo": "maincand/mainindustry",
-    "internalName": "mainindustry",
-    "name": "MainIndustry",
-    "author": "MAINCAND",
-    "lastUpdated": "2026-02-12T16:37:19Z",
-    "stars": 1,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "神秘工业"
   },
   {
     "repo": "urbokie/tankdustry",
@@ -11885,18 +11885,6 @@
     "description": "Semi-realistic iron-based mod. Modifies serpulo progression and vanilla balance."
   },
   {
-    "repo": "efsfse2280/serp-dpstorage",
-    "internalName": "serpdp",
-    "name": "DP storage (serpulo)",
-    "author": "many",
-    "lastUpdated": "2026-03-01T00:54:23Z",
-    "stars": 0,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "DP storage (serpulo)\nall \"datapatcheable\" mature balance proposals/ideas from the channel will (most likely) be here in the form of datapatches.\n\n### Current Balance datapatches;\n- Jehosulas's Rebalance\n- Efsfse's dp testing ground\n\n\n(to add new balance proposals, simply do a PR with the .msav file on github)"
-  },
-  {
     "repo": "azumasoweren/sowie-mod-test-area",
     "internalName": "sorc-test",
     "name": "sowie-mod-test-area",
@@ -12087,5 +12075,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "三角模组2.x半成品"
+  },
+  {
+    "repo": "efsfse2280/serp-dpstorage",
+    "internalName": "serpdp",
+    "name": "DP storage (serpulo)",
+    "author": "many",
+    "lastUpdated": "2026-03-25T12:07:17Z",
+    "stars": 0,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "DP storage (serpulo)\nall \"datapatcheable\" mature balance proposals/ideas from the channel will (most likely) be here in the form of datapatches.\n\n### Current Balance datapatches;\n- Jehosulas's Rebalance\n- Efsfse's dp testing ground\n- Blackberry's Rebalance\n\n\n(to add new balance proposals, simply do a PR with the .msav file on github)"
   }
 ]
