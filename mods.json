@@ -233,7 +233,7 @@
     "name": "Frozen Farlands",
     "author": "[#3bdbff]CY4N[white] & [#11d41e]Zielony Trójkąt[white]",
     "lastUpdated": "2025-11-18T16:58:21Z",
-    "stars": 87,
+    "stars": 88,
     "minGameVersion": "143.1",
     "hasScripts": true,
     "hasJava": false,
@@ -244,7 +244,7 @@
     "internalName": "aquarion",
     "name": "aquarion",
     "author": "twcash",
-    "lastUpdated": "2026-03-25T00:30:22Z",
+    "lastUpdated": "2026-03-25T20:14:58Z",
     "stars": 86,
     "minGameVersion": "155.4",
     "hasScripts": false,
@@ -1681,18 +1681,6 @@
     "description": "OP Things is a mod that makes the game easier, but isn't a hack.\n\n[#FF0000]WARNING: A lot of the mod things are just some shit. See more on readme.md on github"
   },
   {
-    "repo": "suenodev/sueno",
-    "internalName": "sueno",
-    "name": "Sueno",
-    "author": "// TODO authors",
-    "lastUpdated": "2025-11-03T18:19:07Z",
-    "stars": 13,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Sueno is a modification that allows you to go to a new planet with unique temperature mechanics"
-  },
-  {
     "repo": "andashikkozlov/thezsia-revival",
     "internalName": "thezsia1",
     "name": "Thezsia Revival",
@@ -1739,6 +1727,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "内容包编辑器 在 地图编辑器-> 地图信息->内容包编辑器 中打开内容包管理器"
+  },
+  {
+    "repo": "suenodev/sueno",
+    "internalName": "sueno",
+    "name": "Sueno",
+    "author": "// TODO authors",
+    "lastUpdated": "2026-03-25T19:26:48Z",
+    "stars": 13,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Sueno is a modification that allows you to go to a new planet with unique temperature mechanics"
   },
   {
     "repo": "r-omnom/z.p.g.m._mod",
@@ -2261,7 +2261,7 @@
     "internalName": "astralis",
     "name": "Astralis",
     "author": "NV-NX, Haznobrain (FULL CREDITS IN DESC.)",
-    "lastUpdated": "2026-03-25T18:30:09Z",
+    "lastUpdated": "2026-03-25T19:06:21Z",
     "stars": 10,
     "minGameVersion": "155.3",
     "hasScripts": false,
@@ -2387,6 +2387,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Для работы на сервере нужен плагин: https://github.com/MindustryInside/JSEval\nи админ"
+  },
+  {
+    "repo": "cyanide863/arikoth",
+    "internalName": "arikoth",
+    "name": "Arikoth",
+    "author": "Hyperium\n\ncontributors:\nSh1penfire\nLao_Hua-Ji",
+    "lastUpdated": "2025-12-16T10:59:48Z",
+    "stars": 9,
+    "minGameVersion": "150",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Arikoth mod, wip."
   },
   {
     "repo": "7003mars/pic2tri",
@@ -2603,18 +2615,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Have you ever wondered what a drug overdose feels like? well lo and behold: the only mod made exclusively by uncontrolled autism\n\n  Featuring such fun features as: Novanox's evil microwave, NUCLEAR BOMBS, map where you can't defend against t1 air units, etc.\n\nIF YOU MAKE A MAP THAT IS *SOMEWHAT* BAREABLE, GO JUMP INTO A SLAG POOL, WE DONT DO THIS STUFF HERE.\n\n  We have 4 tiers of units, 8 turrets, and more laggy shit than your potato can handle. Because here at hell industries, we have 1 objective:\n    MAKE IT RAIN PAIN\n  if you complain that this mod is stupid congrats: you've proven we have done our job well and your soul is now scheduled for harvesting\nGo drill yourself!\nalso we have a discord server now: https://discord.gg/SUrhQKU2dw\nOnly at hell industries, home of the meanest sons of units in the interplanetary denomination of Erekir! GUARANTEED!"
-  },
-  {
-    "repo": "cyanide863/arikoth",
-    "internalName": "arikoth",
-    "name": "Arikoth",
-    "author": "Hyperium\n\ncontributors:\nSh1penfire\nLao_Hua-Ji",
-    "lastUpdated": "2025-12-16T10:59:48Z",
-    "stars": 8,
-    "minGameVersion": "150",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Arikoth mod, wip."
   },
   {
     "repo": "7003mars/bridges",
@@ -3114,7 +3114,7 @@
     "internalName": "deepsea",
     "name": "Project: Deep Sea (Alpha)",
     "author": "Authors: \n [#ffd469]Sputnuc - main creator[white] \n [#ffb969]AnDashik - co-creator[white] \n [#ff3d61]Skifor - SFX designer[white]",
-    "lastUpdated": "2026-03-25T17:20:01Z",
+    "lastUpdated": "2026-03-25T19:21:50Z",
     "stars": 7,
     "minGameVersion": "154.3",
     "hasScripts": false,
@@ -3420,6 +3420,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\n  A mod that allows you to create browser windows directly in the game.\nYou can interact with them, they process clicks, and you can watch videos, read articles, or just play games.\n[red]Warning! Be prepared for the fact that some sites may not be supported, and some games may not work due to capture features.\n[scarlet]Although the mod supports Android devices, there is no guarantee that they will work stably. A different API is used to support Android, as they do not support JCEF.\n[stat]The mod can support servers, but a plugin is required for this. Request it from Ion - 7274 (Discord: koctz34). (I will probably release the plugin file along with updates soon).\n[scarlet]This mod does not working on Linux and MacOS.[]\n  "
+  },
+  {
+    "repo": "xavierisdeadasheck15/interstellar-spaceline",
+    "internalName": "interstellar-spaceline",
+    "name": "Interstellar Spaceline",
+    "author": "Creator: Xavierlazymahn8",
+    "lastUpdated": "2026-03-19T08:17:48Z",
+    "stars": 6,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A Cultivation of Mod Project i made, And the Predecessor of Lasertech Mod, this Mod Focus on the Inspiration of TDX, Helldiver 2, and More"
   },
   {
     "repo": "huanxefh/lovecraftian-laboratory",
@@ -3960,18 +3972,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#90DBFF]Vanilla Expansion原版扩展[white]的蓝图附属模组\nschematics add‑on for the [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组主要收录并优化了来自VE模组交流群的一些蓝图，旨在让玩家能更方便地使用。\nThis pack collects and optimizes community schematics to make them easier for players to import and use.\n\n感谢所有为本合集贡献并参与测试的成员！\nThank you to everyone who contributed and helped test the pack!\n\n[accent]最后更新 / Last updated: 2026-03-14[white]"
-  },
-  {
-    "repo": "xavierisdeadasheck15/interstellar-spaceline",
-    "internalName": "interstellar-spaceline",
-    "name": "Interstellar Spaceline",
-    "author": "Creator: Xavierlazymahn8",
-    "lastUpdated": "2026-03-19T08:17:48Z",
-    "stars": 5,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A Cultivation of Mod Project i made, And the Predecessor of Lasertech Mod, this Mod Focus on the Inspiration of TDX, Helldiver 2, and More"
   },
   {
     "repo": "kosmofrog/planet-vulcanum",
@@ -12081,11 +12081,11 @@
     "internalName": "chat-translator",
     "name": "Chat Translator",
     "author": "Yelandaokong",
-    "lastUpdated": "2026-03-25T18:37:35Z",
+    "lastUpdated": "2026-03-25T20:15:28Z",
     "stars": 0,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
-    "description": "A Mindustry chat translator mod."
+    "description": "In-game chat translator for Mindustry."
   }
 ]
