@@ -689,7 +689,7 @@
     "internalName": "azimut",
     "name": "Azimuth",
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-03-26T07:40:34Z",
+    "lastUpdated": "2026-03-26T09:36:27Z",
     "stars": 33,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -737,7 +737,7 @@
     "internalName": "carpe-diem",
     "name": "Carpe Diem",
     "author": "Nullotte",
-    "lastUpdated": "2026-03-25T00:58:24Z",
+    "lastUpdated": "2026-03-26T09:31:49Z",
     "stars": 31,
     "minGameVersion": "155.4",
     "hasScripts": false,
@@ -913,6 +913,18 @@
     "description": "Project viscott is a mindustry mod that adds a \nnew Planet to the campaign, Vercilus, and gives the player a new and unique gameplay experience \n\nThis mod is still in development. \n Expect it to have some slight balancing issues"
   },
   {
+    "repo": "00sunray00/scheme-size-port",
+    "internalName": "scheme-size",
+    "name": "Scheme Size Port",
+    "author": "xzxADIxzx\nPort: 00SunRay00",
+    "lastUpdated": "2026-02-18T09:41:06Z",
+    "stars": 24,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nThis mod is not the original port of Scheme Size — it is a custom port. The developer of the original mod is not involved in this in any way.\n!!!ATTENTION: VERSIONS BELOW v154 ARE NOT SUPPORTED!!!\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Copy Link and Join\n   - Rule setter\n"
+  },
+  {
     "repo": "mindustrydagger/vanillaplus",
     "internalName": "vanillaplus",
     "name": "VanillaPlus",
@@ -935,18 +947,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mindustry mod library which provides support for non-square blocks implementation for json mod."
-  },
-  {
-    "repo": "00sunray00/scheme-size-port",
-    "internalName": "scheme-size",
-    "name": "Scheme Size Port",
-    "author": "xzxADIxzx\nPort: 00SunRay00",
-    "lastUpdated": "2026-02-18T09:41:06Z",
-    "stars": 23,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nThis mod is not the original port of Scheme Size — it is a custom port. The developer of the original mod is not involved in this in any way.\n!!!ATTENTION: VERSIONS BELOW v154 ARE NOT SUPPORTED!!!\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Copy Link and Join\n   - Rule setter\n"
   },
   {
     "repo": "realshizi/oxynoe",
@@ -2257,6 +2257,18 @@
     "description": "​操作中にSDキャラを表示する機能を追加、Added a function to display chibi during operation (and router) a lot of updates coming"
   },
   {
+    "repo": "tyt-xexebe/qol-control",
+    "internalName": "qol-control",
+    "name": "QoL Control",
+    "author": "TyTxexebe",
+    "lastUpdated": "2026-03-25T18:20:57Z",
+    "stars": 10,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A lot of useful & QoL features\ntype !qol <cmd?> in chat to get more info\n\nyou can add your mlog codes in Mindustry directory /files/qol/mlog/ to use them with !mlog\n\nyou can add your regex in Mindustry directory /files/qol/mlog/regex.json to use it in !detector\n\nmore detailed mod info on github page, please give me a star :>\n\ndiscord: @tytxexebe"
+  },
+  {
     "repo": "novanox4/astralis",
     "internalName": "astralis",
     "name": "Astralis",
@@ -2435,18 +2447,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds New sector, units and buildings to the game, all zerg flavored.\nWhat does this mod offer?\n - Hardmode and normal mode \n - Campain map for serpulo\n - Possibly a new planet?\n - A bunch of zerggy unit and structure\n - Lore\nRemember to star the mod on github if you enjoy it!"
-  },
-  {
-    "repo": "tyt-xexebe/qol-control",
-    "internalName": "qol-control",
-    "name": "QoL Control",
-    "author": "TyTxexebe",
-    "lastUpdated": "2026-03-25T18:20:57Z",
-    "stars": 9,
-    "minGameVersion": "154",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A lot of useful & QoL features\ntype !qol <cmd?> in chat to get more info\n\nyou can add your mlog codes in Mindustry directory /files/qol/mlog/ to use them with !mlog\n\nyou can add your regex in Mindustry directory /files/qol/mlog/regex.json to use it in !detector\n\nmore detailed mod info on github page, please give me a star :>\n\ndiscord: @tytxexebe"
   },
   {
     "repo": "toriwake/kannadustry",
@@ -11657,18 +11657,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "penguip/sentinel-texts",
-    "internalName": "mindustry but i ruined it",
-    "name": "Sentinel-texts",
-    "author": "penguip",
-    "lastUpdated": "2026-01-18T01:02:15Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A."
-  },
-  {
     "repo": "beginnerexe/kpalette",
     "internalName": "kpalette",
     "name": "Kanj's Palette Mod",
@@ -12087,5 +12075,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "In-game chat translator for Mindustry."
+  },
+  {
+    "repo": "penguip/sentinel-texts",
+    "internalName": "mindustry but i ruined it",
+    "name": "Sentinel-texts",
+    "author": "penguip",
+    "lastUpdated": "2026-03-26T09:36:38Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A."
   }
 ]
