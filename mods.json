@@ -5,7 +5,7 @@
     "name": "New Horizon",
     "author": "Yuria & Lao",
     "lastUpdated": "2026-03-26T15:42:14Z",
-    "stars": 555,
+    "stars": 556,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
@@ -125,7 +125,7 @@
     "name": "Omaloon",
     "author": "stabu, uujuju",
     "lastUpdated": "2026-03-25T23:37:02Z",
-    "stars": 131,
+    "stars": 132,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -889,6 +889,18 @@
     "description": "Mod that added things that should be in the original game and some are just added for convenience sake\n\nFrench translation by Noxenemerus Lunacor"
   },
   {
+    "repo": "00sunray00/scheme-size-port",
+    "internalName": "scheme-size",
+    "name": "Scheme Size Port",
+    "author": "xzxADIxzx\nPort: 00SunRay00",
+    "lastUpdated": "2026-02-18T09:41:06Z",
+    "stars": 25,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nThis mod is not the original port of Scheme Size — it is a custom port. The developer of the original mod is not involved in this in any way.\n!!!ATTENTION: VERSIONS BELOW v154 ARE NOT SUPPORTED!!!\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Copy Link and Join\n   - Rule setter\n"
+  },
+  {
     "repo": "bsp-2/echo-fleet",
     "internalName": "echo-fleet",
     "name": "Echo Fleet",
@@ -911,18 +923,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Project viscott is a mindustry mod that adds a \nnew Planet to the campaign, Vercilus, and gives the player a new and unique gameplay experience \n\nThis mod is still in development. \n Expect it to have some slight balancing issues"
-  },
-  {
-    "repo": "00sunray00/scheme-size-port",
-    "internalName": "scheme-size",
-    "name": "Scheme Size Port",
-    "author": "xzxADIxzx\nPort: 00SunRay00",
-    "lastUpdated": "2026-02-18T09:41:06Z",
-    "stars": 24,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nThis mod is not the original port of Scheme Size — it is a custom port. The developer of the original mod is not involved in this in any way.\n!!!ATTENTION: VERSIONS BELOW v154 ARE NOT SUPPORTED!!!\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Copy Link and Join\n   - Rule setter\n"
   },
   {
     "repo": "mindustrydagger/vanillaplus",
@@ -1177,6 +1177,18 @@
     "description": "Randomizes almost everything!\nJoin our discord! https://discord.gg/ztC6WJUxZK\n\nEPILEPSY WARNING"
   },
   {
+    "repo": "hungrycloud4913/esocatalyst",
+    "internalName": "esocatalyst",
+    "name": "Esocatalyst",
+    "author": "HunNimbus",
+    "lastUpdated": "2025-10-19T15:56:01Z",
+    "stars": 19,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Please leave a star on Github, It lets me know you enjoy the mod.\n\nCredits to everyone who helped even in the slightest bit ever,\n\nDiscord Helpers: \n           mindustridiot_06647 - Unit suggestions and unit FX work, \n           /////\n           cy4nide0165 - Railhammer unit FX work and suggestions, \n           /////\n           Elysia - A couple spare sprites given because he didn't need them, \n           /////\n           display_namer - Small coding help for animated items and liquids\n           /////\n           Aureus - Helping me understand tank treads by a tiny margin"
+  },
+  {
     "repo": "itzcraft/hjsonpp",
     "internalName": "hjsonpp",
     "name": "hjson++",
@@ -1211,18 +1223,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "This a mod that can show the hidden item of the item bridge."
-  },
-  {
-    "repo": "hungrycloud4913/esocatalyst",
-    "internalName": "esocatalyst",
-    "name": "Esocatalyst",
-    "author": "HunNimbus",
-    "lastUpdated": "2025-10-19T15:56:01Z",
-    "stars": 18,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Please leave a star on Github, It lets me know you enjoy the mod.\n\nCredits to everyone who helped even in the slightest bit ever,\n\nDiscord Helpers: \n           mindustridiot_06647 - Unit suggestions and unit FX work, \n           /////\n           cy4nide0165 - Railhammer unit FX work and suggestions, \n           /////\n           Elysia - A couple spare sprites given because he didn't need them, \n           /////\n           display_namer - Small coding help for animated items and liquids\n           /////\n           Aureus - Helping me understand tank treads by a tiny margin"
   },
   {
     "repo": "mindustrydesignit/schematic-browser-mod",
@@ -2569,18 +2569,6 @@
     "description": "A mod that adds logic components to the game, such as logic gates, wires and more."
   },
   {
-    "repo": "electricgun/video-to-logic",
-    "internalName": "v2logic",
-    "name": "Video to Logic",
-    "author": "ElectricGun",
-    "lastUpdated": "2025-08-09T13:41:40Z",
-    "stars": 8,
-    "minGameVersion": "138",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "[red]THIS MOD HAS NO GUI\nPLEASE READ THE MOD'S GITHUB PAGE FOR THE TUTORIAL ON HOW TO USE THIS \n\nREQUIRES: electricgun/message-block-commands \n\n This mod allows for the creation of vanilla logic gif schematics"
-  },
-  {
     "repo": "haznobrain/hell-industries",
     "internalName": "hell-industries",
     "name": "Hell Industries",
@@ -3792,18 +3780,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "The mod of fight 4 colors"
-  },
-  {
-    "repo": "dsfdsfwxp/savemaster",
-    "internalName": "savemaster",
-    "name": "saveMaster",
-    "author": "dsfwxp",
-    "lastUpdated": "2025-04-25T13:54:31Z",
-    "stars": 5,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod that provide you with some ways to manage your saves. More details see our github repo."
   },
   {
     "repo": "cyberneticsquid/self-destruct",
@@ -11081,18 +11057,6 @@
     "description": "Disables the ability to rotate turrets introduced in build 152.\n\n[gold]⚠ Works on vanilla turrets only!\nMultiplayer support may be janky, but it works.[]"
   },
   {
-    "repo": "lymefyre/varietal-void",
-    "internalName": "variatal void",
-    "name": "Variatal Void",
-    "author": "Incen",
-    "lastUpdated": "2025-10-11T15:11:48Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds a variety of new content. Currently unfinished, expect bugs and report them to @incendiarytoaster on discord. Mod discontinued."
-  },
-  {
     "repo": "redeagle0705/titanium-is-not-lead",
     "internalName": "redeagle0705-titanium-is-not-lead",
     "name": "titanium-is-not-lead",
@@ -11811,18 +11775,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds an auto doors for Serpulo.\n\nAvailable languages: English, Russian, Ukrainian.\n\nAuthors:\nSmokeMachine (RealSlave) — hjson, sprites, EN_US localization, RU localization.\nNoti — UA localization."
-  },
-  {
-    "repo": "darkdustry-coders/mindurkacompatv7",
-    "internalName": "mindurkacompat",
-    "name": "MindurkaCompat",
-    "author": "buj",
-    "lastUpdated": "2026-03-22T08:27:09Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mod that adds extra compatibility with Mindurka"
   },
   {
     "repo": "salivion/extended-ui",
