@@ -877,6 +877,18 @@
     "description": "RU: Очень опасный мод, который влияет на баланс и механику игры, добавляет новый контент в виде статус эффектов и оборонительных сооружений (башен, мин и т.д.).\n\nРекомендуется перед установкой сделать сохранение (чтобы откатиться назад), если в случае вам не понравится то, что может сделать данный мод. И лучше в самом деле не рискуйте лишний раз и поверьте на слово: МОД. МЕНЯЕТ. МНОГОЕ.\n\n\n\nENG: A very dangerous mod that affects the balance and mechanics of the game, adds new content in the form of status effects and defensive structures (towers, mines, etc.).\n\n\nPreferably before installing make a save (to roll back), if in case you do not like what this mod can do. And it is better to really do not take unnecessary risks and take my word for it: MOD. CHANGES. EVERYTHING.\n\nmov mod testers:\n- eve_light."
   },
   {
+    "repo": "00sunray00/scheme-size-port",
+    "internalName": "scheme-size",
+    "name": "Scheme Size Port",
+    "author": "xzxADIxzx\nPort: 00SunRay00",
+    "lastUpdated": "2026-02-18T09:41:06Z",
+    "stars": 26,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nThis mod is not the original port of Scheme Size — it is a custom port. The developer of the original mod is not involved in this in any way.\n!!!ATTENTION: VERSIONS BELOW v154 ARE NOT SUPPORTED!!!\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Copy Link and Join\n   - Rule setter\n"
+  },
+  {
     "repo": "ballgamer56/vanillaextended",
     "internalName": "vanilla extended",
     "name": "VanillaExtended",
@@ -887,18 +899,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Mod that added things that should be in the original game and some are just added for convenience sake\n\nFrench translation by Noxenemerus Lunacor"
-  },
-  {
-    "repo": "00sunray00/scheme-size-port",
-    "internalName": "scheme-size",
-    "name": "Scheme Size Port",
-    "author": "xzxADIxzx\nPort: 00SunRay00",
-    "lastUpdated": "2026-02-18T09:41:06Z",
-    "stars": 25,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nThis mod is not the original port of Scheme Size — it is a custom port. The developer of the original mod is not involved in this in any way.\n!!!ATTENTION: VERSIONS BELOW v154 ARE NOT SUPPORTED!!!\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Copy Link and Join\n   - Rule setter\n"
   },
   {
     "repo": "bsp-2/echo-fleet",
@@ -3954,7 +3954,7 @@
     "internalName": "gr",
     "name": "Gier: Revitalized",
     "author": "Fat Bird's Owner - Main Developer",
-    "lastUpdated": "2026-03-27T06:46:56Z",
+    "lastUpdated": "2026-03-27T08:59:24Z",
     "stars": 5,
     "minGameVersion": "155",
     "hasScripts": true,
@@ -5564,7 +5564,7 @@
     "internalName": "futurehorizons",
     "name": "Future Horizons",
     "author": "Chuvaak",
-    "lastUpdated": "2026-03-27T08:27:07Z",
+    "lastUpdated": "2026-03-27T08:36:20Z",
     "stars": 3,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -9173,18 +9173,6 @@
     "description": "Real-time speed control for Mindustry. Customize speed limits and reset instantly with a clean UI."
   },
   {
-    "repo": "xpdustry/slf4md",
-    "internalName": "slf4md",
-    "name": "SLF4MD",
-    "author": "xpdustry",
-    "lastUpdated": "2026-03-24T18:18:38Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A basic SLF4J implementation for Mindustry."
-  },
-  {
     "repo": "poiu-y/mindustry-ich-mod",
     "internalName": "ich-mod",
     "name": "Ich",
@@ -9207,6 +9195,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Makes item and liquid teleport in a huge range! 4 cheat-grade 1x1 transport blocks.\n  Update: fix auto rebuild when destroying blocks."
+  },
+  {
+    "repo": "xpdustry/slf4md",
+    "internalName": "slf4md",
+    "name": "SLF4MD",
+    "author": "xpdustry",
+    "lastUpdated": "2026-03-27T10:03:11Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A basic SLF4J implementation for Mindustry."
   },
   {
     "repo": "exxleo/exoterusmod",
