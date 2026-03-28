@@ -88,7 +88,7 @@
     "internalName": "mindustry-tool",
     "name": "Mindustry Tool",
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2026-03-28T15:15:34Z",
+    "lastUpdated": "2026-03-28T18:03:36Z",
     "stars": 196,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -473,9 +473,9 @@
     "internalName": "he",
     "name": "Helium",
     "author": "EBwilson",
-    "lastUpdated": "2026-03-24T11:49:16Z",
+    "lastUpdated": "2026-03-28T16:49:01Z",
     "stars": 47,
-    "minGameVersion": "154",
+    "minGameVersion": "156",
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod provide optimized ui and more utilities.\nMajor features:\n- ***In-Game Entity Information Components***: Provides various UI elements for game entities including units and blocks\n- ***Health & Status Indicators***: Displays real-time status (health, shields) above units and entities. When shield stacks exceed max health, multi-layer shields with stack counters are shown.\n- ***Attack Range Indicators***: Units and turrets now visualize their attack ranges as translucent areas. Processed boundaries emphasize combined team range contours to prevent visual clutter, with subtle pulsating animations and chromatic borders.\n- ***Functional Block Effect Range Indicators***: Devices like Mend Projectors, Overdrive Projectors, and unit repair stations display effect ranges with distinctive colors.\n- ***Enhanced Block Placement Panel***: A refined block selection panel integrating a quick item bar and standardized tool buttons.\n- ***The better Mod Manager and Mod Browser***: Reworked the Mods Manager and Mods Browser, now they looks more aesthetically pleasing and functional"
@@ -637,6 +637,18 @@
     "description": "\nRU\nМод добавляет огромное количество схем для разных направлений и времени игры.\n\nENG\nMod adds a lot of schemes for different directions and time.\n\nUA\nМод додає велику кількість схем для різноманітних напрямків та часу гри.\n"
   },
   {
+    "repo": "i-hope1/mod-tools",
+    "internalName": "mod-tools",
+    "name": "mod-tools",
+    "author": "I hope...",
+    "lastUpdated": "2026-03-28T14:57:45Z",
+    "stars": 37,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod provides various tools for modding.\n\n-----------------\nVersion 1.5.8\n## Highlight\n1. 继续完善HotSwap（Preview）\n2. 修复大量的bug\n- 修复配置文件的格式化问题\n- 修复ValueLabel的对齐不对，分隔符不对等大量问题\n3. 其他的一些优化\n\n-----------------\nWIKI: https://i-hope1.github.io/mod-tools"
+  },
+  {
     "repo": "coaldeficit/moredefences",
     "internalName": "md3",
     "name": "MoreDefences",
@@ -647,18 +659,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod made by CD, meowkitty and 7rodo that features:\n- A new planet.\n- LOTS of new Serpulo content such as units, turrets, sectors, etc.\n- Many changes to existing Serpulo content.\n- Some new erekir content.\n- Cross-mod content with a couple few mods.\n- FULL Multiplayer and Android compatibility.\n- Extra minor additions.\n\nDiscord: https://discord.gg/9YHA3q8HHq"
-  },
-  {
-    "repo": "i-hope1/mod-tools",
-    "internalName": "mod-tools",
-    "name": "mod-tools",
-    "author": "I hope...",
-    "lastUpdated": "2026-03-28T14:57:45Z",
-    "stars": 36,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod provides various tools for modding.\n\n-----------------\nVersion 1.5.8\n## Highlight\n1. 继续完善HotSwap（Preview）\n2. 修复大量的bug\n- 修复配置文件的格式化问题\n- 修复ValueLabel的对齐不对，分隔符不对等大量问题\n3. 其他的一些优化\n\n-----------------\nWIKI: https://i-hope1.github.io/mod-tools"
   },
   {
     "repo": "itskirby69/minedusty",
@@ -2245,18 +2245,6 @@
     "description": "​操作中にSDキャラを表示する機能を追加、Added a function to display chibi during operation (and router) a lot of updates coming"
   },
   {
-    "repo": "novanox4/astralis",
-    "internalName": "astralis",
-    "name": "Astralis",
-    "author": "NV-NX, Haznobrain (FULL CREDITS IN DESC.)",
-    "lastUpdated": "2026-03-27T20:47:54Z",
-    "stars": 10,
-    "minGameVersion": "155.3",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Work in progress hjson campaign mod that plans to add a new planet with a full camapign. This is a remake of a previous mod of mine bearing the same name.\n\nAstralis is a mod which aims to add a new planet with unique gameplay mechanics (world processors go brrr), that will also do everything possible to give you as much pain as possible.\n\nThe difficulty spike is vertical. Intended for people familiar with mindustry/mindustry mods.\n\nNot reccomended on low end devices!\n\nCREDITS:\n\nNV-NX - Main dev and spriter\nHaznobrain - Occasional sprite and code help. Making music.\n"
-  },
-  {
     "repo": "tyt-xexebe/qol-control",
     "internalName": "qol-control",
     "name": "QoL Control",
@@ -2267,6 +2255,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A lot of useful & QoL features\ntype !qol <cmd?> in chat to get more info\n\nyou can add your mlog codes in Mindustry directory /files/qol/mlog/ to use them with !mlog\n\nyou can add your regex in Mindustry directory /files/qol/mlog/regex.json to use it in !detector\n\nmore detailed mod info on github page, please give me a star :>\n\ndiscord: @tytxexebe"
+  },
+  {
+    "repo": "novanox4/astralis",
+    "internalName": "astralis",
+    "name": "Astralis",
+    "author": "NV-NX, Haznobrain (FULL CREDITS IN DESC.)",
+    "lastUpdated": "2026-03-28T18:13:45Z",
+    "stars": 10,
+    "minGameVersion": "155.3",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Work in progress hjson campaign mod that plans to add a new planet with a full camapign. This is a remake of a previous mod of mine bearing the same name.\n\nAstralis is a mod which aims to add a new planet with unique gameplay mechanics (world processors go brrr), that will also do everything possible to give you as much pain as possible.\n\nThe difficulty spike is vertical. Intended for people familiar with mindustry/mindustry mods.\n\nNot reccomended on low end devices!\n\nCREDITS:\n\nNV-NX - Main dev and spriter\nHaznobrain - Occasional sprite and code help. Making music.\n"
   },
   {
     "repo": "thcworkshopcn/thc-industry",
@@ -9225,7 +9225,7 @@
     "internalName": "item-liquid-teleport",
     "name": "Item Liquid Teleport",
     "author": "namds666 & Claude Code",
-    "lastUpdated": "2026-03-28T16:14:20Z",
+    "lastUpdated": "2026-03-28T17:48:17Z",
     "stars": 1,
     "minGameVersion": "146",
     "hasScripts": true,
