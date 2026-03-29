@@ -5,7 +5,7 @@
     "name": "New Horizon",
     "author": "Yuria & Lao",
     "lastUpdated": "2026-03-26T15:42:14Z",
-    "stars": 556,
+    "stars": 557,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
@@ -917,7 +917,7 @@
     "internalName": "echo-fleet",
     "name": "Echo Fleet",
     "author": "Dev - Blehhhh cat\nContributors - Kamikazefoxmk.i, Tinport, Aerodynamic Attorney \nMusic Composer - Ace1020spawn",
-    "lastUpdated": "2026-03-29T12:43:10Z",
+    "lastUpdated": "2026-03-29T15:21:38Z",
     "stars": 25,
     "minGameVersion": "153",
     "hasScripts": true,
@@ -1105,6 +1105,18 @@
     "description": "My new planet mod!"
   },
   {
+    "repo": "apszoldat/mindustrymappingutilities",
+    "internalName": "mapping-utilities",
+    "name": "Mapping Utilities",
+    "author": "ApsZoldat",
+    "lastUpdated": "2025-04-13T16:23:03Z",
+    "stars": 20,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "> This is an enhanced remake of old Mapping Utilities, however, it's WIP, so it has way less features yet. Currently i am trying to implement some acceptable old mod's features into vanilla through pull requests, but the all the controversial features and bypasses will remain a part of this mod.\n\n\nSmall Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\n\nImprovements:\n\n- More Rules Available\n- Planet Background Editing\n- Map Size bypass\n\n\nCheck README.md in GitHub repo for more detailed information about these features\n\n! Work In Progress !\nMore map making tools will be added in future"
+  },
+  {
     "repo": "itzcraft/xanthia",
     "internalName": "xanthia-3",
     "name": "Xanthia",
@@ -1151,18 +1163,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds hard new planet with unique content and new mechanics"
-  },
-  {
-    "repo": "apszoldat/mindustrymappingutilities",
-    "internalName": "mapping-utilities",
-    "name": "Mapping Utilities",
-    "author": "ApsZoldat",
-    "lastUpdated": "2025-04-13T16:23:03Z",
-    "stars": 19,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "> This is an enhanced remake of old Mapping Utilities, however, it's WIP, so it has way less features yet. Currently i am trying to implement some acceptable old mod's features into vanilla through pull requests, but the all the controversial features and bypasses will remain a part of this mod.\n\n\nSmall Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\n\nImprovements:\n\n- More Rules Available\n- Planet Background Editing\n- Map Size bypass\n\n\nCheck README.md in GitHub repo for more detailed information about these features\n\n! Work In Progress !\nMore map making tools will be added in future"
   },
   {
     "repo": "sporrus/randommindustry",
@@ -1333,6 +1333,18 @@
     "description": "A library mod for rendering black holes."
   },
   {
+    "repo": "430230562/vanilla-neoplasm-extend",
+    "internalName": "vne",
+    "name": "原版瘤液拓展",
+    "author": "pardon",
+    "lastUpdated": "2026-03-28T11:20:55Z",
+    "stars": 17,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "你是否觉得原版瘤液的用途,在矿渣池中焚毁,过于单一;如此富有生物活性的材料应该还有有别的用途:作为弹药,合成新材料,甚至是组建自己的生物军队...请尽情发挥你的想象.\n\n什么？你已经等不及了吗？那么就让我们开启这趟血淋淋的旅途吧"
+  },
+  {
     "repo": "mnemotechnician/new-controls-public",
     "internalName": "newcontrols",
     "name": "New controls",
@@ -1403,18 +1415,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "BETA sandbox only! requires blackhole render by meep of faith"
-  },
-  {
-    "repo": "430230562/vanilla-neoplasm-extend",
-    "internalName": "vne",
-    "name": "原版瘤液拓展",
-    "author": "pardon",
-    "lastUpdated": "2026-03-28T11:20:55Z",
-    "stars": 16,
-    "minGameVersion": "154",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "你是否觉得原版瘤液的用途,在矿渣池中焚毁,过于单一;如此富有生物活性的材料应该还有有别的用途:作为弹药,合成新材料,甚至是组建自己的生物军队...请尽情发挥你的想象.\n\n什么？你已经等不及了吗？那么就让我们开启这趟血淋淋的旅途吧"
   },
   {
     "repo": "yuria-shikibe/gameinfoimager",
@@ -1565,12 +1565,12 @@
     "internalName": "rospule",
     "name": "「Rospule」",
     "author": "[#908bdc]Sun[#8982ed]ken[#6d72af]Mel[#535a9c]ody[#c5cbff]♫",
-    "lastUpdated": "2026-03-20T09:15:15Z",
+    "lastUpdated": "2026-03-29T16:15:13Z",
     "stars": 14,
-    "minGameVersion": "155",
+    "minGameVersion": "156",
     "hasScripts": false,
     "hasJava": false,
-    "description": "\r\nThis is a [unlaunched]personal[white] Serpulo campaign rework map pack , alongside with personal [sky]minor rebalancing[white] on certain blocks or units.\r\n\r\nThis mod's gameplay is based on [sky]NORMAL[white] difficulty and cannot be changed.\r\n\r\nThis mod contains [sky]35+[white] levels from the very basic to completed tech tree contents , notice the tech tree nodes are [unlaunched]rearranged[white] for each level to unlock.\r\n\r\nAll maps in this mod(map pack) follow [accent]CC BY-SA 4.0 License[white] (All works are free to use but you must keep the original author, me , sunkenmelody's name).\r\n\r\nAll maps are created under Serpulo environment and are [#c5cbff]vanilla compatible on terrain , wavesets and most contents[white].\r\n\r\n\r\n\r\n[#c5cbff]Have fun[white].\r\nUpdate log: V0.3-- Stage 4-1 to Stage 4-5 added.\r\n\r\n\r\nMod by [#908bdc]Sun[#8982ed]ken[#6d72af]Mel[#535a9c]ody[#c5cbff]♫.\r\n\r\n--Credits--\r\n[#cccccc]Coding:Everdusk22\r\nSector icon:Seabed\r\nMusic selection:しかみど☆\r\nLocalization(zh_CN):仄井心升\r\n"
+    "description": "\r\nA [unlaunched]personal[white] Serpulo campaign rework map pack with personal [sky]minor rebalancing[white] on few blocks.\r\nThis mod's gameplay is based on [sky]NORMAL[white] difficulty and cannot be changed.\r\nContains [sky]40+[white] sectors!\r\nAll maps are created under Serpulo environment and are [#c5cbff]vanilla compatible on terrain , wavesets and most contents[white].\r\n\r\n[#c5cbff]Have fun[white].\r\n\r\n\r\n\r\nUpdate log: V0.4-- Stage 4-6 to Stage 4-10 added.\r\n\r\n--Credits--\r\n[#cccccc]Coding:Everdusk22\r\nSector icon:Seabed\r\nMusic selection:しかみど☆\r\nBundle Polish:Gort\r\nLocalization(zh_CN):仄井心升\r\n"
   },
   {
     "repo": "shadowpazzo99/shadowdustry",
@@ -2485,18 +2485,6 @@
     "description": "Don't starve is available in Mindustry now!"
   },
   {
-    "repo": "willoizcitron/siuuu",
-    "internalName": "siuuu",
-    "name": "siuuu",
-    "author": "Willoizcitron",
-    "lastUpdated": "2024-05-15T12:10:52Z",
-    "stars": 8,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Siuuuuu - Cristiano Ronaldo. if you enjoy this mod, star pls"
-  },
-  {
     "repo": "jacobr743/schemepack",
     "internalName": "schemepack",
     "name": "SchemePack",
@@ -2543,18 +2531,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\nWARNING: For Ukrainian language only.\n\nModification for translation testing. Can be used for an example testing bundles and for testing a new Ukrainian translation. Developed in Ukraine.\nSupports v7 only.\n\nDiscord for Ukrainian speaking: https://discord.gg/VDjWyCssvP\n\n----------------------------------------\n\nПОПЕРЕДЖЕННЯ: Лише для української мови.\n\nМодифікація для тестування перекладів. Можете використовувати задля прикладу і задля тестування нового українського перекладу. Розроблено в Україні.\nПідтримує тільки v7.\n\nDiscord для українськомовних: https://discord.gg/VDjWyCssvP"
-  },
-  {
-    "repo": "silinveredno/newhorizonmod-schematics",
-    "internalName": "nh-scheme-pack",
-    "name": "New Horizon schematics pack",
-    "author": "Silin Veredno",
-    "lastUpdated": "2025-03-15T10:00:31Z",
-    "stars": 8,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\nRU\nМод добавляет Схемы для модификации New Horizon. Тег: +\n\nENG\nThe mod adds Schematics for the New Horizon modification. Tag: +\nMy Discord: silinveredno_edmstep\n"
   },
   {
     "repo": "mythril382/thisthing",
@@ -2867,6 +2843,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds [orange]Blastanium[white], a compound of Blast Compound and Plastanium, as ammo for Serpulo and Erekir turrets.\n\nBlastanium can be used in Salvos, Swarmers, Ripples, Cyclones, and Spectres, as well as Titans and Scathes. Blastanium used in a Scathe will not fire as a missile.\nCompatible with the Etigei Exile mod's Rubiginosus campaign.\n\n[blue]Discord Server: https://discord.com/invite/TJKZgr6UDg"
+  },
+  {
+    "repo": "silinveredno/newhorizonmod-schematics",
+    "internalName": "nh-scheme-pack",
+    "name": "New Horizon schematics pack",
+    "author": "Silin Veredno",
+    "lastUpdated": "2025-03-15T10:00:31Z",
+    "stars": 7,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nRU\nМод добавляет Схемы для модификации New Horizon. Тег: +\n\nENG\nThe mod adds Schematics for the New Horizon modification. Tag: +\nMy Discord: silinveredno_edmstep\n"
   },
   {
     "repo": "photon-gravity/enigmamindustrymod",
@@ -3990,7 +3978,7 @@
     "internalName": "gr",
     "name": "Gier: Revitalized",
     "author": "Fat Bird's Owner - Main Developer",
-    "lastUpdated": "2026-03-29T13:46:04Z",
+    "lastUpdated": "2026-03-29T15:59:34Z",
     "stars": 5,
     "minGameVersion": "155",
     "hasScripts": true,
