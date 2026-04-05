@@ -677,7 +677,7 @@
     "internalName": "azimut",
     "name": "Azimuth",
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-04-04T18:12:39Z",
+    "lastUpdated": "2026-04-05T04:22:44Z",
     "stars": 35,
     "minGameVersion": "156.2",
     "hasScripts": true,
@@ -707,6 +707,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "I'm too lazy to work on this mod 24/7, so don't expect frequent updates. The reason is simple: no spriters, no testers, no moral support... in short, we endure and we carry on\n\n= = = = = О моде / About mod = = = = =\n\nRU: Очень опасный мод, который влияет на баланс и механику игры, добавляет новый контент в виде статус эффектов и оборонительных сооружений (башен, мин и т.д.).\n\nРекомендуется перед установкой сделать сохранение (чтобы откатиться назад), если в случае вам не понравится то, что может сделать данный мод. И лучше в самом деле не рискуйте лишний раз и поверьте на слово: МОД. МЕНЯЕТ. МНОГОЕ.\n\nВажно: Описание некоторых юнитов не корректно, либо и вовсе неправильное.\n\n\n\nENG: A highly dangerous mod that affects game balance and mechanics, adding new content in the form of status effects and defensive structures (towers, mines, etc.).\n\n\nIt is highly recommended to create a backup save before installation (so you can revert), in case you don't like what this mod might do. And really, it's better not to take unnecessary risks and just take our word for it: THIS MOD. CHANGES. MANY THINGS.\n\nImportant: The descriptions for some units are incorrect or entirely wrong.\n\nОсобая благодарность для людей / A Special Thank You to people:\n- inflarespirit (eve_light)\n- ARmOrDer\n\nСтатисты / Playtesters: kakoy-to Nekit, a takze nytiki i haters\n\n(Nekit, don't be offended, it's a joke. You are also worthy of special thanks on the same level as ARmOrDer)"
+  },
+  {
+    "repo": "undaria/mindustry-calamity-mod",
+    "internalName": "calamity",
+    "name": "MindustryCalamity",
+    "author": "-Undaria-",
+    "lastUpdated": "2025-09-07T06:11:57Z",
+    "stars": 31,
+    "minGameVersion": "147",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod based on the old legend of the Terraria Calamity is being continuously updated and currently has over 300 contents! \nThe Mod campaign emphasizes blitzkrieg, please pay attention to it when playing for the first time. \nIf you encounter any problems during the gameplay, please provide feedback to the author. "
   },
   {
     "repo": "way-zer/contentstweaker",
@@ -743,18 +755,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThis mod is mostly complete in terms of implemented content, but its campaign is still unfinished. Either way, I hope you'll enjoy what the mod has to offer."
-  },
-  {
-    "repo": "undaria/mindustry-calamity-mod",
-    "internalName": "calamity",
-    "name": "MindustryCalamity",
-    "author": "-Undaria-",
-    "lastUpdated": "2025-09-07T06:11:57Z",
-    "stars": 30,
-    "minGameVersion": "147",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod based on the old legend of the Terraria Calamity is being continuously updated and currently has over 300 contents! \nThe Mod campaign emphasizes blitzkrieg, please pay attention to it when playing for the first time. \nIf you encounter any problems during the gameplay, please provide feedback to the author. "
   },
   {
     "repo": "retodera/technologium",
@@ -1589,7 +1589,7 @@
     "internalName": "patch-editor",
     "name": "PatchEditor",
     "author": "minRi2",
-    "lastUpdated": "2026-04-03T01:58:48Z",
+    "lastUpdated": "2026-04-05T02:29:25Z",
     "stars": 14,
     "minGameVersion": "156",
     "hasScripts": false,
@@ -2257,18 +2257,6 @@
     "description": "A lot of useful & QoL features\ntype !qol <cmd?> in chat to get more info\n\nyou can add your mlog codes in Mindustry directory /files/qol/mlog/ to use them with !mlog\n\nyou can add your regex in Mindustry directory /files/qol/mlog/regex.json to use it in !detector\n\nmore detailed mod info on github page, please give me a star :>\n\ndiscord: @tytxexebe"
   },
   {
-    "repo": "aazamitsu/chibi-display",
-    "internalName": "anime-units-display",
-    "name": "anime units display",
-    "author": "あざみ",
-    "lastUpdated": "2026-04-03T17:23:23Z",
-    "stars": 10,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "​操作中にSDキャラを表示する機能を追加、Added a function to display chibi during operation (and router) a lot of updates coming"
-  },
-  {
     "repo": "novanox4/astralis",
     "internalName": "astralis",
     "name": "Astralis",
@@ -2279,6 +2267,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Work in progress hjson campaign mod that plans to add a new planet with a full camapign. This is a remake of a previous mod of mine bearing the same name.\n\nAstralis is a mod which aims to add a new planet with unique gameplay mechanics (world processors go brrr), that will also do everything possible to give you as much pain as possible.\n\nThe difficulty spike is vertical. Intended for people familiar with mindustry/mindustry mods.\n\nNot reccomended on low end devices!\n\nCREDITS:\n\nNV-NX - Main dev and spriter\nHaznobrain - Occasional sprite and code help. Making music.\n"
+  },
+  {
+    "repo": "aazamitsu/chibi-display",
+    "internalName": "anime-units-display",
+    "name": "anime units display",
+    "author": "あざみ",
+    "lastUpdated": "2026-04-05T01:56:06Z",
+    "stars": 10,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "​操作中にSDキャラを表示する機能を追加、Added a function to display chibi during operation (and router) a lot of updates coming"
   },
   {
     "repo": "thcworkshopcn/thc-industry",
@@ -3398,18 +3398,6 @@
     "description": ""
   },
   {
-    "repo": "purters/ttmod",
-    "internalName": "超限工艺",
-    "name": "[TransfiniteTechnology:Strife]超限工艺:纷争",
-    "author": "主作者:\n没有炮台的炮台s(PurTers)\n\n地图制作者:\n蓝细菌光合自养\n\n宣传人员:\nFire\n\n贴图师:\nMr.世纪灯泡 & 睌暙\n\n地图世处:\nalpha & 没有炮台的炮台s(PurTers)\n\n代码制作:\n没有炮台的炮台s(PurTers)\n\nMOD设定:\n纯萌新 & 没有炮台的炮台s(PurTers)",
-    "lastUpdated": "2026-03-07T14:18:53Z",
-    "stars": 6,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A story-rich mod\nIncludes 14 main campaign chapters and one side campaign chapter\nOverhauls the original planet Cypro\nAdds new factionsnA large number of new buildings and units\nWe welcome everyone to try it out\n \n Please ensure that this MOD is used alone. Mixing it with other mods may trigger the campaign's anti-mod mixing mechanisms, which could prevent the storyline from functioning properly. (Of course, these requirements can be disregarded in Custom Game mode.)\n \n（The storyline is currently only available in Chinese.）\n（The Mod has not yet been translated into English or other languages.）\n（Supports iOS users.）\nEmail: 737629445@qq.com\n\n\n一个剧情向模组\n内含14章主线战役和1张支线战役\n在原版星球赛普罗的基础上进行了覆盖\n新增额外的势力\n大量的全新建筑以及单位\n欢迎各位游玩\n \n 本MOD严禁混模，混模会触发战役的反混模机制造成战役无法正常游玩(当然，自定义模式可以无视以上要求)\n \n（剧情目前只有中文）\n（模组尚未制作英文及其他语言的翻译）\n（支持iOS玩家）\n邮箱:737629445@qq.com\n\n\n\n\nQQ主群：789966619\n\n\n\n关于开发者单位:\n有开发者单位≠参与MOD开发,但可能曾参与MOD开发,或对MOD的贡献较大\n\n\n\n致谢名单:\n星月\nnan(代码指导)\nRA2-RA2(代码参考)\nKochiyaUeneh油苗子[(防混模代码)]\nwwwww(贴图,灵感和地图投稿)\n普通的MDT玩家\n西红柿汤(世界处理器指导)\nR\n哈吉爱\nSchizoPhrenia\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n“由无数失败所构筑”"
-  },
-  {
     "repo": "xavierisdeadasheck15/interstellar-spaceline",
     "internalName": "interstellar-spaceline",
     "name": "Interstellar Spaceline",
@@ -3458,11 +3446,23 @@
     "description": "EN: Adds Vulcanum - hot dirty planet, that has dangerous enemies.\nP.s. There are a lot of bugs in sectors, so it's better to play in maps:\n1. Arc\n2. River\n\nRU: Добавляет Вулканум - жаркую пыльную планеты с опасными противниками.\nP.s. Сейчас в секторах много багов, так что лучше играть в карты:\n1. Arc\n2. River\n  (2.4)"
   },
   {
+    "repo": "purters/ttmod",
+    "internalName": "超限工艺",
+    "name": "[TransfiniteTechnology:Strife]超限工艺:纷争",
+    "author": "主作者:\n没有炮台的炮台s(PurTers)\n\n地图制作者:\n蓝细菌光合自养\n\n宣传人员:\nFire\n\n贴图师:\nMr.世纪灯泡 & 睌暙\n\n地图世处:\nalpha & 没有炮台的炮台s(PurTers)\n\n代码制作:\n没有炮台的炮台s(PurTers)\n\nMOD设定:\n纯萌新 & 没有炮台的炮台s(PurTers)",
+    "lastUpdated": "2026-04-05T01:38:14Z",
+    "stars": 6,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A story-rich mod\nIncludes 14 main campaign chapters and one side campaign chapter\nOverhauls the original planet Cypro\nAdds new factionsnA large number of new buildings and units\nWe welcome everyone to try it out\n \n Please ensure that this MOD is used alone. Mixing it with other mods may trigger the campaign's anti-mod mixing mechanisms, which could prevent the storyline from functioning properly. (Of course, these requirements can be disregarded in Custom Game mode.)\n \n（The storyline is currently only available in Chinese.）\n（The Mod has not yet been translated into English or other languages.）\n（Supports iOS users.）\nEmail: 737629445@qq.com\n\n\n一个剧情向模组\n内含14章主线战役和1张支线战役\n在原版星球赛普罗的基础上进行了覆盖\n新增额外的势力\n大量的全新建筑以及单位\n欢迎各位游玩\n \n 本MOD严禁混模，混模会触发战役的反混模机制造成战役无法正常游玩(当然，自定义模式可以无视以上要求)\n \n（剧情目前只有中文）\n（模组尚未制作英文及其他语言的翻译）\n（支持iOS玩家）\n邮箱:737629445@qq.com\n\n\n\n\nQQ主群：789966619\n\n\n\n关于开发者单位:\n有开发者单位≠参与MOD开发,但可能曾参与MOD开发,或对MOD的贡献较大\n\n\n\n致谢名单:\n星月\nnan(代码指导)\nRA2-RA2(代码参考)\nKochiyaUeneh油苗子[(防混模代码)]\nwwwww(贴图,灵感和地图投稿)\n普通的MDT玩家\n西红柿汤(世界处理器指导)\nR\n哈吉爱\nSchizoPhrenia\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n“由无数失败所构筑”"
+  },
+  {
     "repo": "fat-bird-owner/gier-revitalized",
     "internalName": "gr",
     "name": "Gier: Revitalized",
     "author": "Fat Bird's Owner - Main Developer",
-    "lastUpdated": "2026-04-04T15:55:38Z",
+    "lastUpdated": "2026-04-05T03:24:41Z",
     "stars": 6,
     "minGameVersion": "155",
     "hasScripts": true,
@@ -12063,6 +12063,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "ase a las sintas mas rapidas."
+  },
+  {
+    "repo": "bluedoves3821/phighthouse-mindustrymod",
+    "internalName": "phighthouse",
+    "name": "PHIGHTHOUSE!",
+    "author": "PHIGHTHOUSE!",
+    "lastUpdated": "2026-03-31T15:32:42Z",
+    "stars": 0,
+    "minGameVersion": "136.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "PHIGHTHOUSE! is a style i made up which is basically a combination of phighting, a 5v5 fighting game by boggio, and whitehouse, a british extreme music band started by w. bennett.\nthis mod was originally made as \"a mod within a mod\" but it's has been decided to be it's own thing.\n(note: this is mostly just an asset flip imo creds to the modders of vincenzotheduck, zac, Dagger & others.)"
   },
   {
     "repo": "lyezinho/mindustry-ia-inteface-mod",
