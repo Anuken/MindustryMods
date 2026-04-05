@@ -76,9 +76,9 @@
     "internalName": "asthosus",
     "name": "Asthosus",
     "author": "Catser",
-    "lastUpdated": "2026-04-05T14:22:53Z",
+    "lastUpdated": "2026-04-05T15:43:19Z",
     "stars": 222,
-    "minGameVersion": "146",
+    "minGameVersion": "156.2",
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod that adds a new planet, Asthosus, into the game.\n  \nAsthosus is a deserted planet. A wasteland filled with danger.\nIt has a fully playable campaign with 11 campaign and 21 optional maps. \n\nAside from these 32 maps, Asthosus contains over 180 pieces of unique content,\nincluding blocks, liquids, items, units and status effects.\nThis number is not counting any internal units or environment blocks/tiles.\n\nI aimed to re-use nearly no vanilla content and instead fill the mod \nwith new and (hopefully) exciting things.\n\nThe mod comes with it's own custom music, made by ThePythonGuy3!\n\nIf you find any issues or want to tell me anything else,\nfeel free to join the Asthosus Discord server. \nThe same thing goes for when you need help with this mod.\n\nAsthosus is available in the following languages:\n- English\n- German\n- Indonesian\n- Russian\n- Ukrainian\n- Traditional Chinese\n- Simplified Chinese\n\nEnjoy!"
@@ -893,7 +893,7 @@
     "internalName": "echo-fleet",
     "name": "Echo Fleet",
     "author": "Dev - Blehhhh cat\nContributors - Kamikazefoxmk.i, Tinport, Aerodynamic Attorney \nMusic Composer - Ace1020spawn",
-    "lastUpdated": "2026-04-05T12:30:25Z",
+    "lastUpdated": "2026-04-05T14:57:08Z",
     "stars": 26,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -1405,18 +1405,6 @@
     "description": "1.从蓝图详情页直接复制逻辑和信息板。2.蓝图消耗计算套件。\nCopy processor/message in schematic info without placing it. Schematic consumption computing tool. \nGithub: BlackDeluxeCat/SchematicParse"
   },
   {
-    "repo": "cewwi/resurrection-mod",
-    "internalName": "resurrection",
-    "name": "Cataclysm",
-    "author": "[#757575]cewwi[] & [#757575]JJ[]",
-    "lastUpdated": "2026-01-02T15:39:55Z",
-    "stars": 16,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Not now, maybe later."
-  },
-  {
     "repo": "otamamori917/axthrix-modded-java",
     "internalName": "aj",
     "name": "Axthrix",
@@ -1439,6 +1427,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\r\nA [unlaunched]personal[white] Serpulo campaign rework map pack with personal [sky]minor rebalancing[white] on few blocks.\r\nThis mod's gameplay is based on [sky]NORMAL[white] difficulty and cannot be changed.\r\nContains [sky]40+[white] sectors!\r\nAll maps are created under Serpulo environment and are [#c5cbff]vanilla compatible on terrain , wavesets and most contents[white].\r\n\r\n[#c5cbff]Have fun[white].\r\n\r\n\r\nUpdate log: V0.4 -- Stage 4-6 to Stage 4-10 added.\r\nV0.4.2 -- Polished the texts and 1-10 , 2-10 and 3-10 sectors with a brief ending congrat message.\r\n\r\n--Credits--\r\n[#cccccc]Coding:Everdusk22\r\nSector icon:Seabed\r\nMusic selection:しかみど☆\r\nBundle Polish:Gort\r\nLocalization(zh_CN):仄井心升\r\n"
+  },
+  {
+    "repo": "cewwi/resurrection-mod",
+    "internalName": "resurrection",
+    "name": "Cataclysm",
+    "author": "[#757575]cewwi[] & [#757575]JJ[]",
+    "lastUpdated": "2026-04-05T15:17:19Z",
+    "stars": 16,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Not now, maybe later."
   },
   {
     "repo": "yuria-shikibe/gameinfoimager",
@@ -4287,6 +4287,18 @@
     "description": "Canvas with colors and big brush!"
   },
   {
+    "repo": "derekshaheen/mindustry-resource-rate-monitor",
+    "internalName": "resource-rate-monitor",
+    "name": "Resource Rate Monitor",
+    "author": "Skrip",
+    "lastUpdated": "2024-05-25T07:16:16Z",
+    "stars": 4,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Simply allows you to monitor your resource rate changes in real time."
+  },
+  {
     "repo": "pseudocoffee/more-conveyors",
     "internalName": "fast",
     "name": "More conveyors, conduits, batteries, storage and unload...",
@@ -5005,18 +5017,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This Mindustry mod will add alternate blocks which will be better then their analogues, but also will be cost more resources to build. Most of additional blocks will be batteries, containers, etc. But it will not be any turrets or something like this"
-  },
-  {
-    "repo": "derekshaheen/mindustry-resource-rate-monitor",
-    "internalName": "resource-rate-monitor",
-    "name": "Resource Rate Monitor",
-    "author": "Skrip",
-    "lastUpdated": "2024-05-25T07:16:16Z",
-    "stars": 3,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Simply allows you to monitor your resource rate changes in real time."
   },
   {
     "repo": "evo04taser/mindustry-turrets-extension",
@@ -7180,18 +7180,6 @@
     "description": "[red]Do not[] install this mod \n"
   },
   {
-    "repo": "namds666/item-liquid-teleport",
-    "internalName": "item-liquid-teleport",
-    "name": "Item Liquid Teleport",
-    "author": "namds666 & Claude Code",
-    "lastUpdated": "2026-04-03T15:38:50Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Makes item and liquid teleport in a huge range! 4 cheat-grade 1x1 transport blocks.\n  Update: fix crash when entering a new map with many links."
-  },
-  {
     "repo": "xpdustry/kotlin-runtime",
     "internalName": "kotlin-runtime",
     "name": "KotlinRuntime",
@@ -7214,6 +7202,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\n[blue]=====INFO=========================\n[gold]ThermalEnginerring  [red]0.0.2_A\n[blue]=====DESCRIPTION==================\n[sky]A mindustry Java&Kotlin(JVM) Mod\n一个Mindustry的JVMMod\n"
+  },
+  {
+    "repo": "namds666/item-liquid-teleport",
+    "internalName": "item-liquid-teleport",
+    "name": "Item Liquid Teleport",
+    "author": "namds666 & Claude Code",
+    "lastUpdated": "2026-04-05T15:24:20Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Makes item and liquid teleport in a huge range! 4 cheat-grade 1x1 transport blocks.\n  Update: fix crash when entering a new map with many links."
   },
   {
     "repo": "no9527dada/skin",
@@ -9377,28 +9377,28 @@
     "description": "My 3rd mod! Using JS scripts"
   },
   {
-    "repo": "penguip/sentinel-texts",
-    "internalName": "mindustry but i ruined it",
-    "name": "Sentinel-texts",
-    "author": "penguip",
-    "lastUpdated": "2026-04-05T08:47:21Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A."
-  },
-  {
     "repo": "lymefyre/artificial-47",
     "internalName": "artificial-47",
     "name": "Artificial-47",
     "author": "Incen",
-    "lastUpdated": "2026-04-05T14:08:55Z",
+    "lastUpdated": "2026-04-05T14:40:52Z",
     "stars": 1,
     "minGameVersion": "155.4",
     "hasScripts": false,
     "hasJava": false,
     "description": "Currently unfinished and does not work yet, expect bugs and report them to @incendiarytoaster on discord."
+  },
+  {
+    "repo": "penguip/sentinel-texts",
+    "internalName": "mindustry but i ruined it",
+    "name": "Sentinel-texts",
+    "author": "penguip",
+    "lastUpdated": "2026-04-05T14:50:30Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A."
   },
   {
     "repo": "exxleo/exoterusmod",
