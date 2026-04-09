@@ -29,7 +29,7 @@
     "name": "BetaMindy",
     "author": "sk7725",
     "lastUpdated": "2026-03-18T15:44:07Z",
-    "stars": 354,
+    "stars": 355,
     "minGameVersion": "155.4",
     "hasScripts": false,
     "hasJava": true,
@@ -65,7 +65,7 @@
     "name": "Asthosus",
     "author": "Catser",
     "lastUpdated": "2026-04-08T14:18:26Z",
-    "stars": 224,
+    "stars": 225,
     "minGameVersion": "156.2",
     "hasScripts": false,
     "hasJava": false,
@@ -348,6 +348,18 @@
     "description": "FOS is a large-scale mod with a campaign that contains a brand-new solar system and unique mechanics."
   },
   {
+    "repo": "liplum/multicrafterlib",
+    "internalName": "multi-crafter",
+    "name": "MultiCrafter Lib",
+    "author": "[#42a5f5]Liplum[] & Jojo",
+    "lastUpdated": "2025-04-01T15:40:11Z",
+    "stars": 58,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry mod library for (H)JSON, JavaScript and Java mods,\nincluding a crafter supporting multiple recipes for items, fluids, power, heat and payloads production.\nPlease check the repository below to learn more.\nWork on v136 to v146."
+  },
+  {
     "repo": "meepoffaith/testing-utilities-java",
     "internalName": "test-utils",
     "name": "Testing Utilities",
@@ -358,18 +370,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Utilities for testing stuff in sandbox. (Load the game with this mod enabled for more info.)"
-  },
-  {
-    "repo": "liplum/multicrafterlib",
-    "internalName": "multi-crafter",
-    "name": "MultiCrafter Lib",
-    "author": "[#42a5f5]Liplum[] & Jojo",
-    "lastUpdated": "2025-04-01T15:40:11Z",
-    "stars": 57,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry mod library for (H)JSON, JavaScript and Java mods,\nincluding a crafter supporting multiple recipes for items, fluids, power, heat and payloads production.\nPlease check the repository below to learn more.\nWork on v136 to v146."
   },
   {
     "repo": "sharlottes/sharustry",
@@ -665,7 +665,7 @@
     "internalName": "azimut",
     "name": "Azimuth",
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-04-09T04:19:32Z",
+    "lastUpdated": "2026-04-09T05:59:40Z",
     "stars": 36,
     "minGameVersion": "156.2",
     "hasScripts": true,
@@ -3126,7 +3126,7 @@
     "internalName": "gr",
     "name": "Gier: Revitalized",
     "author": "Fat Bird's Owner - Dev",
-    "lastUpdated": "2026-04-09T01:01:33Z",
+    "lastUpdated": "2026-04-09T06:40:51Z",
     "stars": 7,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -4743,6 +4743,18 @@
     "description": "This mod add new planet and new solar sistem you drone which cleans planets \n\nDeveloper: Votak (abzobua)\nhelper and map creator: TEKTA_RU\nlanguage\nEnglish\nРусский"
   },
   {
+    "repo": "m4x1ghg/minedustry",
+    "internalName": "minedustry",
+    "name": "Minedustry",
+    "author": "MaxiGHG",
+    "lastUpdated": "2026-04-02T07:42:08Z",
+    "stars": 4,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This Mindustry mod adds a few mobs, blocks and items from Minecraft as well as factories to produce them."
+  },
+  {
     "repo": "darkdustry-coders/mindurkacompat",
     "internalName": "mindurkacompat",
     "name": "MindurkaCompat",
@@ -5654,18 +5666,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Somewhat advanced endgame technologies. It is recommended to disable vertical synchronization."
-  },
-  {
-    "repo": "m4x1ghg/minedustry",
-    "internalName": "minedustry",
-    "name": "Minedustry",
-    "author": "MaxiGHG",
-    "lastUpdated": "2026-04-02T07:42:08Z",
-    "stars": 3,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This Mindustry mod adds a few mobs, blocks and items from Minecraft as well as factories to produce them."
   },
   {
     "repo": "no9527dada/ctcoresystem",
@@ -12125,18 +12125,6 @@
     "description": "Just an extras mod"
   },
   {
-    "repo": "null-ification/null-personal-mindustry-bundle",
-    "internalName": "null personal bundle",
-    "name": "Null-Personal-Mindustry-Bundle",
-    "author": "Null-Ification",
-    "lastUpdated": "2026-04-07T12:01:29Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A personal bundle that is just buns, still in dev*"
-  },
-  {
     "repo": "cabfile/strident-crisis-music-pack",
     "internalName": "strident-crisis-music-pack",
     "name": "vs Bambi: Strident Crisis Music Pack",
@@ -12183,5 +12171,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "PHIGHTHOUSE! is a style i made up which is basically a combination of phighting, a 5v5 fighting game by boggio, and whitehouse, a british extreme music band started by w. bennett.\nthis mod was originally made as \"a mod within a mod\" but it's has been decided to be it's own thing.\n(note: this is mostly just an asset flip imo creds to the modders of vincenzotheduck, zac, Dagger & others.)"
+  },
+  {
+    "repo": "null-ification/null-personal-mindustry-bundle",
+    "internalName": "simple-bundle",
+    "name": "Simple Bundle",
+    "author": "Null in a ",
+    "lastUpdated": "2026-04-09T06:51:07Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod tried to shorten message n stuff, still in dev. Feedback would be nice."
   }
 ]
