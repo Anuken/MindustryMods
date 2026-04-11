@@ -89,7 +89,7 @@
     "name": "Mindustry Tool",
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
     "lastUpdated": "2026-04-11T05:28:50Z",
-    "stars": 201,
+    "stars": 202,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
@@ -197,7 +197,7 @@
     "name": "MI2-Utilities Java",
     "author": "BlackDeluxeCat",
     "lastUpdated": "2026-03-01T09:47:17Z",
-    "stars": 107,
+    "stars": 108,
     "minGameVersion": "155.4",
     "hasScripts": false,
     "hasJava": true,
@@ -1741,6 +1741,18 @@
     "description": "This mod adds new modified units, such as Elites and Officers, as well as several new items to the gameplay."
   },
   {
+    "repo": "rednzba990/warboundindustriesmod",
+    "internalName": "wi",
+    "name": "Warbound Industries",
+    "author": "Rednz990 [ DC: @red.id9990 ]",
+    "lastUpdated": "2026-04-09T01:48:09Z",
+    "stars": 13,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "[#AEAEAE]A mod that focuses on improving the infrastructure industry which is useful in campaign mode.\n\nAdding more crafters, distribution blocks, drills, items, and new units(include combat units, and support units) to support your gameplay!\n\n[#FFB600]BUILD[#AEAEAE] - [#FF4C00]EXTRACT[#AEAEAE] - [#FF00F6]CONQUER[#AEAEAE].\n\nSupport me by starring my Mod Repo!!\nTHIS MOD IS STILL DEVELOPMENT\n\nDM me or Chat me in Mindustry Official Server if you find bug!"
+  },
+  {
     "repo": "r-omnom/z.p.g.m._mod",
     "internalName": "zpgm-mod",
     "name": "Z.P.G.M. Mod",
@@ -1859,18 +1871,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "My first mod! It adds in a lot of new vanilla branches, but I'll leave you to finding out what those are.\nThanks to my spriter Aegires for making some of theese awesome sprites!\n\nThis mod is very ambitious. And unfinished. I'm probably going to add new planets. One is already in the works.\n\nAs of Version 7x1x, the mod's custom and new music has been moved to Chaoticans-mindustry-modding-team/New-Content-Music."
-  },
-  {
-    "repo": "rednzba990/warboundindustriesmod",
-    "internalName": "wi",
-    "name": "Warbound Industries",
-    "author": "Rednz990 [ DC: @red.id9990 ]",
-    "lastUpdated": "2026-04-09T01:48:09Z",
-    "stars": 12,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "[#AEAEAE]A mod that focuses on improving the infrastructure industry which is useful in campaign mode.\n\nAdding more crafters, distribution blocks, drills, items, and new units(include combat units, and support units) to support your gameplay!\n\n[#FFB600]BUILD[#AEAEAE] - [#FF4C00]EXTRACT[#AEAEAE] - [#FF00F6]CONQUER[#AEAEAE].\n\nSupport me by starring my Mod Repo!!\nTHIS MOD IS STILL DEVELOPMENT\n\nDM me or Chat me in Mindustry Official Server if you find bug!"
   },
   {
     "repo": "def-try/parkour-mod",
@@ -2689,18 +2689,6 @@
     "description": "Replaces every single musics ingame with some cool and nostalgic musics I took from YouTube. Please leave a star in the repository if you like it."
   },
   {
-    "repo": "huanxefh/project-reindustrialization",
-    "internalName": "projreind",
-    "name": "Project Reindustrialization",
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-04-01T10:10:23Z",
-    "stars": 8,
-    "minGameVersion": "156",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "OBJECT: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with hardcore production.\n- A separate and complex tech tree.\n- Multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\nThis mod is part of Lovecraftian series, which requires Lovecraftian Library and Lovecraftian Laboratory.\n\nWARNING: RECIPE HELL AHEAD!"
-  },
-  {
     "repo": "saightyofficial/tharris-world-old",
     "internalName": "tharrismod",
     "name": "Tharris world",
@@ -2747,6 +2735,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Improves your experience on the official io  Flood server."
+  },
+  {
+    "repo": "huanxefh/project-reindustrialization",
+    "internalName": "projreind",
+    "name": "Project Reindustrialization",
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-04-11T11:23:00Z",
+    "stars": 8,
+    "minGameVersion": "156",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "OBJECT: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with hardcore production.\n- A separate and complex tech tree.\n- Multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\nThis mod is part of Lovecraftian series, which requires Lovecraftian Library and Lovecraftian Laboratory.\n\nWARNING: RECIPE HELL AHEAD!"
   },
   {
     "repo": "eb-wilson/modpacker",
@@ -3074,18 +3074,6 @@
     "description": "\n  A mod that allows you to create browser windows directly in the game.\nYou can interact with them, they process clicks, and you can watch videos, read articles, or just play games.\n[red]Warning! Be prepared for the fact that some sites may not be supported, and some games may not work due to capture features.\n[scarlet]Although the mod supports Android devices, there is no guarantee that they will work stably. A different API is used to support Android, as they do not support JCEF.\n[stat]The mod can support servers, but a plugin is required for this. Request it from Ion - 7274 (Discord: koctz34). (I will probably release the plugin file along with updates soon).\n[scarlet]This mod does not working on Linux and MacOS.[]\n  "
   },
   {
-    "repo": "huanxefh/lovecraftian-laboratory",
-    "internalName": "loveclab",
-    "name": "Lovecraftian Laboratory",
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-04-01T10:09:10Z",
-    "stars": 7,
-    "minGameVersion": "156",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "The base mod for Lovecraftian series that adds essential resource, environmental blocks and planets."
-  },
-  {
     "repo": "fallendraggon/betterliquids",
     "internalName": "fd-better-liquids",
     "name": "Better Liquids",
@@ -3127,12 +3115,24 @@
     "internalName": "ochpoch-mob",
     "name": "hooligan",
     "author": "Hello",
-    "lastUpdated": "2026-04-11T10:19:17Z",
+    "lastUpdated": "2026-04-11T10:24:43Z",
     "stars": 7,
     "minGameVersion": "155",
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod adds a new planet, Hooligan. If something is wrong, find the release.If you liked the mod, put a star (important!!).Reload this mod because it is updated every day."
+  },
+  {
+    "repo": "huanxefh/lovecraftian-laboratory",
+    "internalName": "loveclab",
+    "name": "Lovecraftian Laboratory",
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-04-11T11:21:41Z",
+    "stars": 7,
+    "minGameVersion": "156",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "The base mod for Lovecraftian series that adds essential resource, chemicals, environmental blocks and planets."
   },
   {
     "repo": "64-tesseract/erekir-logic-improved",
@@ -3435,18 +3435,6 @@
     "description": "Hold a hotkey to open a radial build HUD around the cursor with configurable 16-slot layouts, profile switching, and rule-based auto slot sets. / 按住热键在鼠标周围打开圆盘建造 HUD，支持 16 槽位配置、配置组切换与规则自动切盘。"
   },
   {
-    "repo": "huanxefh/lovecraftian-library-java",
-    "internalName": "lovec",
-    "name": "Lovecraftian Library",
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-04-01T10:07:53Z",
-    "stars": 6,
-    "minGameVersion": "156",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "A JavaScript library for my other mods, with codes for multi-crafters, recipe dictionary, damage display, etc.\nWell, not 100% JavaScript."
-  },
-  {
     "repo": "i-drink-gasoline/admin-button-2",
     "internalName": "admin-button-2",
     "name": "Admin Button 2",
@@ -3487,12 +3475,24 @@
     "internalName": "interstellar-spaceline",
     "name": "Interstellar Spaceline",
     "author": "Creator: Xavierlazymahn8",
-    "lastUpdated": "2026-04-07T07:27:06Z",
+    "lastUpdated": "2026-04-11T11:01:42Z",
     "stars": 6,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
     "description": "A Cultivation of Mod Project i made, And the Predecessor of Lasertech Mod, this Mod Focus on the Inspiration of TDX, Helldiver 2, and More"
+  },
+  {
+    "repo": "huanxefh/lovecraftian-library-java",
+    "internalName": "lovec",
+    "name": "Lovecraftian Library",
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-04-11T11:20:47Z",
+    "stars": 6,
+    "minGameVersion": "156",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "A JavaScript library for my other mods, with codes for multi-crafters, recipe dictionary, damage display, etc.\nWell, not 100% JavaScript."
   },
   {
     "repo": "zerattel/mindustry-red-alert-3-soundtrack-pack",
@@ -4755,18 +4755,6 @@
     "description": "This mod add new planet and new solar sistem you drone which cleans planets \n\nDeveloper: Votak (abzobua)\nhelper and map creator: TEKTA_RU\nlanguage\nEnglish\nРусский"
   },
   {
-    "repo": "darkdustry-coders/mindurkacompat",
-    "internalName": "mindurkacompat",
-    "name": "MindurkaCompat",
-    "author": "buj",
-    "lastUpdated": "2026-04-03T13:05:35Z",
-    "stars": 4,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mod that adds extra compatibility with Mindurka"
-  },
-  {
     "repo": "r99space99yt/apolotus",
     "internalName": "apolotus",
     "name": "Apolotus",
@@ -4777,6 +4765,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "My 2nd mod! CAMPAIGN ONLY 3 SECTOR DONE..."
+  },
+  {
+    "repo": "darkdustry-coders/mindurkacompat",
+    "internalName": "mindurkacompat",
+    "name": "MindurkaCompat",
+    "author": "buj",
+    "lastUpdated": "2026-04-11T10:46:49Z",
+    "stars": 4,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mod that adds extra compatibility with Mindurka"
   },
   {
     "repo": "mythril382/ammoswap",
@@ -12201,7 +12201,7 @@
     "internalName": "fb-dynamics",
     "name": "Dynamics",
     "author": "Farborne Industries ⚙️",
-    "lastUpdated": "2026-04-11T09:16:08Z",
+    "lastUpdated": "2026-04-11T11:56:06Z",
     "stars": 0,
     "minGameVersion": "156",
     "hasScripts": false,
