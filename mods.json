@@ -12185,39 +12185,16 @@
     "description": "Work in Progress\n\n [accent]⚠[] [red]This mod replaces [#9fabd1]Blue Team[] and might therefore not be compatible with some other mods.[]\n\n You are in command of a [#aa8e6e]core[] that is stranded on [#9fabd1]Thalassa[], a distant planet, covered mostly in oceans. However, it seems that there's an enemy faction that has already begun harvesting its [#aa996e]resources[] and developing rapidly. The arms race has begun, and you must play catch-up."
   },
   {
-    "repo": "lamamega/attarax-all-unit-factories",
-    "internalName": "all-unit-factories",
-    "name": "All Unit Factories",
-    "author": "AttaraX",
-    "lastUpdated": "2026-04-11T18:59:55Z",
-    "stars": 0,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod adds Seperate unit factories for all vanilla tiers. U can construct the tier you want with a single Block, but at a fair cost."
-  },
-  {
-    "repo": "wytniks/kill-reward-mod-25frame",
-    "internalName": "kill-reward-mod",
-    "name": "Kill Reward Mod",
-    "author": "25frame aka wytnik",
-    "lastUpdated": "2026-04-11T20:10:59Z",
-    "stars": 0,
-    "minGameVersion": "152",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "@mod.description"
-  },
-  {
-    "repo": "alexbruh7/vanilla-expansion",
-    "internalName": "vanilla-expansion",
-    "name": "Vanilla Expansion",
-    "author": "AlexBruh",
-    "lastUpdated": "2026-04-11T20:11:07Z",
-    "stars": 0,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds new content to vanilla still in very early development, team: AlexBruh: Coding, spriting   PalomoArduino: Testing"
-  }
+  "repo": "Wytniks/kill-reward-mod-25frame",
+  "internalName": "kill-reward-mod",
+  "name": "Kill Reward Mod",
+  "author": "25frame aka wytnik",
+  "subtitle": "Get resources for killing enemies",
+  "lastUpdated": "2026-04-11T23:10:32Z",
+  "stars": 0,
+  "repo": "Wytniks/kill-reward-mod-25frame",
+  "minGameVersion": "152"
+  "description": "Grants resources for killing enemies. Works in both solo and co-op. In co-op, the multiplier configured by the host works, fully synced. Completely flexible resource settings: specify the min/max values ​​and multipliers. Any modded resources can be easily added. Works with all Serpulo and Erekir units.",
+}
+  
 ]
