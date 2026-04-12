@@ -425,7 +425,7 @@
     "internalName": "exoprosopa",
     "name": "Exoprosopa",
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-04-12T05:33:57Z",
+    "lastUpdated": "2026-04-12T08:12:58Z",
     "stars": 50,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -625,11 +625,23 @@
     "description": "\nRU\nМод добавляет огромное количество схем для разных направлений и времени игры.\n\nENG\nMod adds a lot of schemes for different directions and time.\n\nUA\nМод додає велику кількість схем для різноманітних напрямків та часу гри.\n"
   },
   {
+    "repo": "itskirby69/minedusty",
+    "internalName": "",
+    "name": "MineDusty",
+    "author": "[acid]It[#EAF43C]sK[#B3F490]ir[cyan]by",
+    "lastUpdated": "2026-04-01T13:49:13Z",
+    "stars": 37,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#fadf87]A java mod by [white]ItsKirby69 [gray](thats me!)[#fadf87] which introduces a new [acid]planet[#fadf87], many expansive [acid]biomes[#fadf87], and a wide variety of [acid]plant life!"
+  },
+  {
     "repo": "i-hope1/mod-tools",
     "internalName": "mod-tools",
     "name": "mod-tools",
     "author": "I hope...",
-    "lastUpdated": "2026-04-12T05:36:29Z",
+    "lastUpdated": "2026-04-12T07:02:31Z",
     "stars": 37,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -637,23 +649,11 @@
     "description": "A mod provides various tools for modding.\n\n-----------------\nVersion 1.5.8\n## Highlight\n1. 继续完善HotSwap（Preview）\n2. 修复大量的bug\n- 修复配置文件的格式化问题\n- 修复ValueLabel的对齐不对，分隔符不对等大量问题\n3. 其他的一些优化\n\n-----------------\nWIKI: https://i-hope1.github.io/mod-tools"
   },
   {
-    "repo": "itskirby69/minedusty",
-    "internalName": "",
-    "name": "MineDusty",
-    "author": "[acid]It[#EAF43C]sK[#B3F490]ir[cyan]by",
-    "lastUpdated": "2026-04-01T13:49:13Z",
-    "stars": 36,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#fadf87]A java mod by [white]ItsKirby69 [gray](thats me!)[#fadf87] which introduces a new [acid]planet[#fadf87], many expansive [acid]biomes[#fadf87], and a wide variety of [acid]plant life!"
-  },
-  {
     "repo": "deercarbonate/azimuth",
     "internalName": "azimut",
     "name": "Azimuth",
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-04-12T06:27:54Z",
+    "lastUpdated": "2026-04-12T07:18:13Z",
     "stars": 36,
     "minGameVersion": "156.2",
     "hasScripts": true,
@@ -4083,6 +4083,18 @@
     "description": "[#90DBFF]Vanilla Expansion原版扩展[white]的蓝图附属模组\nschematics add‑on for the [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组主要收录并优化了来自VE模组交流群的一些蓝图，旨在让玩家能更方便地使用。\nThis pack collects and optimizes community schematics to make them easier for players to import and use.\n\n感谢所有为本合集贡献并参与测试的成员！\nThank you to everyone who contributed and helped test the pack!\n\n[accent]最后更新 / Last updated: 2026-04-09[white]"
   },
   {
+    "repo": "wytniks/kill-reward-mod-25frame",
+    "internalName": "kill-reward-mod-25frame",
+    "name": "Kill Reward Mod",
+    "author": "25frame aka wytnik",
+    "lastUpdated": "2026-04-12T07:20:02Z",
+    "stars": 5,
+    "minGameVersion": "152",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Grants resources for killing enemies\nWorks in solo / co-op\n\n=== MULTIPLAYER ===\n• Uses host settings\n• Fully synced between players\n\n=== SETTINGS ===\n• Configurable min/max drop values\n• Tier-based multipliers\n• Supports modded resources\n\n=== UNITS ===\n• All Serpulo units\n• All Erekir units\n\nDiscord: 25frame.mp4\n\nOpen to suggestions and ideas"
+  },
+  {
     "repo": "mythril382/goldensilicon",
     "internalName": "golden-silicon",
     "name": "Golden Silicon",
@@ -5678,18 +5690,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Creators Core System"
-  },
-  {
-    "repo": "wytniks/kill-reward-mod-25frame",
-    "internalName": "kill-reward-mod-25frame",
-    "name": "Kill Reward Mod",
-    "author": "25frame aka wytnik",
-    "lastUpdated": "2026-04-11T22:33:34Z",
-    "stars": 3,
-    "minGameVersion": "152",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Grants resources for killing enemies\nWorks in solo / co-op\n\n=== MULTIPLAYER ===\n• Uses host settings\n• Fully synced between players\n\n=== SETTINGS ===\n• Configurable min/max drop values\n• Tier-based multipliers\n• Supports modded resources\n\n=== UNITS ===\n• All Serpulo units\n• All Erekir units\n\nDiscord: 25frame.mp4\n\nOpen to suggestions and ideas"
   },
   {
     "repo": "penguip/a-mindustry-mod",
@@ -8714,18 +8714,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "ENG: Hello everyone who installed this mod! Initially, I created this mod just for myself, but then I decided to post it. \r\nThis is my first mod and it may have many flaws, so please be gentle.\r\n\r\nRU: Привет всем кто установил этот мод! Изначально я создавл этот мод просто для себя, но потом я решил выложить его. \r\nЭто мой первый мод и у него может быть много недостатков, поэтому прошу не судить строго"
-  },
-  {
-    "repo": "ottocolten/ottos-advancing-machines",
-    "internalName": " advancing-machines",
-    "name": " otto's Advancing machines",
-    "author": " ottocolten",
-    "lastUpdated": "2025-09-26T01:14:25Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Are the current high-tier Erekir machines boring? Update taking too long to release? Well dont worry, as this mods [will add] tons of stronger and higher-tier units, turrets, factories, etc! (My First Real Mod!)/n By the way, this mod is my gonna be my big main mod, with the most stuff gonna be in it then any other mod ill make./n Therefore, expect this mod to take MAAANNNNYY months :3"
   },
   {
     "repo": "mvpoksdofe/textures-match-resources-mindustry-mod",
@@ -12213,7 +12201,7 @@
     "internalName": "fb-dynamics",
     "name": "Dynamics",
     "author": "Farborne Industries ⚙️",
-    "lastUpdated": "2026-04-12T06:15:40Z",
+    "lastUpdated": "2026-04-12T08:04:37Z",
     "stars": 0,
     "minGameVersion": "156",
     "hasScripts": false,
