@@ -653,7 +653,7 @@
     "internalName": "azimut",
     "name": "Azimuth",
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-04-14T10:12:01Z",
+    "lastUpdated": "2026-04-14T12:40:03Z",
     "stars": 36,
     "minGameVersion": "156.2",
     "hasScripts": true,
@@ -665,7 +665,7 @@
     "internalName": "md3",
     "name": "MoreDefences",
     "author": "CD, 7rodo and meowkitty",
-    "lastUpdated": "2026-04-14T06:38:20Z",
+    "lastUpdated": "2026-04-14T11:15:23Z",
     "stars": 35,
     "minGameVersion": "157",
     "hasScripts": true,
@@ -1213,6 +1213,18 @@
     "description": "Adds some new additional classes to help hjson modders. \nNote: this a library. Not playable mod."
   },
   {
+    "repo": "430230562/vanilla-neoplasm-extend",
+    "internalName": "vne",
+    "name": "原版瘤液拓展",
+    "author": "pardon",
+    "lastUpdated": "2026-04-12T15:16:31Z",
+    "stars": 19,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "你是否觉得原版瘤液的用途,在矿渣池中焚毁,过于单一;如此富有生物活性的材料应该还有有别的用途:作为弹药,合成新材料,甚至是组建自己的生物军队...请尽情发挥你的想象.\n\n什么？你已经等不及了吗？那么就让我们开启这趟血淋淋的旅途吧"
+  },
+  {
     "repo": "dagamerfiles/classic-music",
     "internalName": "classic-music",
     "name": "<Mindustry> Classic Music",
@@ -1271,18 +1283,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod that adds many different types of duos, recreates vanilla blocks into duos, and duo units! Discord Tag: gwapowo"
-  },
-  {
-    "repo": "430230562/vanilla-neoplasm-extend",
-    "internalName": "vne",
-    "name": "原版瘤液拓展",
-    "author": "pardon",
-    "lastUpdated": "2026-04-12T15:16:31Z",
-    "stars": 18,
-    "minGameVersion": "154",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "你是否觉得原版瘤液的用途,在矿渣池中焚毁,过于单一;如此富有生物活性的材料应该还有有别的用途:作为弹药,合成新材料,甚至是组建自己的生物军队...请尽情发挥你的想象.\n\n什么？你已经等不及了吗？那么就让我们开启这趟血淋淋的旅途吧"
   },
   {
     "repo": "cewwi/resurrection-mod",
@@ -1487,6 +1487,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "- This mod adds in 1 or 2 higher tiers of vanilla blocks. Mod is still in development. More contents coming soon.\n- Erekir is cooking"
+  },
+  {
+    "repo": "dustdustry/patcheditor",
+    "internalName": "patch-editor",
+    "name": "PatchEditor",
+    "author": "minRi2",
+    "lastUpdated": "2026-04-14T10:55:40Z",
+    "stars": 15,
+    "minGameVersion": "156",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Provide an in-game GUI for DataPatcher."
   },
   {
     "repo": "yal-game-things/mindustry-tiny-things",
@@ -2065,18 +2077,6 @@
     "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod is also modifiy ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request[]."
   },
   {
-    "repo": "wytniks/kill-reward-mod-25frame",
-    "internalName": "kill-reward-mod-25frame",
-    "name": "Kill Reward Mod",
-    "author": "25frame aka wytnik",
-    "lastUpdated": "2026-04-13T17:04:19Z",
-    "stars": 11,
-    "minGameVersion": "152",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Grants resources for killing enemies\nWorks in solo / co-op\n\n=== MULTIPLAYER ===\n• Uses host settings\n• Fully synced between players\n\n=== SETTINGS ===\n• Configurable min/max drop values\n• Tier-based multipliers\n• Supports modded resources\n\n=== UNITS ===\n• All Serpulo units\n• All Erekir units\n\nDiscord: 25frame.mp4\n\nOpen to suggestions and ideas"
-  },
-  {
     "repo": "novanox4/astralis",
     "internalName": "astralis",
     "name": "Astralis",
@@ -2233,18 +2233,6 @@
     "description": "A quality of life mod that adds useful blocks for transportation and logistics."
   },
   {
-    "repo": "tyt-xexebe/qol-control",
-    "internalName": "qol-control",
-    "name": "QoL Control",
-    "author": "TyTxexebe",
-    "lastUpdated": "2026-04-03T16:03:21Z",
-    "stars": 10,
-    "minGameVersion": "154",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A lot of useful & QoL features\ntype !qol <cmd?> in chat to get more info\n\nyou can add your mlog codes in Mindustry directory /files/qol/mlog/ to use them with !mlog\n\nyou can add your regex in Mindustry directory /files/qol/mlog/regex.json to use it in !detector\n\nmore detailed mod info on github page, please give me a star :>\n\ndiscord: @tytxexebe"
-  },
-  {
     "repo": "new-guys5634/mechy-chaos",
     "internalName": " mech ",
     "name": "Combat Dustry",
@@ -2273,12 +2261,24 @@
     "internalName": "hao1337-mod",
     "name": "[ Better Vanilla ]",
     "author": "Hao1337",
-    "lastUpdated": "2026-04-12T06:08:07Z",
+    "lastUpdated": "2026-04-14T11:09:01Z",
     "stars": 10,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
     "description": "Add wonderful contents for vanilla experience. For more info, please visit github page of this mod!\n\nDUE TO GAME VERSION MISMATCH, This version is using for v154!\nYou can get a older (Steam - v147 version) of this mod from github release."
+  },
+  {
+    "repo": "tyt-xexebe/qol-control",
+    "internalName": "qol-control",
+    "name": "QoL Control",
+    "author": "TyTxexebe",
+    "lastUpdated": "2026-04-14T12:10:46Z",
+    "stars": 10,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A lot of useful & QoL features\ntype !qol <cmd?> in chat to get more info\n\nyou can add your mlog codes in Mindustry directory /files/qol/mlog/ to use them with !mlog\n\nyou can add your regex in Mindustry directory /files/qol/mlog/regex.json to use it in !detector\n\nmore detailed mod info on github page, please give me a star :>\n\ndiscord: @tytxexebe"
   },
   {
     "repo": "thcworkshopcn/thc-industry",
@@ -2483,6 +2483,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "以战锤40k为原型的MOD,Mod官方QQ交流群：316481519\n贡献者DOC-A-7244(bundles和翻译),Eipusino(java技术指导)"
+  },
+  {
+    "repo": "wytniks/kill-reward-mod-25frame",
+    "internalName": "kill-reward-mod-25frame",
+    "name": "Kill Reward Mod",
+    "author": "25frame aka wytnik",
+    "lastUpdated": "2026-04-13T17:04:19Z",
+    "stars": 9,
+    "minGameVersion": "152",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Grants resources for killing enemies\nWorks in solo / co-op\n\n=== MULTIPLAYER ===\n• Uses host settings\n• Fully synced between players\n\n=== SETTINGS ===\n• Configurable min/max drop values\n• Tier-based multipliers\n• Supports modded resources\n\n=== UNITS ===\n• All Serpulo units\n• All Erekir units\n\nDiscord: 25frame.mp4\n\nOpen to suggestions and ideas"
   },
   {
     "repo": "toriwake/kannadustry",
@@ -3127,7 +3139,7 @@
     "internalName": "ochpoch-mob",
     "name": "hooligan",
     "author": "Hello",
-    "lastUpdated": "2026-04-14T10:34:00Z",
+    "lastUpdated": "2026-04-14T12:07:23Z",
     "stars": 7,
     "minGameVersion": "155",
     "hasScripts": false,
@@ -3447,18 +3459,6 @@
     "description": "Add an admin button."
   },
   {
-    "repo": "kosmofrog/planet-vulcanum",
-    "internalName": "v",
-    "name": "Planet Vulcanum",
-    "author": "kosmofrog",
-    "lastUpdated": "2026-04-03T16:51:54Z",
-    "stars": 6,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "EN: Adds Vulcanum - hot dirty planet, that has dangerous enemies.\nP.s. There are a lot of bugs in sectors, so it's better to play in maps:\n1. Arc\n2. River\n\nRU: Добавляет Вулканум - жаркую пыльную планеты с опасными противниками.\nP.s. Сейчас в секторах много багов, так что лучше играть в карты:\n1. Arc\n2. River\n  (2.4)"
-  },
-  {
     "repo": "purters/ttmod",
     "internalName": "超限工艺",
     "name": "[TransfiniteTechnology:Strife]超限工艺:纷争",
@@ -3517,6 +3517,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod introduces a few of Minecrafts mobs, blocks, items, and status effects to Mindustry. The following languages are supported: English, Chinese (thanks to redloong9527 on Github)."
+  },
+  {
+    "repo": "kosmofrog/planet-vulcanum",
+    "internalName": "v",
+    "name": "Planet Vulcanum",
+    "author": "kosmofrog",
+    "lastUpdated": "2026-04-14T11:19:47Z",
+    "stars": 6,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "EN: Adds Vulcanum - hot dirty planet, that has dangerous enemies.\nP.s. There are a lot of bugs in sectors, so it's better to play in maps:\n1. Arc\n2. River\n\nRU: Добавляет Вулканум - жаркую пыльную планеты с опасными противниками.\nP.s. Сейчас в секторах много багов, так что лучше играть в карты:\n1. Arc\n2. River\n  (2.4)"
   },
   {
     "repo": "zerattel/mindustry-red-alert-3-soundtrack-pack",
@@ -12173,18 +12185,6 @@
     "description": "Mindustry? Yes, but more!"
   },
   {
-    "repo": "beonicwulf/dynamics",
-    "internalName": "dy",
-    "name": "Dynamics",
-    "author": "Farborne Industries ⚙️",
-    "lastUpdated": "2026-04-13T19:29:18Z",
-    "stars": 0,
-    "minGameVersion": "156",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Work in Progress\n\n [accent]⚠[] [red]This mod replaces [#9fabd1]Blue Team[] and might therefore not be compatible with some other mods.[]\n\n You are in command of a [#aa8e6e]core[] that is stranded on [#9fabd1]Thalassa[], a distant planet, covered mostly in oceans. However, it seems that there's an enemy faction that has already begun harvesting its [#aa996e]resources[] and developing rapidly. The arms race has begun, and you must play catch-up."
-  },
-  {
     "repo": "bluedoves3821/phighthouse-mindustrymod",
     "internalName": "phighthouse",
     "name": "PHIGHTHOUSE!",
@@ -12195,5 +12195,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "PHIGHTHOUSE! is a style i made up which is basically a combination of phighting, a 5v5 fighting game by boggio, and whitehouse, a british extreme music band started by w. bennett.\nthis mod was originally made as \"a mod within a mod\" but it's has been decided to be it's own thing.\n(note: this is mostly just an asset flip imo creds to the modders of vincenzotheduck, zac, Dagger & others.)"
+  },
+  {
+    "repo": "beonicwulf/dynamics",
+    "internalName": "dy",
+    "name": "Dynamics",
+    "author": "Farborne Industries ⚙️",
+    "lastUpdated": "2026-04-14T12:06:24Z",
+    "stars": 0,
+    "minGameVersion": "156",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Work in Progress\n\n [accent]⚠[] [red]This mod replaces [#9fabd1]Blue Team[] and might therefore not be compatible with some other mods.[]\n\n You are in command of a [#aa8e6e]core[] that is stranded on [#9fabd1]Thalassa[], a distant planet, covered mostly in oceans. However, it seems that there's an enemy faction that has already begun harvesting its [#aa996e]resources[] and developing rapidly. The arms race has begun, and you must play catch-up."
   }
 ]
