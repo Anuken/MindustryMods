@@ -124,7 +124,7 @@
     "internalName": "omaloon",
     "name": "Omaloon",
     "author": "stabu, uujuju",
-    "lastUpdated": "2026-04-15T00:39:29Z",
+    "lastUpdated": "2026-04-15T02:06:04Z",
     "stars": 134,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -196,9 +196,9 @@
     "internalName": "mi2-utilities-java",
     "name": "MI2-Utilities Java",
     "author": "BlackDeluxeCat",
-    "lastUpdated": "2026-03-01T09:47:17Z",
+    "lastUpdated": "2026-04-15T01:30:14Z",
     "stars": 108,
-    "minGameVersion": "155.4",
+    "minGameVersion": "157.1",
     "hasScripts": false,
     "hasJava": true,
     "description": "QOL Mod, powerful assists to vanilla gameplay. For destined Mindustry players."
@@ -653,7 +653,7 @@
     "internalName": "azimut",
     "name": "Azimuth",
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-04-14T12:40:03Z",
+    "lastUpdated": "2026-04-15T03:35:25Z",
     "stars": 36,
     "minGameVersion": "156.2",
     "hasScripts": true,
@@ -881,7 +881,7 @@
     "internalName": "echo-fleet",
     "name": "Echo Fleet",
     "author": "Dev - Blehhhh cat\nContributors - Kamikazefoxmk.i, Tinport, Aerodynamic Attorney \nMusic Composer - Ace1020spawn",
-    "lastUpdated": "2026-04-14T21:22:35Z",
+    "lastUpdated": "2026-04-15T04:29:44Z",
     "stars": 26,
     "minGameVersion": "156.2",
     "hasScripts": true,
@@ -1301,7 +1301,7 @@
     "internalName": "cataclysm",
     "name": "Cataclysm",
     "author": "[#ffb33a]JJ[]",
-    "lastUpdated": "2026-04-14T00:47:42Z",
+    "lastUpdated": "2026-04-15T01:37:05Z",
     "stars": 18,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -1753,6 +1753,18 @@
     "description": "[#AEAEAE]A mod that focuses on improving the infrastructure industry which is useful in campaign mode.\n\nAdding more crafters, distribution blocks, drills, items, and new units(include combat units, and support units) to support your gameplay!\n\n[#FFB600]BUILD[#AEAEAE] - [#FF4C00]EXTRACT[#AEAEAE] - [#FF00F6]CONQUER[#AEAEAE].\n\nSupport me by starring my Mod Repo!!\nTHIS MOD IS STILL DEVELOPMENT\n\nDM me or Chat me in Mindustry Official Server if you find bug!"
   },
   {
+    "repo": "wytniks/kill-reward-mod-25frame",
+    "internalName": "kill-reward-mod-25frame",
+    "name": "Kill Reward Mod",
+    "author": "25frame aka wytnik",
+    "lastUpdated": "2026-04-14T19:48:03Z",
+    "stars": 13,
+    "minGameVersion": "152",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Grants resources for killing enemies\nWorks in solo / co-op\n\n=== MULTIPLAYER ===\n• Uses host settings\n• Fully synced between players\n\n=== SETTINGS ===\n• Configurable min/max drop values\n• Tier-based multipliers\n• Supports modded resources\n\n=== UNITS ===\n• All Serpulo units\n• All Erekir units\n\nDiscord: 25frame.mp4\n\nOpen to suggestions and ideas"
+  },
+  {
     "repo": "r-omnom/z.p.g.m._mod",
     "internalName": "zpgm-mod",
     "name": "Z.P.G.M. Mod",
@@ -1871,18 +1883,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "My first mod! It adds in a lot of new vanilla branches, but I'll leave you to finding out what those are.\nThanks to my spriter Aegires for making some of theese awesome sprites!\n\nThis mod is very ambitious. And unfinished. I'm probably going to add new planets. One is already in the works.\n\nAs of Version 7x1x, the mod's custom and new music has been moved to Chaoticans-mindustry-modding-team/New-Content-Music."
-  },
-  {
-    "repo": "wytniks/kill-reward-mod-25frame",
-    "internalName": "kill-reward-mod-25frame",
-    "name": "Kill Reward Mod",
-    "author": "25frame aka wytnik",
-    "lastUpdated": "2026-04-14T19:48:03Z",
-    "stars": 12,
-    "minGameVersion": "152",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Grants resources for killing enemies\nWorks in solo / co-op\n\n=== MULTIPLAYER ===\n• Uses host settings\n• Fully synced between players\n\n=== SETTINGS ===\n• Configurable min/max drop values\n• Tier-based multipliers\n• Supports modded resources\n\n=== UNITS ===\n• All Serpulo units\n• All Erekir units\n\nDiscord: 25frame.mp4\n\nOpen to suggestions and ideas"
   },
   {
     "repo": "def-try/parkour-mod",
@@ -3062,6 +3062,18 @@
     "iosCompatible": true
   },
   {
+    "repo": "determination-wind/radial-build-menu-hud-",
+    "internalName": "radial-build-menu",
+    "name": "圆盘快捷建造 / Radial Build Menu",
+    "author": "DeterMination",
+    "lastUpdated": "2026-02-20T10:18:42Z",
+    "stars": 7,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Hold a hotkey to open a radial build HUD around the cursor with configurable 16-slot layouts, profile switching, and rule-based auto slot sets. / 按住热键在鼠标周围打开圆盘建造 HUD，支持 16 槽位配置、配置组切换与规则自动切盘。"
+  },
+  {
     "repo": "emanuelg-gaming/mindustry-raycaster",
     "internalName": "lighting",
     "name": "Mindustry Lighting",
@@ -3110,31 +3122,6 @@
     "description": "The base mod for Lovecraftian series that adds essential resource, chemicals, environmental blocks and planets."
   },
   {
-    "repo": "mindustryid/terjemahanindonesia",
-    "internalName": "terjemahan-indonesia",
-    "name": "Terjemahan Indonesia",
-    "author": "Kevin Vilyan",
-    "lastUpdated": "2026-04-13T02:34:17Z",
-    "stars": 7,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent]Mindustry[]\nDiharapkan untuk selalu menginstall ulang mod seminggu sekali.\n\n[accent]Anggota:[gray]\n• DaGamerFiles - Octavira\n• Kevin Vilyan - Kenny\n• WilloIzCitron - William A\n\n[accent]Anggota - Pensiun:[gray]\n• Korxopid\n• TheMrAlbert\n• GrimSoul"
-  },
-  {
-    "repo": "fat-bird-owner/gier-revitalized",
-    "internalName": "gr",
-    "name": "Gier: Revitalized",
-    "author": "Fat Bird's Owner - Dev",
-    "lastUpdated": "2026-04-14T15:46:23Z",
-    "stars": 7,
-    "minGameVersion": "156",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe.\n\nIf the main version is a bugged then \nplease use the latest releases instead\nas those are stable.\n[]\n\n[accent]Starring is greatly appreciated[]\n[grey](Our current goal is 10 stars)[]\n",
-    "iosCompatible": true
-  },
-  {
     "repo": "jennii94900-tech/mod",
     "internalName": "ochpoch-mob",
     "name": "hooligan",
@@ -3145,6 +3132,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Explore the frozen depths of Hooligan — a world of majestic ice ridges and vast snowy valleys. New content is added daily! Please reload the mod to see recent updates. If you enjoy the mod, don't forget to leave a star!"
+  },
+  {
+    "repo": "fat-bird-owner/gier-revitalized",
+    "internalName": "gr",
+    "name": "Gier: Revitalized",
+    "author": "Fat Bird's Owner - Dev",
+    "lastUpdated": "2026-04-15T03:35:21Z",
+    "stars": 7,
+    "minGameVersion": "156",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe.\n\nIf the main version is a bugged then \nplease use the latest releases instead\nas those are stable.\n[]\n\n[accent]Starring is greatly appreciated[]\n[grey](Our current goal is 10 stars)[]\n",
+    "iosCompatible": true
   },
   {
     "repo": "64-tesseract/erekir-logic-improved",
@@ -3435,16 +3435,16 @@
     "description": ""
   },
   {
-    "repo": "determination-wind/radial-build-menu-hud-",
-    "internalName": "radial-build-menu",
-    "name": "圆盘快捷建造 / Radial Build Menu",
+    "repo": "determination-wind/stealthpath",
+    "internalName": "stealth-path",
+    "name": "Stealth Path / 偷袭小道",
     "author": "DeterMination",
-    "lastUpdated": "2026-02-20T10:18:42Z",
+    "lastUpdated": "2026-02-20T10:18:44Z",
     "stars": 6,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
-    "description": "Hold a hotkey to open a radial build HUD around the cursor with configurable 16-slot layouts, profile switching, and rule-based auto slot sets. / 按住热键在鼠标周围打开圆盘建造 HUD，支持 16 槽位配置、配置组切换与规则自动切盘。"
+    "description": "Plan safer assault routes by simulating turret/unit threat fields, then draw low-damage or nearest paths with auto-move support. / 基于炮塔与单位威胁场规划低伤或最近路线，支持自动移动与实时路径叠加。"
   },
   {
     "repo": "i-drink-gasoline/admin-button-2",
@@ -4045,18 +4045,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A plethora of sandbox-only blocks dedicated for both fun and testing purposes."
-  },
-  {
-    "repo": "determination-wind/stealthpath",
-    "internalName": "stealth-path",
-    "name": "Stealth Path / 偷袭小道",
-    "author": "DeterMination",
-    "lastUpdated": "2026-02-20T10:18:44Z",
-    "stars": 5,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Plan safer assault routes by simulating turret/unit threat fields, then draw low-damage or nearest paths with auto-move support. / 基于炮塔与单位威胁场规划低伤或最近路线，支持自动移动与实时路径叠加。"
   },
   {
     "repo": "determination-wind/neon",
@@ -5692,18 +5680,6 @@
     "description": "让逻辑再次伟大！\nMake Logic Great Again!"
   },
   {
-    "repo": "penguip/a-mindustry-mod",
-    "internalName": "daf",
-    "name": "BEEPDUSTRY",
-    "author": "Me(duh)",
-    "lastUpdated": "2026-04-14T02:21:20Z",
-    "stars": 3,
-    "minGameVersion": "149",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Very DaF! based mod. Don't ask what that is.\n!BIG WEEB LORE WARNING!"
-  },
-  {
     "repo": "no9527dada/ctcoresystem",
     "internalName": "ctcoresystem",
     "name": "创世神核心加载系统前置",
@@ -5714,6 +5690,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Creators Core System"
+  },
+  {
+    "repo": "penguip/a-mindustry-mod",
+    "internalName": "daf",
+    "name": "BEEPDUSTRY",
+    "author": "Me(duh)",
+    "lastUpdated": "2026-04-15T04:29:52Z",
+    "stars": 3,
+    "minGameVersion": "149",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Very DaF! based mod. Don't ask what that is.\n!BIG WEEB LORE WARNING!"
   },
   {
     "repo": "rintadev5792/arcane-mindustry",
