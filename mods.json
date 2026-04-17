@@ -220,7 +220,7 @@
     "internalName": "informatis",
     "name": "Informatis",
     "author": "Sharlotte",
-    "lastUpdated": "2026-03-01T09:47:43Z",
+    "lastUpdated": "2026-04-17T14:10:11Z",
     "stars": 96,
     "minGameVersion": "155.4",
     "hasScripts": false,
@@ -653,7 +653,7 @@
     "internalName": "azimut",
     "name": "Azimuth",
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-04-17T11:23:34Z",
+    "lastUpdated": "2026-04-17T14:44:31Z",
     "stars": 37,
     "minGameVersion": "156.2",
     "hasScripts": true,
@@ -1109,7 +1109,7 @@
     "internalName": "xanthia-3",
     "name": "Xanthia",
     "author": "[accent]Coders:[] Decaract, ItzCraft, Nahan\n\n[accent]Spriters:[] Decaract, Nahan\n\n[accent]Testers:[] DarkSniper, Nahan, ItzCraft, AnDashik\n\n[accent]Contributors:[] Arbuzer, Los Sasikos, AnDashik\n\n[accent]Translators:[] Kevin Vilyan, ItzCraft",
-    "lastUpdated": "2026-04-16T15:22:12Z",
+    "lastUpdated": "2026-04-17T14:34:53Z",
     "stars": 20,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -1225,18 +1225,6 @@
     "description": "A library mod for rendering black holes."
   },
   {
-    "repo": "430230562/vanilla-neoplasm-extend",
-    "internalName": "vne",
-    "name": "原版瘤液拓展",
-    "author": "pardon",
-    "lastUpdated": "2026-04-12T15:16:31Z",
-    "stars": 19,
-    "minGameVersion": "154",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "你是否觉得原版瘤液的用途,在矿渣池中焚毁,过于单一;如此富有生物活性的材料应该还有有别的用途:作为弹药,合成新材料,甚至是组建自己的生物军队...请尽情发挥你的想象.\n\n什么？你已经等不及了吗？那么就让我们开启这趟血淋淋的旅途吧"
-  },
-  {
     "repo": "itzcraft/hjsonpp",
     "internalName": "hjsonpp",
     "name": "hjson++",
@@ -1247,6 +1235,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds some new additional classes to help hjson modders. \nNote: this a library. Not a playable mod."
+  },
+  {
+    "repo": "430230562/vanilla-neoplasm-extend",
+    "internalName": "vne",
+    "name": "原版瘤液拓展",
+    "author": "pardon",
+    "lastUpdated": "2026-04-17T12:48:21Z",
+    "stars": 19,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "你是否觉得原版瘤液的用途,在矿渣池中焚毁,过于单一;如此富有生物活性的材料应该还有有别的用途:作为弹药,合成新材料,甚至是组建自己的生物军队...请尽情发挥你的想象.\n\n什么？你已经等不及了吗？那么就让我们开启这趟血淋淋的旅途吧"
   },
   {
     "repo": "dagamerfiles/classic-music",
@@ -3151,7 +3151,7 @@
     "internalName": "ochpoch-mob",
     "name": "hooligan",
     "author": "Hello",
-    "lastUpdated": "2026-04-17T12:25:32Z",
+    "lastUpdated": "2026-04-17T12:53:49Z",
     "stars": 7,
     "minGameVersion": "157",
     "hasScripts": false,
@@ -7156,18 +7156,6 @@
     "description": "Makes item and liquid teleport in a huge range! 4 cheat-grade 1x1 transport blocks.\n  Update: fix crash when entering a new map with many links."
   },
   {
-    "repo": "determination-wind/patchviewer",
-    "internalName": "patchviewer",
-    "name": "PatchViewer / 补丁查看器",
-    "author": "DeterMination",
-    "lastUpdated": "2026-04-05T18:05:48Z",
-    "stars": 2,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Inline before/after diff viewer for Mindustry datapatches in the database UI. / 在数据库界面中直接显示 Mindustry 数据补丁的前后差异。"
-  },
-  {
     "repo": "wantechfan/mindustry-legacy-sounds",
     "internalName": "legacy-sounds",
     "name": "Legacy Sounds",
@@ -7238,6 +7226,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "My planet mod for Mindustry. Heavily unfinished.\nMindustry V8 is required for the mod to work.\nMeowkitty contributed with sprites and maps for this mod.\n\nCredits go the the rest of the MoreDefences team for their code, LixieWulf for Allure's planet code (which I modified to make the planet) and Catana791 for some bits of code from Asthosus used in my crafting blocks."
+  },
+  {
+    "repo": "determination-wind/patchviewer",
+    "internalName": "patchviewer",
+    "name": "PatchViewer / 补丁查看器",
+    "author": "DeterMination",
+    "lastUpdated": "2026-04-17T13:36:23Z",
+    "stars": 2,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Inline before/after diff viewer for Mindustry datapatches in the database UI. / 在数据库界面中直接显示 Mindustry 数据补丁的前后差异。"
   },
   {
     "repo": "no9527dada/skin",
@@ -12173,18 +12173,6 @@
     "description": "Liquid Industry for v156.1+\n测试版本0.22.9"
   },
   {
-    "repo": "null-ification/the-industry",
-    "internalName": "theindustry",
-    "name": "The Industry",
-    "author": "[NULL] (in a list)",
-    "lastUpdated": "2026-04-17T04:52:50Z",
-    "stars": 0,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "The first 'proper' mod made by me.\nI'm lazy asf so don't expect anything."
-  },
-  {
     "repo": "m1cxzfw3q/ruikeui",
     "internalName": "rui-ke-ui",
     "name": "RuiKe UI",
@@ -12195,5 +12183,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "异验丁真，鉴定为：抽锐刻五抽的"
+  },
+  {
+    "repo": "null-ification/the-industry",
+    "internalName": "theindustry",
+    "name": "The Industry",
+    "author": "[NULL] (in a list)",
+    "lastUpdated": "2026-04-17T14:06:01Z",
+    "stars": 0,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "The first 'proper' mod made by me.\nI'm lazy asf so don't expect anything."
   }
 ]
