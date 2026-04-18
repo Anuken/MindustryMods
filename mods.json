@@ -937,6 +937,18 @@
     "description": "[#00FFFF](RU)[#FFFFFF] Модификация добавляет полезные блоки.\n[#00FFFF](EN)[#FFFFFF] Modification adds useful blocks.\nMod is now probably in release. \nv1.1."
   },
   {
+    "repo": "laohuajiofficial/multiblocklib",
+    "internalName": "multi-block-lib",
+    "name": "Multi-Block Library",
+    "author": "LaoHuaJi/酪桦姬",
+    "lastUpdated": "2025-03-06T10:40:33Z",
+    "stars": 23,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mindustry mod library which provides support for non-square blocks implementation for json mod."
+  },
+  {
     "repo": "typicaldeveloper123/biotic-zlo",
     "internalName": "corpuscles",
     "name": "Corpuscles",
@@ -971,18 +983,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "ATTENTION:\n\nFrom now on, the mod goes into experimental mode - this means that the balance may not be balanced, such as a Toxopid with a Corvus, whose attack radius go far beyond 60 cells!!!!!\nNevertheless, I advise you to calm down: when the mod reaches its peak (despite my crazy plans for it, the result of which you are already watching), I will make several versions to meet the needs of as many people as possible. In the meantime, it remains to wait. Sorry for the inconvenience.\n\nImportant:\n\nThis mod does not bring anything radically new to the game, but only expands the combat functionality of existing combat units.\n\nPlease pay attention:\n\nThe mod significantly redesigns units, changes the balance and generally complicates the game. Don't forget to make a backup in case you don't like the changes that the mod itself makes.\n\nP.S. The mod is made for ALE maps."
-  },
-  {
-    "repo": "laohuajiofficial/multiblocklib",
-    "internalName": "multi-block-lib",
-    "name": "Multi-Block Library",
-    "author": "LaoHuaJi/酪桦姬",
-    "lastUpdated": "2025-03-06T10:40:33Z",
-    "stars": 22,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mindustry mod library which provides support for non-square blocks implementation for json mod."
   },
   {
     "repo": "fun7game/gloomistrymod",
@@ -1526,15 +1526,15 @@
   },
   {
     "repo": "yal-game-things/mindustry-tiny-things",
-    "internalName": "tiny-things",
-    "name": "Tiny Things",
-    "author": "YellowAfterlife",
+    "internalName": "meow-extra-content",
+    "name": "MeowExtraContent",
+    "author": "Meow0x7E",
     "lastUpdated": "2022-07-28T16:05:26Z",
     "stars": 14,
-    "minGameVersion": "136.1",
+    "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
-    "description": "Adds miniature versions of various buildings."
+    "description": "我觉得这些应该对游戏体验有一定帮助喵~"
   },
   {
     "repo": "seuearth/factroundustry",
@@ -2077,28 +2077,28 @@
     "description": "Adds multiple new factories, turrets and items to enhance vanilla content and add more things post-late game.\nIMPORTANT: Credit for sprites cuz stealing bad: \n- Eschatologue/Unlimited-Armament-Works\n- AureusStratus/ExoGenesis \n- Eschatologue/Heavy-Armaments-Industries\n- uujuju1/project-oblivion\n- Twcash/Aquarion\n- thomas_has_things(discord) Thomas's Things \n- and a huge shoutout to y'all on the Mindustry Discord\nMod was originally a personal project, sorry if I used your sprites without consent."
   },
   {
-    "repo": "wantechfan/mindustry-cursed-bundles",
-    "internalName": "cursed-bundles",
-    "name": "Cursed Bundles",
-    "author": "WantechFan",
-    "lastUpdated": "2026-04-18T03:14:40Z",
-    "stars": 11,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod is also modifiy ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request[]."
-  },
-  {
     "repo": "novanox4/astralis",
     "internalName": "astralis",
     "name": "Astralis",
     "author": "NV-NX (FULL CREDITS IN DESC.)",
-    "lastUpdated": "2026-04-18T18:24:54Z",
+    "lastUpdated": "2026-04-18T18:36:27Z",
     "stars": 11,
     "minGameVersion": "157",
     "hasScripts": false,
     "hasJava": false,
     "description": "\nWork in progress hjson campaign mod that plans to add a new planet with a full camapign. This is a remake of a previous mod of mine bearing the same name.\n\nAstralis is a mod which aims to add a new planet with unique gameplay mechanics (world processors go brrr), that will also do everything possible to give you as much pain as possible.\n\nThe difficulty spike is vertical. Intended for people familiar with mindustry/mindustry mods.\n\nSome VFX may cause eye strain. Proceed at your own risk.\n\nNot reccomended on low end devices!\n\nThis mod is pure hjson, but may use some scripts for music purposes.\n\nCREDITS:\n\nNV-NX - Main dev and spriter\nHaznobrain - Occasional sprite and code help. Making music.\nMegacheb - Allowing me to use some of their music for (upcoming) bosses.\n\nIt takes my heart being broken and broken again to realize I am the reason the sufferings never end."
+  },
+  {
+    "repo": "wantechfan/mindustry-cursed-bundles",
+    "internalName": "cursed-bundles",
+    "name": "Cursed Bundles",
+    "author": "WantechFan",
+    "lastUpdated": "2026-04-18T18:52:01Z",
+    "stars": 11,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod is also modifiy ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request[]."
   },
   {
     "repo": "sk7725/betamindymusic",
@@ -2765,7 +2765,7 @@
     "internalName": "ochpoch-mob",
     "name": "hooligan",
     "author": "Hello",
-    "lastUpdated": "2026-04-17T19:53:10Z",
+    "lastUpdated": "2026-04-18T20:05:21Z",
     "stars": 8,
     "minGameVersion": "157",
     "hasScripts": false,
@@ -4633,18 +4633,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Ark Of Rebirth or mod-AR is a mod that aim to extend the campaign by adding two more additional planets,now with complete rework and resprites. Please note that the campaign is not tested yet after the rework and may not be playable."
-  },
-  {
-    "repo": "thesmal/starter-buffer",
-    "internalName": "starter buffer",
-    "name": "STARTER-BUFFER",
-    "author": "Thesmal (Before known as LittleBloo)",
-    "lastUpdated": "2025-11-08T11:33:48Z",
-    "stars": 4,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "DISCLAIMER!!!: please use the install with version button and NOT the install button!!!! the version displayed is outdated majority of the time!!\n\nBuffs the Alpha and Evoke units so its better to stay on the Shard or Bastion core (smallest ones),\nAdds a TON of HP to the Alpha and Evoke,\nChanged bullet to Fire bullet for the Alpha (shard and bastion core has alot of hp),\nMining Speed, Item capacity is also Improved,\nHave a good day!\nthe Duo and Scatter turrets are also Buffed\nCopper walls are now the best defense in the game\nthe Mechanical Drill is also the best Drill and can mine anything\nand the Plasma Bore and Impact Drill has been buffed\nNormal Conveyors are also the best along with Ducts.\nMenders are WAAAAAAAAAAAAAAAAAAAAAY better than mend projectors now\n\nIt's my First Mod\nMay have some bugs so please tell me any and also tell me code improvements :D\n\nFeel free to use this as a base or reference for your mods. (maybe not base)"
   },
   {
     "repo": "samielxd/modinfoplus",
@@ -9437,6 +9425,18 @@
     "description": "Replaces sounds with cooler ones"
   },
   {
+    "repo": "alexbruh7/vanilla-expansion",
+    "internalName": "vanilla-expansion",
+    "name": "Vanilla Expansion",
+    "author": "AlexBruh",
+    "lastUpdated": "2026-04-18T17:45:02Z",
+    "stars": 1,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds new content to vanilla still in very early development, team: AlexBruh: Coding, spriting"
+  },
+  {
     "repo": "exxleo/exoterusmod",
     "internalName": "exoterus-mod",
     "name": "Exoterus",
@@ -10647,18 +10647,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Physics mod, with all atomes of the periodic table"
-  },
-  {
-    "repo": "meow0x7e/meowextracontent",
-    "internalName": "meow-extra-content",
-    "name": "MeowExtraContent",
-    "author": "Meow0x7E",
-    "lastUpdated": "2025-01-16T23:46:43Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "我觉得这些应该对游戏体验有一定帮助喵~"
   },
   {
     "repo": "xiaoxianben/mindustry-betterfactory-mod",
@@ -12195,17 +12183,5 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "The first 'proper' mod made by me.\nI'm lazy asf so don't expect anything."
-  },
-  {
-    "repo": "alexbruh7/vanilla-expansion",
-    "internalName": "vanilla-expansion",
-    "name": "Vanilla Expansion",
-    "author": "AlexBruh",
-    "lastUpdated": "2026-04-18T17:45:02Z",
-    "stars": 0,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds new content to vanilla still in very early development, team: AlexBruh: Coding, spriting"
   }
 ]
