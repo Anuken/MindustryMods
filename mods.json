@@ -160,7 +160,7 @@
     "internalName": "sfire-mod",
     "name": "Saturation Firepower Mod",
     "author": "RAdea.exe",
-    "lastUpdated": "2026-03-23T16:33:15Z",
+    "lastUpdated": "2026-04-21T15:38:59Z",
     "stars": 126,
     "minGameVersion": "155.4",
     "hasScripts": false,
@@ -233,7 +233,7 @@
     "name": "aquarion",
     "author": "twcash",
     "lastUpdated": "2026-04-21T14:29:39Z",
-    "stars": 93,
+    "stars": 92,
     "minGameVersion": "156.2",
     "hasScripts": false,
     "hasJava": true,
@@ -461,7 +461,7 @@
     "internalName": "he",
     "name": "Helium",
     "author": "EBwilson",
-    "lastUpdated": "2026-04-08T07:23:21Z",
+    "lastUpdated": "2026-04-21T16:19:59Z",
     "stars": 48,
     "minGameVersion": "156",
     "hasScripts": false,
@@ -473,7 +473,7 @@
     "internalName": "ice",
     "name": "DeepSpace",
     "author": "Alon",
-    "lastUpdated": "2026-04-21T14:26:46Z",
+    "lastUpdated": "2026-04-21T15:34:04Z",
     "stars": 46,
     "minGameVersion": "157.1",
     "hasScripts": false,
@@ -2296,13 +2296,13 @@
     "repo": "jennii94900-tech/mod",
     "internalName": "ochpoch-mob",
     "name": "Hooligan",
-    "author": "Hello & Andrei",
-    "lastUpdated": "2026-04-21T14:33:07Z",
+    "author": "Hello,Andrei",
+    "lastUpdated": "2026-04-21T15:53:16Z",
     "stars": 10,
     "minGameVersion": "157",
     "hasScripts": false,
     "hasJava": false,
-    "description": "A custom planet mod featuring the icy world of Hooligan. We are adding new turrets, units, and sectors almost every day. \n\nNote: Please reload the mod to see updates. If you like our work, leave a star on GitHub!"
+    "description": "Frozen planet expansion. Includes custom technology tree, industrial systems, and combat units designed for extreme cold environments."
   },
   {
     "repo": "thcworkshopcn/thc-industry",
@@ -7276,6 +7276,18 @@
     "description": "Liquid Industry for v156.1+\n测试版本0.23.1"
   },
   {
+    "repo": "traincrisis/serpuloplus",
+    "internalName": "serpuloplus",
+    "name": "Serpulo+",
+    "author": "[#984cd7]ThePul[#833edd]lerCell",
+    "lastUpdated": "2026-04-21T14:45:28Z",
+    "stars": 2,
+    "minGameVersion": "155",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "An expansion of Serpulo, featuring a variety of new things:\n\n- New tiers for a variety of blocks, from [#9a9fb4]Scrap[white] to [#4a90ad]Cryogenic[white], existing for item distribution blocks, as Pneumatic Drill upgrades, and to the Power Node and Solar Panel with the large variant.\n\n- Upgrades for factory blocks from vanilla, including the Oven as an upgrade to the Kiln, Plastanium Infuser as an upgrade to the Plastanium Compressor, Phase Loom as an upgrade to the Phase Weaver, etc.\n\n- Expanded scrap processing lines: Specific Separators which separate slag down into specific items, and the Scrap Compactor which turns Graphite, Titanium and Thorium into Scrap.\n\n- And more! More stuff existing includes the Core: Apex with the Delta core unit, Spore Invader and Collector, and the Cell Incubator and Reactor.\n\nCredits:\n\n- [#ff]T[#b]w[#5]e[#2]u[white] (tinnphat_ on Discord), for spriting most old sprites in the mod, aswell as continuing Renn's work. \n\n- red.id9990 on Discord, for spriting most new sprites in the mod. \n\n- [#8cff00]Telesteel[white] (giga_chad96 on Discord) for Tesla turret sprite."
+  },
+  {
     "repo": "no9527dada/skin",
     "internalName": "skin",
     "name": "Unit of the skin-本地皮肤",
@@ -9425,18 +9437,6 @@
     "description": "Lets you enable or disable Mindustry's global Steam ban and admin lists."
   },
   {
-    "repo": "bluedoves3821/phighthouse-mindustrymod",
-    "internalName": "phighthouse",
-    "name": "PHIGHTHOUSE!",
-    "author": "PHIGHTHOUSE!",
-    "lastUpdated": "2026-04-19T08:38:11Z",
-    "stars": 1,
-    "minGameVersion": "136.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "PHIGHTHOUSE! is a style i made up which is basically a combination of phighting, a 5v5 fighting game by boggio, and whitehouse, a british extreme music band started by w. bennett.\nthis mod was originally made as \"a mod within a mod\" but it's has been decided to be it's own thing.\n(note: this is mostly just an asset flip imo creds to the modders of vincenzotheduck, zac, Dagger & others.)"
-  },
-  {
     "repo": "null-ification/the-industry",
     "internalName": "theindustry",
     "name": "The Industry",
@@ -9521,16 +9521,16 @@
     "description": "A Dune-themed Mindustry mod. Adds Arrakis."
   },
   {
-    "repo": "traincrisis/serpuloplus",
-    "internalName": "serpuloplus",
-    "name": "Serpulo+",
-    "author": "[#984cd7]ThePul[#833edd]lerCell",
-    "lastUpdated": "2026-04-21T14:45:28Z",
+    "repo": "bluedoves3821/phighthouse-mindustrymod",
+    "internalName": "phighthouse",
+    "name": "PHIGHTHOUSE!",
+    "author": "PHIGHTHOUSE!",
+    "lastUpdated": "2026-04-21T15:28:42Z",
     "stars": 1,
-    "minGameVersion": "155",
+    "minGameVersion": "136.1",
     "hasScripts": true,
     "hasJava": false,
-    "description": "An expansion of Serpulo, featuring a variety of new things:\n\n- New tiers for a variety of blocks, from [#9a9fb4]Scrap[white] to [#4a90ad]Cryogenic[white], existing for item distribution blocks, as Pneumatic Drill upgrades, and to the Power Node and Solar Panel with the large variant.\n\n- Upgrades for factory blocks from vanilla, including the Oven as an upgrade to the Kiln, Plastanium Infuser as an upgrade to the Plastanium Compressor, Phase Loom as an upgrade to the Phase Weaver, etc.\n\n- Expanded scrap processing lines: Specific Separators which separate slag down into specific items, and the Scrap Compactor which turns Graphite, Titanium and Thorium into Scrap.\n\n- And more! More stuff existing includes the Core: Apex with the Delta core unit, Spore Invader and Collector, and the Cell Incubator and Reactor.\n\nCredits:\n\n- [#ff]T[#b]w[#5]e[#2]u[white] (tinnphat_ on Discord), for spriting most old sprites in the mod, aswell as continuing Renn's work. \n\n- red.id9990 on Discord, for spriting most new sprites in the mod. \n\n- [#8cff00]Telesteel[white] (giga_chad96 on Discord) for Tesla turret sprite."
+    "description": "PHIGHTHOUSE! is a style i made up which is basically a combination of phighting, a 5v5 fighting game by boggio, and whitehouse, a british extreme music band started by w. bennett.\nthis mod was originally made as \"a mod within a mod\" but it's has been decided to be it's own thing.\n(note: this is mostly just an asset flip imo creds to the modders of vincenzotheduck, zac, Dagger & others.)"
   },
   {
     "repo": "exxleo/exoterusmod",
