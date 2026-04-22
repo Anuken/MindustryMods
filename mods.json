@@ -629,7 +629,7 @@
     "internalName": "azimut",
     "name": "Azimuth",
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-04-22T10:30:00Z",
+    "lastUpdated": "2026-04-22T11:03:14Z",
     "stars": 38,
     "minGameVersion": "156.2",
     "hasScripts": true,
@@ -2786,6 +2786,18 @@
     "iosCompatible": true
   },
   {
+    "repo": "traincrisis/serpuloplus",
+    "internalName": "serpuloplus",
+    "name": "Serpulo+",
+    "author": "[#984cd7]ThePul[#833edd]lerCell",
+    "lastUpdated": "2026-04-22T11:36:48Z",
+    "stars": 8,
+    "minGameVersion": "155",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "An expansion of Serpulo, featuring a variety of new things:\n\n- New tiers for a variety of blocks, from [#9a9fb4]Scrap[white] to [#4a90ad]Cryogenic[white], existing for item distribution blocks, as Pneumatic Drill upgrades, and to the Power Node and Solar Panel with the large variant.\n\n- Upgrades for factory blocks from vanilla, including the Oven as an upgrade to the Kiln, Plastanium Infuser as an upgrade to the Plastanium Compressor, Phase Loom as an upgrade to the Phase Weaver, etc.\n\n- Expanded scrap processing lines: Specific Separators which separate slag down into specific items, and the Scrap Compactor which turns Graphite, Titanium and Thorium into Scrap.\n\n- And more! More stuff existing includes the Core: Apex with the Delta core unit, Spore Invader and Collector, and the Cell Incubator and Reactor.\n\nCredits:\n\n- [#ff]T[#b]w[#5]e[#2]u[white] (tinnphat_ on Discord), for spriting most old sprites in the mod, aswell as continuing Renn's work. \n\n- red.id9990 on Discord, for spriting most new sprites in the mod. \n\n- [#8cff00]Telesteel[white] (giga_chad96 on Discord) for Tesla turret sprite."
+  },
+  {
     "repo": "eb-wilson/modpacker",
     "internalName": "mod-packer",
     "name": "Mod Packer",
@@ -3159,16 +3171,16 @@
     "description": "The base mod for Lovecraftian series that adds essential resource, chemicals, environmental blocks and planets."
   },
   {
-    "repo": "traincrisis/serpuloplus",
-    "internalName": "serpuloplus",
-    "name": "Serpulo+",
-    "author": "[#984cd7]ThePul[#833edd]lerCell",
-    "lastUpdated": "2026-04-22T08:51:26Z",
+    "repo": "huanxefh/lovecraftian-library-java",
+    "internalName": "lovec",
+    "name": "Lovecraftian Library",
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-04-22T10:35:08Z",
     "stars": 7,
-    "minGameVersion": "155",
+    "minGameVersion": "156",
     "hasScripts": true,
-    "hasJava": false,
-    "description": "An expansion of Serpulo, featuring a variety of new things:\n\n- New tiers for a variety of blocks, from [#9a9fb4]Scrap[white] to [#4a90ad]Cryogenic[white], existing for item distribution blocks, as Pneumatic Drill upgrades, and to the Power Node and Solar Panel with the large variant.\n\n- Upgrades for factory blocks from vanilla, including the Oven as an upgrade to the Kiln, Plastanium Infuser as an upgrade to the Plastanium Compressor, Phase Loom as an upgrade to the Phase Weaver, etc.\n\n- Expanded scrap processing lines: Specific Separators which separate slag down into specific items, and the Scrap Compactor which turns Graphite, Titanium and Thorium into Scrap.\n\n- And more! More stuff existing includes the Core: Apex with the Delta core unit, Spore Invader and Collector, and the Cell Incubator and Reactor.\n\nCredits:\n\n- [#ff]T[#b]w[#5]e[#2]u[white] (tinnphat_ on Discord), for spriting most old sprites in the mod, aswell as continuing Renn's work. \n\n- red.id9990 on Discord, for spriting most new sprites in the mod. \n\n- [#8cff00]Telesteel[white] (giga_chad96 on Discord) for Tesla turret sprite."
+    "hasJava": true,
+    "description": "A JavaScript library for my other mods, with codes for multi-crafters, recipe dictionary, damage display, etc.\nWell, not 100% JavaScript."
   },
   {
     "repo": "64-tesseract/erekir-logic-improved",
@@ -3517,18 +3529,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Add an admin button."
-  },
-  {
-    "repo": "huanxefh/lovecraftian-library-java",
-    "internalName": "lovec",
-    "name": "Lovecraftian Library",
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-04-22T10:35:08Z",
-    "stars": 6,
-    "minGameVersion": "156",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "A JavaScript library for my other mods, with codes for multi-crafters, recipe dictionary, damage display, etc.\nWell, not 100% JavaScript."
   },
   {
     "repo": "zerattel/mindustry-red-alert-3-soundtrack-pack",
@@ -12305,15 +12305,27 @@
     "description": "Mod for creating and viewing replays"
   },
   {
+    "repo": "fhgdhgvhggvfgg/cheetah",
+    "internalName": "cheetah 01",
+    "name": "cheetah 01",
+    "author": "keven",
+    "lastUpdated": "2026-04-22T12:09:19Z",
+    "stars": 0,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "warriors cheetahs. Each core you destroy unlocks a new block or unit to play with. Core destruction breaks."
+  },
+  {
     "repo": "capotishe/memdustry-mod-for-mindustry",
     "internalName": "mem-mindustry",
     "name": "MemDustry",
     "author": "Capotishe",
-    "lastUpdated": "2026-04-22T08:23:12Z",
+    "lastUpdated": "2026-04-22T12:50:53Z",
     "stars": 0,
     "minGameVersion": "157.2",
     "hasScripts": false,
     "hasJava": false,
-    "description": "\r\nThis mod replaces set by default sound effects with some audio-memes.\r\nI made this mod because mod like this doesn't exist.\r\nThis mod is under construction!\r\n"
+    "description": "This mod replaces set by default sound effects with some audio-memes.\r\nThis mod is under construction!"
   }
 ]
