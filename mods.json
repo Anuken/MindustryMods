@@ -64,7 +64,7 @@
     "internalName": "asthosus",
     "name": "Asthosus",
     "author": "Catser",
-    "lastUpdated": "2026-04-22T08:36:15Z",
+    "lastUpdated": "2026-04-23T14:33:27Z",
     "stars": 226,
     "minGameVersion": "156.2",
     "hasScripts": false,
@@ -461,7 +461,7 @@
     "internalName": "he",
     "name": "Helium",
     "author": "EBwilson",
-    "lastUpdated": "2026-04-21T16:19:59Z",
+    "lastUpdated": "2026-04-23T15:22:45Z",
     "stars": 48,
     "minGameVersion": "156",
     "hasScripts": false,
@@ -625,6 +625,18 @@
     "description": "\nRU\nМод добавляет огромное количество схем для разных направлений и времени игры.\n\nENG\nMod adds a lot of schemes for different directions and time.\n\nUA\nМод додає велику кількість схем для різноманітних напрямків та часу гри.\n"
   },
   {
+    "repo": "i-hope1/mod-tools",
+    "internalName": "mod-tools",
+    "name": "mod-tools",
+    "author": "I hope...",
+    "lastUpdated": "2026-04-12T07:02:31Z",
+    "stars": 38,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod provides various tools for modding.\n\n-----------------\nVersion 1.5.8\n## Highlight\n1. 继续完善HotSwap（Preview）\n2. 修复大量的bug\n- 修复配置文件的格式化问题\n- 修复ValueLabel的对齐不对，分隔符不对等大量问题\n3. 其他的一些优化\n\n-----------------\nWIKI: https://i-hope1.github.io/mod-tools"
+  },
+  {
     "repo": "deercarbonate/azimuth",
     "internalName": "azimut",
     "name": "Azimuth",
@@ -647,18 +659,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Lets you type into the console.\nPress F8 to open."
-  },
-  {
-    "repo": "i-hope1/mod-tools",
-    "internalName": "mod-tools",
-    "name": "mod-tools",
-    "author": "I hope...",
-    "lastUpdated": "2026-04-12T07:02:31Z",
-    "stars": 37,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod provides various tools for modding.\n\n-----------------\nVersion 1.5.8\n## Highlight\n1. 继续完善HotSwap（Preview）\n2. 修复大量的bug\n- 修复配置文件的格式化问题\n- 修复ValueLabel的对齐不对，分隔符不对等大量问题\n3. 其他的一些优化\n\n-----------------\nWIKI: https://i-hope1.github.io/mod-tools"
   },
   {
     "repo": "nullotte/carpe-diem",
@@ -1445,7 +1445,7 @@
     "internalName": "patch-editor",
     "name": "PatchEditor",
     "author": "minRi2",
-    "lastUpdated": "2026-04-20T15:42:48Z",
+    "lastUpdated": "2026-04-23T14:38:12Z",
     "stars": 16,
     "minGameVersion": "156",
     "hasScripts": false,
@@ -2281,18 +2281,6 @@
     "description": "Meet shards\nShards is located far away from the sun and is basically frozen with tiny bugs of radiation.\nAlthough this planet has units, most of the time you'll be fighting walking mushrooms which is infected by lushion and droxium.\nThis mod is also filled with random stuff and after the fifth sector it's basically unplayable as it'll be unbalanced.\nAlso I'm actively reworking every sector.\nNote that kjol and cold moon is being removed and is rather be kept as a normal moon."
   },
   {
-    "repo": "tyt-xexebe/qol-control",
-    "internalName": "qol-control",
-    "name": "QoL Control",
-    "author": "TyTxexebe",
-    "lastUpdated": "2026-04-14T12:10:46Z",
-    "stars": 10,
-    "minGameVersion": "154",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A lot of useful & QoL features\ntype !qol <cmd?> in chat to get more info\n\nyou can add your mlog codes in Mindustry directory /files/qol/mlog/ to use them with !mlog\n\nyou can add your regex in Mindustry directory /files/qol/mlog/regex.json to use it in !detector\n\nmore detailed mod info on github page, please give me a star :>\n\ndiscord: @tytxexebe"
-  },
-  {
     "repo": "hao-1337/mindustry-better-vanilla",
     "internalName": "hao1337-mod",
     "name": "[ Better Vanilla ]",
@@ -2305,11 +2293,23 @@
     "description": "Add wonderful contents for vanilla experience. For more info, please visit github page of this mod!\n\nDUE TO GAME VERSION MISMATCH, This version is using for v157!\nYou can get a older (v147 version) of this mod from github release."
   },
   {
+    "repo": "tyt-xexebe/qol-control",
+    "internalName": "qol-control",
+    "name": "QoL Control",
+    "author": "TyTxexebe",
+    "lastUpdated": "2026-04-23T13:55:47Z",
+    "stars": 10,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A lot of useful & QoL features\ntype !qol <cmd?> in chat to get more info\n\nyou can add your mlog codes in Mindustry directory /files/qol/mlog/ to use them with !mlog\n\nyou can add your regex in Mindustry directory /files/qol/mlog/regex.json to use it in !detector\n\nmore detailed mod info on github page, please give me a star :>\n\ndiscord: @tytxexebe"
+  },
+  {
     "repo": "jennii94900-tech/mod",
     "internalName": "ochpoch-mob",
     "name": "Hooligan",
     "author": "Hello,Andrei",
-    "lastUpdated": "2026-04-21T15:53:16Z",
+    "lastUpdated": "2026-04-23T15:24:10Z",
     "stars": 10,
     "minGameVersion": "157",
     "hasScripts": false,
@@ -2789,7 +2789,7 @@
     "internalName": "gr",
     "name": "Gier: Revitalized",
     "author": "Fat Bird's Owner - Dev",
-    "lastUpdated": "2026-04-23T12:13:22Z",
+    "lastUpdated": "2026-04-23T14:59:14Z",
     "stars": 8,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -4719,6 +4719,18 @@
     "description": "Recreation of my first mod"
   },
   {
+    "repo": "thechronodonut1337/silent-orchestra",
+    "internalName": "silent-orchestra",
+    "name": "Sounds like Argus",
+    "author": "Aurora",
+    "lastUpdated": "2026-03-15T14:36:34Z",
+    "stars": 4,
+    "minGameVersion": "154.3",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Have you ever wondered what it would be like if Mindustry sounded like an open-world RPG? Well, now you can, with these collection of music and SFX replacements from FFXIV, Library of Ruina, Arknights, Terraria, and more."
+  },
+  {
     "repo": "ramazanduruev/luntunworld",
     "internalName": "ln",
     "name": "luntun",
@@ -4779,18 +4791,6 @@
     "description": "unlock the research."
   },
   {
-    "repo": "darkdustry-coders/mindurkacompat",
-    "internalName": "mindurkacompat",
-    "name": "MindurkaCompat",
-    "author": "buj",
-    "lastUpdated": "2026-04-19T20:08:18Z",
-    "stars": 4,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mod that adds extra compatibility with Mindurka"
-  },
-  {
     "repo": "derekshaheen/mindustry-resource-rate-monitor",
     "internalName": "resource-rate-monitor",
     "name": "Resource Rate Monitor",
@@ -4801,6 +4801,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Simply allows you to monitor your resource rate changes in real time."
+  },
+  {
+    "repo": "darkdustry-coders/mindurkacompat",
+    "internalName": "mindurkacompat",
+    "name": "MindurkaCompat",
+    "author": "buj",
+    "lastUpdated": "2026-04-23T14:32:24Z",
+    "stars": 4,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mod that adds extra compatibility with Mindurka"
   },
   {
     "repo": "mythril382/ammoswap",
@@ -5607,18 +5619,6 @@
     "description": "欢迎来到终末地工业。\n[blue]《终末地工业Lib》是一款将《明日方舟：终末地》的部分物品与设备加入Mindustry的模组。\n[green]开发中……\n[red]注意！该版本处于开发初期，存在大量Bug与未完成的部分。若想要进行游玩，需前往Github Release下载本模组。目前暂未适配手机端。\n[green]欢迎前往GitHub Release下载本模组\n[red]别急着期待\n"
   },
   {
-    "repo": "thechronodonut1337/silent-orchestra",
-    "internalName": "silent-orchestra",
-    "name": "Sounds like Argus",
-    "author": "Aurora",
-    "lastUpdated": "2026-03-15T14:36:34Z",
-    "stars": 3,
-    "minGameVersion": "154.3",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Have you ever wondered what it would be like if Mindustry sounded like an open-world RPG? Well, now you can, with these collection of music and SFX replacements from FFXIV, Library of Ruina, Arknights, Terraria, and more."
-  },
-  {
     "repo": "50275/legacy-launch-pads",
     "internalName": "legacy-launch-pads",
     "name": "Legacy Launch Pads",
@@ -5702,6 +5702,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Creators Core System"
+  },
+  {
+    "repo": "redloong9527/logic-chinese-localization",
+    "internalName": "logicchineselocalization",
+    "name": "逻辑汉化补丁v1.2",
+    "author": "redloong9527",
+    "lastUpdated": "2026-04-20T14:03:53Z",
+    "stars": 3,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "给逻辑处理器界面里的部分词条添加了中文悬停提示框"
   },
   {
     "repo": "penguip/a-mindustry-mod",
@@ -7226,18 +7238,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\n[blue]=====INFO=========================\n[gold]ThermalEnginerring  [red]0.0.2_A\n[blue]=====DESCRIPTION==================\n[sky]A mindustry Java&Kotlin(JVM) Mod\n一个Mindustry的JVMMod\n"
-  },
-  {
-    "repo": "redloong9527/logic-chinese-localization",
-    "internalName": "logicchineselocalization",
-    "name": "逻辑汉化补丁v1.2",
-    "author": "redloong9527",
-    "lastUpdated": "2026-04-20T14:03:53Z",
-    "stars": 2,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "给逻辑处理器界面里的部分词条添加了中文悬停提示框"
   },
   {
     "repo": "lu69159/liquidindustry",
@@ -9555,6 +9555,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "warriors cheetahs. Each core you destroy unlocks a new block or unit to play with. Core destruction breaks."
+  },
+  {
+    "repo": "xenonixq/clajv8",
+    "internalName": "clajv8",
+    "name": "CLaJV8",
+    "author": "Xenonix",
+    "lastUpdated": "2026-04-23T14:58:54Z",
+    "stars": 1,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds Claj protocol for Mindustry 157.4 and later builds."
   },
   {
     "repo": "exxleo/exoterusmod",
