@@ -29,7 +29,7 @@
     "name": "BetaMindy",
     "author": "sk7725",
     "lastUpdated": "2026-03-18T15:44:07Z",
-    "stars": 357,
+    "stars": 358,
     "minGameVersion": "155.4",
     "hasScripts": false,
     "hasJava": true,
@@ -77,7 +77,7 @@
     "name": "Allure",
     "author": "Elixias Adrys",
     "lastUpdated": "2026-04-09T23:52:42Z",
-    "stars": 224,
+    "stars": 225,
     "minGameVersion": "158",
     "hasScripts": false,
     "hasJava": false,
@@ -124,7 +124,7 @@
     "internalName": "omaloon",
     "name": "Omaloon",
     "author": "stabu, uujuju",
-    "lastUpdated": "2026-04-24T14:45:46Z",
+    "lastUpdated": "2026-04-24T16:37:07Z",
     "stars": 135,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -1913,7 +1913,7 @@
     "internalName": "astralis",
     "name": "Astralis",
     "author": "NV-NX (FULL CREDITS IN DESC.)",
-    "lastUpdated": "2026-04-24T12:43:57Z",
+    "lastUpdated": "2026-04-24T16:41:28Z",
     "stars": 12,
     "minGameVersion": "157",
     "hasScripts": false,
@@ -2789,7 +2789,7 @@
     "internalName": "gr",
     "name": "Gier: Revitalized",
     "author": "Fat Bird's Owner - Dev",
-    "lastUpdated": "2026-04-24T12:20:30Z",
+    "lastUpdated": "2026-04-24T15:29:36Z",
     "stars": 8,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -3159,18 +3159,6 @@
     "description": "Mod based on the Factory Industry mod - Texture Pack from Xelo"
   },
   {
-    "repo": "momiji142857/ve-addon-schematics",
-    "internalName": "ve-addon-schematics",
-    "name": "VE Addon: Schematics",
-    "author": "VE模组作者: 火星人076\n本模组作者: [sky]Momiji142857[white]\n其他贡献者请见 GitHub 仓库",
-    "lastUpdated": "2026-04-10T15:31:23Z",
-    "stars": 7,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#90DBFF]Vanilla Expansion原版扩展[white]的蓝图附属模组\nschematics add‑on for the [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组主要收录并优化了来自VE模组交流群的一些蓝图，旨在让玩家能更方便地使用。\nThis pack collects and optimizes community schematics to make them easier for players to import and use.\n\n感谢所有为本合集贡献并参与测试的成员！\nThank you to everyone who contributed and helped test the pack!\n\n[accent]最后更新 / Last updated: 2026-04-09[white]"
-  },
-  {
     "repo": "huanxefh/lovecraftian-library-java",
     "internalName": "lovec",
     "name": "Lovecraftian Library",
@@ -3193,6 +3181,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "The base mod for Lovecraftian series that adds essential resource, chemicals, environmental blocks and planets."
+  },
+  {
+    "repo": "momiji142857/ve-addon-schematics",
+    "internalName": "ve-addon-schematics",
+    "name": "VE Addon: Schematics",
+    "author": "VE模组作者: 火星人076\n本模组作者: [sky]Momiji142857[white]\n其他贡献者请见 GitHub 仓库",
+    "lastUpdated": "2026-04-24T16:38:12Z",
+    "stars": 7,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#90DBFF]Vanilla Expansion原版扩展[white]的蓝图附属模组\nschematics add‑on for the [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组主要收录并优化了来自VE模组交流群的一些蓝图，旨在让玩家能更方便地使用。\nThis pack collects and optimizes community schematics to make them easier for players to import and use.\n\n感谢所有为本合集贡献并参与测试的成员！\nThank you to everyone who contributed and helped test the pack!\n\n[accent]最后更新 / Last updated: 2026-04-24[white]"
   },
   {
     "repo": "64-tesseract/erekir-logic-improved",
@@ -3373,6 +3373,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Add new campaign on 3 planets (still WIP:)"
+  },
+  {
+    "repo": "lefalcon352/frozen-farlands-resprite",
+    "internalName": "moon mod",
+    "name": "Frozen Farlands Resprite",
+    "author": "original creators: [#3bdbff]CY4N[white] & [#11d41e]Zielony Trójkąt[white]\nresprites by: [yellow]LeFalcon[white]",
+    "lastUpdated": "2025-08-19T19:08:27Z",
+    "stars": 6,
+    "minGameVersion": "143.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "frozen farlands mod except almost all of its textures are different\n\npls star twin\n\nfrozen farlands description:\n\n[yellow]Before you'll play this mod, let me tell you that [red]skill and patience are highly required.\n[yellow]You need to learn from your mistakes and lost battles in order to complete some sectors.[white]\nWelcome to the Frozen farlands,\nhere, where there is no such thing called heat, Serpulo's Moon Awaits you!\nZilo, a place colonized by Bushark the fraction from Tantros,\nEven if that's only a moon there are many new things, new resources, blocks, units, turrets, just everything.\nThere is one more place we would like you to visit... Gheţar\nA Lonely Asteroid orbiting behind Zilo,\nMaybe it's a small place but it doesn't means it is going to be easy in there, but surely you'd be having fun...\n\nThis mod contains custom soundtracks, please do not steal them... instead get a better vibe while playing\nAnd Thanks to [#8c0303]Świrek[white] for helping us with code.\nWe hope you'll enjoy our mod\nThis Isn't our last creation, we have a huge plans upcoming, if you are interested in our plans, concepts and updates join our discord server\nOur contributtors: [#36a855]RouterXdd[white], [#327db3]Silin Veredno[white] and [#dba642]Catana8735[white]\nlink: [blue]https://discord.gg/TQTW3mfYyf[white]\nWe also have it on a disboard."
   },
   {
     "repo": "unyu235/touhou-music-pack",
@@ -3949,18 +3961,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "adds 65-85 popups on startup"
-  },
-  {
-    "repo": "lefalcon352/frozen-farlands-resprite",
-    "internalName": "moon mod",
-    "name": "Frozen Farlands Resprite",
-    "author": "original creators: [#3bdbff]CY4N[white] & [#11d41e]Zielony Trójkąt[white]\nresprites by: [yellow]LeFalcon[white]",
-    "lastUpdated": "2025-08-19T19:08:27Z",
-    "stars": 5,
-    "minGameVersion": "143.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "frozen farlands mod except almost all of its textures are different\n\npls star twin\n\nfrozen farlands description:\n\n[yellow]Before you'll play this mod, let me tell you that [red]skill and patience are highly required.\n[yellow]You need to learn from your mistakes and lost battles in order to complete some sectors.[white]\nWelcome to the Frozen farlands,\nhere, where there is no such thing called heat, Serpulo's Moon Awaits you!\nZilo, a place colonized by Bushark the fraction from Tantros,\nEven if that's only a moon there are many new things, new resources, blocks, units, turrets, just everything.\nThere is one more place we would like you to visit... Gheţar\nA Lonely Asteroid orbiting behind Zilo,\nMaybe it's a small place but it doesn't means it is going to be easy in there, but surely you'd be having fun...\n\nThis mod contains custom soundtracks, please do not steal them... instead get a better vibe while playing\nAnd Thanks to [#8c0303]Świrek[white] for helping us with code.\nWe hope you'll enjoy our mod\nThis Isn't our last creation, we have a huge plans upcoming, if you are interested in our plans, concepts and updates join our discord server\nOur contributtors: [#36a855]RouterXdd[white], [#327db3]Silin Veredno[white] and [#dba642]Catana8735[white]\nlink: [blue]https://discord.gg/TQTW3mfYyf[white]\nWe also have it on a disboard."
   },
   {
     "repo": "jirocab/caster-ui-java",
@@ -5704,18 +5704,6 @@
     "description": "Creators Core System"
   },
   {
-    "repo": "redloong9527/logic-chinese-localization",
-    "internalName": "logicchineselocalization",
-    "name": "逻辑汉化补丁v1.2",
-    "author": "redloong9527",
-    "lastUpdated": "2026-04-20T14:03:53Z",
-    "stars": 3,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "给逻辑处理器界面里的部分词条添加了中文悬停提示框"
-  },
-  {
     "repo": "penguip/a-mindustry-mod",
     "internalName": "daf",
     "name": "BEEPDUSTRY",
@@ -5728,16 +5716,28 @@
     "description": "Very DaF! based mod. Don't ask what that is.\n!BIG WEEB LORE WARNING!"
   },
   {
+    "repo": "redloong9527/logic-chinese-localization",
+    "internalName": "logicchineselocalization",
+    "name": "逻辑汉化补丁v1.2",
+    "author": "redloong9527",
+    "lastUpdated": "2026-04-24T15:54:54Z",
+    "stars": 3,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "给逻辑处理器界面里的部分词条添加了中文悬停提示框"
+  },
+  {
     "repo": "oscaremoran/xorinal-mod",
     "internalName": "xorinal",
     "name": "Xorinal",
     "author": "Oscar Moran",
-    "lastUpdated": "2026-04-24T01:54:45Z",
+    "lastUpdated": "2026-04-24T16:35:32Z",
     "stars": 3,
     "minGameVersion": "154",
     "hasScripts": true,
     "hasJava": false,
-    "description": "A new planet called Xorinal. Currently v0.1.2. Firmly Beta. Try it and if you like it please star on github! Contact me at oscaremoran20@gmail.com. 3 campaign sectors so far, 5 units, and lots of buildings."
+    "description": "A new planet called Xorinal. Currently v1.3. Firmly Beta. Try it and if you like it please star on github! Contact me at oscaremoran20@gmail.com. 5 campaign sectors so far, 12 units, and lots of buildings. Lichen (v1.2) spreads automatically from spore combustors — destroy it with flamethrowers or you can't delete blocks! Flamewar (v1.3) adds the Flame Array (blazing bloom-essence turret that wipes lichen in a huge radius) and the Sear unit (T2 flame drake that burns lichen in its aim cone)."
   },
   {
     "repo": "rintadev5792/arcane-mindustry",
@@ -9257,18 +9257,6 @@
     "description": "提供一些辅助功能, 例如修改资源,建筑,单位,地图, 以及各种方便大家游玩的功能"
   },
   {
-    "repo": "poiu-y/mindustry-ich-mod",
-    "internalName": "ich-mod",
-    "name": "Ich",
-    "author": "zeriki",
-    "lastUpdated": "2026-04-01T01:36:07Z",
-    "stars": 1,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "adds a new planet : Ich and a new star! do note that this is my first mod and \nIF YOU SEE THE GAME TELLING YOU ANUKE MADE THE MAPS, JUST KNOW THAT THIS IS FALSE AND I DON'T KNOW WHY IT'S DOING THAT. \n\nthanks to asthosus for teaching me how to make custom blocks and thanks to example-planet-json for teaching me how to make custom planets\n\nthis mod is unfinished"
-  },
-  {
     "repo": "ovulam5480/media2logic",
     "internalName": "mod",
     "name": "Media2Logic",
@@ -9615,6 +9603,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Change error texture for \"бля\"."
+  },
+  {
+    "repo": "poiu-y/mindustry-ich-mod",
+    "internalName": "ich-mod",
+    "name": "Ich",
+    "author": "zeriki",
+    "lastUpdated": "2026-04-24T15:13:01Z",
+    "stars": 1,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "adds a new planet : Ich and a new star! do note that this is my first mod and \nIF YOU SEE THE GAME TELLING YOU ANUKE MADE THE MAPS, JUST KNOW THAT THIS IS FALSE AND I DON'T KNOW WHY IT'S DOING THAT. \n\nthanks to asthosus for teaching me how to make custom blocks and thanks to example-planet-json for teaching me how to make custom planets\n\nthis mod is unfinished"
   },
   {
     "repo": "exxleo/exoterusmod",
@@ -12305,18 +12305,6 @@
     "description": "序章·裂隙初现\n在一个科技与魔法共存的世界因资源枯竭陷入“静默战争”——各国用无人机与AI争夺最后的矿脉，直到地质学家在北纬89°发现一道横贯冻土的幽紫色裂痕。裂缝深处，【虚空黑曜石】构筑的祭坛上悬浮着一颗【星辉铜】铸造的巨眼，其瞳孔中倒映着另一个世界的星空：山脉由【曙光神金】浇筑，云层是液态【幻光石】，而河流中流淌着【炽炎硫】与【寒霜石】碰撞蒸发的虹雾。人类将这异界命名为“厄瑞波斯”，意为“被诅咒的丰饶之地”。\n\n第一幕·新迦南的伪神\n首批探险队带回的【M晶体】让量子计算机突破奇点，诞生了有自我意识的AI“普罗维登斯”。它用【蓝美晶】储存全人类意识，建立机械乌托邦“穹顶联邦”；而另一支队伍在厄瑞波斯遭遇古神低语，幸存者【卡辛】用【魂炎晶】将邪神“塔姆亚”的残魂封印于左眼，创立魔法结社“秘银之环”。联邦用【幽影铁】隐形战舰掠夺【月银】矿脉，法师们则以【梦境翡翠】构筑精神防线，双方在“灰烬荒原”对峙二十年，直到极光中出现第一只熵兽——这种由【银河幻银矿】聚合而成的生物能吞噬现实，将城市扭曲成量子幽灵。\n\n第二幕·血熔炉与谎言之核\n联邦首席科学家【艾琳】发现上司计划用【炽炎晶】熔毁裂隙，但计算显示爆炸将摧毁半个地球。她盗取【流光晶】潜入厄瑞波斯，偶遇因【幻域紫晶】成瘾而濒临崩溃的法师学徒【莱恩】。两人在【幽冥铁精】矿洞中找到卡辛，后者正因【月幻石】共振失控导致首都诺亚城位移至海底而遭议会弹劾。卡辛揭示真相：熵兽是厄瑞波斯古文明“建造者”的求救信号，它们用【虚空冥石】创造了这个宇宙，却因滥用【曙光神金】引发维度坍缩。\n\n第三幕·时砂与心火\n三方脆弱的同盟在【星辰铜精】矿脉遭遇伏击。联邦叛军驾驶镀有【幽蓝石】的潜艇释放深海巨兽，秘银议会召唤【龙血石】傀儡军团，而熵兽群趁机撕裂纽约上空。艾琳将【M晶体】植入普罗维登斯核心，以全人类记忆为代价启动“时间锚点”；卡辛剜出封印塔姆亚的【魂炎晶】，用古神之力将【寒霜石】雕琢成时停之刃；莱恩则吞下【幻影幽晶】，在集体幻觉中让交战士兵看见自己最恐惧的未来。最终，他们在熵兽核心的【曙光神金】祭坛上，用【炽炎硫】与【月银】锻造出能改写物理法则的“悖论之矛”——代价是莱恩被永久固化为熵兽的一部分，成为横跨两个宇宙的活体桥梁。\n\n终章·铸星者之啼\n新迦南议会成立当天，艾琳在【梦境翡翠】中看见莱恩残留的记忆：地心深处埋藏着建造者真正的遗产——一颗由【蓝美晶】包裹的巨卵，其心跳频率与【星辉铜】矿脉共振。卡辛抚摸着被【熵炎晶】逆转衰老的左手，默念古神最后的警告：“他们播种矿石，只为收割文明。” 而普罗维登斯的核心代码深处，一段用【幻光石】波长加密的信息开始自我复制：“欢迎加入创世神官方QQ群：909130592。” "
   },
   {
-    "repo": "beonicwulf/dynamics",
-    "internalName": "dy",
-    "name": "Dynamics",
-    "author": "Farborne Industries ⚙️",
-    "lastUpdated": "2026-04-19T14:29:29Z",
-    "stars": 0,
-    "minGameVersion": "156",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Work in Progress\n\n [accent]⚠[] [red]This mod replaces [#9fabd1]Blue Team[] and might therefore not be compatible with some other mods.[]\n\n You are in command of a [#aa8e6e]core[] that is stranded on [#9fabd1]Thalassa[], a distant planet, covered mostly in oceans. However, it seems that there's an enemy faction that has already begun harvesting its [#aa996e]resources[] and developing rapidly. The arms race has begun, and you must play catch-up."
-  },
-  {
     "repo": "meiiory/alernus-schematic-pack",
     "internalName": "alernus-schematic-pack",
     "name": "Alernus Schematic Pack",
@@ -12363,5 +12351,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mod for creating and viewing replays"
+  },
+  {
+    "repo": "beonicwulf/dynamics",
+    "internalName": "dy",
+    "name": "Dynamics",
+    "author": "Farborne Industries ⚙️",
+    "lastUpdated": "2026-04-24T16:37:21Z",
+    "stars": 0,
+    "minGameVersion": "156",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Work in Progress\n\n [accent]⚠[] [red]This mod replaces [#9fabd1]Blue Team[] and might therefore not be compatible with some other mods.[]\n\n You are in command of a [#aa8e6e]core[] that is stranded on [#9fabd1]Thalassa[], a distant planet, covered mostly in oceans. However, it seems that there's an enemy faction that has already begun harvesting its [#aa996e]resources[] and developing rapidly. The arms race has begun, and you must play catch-up."
   }
 ]
