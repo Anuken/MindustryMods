@@ -232,7 +232,7 @@
     "internalName": "aquarion",
     "name": "Aquarion",
     "author": "twcash",
-    "lastUpdated": "2026-04-24T12:50:25Z",
+    "lastUpdated": "2026-04-25T18:13:03Z",
     "stars": 92,
     "minGameVersion": "157.4",
     "hasScripts": false,
@@ -641,7 +641,7 @@
     "internalName": "azimut",
     "name": "Azimuth",
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-04-25T16:25:05Z",
+    "lastUpdated": "2026-04-25T17:15:04Z",
     "stars": 38,
     "minGameVersion": "156.2",
     "hasScripts": true,
@@ -677,7 +677,7 @@
     "internalName": "md3",
     "name": "MoreDefences",
     "author": "CD, 7rodo and meowkitty",
-    "lastUpdated": "2026-04-24T20:39:11Z",
+    "lastUpdated": "2026-04-25T16:42:06Z",
     "stars": 35,
     "minGameVersion": "157",
     "hasScripts": true,
@@ -2550,7 +2550,7 @@
     "internalName": "wh",
     "name": "WarHammer",
     "author": "LaoMoze",
-    "lastUpdated": "2026-04-25T16:06:25Z",
+    "lastUpdated": "2026-04-25T16:31:16Z",
     "stars": 9,
     "minGameVersion": "154.2",
     "hasScripts": false,
@@ -3183,18 +3183,6 @@
     "description": "[#90DBFF]Vanilla Expansion原版扩展[white]的蓝图附属模组\nschematics add‑on for the [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组主要收录并优化了来自VE模组交流群的一些蓝图，旨在让玩家能更方便地使用。\nThis pack collects and optimizes community schematics to make them easier for players to import and use.\n\n感谢所有为本合集贡献并参与测试的成员！\nThank you to everyone who contributed and helped test the pack!\n\n[accent]最后更新 / Last updated: 2026-04-24[white]"
   },
   {
-    "repo": "huanxefh/lovecraftian-library-java",
-    "internalName": "lovec",
-    "name": "Lovecraftian Library",
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-04-25T07:21:38Z",
-    "stars": 7,
-    "minGameVersion": "156",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "A JavaScript library for my other mods, with codes for multi-crafters, recipe dictionary, damage display, etc.\nWell, not 100% JavaScript."
-  },
-  {
     "repo": "m4x1ghg/minedustry",
     "internalName": "minedustry",
     "name": "Minedustry",
@@ -3205,6 +3193,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod introduces a few of Minecrafts mobs, blocks, items, and status effects to Mindustry. The following languages are supported: English, Chinese (thanks to redloong9527 on Github) and german."
+  },
+  {
+    "repo": "huanxefh/lovecraftian-library-java",
+    "internalName": "lovec",
+    "name": "Lovecraftian Library",
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-04-25T17:41:05Z",
+    "stars": 7,
+    "minGameVersion": "156",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "A JavaScript library for my other mods, with codes for multi-crafters, recipe dictionary, damage display, etc.\nWell, not 100% JavaScript."
   },
   {
     "repo": "64-tesseract/erekir-logic-improved",
@@ -3559,7 +3559,7 @@
     "internalName": "v",
     "name": "Planet Vulcanum",
     "author": "kosmofrog",
-    "lastUpdated": "2026-04-25T06:06:16Z",
+    "lastUpdated": "2026-04-25T16:59:28Z",
     "stars": 6,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -5740,30 +5740,6 @@
     "description": "Standalone high-fidelity dynamic shadow system with cinematic day/night cycles and dual-pass rendering."
   },
   {
-    "repo": "penguip/a-mindustry-mod",
-    "internalName": "daf",
-    "name": "BEEPDUSTRY",
-    "author": "DNAlly/penguip",
-    "lastUpdated": "2026-04-25T07:40:18Z",
-    "stars": 3,
-    "minGameVersion": "149",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Very DaF! based mod. Don't ask what that is.\n!BIG WEEB LORE WARNING!"
-  },
-  {
-    "repo": "redloong9527/logic-chinese-localization",
-    "internalName": "logicchineselocalization",
-    "name": "逻辑汉化补丁v1.3.1",
-    "author": "redloong9527",
-    "lastUpdated": "2026-04-25T12:57:00Z",
-    "stars": 3,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "给逻辑处理器界面里的大部分词条都添加了中文悬停提示框，就像原版那样"
-  },
-  {
     "repo": "oscaremoran/xorinal-mod",
     "internalName": "xorinal",
     "name": "Xorinal",
@@ -5774,6 +5750,30 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A new planet called Xorinal. Currently v1.4. Firmly Beta. Try it and if you like it please star on github! Contact me at oscaremoran20@gmail.com. 6 campaign sectors so far, 14 units, and lots of buildings.\n\nUPDATES:\nLICHEN UPDATE (v1.2) spreads automatically from spore combustors — destroy it with flamethrowers or you can't delete blocks!\nFLAMEWAR UPDATE (v1.3) adds the Flame Array (blazing bloom-essence turret that wipes lichen in a huge radius) and the Sear unit (T1 flame drake that burns lichen in its aim cone).\nTETRA UPDATE (v1.4) opens up Tetra: gorgeous new noise-mesh planet view, Cryolith and Cryobreaker frost mechs, Glacierwing T2 flyer, the Frost Shielder reconstructor, Frost Router, and the Frozen Cavern landing sector.\n\nPlease star if you like the mod! Our goal right now is 10 stars. If we get there, I'll add Xorinal t5!"
+  },
+  {
+    "repo": "redloong9527/logic-chinese-localization",
+    "internalName": "logicchineselocalization",
+    "name": "逻辑汉化补丁v1.3.2",
+    "author": "redloong9527",
+    "lastUpdated": "2026-04-25T17:36:09Z",
+    "stars": 3,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "给逻辑处理器界面里的大部分词条都添加了中文悬停提示框，就像原版那样"
+  },
+  {
+    "repo": "penguip/a-mindustry-mod",
+    "internalName": "daf",
+    "name": "BEEPDUSTRY",
+    "author": "DNAlly/penguip",
+    "lastUpdated": "2026-04-25T18:19:35Z",
+    "stars": 3,
+    "minGameVersion": "149",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Very DaF! based mod. Don't ask what that is.\n!BIG WEEB LORE WARNING!"
   },
   {
     "repo": "rintadev5792/arcane-mindustry",
@@ -7180,18 +7180,6 @@
     "description": "[#d2b1ed]< < BETA > >\nDedicated mod to add nearly all descriptions, names and such with colors, unique names and more.\nThis mod will also overwrite properties of items and liquids into their respective form in real life.\n[accent]Note: Some may be fictional according to how they are made in Mindustry ONLY.\n\n[cyan]Features > > >\n\n[accent]Contents-\n\n[#ab7ae2]Serpulo > >\n[#96aceb]Color for Early-game Content.\n[#f7dd8e]Color for Mid-game Content.\n[#b273ff]Color for Late-game Content.\n\n\n[#fa9979]Erekir > >\n\n[#ff6d57]Color for Early-game Content.\n[#fff5bf]Color for Mid-game Content.\n[#c77ac8]Color for Late-game Content.\n"
   },
   {
-    "repo": "wantechfan/mindustry-legacy-sounds",
-    "internalName": "legacy-sounds",
-    "name": "Legacy Sounds",
-    "author": "WantechFan",
-    "lastUpdated": "2026-04-09T08:21:54Z",
-    "stars": 2,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Brings back old SFX. \n[yellow]Still indev so don't expect much.\nSupport this mod by contributing to it via pull request in this mod's repository."
-  },
-  {
     "repo": "ascpial/mindustryautosync",
     "internalName": "mas",
     "name": "Auto Sync",
@@ -7312,16 +7300,28 @@
     "description": "My planet mod for Mindustry. Heavily unfinished.\nMindustry V8 is required for the mod to work.\nMeowkitty contributed with sprites and maps for this mod.\n\nCredits go the the rest of the MoreDefences team for their code, LixieWulf for Allure's planet code (which I modified to make the planet) and Catana791 for some bits of code from Asthosus used in my crafting blocks."
   },
   {
+    "repo": "wantechfan/mindustry-legacy-sounds",
+    "internalName": "legacy-sounds",
+    "name": "Legacy Sounds",
+    "author": "WantechFan",
+    "lastUpdated": "2026-04-25T18:16:05Z",
+    "stars": 2,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Brings back old SFX. \n[yellow]Still indev so don't expect much.\nSupport this mod by contributing to it via pull request in this mod's repository."
+  },
+  {
     "repo": "namds666/item-liquid-teleport",
     "internalName": "item-liquid-teleport",
     "name": "Item Liquid Teleport",
     "author": "namds666 & Claude Code",
-    "lastUpdated": "2026-04-25T16:11:03Z",
+    "lastUpdated": "2026-04-25T18:19:20Z",
     "stars": 2,
     "minGameVersion": "146",
     "hasScripts": true,
     "hasJava": false,
-    "description": "Makes item and liquid teleport in a huge range! 4 cheat-grade 1x1 transport blocks.\n  Update: fix particle direction."
+    "description": "Makes item and liquid teleport globally! 4 cheat-grade 1x1 transport blocks.\n  Update: global chrono mender."
   },
   {
     "repo": "no9527dada/skin",
