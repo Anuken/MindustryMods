@@ -4,7 +4,7 @@
     "internalName": "new-horizon",
     "name": "New Horizon",
     "author": "Yuria & Lao",
-    "lastUpdated": "2026-04-28T08:44:24Z",
+    "lastUpdated": "2026-04-28T15:20:58Z",
     "stars": 566,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -197,7 +197,7 @@
     "name": "MI2-Utilities Java",
     "author": "BlackDeluxeCat",
     "lastUpdated": "2026-04-15T01:30:14Z",
-    "stars": 115,
+    "stars": 116,
     "minGameVersion": "157.1",
     "hasScripts": false,
     "hasJava": true,
@@ -473,7 +473,7 @@
     "internalName": "ice",
     "name": "DeepSpace",
     "author": "Alon",
-    "lastUpdated": "2026-04-28T12:43:55Z",
+    "lastUpdated": "2026-04-28T15:24:37Z",
     "stars": 47,
     "minGameVersion": "157.4",
     "hasScripts": false,
@@ -641,7 +641,7 @@
     "internalName": "azimut",
     "name": "Azimuth",
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-04-28T10:38:19Z",
+    "lastUpdated": "2026-04-28T14:53:02Z",
     "stars": 38,
     "minGameVersion": "156.2",
     "hasScripts": true,
@@ -1466,6 +1466,18 @@
     "description": "Provide an in-game GUI for DataPatcher."
   },
   {
+    "repo": "aazamitsu/anime-units-display",
+    "internalName": "anime-units-display",
+    "name": "anime units display",
+    "author": "あざみ",
+    "lastUpdated": "2026-04-27T14:18:48Z",
+    "stars": 16,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "​操作中にSDキャラを表示する機能を追加、Added a function to display chibi during operation (and router) a lot of updates coming"
+  },
+  {
     "repo": "yuria-shikibe/gameinfoimager",
     "internalName": "game-info-imager",
     "name": "Game Info Imager",
@@ -1512,18 +1524,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod."
-  },
-  {
-    "repo": "aazamitsu/anime-units-display",
-    "internalName": "anime-units-display",
-    "name": "anime units display",
-    "author": "あざみ",
-    "lastUpdated": "2026-04-27T14:18:48Z",
-    "stars": 15,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "​操作中にSDキャラを表示する機能を追加、Added a function to display chibi during operation (and router) a lot of updates coming"
   },
   {
     "repo": "yal-game-things/mindustry-tiny-things",
@@ -2138,19 +2138,6 @@
     "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod is also modifiy ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request[]."
   },
   {
-    "repo": "fat-bird-owner/gier-revitalized",
-    "internalName": "gr",
-    "name": "Gier: Revitalized",
-    "author": "Fat Bird's Owner - Dev",
-    "lastUpdated": "2026-04-28T12:17:56Z",
-    "stars": 11,
-    "minGameVersion": "156",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe.\n\nIf the main version is a bugged then \nplease use the latest releases instead\nas those are stable.\n[]\n\n[accent]Starring is greatly appreciated[]\n[grey](Our current goal is 10 stars)[]\n",
-    "iosCompatible": true
-  },
-  {
     "repo": "jennii94900-tech/mod",
     "internalName": "ochpoch-mob",
     "name": "Hooligan",
@@ -2161,6 +2148,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Frozen planet expansion. Includes custom technology tree, industrial systems, and combat units designed for extreme cold environments."
+  },
+  {
+    "repo": "fat-bird-owner/gier-revitalized",
+    "internalName": "gr",
+    "name": "Gier: Revitalized",
+    "author": "Fat Bird's Owner - Dev",
+    "lastUpdated": "2026-04-28T15:38:20Z",
+    "stars": 11,
+    "minGameVersion": "156",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe.\n\nIf the main version is a bugged then \nplease use the latest releases instead\nas those are stable.\n[]\n\n[accent]Starring is greatly appreciated[]\n[grey](Our current goal is 10 stars)[]\n",
+    "iosCompatible": true
   },
   {
     "repo": "sk7725/betamindymusic",
@@ -9510,18 +9510,6 @@
     "description": "A Dune-themed Mindustry mod. Adds Arrakis."
   },
   {
-    "repo": "xpdustry/slf4md",
-    "internalName": "slf4md",
-    "name": "SLF4MD",
-    "author": "xpdustry",
-    "lastUpdated": "2026-04-21T20:49:52Z",
-    "stars": 1,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A basic SLF4J implementation for Mindustry."
-  },
-  {
     "repo": "xenonixq/clajv8",
     "internalName": "clajv8",
     "name": "CLaJV8",
@@ -9582,18 +9570,6 @@
     "description": "Utility mod for Mindustry Landing Pad"
   },
   {
-    "repo": "bluedoves3821/phighthouse-mindustrymod",
-    "internalName": "phighthouse",
-    "name": "PHIGHTHOUSE!",
-    "author": "PHIGHTHOUSE!",
-    "lastUpdated": "2026-04-26T16:48:43Z",
-    "stars": 1,
-    "minGameVersion": "136.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "PHIGHTHOUSE! is a style i made up which is basically a combination of phighting, a 5v5 fighting game by boggio, and whitehouse, a british extreme music band started by w. bennett.\nthis mod was originally made as \"a mod within a mod\" but it's has been decided to be it's own thing.\n(note: this is mostly just an asset flip imo creds to the modders of vincenzotheduck, zac, Dagger & others.)"
-  },
-  {
     "repo": "mr816543/endless_compression",
     "internalName": "ec",
     "name": "无尽压缩Endless Compression",
@@ -9652,6 +9628,30 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "a mod that add tier\n"
+  },
+  {
+    "repo": "bluedoves3821/phighthouse-mindustrymod",
+    "internalName": "phighthouse",
+    "name": "PHIGHTHOUSE!",
+    "author": "PHIGHTHOUSE!",
+    "lastUpdated": "2026-04-28T13:59:02Z",
+    "stars": 1,
+    "minGameVersion": "136.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "PHIGHTHOUSE! is a style i made up which is basically a combination of phighting, a 5v5 fighting game by boggio, and whitehouse, a british extreme music band started by w. bennett.\nthis mod was originally made as \"a mod within a mod\" but it's has been decided to be it's own thing.\n(note: this is mostly just an asset flip imo creds to the modders of vincenzotheduck, zac, Dagger & others.)"
+  },
+  {
+    "repo": "xpdustry/slf4md",
+    "internalName": "slf4md",
+    "name": "SLF4MD",
+    "author": "xpdustry",
+    "lastUpdated": "2026-04-28T15:37:56Z",
+    "stars": 1,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A basic SLF4J implementation for Mindustry."
   },
   {
     "repo": "exxleo/exoterusmod",
@@ -12442,7 +12442,7 @@
     "internalName": "dy",
     "name": "Dynamics",
     "author": "Farborne Industries ⚙️",
-    "lastUpdated": "2026-04-28T13:13:01Z",
+    "lastUpdated": "2026-04-28T13:40:58Z",
     "stars": 0,
     "minGameVersion": "156",
     "hasScripts": false,
