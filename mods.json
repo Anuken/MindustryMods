@@ -521,7 +521,7 @@
     "internalName": "psammos",
     "name": "Psammos Mod",
     "author": "AndromedaGalaxy29",
-    "lastUpdated": "2026-05-01T10:22:39Z",
+    "lastUpdated": "2026-05-01T11:36:32Z",
     "stars": 43,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -581,7 +581,7 @@
     "internalName": "azimut",
     "name": "Azimuth",
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-05-01T10:26:47Z",
+    "lastUpdated": "2026-05-01T11:56:34Z",
     "stars": 40,
     "minGameVersion": "156.2",
     "hasScripts": true,
@@ -1382,6 +1382,18 @@
     "description": "\r\nA [unlaunched]personal[white] Serpulo campaign rework map pack with personal [sky]minor rebalancing[white] on few blocks.\r\nThis mod's gameplay is based on [sky]NORMAL[white] difficulty and cannot be changed.\r\nContains [sky]40+[white] sectors!\r\nAll maps are created under Serpulo environment and are [#c5cbff]vanilla compatible on terrain , wavesets and most contents[white].\r\n\r\n[#c5cbff]Have fun[white].\r\n\r\n\r\nUpdate log: V0.4 -- Stage 4-6 to Stage 4-10 added.\r\nV0.4.2 -- Polished the texts and 1-10 , 2-10 and 3-10 sectors with a brief ending congrat message.\r\n\r\n--Credits--\r\n[#cccccc]Coding:Everdusk22\r\nSector icon:Seabed\r\nMusic selection:しかみど☆\r\nBundle Polish:Gort\r\nLocalization(zh_CN):仄井心升\r\n"
   },
   {
+    "repo": "aazamitsu/anime-units-display",
+    "internalName": "anime-units-display",
+    "name": "anime units display",
+    "author": "あざみ",
+    "lastUpdated": "2026-04-27T14:18:48Z",
+    "stars": 17,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "​操作中にSDキャラを表示する機能を追加、Added a function to display chibi during operation (and router) a lot of updates coming"
+  },
+  {
     "repo": "mnemotechnician/new-controls-public",
     "internalName": "newcontrols",
     "name": "New controls",
@@ -1440,18 +1452,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "1.从蓝图详情页直接复制逻辑和信息板。2.蓝图消耗计算套件。\nCopy processor/message in schematic info without placing it. Schematic consumption computing tool. \nGithub: BlackDeluxeCat/SchematicParse"
-  },
-  {
-    "repo": "aazamitsu/anime-units-display",
-    "internalName": "anime-units-display",
-    "name": "anime units display",
-    "author": "あざみ",
-    "lastUpdated": "2026-04-27T14:18:48Z",
-    "stars": 16,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "​操作中にSDキャラを表示する機能を追加、Added a function to display chibi during operation (and router) a lot of updates coming"
   },
   {
     "repo": "sputnuc/upgrated-tiers",
@@ -2154,7 +2154,7 @@
     "internalName": "gr",
     "name": "Gier: Revitalized",
     "author": "Fat Bird's Owner - Dev",
-    "lastUpdated": "2026-05-01T10:03:19Z",
+    "lastUpdated": "2026-05-01T12:10:47Z",
     "stars": 11,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -7301,18 +7301,6 @@
     "description": "Makes item and liquid teleport globally! 4 cheat-grade 1x1 transport blocks.\n  Update: fix chrono pusher missing from iOS build menu."
   },
   {
-    "repo": "lu69159/liquidindustry",
-    "internalName": "液体工艺",
-    "name": "Liquid Industry",
-    "author": "Space",
-    "lastUpdated": "2026-04-30T17:56:02Z",
-    "stars": 2,
-    "minGameVersion": "157.4",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "Liquid Industry for v157.4+\nBeta v0.23.8"
-  },
-  {
     "repo": "wantechfan/mindustry-legacy-sounds",
     "internalName": "legacy-sounds",
     "name": "Legacy Sounds",
@@ -7323,6 +7311,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Brings back old SFX. \n[red]Still indev so don't expect much.\n[yellow]Support this mod by contributing to it via pull request in this mod's repository."
+  },
+  {
+    "repo": "lu69159/liquidindustry",
+    "internalName": "液体工艺",
+    "name": "Liquid Industry",
+    "author": "Space",
+    "lastUpdated": "2026-05-01T12:43:38Z",
+    "stars": 2,
+    "minGameVersion": "157.4",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "Liquid Industry for v157.4+\nBeta v0.23.8"
   },
   {
     "repo": "no9527dada/skin",
@@ -9642,18 +9642,6 @@
     "description": "A resource library mod for my mod, simple-additions, and many others too, possibly."
   },
   {
-    "repo": "xiaobei08/silicon",
-    "internalName": "silicon",
-    "name": "Silicon",
-    "author": "Xiaobei",
-    "lastUpdated": "2026-05-01T08:09:51Z",
-    "stars": 1,
-    "minGameVersion": "155.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "一个添加了个人想法的模组"
-  },
-  {
     "repo": "wantechfan/mindustry-reversed-musics",
     "internalName": "reversed-musics",
     "name": "Reversed Musics",
@@ -9676,6 +9664,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod."
+  },
+  {
+    "repo": "xiaobei08/silicon",
+    "internalName": "silicon",
+    "name": "Silicon",
+    "author": "Xiaobei",
+    "lastUpdated": "2026-05-01T12:32:04Z",
+    "stars": 1,
+    "minGameVersion": "155.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "一个添加了个人想法的模组"
   },
   {
     "repo": "exxleo/exoterusmod",
