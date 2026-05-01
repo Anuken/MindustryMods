@@ -53,7 +53,7 @@
     "name": "Schema",
     "author": "xzxADIxzx",
     "lastUpdated": "2025-04-29T22:07:01Z",
-    "stars": 229,
+    "stars": 230,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -329,7 +329,7 @@
     "name": "Project: Restoration",
     "author": "VvSeanGtvV",
     "lastUpdated": "2026-04-24T04:38:10Z",
-    "stars": 70,
+    "stars": 71,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
@@ -661,6 +661,18 @@
     "description": "Lets you type into the console.\nPress F8 to open."
   },
   {
+    "repo": "coaldeficit/moredefences",
+    "internalName": "md3",
+    "name": "MoreDefences",
+    "author": "[grey]CD[], [#FC8E6C]meowkitty[] and [#ff0059]7rodo[]",
+    "lastUpdated": "2026-04-30T14:58:12Z",
+    "stars": 36,
+    "minGameVersion": "157.4",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod made by [grey]CD[], [#FC8E6C]meowkitty[] and [#ff0059]7rodo[] that overhauls the campaign, significantly modifying [#7457ce]Serpulo[]'s campaign and adding a new planet, [blue]Fieros[].\n\nAmidst the features in this mod are:\n[grey]-[] [accent]18[] New [accent]Turrets[] to defend with\n[grey]-[] [accent]21[] New [accent]Units[] to attack with\n[grey]-[] [accent]16[] New campaign [accent]Sectors[] to play on, including [accent]2 Remakes[] of vanilla sectors\n[grey]-[] [accent]Post-Surge Alloy-tier[] content for Serpulo\n[grey]-[] [accent]12[] New Miscellaneous blocks to mess around with on Serpulo\n\n[#e38a88]⚠ This mod moves Serpulo sectors around without moving their saves, backup your game data in [ SETTINGS > GAME DATA ] before enabling/disabling this mod to prevent campaign corruption if you have any campaign saves. ⚠[]\n\n[grey]Discord: https://discord.gg/9YHA3q8HHq[]"
+  },
+  {
     "repo": "nullotte/carpe-diem",
     "internalName": "carpe-diem",
     "name": "Carpe Diem",
@@ -671,18 +683,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThis mod is mostly complete in terms of implemented content, but its campaign is still unfinished. Either way, I hope you'll enjoy what the mod has to offer."
-  },
-  {
-    "repo": "coaldeficit/moredefences",
-    "internalName": "md3",
-    "name": "MoreDefences",
-    "author": "[grey]CD[], [#FC8E6C]meowkitty[] and [#ff0059]7rodo[]",
-    "lastUpdated": "2026-04-30T14:58:12Z",
-    "stars": 35,
-    "minGameVersion": "157.4",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod made by [grey]CD[], [#FC8E6C]meowkitty[] and [#ff0059]7rodo[] that overhauls the campaign, significantly modifying [#7457ce]Serpulo[]'s campaign and adding a new planet, [blue]Fieros[].\n\nAmidst the features in this mod are:\n[grey]-[] [accent]18[] New [accent]Turrets[] to defend with\n[grey]-[] [accent]21[] New [accent]Units[] to attack with\n[grey]-[] [accent]16[] New campaign [accent]Sectors[] to play on, including [accent]2 Remakes[] of vanilla sectors\n[grey]-[] [accent]Post-Surge Alloy-tier[] content for Serpulo\n[grey]-[] [accent]12[] New Miscellaneous blocks to mess around with on Serpulo\n\n[#e38a88]⚠ This mod moves Serpulo sectors around without moving their saves, backup your game data in [ SETTINGS > GAME DATA ] before enabling/disabling this mod to prevent campaign corruption if you have any campaign saves. ⚠[]\n\n[grey]Discord: https://discord.gg/9YHA3q8HHq[]"
   },
   {
     "repo": "electricgun/cheat-codes-mod",
@@ -846,7 +846,7 @@
     "internalName": "echo-fleet",
     "name": "Echo Fleet",
     "author": "Dev - Blehhhh cat\nContributors - Kamikazefoxmk.i, Tinport, Aerodynamic Attorney \nMusic Composer - Ace1020spawn",
-    "lastUpdated": "2026-05-01T16:17:34Z",
+    "lastUpdated": "2026-05-01T17:43:07Z",
     "stars": 27,
     "minGameVersion": "156.2",
     "hasScripts": true,
@@ -2179,7 +2179,7 @@
     "internalName": "ochpoch-mob",
     "name": "Hooligan",
     "author": "Hello,Andrei",
-    "lastUpdated": "2026-05-01T16:11:12Z",
+    "lastUpdated": "2026-05-01T18:22:41Z",
     "stars": 11,
     "minGameVersion": "157",
     "hasScripts": false,
@@ -3412,18 +3412,6 @@
     "description": "Better visuals? Not only that!"
   },
   {
-    "repo": "fghjk455rg/rebelion",
-    "internalName": "ens-mod",
-    "name": "Rebelion",
-    "author": "Enless",
-    "lastUpdated": "2025-08-17T13:01:55Z",
-    "stars": 6,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Add new campaign on 3 planets (still WIP:)"
-  },
-  {
     "repo": "unyu235/touhou-music-pack",
     "internalName": "touhou-2hu-pack",
     "name": "Mindustry Touhou Pack",
@@ -3590,6 +3578,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "EN: Adds Vulcanum - hot dirty planet, that has dangerous enemies.\nP.s. There are a lot of bugs in sectors, so it's better to play in maps:\n1. Arc\n2. River\n\nRU: Добавляет Вулканум - жаркую пыльную планеты с опасными противниками.\nP.s. Сейчас в секторах много багов, так что лучше играть в карты:\n1. Arc\n2. River\n  (2.4)"
+  },
+  {
+    "repo": "fghjk455rg/rebelion",
+    "internalName": "ens-mod",
+    "name": "Rebelion",
+    "author": "Enless and many people in my lfe",
+    "lastUpdated": "2026-05-01T17:30:44Z",
+    "stars": 6,
+    "minGameVersion": "157",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Add new campaign on 3 planets (still WIP:)\n\nThe mod is focused on a difficulty slightly higher than the main game and follows the game design principles of the original Mindustry\n\nCurrently, the mod contains 4 sectors of the first of three planets. The development is delayed, but it has not been abandoned. I hope to complete the first sector of the second planet by 2027, which is planned to follow the seventh sector of the first planet.\n\n(Next text is not important if you not from Russia)\n\nHi, I'm having serious problems in my life, and I'm asking for help. At least 10 rubles. Just a small amount, if you don't mind.\n\nVTB | 2200247955819553 | Danil\n\nI would greatly appreciate any assistance. Please forgive me."
   },
   {
     "repo": "zerattel/mindustry-red-alert-3-soundtrack-pack",
@@ -7265,6 +7265,18 @@
     "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
+    "repo": "xpdustry/kotlin-runtime",
+    "internalName": "kotlin-runtime",
+    "name": "KotlinRuntime",
+    "author": "Xpdustry",
+    "lastUpdated": "2026-04-28T13:14:50Z",
+    "stars": 2,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A companion mod for Kotlin based mods and plugins."
+  },
+  {
     "repo": "rocket550/zytheron-technology",
     "internalName": "1zytheron",
     "name": "Zytheron Technology(Beta)",
@@ -7329,7 +7341,7 @@
     "internalName": "液体工艺",
     "name": "Liquid Industry",
     "author": "Space",
-    "lastUpdated": "2026-05-01T13:11:33Z",
+    "lastUpdated": "2026-05-01T17:10:00Z",
     "stars": 2,
     "minGameVersion": "157.4",
     "hasScripts": true,
@@ -9670,7 +9682,7 @@
     "internalName": "phighthouse",
     "name": "PHIGHTHOUSE!",
     "author": "PHIGHTHOUSE!",
-    "lastUpdated": "2026-05-01T16:36:29Z",
+    "lastUpdated": "2026-05-01T17:12:42Z",
     "stars": 1,
     "minGameVersion": "136.1",
     "hasScripts": true,
@@ -11358,18 +11370,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "routerxdd/item-resprites",
-    "internalName": "rot-resprites",
-    "name": "Item resprites",
-    "author": "R.O.T.",
-    "lastUpdated": "2025-09-07T10:11:36Z",
-    "stars": 0,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Changes sprites of Serpulo's items"
-  },
-  {
     "repo": "50275/mindustry-serpulo-half-damage",
     "internalName": "serpulohalveddamage",
     "name": "Serpulo Halved Damage",
@@ -12472,5 +12472,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Work in Progress\n\n [accent]⚠[] [red]This mod replaces [#9fabd1]Blue Team[] and might therefore not be compatible with some other mods.[]\n\n You are in command of a [#aa8e6e]core[] that is stranded on [#9fabd1]Thalassa[], a distant planet, covered mostly in oceans. However, it seems that there's an enemy faction that has already begun harvesting its [#aa996e]resources[] and developing rapidly. The arms race has begun, and you must play catch-up."
+  },
+  {
+    "repo": "cersat/iron",
+    "internalName": "iron",
+    "name": "Планета Iron",
+    "author": "cersat",
+    "lastUpdated": "2026-05-01T17:46:50Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "RU - Добавляет новую планету в игру: планета Айрон. \nЭта планета была захвачена агрессорами после их провала в захвате Эрекира и вы - последний выживший.\nВаша задача - полностью захватить планету используя новые технологии и ресурсы.\n\nEN - Adds a new planet to the game: Planet Iron.\nThis planet was captured by the aggressors after their failure to capture Erekir, and you are the last survivor.\nYour goal is to completely capture the planet using new technologies and resources."
   }
 ]
