@@ -88,7 +88,7 @@
     "internalName": "mindustry-tool",
     "name": "Mindustry Tool",
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2026-04-27T13:29:04Z",
+    "lastUpdated": "2026-05-04T12:07:02Z",
     "stars": 212,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -136,7 +136,7 @@
     "internalName": "sapphirium",
     "name": "Sapphirium",
     "author": "Snake",
-    "lastUpdated": "2026-05-04T07:31:07Z",
+    "lastUpdated": "2026-05-04T12:02:20Z",
     "stars": 132,
     "minGameVersion": "157.4",
     "hasScripts": true,
@@ -148,7 +148,7 @@
     "internalName": "uaw",
     "name": "Unlimited Armament Works",
     "author": "Eschatologue",
-    "lastUpdated": "2026-05-04T08:33:35Z",
+    "lastUpdated": "2026-05-04T12:48:52Z",
     "stars": 129,
     "minGameVersion": "138",
     "hasScripts": false,
@@ -581,7 +581,7 @@
     "internalName": "azimut",
     "name": "Azimuth",
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-05-04T11:26:00Z",
+    "lastUpdated": "2026-05-04T11:53:36Z",
     "stars": 40,
     "minGameVersion": "156.2",
     "hasScripts": true,
@@ -1922,18 +1922,6 @@
     "description": "\nWork in progress hjson campaign mod that plans to add a new planet with a full camapign. This is a remake of a previous mod of mine bearing the same name.\n\nAstralis is a mod which aims to add a new planet with unique gameplay mechanics (world processors go brrr), that will also do everything possible to give you as much pain as possible.\n\nThe difficulty spike is vertical. Intended for people familiar with mindustry/mindustry mods.\n\nSome VFX may cause eye strain. Proceed at your own risk.\n\nNot reccomended on low end devices!\n\nThis mod is pure hjson, but may use some scripts for music purposes.\n\nCREDITS:\n\nNV-NX - Main dev and spriter\nHaznobrain - Occasional sprite and code help. Making music.\nMegacheb - Allowing me to use some of their music for (upcoming) bosses.\n\nIt takes my heart being broken and broken again to realize I am the reason the sufferings never end."
   },
   {
-    "repo": "jennii94900-tech/mod",
-    "internalName": "ochpoch-mob",
-    "name": "Hooligan",
-    "author": "Hello,Andrei",
-    "lastUpdated": "2026-05-03T20:24:23Z",
-    "stars": 12,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Frozen planet expansion. Includes custom technology tree, industrial systems, and combat units designed for extreme cold environments."
-  },
-  {
     "repo": "kev-vily/epsilon",
     "internalName": "epsilon",
     "name": "Epsilon",
@@ -1944,6 +1932,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod which introduces actually unique [accent]Story Based Campaign[].\nMain goal of this mod is to show that lore based mods can be good too.\n\nWith story gameplay it introduces to you some new mechanics."
+  },
+  {
+    "repo": "jennii94900-tech/mod",
+    "internalName": "ochpoch-mob",
+    "name": "Hooligan",
+    "author": "Hello,Andrei",
+    "lastUpdated": "2026-05-04T11:41:58Z",
+    "stars": 12,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This planet is cold and therefore you will have to use aluminum and crystals to keep your buildings from freezing.."
   },
   {
     "repo": "def-try/parkour-mod",
@@ -2174,19 +2174,6 @@
     "description": "Adds multiple new factories, turrets and items to enhance vanilla content and add more things post-late game.\nIMPORTANT: Credit for sprites cuz stealing bad: \n- Eschatologue/Unlimited-Armament-Works\n- AureusStratus/ExoGenesis \n- Eschatologue/Heavy-Armaments-Industries\n- uujuju1/project-oblivion\n- Twcash/Aquarion\n- thomas_has_things(discord) Thomas's Things \n- and a huge shoutout to y'all on the Mindustry Discord\nMod was originally a personal project, sorry if I used your sprites without consent."
   },
   {
-    "repo": "fat-bird-owner/gier-revitalized",
-    "internalName": "gr",
-    "name": "Gier: Revitalized",
-    "author": "Fat Bird's Owner - Dev",
-    "lastUpdated": "2026-05-04T07:08:24Z",
-    "stars": 11,
-    "minGameVersion": "156",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe.\n\nIf the main version is a bugged then \nplease use the latest releases instead\nas those are stable.\n[]\n\n[accent]Starring is greatly appreciated[]\n[grey](Our current goal is 10 stars)[]\n",
-    "iosCompatible": true
-  },
-  {
     "repo": "wantechfan/mindustry-cursed-bundles",
     "internalName": "cursed-bundles",
     "name": "Cursed Bundles",
@@ -2197,6 +2184,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod is also modifiy ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request[]."
+  },
+  {
+    "repo": "fat-bird-owner/gier-revitalized",
+    "internalName": "gr",
+    "name": "Gier: Revitalized",
+    "author": "Fat Bird's Owner - Dev",
+    "lastUpdated": "2026-05-04T11:32:51Z",
+    "stars": 11,
+    "minGameVersion": "156",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe.\n\nIf the main version is a bugged then \nplease use the latest releases instead\nas those are stable.\n[]\n\n[accent]Starring is greatly appreciated[]\n[grey](Our current goal is 10 stars)[]\n",
+    "iosCompatible": true
   },
   {
     "repo": "sk7725/betamindymusic",
@@ -9670,7 +9670,7 @@
     "internalName": "dy",
     "name": "Dynamics",
     "author": "Farborne Industries ⚙️",
-    "lastUpdated": "2026-05-03T19:40:43Z",
+    "lastUpdated": "2026-05-04T12:33:40Z",
     "stars": 1,
     "minGameVersion": "156",
     "hasScripts": false,
@@ -9682,7 +9682,7 @@
     "internalName": "更多设施",
     "name": "更多设施",
     "author": "额？！",
-    "lastUpdated": "2026-05-04T10:55:17Z",
+    "lastUpdated": "2026-05-04T12:58:26Z",
     "stars": 1,
     "minGameVersion": "154",
     "hasScripts": true,
