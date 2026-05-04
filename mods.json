@@ -148,7 +148,7 @@
     "internalName": "uaw",
     "name": "Unlimited Armament Works",
     "author": "Eschatologue",
-    "lastUpdated": "2026-05-02T04:25:06Z",
+    "lastUpdated": "2026-05-04T08:33:35Z",
     "stars": 129,
     "minGameVersion": "138",
     "hasScripts": false,
@@ -473,7 +473,7 @@
     "internalName": "ice",
     "name": "DeepSpace",
     "author": "Alon",
-    "lastUpdated": "2026-05-04T03:14:09Z",
+    "lastUpdated": "2026-05-04T11:00:14Z",
     "stars": 49,
     "minGameVersion": "157.4",
     "hasScripts": false,
@@ -581,7 +581,7 @@
     "internalName": "azimut",
     "name": "Azimuth",
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-05-04T04:30:59Z",
+    "lastUpdated": "2026-05-04T11:26:00Z",
     "stars": 40,
     "minGameVersion": "156.2",
     "hasScripts": true,
@@ -749,12 +749,12 @@
     "internalName": "claj",
     "name": "CLaJ",
     "author": "ZetaMap, xzxADIxzx",
-    "lastUpdated": "2026-05-03T19:38:38Z",
+    "lastUpdated": "2026-05-04T09:01:51Z",
     "stars": 32,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
-    "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allows you to play with your friends, just by creating a room, copying the link and sending it to your friends.\n\nNote: To install the mod for Mindustry v8, click 'View Releases' instead of 'Install' and install the latest version named 'CLaJ for Mindustry V8'.",
+    "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allows you to play with your friends, just by creating a room, copying the link and sending it to your friends.\n",
     "legacyCompatible": true
   },
   {
@@ -1862,18 +1862,6 @@
     "description": "Ru: Данная модификация изменяет внешний вид юнитов. Респрайты только Серпуловских юнитов.\r\n\r\nEng: This modification changes the appearance of the units. Resprites of only Serpulo units."
   },
   {
-    "repo": "kev-vily/epsilon",
-    "internalName": "epsilon",
-    "name": "Epsilon",
-    "author": "ItzJustaTeam\n\n[accent]Coders:[gray]\n• ItzCraft\n• AnDashik\n• Alnyle\n• Weersix\n\n[accent]Sprites:[gray]\n• Nahan\n\n[accent]Music Composer:[gray]\n• Ace\n\n[accent]Translators:[gray]\n• Kevin Vilyan\n• ItzCraft",
-    "lastUpdated": "2026-01-19T08:07:36Z",
-    "stars": 12,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod which introduces actually unique [accent]Story Based Campaign[].\nMain goal of this mod is to show that lore based mods can be good too.\n\nWith story gameplay it introduces to you some new mechanics."
-  },
-  {
     "repo": "tlb1/xilion",
     "internalName": "xilion",
     "name": "Xilion",
@@ -1944,6 +1932,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Frozen planet expansion. Includes custom technology tree, industrial systems, and combat units designed for extreme cold environments."
+  },
+  {
+    "repo": "kev-vily/epsilon",
+    "internalName": "epsilon",
+    "name": "Epsilon",
+    "author": "ItzJustaTeam\n\n[accent]Coders:[gray]\n• ItzCraft\n• AnDashik\n• Alnyle\n• Weersix\n\n[accent]Sprites:[gray]\n• Nahan\n\n[accent]Music Composer:[gray]\n• Ace\n\n[accent]Translators:[gray]\n• Kevin Vilyan\n• ItzCraft",
+    "lastUpdated": "2026-05-04T10:14:54Z",
+    "stars": 12,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod which introduces actually unique [accent]Story Based Campaign[].\nMain goal of this mod is to show that lore based mods can be good too.\n\nWith story gameplay it introduces to you some new mechanics."
   },
   {
     "repo": "def-try/parkour-mod",
@@ -9149,18 +9149,6 @@
     "description": "A new planet, a new gaming experience and a great storyline are waiting for you in this mod\r\nExplore the planet Omega and finally get your paycheck, explore the history and secrets of what happened here, along with a difficult but balanced gameplay\r\n\r\nAvailable languages:\r\n--English\r\n--Українська\r\n--Руский\r\n--Español\r\n\r\nThe mod is still in development, so everything can still change\r\n\r\nDuring testing on version 155.3, an issue occurred with the planet’s broken atmosphere color. Please ignore it or disable the atmosphere rendering. This is a bug in the game version itself and is almost impossible to fix"
   },
   {
-    "repo": "theplastanium/more.facilities",
-    "internalName": "更多设施",
-    "name": "更多设施",
-    "author": "额？！",
-    "lastUpdated": "2026-02-28T07:06:19Z",
-    "stars": 1,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "请输入标题框"
-  },
-  {
     "repo": "unknownobjectv2/mindustek",
     "internalName": "mindustry-camellia-pack",
     "name": "Mindustek",
@@ -9688,6 +9676,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Work in Progress\n\n [accent]⚠[] [red]This mod replaces [#9fabd1]Blue Team[] and might therefore not be compatible with some other mods.[]\n\n You are in command of a [#aa8e6e]core[] that is stranded on [#9fabd1]Thalassa[], a distant planet, covered mostly in oceans. However, it seems that there's an enemy faction that has already begun harvesting its [#aa996e]resources[] and developing rapidly. The arms race has begun, and you must play catch-up."
+  },
+  {
+    "repo": "theplastanium/more.facilities",
+    "internalName": "更多设施",
+    "name": "更多设施",
+    "author": "额？！",
+    "lastUpdated": "2026-05-04T10:55:17Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "请输入标题框"
   },
   {
     "repo": "exxleo/exoterusmod",
@@ -12402,18 +12402,6 @@
     "description": "Better Vanilla New content.\nLanguages:\n        - English"
   },
   {
-    "repo": "d2rkknes/expander",
-    "internalName": "exp",
-    "name": "Expander",
-    "author": "[#770606]The_alone[]",
-    "lastUpdated": "2026-04-27T16:10:46Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Unlock [accent]hidden content[] and [red]little more[]"
-  },
-  {
     "repo": "fhgdhgvhggvfgg/cpe_cheetah_m",
     "internalName": "cpe cheetah",
     "name": "cpe cheetah",
@@ -12508,5 +12496,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Allows you to fill deep water and build on it."
+  },
+  {
+    "repo": "d2rkknes/expander",
+    "internalName": "exp",
+    "name": "Expander",
+    "author": "[#770606]The_alone[]",
+    "lastUpdated": "2026-05-04T10:59:43Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Unlock [accent]hidden content[] and [red]little more[]"
   }
 ]
