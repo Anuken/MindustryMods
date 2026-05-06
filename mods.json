@@ -1154,6 +1154,18 @@
     "description": "Logic Debugger\n\n一个逻辑辅助工具\n\n原作DeltaNedas/ldb\n\nyaddrx2将其升级到了137，仅供学习交流使用\n\n当前版本：1.7.0\n\n更新日志\n\nv1.0.1\n将mod版本升为137\n\nv1.0.2\n取消ui-lib的前置\n\nv1.0.3\n逻辑码编辑板\n新增代码语句的文本形式编辑\n\nv1.0.4\n逻辑块变量面板\n变量更新闪烁\n增加逻辑块所连方块的显示\n\nv1.0.5\n内存块编辑板\n内存值更新闪烁\n新增内存值的二进制形式视察\n实现内存值的十六进制形式编辑\n\nv1.0.6\n新增代码插入相关操作\n实现从剪切板导入代码块到指定位置\n\nv1.0.7\n新增面板的折叠按钮\n修复学术端运行mod导致的面板移位或覆盖\n修复面板横向抖动的bug\n\nv1.0.8\n单步调试面板\n实现代码单步运行调试\n\nv1.1.0\n新增调试面板设置断点\n实现运行到下一断点操作\n\nv1.1.1\n新增变量位置指示器\n显示单位变量的flag\n\nv1.2\n新增调试面板的运行位置追踪\n新增功能标签\n\nv1.3\n位置指示器增加变量名\n\nv1.4\n内存块面板增加内存值导入导出\n\nv1.5\n变量面板增加变量值导出\n\nv1.6\n内存面板的变量名筛选\n内存值导出筛选器\n\nv1.7\n增加信息板复制与导入"
   },
   {
+    "repo": "falkowitz/smeshariki-music-pack",
+    "internalName": "smp",
+    "name": "Smeshariki-Music-Pack",
+    "author": "Fitz",
+    "lastUpdated": "2024-05-29T13:38:36Z",
+    "stars": 19,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Just replaces existing ost with ost from kikoriki"
+  },
+  {
     "repo": "saigon0nozomi/nightscape",
     "internalName": "nscape",
     "name": "NightScape",
@@ -1284,18 +1296,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This mod will play tracks from classic Mindustry music (v3.3r27, v3.5r40, and v5)"
-  },
-  {
-    "repo": "falkowitz/smeshariki-music-pack",
-    "internalName": "smp",
-    "name": "Smeshariki-Music-Pack",
-    "author": "Fitz",
-    "lastUpdated": "2024-05-29T13:38:36Z",
-    "stars": 18,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Just replaces existing ost with ost from kikoriki"
   },
   {
     "repo": "jslkr2707/quests",
@@ -2799,18 +2799,6 @@
     "description": "Mod based on the Factory Industry mod - Texture Pack from Xelo"
   },
   {
-    "repo": "mindustry-antigrief/floodcompat",
-    "internalName": "floodcompat",
-    "name": "FloodCompat",
-    "author": "io community",
-    "lastUpdated": "2026-04-30T10:20:06Z",
-    "stars": 8,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Improves your experience on the official io  Flood server."
-  },
-  {
     "repo": "huanxefh/project-reindustrialization",
     "internalName": "projreind",
     "name": "Project Reindustrialization",
@@ -2821,6 +2809,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "OBJECT: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with hardcore production.\n- A separate and complex tech tree.\n- Multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\nThis mod is part of Lovecraftian series, which requires Lovecraftian Library and Lovecraftian Laboratory.\n\nWARNING: RECIPE HELL AHEAD!"
+  },
+  {
+    "repo": "mindustry-antigrief/floodcompat",
+    "internalName": "floodcompat",
+    "name": "FloodCompat",
+    "author": "io community",
+    "lastUpdated": "2026-05-06T09:38:51Z",
+    "stars": 8,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Improves your experience on the official io  Flood server."
   },
   {
     "repo": "eb-wilson/modpacker",
@@ -3244,28 +3244,28 @@
     "description": "Add new campaign on 3 planets (still WIP:)\n\nThe mod is focused on a difficulty slightly higher than the main game and follows the game design principles of the original Mindustry\n\nCurrently, the mod contains 4 sectors of the first of three planets. The development is delayed, but it has not been abandoned. I hope to complete the first sector of the second planet by 2027, which is planned to follow the seventh sector of the first planet.\n\n(Next text is not important if you not from Russia)\n\nHi, I'm having serious problems in my life, and I'm asking for help. At least 10 rubles. Just a small amount, if you don't mind.\n\nVTB | 2200247955819553 | Danil\n\nI would greatly appreciate any assistance. Please forgive me."
   },
   {
-    "repo": "huanxefh/lovecraftian-laboratory",
-    "internalName": "loveclab",
-    "name": "Lovecraftian Laboratory",
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-05-05T08:30:55Z",
-    "stars": 7,
-    "minGameVersion": "156",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "The base mod for Lovecraftian series that adds essential resource, chemicals, environmental blocks and planets."
-  },
-  {
     "repo": "huanxefh/lovecraftian-library-java",
     "internalName": "lovec",
     "name": "Lovecraftian Library",
     "author": "MaboroshiX",
-    "lastUpdated": "2026-05-05T14:45:26Z",
+    "lastUpdated": "2026-05-06T08:59:51Z",
     "stars": 7,
     "minGameVersion": "156",
     "hasScripts": true,
     "hasJava": true,
     "description": "A JavaScript library for my other mods, with codes for multi-crafters, recipe dictionary, damage display, etc.\nWell, not 100% JavaScript."
+  },
+  {
+    "repo": "huanxefh/lovecraftian-laboratory",
+    "internalName": "loveclab",
+    "name": "Lovecraftian Laboratory",
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-05-06T09:02:14Z",
+    "stars": 7,
+    "minGameVersion": "156",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "The base mod for Lovecraftian series that adds essential resource, chemicals, environmental blocks and planets."
   },
   {
     "repo": "zerattel/mindustry-red-alert-3-soundtrack-pack",
@@ -9328,6 +9328,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "wait what"
+  },
+  {
+    "repo": "andromeda-galaxy29/unique-gas-sprites",
+    "internalName": "unique-gas-sprites",
+    "name": "Unique Gas Sprites",
+    "author": "AndromedaGalaxy29",
+    "lastUpdated": "2026-04-01T22:41:01Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Tiny mod that makes gases have unique sprites"
   },
   {
     "repo": "lehanchic25/hardcore-mod",
