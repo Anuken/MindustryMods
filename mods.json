@@ -1098,7 +1098,7 @@
     "internalName": "mapping-utilities",
     "name": "Mapping Utilities",
     "author": "ApsZoldat",
-    "lastUpdated": "2026-05-07T13:25:23Z",
+    "lastUpdated": "2026-05-07T22:28:05Z",
     "stars": 21,
     "minGameVersion": "157",
     "hasScripts": false,
@@ -3632,7 +3632,7 @@
     "internalName": "ens-mod",
     "name": "Rebelion",
     "author": "Enless and many people in my lfe",
-    "lastUpdated": "2026-05-07T11:16:36Z",
+    "lastUpdated": "2026-05-07T21:30:22Z",
     "stars": 6,
     "minGameVersion": "157",
     "hasScripts": false,
@@ -7289,18 +7289,6 @@
     "description": "\n[blue]=====INFO=========================\n[gold]ThermalEnginerring  [red]0.0.2_A\n[blue]=====DESCRIPTION==================\n[sky]A mindustry Java&Kotlin(JVM) Mod\n一个Mindustry的JVMMod\n"
   },
   {
-    "repo": "xpdustry/kotlin-runtime",
-    "internalName": "kotlin-runtime",
-    "name": "KotlinRuntime",
-    "author": "Xpdustry",
-    "lastUpdated": "2026-04-28T13:14:50Z",
-    "stars": 2,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A companion mod for Kotlin based mods and plugins."
-  },
-  {
     "repo": "rocket550/zytheron-technology",
     "internalName": "1zytheron",
     "name": "Zytheron Technology(Beta)",
@@ -7419,6 +7407,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This mod introduce faction-locked technologies, allowing you to play PVP matches using a single tech tree.\n\nIt add new tech trees locked to some team/faction.\n\nBalance has been made to vanilla tech tree to allow them to play on a randomly generated map following these rules :\n- Vents availlable everywhere on the map\n- Walls contain Graphite and Berylium\n- No liquid availlable on the map\n- Modded ressources spawn evenly on the map\n\n⚠ DISABLE THIS MOD TO PLAY VANILLA : This mod being in development, it locks certain block to certain faction. That makes PVE unplayable.\n\nIn the future, I plan to release those tech tree in dedicated campaign on their respective planets. And also to make it possible to play vanilla with this mode enabled.\n\nIn 0.1, Serpulo and Erekir tech trees are separated. Curently working on creating a new one."
+  },
+  {
+    "repo": "xpdustry/kotlin-runtime",
+    "internalName": "kotlin-runtime",
+    "name": "KotlinRuntime",
+    "author": "Xpdustry",
+    "lastUpdated": "2026-05-07T21:53:42Z",
+    "stars": 2,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
     "repo": "no9527dada/skin",
@@ -8861,18 +8861,6 @@
     "description": "ENG: Hello everyone who installed this mod! Initially, I created this mod just for myself, but then I decided to post it. \r\nThis is my first mod and it may have many flaws, so please be gentle.\r\n\r\nRU: Привет всем кто установил этот мод! Изначально я создавл этот мод просто для себя, но потом я решил выложить его. \r\nЭто мой первый мод и у него может быть много недостатков, поэтому прошу не судить строго"
   },
   {
-    "repo": "ottocolten/ottos-advancing-machines",
-    "internalName": " advancing-machines",
-    "name": " otto's Advancing machines",
-    "author": " ottocolten",
-    "lastUpdated": "2025-09-26T01:14:25Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Are the current high-tier Erekir machines boring? Update taking too long to release? Well dont worry, as this mods [will add] tons of stronger and higher-tier units, turrets, factories, etc! (My First Real Mod!)/n By the way, this mod is my gonna be my big main mod, with the most stuff gonna be in it then any other mod ill make./n Therefore, expect this mod to take MAAANNNNYY months :3"
-  },
-  {
     "repo": "mvpoksdofe/textures-match-resources-mindustry-mod",
     "internalName": "textures-match-resources",
     "name": "Textures Match Resources",
@@ -9766,12 +9754,24 @@
     "internalName": "phighthouse",
     "name": "PHIGHTHOUSE!",
     "author": "PHIGHTHOUSE!",
-    "lastUpdated": "2026-05-07T20:19:06Z",
+    "lastUpdated": "2026-05-07T21:45:10Z",
     "stars": 1,
     "minGameVersion": "136.1",
     "hasScripts": true,
     "hasJava": false,
     "description": "PHIGHTHOUSE! is a style i made up which is basically a combination of phighting, a 5v5 fighting game by boggio, and whitehouse, a british extreme music band started by w. bennett.\nthis mod was originally made as \"a mod within a mod\" but it's has been decided to be it's own thing.\n(note: this is mostly just an asset flip imo creds to the modders of vincenzotheduck, zac, Dagger & others.)"
+  },
+  {
+    "repo": "ottocolten/ottos-advancing-machines",
+    "internalName": " advancing-machines",
+    "name": " otto's Advancing machines",
+    "author": " ottocolten",
+    "lastUpdated": "2026-05-07T22:31:36Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Are the current high-tier Erekir machines boring? Update taking too long to release? Well dont worry, as this mods [will add] tons of stronger and higher-tier units, turrets, factories, etc! (My First Real Mod!)/n By the way, this mod is my gonna be my big main mod, with the most stuff gonna be in it then any other mod ill make./n Therefore, expect this mod to take MAAANNNNYY months :3"
   },
   {
     "repo": "exxleo/exoterusmod",
@@ -12580,5 +12580,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mallpark Research & Development presents various interplanetary products, as requested by various customers, or as experiments designed to test the market.\n\n[red]This is a pretty small, crappy and unbalanced mod. Anyway-"
+  },
+  {
+    "repo": "claytoniant/better-serpulo---claytoniaw",
+    "internalName": "bs",
+    "name": "Complemented Serpulo",
+    "author": "[magenta]Claytonita",
+    "lastUpdated": "2026-05-07T21:37:36Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Tries to extend Serpulo content following the vanilla style and also being balanced, Tries, So it would fail miserably"
   }
 ]
