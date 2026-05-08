@@ -5,7 +5,7 @@
     "name": "New Horizon",
     "author": "Yuria & Lao",
     "lastUpdated": "2026-05-07T10:58:30Z",
-    "stars": 571,
+    "stars": 572,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
@@ -125,7 +125,7 @@
     "name": "Omaloon",
     "author": "stabu, uujuju",
     "lastUpdated": "2026-05-06T11:34:37Z",
-    "stars": 136,
+    "stars": 137,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -2751,18 +2751,6 @@
     "description": "A year ago. A year ago i was working on this, on ff 3.0. A year ago, CY4 chose to kick me out of the dev team.\n\nI was not informed\n\nFor three weeks.\n\nI was given no real reason at the time.\n\nToday i realised i still had access to the old repo and that i had free will.\n\nThus here is the prototype for Frozen Farlands 3.0 that i worked on.\n\nRevenge is a dish best served frozen."
   },
   {
-    "repo": "sharlottes/mlogwatcher",
-    "internalName": "mlogwatcher",
-    "name": "MlogWatcher",
-    "author": "Sharlottes",
-    "lastUpdated": "2026-03-07T02:53:03Z",
-    "stars": 8,
-    "minGameVersion": "154.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "The watcher mod for Mlog (Mindustry Logic) programming. Provides a WebSockets API for compilers to write or read mlog code stored in processors and schematics in the schematic library. Supports updating selected processor and schematic library when a file in a local directory changes."
-  },
-  {
     "repo": "new-guys5634/lava-rebirth",
     "internalName": " b ",
     "name": "Caverns Rebirth",
@@ -2833,6 +2821,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "OBJECT: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with hardcore production.\n- A separate and complex tech tree.\n- Multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\nThis mod is part of Lovecraftian series, which requires Lovecraftian Library and Lovecraftian Laboratory.\n\nWARNING: RECIPE HELL AHEAD!"
+  },
+  {
+    "repo": "sharlottes/mlogwatcher",
+    "internalName": "mlogwatcher",
+    "name": "MlogWatcher",
+    "author": "Sharlottes",
+    "lastUpdated": "2026-05-08T18:30:37Z",
+    "stars": 8,
+    "minGameVersion": "154.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "The watcher mod for Mlog (Mindustry Logic) programming. Provides a WebSockets API for compilers to write or read mlog code stored in processors and schematics in the schematic library. Supports updating selected processor and schematic library when a file in a local directory changes."
   },
   {
     "repo": "eb-wilson/modpacker",
@@ -9702,18 +9702,6 @@
     "description": "Hides your cursor from cheaters, now it will appear to always be on your unit, unless you try to shoot."
   },
   {
-    "repo": "beonicwulf/dynamics",
-    "internalName": "dy",
-    "name": "Dynamics",
-    "author": "Farborne Industries ⚙️",
-    "lastUpdated": "2026-05-04T15:11:10Z",
-    "stars": 1,
-    "minGameVersion": "156",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Work in Progress\n\n [accent]⚠[] [red]This mod replaces [#9fabd1]Blue Team[] and might therefore not be compatible with some other mods.[]\n\n You are in command of a [#aa8e6e]core[] that is stranded on [#9fabd1]Thalassa[], a distant planet, covered mostly in oceans. However, it seems that there's an enemy faction that has already begun harvesting its [#aa996e]resources[] and developing rapidly. The arms race has begun, and you must play catch-up."
-  },
-  {
     "repo": "lynia671/zero-era_genesis",
     "internalName": "zeg",
     "name": "Zero-Era:Genesis",
@@ -9766,12 +9754,24 @@
     "internalName": "serpulor",
     "name": "SerpuloR",
     "author": "Dov1ntc & nclr",
-    "lastUpdated": "2026-05-08T15:28:58Z",
+    "lastUpdated": "2026-05-08T18:51:19Z",
     "stars": 1,
     "minGameVersion": "157",
     "hasScripts": false,
     "hasJava": false,
     "description": "\nReworks Serpulo's sectors and mechanics (not all of Serpulos mechanics), including extra sectors, remade sectors, and difficulty changes.\n"
+  },
+  {
+    "repo": "beonicwulf/dynamics",
+    "internalName": "dy",
+    "name": "Dynamics",
+    "author": "Farborne Industries ⚙️",
+    "lastUpdated": "2026-05-08T18:55:04Z",
+    "stars": 1,
+    "minGameVersion": "156",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Work in Progress\n\n [accent]⚠[] [red]This mod replaces [#9fabd1]Blue Team[] and might therefore not be compatible with some other mods.[]\n\n You are in command of a [#aa8e6e]core[] that is stranded on [#9fabd1]Thalassa[], a distant planet, covered mostly in oceans. However, it seems that there's an enemy faction that has already begun harvesting its [#aa996e]resources[] and developing rapidly. The arms race has begun, and you must play catch-up."
   },
   {
     "repo": "exxleo/exoterusmod",
@@ -12592,5 +12592,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Tries to extend Serpulo content following the vanilla style and also being balanced, Tries, So it would fail miserably"
+  },
+  {
+    "repo": "nekit508/mindustry-sprite-hot-reloading",
+    "internalName": "mindustry-sprite-hot-reloading",
+    "name": "mindustry-sprite-hot-reloading",
+    "author": "nekit508",
+    "lastUpdated": "2026-05-08T10:45:29Z",
+    "stars": 0,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "No description provided."
   }
 ]
