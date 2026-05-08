@@ -233,7 +233,7 @@
     "name": "Aquarion",
     "author": "twcash",
     "lastUpdated": "2026-05-07T16:43:29Z",
-    "stars": 95,
+    "stars": 96,
     "minGameVersion": "157.4",
     "hasScripts": false,
     "hasJava": true,
@@ -473,7 +473,7 @@
     "internalName": "ice",
     "name": "DeepSpace",
     "author": "Alon",
-    "lastUpdated": "2026-05-06T11:32:24Z",
+    "lastUpdated": "2026-05-08T13:59:13Z",
     "stars": 49,
     "minGameVersion": "157.4",
     "hasScripts": false,
@@ -581,7 +581,7 @@
     "internalName": "azimut",
     "name": "Azimuth",
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-05-08T11:56:12Z",
+    "lastUpdated": "2026-05-08T14:57:42Z",
     "stars": 40,
     "minGameVersion": "156.2",
     "hasScripts": true,
@@ -677,7 +677,7 @@
     "internalName": "md3",
     "name": "MoreDefences",
     "author": "[grey]CD[], [#FC8E6C]meowkitty[] and [#ff0059]7rodo[]",
-    "lastUpdated": "2026-05-08T12:46:52Z",
+    "lastUpdated": "2026-05-08T13:26:01Z",
     "stars": 36,
     "minGameVersion": "157.4",
     "hasScripts": true,
@@ -1398,7 +1398,7 @@
     "internalName": "aj",
     "name": "Axthrix",
     "author": "Otamamori#4716\ncontributors:\n    BetaMindy/sk7725#6110| BoltBulletType.\n    MEEPofFaith#7277| AcceleratedTurret, blackhole related stuff.\n    nullevoy#7763| Spriting Tips.\n    Monika#6030| Code clean up & starting blocks & bundles\n    Siede#6321| Status effect sprites\n    RushieWashie/jirocab| AmmoLifeTimeUnitType",
-    "lastUpdated": "2026-05-07T16:57:27Z",
+    "lastUpdated": "2026-05-08T15:06:54Z",
     "stars": 17,
     "minGameVersion": "155",
     "hasScripts": false,
@@ -2186,19 +2186,6 @@
     "description": "Adds multiple new factories, turrets and items to enhance vanilla content and add more things post-late game.\nIMPORTANT: Credit for sprites cuz stealing bad: \n- Eschatologue/Unlimited-Armament-Works\n- AureusStratus/ExoGenesis \n- Eschatologue/Heavy-Armaments-Industries\n- uujuju1/project-oblivion\n- Twcash/Aquarion\n- thomas_has_things(discord) Thomas's Things \n- and a huge shoutout to y'all on the Mindustry Discord\nMod was originally a personal project, sorry if I used your sprites without consent."
   },
   {
-    "repo": "fat-bird-owner/gier-revitalized",
-    "internalName": "gr",
-    "name": "Gier: Revitalized",
-    "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-05-08T05:29:46Z",
-    "stars": 11,
-    "minGameVersion": "156",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe.\n\nIf the main version is a bugged then \nplease use the latest releases instead\nas those are stable.\n[]\n\n[accent]Starring is greatly appreciated[]\n[grey](Our current goal is 15 stars)[]\n",
-    "iosCompatible": true
-  },
-  {
     "repo": "wantechfan/mindustry-cursed-bundles",
     "internalName": "cursed-bundles",
     "name": "Cursed Bundles",
@@ -2209,6 +2196,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod is also modifiy ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request[]."
+  },
+  {
+    "repo": "fat-bird-owner/gier-revitalized",
+    "internalName": "gr",
+    "name": "Gier: Revitalized",
+    "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
+    "lastUpdated": "2026-05-08T14:35:54Z",
+    "stars": 11,
+    "minGameVersion": "156",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe.\n\nIf the main version is a bugged then \nplease use the latest releases instead\nas those are stable.\n[]\n\n[accent]Starring is greatly appreciated[]\n[grey](Our current goal is 15 stars)[]\n",
+    "iosCompatible": true
   },
   {
     "repo": "sk7725/betamindymusic",
@@ -2799,18 +2799,6 @@
     "description": "Mod based on the Factory Industry mod - Texture Pack from Xelo"
   },
   {
-    "repo": "huanxefh/project-reindustrialization",
-    "internalName": "projreind",
-    "name": "Project Reindustrialization",
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-05-04T20:51:37Z",
-    "stars": 8,
-    "minGameVersion": "156",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "OBJECT: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with hardcore production.\n- A separate and complex tech tree.\n- Multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\nThis mod is part of Lovecraftian series, which requires Lovecraftian Library and Lovecraftian Laboratory.\n\nWARNING: RECIPE HELL AHEAD!"
-  },
-  {
     "repo": "mindustry-antigrief/floodcompat",
     "internalName": "floodcompat",
     "name": "FloodCompat",
@@ -2833,6 +2821,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Add new campaign on 3 planets (still WIP:)\n\nThe mod is focused on a difficulty slightly higher than the main game and follows the game design principles of the original Mindustry\n\nCurrently, the mod contains 4 sectors of the first of three planets. The development is delayed, but it has not been abandoned. I hope to complete the first sector of the second planet by 2027, which is planned to follow the seventh sector of the first planet.\n\n(Next text is not important if you not from Russia)\n\nHi, I'm having serious problems in my life, and I'm asking for help. At least 10 rubles. Just a small amount, if you don't mind.\n\nVTB | 2200247955819553 | Danil\n\nI would greatly appreciate any assistance. Please forgive me."
+  },
+  {
+    "repo": "huanxefh/project-reindustrialization",
+    "internalName": "projreind",
+    "name": "Project Reindustrialization",
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-05-08T14:10:03Z",
+    "stars": 8,
+    "minGameVersion": "156",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "OBJECT: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with hardcore production.\n- A separate and complex tech tree.\n- Multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\nThis mod is part of Lovecraftian series, which requires Lovecraftian Library and Lovecraftian Laboratory.\n\nWARNING: RECIPE HELL AHEAD!"
   },
   {
     "repo": "eb-wilson/modpacker",
@@ -3232,11 +3232,23 @@
     "description": "[#90DBFF]Vanilla Expansion原版扩展[white]的蓝图附属模组\nschematics add‑on for the [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组主要收录并优化了来自VE模组交流群的一些蓝图，旨在让玩家能更方便地使用。\nThis pack collects and optimizes community schematics to make them easier for players to import and use.\n\n感谢所有为本合集贡献并参与测试的成员！\nThank you to everyone who contributed and helped test the pack!\n\n[accent]最后更新 / Last updated: 2026-04-29[white]"
   },
   {
+    "repo": "m4x1ghg/minedustry",
+    "internalName": "minedustry",
+    "name": "Minedustry",
+    "author": "M4x1GHG & redloong9527",
+    "lastUpdated": "2026-05-08T10:55:53Z",
+    "stars": 7,
+    "minGameVersion": "156",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This mod introduces a few of Minecrafts mobs, blocks, items, and status effects to Mindustry. The following languages are supported: English, 中文 (thanks to redloong9527 on Github) and Deutsch."
+  },
+  {
     "repo": "huanxefh/lovecraftian-library-java",
     "internalName": "lovec",
     "name": "Lovecraftian Library",
     "author": "MaboroshiX",
-    "lastUpdated": "2026-05-06T08:59:51Z",
+    "lastUpdated": "2026-05-08T14:08:27Z",
     "stars": 7,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -3248,24 +3260,12 @@
     "internalName": "loveclab",
     "name": "Lovecraftian Laboratory",
     "author": "MaboroshiX",
-    "lastUpdated": "2026-05-06T09:02:14Z",
+    "lastUpdated": "2026-05-08T14:09:18Z",
     "stars": 7,
     "minGameVersion": "156",
     "hasScripts": true,
     "hasJava": false,
     "description": "The base mod for Lovecraftian series that adds essential resource, chemicals, environmental blocks and planets."
-  },
-  {
-    "repo": "m4x1ghg/minedustry",
-    "internalName": "minedustry",
-    "name": "Minedustry",
-    "author": "M4x1GHG & redloong9527",
-    "lastUpdated": "2026-05-08T10:55:53Z",
-    "stars": 7,
-    "minGameVersion": "156",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This mod introduces a few of Minecrafts mobs, blocks, items, and status effects to Mindustry. The following languages are supported: English, 中文 (thanks to redloong9527 on Github) and Deutsch."
   },
   {
     "repo": "zerattel/mindustry-red-alert-3-soundtrack-pack",
@@ -4880,7 +4880,7 @@
     "internalName": "mindurkacompat",
     "name": "MindurkaCompat",
     "author": "buj",
-    "lastUpdated": "2026-05-01T05:12:08Z",
+    "lastUpdated": "2026-05-08T14:51:29Z",
     "stars": 4,
     "minGameVersion": "155",
     "hasScripts": false,
@@ -5380,18 +5380,6 @@
     "description": "it is suck."
   },
   {
-    "repo": "johnnywu2k/void",
-    "internalName": "void",
-    "name": "Void",
-    "author": "Johnny",
-    "lastUpdated": "2025-06-08T12:05:19Z",
-    "stars": 3,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "added some cool stuff"
-  },
-  {
     "repo": "reversteams/sefirah",
     "internalName": "sefirah",
     "name": "Sefirah",
@@ -5849,6 +5837,18 @@
     "description": "Adds cheat-grade 1x1 Chrono blocks for global item and liquid transport, repair, construction, overdrive, unit buffs, unit debuffs, and core placement.\n  Update: expanded documentation and metadata for the full Chrono block set."
   },
   {
+    "repo": "cersat/iron",
+    "internalName": "iron",
+    "name": "Планета Iron",
+    "author": "cersat",
+    "lastUpdated": "2026-05-05T07:10:36Z",
+    "stars": 3,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "RU - Добавляет новую планету в игру: планета Айрон. \nЭта планета была захвачена агрессорами после их провала в захвате Эрекира и вы - последний выживший.\nВаша задача - полностью захватить планету используя новые технологии и ресурсы.\n\nEN - Adds a new planet to the game: Planet Iron.\nThis planet was captured by the aggressors after their failure to capture Erekir, and you are the last survivor.\nYour goal is to completely capture the planet using new technologies and resources."
+  },
+  {
     "repo": "alexbruh7/vanilla-expansion",
     "internalName": "vanilla-expansion",
     "name": "Vanilla Expansion",
@@ -5885,18 +5885,6 @@
     "description": "Very DaF! based mod. Don't ask what that is.\n!BIG WEEB LORE WARNING!"
   },
   {
-    "repo": "kyokonagaro/viridium",
-    "internalName": "viridium",
-    "name": "Viridium",
-    "author": "Choco Same",
-    "lastUpdated": "2026-05-08T01:44:02Z",
-    "stars": 3,
-    "minGameVersion": "154",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This mod introduce faction-locked technologies, allowing you to play PVP matches using a single tech tree.\n\nIt add new tech trees locked to some team/faction.\n\nBalance has been made to vanilla tech tree to allow them to play on a randomly generated map following these rules :\n- Vents availlable everywhere on the map\n- Walls contain Graphite and Berylium\n- No liquid availlable on the map\n- Modded ressources spawn evenly on the map\n\n⚠ DISABLE THIS MOD TO PLAY VANILLA : This mod being in development, it locks certain block to certain faction. That makes PVE unplayable.\n\nIn the future, I plan to release those tech tree in dedicated campaign on their respective planets. And also to make it possible to play vanilla with this mode enabled.\n\nIn 0.1, Serpulo and Erekir tech trees are separated. Curently working on creating a new one."
-  },
-  {
     "repo": "wantechfan/mindustry-legacy-sounds",
     "internalName": "legacy-sounds",
     "name": "Legacy Sounds",
@@ -5907,6 +5895,30 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Brings back old SFX. \n[red]Still indev so don't expect much.\n[yellow]Support this mod by contributing to it via pull request in this mod's repository."
+  },
+  {
+    "repo": "kyokonagaro/viridium",
+    "internalName": "viridium",
+    "name": "Viridium",
+    "author": "Choco Same",
+    "lastUpdated": "2026-05-08T13:57:34Z",
+    "stars": 3,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This mod introduce faction-locked technologies, allowing you to play PVP matches using a single tech tree.\n\nIt add new tech trees locked to some team/faction.\n\nBalance has been made to vanilla tech tree to allow them to play on a randomly generated map following these rules :\n- Vents availlable everywhere on the map\n- Walls contain Graphite and Berylium\n- No liquid availlable on the map\n- Modded ressources spawn evenly on the map\n\n⚠ DISABLE THIS MOD TO PLAY VANILLA : This mod being in development, it locks certain block to certain faction. That makes PVE unplayable.\n\nIn the future, I plan to release those tech tree in dedicated campaign on their respective planets. And also to make it possible to play vanilla with this mode enabled.\n\nIn 0.1, Serpulo and Erekir tech trees are separated. Curently working on creating a new one."
+  },
+  {
+    "repo": "johnnywu2k/void",
+    "internalName": "void",
+    "name": "Void",
+    "author": "Johnny",
+    "lastUpdated": "2026-05-08T15:05:48Z",
+    "stars": 3,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Matter, void energy, advanced power, turrets, and units for Mindustry v8."
   },
   {
     "repo": "rintadev5792/arcane-mindustry",
@@ -7385,18 +7397,6 @@
     "description": "A Mindustry Java mod."
   },
   {
-    "repo": "cersat/iron",
-    "internalName": "iron",
-    "name": "Планета Iron",
-    "author": "cersat",
-    "lastUpdated": "2026-05-05T07:10:36Z",
-    "stars": 2,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "RU - Добавляет новую планету в игру: планета Айрон. \nЭта планета была захвачена агрессорами после их провала в захвате Эрекира и вы - последний выживший.\nВаша задача - полностью захватить планету используя новые технологии и ресурсы.\n\nEN - Adds a new planet to the game: Planet Iron.\nThis planet was captured by the aggressors after their failure to capture Erekir, and you are the last survivor.\nYour goal is to completely capture the planet using new technologies and resources."
-  },
-  {
     "repo": "urij19cc7e4/machindustry",
     "internalName": "machindustry",
     "name": "Machindustry",
@@ -7413,7 +7413,7 @@
     "internalName": "kotlin-runtime",
     "name": "KotlinRuntime",
     "author": "Xpdustry",
-    "lastUpdated": "2026-05-07T21:53:42Z",
+    "lastUpdated": "2026-05-08T14:09:43Z",
     "stars": 2,
     "minGameVersion": "157",
     "hasScripts": false,
