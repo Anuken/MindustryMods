@@ -581,7 +581,7 @@
     "internalName": "azimut",
     "name": "Azimuth",
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-05-08T10:33:24Z",
+    "lastUpdated": "2026-05-08T11:56:12Z",
     "stars": 40,
     "minGameVersion": "156.2",
     "hasScripts": true,
@@ -677,7 +677,7 @@
     "internalName": "md3",
     "name": "MoreDefences",
     "author": "[grey]CD[], [#FC8E6C]meowkitty[] and [#ff0059]7rodo[]",
-    "lastUpdated": "2026-05-04T17:18:14Z",
+    "lastUpdated": "2026-05-08T12:46:52Z",
     "stars": 36,
     "minGameVersion": "157.4",
     "hasScripts": true,
@@ -1338,7 +1338,7 @@
     "internalName": "cataclysm",
     "name": "Cataclysm",
     "author": "[#ffb33a]JJ[]",
-    "lastUpdated": "2026-05-08T01:49:04Z",
+    "lastUpdated": "2026-05-08T12:08:04Z",
     "stars": 18,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -2823,6 +2823,18 @@
     "description": "Improves your experience on the official io  Flood server."
   },
   {
+    "repo": "fghjk455rg/rebelion",
+    "internalName": "ens-mod",
+    "name": "Rebelion",
+    "author": "Enless and many people in my lfe",
+    "lastUpdated": "2026-05-07T21:30:22Z",
+    "stars": 8,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Add new campaign on 3 planets (still WIP:)\n\nThe mod is focused on a difficulty slightly higher than the main game and follows the game design principles of the original Mindustry\n\nCurrently, the mod contains 4 sectors of the first of three planets. The development is delayed, but it has not been abandoned. I hope to complete the first sector of the second planet by 2027, which is planned to follow the seventh sector of the first planet.\n\n(Next text is not important if you not from Russia)\n\nHi, I'm having serious problems in my life, and I'm asking for help. At least 10 rubles. Just a small amount, if you don't mind.\n\nVTB | 2200247955819553 | Danil\n\nI would greatly appreciate any assistance. Please forgive me."
+  },
+  {
     "repo": "eb-wilson/modpacker",
     "internalName": "mod-packer",
     "name": "Mod Packer",
@@ -3242,18 +3254,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "The base mod for Lovecraftian series that adds essential resource, chemicals, environmental blocks and planets."
-  },
-  {
-    "repo": "fghjk455rg/rebelion",
-    "internalName": "ens-mod",
-    "name": "Rebelion",
-    "author": "Enless and many people in my lfe",
-    "lastUpdated": "2026-05-07T21:30:22Z",
-    "stars": 7,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Add new campaign on 3 planets (still WIP:)\n\nThe mod is focused on a difficulty slightly higher than the main game and follows the game design principles of the original Mindustry\n\nCurrently, the mod contains 4 sectors of the first of three planets. The development is delayed, but it has not been abandoned. I hope to complete the first sector of the second planet by 2027, which is planned to follow the seventh sector of the first planet.\n\n(Next text is not important if you not from Russia)\n\nHi, I'm having serious problems in my life, and I'm asking for help. At least 10 rubles. Just a small amount, if you don't mind.\n\nVTB | 2200247955819553 | Danil\n\nI would greatly appreciate any assistance. Please forgive me."
   },
   {
     "repo": "m4x1ghg/minedustry",
@@ -9726,18 +9726,6 @@
     "description": "Living in under the zero."
   },
   {
-    "repo": "dovintc-off/serpulor",
-    "internalName": "serpulor",
-    "name": "SerpuloR",
-    "author": "Dov1ntc & nclr",
-    "lastUpdated": "2026-05-07T20:08:41Z",
-    "stars": 1,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\nReworks Serpulo's sectors and mechanics (not all of Serpulos mechanics), including extra sectors, remade sectors, and difficulty changes.\n"
-  },
-  {
     "repo": "ottocolten/ottos-advancing-machines",
     "internalName": " advancing-machines",
     "name": " otto's Advancing machines",
@@ -9772,6 +9760,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds music from [#96EFFF]Celeste[white].\nWarning: it can get loud!!\n\n\nboss1 - Resurrection\nboss2 - In the Mirror\neditor - Heart of the Mountain\nfine - Madeline and Theo\ngame1 - Fear of the Unknown\ngame2 - Jou of Remembrance\ngame3 - In Stasis\ngame4 - Beyond the Heart\ngame5 - Farewell\ngame6 - Quiet and Falling\ngame7 - Old Site (Black Moonrise Mix)\ngame8 - Summit (No More Running Mix)\ngame9 - The Core (Say Goodbye Mix)\nland - Crash\nlaunch - The Empty Space Above\nmenu - Postcard from Celeste Mountain\n\n[#646464]In Lönn:\nboss1 - music_oldsite_chase\nboss2 - music_temple_middle\neditor - music_core_main\nfine - music_reflection_maddietheo\ngame1 - music_farewell_part01\ngame2 - music_farewell_part02\ngame3 - music_farewell_intermission_heartgroove\ngame4 - music_farewell_part03\ngame5 - music_farewell_final_run\ngame6 - music_temple_normal\ngame7 - music_rmx_02_old_site\ngame8 - music_rmx_07_summit\ngame9 - music_rmx_09_core\nland - music_farewell_firstbirdcrash_cinematic\nlaunch - music_levelselect ?\nmenu - music_levelselect\n\nIn FMOD:\n(music/kuraine/)\nboss1 - mus_lvl2_chase_loop\nboss2 - mus_lvl5_middlereverse_main_loop\neditor - mus_lvl8_intro_loop\nfine - mus_lvl6_maddietheo_loop\ngame1 - mus_lvl9_part01_mysterious_fullmix\ngame2 - mus_lvl9_part02_uplifting_acousticbase\ngame3 - mus_lvl9_intermission_heartgroove_84bpm\ngame4 - mus_lvl9_part03_finale_loop\ngame5 - mus_lvl9_ending_finalrun_multiloop_131bpm\ngame6 - mus_lvl5_lightnorm_loop\n\n(music/remix/)\ngame7 - mus_rmx_02_oldsite_loop\ngame8 - mus_rmx_07_summit\ngame9 - mus_rmx_08_core\n\n(music/kuraine/)\nland - mus_lvl9_cinematic_firstbirdcrash\nlaunch - mus_menu_levelselect_moon_loop\nmenu - mus_menu_levelselect_loop[white]"
+  },
+  {
+    "repo": "dovintc-off/serpulor",
+    "internalName": "serpulor",
+    "name": "SerpuloR",
+    "author": "Dov1ntc & nclr",
+    "lastUpdated": "2026-05-08T11:58:52Z",
+    "stars": 1,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nReworks Serpulo's sectors and mechanics (not all of Serpulos mechanics), including extra sectors, remade sectors, and difficulty changes.\n"
   },
   {
     "repo": "exxleo/exoterusmod",
