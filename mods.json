@@ -5,7 +5,7 @@
     "name": "New Horizon",
     "author": "Yuria & Lao",
     "lastUpdated": "2026-05-07T10:58:30Z",
-    "stars": 572,
+    "stars": 571,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
@@ -17,7 +17,7 @@
     "name": "Exogenesis",
     "author": "AureusStratus",
     "lastUpdated": "2026-04-28T05:28:37Z",
-    "stars": 441,
+    "stars": 439,
     "minGameVersion": "137",
     "hasScripts": false,
     "hasJava": false,
@@ -341,7 +341,7 @@
     "name": "Fictional Octo System",
     "author": "Team Oct",
     "lastUpdated": "2026-05-05T16:32:38Z",
-    "stars": 63,
+    "stars": 62,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -462,7 +462,7 @@
     "name": "Animalia",
     "author": "Flin",
     "lastUpdated": "2025-02-03T14:54:28Z",
-    "stars": 50,
+    "stars": 49,
     "minGameVersion": "141",
     "hasScripts": false,
     "hasJava": true,
@@ -986,18 +986,6 @@
     "description": "oxynoe :>"
   },
   {
-    "repo": "dong-wo-long/enhancementunits",
-    "internalName": "enhancement-units",
-    "name": "Enhancement Units",
-    "author": "D&X",
-    "lastUpdated": "2024-06-03T13:06:10Z",
-    "stars": 22,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "ATTENTION:\n\nFrom now on, the mod goes into experimental mode - this means that the balance may not be balanced, such as a Toxopid with a Corvus, whose attack radius go far beyond 60 cells!!!!!\nNevertheless, I advise you to calm down: when the mod reaches its peak (despite my crazy plans for it, the result of which you are already watching), I will make several versions to meet the needs of as many people as possible. In the meantime, it remains to wait. Sorry for the inconvenience.\n\nImportant:\n\nThis mod does not bring anything radically new to the game, but only expands the combat functionality of existing combat units.\n\nPlease pay attention:\n\nThe mod significantly redesigns units, changes the balance and generally complicates the game. Don't forget to make a backup in case you don't like the changes that the mod itself makes.\n\nP.S. The mod is made for ALE maps."
-  },
-  {
     "repo": "fun7game/gloomistrymod",
     "internalName": "gloomustry",
     "name": "Gloomistry - New Mission",
@@ -1032,6 +1020,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mod In Dev"
+  },
+  {
+    "repo": "dong-wo-long/enhancementunits",
+    "internalName": "enhancement-units",
+    "name": "Enhancement Units",
+    "author": "D&X",
+    "lastUpdated": "2024-06-03T13:06:10Z",
+    "stars": 21,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "ATTENTION:\n\nFrom now on, the mod goes into experimental mode - this means that the balance may not be balanced, such as a Toxopid with a Corvus, whose attack radius go far beyond 60 cells!!!!!\nNevertheless, I advise you to calm down: when the mod reaches its peak (despite my crazy plans for it, the result of which you are already watching), I will make several versions to meet the needs of as many people as possible. In the meantime, it remains to wait. Sorry for the inconvenience.\n\nImportant:\n\nThis mod does not bring anything radically new to the game, but only expands the combat functionality of existing combat units.\n\nPlease pay attention:\n\nThe mod significantly redesigns units, changes the balance and generally complicates the game. Don't forget to make a backup in case you don't like the changes that the mod itself makes.\n\nP.S. The mod is made for ALE maps."
   },
   {
     "repo": "deltanedas/ldb",
@@ -1152,18 +1152,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Logic Debugger\n\n一个逻辑辅助工具\n\n原作DeltaNedas/ldb\n\nyaddrx2将其升级到了137，仅供学习交流使用\n\n当前版本：1.7.0\n\n更新日志\n\nv1.0.1\n将mod版本升为137\n\nv1.0.2\n取消ui-lib的前置\n\nv1.0.3\n逻辑码编辑板\n新增代码语句的文本形式编辑\n\nv1.0.4\n逻辑块变量面板\n变量更新闪烁\n增加逻辑块所连方块的显示\n\nv1.0.5\n内存块编辑板\n内存值更新闪烁\n新增内存值的二进制形式视察\n实现内存值的十六进制形式编辑\n\nv1.0.6\n新增代码插入相关操作\n实现从剪切板导入代码块到指定位置\n\nv1.0.7\n新增面板的折叠按钮\n修复学术端运行mod导致的面板移位或覆盖\n修复面板横向抖动的bug\n\nv1.0.8\n单步调试面板\n实现代码单步运行调试\n\nv1.1.0\n新增调试面板设置断点\n实现运行到下一断点操作\n\nv1.1.1\n新增变量位置指示器\n显示单位变量的flag\n\nv1.2\n新增调试面板的运行位置追踪\n新增功能标签\n\nv1.3\n位置指示器增加变量名\n\nv1.4\n内存块面板增加内存值导入导出\n\nv1.5\n变量面板增加变量值导出\n\nv1.6\n内存面板的变量名筛选\n内存值导出筛选器\n\nv1.7\n增加信息板复制与导入"
-  },
-  {
-    "repo": "falkowitz/smeshariki-music-pack",
-    "internalName": "smp",
-    "name": "Smeshariki-Music-Pack",
-    "author": "Fitz",
-    "lastUpdated": "2024-05-29T13:38:36Z",
-    "stars": 19,
-    "minGameVersion": "140",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Just replaces existing ost with ost from kikoriki"
   },
   {
     "repo": "saigon0nozomi/nightscape",
@@ -1338,7 +1326,7 @@
     "internalName": "cataclysm",
     "name": "Cataclysm",
     "author": "[#ffb33a]JJ[]",
-    "lastUpdated": "2026-05-08T12:08:04Z",
+    "lastUpdated": "2026-05-09T01:05:28Z",
     "stars": 18,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -1440,6 +1428,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Disables sectors being re-attacked."
+  },
+  {
+    "repo": "falkowitz/smeshariki-music-pack",
+    "internalName": "smp",
+    "name": "Smeshariki-Music-Pack",
+    "author": "Fitz",
+    "lastUpdated": "2024-05-29T13:38:36Z",
+    "stars": 16,
+    "minGameVersion": "140",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Just replaces existing ost with ost from kikoriki"
   },
   {
     "repo": "thomasthings/xenacia",
@@ -1574,18 +1574,6 @@
     "description": "Add a lot of vanilla improvement :\n \n    -Add new turrets / items / liquids and more\n    -You can now biuld T6 units\n    -Mod compatible with multiplayer and campain\n\nStill in in development so might be bugged or unbalanced for now\nDon't forget to review and drop a star :P\n \n \n       \n    - Arth0x"
   },
   {
-    "repo": "falkowitz/medieval-mindustry",
-    "internalName": "mm",
-    "name": "Medieval Mindustry",
-    "author": "Fitz",
-    "lastUpdated": "2025-08-13T16:29:16Z",
-    "stars": 14,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Total conversion PVP mod set in fantasy medieval times"
-  },
-  {
     "repo": "reversteams/etigei-exile",
     "internalName": "etigeox",
     "name": "Etigei Exile",
@@ -1706,18 +1694,6 @@
     "description": "Spfu Working Again"
   },
   {
-    "repo": "slotterleet/distributor",
-    "internalName": "distributor",
-    "name": "Distributor",
-    "author": "Slotterleet",
-    "lastUpdated": "2024-05-04T10:36:38Z",
-    "stars": 13,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "The ultimate form of the ultimate form. Multiplayer compatible. Also supports modded distributors."
-  },
-  {
     "repo": "tcookiem/yeeter-mod",
     "internalName": "yeeter-mod",
     "name": "Yeeter Mod",
@@ -1740,6 +1716,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The best sensory overload you can get, at least legally."
+  },
+  {
+    "repo": "falkowitz/medieval-mindustry",
+    "internalName": "mm",
+    "name": "Medieval Mindustry",
+    "author": "Fitz",
+    "lastUpdated": "2025-08-13T16:29:16Z",
+    "stars": 13,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Total conversion PVP mod set in fantasy medieval times"
   },
   {
     "repo": "abe-ischarlie/op-mod",
@@ -1848,6 +1836,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "SHADOOOW your GAME!! repo: BlackDeluxeCat/ShadowShader"
+  },
+  {
+    "repo": "slotterleet/distributor",
+    "internalName": "distributor",
+    "name": "Distributor",
+    "author": "Slotterleet",
+    "lastUpdated": "2024-05-04T10:36:38Z",
+    "stars": 12,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "The ultimate form of the ultimate form. Multiplayer compatible. Also supports modded distributors."
   },
   {
     "repo": "bloody-ocean/bloodyvisual",
@@ -6845,18 +6845,6 @@
     "description": "[white]Da[lightgray]rke[gray]ns [white]bright tiles to reduce eye strain"
   },
   {
-    "repo": "dong-wo-long/sanabi-ost",
-    "internalName": "sanabi-ost",
-    "name": "SANABI ost",
-    "author": "D&X",
-    "lastUpdated": "2025-07-12T17:26:15Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Changes music files to tracks from the SANABI game (not a bad game, I advise you to take a closer look at it)"
-  },
-  {
     "repo": "glino-mes/the-root-of-ruin",
     "internalName": "enigmatamod",
     "name": "Roots of Ruin",
@@ -8715,6 +8703,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "JSON-javaScript compliation of several mods that are unplayable. \n\nThe contents as they were, no balancing adjustments, no respriting unless prompted. All sprites belong to respective owners"
+  },
+  {
+    "repo": "dong-wo-long/sanabi-ost",
+    "internalName": "sanabi-ost",
+    "name": "SANABI ost",
+    "author": "D&X",
+    "lastUpdated": "2025-07-12T17:26:15Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Changes music files to tracks from the SANABI game (not a bad game, I advise you to take a closer look at it)"
   },
   {
     "repo": "dong-wo-long/fear1-ost",
