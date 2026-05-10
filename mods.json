@@ -65,7 +65,7 @@
     "name": "Asthosus",
     "author": "Catser",
     "lastUpdated": "2026-05-07T05:16:47Z",
-    "stars": 229,
+    "stars": 230,
     "minGameVersion": "156.2",
     "hasScripts": false,
     "hasJava": false,
@@ -101,7 +101,7 @@
     "name": "Time Control",
     "author": "sk7725",
     "lastUpdated": "2026-04-13T00:22:11Z",
-    "stars": 171,
+    "stars": 170,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
@@ -148,7 +148,7 @@
     "internalName": "uaw",
     "name": "Unlimited Armament Works",
     "author": "Eschatologue",
-    "lastUpdated": "2026-05-09T08:55:42Z",
+    "lastUpdated": "2026-05-10T10:00:09Z",
     "stars": 130,
     "minGameVersion": "138",
     "hasScripts": false,
@@ -461,7 +461,7 @@
     "internalName": "ice",
     "name": "DeepSpace",
     "author": "Alon",
-    "lastUpdated": "2026-05-10T09:17:07Z",
+    "lastUpdated": "2026-05-10T09:18:05Z",
     "stars": 51,
     "minGameVersion": "157.4",
     "hasScripts": false,
@@ -5937,12 +5937,12 @@
     "internalName": "item-liquid-teleport",
     "name": "Item Liquid Teleport",
     "author": "namds666 & Claude Code & Codex",
-    "lastUpdated": "2026-05-10T09:17:02Z",
+    "lastUpdated": "2026-05-10T10:31:22Z",
     "stars": 3,
     "minGameVersion": "146",
     "hasScripts": true,
     "hasJava": false,
-    "description": "Adds cheat-grade 1x1 Chrono blocks for global item and liquid transport, item conversion, repair, construction, overdrive, unit buffs, unit debuffs, and core placement.\n  Update: expanded documentation and metadata for the full Chrono block set."
+    "description": "Adds cheat-grade Chrono blocks for global item and liquid transport, item conversion, repair, construction, overdrive, unit buffs, unit debuffs, and core placement.\n  Update: expanded documentation and metadata for the full Chrono block set."
   },
   {
     "repo": "rintadev5792/arcane-mindustry",
@@ -7349,18 +7349,6 @@
     "description": "Inline before/after diff viewer for Mindustry datapatches in the database UI. / 在数据库界面中直接显示 Mindustry 数据补丁的前后差异。"
   },
   {
-    "repo": "128oteml/proximacentauri",
-    "internalName": "proxima",
-    "name": "Proxima Centauri",
-    "author": "128_OTEML",
-    "lastUpdated": "2026-05-05T03:35:49Z",
-    "stars": 2,
-    "minGameVersion": "157.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry Java mod."
-  },
-  {
     "repo": "urij19cc7e4/machindustry",
     "internalName": "machindustry",
     "name": "Machindustry",
@@ -7407,6 +7395,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\n[blue]=====INFO=========================\n[gold]ThermalEnginerring  [red]0.0.2_A\n[blue]=====DESCRIPTION==================\n[sky]A mindustry Java&Kotlin(JVM) Mod\n一个Mindustry的JVMMod\n"
+  },
+  {
+    "repo": "128oteml/proximacentauri",
+    "internalName": "proxima",
+    "name": "Proxima Centauri",
+    "author": "128_OTEML",
+    "lastUpdated": "2026-05-10T09:34:10Z",
+    "stars": 2,
+    "minGameVersion": "157.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry Java mod."
   },
   {
     "repo": "no9527dada/skin",
@@ -9726,18 +9726,6 @@
     "description": "PHIGHTHOUSE! is a style i made up which is basically a combination of phighting, a 5v5 fighting game by boggio, and whitehouse, a british extreme music band started by w. bennett.\nthis mod was originally made as \"a mod within a mod\" but it's has been decided to be it's own thing.\n(note: this is mostly just an asset flip imo creds to the modders of vincenzotheduck, zac, Dagger & others.)"
   },
   {
-    "repo": "beonicwulf/dynamics",
-    "internalName": "dy",
-    "name": "Dynamics",
-    "author": "Farborne Industries ⚙️",
-    "lastUpdated": "2026-05-09T18:20:00Z",
-    "stars": 1,
-    "minGameVersion": "156",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Work in Progress\n\n [accent]⚠[] [red]This mod replaces [#9fabd1]Blue Team[] and might therefore not be compatible with some other mods.[]\n\n You are in command of a [#aa8e6e]core[] that is stranded on [#9fabd1]Thalassa[], a distant planet, covered mostly in oceans. However, it seems that there's an enemy faction that has already begun harvesting its [#aa996e]resources[] and developing rapidly. The arms race has begun, and you must play catch-up."
-  },
-  {
     "repo": "dovintc-off/serpulor",
     "internalName": "serpulor",
     "name": "SerpuloR",
@@ -9784,6 +9772,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Changes your Mindustry sound effects into some cursed sounds."
+  },
+  {
+    "repo": "beonicwulf/dynamics",
+    "internalName": "dy",
+    "name": "Dynamics",
+    "author": "Farborne Industries ⚙️",
+    "lastUpdated": "2026-05-10T10:22:08Z",
+    "stars": 1,
+    "minGameVersion": "156",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Work in Progress\n\n [accent]⚠[] [red]This mod replaces [#9fabd1]Blue Team[] and might therefore not be compatible with some other mods.[]\n\n You are in command of a [#aa8e6e]core[] that is stranded on [#9fabd1]Thalassa[], a distant planet, covered mostly in oceans. However, it seems that there's an enemy faction that has already begun harvesting its [#aa996e]resources[] and developing rapidly. The arms race has begun, and you must play catch-up."
   },
   {
     "repo": "exxleo/exoterusmod",
