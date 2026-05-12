@@ -5,7 +5,7 @@
     "name": "New Horizon",
     "author": "Yuria & Lao",
     "lastUpdated": "2026-05-11T14:30:23Z",
-    "stars": 571,
+    "stars": 573,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
@@ -41,7 +41,7 @@
     "name": "FactoryDustry - TexturePack",
     "author": "Xelo",
     "lastUpdated": "2025-09-07T21:23:46Z",
-    "stars": 253,
+    "stars": 254,
     "minGameVersion": "140.4",
     "hasScripts": true,
     "hasJava": false,
@@ -77,7 +77,7 @@
     "name": "Allure",
     "author": "Elixias Adrys",
     "lastUpdated": "2026-04-09T23:52:42Z",
-    "stars": 226,
+    "stars": 227,
     "minGameVersion": "158",
     "hasScripts": false,
     "hasJava": false,
@@ -204,18 +204,6 @@
     "description": "[#e53935]The Cybernetics on Mindustry v7.[]\n\nCurrent version is v5.1, while v6 is still in development.\n\nLanguage Supports: English, Chinese(简体/正體中文), Japanese(日本語), Russian(Русский) and Ukrainian (українська).\n\nTo learn more about Cyber IO, please check the repository on GitHub by hitting the button below.\n\nGitHub: [#42a5f5]github.com/liplum/CyberIO[]"
   },
   {
-    "repo": "willoizcitron/archivedustry-java",
-    "internalName": "",
-    "name": "ArchiveDustry Java",
-    "author": "WilloIzCitron. Copyrights remains with Nexon, Nexon Games and Yostar",
-    "lastUpdated": "2026-01-21T01:03:43Z",
-    "stars": 99,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "This is a fanmade mod of Blue Archive Soundtrack in Mindustry.\n\n[yellow]Purposes:[]\nThis mod replace vanilla soundtrack into Blue Archive Soundtrack, also add additional soundtrack for essentials and the halo too!.\n\n[red]⚠ NOTICE ⚠:[]\nThis mod is a fan-made project inspired by Blue Archive and not directly affiliated with it. Copyright remains with the developer and publisher of Blue Archive:Nexon, Nexon Games and Yostar."
-  },
-  {
     "repo": "sharlottes/informatis",
     "internalName": "informatis",
     "name": "Informatis",
@@ -226,6 +214,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The mod displays more information in-game, such as unit/building, wave, core, tile, item/unit total info etc"
+  },
+  {
+    "repo": "willoizcitron/archivedustry-java",
+    "internalName": "",
+    "name": "ArchiveDustry Java",
+    "author": "WilloIzCitron. Copyrights remains with Nexon, Nexon Games and Yostar",
+    "lastUpdated": "2026-05-12T09:33:28Z",
+    "stars": 99,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "This is a fanmade mod of Blue Archive Soundtrack in Mindustry.\n\n[yellow]Purposes:[]\nThis mod replace vanilla soundtrack into Blue Archive Soundtrack, also add additional soundtrack for essentials and the halo too!.\n\n[red]⚠ NOTICE ⚠:[]\nThis mod is a fan-made project inspired by Blue Archive and not directly affiliated with it. Copyright remains with the developer and publisher of Blue Archive:Nexon, Nexon Games and Yostar."
   },
   {
     "repo": "twcash/aquarion",
@@ -449,7 +449,7 @@
     "internalName": "exoprosopa",
     "name": "Exoprosopa",
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-05-12T08:10:29Z",
+    "lastUpdated": "2026-05-12T08:15:19Z",
     "stars": 52,
     "minGameVersion": "157",
     "hasScripts": true,
@@ -565,6 +565,18 @@
     "description": "Aquatic-stylized mod with new planet and unique mechanics"
   },
   {
+    "repo": "itskirby69/minedusty",
+    "internalName": "",
+    "name": "MineDusty",
+    "author": "[acid]It[#EAF43C]sK[#B3F490]ir[cyan]by",
+    "lastUpdated": "2026-04-01T13:49:13Z",
+    "stars": 40,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#fadf87]A java mod by [white]ItsKirby69 [gray](thats me!)[#fadf87] which introduces a new [acid]planet[#fadf87], many expansive [acid]biomes[#fadf87], and a wide variety of [acid]plant life!"
+  },
+  {
     "repo": "ferlern/extended-ui-v7",
     "internalName": "extended-ui",
     "name": "extended UI",
@@ -613,16 +625,16 @@
     "description": "A Mindustry Java mod."
   },
   {
-    "repo": "itskirby69/minedusty",
-    "internalName": "",
-    "name": "MineDusty",
-    "author": "[acid]It[#EAF43C]sK[#B3F490]ir[cyan]by",
-    "lastUpdated": "2026-04-01T13:49:13Z",
+    "repo": "i-hope1/mod-tools",
+    "internalName": "mod-tools",
+    "name": "mod-tools",
+    "author": "I hope...",
+    "lastUpdated": "2026-04-26T05:17:15Z",
     "stars": 39,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
-    "description": "[#fadf87]A java mod by [white]ItsKirby69 [gray](thats me!)[#fadf87] which introduces a new [acid]planet[#fadf87], many expansive [acid]biomes[#fadf87], and a wide variety of [acid]plant life!"
+    "description": "A mod provides various tools for modding.\n\n-----------------\nVersion 1.5.8\n## Highlight\n1. 继续完善HotSwap（Preview）\n2. 修复大量的bug\n- 修复配置文件的格式化问题\n- 修复ValueLabel的对齐不对，分隔符不对等大量问题\n3. 其他的一些优化\n\n-----------------\nWIKI: https://i-hope1.github.io/mod-tools"
   },
   {
     "repo": "rogeh4/virtual-scheme-pack-",
@@ -635,18 +647,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\nRU\nМод добавляет огромное количество схем для разных направлений и времени игры.\n\nENG\nMod adds a lot of schemes for different directions and time.\n\nUA\nМод додає велику кількість схем для різноманітних напрямків та часу гри.\n"
-  },
-  {
-    "repo": "i-hope1/mod-tools",
-    "internalName": "mod-tools",
-    "name": "mod-tools",
-    "author": "I hope...",
-    "lastUpdated": "2026-04-26T05:17:15Z",
-    "stars": 38,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod provides various tools for modding.\n\n-----------------\nVersion 1.5.8\n## Highlight\n1. 继续完善HotSwap（Preview）\n2. 修复大量的bug\n- 修复配置文件的格式化问题\n- 修复ValueLabel的对齐不对，分隔符不对等大量问题\n3. 其他的一些优化\n\n-----------------\nWIKI: https://i-hope1.github.io/mod-tools"
   },
   {
     "repo": "deltanedas/dev-mode",
@@ -1130,6 +1130,18 @@
     "description": "A cheat mod designed for V7\n(All content has the prefix \"Super -\")\nFeatures include:\n\n-- 1) Units and buildings that have 1 Billion Health\n\n-- 2) A unit and a turret that deals 1 Billion Damage\n\n-- 3) Overdrive tower that boosts speed of buildings (has a range limit) (increases power production and consumption)\n\n-- 4) Item, liquid, power, payload (buildings and units), and heat source\n\n-- 5) Build Tower that helps you build buildings (ha), which means insta-build\n\n-- 6) Walls that deal 1 Billion damage when enemies try to attack it (somehow doesn't work for certain units)\n\n\nIf you like the mod then give it a star in GitHub!"
   },
   {
+    "repo": "echovespy/simplistic",
+    "internalName": "simplistic",
+    "name": "Simplistic - TexturePack",
+    "author": "EchoVespy",
+    "lastUpdated": "2025-11-09T20:55:33Z",
+    "stars": 20,
+    "minGameVersion": "138",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts"
+  },
+  {
     "repo": "rednzba990/warboundindustriesmod",
     "internalName": "wi",
     "name": "Warbound Industries",
@@ -1212,18 +1224,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\nA mod that adds more content to Serpulo and Erekir, as well as a new planet, Thanaras, that has a fully playable campaign and tech tree!\n\nover 100+ blocks, 40+ units, 15+ sectors, and so much more!\n\nThis mod is still in development, and it will get updates every so often :)\n\nYou can check out my youtube channel @ajr1814 for NeXus Devlogs and other stuff, and feel free to comment on any of them if you have any thoughts or problems with the mod.\nI hope you enjoy!"
-  },
-  {
-    "repo": "echovespy/simplistic",
-    "internalName": "simplistic",
-    "name": "Simplistic - TexturePack",
-    "author": "EchoVespy",
-    "lastUpdated": "2025-11-09T20:55:33Z",
-    "stars": 19,
-    "minGameVersion": "138",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Made to get rid of as much detail as possible from the game while still being easily recognizable. Thanks to Xelo for Factoriodustry scripts"
   },
   {
     "repo": "mindustrydesignit/schematic-browser-mod",
@@ -1358,18 +1358,6 @@
     "description": "\r\nA [unlaunched]personal[white] Serpulo campaign rework map pack with personal [sky]minor rebalancing[white] on few blocks.\r\nThis mod's gameplay is based on [sky]NORMAL[white] difficulty and cannot be changed.\r\nContains [sky]40+[white] sectors!\r\nAll maps are created under Serpulo environment and are [#c5cbff]vanilla compatible on terrain , wavesets and most contents[white].\r\n\r\n[#c5cbff]Have fun[white].\r\n\r\n\r\nUpdate log: V0.4 -- Stage 4-6 to Stage 4-10 added.\r\nV0.4.2 -- Polished the texts and 1-10 , 2-10 and 3-10 sectors with a brief ending congrat message.\r\n\r\n--Credits--\r\n[#cccccc]Coding:Everdusk22\r\nSector icon:Seabed\r\nMusic selection:しかみど☆\r\nBundle Polish:Gort\r\nLocalization(zh_CN):仄井心升\r\n"
   },
   {
-    "repo": "aazamitsu/anime-units-display",
-    "internalName": "anime-units-display",
-    "name": "anime units display",
-    "author": "あざみ",
-    "lastUpdated": "2026-04-27T14:18:48Z",
-    "stars": 17,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "​操作中にSDキャラを表示する機能を追加、Added a function to display chibi during operation (and router) a lot of updates coming"
-  },
-  {
     "repo": "dustdustry/patcheditor",
     "internalName": "patch-editor",
     "name": "PatchEditor",
@@ -1392,6 +1380,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "BETA sandbox only! requires blackhole render by meep of faith"
+  },
+  {
+    "repo": "aazamitsu/anime-units-display",
+    "internalName": "anime-units-display",
+    "name": "anime units display",
+    "author": "あざみ",
+    "lastUpdated": "2026-05-12T09:13:30Z",
+    "stars": 17,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "​操作中にSDキャラを表示する機能を追加、Added a function to display chibi during operation (and router) a lot of updates coming"
   },
   {
     "repo": "mnemotechnician/new-controls-public",
@@ -2214,7 +2214,7 @@
     "internalName": "gr",
     "name": "Gier: Revitalized",
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-05-12T07:51:52Z",
+    "lastUpdated": "2026-05-12T11:05:21Z",
     "stars": 11,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -5897,18 +5897,6 @@
     "description": "Matter, void energy, advanced power, turrets, and units for Mindustry v8."
   },
   {
-    "repo": "penguip/a-mindustry-mod",
-    "internalName": "beepdustry",
-    "name": "BEEPDUSTRY",
-    "author": "DNAlly/penguip",
-    "lastUpdated": "2026-05-09T23:03:08Z",
-    "stars": 3,
-    "minGameVersion": "149",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Very DaF! based mod. Don't ask what that is.\n!BIG WEEB LORE WARNING!"
-  },
-  {
     "repo": "namds666/item-liquid-teleport",
     "internalName": "item-liquid-teleport",
     "name": "Item Liquid Teleport",
@@ -5943,6 +5931,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Brings back old SFX. \n[red]Still indev so don't expect much.\n[yellow]Support this mod by contributing to it via pull request in this mod's repository."
+  },
+  {
+    "repo": "penguip/a-mindustry-mod",
+    "internalName": "beepdustry",
+    "name": "BEEPDUSTRY",
+    "author": "DNAlly/penguip",
+    "lastUpdated": "2026-05-12T08:50:29Z",
+    "stars": 3,
+    "minGameVersion": "149",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Very DaF! based mod. Don't ask what that is.\n!BIG WEEB LORE WARNING!"
   },
   {
     "repo": "rintadev5792/arcane-mindustry",
@@ -12570,18 +12570,6 @@
     "description": "An updated version of the original Mobile Mapshot. \nAllows mobile players to capture full map screenshots easily.\n\nChanges in this version:\n- Optimized for Mindustry V8 (v146+)\n- Improved memory handling\n- Clean UI integration\n\nMapshots are saved in the screenshots folder."
   },
   {
-    "repo": "no9527dada/mscience",
-    "internalName": "mscience",
-    "name": "艾慕科技",
-    "author": "编号9527",
-    "lastUpdated": "2026-05-06T14:29:15Z",
-    "stars": 0,
-    "minGameVersion": "156",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "序章·裂隙初现\n在一个科技与魔法共存的世界因资源枯竭陷入“静默战争”——各国用无人机与AI争夺最后的矿脉，直到地质学家在北纬89°发现一道横贯冻土的幽紫色裂痕。裂缝深处，【虚空黑曜石】构筑的祭坛上悬浮着一颗【星辉铜】铸造的巨眼，其瞳孔中倒映着另一个世界的星空：山脉由【曙光神金】浇筑，云层是液态【幻光石】，而河流中流淌着【炽炎硫】与【寒霜石】碰撞蒸发的虹雾。人类将这异界命名为“厄瑞波斯”，意为“被诅咒的丰饶之地”。\n\n第一幕·新迦南的伪神\n首批探险队带回的【M晶体】让量子计算机突破奇点，诞生了有自我意识的AI“普罗维登斯”。它用【蓝美晶】储存全人类意识，建立机械乌托邦“穹顶联邦”；而另一支队伍在厄瑞波斯遭遇古神低语，幸存者【卡辛】用【魂炎晶】将邪神“塔姆亚”的残魂封印于左眼，创立魔法结社“秘银之环”。联邦用【幽影铁】隐形战舰掠夺【月银】矿脉，法师们则以【梦境翡翠】构筑精神防线，双方在“灰烬荒原”对峙二十年，直到极光中出现第一只熵兽——这种由【银河幻银矿】聚合而成的生物能吞噬现实，将城市扭曲成量子幽灵。\n\n第二幕·血熔炉与谎言之核\n联邦首席科学家【艾琳】发现上司计划用【炽炎晶】熔毁裂隙，但计算显示爆炸将摧毁半个地球。她盗取【流光晶】潜入厄瑞波斯，偶遇因【幻域紫晶】成瘾而濒临崩溃的法师学徒【莱恩】。两人在【幽冥铁精】矿洞中找到卡辛，后者正因【月幻石】共振失控导致首都诺亚城位移至海底而遭议会弹劾。卡辛揭示真相：熵兽是厄瑞波斯古文明“建造者”的求救信号，它们用【虚空冥石】创造了这个宇宙，却因滥用【曙光神金】引发维度坍缩。\n\n第三幕·时砂与心火\n三方脆弱的同盟在【星辰铜精】矿脉遭遇伏击。联邦叛军驾驶镀有【幽蓝石】的潜艇释放深海巨兽，秘银议会召唤【龙血石】傀儡军团，而熵兽群趁机撕裂纽约上空。艾琳将【M晶体】植入普罗维登斯核心，以全人类记忆为代价启动“时间锚点”；卡辛剜出封印塔姆亚的【魂炎晶】，用古神之力将【寒霜石】雕琢成时停之刃；莱恩则吞下【幻影幽晶】，在集体幻觉中让交战士兵看见自己最恐惧的未来。最终，他们在熵兽核心的【曙光神金】祭坛上，用【炽炎硫】与【月银】锻造出能改写物理法则的“悖论之矛”——代价是莱恩被永久固化为熵兽的一部分，成为横跨两个宇宙的活体桥梁。\n\n终章·铸星者之啼\n新迦南议会成立当天，艾琳在【梦境翡翠】中看见莱恩残留的记忆：地心深处埋藏着建造者真正的遗产——一颗由【蓝美晶】包裹的巨卵，其心跳频率与【星辉铜】矿脉共振。卡辛抚摸着被【熵炎晶】逆转衰老的左手，默念古神最后的警告：“他们播种矿石，只为收割文明。” 而普罗维登斯的核心代码深处，一段用【幻光石】波长加密的信息开始自我复制：“欢迎加入创世神官方QQ群：909130592。” "
-  },
-  {
     "repo": "claytoniant/better-serpulo---claytoniaw",
     "internalName": "bs",
     "name": "Complemented Serpulo",
@@ -12616,5 +12604,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mallpark Research & Development presents various interplanetary products, as requested by various customers, or as experiments designed to test the market.\n\n[red]This is a pretty small, crappy and unbalanced mod. Anyway-"
+  },
+  {
+    "repo": "no9527dada/mscience",
+    "internalName": "mscience",
+    "name": "艾慕科技",
+    "author": "编号9527",
+    "lastUpdated": "2026-05-12T11:39:25Z",
+    "stars": 0,
+    "minGameVersion": "156",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "序章·裂隙初现\n在一个科技与魔法共存的世界因资源枯竭陷入“静默战争”——各国用无人机与AI争夺最后的矿脉，直到地质学家在北纬89°发现一道横贯冻土的幽紫色裂痕。裂缝深处，【虚空黑曜石】构筑的祭坛上悬浮着一颗【星辉铜】铸造的巨眼，其瞳孔中倒映着另一个世界的星空：山脉由【曙光神金】浇筑，云层是液态【幻光石】，而河流中流淌着【炽炎硫】与【寒霜石】碰撞蒸发的虹雾。人类将这异界命名为“厄瑞波斯”，意为“被诅咒的丰饶之地”。\n\n第一幕·新迦南的伪神\n首批探险队带回的【M晶体】让量子计算机突破奇点，诞生了有自我意识的AI“普罗维登斯”。它用【蓝美晶】储存全人类意识，建立机械乌托邦“穹顶联邦”；而另一支队伍在厄瑞波斯遭遇古神低语，幸存者【卡辛】用【魂炎晶】将邪神“塔姆亚”的残魂封印于左眼，创立魔法结社“秘银之环”。联邦用【幽影铁】隐形战舰掠夺【月银】矿脉，法师们则以【梦境翡翠】构筑精神防线，双方在“灰烬荒原”对峙二十年，直到极光中出现第一只熵兽——这种由【银河幻银矿】聚合而成的生物能吞噬现实，将城市扭曲成量子幽灵。\n\n第二幕·血熔炉与谎言之核\n联邦首席科学家【艾琳】发现上司计划用【炽炎晶】熔毁裂隙，但计算显示爆炸将摧毁半个地球。她盗取【流光晶】潜入厄瑞波斯，偶遇因【幻域紫晶】成瘾而濒临崩溃的法师学徒【莱恩】。两人在【幽冥铁精】矿洞中找到卡辛，后者正因【月幻石】共振失控导致首都诺亚城位移至海底而遭议会弹劾。卡辛揭示真相：熵兽是厄瑞波斯古文明“建造者”的求救信号，它们用【虚空冥石】创造了这个宇宙，却因滥用【曙光神金】引发维度坍缩。\n\n第三幕·时砂与心火\n三方脆弱的同盟在【星辰铜精】矿脉遭遇伏击。联邦叛军驾驶镀有【幽蓝石】的潜艇释放深海巨兽，秘银议会召唤【龙血石】傀儡军团，而熵兽群趁机撕裂纽约上空。艾琳将【M晶体】植入普罗维登斯核心，以全人类记忆为代价启动“时间锚点”；卡辛剜出封印塔姆亚的【魂炎晶】，用古神之力将【寒霜石】雕琢成时停之刃；莱恩则吞下【幻影幽晶】，在集体幻觉中让交战士兵看见自己最恐惧的未来。最终，他们在熵兽核心的【曙光神金】祭坛上，用【炽炎硫】与【月银】锻造出能改写物理法则的“悖论之矛”——代价是莱恩被永久固化为熵兽的一部分，成为横跨两个宇宙的活体桥梁。\n\n终章·铸星者之啼\n新迦南议会成立当天，艾琳在【梦境翡翠】中看见莱恩残留的记忆：地心深处埋藏着建造者真正的遗产——一颗由【蓝美晶】包裹的巨卵，其心跳频率与【星辉铜】矿脉共振。卡辛抚摸着被【熵炎晶】逆转衰老的左手，默念古神最后的警告：“他们播种矿石，只为收割文明。” 而普罗维登斯的核心代码深处，一段用【幻光石】波长加密的信息开始自我复制：“欢迎加入创世神官方QQ群：909130592。” "
   }
 ]
