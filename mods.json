@@ -185,7 +185,7 @@
     "name": "MI2-Utilities Java",
     "author": "BlackDeluxeCat",
     "lastUpdated": "2026-04-15T01:30:14Z",
-    "stars": 118,
+    "stars": 119,
     "minGameVersion": "157.1",
     "hasScripts": false,
     "hasJava": true,
@@ -449,7 +449,7 @@
     "internalName": "exoprosopa",
     "name": "Exoprosopa",
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-05-12T08:15:19Z",
+    "lastUpdated": "2026-05-13T04:55:17Z",
     "stars": 52,
     "minGameVersion": "157",
     "hasScripts": true,
@@ -593,7 +593,7 @@
     "internalName": "azimut",
     "name": "Azimuth",
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-05-12T16:53:36Z",
+    "lastUpdated": "2026-05-13T02:07:05Z",
     "stars": 40,
     "minGameVersion": "156.2",
     "hasScripts": true,
@@ -677,7 +677,7 @@
     "internalName": "md3",
     "name": "MoreDefences",
     "author": "[grey]CD[], [#FC8E6C]meowkitty[] and [#ff0059]7rodo[]",
-    "lastUpdated": "2026-05-08T13:26:01Z",
+    "lastUpdated": "2026-05-13T02:28:34Z",
     "stars": 36,
     "minGameVersion": "157.4",
     "hasScripts": true,
@@ -894,7 +894,7 @@
     "internalName": "corpuscles",
     "name": "Corpuscles",
     "author": "SezoVK",
-    "lastUpdated": "2026-05-13T01:39:28Z",
+    "lastUpdated": "2026-05-13T05:20:36Z",
     "stars": 26,
     "minGameVersion": "157.4",
     "hasScripts": true,
@@ -1898,18 +1898,6 @@
     "description": "A Java Mindustry mod that adds a new campaign on the planet Xilion. Currently still in pre-alpha"
   },
   {
-    "repo": "bttodi/virtuality",
-    "internalName": "virtuality",
-    "name": "Virtuality",
-    "author": "bttodi",
-    "lastUpdated": "2026-02-24T23:37:46Z",
-    "stars": 12,
-    "minGameVersion": "152.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod centered around fighting bosses, with a focus on pattern-based attacks. Entirely detached from Mindustry's traditional gameplay loop - The Virtuality Archives restrains the player in a measly vessel and pits them against encoded entities. Does not utilize scripts or Java, seeking to explore the technical scope of (H)JSON and MLOG. Best experienced with a mouse and keyboard.\n\nCurrently features five of seven planned bosses in the campaign - Candor, Ardent & Argent, Pandemonium, Nyx, and Alluvion."
-  },
-  {
     "repo": "chaoticans-modding-team/new-content",
     "internalName": "newunits",
     "name": "New Content",
@@ -1956,6 +1944,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This planet is cold and therefore you will have to use aluminum and crystals to keep your buildings from freezing.."
+  },
+  {
+    "repo": "bttodi/virtuality",
+    "internalName": "virtuality",
+    "name": "Virtuality",
+    "author": "bttodi",
+    "lastUpdated": "2026-05-13T03:09:10Z",
+    "stars": 12,
+    "minGameVersion": "152.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod centered around fighting bosses, with a focus on pattern-based attacks. Entirely detached from Mindustry's traditional gameplay loop - The Virtuality Archives restrains the player in a measly vessel and pits them against encoded entities. Does not utilize scripts or Java, seeking to explore the technical scope of (H)JSON and MLOG. Best experienced with a mouse and keyboard.\n\nCurrently features 6/7 planned bosses in the campaign - Candor, Ardent & Argent, Pandemonium, Misanthrope, Nyx, and Alluvion."
   },
   {
     "repo": "def-try/parkour-mod",
@@ -9678,18 +9678,6 @@
     "description": "Adds music from [#96EFFF]Celeste[white].\nWarning: it can get loud!!\n\n\nboss1 - Resurrection\nboss2 - In the Mirror\neditor - Heart of the Mountain\nfine - Madeline and Theo\ngame1 - Fear of the Unknown\ngame2 - Jou of Remembrance\ngame3 - In Stasis\ngame4 - Beyond the Heart\ngame5 - Farewell\ngame6 - Quiet and Falling\ngame7 - Old Site (Black Moonrise Mix)\ngame8 - Summit (No More Running Mix)\ngame9 - The Core (Say Goodbye Mix)\nland - Crash\nlaunch - The Empty Space Above\nmenu - Postcard from Celeste Mountain\n\n[#646464]In Lönn:\nboss1 - music_oldsite_chase\nboss2 - music_temple_middle\neditor - music_core_main\nfine - music_reflection_maddietheo\ngame1 - music_farewell_part01\ngame2 - music_farewell_part02\ngame3 - music_farewell_intermission_heartgroove\ngame4 - music_farewell_part03\ngame5 - music_farewell_final_run\ngame6 - music_temple_normal\ngame7 - music_rmx_02_old_site\ngame8 - music_rmx_07_summit\ngame9 - music_rmx_09_core\nland - music_farewell_firstbirdcrash_cinematic\nlaunch - music_levelselect ?\nmenu - music_levelselect\n\nIn FMOD:\n(music/kuraine/)\nboss1 - mus_lvl2_chase_loop\nboss2 - mus_lvl5_middlereverse_main_loop\neditor - mus_lvl8_intro_loop\nfine - mus_lvl6_maddietheo_loop\ngame1 - mus_lvl9_part01_mysterious_fullmix\ngame2 - mus_lvl9_part02_uplifting_acousticbase\ngame3 - mus_lvl9_intermission_heartgroove_84bpm\ngame4 - mus_lvl9_part03_finale_loop\ngame5 - mus_lvl9_ending_finalrun_multiloop_131bpm\ngame6 - mus_lvl5_lightnorm_loop\n\n(music/remix/)\ngame7 - mus_rmx_02_oldsite_loop\ngame8 - mus_rmx_07_summit\ngame9 - mus_rmx_08_core\n\n(music/kuraine/)\nland - mus_lvl9_cinematic_firstbirdcrash\nlaunch - mus_menu_levelselect_moon_loop\nmenu - mus_menu_levelselect_loop[white]"
   },
   {
-    "repo": "leinadhq/voltaprotocolmod",
-    "internalName": "volta-protocol",
-    "name": "Volta Protocol",
-    "author": "Leinad (discord: danizzq)",
-    "lastUpdated": "2026-05-09T05:27:00Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla. \n\n[white]Este  mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de unidades, torretas y sus municiones. \n\n[accent]Contenido: \n[white]·5 materiales \n[white]·3 liquidos[white] \n[white]·4 muros \n[white]·11 fabricas[white] \n[white]·1 generador \n[white]·1 cinta de transporte \n[white]·5 torretas[white] \n[white]·6 fabricas de unidades \n[white]·6 unidades. \n\n[accent]todo lo anterior en algun futuro sera movido a un nuevo arbol tecnologico o seccion separada[white] \n\n[grey]PD: Aun faltan varios sprites, por que aun estan en desarrollo y se deben arreglar algunos errores.[grey] \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como New Horizon, Vanilla Expansion, Warbound industries, [Better Vanilla] y Mindustry Tool"
-  },
-  {
     "repo": "m-e-l-i-s/silviriumjava",
     "internalName": "sli",
     "name": "Silvirium",
@@ -9762,18 +9750,6 @@
     "description": "[white]☰☰☰☰☰☰️☰☰☰️☰☰☰\n\n[gray]Credits[lightgray] (Créditos)[gray]:\n[lightgray]Azhurniy Baklan -[yellow] Erekir Utilities\n[lightgray]Adamlol_gaming - [yellow] Erekir Junction\n[lightgray]Kizraks (Abaines) - [yellow] Kizraks Radar\n[lightgray]Comunidade Mindustry - [yellow] Suporte e Feedback\n[white]☰☰☰☰☰☰️☰☰☰️☰☰☰\n\n[gray]English [lightgray](Inglês)[gray]:\n\n[brown]Thank you for choosing to purchase our most impactful product: [orange] Erekir Technologies Package[brown], a compilation of mods all in one installation. As the courier of these mechanical wonders, [orange]my mission [brown]is to equip you with the latest innovation from their official developers.\n\nThis Mod aims to encompass [orange]all[brown] Erekir mods, including a variety of blocks, units, and features to enhance your exploration of the new planet. [orange]Guaranteed advanced technologies of quality.[brown]\n\nIt's not just a Mod of Mods... it's the key to  [orange]your victory[brown] over your command.\n\nSome mods [orange]lacked harmony or had mechanics conflicting with others[brown], prompting me to make subtle adjustments to resolve these minor issues. It's crucial to highlight that these changes are by[orange] no means intended to usurp the copyrights of the creators[brown]; on the contrary, they seek to ensure the unity of MODS!\n\n[white]☰☰☰️☰☰☰️️☰☰☰️☰☰☰\n\n[gray]Português [lightgray](Portuguese)[gray]:\n\n[brown]Agradecemos sua escolha na compra de nosso produto mais impactante:   [orange]Pacote de Tecnologias Erekir[brown], uma coletânea de mods em uma só instalada. Como entregador destas maravilhas mecânicas, [orange]minha missão[brown] é equipar você com a mais recente inovação de seus desenvolvedores oficiais.\n\nEste Mod busca abranger[orange] todos [brown]os mods de Erekir, incluindo uma gama de blocos, unidades e recursos para aprimorar sua exploração do novo planeta. [orange]É garantido tecnologias avançadas de qualidade.[brown]\n\nNão é apenas um Mod dos Mods... é a chave de [orange]sua vitória[brown] sobre seu comando.\n\nAlguns mods [orange]careciam de harmonia ou apresentavam mecânicas em conflito com os outros[brown], levando-me a realizar ajustes sutis para solucionar essas questões menores. É crucial destacar que essas alterações [orange]não visam de maneira alguma usurpar os Direitos Autorais dos criadores[brown]; ao contrário, buscam assegurar a unificação dos Mods!.\n\n[white]☰☰☰☰☰☰ ️️☰☰☰️☰☰☰️"
   },
   {
-    "repo": "bluedoves3821/phighthouse-mindustrymod",
-    "internalName": "phighthouse",
-    "name": "PHIGHTHOUSE!",
-    "author": "PHIGHTHOUSE!",
-    "lastUpdated": "2026-05-12T04:13:53Z",
-    "stars": 1,
-    "minGameVersion": "136.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "PHIGHTHOUSE! is a style i made up which is basically a combination of phighting, a 5v5 fighting game by boggio, and whitehouse, a british extreme music band started by w. bennett.\nthis mod was originally made as \"a mod within a mod\" but it's has been decided to be it's own thing.\n(note: this is mostly just an asset flip imo creds to the modders of vincenzotheduck, zac, Dagger & others.)"
-  },
-  {
     "repo": "beonicwulf/dynamics",
     "internalName": "dy",
     "name": "Dynamics",
@@ -9808,6 +9784,30 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A basic SLF4J implementation for Mindustry."
+  },
+  {
+    "repo": "leinadhq/voltaprotocolmod",
+    "internalName": "volta-protocol",
+    "name": "Volta Protocol",
+    "author": "Leinad (discord: danizzq)",
+    "lastUpdated": "2026-05-13T02:41:23Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla. \n\n[white]Este  mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de unidades, torretas y sus municiones. \n\n[accent]Contenido: \n[white]·5 materiales \n[white]·3 liquidos[white] \n[white]·4 muros \n[white]·11 fabricas[white] \n[white]·1 generador \n[white]·1 cinta de transporte \n[white]·5 torretas[white] \n[white]·6 fabricas de unidades \n[white]·6 unidades. \n\n[accent]todo lo anterior en algun futuro sera movido a un nuevo arbol tecnologico o seccion separada[white] \n\n[grey]PD: Aun faltan varios sprites, por que aun estan en desarrollo y se deben arreglar algunos errores.[grey] \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como New Horizon, Vanilla Expansion, Warbound industries, [Better Vanilla] y Mindustry Tool"
+  },
+  {
+    "repo": "bluedoves3821/phighthouse-mindustrymod",
+    "internalName": "phighthouse",
+    "name": "PHIGHTHOUSE!",
+    "author": "PHIGHTHOUSE!",
+    "lastUpdated": "2026-05-13T05:27:41Z",
+    "stars": 1,
+    "minGameVersion": "136.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "PHIGHTHOUSE! is a style i made up which is basically a combination of phighting, a 5v5 fighting game by boggio, and whitehouse, a british extreme music band started by w. bennett.\nthis mod was originally made as \"a mod within a mod\" but it's has been decided to be it's own thing.\n(note: this is mostly just an asset flip imo creds to the modders of vincenzotheduck, zac, Dagger & others.)"
   },
   {
     "repo": "exxleo/exoterusmod",
@@ -12610,7 +12610,7 @@
     "internalName": "mallpark",
     "name": "Malldustry",
     "author": "HighSpeed85",
-    "lastUpdated": "2026-05-13T01:38:43Z",
+    "lastUpdated": "2026-05-13T01:54:19Z",
     "stars": 0,
     "minGameVersion": "154",
     "hasScripts": false,
