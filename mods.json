@@ -161,7 +161,7 @@
     "name": "Saturation Firepower Mod",
     "author": "RAdea.exe",
     "lastUpdated": "2026-04-22T08:04:27Z",
-    "stars": 127,
+    "stars": 128,
     "minGameVersion": "157",
     "hasScripts": false,
     "hasJava": true,
@@ -510,7 +510,7 @@
     "name": "Azaria",
     "author": "Azaria Team",
     "lastUpdated": "2026-05-03T08:54:28Z",
-    "stars": 43,
+    "stars": 44,
     "minGameVersion": "155",
     "hasScripts": false,
     "hasJava": true,
@@ -1658,6 +1658,18 @@
     "description": "A massive expansion of Serpulo, featuring a variety of new things:\n\n- New tiers for a variety of blocks, from [#9a9fb4]Scrap[white] to [#4a90ad]Cryogenic[white], existing for item distribution blocks, as Pneumatic Drill upgrades, and to the Power Node and Solar Panel with the large variant.\n\n- Upgrades for factory blocks from vanilla, including the Oven as an upgrade to the Kiln, Plastanium Infuser as an upgrade to the Plastanium Compressor, Phase Loom as an upgrade to the Phase Weaver, etc.\n\n- Expanded scrap processing lines: Specific Separators which separate slag down into specific items, and the Scrap Compactor which turns Graphite, Titanium and Thorium into Scrap.\n\n- And more! More stuff existing includes the Core: Apex with the Delta core unit, Spore Invader and Collector, and the Cell Incubator and Reactor.\n\nCredits:\n\n- [#ff]T[#b]w[#5]e[#2]u[white] (tinnphat_ on Discord), for spriting most old sprites in the mod, aswell as continuing Renn's work. \n\n- red.id9990 on Discord, for spriting most new sprites in the mod. \n\n- [#8cff00]Telesteel[white] (giga_chad96 on Discord) for Tesla turret sprite. \n\n The V-Cell (no account on Discord) for making idea for Rowhammer."
   },
   {
+    "repo": "bttodi/virtuality",
+    "internalName": "virtuality",
+    "name": "Virtuality",
+    "author": "bttodi",
+    "lastUpdated": "2026-05-13T05:59:23Z",
+    "stars": 14,
+    "minGameVersion": "152.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod centered around fighting bosses, with a focus on pattern-based attacks. Entirely detached from Mindustry's traditional gameplay loop - The Virtuality Archives restrains the player in a measly vessel and pits them against encoded entities. Does not utilize scripts or Java, seeking to explore the technical scope of (H)JSON and MLOG. Best experienced with a mouse and keyboard.\n\nCurrently features 6/7 planned bosses in the campaign - Candor, Ardent & Argent, Pandemonium, Misanthrope, Nyx, and Alluvion."
+  },
+  {
     "repo": "shadowpazzo99/shadowdustry",
     "internalName": "shadowdustry",
     "name": "ShadowDustry",
@@ -1824,18 +1836,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Astherive: ReGenesis\n\nAn ambitious Mindustry Java mod that add a new campaign that revolves around a neoplasm-inspired substance called the [red]Terraplasm.[]\n\nEarly version, may have issues and things can change in the future.\n\n[gray]version: v0.33category0\nDiscontinued"
-  },
-  {
-    "repo": "bttodi/virtuality",
-    "internalName": "virtuality",
-    "name": "Virtuality",
-    "author": "bttodi",
-    "lastUpdated": "2026-05-13T05:59:23Z",
-    "stars": 13,
-    "minGameVersion": "152.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod centered around fighting bosses, with a focus on pattern-based attacks. Entirely detached from Mindustry's traditional gameplay loop - The Virtuality Archives restrains the player in a measly vessel and pits them against encoded entities. Does not utilize scripts or Java, seeking to explore the technical scope of (H)JSON and MLOG. Best experienced with a mouse and keyboard.\n\nCurrently features 6/7 planned bosses in the campaign - Candor, Ardent & Argent, Pandemonium, Misanthrope, Nyx, and Alluvion."
   },
   {
     "repo": "nemesistheory/odst-soundtracks",
@@ -2214,7 +2214,7 @@
     "internalName": "gr",
     "name": "Gier: Revitalized",
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-05-12T23:37:28Z",
+    "lastUpdated": "2026-05-13T11:36:44Z",
     "stars": 11,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -4912,11 +4912,23 @@
     "description": "New armored variants of vanilla distribution blocks.\n\nNew armored variants of vanilla liquid distribution blocks.\n\n1 new drill.\n\n1 new slag extractor\n\n5 new faster conveyor types.\n\n1 new liquid conduits type.\n\n3 new faster unloaders.\n\n2 new larger storage containers.\n\n3 new pumps.\n\n2 new larger liquid tanks.\n\n2 new batteries.\n\n1 new reactor\n\nNew ammo for foreshadow.\n\n1 new wall that combines the abilities of the Surge Wall, Plastanium Wall and Phase Wall."
   },
   {
+    "repo": "alexbruh7/vanilla-expansion",
+    "internalName": "vanilla-expansion",
+    "name": "Vanilla Expansion",
+    "author": "AlexBruh",
+    "lastUpdated": "2026-05-10T17:49:29Z",
+    "stars": 4,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds new content to vanilla still in very early development."
+  },
+  {
     "repo": "kyokonagaro/viridium",
     "internalName": "viridium",
     "name": "Viridium",
     "author": "Choco Same",
-    "lastUpdated": "2026-05-12T14:13:42Z",
+    "lastUpdated": "2026-05-13T10:40:37Z",
     "stars": 4,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -5907,18 +5919,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds cheat-grade Chrono blocks for global item and liquid transport, item conversion, repair, construction, overdrive, unit buffs, unit debuffs, and core placement.\n  Update: expanded documentation and metadata for the full Chrono block set."
-  },
-  {
-    "repo": "alexbruh7/vanilla-expansion",
-    "internalName": "vanilla-expansion",
-    "name": "Vanilla Expansion",
-    "author": "AlexBruh",
-    "lastUpdated": "2026-05-10T17:49:29Z",
-    "stars": 3,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds new content to vanilla still in very early development."
   },
   {
     "repo": "wantechfan/mindustry-legacy-sounds",
@@ -9802,7 +9802,7 @@
     "internalName": "phighthouse",
     "name": "PHIGHTHOUSE!",
     "author": "PHIGHTHOUSE!",
-    "lastUpdated": "2026-05-13T05:27:41Z",
+    "lastUpdated": "2026-05-13T08:33:25Z",
     "stars": 1,
     "minGameVersion": "136.1",
     "hasScripts": true,
