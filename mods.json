@@ -124,7 +124,7 @@
     "internalName": "omaloon",
     "name": "Omaloon",
     "author": "stabu, uujuju",
-    "lastUpdated": "2026-05-13T13:03:12Z",
+    "lastUpdated": "2026-05-13T14:26:52Z",
     "stars": 137,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -421,24 +421,12 @@
     "description": "New guns, drills, crafting, materials and resourses"
   },
   {
-    "repo": "eb-wilson/helium",
-    "internalName": "he",
-    "name": "Helium",
-    "author": "EBwilson",
-    "lastUpdated": "2026-05-05T04:45:16Z",
-    "stars": 52,
-    "minGameVersion": "156",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod provide optimized ui and more utilities.\nMajor features:\n- ***In-Game Entity Information Components***: Provides various UI elements for game entities including units and blocks\n- ***Health & Status Indicators***: Displays real-time status (health, shields) above units and entities. When shield stacks exceed max health, multi-layer shields with stack counters are shown.\n- ***Attack Range Indicators***: Units and turrets now visualize their attack ranges as translucent areas. Processed boundaries emphasize combined team range contours to prevent visual clutter, with subtle pulsating animations and chromatic borders.\n- ***Functional Block Effect Range Indicators***: Devices like Mend Projectors, Overdrive Projectors, and unit repair stations display effect ranges with distinctive colors.\n- ***Enhanced Block Placement Panel***: A refined block selection panel integrating a quick item bar and standardized tool buttons.\n- ***The better Mod Manager and Mod Browser***: Reworked the Mods Manager and Mods Browser, now they looks more aesthetically pleasing and functional"
-  },
-  {
     "repo": "icexuegao/deepspace",
     "internalName": "ice",
     "name": "DeepSpace",
     "author": "Alon",
     "lastUpdated": "2026-05-11T14:43:40Z",
-    "stars": 52,
+    "stars": 53,
     "minGameVersion": "157.4",
     "hasScripts": false,
     "hasJava": true,
@@ -450,11 +438,23 @@
     "name": "Exoprosopa",
     "author": "TnmSpiroct",
     "lastUpdated": "2026-05-13T04:55:17Z",
-    "stars": 52,
+    "stars": 53,
     "minGameVersion": "157",
     "hasScripts": true,
     "hasJava": false,
     "description": "  [#93E2EE]Exoprosopa[] adds Frostnova as a third planet into the game alongside with its own unique techtree and environment.\n\n  Polished content & linear campaign progression.\n  Capture and conquer with over 22 campaign maps.\n  Over 21 items to be discovered, 265 blocks to be researched. and 30 different units to build!\n  Harvest the planet with your technology before Astral Infection awaken and conquer the entire planet.\n\n  [accent]Thankyou for playing this mod! \n  You can contributes maps or gives suggestions by join Exoprosopa Discord Server! \n  Check it on my profile. My username is TnmSpiroct.\n\n  [salmon]This mod requires newest mindustry build to be played (Stable Release 157)"
+  },
+  {
+    "repo": "eb-wilson/helium",
+    "internalName": "he",
+    "name": "Helium",
+    "author": "EBwilson",
+    "lastUpdated": "2026-05-05T04:45:16Z",
+    "stars": 52,
+    "minGameVersion": "156",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod provide optimized ui and more utilities.\nMajor features:\n- ***In-Game Entity Information Components***: Provides various UI elements for game entities including units and blocks\n- ***Health & Status Indicators***: Displays real-time status (health, shields) above units and entities. When shield stacks exceed max health, multi-layer shields with stack counters are shown.\n- ***Attack Range Indicators***: Units and turrets now visualize their attack ranges as translucent areas. Processed boundaries emphasize combined team range contours to prevent visual clutter, with subtle pulsating animations and chromatic borders.\n- ***Functional Block Effect Range Indicators***: Devices like Mend Projectors, Overdrive Projectors, and unit repair stations display effect ranges with distinctive colors.\n- ***Enhanced Block Placement Panel***: A refined block selection panel integrating a quick item bar and standardized tool buttons.\n- ***The better Mod Manager and Mod Browser***: Reworked the Mods Manager and Mods Browser, now they looks more aesthetically pleasing and functional"
   },
   {
     "repo": "eyeofdarkness/flameout",
@@ -1334,6 +1334,18 @@
     "description": "A mod that adds many different types of duos, recreates vanilla blocks into duos, and duo units! Discord Tag: gwapowo"
   },
   {
+    "repo": "sunkenmelody/rospule",
+    "internalName": "rospule",
+    "name": "「Rospule」",
+    "author": "[#908bdc]Sun[#8982ed]ken[#6d72af]Mel[#535a9c]ody[#c5cbff]♫",
+    "lastUpdated": "2026-03-31T16:30:57Z",
+    "stars": 18,
+    "minGameVersion": "156",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\r\nA [unlaunched]personal[white] Serpulo campaign rework map pack with personal [sky]minor rebalancing[white] on few blocks.\r\nThis mod's gameplay is based on [sky]NORMAL[white] difficulty and cannot be changed.\r\nContains [sky]40+[white] sectors!\r\nAll maps are created under Serpulo environment and are [#c5cbff]vanilla compatible on terrain , wavesets and most contents[white].\r\n\r\n[#c5cbff]Have fun[white].\r\n\r\n\r\nUpdate log: V0.4 -- Stage 4-6 to Stage 4-10 added.\r\nV0.4.2 -- Polished the texts and 1-10 , 2-10 and 3-10 sectors with a brief ending congrat message.\r\n\r\n--Credits--\r\n[#cccccc]Coding:Everdusk22\r\nSector icon:Seabed\r\nMusic selection:しかみど☆\r\nBundle Polish:Gort\r\nLocalization(zh_CN):仄井心升\r\n"
+  },
+  {
     "repo": "aazamitsu/anime-units-display",
     "internalName": "anime-units-display",
     "name": "anime units display",
@@ -1356,18 +1368,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Pyratite focused mod which adds units turrets drills and factory\nNOT the most balanced"
-  },
-  {
-    "repo": "sunkenmelody/rospule",
-    "internalName": "rospule",
-    "name": "「Rospule」",
-    "author": "[#908bdc]Sun[#8982ed]ken[#6d72af]Mel[#535a9c]ody[#c5cbff]♫",
-    "lastUpdated": "2026-03-31T16:30:57Z",
-    "stars": 17,
-    "minGameVersion": "156",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\r\nA [unlaunched]personal[white] Serpulo campaign rework map pack with personal [sky]minor rebalancing[white] on few blocks.\r\nThis mod's gameplay is based on [sky]NORMAL[white] difficulty and cannot be changed.\r\nContains [sky]40+[white] sectors!\r\nAll maps are created under Serpulo environment and are [#c5cbff]vanilla compatible on terrain , wavesets and most contents[white].\r\n\r\n[#c5cbff]Have fun[white].\r\n\r\n\r\nUpdate log: V0.4 -- Stage 4-6 to Stage 4-10 added.\r\nV0.4.2 -- Polished the texts and 1-10 , 2-10 and 3-10 sectors with a brief ending congrat message.\r\n\r\n--Credits--\r\n[#cccccc]Coding:Everdusk22\r\nSector icon:Seabed\r\nMusic selection:しかみど☆\r\nBundle Polish:Gort\r\nLocalization(zh_CN):仄井心升\r\n"
   },
   {
     "repo": "dustdustry/patcheditor",
@@ -2623,7 +2623,7 @@
     "internalName": "wh",
     "name": "WarHammer",
     "author": "LaoMoze",
-    "lastUpdated": "2026-05-11T16:56:34Z",
+    "lastUpdated": "2026-05-13T14:58:15Z",
     "stars": 9,
     "minGameVersion": "154.2",
     "hasScripts": false,
@@ -3592,18 +3592,6 @@
     "description": "Plan safer assault routes by simulating turret/unit threat fields, then draw low-damage or nearest paths with auto-move support. / 基于炮塔与单位威胁场规划低伤或最近路线，支持自动移动与实时路径叠加。"
   },
   {
-    "repo": "purters/ttmod",
-    "internalName": "超限工艺",
-    "name": "[TransfiniteTechnology:Strife]超限工艺:纷争",
-    "author": "主作者:\n没有炮台的炮台s(PurTers)\n\n地图制作者:\n蓝细菌光合自养\n\n宣传人员:\nFire\n\n贴图师:\nMr.世纪灯泡 & 睌暙\n\n地图世处:\nalpha & 没有炮台的炮台s(PurTers)\n\n代码制作:\n没有炮台的炮台s(PurTers)\n\nMOD设定:\n纯萌新 & 没有炮台的炮台s(PurTers)",
-    "lastUpdated": "2026-04-05T01:38:14Z",
-    "stars": 6,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A story-rich mod\nIncludes 14 main campaign chapters and one side campaign chapter\nOverhauls the original planet Cypro\nAdds new factionsnA large number of new buildings and units\nWe welcome everyone to try it out\n \n Please ensure that this MOD is used alone. Mixing it with other mods may trigger the campaign's anti-mod mixing mechanisms, which could prevent the storyline from functioning properly. (Of course, these requirements can be disregarded in Custom Game mode.)\n \n（The storyline is currently only available in Chinese.）\n（The Mod has not yet been translated into English or other languages.）\n（Supports iOS users.）\nEmail: 737629445@qq.com\n\n\n一个剧情向模组\n内含14章主线战役和1张支线战役\n在原版星球赛普罗的基础上进行了覆盖\n新增额外的势力\n大量的全新建筑以及单位\n欢迎各位游玩\n \n 本MOD严禁混模，混模会触发战役的反混模机制造成战役无法正常游玩(当然，自定义模式可以无视以上要求)\n \n（剧情目前只有中文）\n（模组尚未制作英文及其他语言的翻译）\n（支持iOS玩家）\n邮箱:737629445@qq.com\n\n\n\n\nQQ主群：789966619\n\n\n\n关于开发者单位:\n有开发者单位≠参与MOD开发,但可能曾参与MOD开发,或对MOD的贡献较大\n\n\n\n致谢名单:\n星月\nnan(代码指导)\nRA2-RA2(代码参考)\nKochiyaUeneh油苗子[(防混模代码)]\nwwwww(贴图,灵感和地图投稿)\n普通的MDT玩家\n西红柿汤(世界处理器指导)\nR\n哈吉爱\nSchizoPhrenia\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n“由无数失败所构筑”"
-  },
-  {
     "repo": "i-drink-gasoline/admin-button-2",
     "internalName": "admin-button-2",
     "name": "Admin Button 2",
@@ -3662,6 +3650,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Unleash the power of salvaged technology!\n JunkTech Industry adds a complete mechanical faction with 10+ new units and specialized turrets.\n Build, recycle, and conquer with the ultimate scrap-metal army."
+  },
+  {
+    "repo": "purters/ttmod",
+    "internalName": "超限工艺",
+    "name": "[TransfiniteTechnology:Strife]超限工艺:纷争",
+    "author": "主作者:\n没有炮台的炮台s(PurTers)\n\n地图制作者:\n蓝细菌光合自养\n\n宣传人员:\nFire\n\n贴图师:\nMr.世纪灯泡 & 睌暙\n\n地图世处:\nalpha & 没有炮台的炮台s(PurTers)\n\n代码制作:\n没有炮台的炮台s(PurTers)\n\nMOD设定:\n纯萌新 & 没有炮台的炮台s(PurTers)",
+    "lastUpdated": "2026-05-13T15:33:10Z",
+    "stars": 6,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A story-rich mod\nIncludes 14 main campaign chapters and one side campaign chapter\nOverhauls the original planet Cypro\nAdds new factionsnA large number of new buildings and units\nWe welcome everyone to try it out\n \n Please ensure that this MOD is used alone. Mixing it with other mods may trigger the campaign's anti-mod mixing mechanisms, which could prevent the storyline from functioning properly. (Of course, these requirements can be disregarded in Custom Game mode.)\n \n（The storyline is currently only available in Chinese.）\n（The Mod has not yet been translated into English or other languages.）\n（Supports iOS users.）\nEmail: 737629445@qq.com\n\n\n一个剧情向模组\n内含14章主线战役和1张支线战役\n在原版星球赛普罗的基础上进行了覆盖\n新增额外的势力\n大量的全新建筑以及单位\n欢迎各位游玩\n \n 本MOD严禁混模，混模会触发战役的反混模机制造成战役无法正常游玩(当然，自定义模式可以无视以上要求)\n \n（剧情目前只有中文）\n（模组尚未制作英文及其他语言的翻译）\n（支持iOS玩家）\n邮箱:737629445@qq.com\n\n\n\n\nQQ主群：789966619\n\n\n\n关于开发者单位:\n有开发者单位≠参与MOD开发,但可能曾参与MOD开发,或对MOD的贡献较大\n\n\n\n致谢名单:\n星月\nnan(代码指导)\nRA2-RA2(代码参考)\nKochiyaUeneh油苗子[(防混模代码)]\nwwwww(贴图,灵感和地图投稿)\n普通的MDT玩家\n西红柿汤(世界处理器指导)\nR\n哈吉爱\nSchizoPhrenia\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n“由无数失败所构筑”"
   },
   {
     "repo": "mythril382/mobilemapshot",
@@ -4912,6 +4912,18 @@
     "description": "New armored variants of vanilla distribution blocks.\n\nNew armored variants of vanilla liquid distribution blocks.\n\n1 new drill.\n\n1 new slag extractor\n\n5 new faster conveyor types.\n\n1 new liquid conduits type.\n\n3 new faster unloaders.\n\n2 new larger storage containers.\n\n3 new pumps.\n\n2 new larger liquid tanks.\n\n2 new batteries.\n\n1 new reactor\n\nNew ammo for foreshadow.\n\n1 new wall that combines the abilities of the Surge Wall, Plastanium Wall and Phase Wall."
   },
   {
+    "repo": "namds666/item-liquid-teleport",
+    "internalName": "item-liquid-teleport",
+    "name": "Item Liquid Teleport",
+    "author": "namds666 & Claude Code & Codex",
+    "lastUpdated": "2026-05-10T13:05:27Z",
+    "stars": 4,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds cheat-grade Chrono blocks for global item and liquid transport, item conversion, repair, construction, overdrive, unit buffs, unit debuffs, and core placement.\n  Update: expanded documentation and metadata for the full Chrono block set."
+  },
+  {
     "repo": "alexbruh7/vanilla-expansion",
     "internalName": "vanilla-expansion",
     "name": "Vanilla Expansion",
@@ -4928,7 +4940,7 @@
     "internalName": "viridium",
     "name": "Viridium",
     "author": "Choco Same",
-    "lastUpdated": "2026-05-13T10:40:37Z",
+    "lastUpdated": "2026-05-13T13:57:23Z",
     "stars": 4,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -5907,18 +5919,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Matter, void energy, advanced power, turrets, and units for Mindustry v8."
-  },
-  {
-    "repo": "namds666/item-liquid-teleport",
-    "internalName": "item-liquid-teleport",
-    "name": "Item Liquid Teleport",
-    "author": "namds666 & Claude Code & Codex",
-    "lastUpdated": "2026-05-10T13:05:27Z",
-    "stars": 3,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds cheat-grade Chrono blocks for global item and liquid transport, item conversion, repair, construction, overdrive, unit buffs, unit debuffs, and core placement.\n  Update: expanded documentation and metadata for the full Chrono block set."
   },
   {
     "repo": "wantechfan/mindustry-legacy-sounds",
