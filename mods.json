@@ -5,7 +5,7 @@
     "name": "New Horizon",
     "author": "Yuria & Lao",
     "lastUpdated": "2026-05-13T13:50:42Z",
-    "stars": 573,
+    "stars": 574,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
@@ -161,7 +161,7 @@
     "name": "Saturation Firepower Mod",
     "author": "RAdea.exe",
     "lastUpdated": "2026-04-22T08:04:27Z",
-    "stars": 128,
+    "stars": 129,
     "minGameVersion": "157",
     "hasScripts": false,
     "hasJava": true,
@@ -1110,7 +1110,7 @@
     "internalName": "mapping-utilities",
     "name": "Mapping Utilities",
     "author": "ApsZoldat",
-    "lastUpdated": "2026-05-12T17:18:06Z",
+    "lastUpdated": "2026-05-13T18:19:39Z",
     "stars": 21,
     "minGameVersion": "157",
     "hasScripts": false,
@@ -1170,7 +1170,7 @@
     "internalName": "cataclysm",
     "name": "Cataclysm",
     "author": "[#ffb33a]JJ[]",
-    "lastUpdated": "2026-05-10T22:37:49Z",
+    "lastUpdated": "2026-05-13T16:33:09Z",
     "stars": 20,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -1298,6 +1298,18 @@
     "description": "Add flesh units with various actions and skills, novel turrets and various objects."
   },
   {
+    "repo": "aazamitsu/anime-units-display",
+    "internalName": "anime-units-display",
+    "name": "anime units display",
+    "author": "あざみ",
+    "lastUpdated": "2026-05-12T09:13:30Z",
+    "stars": 19,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "​操作中にSDキャラを表示する機能を追加、Added a function to display chibi during operation (and router) a lot of updates coming"
+  },
+  {
     "repo": "dagamerfiles/classic-music",
     "internalName": "classic-music",
     "name": "<Mindustry> Classic Music",
@@ -1344,18 +1356,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\r\nA [unlaunched]personal[white] Serpulo campaign rework map pack with personal [sky]minor rebalancing[white] on few blocks.\r\nThis mod's gameplay is based on [sky]NORMAL[white] difficulty and cannot be changed.\r\nContains [sky]40+[white] sectors!\r\nAll maps are created under Serpulo environment and are [#c5cbff]vanilla compatible on terrain , wavesets and most contents[white].\r\n\r\n[#c5cbff]Have fun[white].\r\n\r\n\r\nUpdate log: V0.4 -- Stage 4-6 to Stage 4-10 added.\r\nV0.4.2 -- Polished the texts and 1-10 , 2-10 and 3-10 sectors with a brief ending congrat message.\r\n\r\n--Credits--\r\n[#cccccc]Coding:Everdusk22\r\nSector icon:Seabed\r\nMusic selection:しかみど☆\r\nBundle Polish:Gort\r\nLocalization(zh_CN):仄井心升\r\n"
-  },
-  {
-    "repo": "aazamitsu/anime-units-display",
-    "internalName": "anime-units-display",
-    "name": "anime units display",
-    "author": "あざみ",
-    "lastUpdated": "2026-05-12T09:13:30Z",
-    "stars": 18,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "​操作中にSDキャラを表示する機能を追加、Added a function to display chibi during operation (and router) a lot of updates coming"
   },
   {
     "repo": "valigaming15/pyra-erekir",
@@ -4888,18 +4888,6 @@
     "description": "给逻辑处理器界面里的大部分词条都添加了中文悬停提示框，就像原版那样"
   },
   {
-    "repo": "darkdustry-coders/mindurkacompat",
-    "internalName": "mindurkacompat",
-    "name": "MindurkaCompat",
-    "author": "buj",
-    "lastUpdated": "2026-05-09T16:22:26Z",
-    "stars": 4,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mod that adds extra compatibility with Mindurka"
-  },
-  {
     "repo": "pseudocoffee/more-conveyors",
     "internalName": "fast",
     "name": "More buildings",
@@ -4946,6 +4934,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This mod introduce faction-locked technologies, allowing you to play PVP matches using a single tech tree.\n\nIt add new tech trees locked to some team/faction.\n\nBalance has been made to vanilla tech tree to allow them to play on a randomly generated map following these rules :\n- Vents availlable everywhere on the map\n- Walls contain Graphite and Berylium\n- No liquid availlable on the map\n- Modded ressources spawn evenly on the map\n\n⚠ DISABLE THIS MOD TO PLAY VANILLA : This mod being in development, it locks certain block to certain faction. That makes PVE unplayable.\n\nIn the future, I plan to release those tech tree in dedicated campaign on their respective planets. And also to make it possible to play vanilla with this mod enabled.\n\nIn 0.1, Serpulo and Erekir tech trees are separated. Curently working on creating a new one.\n\nThanks to RednzBA990 (Github) for the little help!"
+  },
+  {
+    "repo": "darkdustry-coders/mindurkacompat",
+    "internalName": "mindurkacompat",
+    "name": "MindurkaCompat",
+    "author": "buj",
+    "lastUpdated": "2026-05-13T17:13:29Z",
+    "stars": 4,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mod that adds extra compatibility with Mindurka"
   },
   {
     "repo": "mythril382/ammoswap",
@@ -9802,7 +9802,7 @@
     "internalName": "dy",
     "name": "Dynamics",
     "author": "Farborne Industries ⚙️",
-    "lastUpdated": "2026-05-13T12:19:20Z",
+    "lastUpdated": "2026-05-13T17:57:50Z",
     "stars": 1,
     "minGameVersion": "156",
     "hasScripts": false,
