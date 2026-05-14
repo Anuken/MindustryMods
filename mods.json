@@ -124,7 +124,7 @@
     "internalName": "omaloon",
     "name": "Omaloon",
     "author": "stabu, uujuju",
-    "lastUpdated": "2026-05-13T14:26:52Z",
+    "lastUpdated": "2026-05-14T16:15:12Z",
     "stars": 136,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -481,6 +481,18 @@
     "description": "A fun mod that contains Animals, Plants, Natural disasters and a lot more!"
   },
   {
+    "repo": "azaria-team/azaria",
+    "internalName": "azaria",
+    "name": "Azaria",
+    "author": "Azaria Team",
+    "lastUpdated": "2026-05-03T08:54:28Z",
+    "stars": 45,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Java mod that contains a full of content planet. This is the beta version so it may not display the final version of the project."
+  },
+  {
     "repo": "sh1penfire/meld",
     "internalName": "meld",
     "name": "Meld",
@@ -503,18 +515,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds a new desert planet. Almost all life which once populated this planet was wiped out by a cataclysmic event known as the Incineration. Survive in these harsh conditions and conquer [accent]Psammos[white].\r\n\r\nJoin our discord server: [#5865f2]https://discord.gg/eBzANBKCBA[]\r\n\r\nIf you like the mod, consider giving it a star on GitHub. Thank you\r\n\r\n[#31fea7]Contributors:[]\r\n- [#5865f2]@inxie_ratzey[] - suggestions, sprites, many maps and other contributions\r\n- [#5865f2]@thisiscrimsoncheck[] - several maps, suggestions and other contributions\r\n- [#5865f2]@tinport[] - various suggestions and maps\r\n- [#5865f2]@mrapple_0[] - maps\r\n\r\n[#9b59b6]Special thanks:[]\r\n- [#5865f2]@chozochorizo[] for help with balancing the mod\r\n- [#5865f2]@thomas_has_things[] and [#5865f2]@twcash.[] for the main menu title font\r\n\r\n[#abe2ca]Suggestors:[]\r\n- [#5865f2]@nekoarkbruhagain_07111[]\r\n- [#5865f2]@allayscrafter[]"
-  },
-  {
-    "repo": "azaria-team/azaria",
-    "internalName": "azaria",
-    "name": "Azaria",
-    "author": "Azaria Team",
-    "lastUpdated": "2026-05-03T08:54:28Z",
-    "stars": 44,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Java mod that contains a full of content planet. This is the beta version so it may not display the final version of the project."
   },
   {
     "repo": "uujuju1/steam-works",
@@ -4900,18 +4900,6 @@
     "description": "New armored variants of vanilla distribution blocks.\n\nNew armored variants of vanilla liquid distribution blocks.\n\n1 new drill.\n\n1 new slag extractor\n\n5 new faster conveyor types.\n\n1 new liquid conduits type.\n\n3 new faster unloaders.\n\n2 new larger storage containers.\n\n3 new pumps.\n\n2 new larger liquid tanks.\n\n2 new batteries.\n\n1 new reactor\n\nNew ammo for foreshadow.\n\n1 new wall that combines the abilities of the Surge Wall, Plastanium Wall and Phase Wall."
   },
   {
-    "repo": "namds666/item-liquid-teleport",
-    "internalName": "item-liquid-teleport",
-    "name": "Item Liquid Teleport",
-    "author": "namds666 & Claude Code & Codex",
-    "lastUpdated": "2026-05-10T13:05:27Z",
-    "stars": 4,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds cheat-grade Chrono blocks for global item and liquid transport, item conversion, repair, construction, overdrive, unit buffs, unit debuffs, and core placement.\n  Update: expanded documentation and metadata for the full Chrono block set."
-  },
-  {
     "repo": "alexbruh7/vanilla-expansion",
     "internalName": "vanilla-expansion",
     "name": "Vanilla Expansion",
@@ -4946,6 +4934,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "This mod introduce faction-locked technologies, allowing you to play PVP matches using a single tech tree.\n\nIt add new tech trees locked to some team/faction.\n\nBalance has been made to vanilla tech tree to allow them to play on a randomly generated map following these rules :\n- Vents availlable everywhere on the map\n- Walls contain Graphite and Berylium\n- No liquid availlable on the map\n- Modded ressources spawn evenly on the map\n\n⚠ DISABLE THIS MOD TO PLAY VANILLA : This mod being in development, it locks certain block to certain faction. That makes PVE unplayable.\n\nIn the future, I plan to release those tech tree in dedicated campaign on their respective planets. And also to make it possible to play vanilla with this mod enabled.\n\nIn 0.1, Serpulo and Erekir tech trees are separated. Curently working on creating a new one.\n\nThanks to RednzBA990 (Github) for the little help!"
+  },
+  {
+    "repo": "namds666/item-liquid-teleport",
+    "internalName": "item-liquid-teleport",
+    "name": "Item Liquid Teleport",
+    "author": "namds666 & Claude Code & Codex",
+    "lastUpdated": "2026-05-14T17:31:52Z",
+    "stars": 4,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds cheat-grade Chrono blocks for global item and liquid transport, terrain conversion, item conversion, repair, construction, overdrive, unit buffs, unit debuffs, and core placement.\n  Update: expanded documentation and metadata for the full Chrono block set."
   },
   {
     "repo": "mythril382/ammoswap",
@@ -5943,6 +5943,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Brings back old SFX. \n[red]Still indev so don't expect much.\n[yellow]Support this mod by contributing to it via pull request in this mod's repository."
+  },
+  {
+    "repo": "notquite-mytempo/wastebound",
+    "internalName": "wastebound",
+    "name": "Wastebound",
+    "author": "hog rider",
+    "lastUpdated": "2026-05-14T17:45:58Z",
+    "stars": 3,
+    "minGameVersion": "155",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "e"
   },
   {
     "repo": "rintadev5792/arcane-mindustry",
