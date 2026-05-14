@@ -136,7 +136,7 @@
     "internalName": "sapphirium",
     "name": "Sapphirium",
     "author": "Snake",
-    "lastUpdated": "2026-05-04T12:02:20Z",
+    "lastUpdated": "2026-05-14T13:19:11Z",
     "stars": 133,
     "minGameVersion": "157.4",
     "hasScripts": true,
@@ -341,7 +341,7 @@
     "name": "Fictional Octo System",
     "author": "Team Oct",
     "lastUpdated": "2026-05-05T16:32:38Z",
-    "stars": 62,
+    "stars": 63,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -593,7 +593,7 @@
     "internalName": "azimut",
     "name": "Azimuth",
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-05-13T13:24:13Z",
+    "lastUpdated": "2026-05-14T12:42:05Z",
     "stars": 40,
     "minGameVersion": "156.2",
     "hasScripts": true,
@@ -1646,18 +1646,6 @@
     "description": "Your schemes and saves are prone to corruption. Export your data before updating.\n\nAn extremely large mod solely dedicated for mindustry roleplaying and builds alike.\n\nQRM V7.1 aims to fix most of the bugs found after v7's release.\nQRM v7 Changelog:\nAdded\n- Beveled sorters, Highlighted sorters, and Unloader Two chiseled sets\n- Way, way more chiseled diagonal variants \n- Chiseled diagonal duct router and bezeled sets\n- Hazel, Tyrian, Royal, Terracotta, Pale, Graphene Walls\n- Ash and Alternate sand and red sand env walls \n- RGBCMY + White, Black Overlay floors\n- CMY, Sorter gray + Source yellow floors\n- Thunder, Windstorm, Thunderstorm, Rain and Ping SFX blocks\n- Void messages\n- Vials readded\n- Message blocks that look like RP books\n- [WIP] Particle gen with changeable colours via ammo\n- Powerline Blockers (invisible plast walls)\n- Arrow block that looks like a logic block (Path Cell)\n- Ritual circles\n\nFixed\n- Large slate message being omega\n- Flat surge router is flat unloader\n- Stone colour walls being named snow\n- Cruiser being implemented\n- Slower emanates\n- All unit building\n- Rocky en stairs being offset\n- Config mender now a unloader\n- Config nodes having glow\n- Unloader two a sorter now\n- Revert noise sorter changes, now unlegacy'd\n\nQRM v7.1 Changelog\nFixed\n- Bezeled chiseled side-line being offset\n- Transperant, white, black item source having the wrong name\n- Liquid router source not having a texture\n- Particle generators not being invisible \n- Normal, inverted, highlight, bezel, spectral, source centered corners, diagonal router corner 3 being offset\n- Config stuff not being flat\n- Sorter gray colour 5 being olive\n- Open Item Vial not being able to rotate\n- Full liquid vials being able to rotate, even they can't visually\n- Books resprite\n\nAdded\n- Borderless item source (for SFX turrets)\n- Flat beveled, highlight sorters\n- More books\n- Duct router catears\n\nRemoved\n- Extra surge router slope corner\n\nVersion v7.1 "
   },
   {
-    "repo": "traincrisis/serpuloplus",
-    "internalName": "serpuloplus",
-    "name": "Serpulo+",
-    "author": "[#984cd7]ThePul[#833edd]lerCell",
-    "lastUpdated": "2026-05-10T18:00:33Z",
-    "stars": 14,
-    "minGameVersion": "157",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A massive expansion of Serpulo, featuring a variety of new things:\n\n- New tiers for a variety of blocks, from [#9a9fb4]Scrap[white] to [#4a90ad]Cryogenic[white], existing for item distribution blocks, as Pneumatic Drill upgrades, and to the Power Node and Solar Panel with the large variant.\n\n- Upgrades for factory blocks from vanilla, including the Oven as an upgrade to the Kiln, Plastanium Infuser as an upgrade to the Plastanium Compressor, Phase Loom as an upgrade to the Phase Weaver, etc.\n\n- Expanded scrap processing lines: Specific Separators which separate slag down into specific items, and the Scrap Compactor which turns Graphite, Titanium and Thorium into Scrap.\n\n- And more! More stuff existing includes the Core: Apex with the Delta core unit, Spore Invader and Collector, and the Cell Incubator and Reactor.\n\nCredits:\n\n- [#ff]T[#b]w[#5]e[#2]u[white] (tinnphat_ on Discord), for spriting most old sprites in the mod, aswell as continuing Renn's work. \n\n- red.id9990 on Discord, for spriting most new sprites in the mod. \n\n- [#8cff00]Telesteel[white] (giga_chad96 on Discord) for Tesla turret sprite. \n\n The V-Cell (no account on Discord) for making idea for Rowhammer."
-  },
-  {
     "repo": "bttodi/virtuality",
     "internalName": "virtuality",
     "name": "Virtuality",
@@ -1668,6 +1656,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod centered around fighting bosses, with a focus on pattern-based attacks. Entirely detached from Mindustry's traditional gameplay loop - The Virtuality Archives restrains the player in a measly vessel and pits them against encoded entities. Does not utilize scripts or Java, seeking to explore the technical scope of (H)JSON and MLOG. Best experienced with a mouse and keyboard.\n\nCurrently features 6/7 planned bosses in the campaign - Candor, Ardent & Argent, Pandemonium, Misanthrope, Nyx, and Alluvion."
+  },
+  {
+    "repo": "traincrisis/serpuloplus",
+    "internalName": "serpuloplus",
+    "name": "Serpulo+",
+    "author": "[#984cd7]ThePul[#833edd]lerCell",
+    "lastUpdated": "2026-05-14T12:51:04Z",
+    "stars": 14,
+    "minGameVersion": "157",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A massive expansion of Serpulo, featuring a variety of new things:\n\n- New tiers for a variety of blocks, from [#9a9fb4]Scrap[white] to [#4a90ad]Cryogenic[white], existing for item distribution blocks, as Pneumatic Drill upgrades, and to the Power Node and Solar Panel with the large variant.\n\n- Upgrades for factory blocks from vanilla, including the Oven as an upgrade to the Kiln, Plastanium Infuser as an upgrade to the Plastanium Compressor, Phase Loom as an upgrade to the Phase Weaver, etc.\n\n- Expanded scrap processing lines: Specific Separators which separate slag down into specific items, and the Scrap Compactor which turns Graphite, Titanium and Thorium into Scrap.\n\n- And more! More stuff existing includes the Core: Apex with the Delta core unit, Spore Invader and Collector, and the Cell Incubator and Reactor.\n\nCredits:\n\n- [#ff]T[#b]w[#5]e[#2]u[white] (tinnphat_ on Discord), for spriting most old sprites in the mod, aswell as continuing Renn's work. \n\n- red.id9990 on Discord, for spriting most new sprites in the mod. \n\n- [#8cff00]Telesteel[white] (giga_chad96 on Discord) for Tesla turret sprite. \n\n The V-Cell (no account on Discord) for making idea for Rowhammer."
   },
   {
     "repo": "shadowpazzo99/shadowdustry",
@@ -1950,7 +1950,7 @@
     "internalName": "ochpoch-mob",
     "name": "Hooligan",
     "author": "Hello,Andrei",
-    "lastUpdated": "2026-05-14T08:58:43Z",
+    "lastUpdated": "2026-05-14T12:35:50Z",
     "stars": 12,
     "minGameVersion": "157",
     "hasScripts": false,
@@ -9474,18 +9474,6 @@
     "description": "A mod planning to bring one of the largest campaign experiences to mindustry. Probably will take ages to make as a solo dev :/"
   },
   {
-    "repo": "ramazanduruev/darklife.",
-    "internalName": "mo",
-    "name": "DarkLife",
-    "author": "Votak",
-    "lastUpdated": "2026-04-20T06:58:42Z",
-    "stars": 1,
-    "minGameVersion": "156",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This mod add new planet and more new content\n\nDeveloper: Votak (abzobua)\nHelper: Tekta_Ru\n\nlanguage\nEnglish\nРусский"
-  },
-  {
     "repo": "solitaryblade/coming-to-industry",
     "internalName": "将至",
     "name": "Coming to Industry",
@@ -9808,6 +9796,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "PHIGHTHOUSE! is a style i made up which is basically a combination of phighting, a 5v5 fighting game by boggio, and whitehouse, a british extreme music band started by w. bennett.\nthis mod was originally made as \"a mod within a mod\" but it's has been decided to be it's own thing.\n(note: this is mostly just an asset flip imo creds to the modders of vincenzotheduck, zac, Dagger & others.)"
+  },
+  {
+    "repo": "ramazanduruev/darklife.",
+    "internalName": "mo",
+    "name": "DarkLife",
+    "author": "Votak",
+    "lastUpdated": "2026-05-14T12:56:15Z",
+    "stars": 1,
+    "minGameVersion": "157.2",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This mod add new planet and more new content\n\nDeveloper: Votak (abzobua)\nHelper: Tekta_Ru\n\nlanguage\nEnglish\nРусский"
   },
   {
     "repo": "exxleo/exoterusmod",
