@@ -89,7 +89,7 @@
     "name": "Mindustry Tool",
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
     "lastUpdated": "2026-05-04T12:07:02Z",
-    "stars": 214,
+    "stars": 215,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
@@ -409,6 +409,18 @@
     "legacyCompatible": true
   },
   {
+    "repo": "icexuegao/deepspace",
+    "internalName": "ice",
+    "name": "DeepSpace",
+    "author": "Alon",
+    "lastUpdated": "2026-05-15T01:47:36Z",
+    "stars": 55,
+    "minGameVersion": "157.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "降临新行星[阿德里],收集遗物获得全局增益,构建矩阵网络重构物流体系,在血肉与钢铁交织的异星上,体验截然不同的工厂与战斗———最后,选择你的道路\n\nLand on the planet Ardery, collect Remains for global bonuses, build Matrix Networks to restructure your logistics, and experience a completely different kind of factory and combat on an alien world where flesh and steel intertwine———In the end, choose your path."
+  },
+  {
     "repo": "petruchiorus/lead_ind",
     "internalName": "lead_ind",
     "name": "Lead Industries",
@@ -419,18 +431,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "New guns, drills, crafting, materials and resourses"
-  },
-  {
-    "repo": "icexuegao/deepspace",
-    "internalName": "ice",
-    "name": "DeepSpace",
-    "author": "Alon",
-    "lastUpdated": "2026-05-15T01:47:36Z",
-    "stars": 54,
-    "minGameVersion": "157.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "降临新行星[阿德里],收集遗物获得全局增益,构建矩阵网络重构物流体系,在血肉与钢铁交织的异星上,体验截然不同的工厂与战斗———最后,选择你的道路\n\nLand on the planet Ardery, collect Remains for global bonuses, build Matrix Networks to restructure your logistics, and experience a completely different kind of factory and combat on an alien world where flesh and steel intertwine———In the end, choose your path."
   },
   {
     "repo": "tnmspiroct/exoprosopa",
@@ -701,7 +701,7 @@
     "internalName": "scheme-size",
     "name": "Scheme Size Port",
     "author": "xzxADIxzx\nPort: 00SunRay00 & RE2b2m22",
-    "lastUpdated": "2026-05-16T20:51:35Z",
+    "lastUpdated": "2026-05-17T03:07:10Z",
     "stars": 34,
     "minGameVersion": "157",
     "hasScripts": false,
@@ -894,7 +894,7 @@
     "internalName": "corpuscles",
     "name": "Corpuscles",
     "author": "SezoVK",
-    "lastUpdated": "2026-05-17T01:37:53Z",
+    "lastUpdated": "2026-05-17T03:00:11Z",
     "stars": 26,
     "minGameVersion": "157.4",
     "hasScripts": true,
@@ -1970,19 +1970,6 @@
     "description": "A mod which introduces actually unique [accent]Story Based Campaign[].\nMain goal of this mod is to show that lore based mods can be good too.\n\nWith story gameplay it introduces to you some new mechanics."
   },
   {
-    "repo": "fat-bird-owner/gier-revitalized",
-    "internalName": "gr",
-    "name": "Gier: Revitalized",
-    "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-05-16T16:09:39Z",
-    "stars": 12,
-    "minGameVersion": "156",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe.\n\nIf the main version is a bugged then \nplease use the latest releases instead\nas those are stable.\n[]\n\n[accent]Starring is greatly appreciated[]\n[grey](Our current goal is 15 stars)[]\n",
-    "iosCompatible": true
-  },
-  {
     "repo": "novanox4/astralis",
     "internalName": "astralis",
     "name": "Astralis",
@@ -1993,6 +1980,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\nWork in progress hjson campaign mod that plans to add a new planet with a full camapign. This is a remake of a previous mod of mine bearing the same name.\n\nAstralis is a mod which aims to add a new planet with unique gameplay mechanics (world processors go brrr), that will also do everything possible to give you as much pain as possible.\n\nThe difficulty spike is vertical. Intended for people familiar with mindustry/mindustry mods.\n\nSome VFX may cause eye strain. Proceed at your own risk.\n\nNot reccomended on low end devices!\n\nThis mod is pure hjson, but may use some scripts for music purposes.\n\nCREDITS:\n\nNV-NX - Main dev and spriter\nHaznobrain - Occasional sprite and code help. Making music.\nMegacheb - Allowing me to use some of their music for (upcoming) bosses.\n\nIt takes my heart being broken and broken again to realize I am the reason the sufferings never end."
+  },
+  {
+    "repo": "fat-bird-owner/gier-revitalized",
+    "internalName": "gr",
+    "name": "Gier: Revitalized",
+    "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
+    "lastUpdated": "2026-05-17T05:19:15Z",
+    "stars": 12,
+    "minGameVersion": "156",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe.\n\nIf the main version is a bugged then \nplease use the latest releases instead\nas those are stable.\n[]\n\n[accent]Starring is greatly appreciated[]\n[grey](Our current goal is 15 stars)[]\n",
+    "iosCompatible": true
   },
   {
     "repo": "def-try/parkour-mod",
@@ -2643,18 +2643,6 @@
     "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
   },
   {
-    "repo": "laomoze/warhammer",
-    "internalName": "wh",
-    "name": "WarHammer",
-    "author": "LaoMoze",
-    "lastUpdated": "2026-05-16T18:37:41Z",
-    "stars": 9,
-    "minGameVersion": "154.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "以战锤40k为原型的MOD,设定与qq群可以到模组简介里面找\n贡献者DOC-A-7244(bundles和翻译),Eipusino(java技术指导)"
-  },
-  {
     "repo": "sh1penfire/meld-java",
     "internalName": "meld2",
     "name": "Meld: Sand and Sunder",
@@ -2665,6 +2653,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[gray]Under scattered gloomy sunlight in the shimmering seas, within the shifting sanctuary, Strata awoke.\n\nNo mouth to scream with, no skin to feel with, yet one sense remained.\n\nA great longing of meaning.\n\n[accent]Only has custom game content! (play the info map to understand)[]"
+  },
+  {
+    "repo": "laomoze/warhammer",
+    "internalName": "wh",
+    "name": "WarHammer",
+    "author": "LaoMoze",
+    "lastUpdated": "2026-05-17T05:30:11Z",
+    "stars": 9,
+    "minGameVersion": "154.2",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "以战锤40k为原型的MOD,设定与qq群可以到模组简介里面找\n贡献者DOC-A-7244(bundles和翻译),Eipusino(java技术指导)"
   },
   {
     "repo": "toriwake/kannadustry",
@@ -3280,18 +3280,6 @@
     "description": "A JavaScript library for my other mods, with codes for multi-crafters, recipe dictionary, damage display, etc.\nWell, not 100% JavaScript."
   },
   {
-    "repo": "oscaremoran/beyondserpulo-mod",
-    "internalName": "xorinal",
-    "name": "Beyond Serpulo",
-    "author": "Oscar Moran",
-    "lastUpdated": "2026-05-10T00:50:59Z",
-    "stars": 7,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Beyond Serpulo expands the Mindustry universe with new planets — Xorinal (organic spore world), Tetra (frost moon), and Vantres (blackened volcanic moon of Erekir). Currently v1.4. Firmly Beta. Try it and if you like it please star on github! Contact me at oscaremoran20@gmail.com. 6 campaign sectors so far, 14 units, and lots of buildings.\n\nUPDATES:\nLICHEN UPDATE (v1.2) spreads automatically from spore combustors — destroy it with flamethrowers or you can't delete blocks!\nFLAMEWAR UPDATE (v1.3) adds the Flame Array (blazing bloom-essence turret that wipes lichen in a huge radius) and the Sear unit (T1 flame drake that burns lichen in its aim cone).\nTETRA UPDATE (v1.4) opens up Tetra: gorgeous new noise-mesh planet view, Cryolith and Cryobreaker frost mechs, Glacierwing T2 flyer, the Frost Shielder reconstructor, Frost Router, and the Frozen Cavern landing sector.\n\nPlease star if you like the mod! Our goal right now is 10 stars. If we get there, I'll add Xorinal t5!"
-  },
-  {
     "repo": "momiji142857/ve-addon-schematics",
     "internalName": "ve-addon-schematics",
     "name": "VE Addon: Schematics",
@@ -3302,6 +3290,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#90DBFF]Vanilla Expansion原版扩展[white]的蓝图附属模组\nschematics add‑on for the [#90DBFF]Vanilla Expansion[white] (VE)\n\n[red]需先启用 Vanilla Expansion 模组。\nRequires Vanilla Expansion to be enabled.[white]\n\n本模组主要收录并优化了来自VE模组交流群的一些蓝图，旨在让玩家能更方便地使用。\nThis pack collects and optimizes community schematics to make them easier for players to import and use.\n\n感谢所有为本合集贡献并参与测试的成员！\nThank you to everyone who contributed and helped test the pack!\n\n[accent]最后更新 / Last updated: 2026-04-29[white]"
+  },
+  {
+    "repo": "oscaremoran/beyondserpulo-mod",
+    "internalName": "xorinal",
+    "name": "Beyond Serpulo",
+    "author": "Oscar Moran",
+    "lastUpdated": "2026-05-17T02:54:19Z",
+    "stars": 7,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Beyond Serpulo expands the Mindustry universe with new planets — Xorinal (organic spore world), Tetra (frost moon), and Vantres (blackened volcanic moon of Erekir). Currently v1.4. Firmly Beta. Try it and if you like it please star on github! Contact me at oscaremoran20@gmail.com. 6 campaign sectors so far, 14 units, and lots of buildings.\n\nUPDATES:\nLICHEN UPDATE (v1.2) spreads automatically from spore combustors — destroy it with flamethrowers or you can't delete blocks!\nFLAMEWAR UPDATE (v1.3) adds the Flame Array (blazing bloom-essence turret that wipes lichen in a huge radius) and the Sear unit (T1 flame drake that burns lichen in its aim cone).\nTETRA UPDATE (v1.4) opens up Tetra: gorgeous new noise-mesh planet view, Cryolith and Cryobreaker frost mechs, Glacierwing T2 flyer, the Frost Shielder reconstructor, Frost Router, and the Frozen Cavern landing sector.\n\nPlease star if you like the mod! Our goal right now is 10 stars. If we get there, I'll add Xorinal t5!"
   },
   {
     "repo": "zerattel/mindustry-red-alert-3-soundtrack-pack",
@@ -4988,7 +4988,7 @@
     "internalName": "item-liquid-teleport",
     "name": "Item Liquid Teleport",
     "author": "namds666 & Claude Code & Codex",
-    "lastUpdated": "2026-05-16T17:31:13Z",
+    "lastUpdated": "2026-05-17T02:56:04Z",
     "stars": 4,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -12270,18 +12270,6 @@
     "description": "In-game chat translator for Mindustry."
   },
   {
-    "repo": "error666real/vulcanus-mindustry-mod",
-    "internalName": "vulcan",
-    "name": "vulcanus",
-    "author": "manfunnyzennitop/notvagier",
-    "lastUpdated": "2026-03-29T13:36:24Z",
-    "stars": 0,
-    "minGameVersion": "150",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "a hot planet that very rich and stuff and youre need to go there and FUCK around, still on alpha, when i finished some terrain and stuff like that ig i will put it for public, made by SINGULAR persone so the lack of sound effects and song in this mod is not my fault"
-  },
-  {
     "repo": "cardillan/mlogwatcher7",
     "internalName": "mlogwatcher7",
     "name": "MlogWatcher (v7)",
@@ -12652,5 +12640,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod about The Swords from PHIGHTING!\nPossibly unbalanced content."
+  },
+  {
+    "repo": "error666real/vulcanus-mindustry-mod",
+    "internalName": "vulcan",
+    "name": "vulcanus",
+    "author": "manfunnyzennitop/notvagier",
+    "lastUpdated": "2026-05-17T02:54:08Z",
+    "stars": 0,
+    "minGameVersion": "150",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "a hot planet that very rich and stuff and youre need to go there and FUCK around, still on alpha, when i finished some terrain and stuff like that ig i will put it for public, made by SINGULAR persone so the lack of sound effects and song in this mod is not my fault"
   }
 ]
