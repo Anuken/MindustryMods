@@ -533,7 +533,7 @@
     "internalName": "azimut",
     "name": "Azimuth",
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-05-21T03:16:55Z",
+    "lastUpdated": "2026-05-21T06:50:02Z",
     "stars": 41,
     "minGameVersion": "157.4",
     "hasScripts": true,
@@ -1094,6 +1094,18 @@
     "description": "Discover and explore a brand new planet with its own campaign: Xanthia, a mountainous hot planet with more dangers and threat hiding there.\n\nRemember that Xanthia is in beta test right now. Everything is subject to change.\n\nAnd please, try to download it not from releases due to releases can have unfounded bugs but latest version of the mod could have fixed that. "
   },
   {
+    "repo": "jjthecold/cataclysm-mod",
+    "internalName": "cataclysm",
+    "name": "Cataclysm",
+    "author": "[#ffb33a]JJ[]",
+    "lastUpdated": "2026-05-13T16:33:09Z",
+    "stars": 21,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds Tronoe, a cave planet set after a war that drove it's faction's off it's surface.\n\nDrop a star in the project's repo."
+  },
+  {
     "repo": "jirocab/nyfalis",
     "internalName": "olupis",
     "name": "Nyfalis (Olupis)",
@@ -1164,18 +1176,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "​操作中にSDキャラを表示する機能を追加、Added a function to display chibi during operation (and router) a lot of updates coming"
-  },
-  {
-    "repo": "jjthecold/cataclysm-mod",
-    "internalName": "cataclysm",
-    "name": "Cataclysm",
-    "author": "[#ffb33a]JJ[]",
-    "lastUpdated": "2026-05-13T16:33:09Z",
-    "stars": 20,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds Tronoe, a cave planet set after a war that drove it's faction's off it's surface.\n\nDrop a star in the project's repo."
   },
   {
     "repo": "itzcraft/hjsonpp",
@@ -1826,19 +1826,6 @@
     "description": "Astherive: ReGenesis\n\nAn ambitious Mindustry Java mod that add a new campaign that revolves around a neoplasm-inspired substance called the [red]Terraplasm.[]\n\nEarly version, may have issues and things can change in the future.\n\n[gray]version: v0.33category0\nDiscontinued"
   },
   {
-    "repo": "fat-bird-owner/gier-revitalized",
-    "internalName": "gr",
-    "name": "Gier: Revitalized",
-    "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-05-20T15:42:36Z",
-    "stars": 13,
-    "minGameVersion": "156",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe.\n\nIf the main version is a bugged then \nplease use the latest releases instead\nas those are stable.\n[]\n\n[accent]Starring is greatly appreciated[]\n[grey](Our current goal is 15 stars)[]\n",
-    "iosCompatible": true
-  },
-  {
     "repo": "andashikkozlov/thezsia-revival",
     "internalName": "thezsia1",
     "name": "Thezsia Revival",
@@ -1861,6 +1848,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod which introduces actually unique [accent]Story Based Campaign[].\nMain goal of this mod is to show that lore based mods can be good too.\n\nWith story gameplay it introduces to you some new mechanics."
+  },
+  {
+    "repo": "fat-bird-owner/gier-revitalized",
+    "internalName": "gr",
+    "name": "Gier: Revitalized",
+    "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
+    "lastUpdated": "2026-05-21T07:04:16Z",
+    "stars": 13,
+    "minGameVersion": "156",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe.\n\nIf the main version is a bugged then \nplease use the latest releases instead\nas those are stable.\n[]\n\n[accent]Starring is greatly appreciated[]\n[grey](Our current goal is 15 stars)[]\n",
+    "iosCompatible": true
   },
   {
     "repo": "aforgetfulness/towerdefense",
@@ -7505,11 +7505,23 @@
     "description": "Living in under the zero."
   },
   {
+    "repo": "leinadhq/voltaprotocolmod",
+    "internalName": "volta-protocol",
+    "name": "Volta Protocol",
+    "author": "Leinad (discord: danizzq)",
+    "lastUpdated": "2026-05-21T02:37:37Z",
+    "stars": 2,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla. \n\n[white]Este  mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de unidades, torretas y sus municiones. \n\n[accent]Contenido: \n[white]·5 materiales \n[white]·3 liquidos[white] \n[white]·4 muros \n[white]·11 fabricas[white] \n[white]·1 generador \n[white]·2 cinta de transporte \n[white]·5 torretas[white] \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n[accent] \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como New Horizon, Gier: Revitalized, High-Level Divisions. Warbound industries, [Better Vanilla] y Mindustry Tool."
+  },
+  {
     "repo": "lu69159/liquidindustry",
     "internalName": "液体工艺",
     "name": "Liquid Industry",
     "author": "Space",
-    "lastUpdated": "2026-05-21T05:06:16Z",
+    "lastUpdated": "2026-05-21T06:47:37Z",
     "stars": 2,
     "minGameVersion": "157.4",
     "hasScripts": false,
@@ -9894,18 +9906,6 @@
     "description": "sticker"
   },
   {
-    "repo": "leinadhq/voltaprotocolmod",
-    "internalName": "volta-protocol",
-    "name": "Volta Protocol",
-    "author": "Leinad (discord: danizzq)",
-    "lastUpdated": "2026-05-21T02:37:37Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla. \n\n[white]Este  mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de unidades, torretas y sus municiones. \n\n[accent]Contenido: \n[white]·5 materiales \n[white]·3 liquidos[white] \n[white]·4 muros \n[white]·11 fabricas[white] \n[white]·1 generador \n[white]·2 cinta de transporte \n[white]·5 torretas[white] \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n[accent] \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como New Horizon, Gier: Revitalized, High-Level Divisions. Warbound industries, [Better Vanilla] y Mindustry Tool."
-  },
-  {
     "repo": "ancvike/auxiliarymod",
     "internalName": "auxiliary-mod",
     "name": "辅助mod",
@@ -9928,6 +9928,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod about The Swords from PHIGHTING!\nPossibly unbalanced content."
+  },
+  {
+    "repo": "unquis/fading-revelations-remake",
+    "internalName": "fading-revelations-remake",
+    "name": "Fading Revelations Remake",
+    "author": "\nDevelopers\n- Java : UnQuis\n- Json/Hjson : Catser\n- Balancing : Catser / .Frankie\n- Bug Fixes : Catser\n\nTranslators\n- English : Catser\n- German : Catser\n- Spanish : Catser / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Catser / Froomeeth\n- Lore: iori / Catser\n- Cryogenic Gel, Igneous Alloy,\n  Multiblock-Crafter base model:\n  Null (Nullevoy)\n\nAnd more people!\nCheck the Discord!",
+    "lastUpdated": "2026-05-21T08:49:22Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\nA huge, fun & balanced content extension mod.\nContinuing the legacy of Fading Revelations with new content, fixes, and improvements.\n\nPlease note that the Serpulo research tree has\nbeen moved into it's own tree because it was\ntoo large.\nTo get to the Fading Revelations Serpulo \nresearch tree, please switch to it the same way\nyou would switch between the Erekir and Serpulo\nresearch trees.\nOn that menu, a new button will be available \nthat takes you to the Fading Revelations \nSerpulo research tree. \n\nFeatures\nTwo new planets and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish (WIP)\n- Ukrainian (WIP)\n- Russian\n\n\nCheck Discord / GitHub \nfor more information!"
   },
   {
     "repo": "exxleo/exoterusmod",
@@ -12736,17 +12748,5 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Tries to extend Serpulo content following the vanilla style and also being balanced, Tries, So it would fail miserably"
-  },
-  {
-    "repo": "unquis/fading-revelations-remake",
-    "internalName": "fading-revelations-remake",
-    "name": "Fading Revelations Remake",
-    "author": "\nDevelopers\n- Java : UnQuis\n- Json/Hjson : Catser\n- Balancing : Catser / .Frankie\n- Bug Fixes : Catser\n\nTranslators\n- English : Catser\n- German : Catser\n- Spanish : Catser / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Catser / Froomeeth\n- Lore: iori / Catser\n- Cryogenic Gel, Igneous Alloy,\n  Multiblock-Crafter base model:\n  Null (Nullevoy)\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2026-05-21T05:35:14Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\nA huge, fun & balanced content extension mod.\nContinuing the legacy of Fading Revelations with new content, fixes, and improvements.\n\nPlease note that the Serpulo research tree has\nbeen moved into it's own tree because it was\ntoo large.\nTo get to the Fading Revelations Serpulo \nresearch tree, please switch to it the same way\nyou would switch between the Erekir and Serpulo\nresearch trees.\nOn that menu, a new button will be available \nthat takes you to the Fading Revelations \nSerpulo research tree. \n\nFeatures\nTwo new planets and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish (WIP)\n- Ukrainian (WIP)\n- Russian\n\n\nCheck Discord / GitHub \nfor more information!"
   }
 ]
