@@ -208,7 +208,7 @@
     "internalName": "aquarion",
     "name": "Aquarion",
     "author": "twcash",
-    "lastUpdated": "2026-05-20T19:49:25Z",
+    "lastUpdated": "2026-05-21T05:02:47Z",
     "stars": 101,
     "minGameVersion": "157.4",
     "hasScripts": false,
@@ -533,7 +533,7 @@
     "internalName": "azimut",
     "name": "Azimuth",
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-05-20T18:26:05Z",
+    "lastUpdated": "2026-05-21T03:16:55Z",
     "stars": 41,
     "minGameVersion": "157.4",
     "hasScripts": true,
@@ -2419,7 +2419,7 @@
     "internalName": "ve",
     "name": "Vanilla Expansion",
     "author": "火星人076",
-    "lastUpdated": "2026-05-20T14:17:16Z",
+    "lastUpdated": "2026-05-21T02:22:57Z",
     "stars": 10,
     "minGameVersion": "157",
     "hasScripts": true,
@@ -2619,18 +2619,6 @@
     "description": "Adds New sector, units and buildings to the game, all zerg flavored.\nWhat does this mod offer?\n - Hardmode and normal mode \n - Campain map for serpulo\n - Possibly a new planet?\n - A bunch of zerggy unit and structure\n - Lore\nRemember to star the mod on github if you enjoy it!"
   },
   {
-    "repo": "slashkig/astranium-mod",
-    "internalName": "astramod",
-    "name": "Operation: Aziris",
-    "author": "Slashkig, IAmRustee, VoidThreader",
-    "lastUpdated": "2026-05-19T01:34:52Z",
-    "stars": 9,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
-  },
-  {
     "repo": "huanxefh/project-reindustrialization",
     "internalName": "projreind",
     "name": "Project Reindustrialization",
@@ -2665,6 +2653,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "以战锤40k为原型的MOD,设定与qq群链接可以到模组简介里面找\nQQ群316481519\n贡献者DOC-A-7244(bundles和翻译),Eipusino(java技术指导)"
+  },
+  {
+    "repo": "slashkig/astranium-mod",
+    "internalName": "astramod",
+    "name": "Operation: Aziris",
+    "author": "Slashkig, IAmRustee, VoidThreader",
+    "lastUpdated": "2026-05-21T03:40:11Z",
+    "stars": 9,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
   },
   {
     "repo": "toriwake/kannadustry",
@@ -4984,18 +4984,6 @@
     "description": "My planet mod for Mindustry. Heavily unfinished.\nMindustry V8 is required for the mod to work.\nMeowkitty contributed with sprites and maps for this mod.\n\nCredits go the the rest of the MoreDefences team for their code, LixieWulf for Allure's planet code (which I modified to make the planet) and Catana791 for some bits of code from Asthosus used in my crafting blocks."
   },
   {
-    "repo": "kyokonagaro/viridium",
-    "internalName": "viridium",
-    "name": "Viridium",
-    "author": "Choco Same",
-    "lastUpdated": "2026-05-20T12:19:18Z",
-    "stars": 4,
-    "minGameVersion": "154",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This mod introduce faction-locked technologies, allowing you to play PVP matches using a single tech tree.\n\nIt add new tech trees locked to some team/faction.\n\nBalance has been made to vanilla tech tree to allow them to play on a randomly generated map following these rules :\n- Vents availlable everywhere on the map\n- Walls contain Graphite and Berylium\n- No liquid availlable on the map\n- Modded ressources spawn evenly on the map\n\n⚠ DISABLE THIS MOD TO PLAY VANILLA : This mod being in development, it locks certain block to certain faction. That makes PVE unplayable.\n\nIn the future, I plan to release those tech tree in dedicated campaign on their respective planets. And also to make it possible to play vanilla with this mod enabled.\n\nIn 0.1, Serpulo and Erekir tech trees are separated. Curently working on creating a new one.\n\nThanks to RednzBA990 (Github) for the little help!"
-  },
-  {
     "repo": "darkdustry-coders/mindurkacompat",
     "internalName": "mindurkacompat",
     "name": "MindurkaCompat",
@@ -5006,6 +4994,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mod that adds extra compatibility with Mindurka"
+  },
+  {
+    "repo": "kyokonagaro/viridium",
+    "internalName": "viridium",
+    "name": "Viridium",
+    "author": "Choco Same",
+    "lastUpdated": "2026-05-21T02:01:43Z",
+    "stars": 4,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This mod introduce faction-locked technologies, allowing you to play PVP matches using a single tech tree.\n\nIt add new tech trees locked to some team/faction.\n\nBalance has been made to vanilla tech tree to allow them to play on a randomly generated map following these rules :\n- Vents availlable everywhere on the map\n- Walls contain Graphite and Berylium\n- No liquid availlable on the map\n- Modded ressources spawn evenly on the map\n\n⚠ DISABLE THIS MOD TO PLAY VANILLA : This mod being in development, it locks certain block to certain faction. That makes PVE unplayable.\n\nIn the future, I plan to release those tech tree in dedicated campaign on their respective planets. And also to make it possible to play vanilla with this mod enabled.\n\nIn 0.1, Serpulo and Erekir tech trees are separated. Curently working on creating a new one.\n\nThanks to RednzBA990 (Github) for the little help!"
   },
   {
     "repo": "mythril382/ammoswap",
@@ -7509,7 +7509,7 @@
     "internalName": "液体工艺",
     "name": "Liquid Industry",
     "author": "Space",
-    "lastUpdated": "2026-05-20T19:01:17Z",
+    "lastUpdated": "2026-05-21T05:06:16Z",
     "stars": 2,
     "minGameVersion": "157.4",
     "hasScripts": false,
@@ -9870,30 +9870,6 @@
     "description": "\nМод добавляет множество нового контента\nмножество буров по типу Гранитного\nновые турели!\nв игре есть баги сообщите о них мне в ЛС ТГК\n\n Приватное сообщение  @MrHumanU\nTelegram TGH → t.me/LogicDustryJS \nYoutube YTC → youtube.com/@LogicDustryJS\n15/11/25 22:29 → Обновление 1.9\n\n\n[Orange]Полностью совместим с Mindustry v146-153. "
   },
   {
-    "repo": "bluedoves3821/phighting-sword-deities",
-    "internalName": "sword-deities-mod",
-    "name": "PHIGHTING! SWORD DEITIES",
-    "author": "BlueDoves3821",
-    "lastUpdated": "2026-05-19T08:27:44Z",
-    "stars": 1,
-    "minGameVersion": "136.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod about The Swords from PHIGHTING!\nPossibly unbalanced content."
-  },
-  {
-    "repo": "ancvike/auxiliarymod",
-    "internalName": "auxiliary-mod",
-    "name": "辅助mod",
-    "author": "Ancvike",
-    "lastUpdated": "2026-05-19T11:39:14Z",
-    "stars": 1,
-    "minGameVersion": "150",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "提供一些辅助功能, 例如修改资源,建筑,单位,地图, 以及各种方便大家游玩的功能"
-  },
-  {
     "repo": "ottocolten/ottos-advancing-machines",
     "internalName": " advancing-machines",
     "name": " otto's Advancing machines",
@@ -9906,18 +9882,6 @@
     "description": "Are the current high-tier Erekir machines boring? Update taking too long to release? Well dont worry, as this mods [will add] tons of stronger and higher-tier units, turrets, factories, etc! (My First Real Mod!)/n By the way, this mod is my gonna be my big main mod, with the most stuff gonna be in it then any other mod ill make./n Therefore, expect this mod to take MAAANNNNYY months :3"
   },
   {
-    "repo": "leinadhq/voltaprotocolmod",
-    "internalName": "volta-protocol",
-    "name": "Volta Protocol",
-    "author": "Leinad (discord: danizzq)",
-    "lastUpdated": "2026-05-20T04:08:23Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla. \n\n[white]Este  mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de unidades, torretas y sus municiones. \n\n[accent]Contenido: \n[white]·5 materiales \n[white]·3 liquidos[white] \n[white]·4 muros \n[white]·11 fabricas[white] \n[white]·1 generador \n[white]·2 cinta de transporte \n[white]·5 torretas[white] \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n[accent] \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como New Horizon, Gier: Revitalized, High-Level Divisions. Warbound industries, [Better Vanilla] y Mindustry Tool."
-  },
-  {
     "repo": "fhgdhgvhggvfgg/mindustry_stickers_cheetah",
     "internalName": "sticker",
     "name": "cheetah girl sticker",
@@ -9928,6 +9892,42 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "sticker"
+  },
+  {
+    "repo": "leinadhq/voltaprotocolmod",
+    "internalName": "volta-protocol",
+    "name": "Volta Protocol",
+    "author": "Leinad (discord: danizzq)",
+    "lastUpdated": "2026-05-21T02:37:37Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla. \n\n[white]Este  mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de unidades, torretas y sus municiones. \n\n[accent]Contenido: \n[white]·5 materiales \n[white]·3 liquidos[white] \n[white]·4 muros \n[white]·11 fabricas[white] \n[white]·1 generador \n[white]·2 cinta de transporte \n[white]·5 torretas[white] \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n[accent] \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como New Horizon, Gier: Revitalized, High-Level Divisions. Warbound industries, [Better Vanilla] y Mindustry Tool."
+  },
+  {
+    "repo": "ancvike/auxiliarymod",
+    "internalName": "auxiliary-mod",
+    "name": "辅助mod",
+    "author": "Ancvike",
+    "lastUpdated": "2026-05-21T05:22:42Z",
+    "stars": 1,
+    "minGameVersion": "150",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "提供一些辅助功能, 例如修改资源,建筑,单位,地图, 以及各种方便大家游玩的功能"
+  },
+  {
+    "repo": "bluedoves3821/phighting-sword-deities",
+    "internalName": "sword-deities-mod",
+    "name": "PHIGHTING! SWORD DEITIES",
+    "author": "BlueDoves3821",
+    "lastUpdated": "2026-05-21T05:53:37Z",
+    "stars": 1,
+    "minGameVersion": "136.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod about The Swords from PHIGHTING!\nPossibly unbalanced content."
   },
   {
     "repo": "exxleo/exoterusmod",
@@ -12741,12 +12741,12 @@
     "repo": "unquis/fading-revelations-remake",
     "internalName": "fading-revelations-remake",
     "name": "Fading Revelations Remake",
-    "author": "Catser & UnQuis",
-    "lastUpdated": "2026-05-20T09:41:17Z",
+    "author": "\nDevelopers\n- Java : UnQuis\n- Json/Hjson : Catser\n- Balancing : Catser / .Frankie\n- Bug Fixes : Catser\n\nTranslators\n- English : Catser\n- German : Catser\n- Spanish : Catser / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Catser / Froomeeth\n- Lore: iori / Catser\n- Cryogenic Gel, Igneous Alloy,\n  Multiblock-Crafter base model:\n  Null (Nullevoy)\n\nAnd more people!\nCheck the Discord!",
+    "lastUpdated": "2026-05-21T05:35:14Z",
     "stars": 0,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
-    "description": "A huge, fun & balanced content extension mod.\nContinuing the legacy of Fading Revelations with new content, fixes, and improvements."
+    "description": "\nA huge, fun & balanced content extension mod.\nContinuing the legacy of Fading Revelations with new content, fixes, and improvements.\n\nPlease note that the Serpulo research tree has\nbeen moved into it's own tree because it was\ntoo large.\nTo get to the Fading Revelations Serpulo \nresearch tree, please switch to it the same way\nyou would switch between the Erekir and Serpulo\nresearch trees.\nOn that menu, a new button will be available \nthat takes you to the Fading Revelations \nSerpulo research tree. \n\nFeatures\nTwo new planets and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish (WIP)\n- Ukrainian (WIP)\n- Russian\n\n\nCheck Discord / GitHub \nfor more information!"
   }
 ]
