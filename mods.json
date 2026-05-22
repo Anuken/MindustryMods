@@ -208,7 +208,7 @@
     "internalName": "aquarion",
     "name": "Aquarion",
     "author": "twcash",
-    "lastUpdated": "2026-05-21T17:53:03Z",
+    "lastUpdated": "2026-05-21T23:35:19Z",
     "stars": 101,
     "minGameVersion": "157.4",
     "hasScripts": false,
@@ -310,6 +310,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Mod that adds a manual page library. RTFM in the About menu.\nComes with documentation of vanilla'a Logic system.\nOptionally requires deltanedas/ui-lib for extra buttons.\npt_BR translations by King-BR"
+  },
+  {
+    "repo": "deltanedas/ui-lib",
+    "internalName": "ui_lib",
+    "name": "UI Lib",
+    "author": "deltanedas",
+    "lastUpdated": "2026-01-24T12:05:56Z",
+    "stars": 75,
+    "minGameVersion": "139",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Library for other mods that unifies and simplifies UI creation."
   },
   {
     "repo": "vvseangtvv/project-restoration",
@@ -425,7 +437,7 @@
     "internalName": "exoprosopa",
     "name": "Exoprosopa",
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-05-19T04:07:56Z",
+    "lastUpdated": "2026-05-21T23:47:51Z",
     "stars": 54,
     "minGameVersion": "157",
     "hasScripts": true,
@@ -625,6 +637,18 @@
     "description": "A mod provides various tools for modding.\n\n-----------------\nVersion 1.5.8\n## Highlight\n1. 继续完善HotSwap（Preview）\n2. 修复大量的bug\n- 修复配置文件的格式化问题\n- 修复ValueLabel的对齐不对，分隔符不对等大量问题\n3. 其他的一些优化\n\n-----------------\nWIKI: https://i-hope1.github.io/mod-tools"
   },
   {
+    "repo": "00sunray00/scheme-size-port",
+    "internalName": "scheme-size",
+    "name": "Scheme Size Port",
+    "author": "xzxADIxzx\nPort: 00SunRay00 & RE2b2m22",
+    "lastUpdated": "2026-05-20T20:21:30Z",
+    "stars": 39,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nThis mod is not the original port of Scheme Size — it is a custom port. The developer of the original mod is not involved in this in any way.\n!!!ATTENTION: VERSIONS BELOW v156 ARE NOT SUPPORTED!!!\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n   - CLaJ v2\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Rule setter\n"
+  },
+  {
     "repo": "rogeh4/virtual-scheme-pack-",
     "internalName": "v-scheme-pack",
     "name": "Virtual Scheme Pack",
@@ -647,18 +671,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod made by [grey]CD[], [#FC8E6C]meowkitty[] and [#ff0059]7rodo[] that overhauls the campaign, significantly modifying [#7457ce]Serpulo[]'s campaign and adding a new planet, [blue]Fieros[].\n\nAmidst the features in this mod are:\n[grey]-[] [accent]18[] New [accent]Turrets[] to defend with\n[grey]-[] [accent]21[] New [accent]Units[] to attack with\n[grey]-[] [accent]16[] New campaign [accent]Sectors[] to play on, including [accent]2 Remakes[] of vanilla sectors\n[grey]-[] [accent]Post-Surge Alloy-tier[] content for Serpulo\n[grey]-[] [accent]12[] New Miscellaneous blocks to mess around with on Serpulo\n\n[#e38a88]⚠ This mod moves Serpulo sectors around without moving their saves, backup your game data in [ SETTINGS > GAME DATA ] before enabling/disabling this mod to prevent campaign corruption if you have any campaign saves. ⚠[]\n\n[grey]Discord: https://discord.gg/9YHA3q8HHq[]"
-  },
-  {
-    "repo": "00sunray00/scheme-size-port",
-    "internalName": "scheme-size",
-    "name": "Scheme Size Port",
-    "author": "xzxADIxzx\nPort: 00SunRay00 & RE2b2m22",
-    "lastUpdated": "2026-05-20T20:21:30Z",
-    "stars": 38,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nThis mod is not the original port of Scheme Size — it is a custom port. The developer of the original mod is not involved in this in any way.\n!!!ATTENTION: VERSIONS BELOW v156 ARE NOT SUPPORTED!!!\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n   - CLaJ v2\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Rule setter\n"
   },
   {
     "repo": "deltanedas/dev-mode",
@@ -756,6 +768,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Dynamic load custom contents patch account to server"
+  },
+  {
+    "repo": "retodera/technologium",
+    "internalName": "t",
+    "name": "Technologium",
+    "author": "\n[#ff]retodera[] - Основатель мода; кодер, спрайтер, маппер, многосторонняя личность короче\n\n[#2f2f75]gkugfk3[] - Звуковой дизайнер\n\n[#e5072f]Gor[] - Маппер, генератор идей\n\n[orange]xDer[] - ранее Главный генератор идей\n\n[#ff3f3f]Kosmo[] - генератор идей\n\n[#7f7f7f]Перечислять людей, дававших идеи, долго...[]\n\n\nИ благодарности всем, кто поставил звёздочку <3",
+    "lastUpdated": "2025-12-31T23:19:03Z",
+    "stars": 31,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "<RU>[]\n\n[#00fff2]Technologium[] будет очередным большим модом для Mindustry. Уже многое запланировано, хотя практически ничто из этого не сделано.\n\n\n\nМод будет содержать в себе 2 солнечные системы, может даже больше; множество новых механик, много кампаний, ещё больше блоков, особенно предметов, жидкостей, юнитов и не только.\n\nПрошёл год, сформировалось что-то наподобии команды. Если вы хороший спрайтер/маппер/кодер, вы можете помочь нам с всем этим. \nЕсли это не так, вы всё ещё можете мотивировать нас, поставив звёздочку на гитхабе.\n\nВы также можете присоединиться к нашему Дискорд серверу, ссылка в репозитории.\n\n[#7f7f7f]Мод должен расти.[]\n\n\n\n\n<EN>[]\n\n[#00fff2]Technologium[] will be another big mod for Mindustry. There's already so much planned, though practically none of it is finished.\n\n\n\nThe mod will contain a whole 2 solar systems, or maybe even more; lots of new mechanics, many campaigns, even more blocks, especially items, liquids, units and not only.\n\nA year has passed, and some kind of team has formed. If you're a good spriter/mapper/coder, you could help us with all of this. \nIf not, you could still motivate us by giving a star on GitHub.\n\nAlso, you could join our Discord server, the link is in the repo.\n\n[#7f7f7f]The mod must grow.[]"
   },
   {
     "repo": "koctolom/mindustry-overhaul",
@@ -1830,7 +1854,7 @@
     "internalName": "gr",
     "name": "Gier: Revitalized",
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-05-21T13:26:41Z",
+    "lastUpdated": "2026-05-22T01:47:20Z",
     "stars": 13,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -2473,6 +2497,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Work in Progress: This project is still under development, and features may change in the future.\n\nContributors:\n\n* Author: CrS Team (Lead: SyNav [SycNav])\n* Sprites: TDaggers [TDRS], Ru (kyrusis2), Quy [Quy109372]\n* Contents: SyNav [SycNav], TDaggers [TDRS], Crypt [CrystalMist], EarGods [Earthegodlybeing]\n* Scripting: SyNav [SycNav], Quy [Quy109372], EarGods [Earthegodlybeing]\n\nBug Reporting:\nPlease report any bugs or glitches to the CrS team for fixing.\n\nJoin the Community: Join our Discord server to stay updated on the project and connect with the community! (discord: https://discord.gg/FHg4FDDeVH)\n"
+  },
+  {
+    "repo": "nikonf20/oil-extended",
+    "internalName": "oe",
+    "name": "Oil Extended",
+    "author": "Atomic",
+    "lastUpdated": "2025-08-10T15:51:40Z",
+    "stars": 9,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Added new blocks & units that can interact with Oil and improve player quality of life"
   },
   {
     "repo": "spacetwoo/nolea-siege",
@@ -3532,6 +3568,18 @@
     "description": "Makes Mindustry Dark Themed!\n\nCredits:\n• !ereHyddeS, for making this out of boredom\n• WMF, for annoying everyone long enough to rework it\n• Antlrr, for contributing lots\n• Woop, for contributing few\n• Binonib, for contributing few\n• Alstocras, for contributing few\n• Blop, for ideas and for meme dump\n\nChangelogs:\n• Included campaign-only blocks\n• NeonNights2: Erekir-ified coming maybe soon idk"
   },
   {
+    "repo": "oleksiy1409liut/auvathiaworlds",
+    "internalName": "auvathiaworlds",
+    "name": "Osakan Worlds",
+    "author": "Auvathia team (Me,Bread, fish, hun nimbus and some people from the global discord mindustry server)",
+    "lastUpdated": "2025-11-27T15:56:57Z",
+    "stars": 6,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "yo we be making big planets in a mod so please leave a star or im gonna starve to no silicon, dm avatar_of_emptiness in discord if you wanna report shit or you can ask me for our discord server link\npreviously auvathia worlds"
+  },
+  {
     "repo": "ka4ok52/persea-mod",
     "internalName": "persea",
     "name": "P.E.R.S.E.A. MOD",
@@ -3590,6 +3638,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": ""
+  },
+  {
+    "repo": "determination-wind/stealthpath",
+    "internalName": "stealth-path",
+    "name": "Stealth Path / 偷袭小道",
+    "author": "DeterMination",
+    "lastUpdated": "2026-02-20T10:18:44Z",
+    "stars": 6,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Plan safer assault routes by simulating turret/unit threat fields, then draw low-damage or nearest paths with auto-move support. / 基于炮塔与单位威胁场规划低伤或最近路线，支持自动移动与实时路径叠加。"
   },
   {
     "repo": "i-drink-gasoline/admin-button-2",
@@ -4552,6 +4612,18 @@
     "description": "why? furry zenith."
   },
   {
+    "repo": "nullotte/letter-blocks",
+    "internalName": "letter-blocks",
+    "name": "Letter Blocks",
+    "author": "Nullotte",
+    "lastUpdated": "2025-01-01T14:24:42Z",
+    "stars": 4,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds letter blocks for writing text and messages"
+  },
+  {
     "repo": "kitrr1x/mindustry-addon",
     "internalName": "mindustry-addon+",
     "name": "Mindustry Addon+",
@@ -4928,7 +5000,7 @@
     "internalName": "rodrigonia",
     "name": "Rodrigonia",
     "author": "rodrigo_of_rodrigonia",
-    "lastUpdated": "2026-05-21T14:42:23Z",
+    "lastUpdated": "2026-05-22T01:35:23Z",
     "stars": 4,
     "minGameVersion": "157",
     "hasScripts": true,
@@ -5680,6 +5752,18 @@
     "description": "A very cool content mod. Adds tons of new blocks, resources, and units, uncluding a whole new tier of reconstructor. Discord link: https://discord.gg/juaRAGaQ"
   },
   {
+    "repo": "hollow-yk/endfield_industry_lib",
+    "internalName": "endfield-industry-lib",
+    "name": "Endfield Industry Lib终末地工业Lib",
+    "author": "Hollow and W.gaster",
+    "lastUpdated": "2026-03-07T14:46:01Z",
+    "stars": 3,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "欢迎来到终末地工业。\n[blue]《终末地工业Lib》是一款将《明日方舟：终末地》的部分物品与设备加入Mindustry的模组。\n[green]开发中……\n[red]注意！该版本处于开发初期，存在大量Bug与未完成的部分。若想要进行游玩，需前往Github Release下载本模组。目前暂未适配手机端。\n[green]欢迎前往GitHub Release下载本模组\n[red]别急着期待\n"
+  },
+  {
     "repo": "osp54/shared-campaign-research",
     "internalName": "shared-campaign-research",
     "name": "Shared Campaign Research",
@@ -5925,7 +6009,7 @@
     "internalName": "ultimate-military-technic-mod",
     "name": "Ultimate Military Technic Mod",
     "author": "Volproil",
-    "lastUpdated": "2026-05-21T22:17:39Z",
+    "lastUpdated": "2026-05-21T22:58:45Z",
     "stars": 3,
     "minGameVersion": "142",
     "hasScripts": false,
@@ -6689,6 +6773,18 @@
     "description": "make x5 drill speed"
   },
   {
+    "repo": "meepoffaith/moyai-emoji",
+    "internalName": "",
+    "name": "Funny Rock",
+    "author": "MEEPofFaith",
+    "lastUpdated": "2025-02-10T03:52:11Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Incredible"
+  },
+  {
     "repo": "bluethecube/annihilation-threat",
     "internalName": "annihilation",
     "name": "Annihilation",
@@ -7143,6 +7239,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Removes Titan's smoke and scathe, leaving only clean explosion effect. Removes MiniMap. Unlock and show hidden and unused game content. Especially items, blocks, fluids, effects, units, and planets.\n\nThe campaign save will not be affected in any way. "
+  },
+  {
+    "repo": "lehanchic25/inversedustry",
+    "internalName": "inversedustry",
+    "name": "InverseDustry",
+    "author": "Lehanchic25",
+    "lastUpdated": "2026-03-15T17:51:11Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Texture pack for mindustry, where all textures are inverted!"
   },
   {
     "repo": "kang12341/ericweimod",
@@ -10866,6 +10974,18 @@
     "description": "Because you can't have too much convenience"
   },
   {
+    "repo": "mindustrylogic/le-java-mod",
+    "internalName": "testing",
+    "name": "le-java-mod",
+    "author": "MindustryLogic",
+    "lastUpdated": "2024-11-04T09:23:17Z",
+    "stars": 0,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "for the love of god don't download this"
+  },
+  {
     "repo": "justtheblazinggear/absolutemyriad",
     "internalName": "am",
     "name": "Absolute Myriad",
@@ -11982,6 +12102,18 @@
     "description": "This one will be be good lmao"
   },
   {
+    "repo": "khanhromvn/multiplayer-kit",
+    "internalName": "multiplayer-kit",
+    "name": "multiplayer-kit",
+    "author": "KhanhRomVN",
+    "lastUpdated": "2026-02-07T12:41:34Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Allows players other than the host to pause in multiplayer. Both the host and the person pausing need the mod. Supports Mindustry v154 with enhanced synchronization features."
+  },
+  {
     "repo": "panilyam/weeesp-mod",
     "internalName": "ratislavchik-mod",
     "name": "ratislavchik",
@@ -11992,6 +12124,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "this mode is created by my sick mind [#a2a3a4] ([red]WARNING![#a2a3a4] This mod is not intended for the game as it is still in development) <current version 0.1>"
+  },
+  {
+    "repo": "zinwire/mine-dust",
+    "internalName": "md",
+    "name": "Mine Dust",
+    "author": "mamasha",
+    "lastUpdated": "2026-02-10T19:51:43Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Vanila+ type mod\nHis telegram: https://t.me/MineDustMod"
   },
   {
     "repo": "wabbitking1234/cwalr",
@@ -12460,6 +12604,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "T1 erekir units on serpulo bc yes"
+  },
+  {
+    "repo": "calebmonkey/mindustrytaller",
+    "internalName": "mindustrytaller",
+    "name": "Mindustry Taller",
+    "author": "CalebMonkey",
+    "lastUpdated": "2026-05-01T22:04:16Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Mindustry Taller adds more items and turrets to the game. It aims to expand the game without making it wider, allowing for higher strength of production and defence without impacting the early game."
   },
   {
     "repo": "placeholder-chem/advancedchemistry",
