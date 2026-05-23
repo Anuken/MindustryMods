@@ -388,7 +388,7 @@
     "internalName": "ice",
     "name": "DeepSpace",
     "author": "Alon",
-    "lastUpdated": "2026-05-22T15:26:26Z",
+    "lastUpdated": "2026-05-23T01:27:21Z",
     "stars": 57,
     "minGameVersion": "157.4",
     "hasScripts": false,
@@ -2659,7 +2659,7 @@
     "internalName": "astramod",
     "name": "Operation: Aziris",
     "author": "Slashkig, IAmRustee, VoidThreader",
-    "lastUpdated": "2026-05-21T03:40:11Z",
+    "lastUpdated": "2026-05-22T22:47:07Z",
     "stars": 9,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -3332,7 +3332,7 @@
     "internalName": "xorinal",
     "name": "Beyond Serpulo",
     "author": "Oscar Moran",
-    "lastUpdated": "2026-05-21T18:51:19Z",
+    "lastUpdated": "2026-05-22T22:59:46Z",
     "stars": 7,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -5789,18 +5789,6 @@
     "iosCompatible": true
   },
   {
-    "repo": "titanite-1574/napelus",
-    "internalName": "nap",
-    "name": " Napelus.",
-    "author": "Titan",
-    "lastUpdated": "2026-03-24T04:14:20Z",
-    "stars": 3,
-    "minGameVersion": "152.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mindustry mod that adds a new planet with its own campaign, still WIP. Thanks to amogus2824 on discord for fixing the icy sprite and resprite Benite"
-  },
-  {
     "repo": "chuvaak/futurehorizons",
     "internalName": "futurehorizons",
     "name": "Future Horizons",
@@ -6021,12 +6009,24 @@
     "internalName": "ultimate-military-technic-mod",
     "name": "Ultimate Military Technic Mod",
     "author": "Volproil",
-    "lastUpdated": "2026-05-22T11:13:07Z",
+    "lastUpdated": "2026-05-22T23:11:07Z",
     "stars": 3,
     "minGameVersion": "142",
     "hasScripts": false,
     "hasJava": false,
     "description": "Mod add tanks, aircraft, artillery, diesel generators"
+  },
+  {
+    "repo": "titanite-1574/napelus",
+    "internalName": "nap",
+    "name": " Napelus.",
+    "author": "Titan",
+    "lastUpdated": "2026-05-23T00:20:36Z",
+    "stars": 3,
+    "minGameVersion": "152.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mindustry mod that adds a new planet with its own campaign, still WIP. Thanks to amogus2824 on discord for fixing the icy sprite and resprite Benite"
   },
   {
     "repo": "rintadev5792/arcane-mindustry",
@@ -9702,18 +9702,6 @@
     "description": "Hides your cursor from cheaters, now it will appear to always be on your unit, unless you try to shoot."
   },
   {
-    "repo": "p-enya/celeste-music-pack",
-    "internalName": "celeste-music-pack",
-    "name": "Celeste music pack",
-    "author": "[#6600ff]P.[#ff0066]E.[white]",
-    "lastUpdated": "2026-05-09T02:51:40Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds music from [#96EFFF]Celeste[white].\nWarning: it can get loud!!\n\n\nboss1 - Resurrection\nboss2 - In the Mirror\neditor - Heart of the Mountain\nfine - Madeline and Theo\ngame1 - Fear of the Unknown\ngame2 - Jou of Remembrance\ngame3 - In Stasis\ngame4 - Beyond the Heart\ngame5 - Farewell\ngame6 - Quiet and Falling\ngame7 - Old Site (Black Moonrise Mix)\ngame8 - Summit (No More Running Mix)\ngame9 - The Core (Say Goodbye Mix)\nland - Crash\nlaunch - The Empty Space Above\nmenu - Postcard from Celeste Mountain\n\n[#646464]In Lönn:\nboss1 - music_oldsite_chase\nboss2 - music_temple_middle\neditor - music_core_main\nfine - music_reflection_maddietheo\ngame1 - music_farewell_part01\ngame2 - music_farewell_part02\ngame3 - music_farewell_intermission_heartgroove\ngame4 - music_farewell_part03\ngame5 - music_farewell_final_run\ngame6 - music_temple_normal\ngame7 - music_rmx_02_old_site\ngame8 - music_rmx_07_summit\ngame9 - music_rmx_09_core\nland - music_farewell_firstbirdcrash_cinematic\nlaunch - music_levelselect ?\nmenu - music_levelselect\n\nIn FMOD:\n(music/kuraine/)\nboss1 - mus_lvl2_chase_loop\nboss2 - mus_lvl5_middlereverse_main_loop\neditor - mus_lvl8_intro_loop\nfine - mus_lvl6_maddietheo_loop\ngame1 - mus_lvl9_part01_mysterious_fullmix\ngame2 - mus_lvl9_part02_uplifting_acousticbase\ngame3 - mus_lvl9_intermission_heartgroove_84bpm\ngame4 - mus_lvl9_part03_finale_loop\ngame5 - mus_lvl9_ending_finalrun_multiloop_131bpm\ngame6 - mus_lvl5_lightnorm_loop\n\n(music/remix/)\ngame7 - mus_rmx_02_oldsite_loop\ngame8 - mus_rmx_07_summit\ngame9 - mus_rmx_08_core\n\n(music/kuraine/)\nland - mus_lvl9_cinematic_firstbirdcrash\nlaunch - mus_menu_levelselect_moon_loop\nmenu - mus_menu_levelselect_loop[white]"
-  },
-  {
     "repo": "m-e-l-i-s/silviriumjava",
     "internalName": "sli",
     "name": "Silvirium",
@@ -9940,6 +9928,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod about The Swords from PHIGHTING!\nPossibly unbalanced content."
+  },
+  {
+    "repo": "p-enya/celeste-music-pack",
+    "internalName": "celeste-music-pack",
+    "name": "Celeste music pack",
+    "author": "[#6600ff]P.[#ff0066]E.[white]",
+    "lastUpdated": "2026-05-23T00:59:17Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds music from [#96EFFF]Celeste[white].\n\n\n\nboss1 - Resurrection\nboss2 - In the Mirror\neditor - Heart of the Mountain\nfine - Madeline and Theo\ngame1 - Fear of the Unknown\ngame2 - Jou of Remembrance\ngame3 - In Stasis\ngame4 - Beyond the Heart\ngame5 - Farewell\ngame6 - Quiet and Falling\ngame7 - Old Site (Black Moonrise Mix)\ngame8 - Summit (No More Running Mix)\ngame9 - The Core (Say Goodbye Mix)\nland - Crash\nlaunch - The Empty Space Above\nmenu - Postcard from Celeste Mountain\n\n[#646464]Check Music&Sounds.txt in the mod folder for more information.[white]"
   },
   {
     "repo": "exxleo/exoterusmod",
