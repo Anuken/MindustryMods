@@ -64,7 +64,7 @@
     "internalName": "schema",
     "name": "Schema",
     "author": "xzxADIxzx",
-    "lastUpdated": "2026-05-23T18:06:03Z",
+    "lastUpdated": "2026-05-23T20:14:17Z",
     "stars": 230,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -208,7 +208,7 @@
     "internalName": "aquarion",
     "name": "Aquarion",
     "author": "twcash",
-    "lastUpdated": "2026-05-23T18:32:51Z",
+    "lastUpdated": "2026-05-23T19:16:04Z",
     "stars": 102,
     "minGameVersion": "157.4",
     "hasScripts": false,
@@ -1182,7 +1182,7 @@
     "internalName": "hjsonpp",
     "name": "hjson++",
     "author": "ItzCraft\nhelpers: Photon_gravity, Sputnuc",
-    "lastUpdated": "2026-05-22T17:26:39Z",
+    "lastUpdated": "2026-05-23T19:51:47Z",
     "stars": 20,
     "minGameVersion": "157",
     "hasScripts": false,
@@ -9894,18 +9894,6 @@
     "description": "实现了一个可以跨星球/区块传送单位的建筑，启用了旧版发射台\n代码编写：@ZenXSin\n贴图制作：@花杨永瀛\n由@一得阁拉米委托\n灵感来源：@原我心依旧如初\n\nalpha-02:\n修复无法正常发射的问题\n修复状态显示不正常的问题\n修复星球选择为oh no的问题\n修复消耗器无法正常工作的问题\n修复单位无限复制的问题\n\nalpha-03:\n新增所有s星单位都可以在e星生成\n调整了音效\n\nalpha-04:\n完善了状态的读写\n修复了在使用科技树透视时可能出现的闪退问题\n修改了一些贴图\n修复新版单位无限复制的问题\n增加单位大小判断，过大无法进入发射台\n修复了可进入载荷的判断错误\n修复未满足消耗但是正在构建时构建动画突然消失的问题\n增加建筑详细页的默认发射区块设置\n\nalpha-05:\n平衡了一定数值\n新增e星版单位发射台\n原版发射台支持多星球选择\n\nformal-01：\n修复了跨星球发射时单位消失问题\n修复了使用科技树透视时的闪退问题\n"
   },
   {
-    "repo": "bluedoves3821/phighthouse-mindustrymod",
-    "internalName": "phighthouse",
-    "name": "PHIGHTHOUSE!",
-    "author": "PHIGHTHOUSE!",
-    "lastUpdated": "2026-05-23T18:32:46Z",
-    "stars": 1,
-    "minGameVersion": "136.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "PHIGHTHOUSE! is a style i made up which is basically a combination of phighting, a 5v5 fighting game by boggio, and whitehouse, a british extreme music band started by w. bennett.\nthis mod was originally made as \"a mod within a mod\" but it's has been decided to be it's own thing.\n(note: this mod was partally inspired by another mod, some buildings from that mod were flipped to fit the phighthouse image, credits to them.)"
-  },
-  {
     "repo": "exxleo/exoterusmod",
     "internalName": "exoterus-mod",
     "name": "Exoterus",
@@ -12736,5 +12724,29 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "DP storage (serpulo)\nall \"datapatcheable\" mature balance proposals/ideas from the channel will (most likely) be here in the form of datapatches.\n\n### Current Balance datapatches;\n- Jehosulas's Rebalance\n- Efsfse's dp testing ground\n- Blackberry's Rebalance\n\n\n(to add new balance proposals, simply do a PR with the .msav file on github)"
+  },
+  {
+    "repo": "bluedoves3821/phighthouse-branch",
+    "internalName": "phighthouse",
+    "name": "PHIGHTHOUSE! BRANCH EDITION.",
+    "author": "PHIGHTHOUSE!",
+    "lastUpdated": "2026-05-23T19:00:36Z",
+    "stars": 0,
+    "minGameVersion": "136.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "[#D75a58]Disclaimer: this mod shares the same mod name with the base mod, make sure either one of the mods are disabled first.\n\n[#ffffff]PHIGHTHOUSE! is a style i made up which is basically a combination of phighting, a 5v5 fighting game by boggio, and whitehouse, a british extreme music band started by w. bennett.\nthis mod is a \"branch\" version of the base mod, meaning it has it's own tech tree, it also comes with a lot of changes from the original mod,\nmainly, the coilium & whitehouseium production buildings are totally free, and all buildings from this mod only uses materials from this mod.\n(note: this mod was partally inspired by another mod, some buildings from that mod were flipped to fit the phighthouse image, credits to them.)"
+  },
+  {
+    "repo": "lu69159/morecustomsettings",
+    "internalName": "mcs",
+    "name": "More Custom Settings",
+    "author": "Space",
+    "lastUpdated": "2026-05-23T19:18:23Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod which allows players to custom campaign difficulty(TODO: music and etc.)"
   }
 ]
