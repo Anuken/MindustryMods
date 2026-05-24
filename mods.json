@@ -148,9 +148,9 @@
     "internalName": "sfire-mod",
     "name": "Saturation Firepower Mod",
     "author": "RAdea.exe",
-    "lastUpdated": "2026-04-22T08:04:27Z",
+    "lastUpdated": "2026-05-24T08:06:05Z",
     "stars": 131,
-    "minGameVersion": "157",
+    "minGameVersion": "158",
     "hasScripts": false,
     "hasJava": true,
     "description": "Hell time, once for all\n\nThis mod adds new items, buildings, units, and turrets, and has a planet for you to explore.\nMore campaign maps WIP.\nWarning: This mod makes certain modifications to the original game content to accommodate the mod's operation."
@@ -1842,7 +1842,7 @@
     "internalName": "gr",
     "name": "Gier: Revitalized",
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-05-24T05:47:12Z",
+    "lastUpdated": "2026-05-24T06:17:37Z",
     "stars": 13,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -9558,18 +9558,6 @@
     "description": "Change error texture for \"бля\"."
   },
   {
-    "repo": "nglam2911/lpad",
-    "internalName": "lpad",
-    "name": "LPad",
-    "author": "NgLam2911",
-    "lastUpdated": "2026-04-25T04:21:38Z",
-    "stars": 1,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Utility mod for Mindustry Landing Pad"
-  },
-  {
     "repo": "daniil15ddd/autodrill-reworked-",
     "internalName": "autodrill",
     "name": "AutoDrill Reworked",
@@ -9892,6 +9880,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "实现了一个可以跨星球/区块传送单位的建筑，启用了旧版发射台\n代码编写：@ZenXSin\n贴图制作：@花杨永瀛\n由@一得阁拉米委托\n灵感来源：@原我心依旧如初\n\nalpha-02:\n修复无法正常发射的问题\n修复状态显示不正常的问题\n修复星球选择为oh no的问题\n修复消耗器无法正常工作的问题\n修复单位无限复制的问题\n\nalpha-03:\n新增所有s星单位都可以在e星生成\n调整了音效\n\nalpha-04:\n完善了状态的读写\n修复了在使用科技树透视时可能出现的闪退问题\n修改了一些贴图\n修复新版单位无限复制的问题\n增加单位大小判断，过大无法进入发射台\n修复了可进入载荷的判断错误\n修复未满足消耗但是正在构建时构建动画突然消失的问题\n增加建筑详细页的默认发射区块设置\n\nalpha-05:\n平衡了一定数值\n新增e星版单位发射台\n原版发射台支持多星球选择\n\nformal-01：\n修复了跨星球发射时单位消失问题\n修复了使用科技树透视时的闪退问题\n"
+  },
+  {
+    "repo": "nglam2911/lpad",
+    "internalName": "lpad",
+    "name": "LPad",
+    "author": "NgLam2911",
+    "lastUpdated": "2026-05-24T07:58:25Z",
+    "stars": 1,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Utility mod for Mindustry Landing Pad"
   },
   {
     "repo": "exxleo/exoterusmod",
@@ -12748,5 +12748,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod which allows players to custom campaign difficulty(TODO: music and etc.)"
+  },
+  {
+    "repo": "strawbreecake/liquidustry",
+    "internalName": "liquidustry",
+    "name": "LiquiDustry",
+    "author": "StrawbreeCake",
+    "lastUpdated": "2026-05-24T05:48:32Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Transport liquids with drones!"
   }
 ]
