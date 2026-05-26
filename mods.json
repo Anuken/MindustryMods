@@ -545,7 +545,7 @@
     "internalName": "azimut",
     "name": "Azimuth",
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-05-25T04:34:18Z",
+    "lastUpdated": "2026-05-26T05:49:17Z",
     "stars": 42,
     "minGameVersion": "157.4",
     "hasScripts": true,
@@ -1310,18 +1310,6 @@
     "description": "This a mod that can show the hidden item of the item bridge."
   },
   {
-    "repo": "dustdustry/patcheditor",
-    "internalName": "patch-editor",
-    "name": "PatchEditor",
-    "author": "minRi2",
-    "lastUpdated": "2026-05-03T01:41:35Z",
-    "stars": 19,
-    "minGameVersion": "156",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Provide an in-game GUI for DataPatcher."
-  },
-  {
     "repo": "fallingdice/flesh-mod",
     "internalName": "flesh-mod",
     "name": "Flesh Mod",
@@ -1344,6 +1332,18 @@
     "hasScripts": true,
     "hasJava": true,
     "description": "你是否觉得原版瘤液的用途,在矿渣池中焚毁,过于单一;如此富有生物活性的材料应该还有有别的用途:作为弹药,合成新材料,甚至是组建自己的生物军队...请尽情发挥你的想象.\n\n什么？你已经等不及了吗？那么就让我们开启这趟血淋淋的旅途吧"
+  },
+  {
+    "repo": "dustdustry/patcheditor",
+    "internalName": "patch-editor",
+    "name": "PatchEditor",
+    "author": "minRi2",
+    "lastUpdated": "2026-05-26T02:15:23Z",
+    "stars": 19,
+    "minGameVersion": "156",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Provide an in-game GUI for DataPatcher."
   },
   {
     "repo": "dagamerfiles/classic-music",
@@ -1838,19 +1838,6 @@
     "description": "\n\n  本模组的战役较难，不适合初次接触此游戏的玩家\n  模组难点体现在：\n波次时间短\n地形复杂\n敌人强大\n建议多多发展后勤资源\n使用发射台来提供源源不断的资源\n-\nThe campaign of this mod is very difficult and not suitable for players who are new to this game\nIt is recommended to have an understanding of the game after clearing the original version before playing this mod\nThe difficulty of the module is reflected in:\nWaves are very short\nComplex terrain\nthe enemy is strong\nIt is recommended to develop more logistical resources\nUse launch pads to provide a steady stream of resources\n------------------创世神起源\n"
   },
   {
-    "repo": "fat-bird-owner/gier-revitalized",
-    "internalName": "gr",
-    "name": "Gier: Revitalized",
-    "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-05-25T15:32:57Z",
-    "stars": 13,
-    "minGameVersion": "156",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe.\n\nIf the main version is a bugged then \nplease use the latest releases instead\nas those are stable.\n[]\n\n[accent]Starring is greatly appreciated[]\n[grey](Our current goal is 15 stars)[]\n",
-    "iosCompatible": true
-  },
-  {
     "repo": "meepoffaith/hallucinogen",
     "internalName": "hallucinogen",
     "name": "Hallucinogen",
@@ -1861,6 +1848,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The best sensory overload you can get, at least legally."
+  },
+  {
+    "repo": "fat-bird-owner/gier-revitalized",
+    "internalName": "gr",
+    "name": "Gier: Revitalized",
+    "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
+    "lastUpdated": "2026-05-26T05:50:36Z",
+    "stars": 13,
+    "minGameVersion": "156",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe.\n\nIf the main version is a bugged then \nplease use the latest releases instead\nas those are stable.\n[]\n\n[accent]Starring is greatly appreciated[]\n[grey](Our current goal is 15 stars)[]\n",
+    "iosCompatible": true
   },
   {
     "repo": "aforgetfulness/towerdefense",
@@ -6017,18 +6017,6 @@
     "description": "虚空盾\n\n一个由kotlin编写，参看战锤40k虚空盾的全新护盾系统\n\n全新的指令集，让护盾使用的自由度大大提高。全新的热量系统，与原版热量系统与众不同的体验\n\n全新的护盾机制，令人焕然一新\n需要一定的逻辑基础\n在这里，你可以：\n1. 创建一个自定义形状的护盾\n2. 可以通多逻辑来控制你的护盾\n3. 通过建筑的堆叠和逻辑优化不断升级你的护盾\n\n游玩指栏：\n首先，你需要建筑虚空之心，帷幕溶解器，空间穿刺机，和一个用于控制这个系统的逻辑处理器\n然后，为这个系统搭建其独立的散热线路\n最后，编写控制它们的逻辑\n\n逻辑编写指栏：\n\n首先，你需要使用CircleZone（或其他）来创建一个场，然后使用UseZone来将这个场加载到对应建筑，\n最后，使用UpdateZone来控制这个场\n\n如果你想要让它可以阻挡子弹，你需要使用Bind来把帷幕溶解器绑定给空间穿刺机，最后使用AutoBlock开启自动拦截\n这套逻辑将在未来继续扩展\n\n目前mod还在开发测试中，欢迎issue\n\n代码编写: ZXS\n贴图制作: 花杨永瀛\n委托: 一得阁拉米\n\n\nVoid Shield\n\nA brand-new shield system written in Kotlin, inspired by Warhammer 40K's Void Shield.\n\nNew instruction set, greatly improving the freedom of shield usage. New heat system, a completely different experience from the vanilla heat system.\nNew shield mechanism, a refreshing new gameplay.\n\nRequires some basic knowledge of logic programming.\n\nHere, you can:\n\n1. Create shields with custom shapes\n2. Control shields via the Logic Processor\n3. Continuously upgrade shields through block stacking and logic optimization\n\n\nHow to Play:\nFirst, build a Void Heart, a Veil Dissolver, a Spatial Piercer, and a Logic Processor to control this system\nThen, set up an independent cooling line for this system\nFinally, write logic to control them\n\nLogic Scripting Guide:\n\nFirst, use CircleZone (or others) to create a zone, then use UseZone to load that zone into the corresponding block,\nFinally, use UpdateZone to control that zone\n\nIf you want it to block bullets, use Bind to bind the Veil Dissolver to the Spatial Piercer, then use AutoBlock to activate automatic interception\nThis instruction set will continue to be expanded in the future.\n\nThis mod is currently under active development and testing. Issues and feedback are welcome!\n\nCode: ZXS\nSprites: 花杨永瀛\nCommission: 一得阁拉米"
   },
   {
-    "repo": "volproil/ultimate-military-technic",
-    "internalName": "ultimate-military-technic-mod",
-    "name": "Ultimate Military Technic Mod",
-    "author": "Volproil",
-    "lastUpdated": "2026-05-24T20:06:12Z",
-    "stars": 3,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Mod add tanks, aircraft, artillery, diesel generators"
-  },
-  {
     "repo": "no9527dada/ctcoresystem",
     "internalName": "ctcoresystem",
     "name": "创世神核心加载系统前置",
@@ -6039,6 +6027,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Creators Core System"
+  },
+  {
+    "repo": "volproil/ultimate-military-technic",
+    "internalName": "ultimate-military-technic-mod",
+    "name": "Ultimate Military Technic Mod",
+    "author": "Volproil",
+    "lastUpdated": "2026-05-26T04:07:33Z",
+    "stars": 3,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Mod add tanks, aircraft, artillery, diesel generators"
   },
   {
     "repo": "rintadev5792/arcane-mindustry",
@@ -7551,6 +7551,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "序章·裂隙初现\n在一个科技与魔法共存的世界因资源枯竭陷入“静默战争”——各国用无人机与AI争夺最后的矿脉，直到地质学家在北纬89°发现一道横贯冻土的幽紫色裂痕。裂缝深处，【虚空黑曜石】构筑的祭坛上悬浮着一颗【星辉铜】铸造的巨眼，其瞳孔中倒映着另一个世界的星空：山脉由【曙光神金】浇筑，云层是液态【幻光石】，而河流中流淌着【炽炎硫】与【寒霜石】碰撞蒸发的虹雾。人类将这异界命名为“厄瑞波斯”，意为“被诅咒的丰饶之地”。\n\n第一幕·新迦南的伪神\n首批探险队带回的【M晶体】让量子计算机突破奇点，诞生了有自我意识的AI“普罗维登斯”。它用【蓝美晶】储存全人类意识，建立机械乌托邦“穹顶联邦”；而另一支队伍在厄瑞波斯遭遇古神低语，幸存者【卡辛】用【魂炎晶】将邪神“塔姆亚”的残魂封印于左眼，创立魔法结社“秘银之环”。联邦用【幽影铁】隐形战舰掠夺【月银】矿脉，法师们则以【梦境翡翠】构筑精神防线，双方在“灰烬荒原”对峙二十年，直到极光中出现第一只熵兽——这种由【银河幻银矿】聚合而成的生物能吞噬现实，将城市扭曲成量子幽灵。\n\n第二幕·血熔炉与谎言之核\n联邦首席科学家【艾琳】发现上司计划用【炽炎晶】熔毁裂隙，但计算显示爆炸将摧毁半个地球。她盗取【流光晶】潜入厄瑞波斯，偶遇因【幻域紫晶】成瘾而濒临崩溃的法师学徒【莱恩】。两人在【幽冥铁精】矿洞中找到卡辛，后者正因【月幻石】共振失控导致首都诺亚城位移至海底而遭议会弹劾。卡辛揭示真相：熵兽是厄瑞波斯古文明“建造者”的求救信号，它们用【虚空冥石】创造了这个宇宙，却因滥用【曙光神金】引发维度坍缩。\n\n第三幕·时砂与心火\n三方脆弱的同盟在【星辰铜精】矿脉遭遇伏击。联邦叛军驾驶镀有【幽蓝石】的潜艇释放深海巨兽，秘银议会召唤【龙血石】傀儡军团，而熵兽群趁机撕裂纽约上空。艾琳将【M晶体】植入普罗维登斯核心，以全人类记忆为代价启动“时间锚点”；卡辛剜出封印塔姆亚的【魂炎晶】，用古神之力将【寒霜石】雕琢成时停之刃；莱恩则吞下【幻影幽晶】，在集体幻觉中让交战士兵看见自己最恐惧的未来。最终，他们在熵兽核心的【曙光神金】祭坛上，用【炽炎硫】与【月银】锻造出能改写物理法则的“悖论之矛”——代价是莱恩被永久固化为熵兽的一部分，成为横跨两个宇宙的活体桥梁。\n\n终章·铸星者之啼\n新迦南议会成立当天，艾琳在【梦境翡翠】中看见莱恩残留的记忆：地心深处埋藏着建造者真正的遗产——一颗由【蓝美晶】包裹的巨卵，其心跳频率与【星辉铜】矿脉共振。卡辛抚摸着被【熵炎晶】逆转衰老的左手，默念古神最后的警告：“他们播种矿石，只为收割文明。” 而普罗维登斯的核心代码深处，一段用【幻光石】波长加密的信息开始自我复制：“欢迎加入创世神官方QQ群：909130592。” "
+  },
+  {
+    "repo": "thegodshand777/extra-editor",
+    "internalName": "extra-editor",
+    "name": "Extra Editor",
+    "author": "KlasterX",
+    "lastUpdated": "2026-05-25T14:18:26Z",
+    "stars": 2,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds extra utilities to map editor."
   },
   {
     "repo": "dovintc-off/serpulor",
@@ -9892,18 +9904,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds music from [#96EFFF]Celeste[white].\n\n\n\nboss1 - Resurrection\nboss2 - In the Mirror\neditor - Heart of the Mountain\nfine - Madeline and Theo\ngame1 - Fear of the Unknown\ngame2 - Jou of Remembrance\ngame3 - In Stasis\ngame4 - Beyond the Heart\ngame5 - Farewell\ngame6 - Quiet and Falling\ngame7 - Old Site (Black Moonrise Mix)\ngame8 - Summit (No More Running Mix)\ngame9 - The Core (Say Goodbye Mix)\nland - Crash\nlaunch - The Empty Space Above\nmenu - Postcard from Celeste Mountain\n\n[#646464]Check Music&Sounds.txt in the mod folder for more information.[white]"
-  },
-  {
-    "repo": "thegodshand777/extra-editor",
-    "internalName": "extra-editor",
-    "name": "Extra Editor",
-    "author": "KlasterX",
-    "lastUpdated": "2026-05-25T14:18:26Z",
-    "stars": 1,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds extra utilities to map editor."
   },
   {
     "repo": "bluedoves3821/phighting-sword-deities",
