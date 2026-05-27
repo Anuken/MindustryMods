@@ -4,7 +4,7 @@
     "internalName": "new-horizon",
     "name": "New Horizon",
     "author": "Yuria & Lao",
-    "lastUpdated": "2026-05-27T10:42:45Z",
+    "lastUpdated": "2026-05-27T12:03:05Z",
     "stars": 579,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -64,7 +64,7 @@
     "internalName": "schema",
     "name": "Schema",
     "author": "xzxADIxzx",
-    "lastUpdated": "2026-05-26T17:58:32Z",
+    "lastUpdated": "2026-05-27T14:06:57Z",
     "stars": 230,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -89,7 +89,7 @@
     "name": "Mindustry Tool",
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
     "lastUpdated": "2026-05-04T12:07:02Z",
-    "stars": 217,
+    "stars": 218,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
@@ -293,7 +293,7 @@
     "name": "PicToLogic",
     "author": "deltanedas, Router and another guy",
     "lastUpdated": "2023-06-14T01:47:58Z",
-    "stars": 79,
+    "stars": 80,
     "minGameVersion": "136",
     "hasScripts": true,
     "hasJava": false,
@@ -340,7 +340,7 @@
     "internalName": "tmi",
     "name": "Too Many Items",
     "author": "EBwilson",
-    "lastUpdated": "2026-05-27T09:06:41Z",
+    "lastUpdated": "2026-05-27T14:17:14Z",
     "stars": 66,
     "minGameVersion": "157.1",
     "hasScripts": false,
@@ -1022,6 +1022,18 @@
     "description": "hehe angish go nrrrt\n\n\ntargets:\n\n- vanilla\n\n- foo's client (builtin)\n\n- SMOLKEYS/yellow-java (extension)"
   },
   {
+    "repo": "apszoldat/mindustrymappingutilities",
+    "internalName": "mapping-utilities",
+    "name": "Mapping Utilities",
+    "author": "ApsZoldat",
+    "lastUpdated": "2026-05-26T10:27:07Z",
+    "stars": 22,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Small Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\n\nImprovements:\n\n- Complete Rework of The Editor\n- More Rules Available\n- Better Map Editor Dialogs\n- Planet Background Editing\n- Map Size Bypass\n\n\nCheck README.md in GitHub repo for more detailed information about these features\n\n! Work In Progress !\nMore map making tools will be added in future"
+  },
+  {
     "repo": "laohuajiofficial/freightfactory",
     "internalName": "ff",
     "name": "FreightFactory",
@@ -1128,18 +1140,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds some new additional classes to help hjson modders. \nNote: this a library. Not playable mod."
-  },
-  {
-    "repo": "apszoldat/mindustrymappingutilities",
-    "internalName": "mapping-utilities",
-    "name": "Mapping Utilities",
-    "author": "ApsZoldat",
-    "lastUpdated": "2026-05-26T10:27:07Z",
-    "stars": 21,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Small Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\n\nImprovements:\n\n- Complete Rework of The Editor\n- More Rules Available\n- Better Map Editor Dialogs\n- Planet Background Editing\n- Map Size Bypass\n\n\nCheck README.md in GitHub repo for more detailed information about these features\n\n! Work In Progress !\nMore map making tools will be added in future"
   },
   {
     "repo": "jjthecold/cataclysm-mod",
@@ -1854,7 +1854,7 @@
     "internalName": "gr",
     "name": "Gier: Revitalized",
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-05-27T10:55:08Z",
+    "lastUpdated": "2026-05-27T13:46:25Z",
     "stars": 13,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -1999,7 +1999,7 @@
     "internalName": "wastebound",
     "name": "Wastebound",
     "author": "Jonathan Not Quite My Tempo",
-    "lastUpdated": "2026-05-26T20:14:08Z",
+    "lastUpdated": "2026-05-27T14:37:09Z",
     "stars": 12,
     "minGameVersion": "155",
     "hasScripts": true,
@@ -2619,18 +2619,6 @@
     "description": "Adds New sector, units and buildings to the game, all zerg flavored.\nWhat does this mod offer?\n - Hardmode and normal mode \n - Campain map for serpulo\n - Possibly a new planet?\n - A bunch of zerggy unit and structure\n - Lore\nRemember to star the mod on github if you enjoy it!"
   },
   {
-    "repo": "huanxefh/project-reindustrialization",
-    "internalName": "projreind",
-    "name": "Project Reindustrialization",
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-05-20T10:42:51Z",
-    "stars": 9,
-    "minGameVersion": "156",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "OBJECTIVE: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with realistic and hardcore production.\n- Peaceful sectors focused on mass production.\n- A separate and complex tech tree.\n- Tons of multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\nThis mod is part of Lovecraftian series, which requires Lovecraftian Library and Lovecraftian Laboratory.\n\nWARNING: RECIPE HELL AHEAD!"
-  },
-  {
     "repo": "slashkig/astranium-mod",
     "internalName": "astramod",
     "name": "Operation: Aziris",
@@ -2653,6 +2641,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": " [accent]以战锤40k为原型的MOD[],设定与qq群链接可以到 [accent]模组简介[]里面找\n[sky]QQ群316481519[]\n[unlaunched]贡献者:DOC-A-7244(bundles和翻译),Eipusino(java技术指导)[]\n [accent]The MOD based on Warhammer 40k[], with its settings and links to the QQ group, can be found in the  [accent]mod introduction[]\n[sky]QQ group 316481519[]\nDiscord will consider adding features in its subsequent improvements\n[unlaunched]Contributors: DOC-A-7244 (bundles and translation), Eipusino (Java technical guidance)[]"
+  },
+  {
+    "repo": "huanxefh/project-reindustrialization",
+    "internalName": "projreind",
+    "name": "Project Reindustrialization",
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-05-27T13:46:36Z",
+    "stars": 9,
+    "minGameVersion": "158",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "OBJECTIVE: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with realistic and hardcore production.\n- Peaceful sectors focused on mass production.\n- A separate and complex tech tree.\n- Tons of multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\nThis mod is part of Lovecraftian series, which requires Lovecraftian Library and Lovecraftian Laboratory.\n\nWARNING: RECIPE HELL AHEAD!"
   },
   {
     "repo": "toriwake/kannadustry",
@@ -3280,30 +3280,6 @@
     "description": "It's Mars mod."
   },
   {
-    "repo": "huanxefh/lovecraftian-library-java",
-    "internalName": "lovec",
-    "name": "Lovecraftian Library",
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-05-20T10:39:21Z",
-    "stars": 7,
-    "minGameVersion": "156",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "A JavaScript library for my other mods, with codes for multi-crafters, recipe dictionary, damage display, etc.\nWell, not 100% JavaScript."
-  },
-  {
-    "repo": "huanxefh/lovecraftian-laboratory",
-    "internalName": "loveclab",
-    "name": "Lovecraftian Laboratory",
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-05-20T10:40:21Z",
-    "stars": 7,
-    "minGameVersion": "156",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "The base mod for Lovecraftian series that adds essential resource, chemicals, environmental blocks and planets."
-  },
-  {
     "repo": "oscaremoran/beyondserpulo-mod",
     "internalName": "xorinal",
     "name": "Beyond Serpulo",
@@ -3326,6 +3302,30 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "cook MOD is FUN"
+  },
+  {
+    "repo": "huanxefh/lovecraftian-library-java",
+    "internalName": "lovec",
+    "name": "Lovecraftian Library",
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-05-27T13:45:35Z",
+    "stars": 7,
+    "minGameVersion": "158",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "A JavaScript library for my other mods, with codes for multi-crafters, recipe dictionary, damage display, etc.\nWell, not 100% JavaScript."
+  },
+  {
+    "repo": "huanxefh/lovecraftian-laboratory",
+    "internalName": "loveclab",
+    "name": "Lovecraftian Laboratory",
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-05-27T13:46:04Z",
+    "stars": 7,
+    "minGameVersion": "158",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "The base mod for Lovecraftian series that adds essential resource, chemicals, environmental blocks and planets."
   },
   {
     "repo": "zerattel/mindustry-red-alert-3-soundtrack-pack",
@@ -4094,18 +4094,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "adds 65-85 popups on startup"
-  },
-  {
-    "repo": "jirocab/caster-ui-java",
-    "internalName": "caster-ui-java",
-    "name": "Caster User interface",
-    "author": "RushieWashie, WMF Industries",
-    "lastUpdated": "2025-08-27T05:34:44Z",
-    "stars": 5,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Aming to make the client a bit better for casting! with ease of use, simplicity and elegance in mind \n \n Java rewrite of 'JiroCab/Caster-Ui' which was based off 'Ferlern/extended-UI' \nconflicts with 'Ferlern/extended-UI'  \n\nPLEASE DON'T THIS FOR AN ADVANTAGE IN PVP THANKS \n\n Check Releases for v8 or v7 Versions"
   },
   {
     "repo": "determination-wind/more-details",
@@ -5825,18 +5813,6 @@
     "description": "Automatically export and import your save."
   },
   {
-    "repo": "m1cxzfw3q/logicextend",
-    "internalName": "logic-extend",
-    "name": "Logic Extend",
-    "author": "[sky]114514[white]",
-    "lastUpdated": "2026-04-12T06:10:03Z",
-    "stars": 3,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "让逻辑再次伟大！\nMake Logic Great Again!"
-  },
-  {
     "repo": "shatteredskies/mindustry-mass-driver-logic",
     "internalName": "mass-driver-logic",
     "name": "Mass-Driver Logic",
@@ -6039,6 +6015,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Mod add tanks, aircraft, artillery, diesel generators"
+  },
+  {
+    "repo": "m1cxzfw3q/logicextend",
+    "internalName": "logic-extend",
+    "name": "Logic Extend",
+    "author": "[sky]114514[white]",
+    "lastUpdated": "2026-05-27T14:22:27Z",
+    "stars": 3,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "让逻辑再次伟大！\nMake Logic Great Again!"
   },
   {
     "repo": "rintadev5792/arcane-mindustry",
@@ -7491,6 +7479,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Очередной никому ненужный схемпак."
+  },
+  {
+    "repo": "determination-wind/foreignservertranslator",
+    "internalName": "foreign-server-translator",
+    "name": "Foreign Server Translator / 外语服务器翻译",
+    "author": "DeterMination (BEK)",
+    "lastUpdated": "2026-05-24T00:30:12Z",
+    "stars": 2,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Client-side translator for marked foreign-language Mindustry servers. / 标记外语服务器后自动翻译聊天的 Mindustry 客户端模组。"
   },
   {
     "repo": "128oteml/proximacentauri",
@@ -9762,18 +9762,6 @@
     "description": "Mindustry mod that adds new content each sector I visit \n \n Version 0.1 (Each time I add a new content to the game i add + 0.1 to the Version [0.01 if it is the hot fix])"
   },
   {
-    "repo": "ottocolten/ottos-advancing-machines",
-    "internalName": " advancing-machines",
-    "name": " otto's Advancing machines",
-    "author": " ottocolten",
-    "lastUpdated": "2026-05-19T17:59:50Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Are the current high-tier Erekir machines boring? Update taking too long to release? Well dont worry, as this mods [will add] tons of stronger and higher-tier units, turrets, factories, etc! (My First Real Mod!)/n By the way, this mod is my gonna be my big main mod, with the most stuff gonna be in it then any other mod ill make./n Therefore, expect this mod to take MAAANNNNYY months :3"
-  },
-  {
     "repo": "fhgdhgvhggvfgg/mindustry_stickers_cheetah",
     "internalName": "sticker",
     "name": "cheetah girl sticker",
@@ -9858,18 +9846,6 @@
     "description": "实现了一个可以跨星球/区块传送单位的建筑，启用了旧版发射台\n代码编写：@ZenXSin\n贴图制作：@花杨永瀛\n由@一得阁拉米委托\n灵感来源：@原我心依旧如初\n\nalpha-02:\n修复无法正常发射的问题\n修复状态显示不正常的问题\n修复星球选择为oh no的问题\n修复消耗器无法正常工作的问题\n修复单位无限复制的问题\n\nalpha-03:\n新增所有s星单位都可以在e星生成\n调整了音效\n\nalpha-04:\n完善了状态的读写\n修复了在使用科技树透视时可能出现的闪退问题\n修改了一些贴图\n修复新版单位无限复制的问题\n增加单位大小判断，过大无法进入发射台\n修复了可进入载荷的判断错误\n修复未满足消耗但是正在构建时构建动画突然消失的问题\n增加建筑详细页的默认发射区块设置\n\nalpha-05:\n平衡了一定数值\n新增e星版单位发射台\n原版发射台支持多星球选择\n\nformal-01：\n修复了跨星球发射时单位消失问题\n修复了使用科技树透视时的闪退问题\n"
   },
   {
-    "repo": "determination-wind/foreignservertranslator",
-    "internalName": "foreign-server-translator",
-    "name": "Foreign Server Translator / 外语服务器翻译",
-    "author": "DeterMination (BEK)",
-    "lastUpdated": "2026-05-24T00:30:12Z",
-    "stars": 1,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Client-side translator for marked foreign-language Mindustry servers. / 标记外语服务器后自动翻译聊天的 Mindustry 客户端模组。"
-  },
-  {
     "repo": "nglam2911/lpad",
     "internalName": "lpad",
     "name": "LPad",
@@ -9894,18 +9870,6 @@
     "description": "Adds music from [#96EFFF]Celeste[white].\n\n\n\nboss1 - Resurrection\nboss2 - In the Mirror\neditor - Heart of the Mountain\nfine - Madeline and Theo\ngame1 - Fear of the Unknown\ngame2 - Jou of Remembrance\ngame3 - In Stasis\ngame4 - Beyond the Heart\ngame5 - Farewell\ngame6 - Quiet and Falling\ngame7 - Old Site (Black Moonrise Mix)\ngame8 - Summit (No More Running Mix)\ngame9 - The Core (Say Goodbye Mix)\nland - Crash\nlaunch - The Empty Space Above\nmenu - Postcard from Celeste Mountain\n\n[#646464]Check Music&Sounds.txt in the mod folder for more information.[white]"
   },
   {
-    "repo": "lu69159/morecustomsettings",
-    "internalName": "mcs",
-    "name": "More Custom Settings",
-    "author": "Space",
-    "lastUpdated": "2026-05-26T13:57:38Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod which allows players to custom campaign difficulty, custom music and so on.\n一个允许玩家自定义战役难度，音乐等选项的模组。"
-  },
-  {
     "repo": "fhgdhgvhggvfgg/cheetah_girl",
     "internalName": "cheetah girl",
     "name": "cheetah girl",
@@ -9928,6 +9892,30 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod about The Swords from PHIGHTING!\nPossibly unbalanced content."
+  },
+  {
+    "repo": "ottocolten/ottos-advancing-machines",
+    "internalName": " advancing-machines",
+    "name": " otto's Advancing machines",
+    "author": " ottocolten",
+    "lastUpdated": "2026-05-27T13:41:50Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Are the current high-tier Erekir machines boring? Update taking too long to release? Well dont worry, as this mods [will add] tons of stronger and higher-tier units, turrets, factories, etc! (My First Real Mod!)/n By the way, this mod is my gonna be my big main mod, with the most stuff gonna be in it then any other mod ill make./n Therefore, expect this mod to take MAAANNNNYY months :3"
+  },
+  {
+    "repo": "lu69159/morecustomsettings",
+    "internalName": "mcs",
+    "name": "More Custom Settings",
+    "author": "Space",
+    "lastUpdated": "2026-05-27T14:15:13Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod which allows players to custom campaign difficulty, custom music and so on.\n一个允许玩家自定义战役难度，音乐等选项的模组。"
   },
   {
     "repo": "exxleo/exoterusmod",
