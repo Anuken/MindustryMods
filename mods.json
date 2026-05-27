@@ -4,8 +4,8 @@
     "internalName": "new-horizon",
     "name": "New Horizon",
     "author": "Yuria & Lao",
-    "lastUpdated": "2026-05-26T18:54:15Z",
-    "stars": 578,
+    "lastUpdated": "2026-05-27T10:42:45Z",
+    "stars": 579,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
@@ -340,7 +340,7 @@
     "internalName": "tmi",
     "name": "Too Many Items",
     "author": "EBwilson",
-    "lastUpdated": "2026-05-25T13:57:20Z",
+    "lastUpdated": "2026-05-27T09:06:41Z",
     "stars": 66,
     "minGameVersion": "157.1",
     "hasScripts": false,
@@ -1634,18 +1634,6 @@
     "description": "Your schemes and saves are prone to corruption. Export your data before updating.\n\nAn extremely large mod solely dedicated for mindustry roleplaying and builds alike.\n\nQRM V7.1 aims to fix most of the bugs found after v7's release.\nQRM v7 Changelog:\nAdded\n- Beveled sorters, Highlighted sorters, and Unloader Two chiseled sets\n- Way, way more chiseled diagonal variants \n- Chiseled diagonal duct router and bezeled sets\n- Hazel, Tyrian, Royal, Terracotta, Pale, Graphene Walls\n- Ash and Alternate sand and red sand env walls \n- RGBCMY + White, Black Overlay floors\n- CMY, Sorter gray + Source yellow floors\n- Thunder, Windstorm, Thunderstorm, Rain and Ping SFX blocks\n- Void messages\n- Vials readded\n- Message blocks that look like RP books\n- [WIP] Particle gen with changeable colours via ammo\n- Powerline Blockers (invisible plast walls)\n- Arrow block that looks like a logic block (Path Cell)\n- Ritual circles\n\nFixed\n- Large slate message being omega\n- Flat surge router is flat unloader\n- Stone colour walls being named snow\n- Cruiser being implemented\n- Slower emanates\n- All unit building\n- Rocky en stairs being offset\n- Config mender now a unloader\n- Config nodes having glow\n- Unloader two a sorter now\n- Revert noise sorter changes, now unlegacy'd\n\nQRM v7.1 Changelog\nFixed\n- Bezeled chiseled side-line being offset\n- Transperant, white, black item source having the wrong name\n- Liquid router source not having a texture\n- Particle generators not being invisible \n- Normal, inverted, highlight, bezel, spectral, source centered corners, diagonal router corner 3 being offset\n- Config stuff not being flat\n- Sorter gray colour 5 being olive\n- Open Item Vial not being able to rotate\n- Full liquid vials being able to rotate, even they can't visually\n- Books resprite\n\nAdded\n- Borderless item source (for SFX turrets)\n- Flat beveled, highlight sorters\n- More books\n- Duct router catears\n\nRemoved\n- Extra surge router slope corner\n\nVersion v7.1 "
   },
   {
-    "repo": "traincrisis/serpuloplus",
-    "internalName": "serpuloplus",
-    "name": "Serpulo+",
-    "author": "[#984cd7]ThePul[#833edd]lerCell",
-    "lastUpdated": "2026-05-14T12:51:04Z",
-    "stars": 14,
-    "minGameVersion": "157",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A massive expansion of Serpulo, featuring a variety of new things:\n\n- New tiers for a variety of blocks, from [#9a9fb4]Scrap[white] to [#4a90ad]Cryogenic[white], existing for item distribution blocks, as Pneumatic Drill upgrades, and to the Power Node and Solar Panel with the large variant.\n\n- Upgrades for factory blocks from vanilla, including the Oven as an upgrade to the Kiln, Plastanium Infuser as an upgrade to the Plastanium Compressor, Phase Loom as an upgrade to the Phase Weaver, etc.\n\n- Expanded scrap processing lines: Specific Separators which separate slag down into specific items, and the Scrap Compactor which turns Graphite, Titanium and Thorium into Scrap.\n\n- And more! More stuff existing includes the Core: Apex with the Delta core unit, Spore Invader and Collector, and the Cell Incubator and Reactor.\n\nCredits:\n\n- [#ff]T[#b]w[#5]e[#2]u[white] (tinnphat_ on Discord), for spriting most old sprites in the mod, aswell as continuing Renn's work. \n\n- red.id9990 on Discord, for spriting most new sprites in the mod. \n\n- [#8cff00]Telesteel[white] (giga_chad96 on Discord) for Tesla turret sprite. \n\n The V-Cell (no account on Discord) for making idea for Rowhammer."
-  },
-  {
     "repo": "wytniks/kill-reward-mod-25frame",
     "internalName": "kill-reward-mod-25frame",
     "name": "Kill Reward Mod",
@@ -1692,6 +1680,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod centered around fighting bosses, with a focus on pattern-based attacks. Entirely detached from Mindustry's traditional gameplay loop - The Virtuality Archives restrains the player in a measly vessel and pits them against encoded entities. Does not utilize scripts or Java, seeking to explore the technical scope of (H)JSON and MLOG. Best experienced with a mouse and keyboard.\n\nCurrently features [red]6/7[] planned bosses in the campaign - Candor, Ardent & Argent, Pandemonium, Misanthrope, Nyx, and Alluvion.\n\n[accent][i] In the campaign, Misanthrope's sector currently does not behave as intended for the latest stable build. Play the sector in Custom Game or build 157.4."
+  },
+  {
+    "repo": "traincrisis/serpuloplus",
+    "internalName": "serpuloplus",
+    "name": "Serpulo+",
+    "author": "[#984cd7]ThePul[#833edd]lerCell",
+    "lastUpdated": "2026-05-27T08:10:31Z",
+    "stars": 14,
+    "minGameVersion": "157",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A massive personalized content expansion for Serpulo.\nMost of the content in this mod is my vision for what I wanted to be in the game, yet isn't.\n\nContent included:\n- 2 more tiers for every vanilla crafter\n- The Alloy Trio, composed of Neoplastic, Cryogenic and Ultimatter alloys, each having its own large set of blocks made out of them\n- Four new fluids: Lubricant, Steam, Lava, and Quantofluid, plus a new ingredient called Magmatite\n- Liquid capsules, which allow for the transportation of liquids in the form of items, for things like cross-sector transportation via export, or long range transportation over terrain via mass driver.\n\nCredits:\n- Myself obviously, for implementing all the content in the mod.\n- red.id9990 for spriting the vanilla crafter upgrades\n- tinnphat_ for spriting almost every remaining block\n- giga_chad96 for the sprite of Voltage, and Tesla"
   },
   {
     "repo": "shadowpazzo99/shadowdustry",
@@ -1854,7 +1854,7 @@
     "internalName": "gr",
     "name": "Gier: Revitalized",
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-05-27T03:58:16Z",
+    "lastUpdated": "2026-05-27T10:55:08Z",
     "stars": 13,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -2631,28 +2631,28 @@
     "description": "OBJECTIVE: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with realistic and hardcore production.\n- Peaceful sectors focused on mass production.\n- A separate and complex tech tree.\n- Tons of multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\nThis mod is part of Lovecraftian series, which requires Lovecraftian Library and Lovecraftian Laboratory.\n\nWARNING: RECIPE HELL AHEAD!"
   },
   {
-    "repo": "laomoze/warhammer",
-    "internalName": "wh",
-    "name": "WarHammer",
-    "author": "LaoMoze",
-    "lastUpdated": "2026-05-20T17:29:14Z",
-    "stars": 9,
-    "minGameVersion": "154.2",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "以战锤40k为原型的MOD,设定与qq群链接可以到模组简介里面找\nQQ群316481519\n贡献者DOC-A-7244(bundles和翻译),Eipusino(java技术指导)"
-  },
-  {
     "repo": "slashkig/astranium-mod",
     "internalName": "astramod",
     "name": "Operation: Aziris",
     "author": "Slashkig, IAmRustee, VoidThreader",
-    "lastUpdated": "2026-05-26T11:36:02Z",
+    "lastUpdated": "2026-05-27T07:47:12Z",
     "stars": 9,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
     "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
+  },
+  {
+    "repo": "laomoze/warhammer",
+    "internalName": "wh",
+    "name": "WarHammer",
+    "author": "[yellow]Lao[gold]Mo[goldenrod]ze",
+    "lastUpdated": "2026-05-27T08:34:14Z",
+    "stars": 9,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": " [accent]以战锤40k为原型的MOD[],设定与qq群链接可以到 [accent]模组简介[]里面找\n[sky]QQ群316481519[]\n[unlaunched]贡献者:DOC-A-7244(bundles和翻译),Eipusino(java技术指导)[]\n [accent]The MOD based on Warhammer 40k[], with its settings and links to the QQ group, can be found in the  [accent]mod introduction[]\n[sky]QQ group 316481519[]\nDiscord will consider adding features in its subsequent improvements\n[unlaunched]Contributors: DOC-A-7244 (bundles and translation), Eipusino (Java technical guidance)[]"
   },
   {
     "repo": "toriwake/kannadustry",
@@ -9894,18 +9894,6 @@
     "description": "Adds music from [#96EFFF]Celeste[white].\n\n\n\nboss1 - Resurrection\nboss2 - In the Mirror\neditor - Heart of the Mountain\nfine - Madeline and Theo\ngame1 - Fear of the Unknown\ngame2 - Jou of Remembrance\ngame3 - In Stasis\ngame4 - Beyond the Heart\ngame5 - Farewell\ngame6 - Quiet and Falling\ngame7 - Old Site (Black Moonrise Mix)\ngame8 - Summit (No More Running Mix)\ngame9 - The Core (Say Goodbye Mix)\nland - Crash\nlaunch - The Empty Space Above\nmenu - Postcard from Celeste Mountain\n\n[#646464]Check Music&Sounds.txt in the mod folder for more information.[white]"
   },
   {
-    "repo": "bluedoves3821/phighting-sword-deities",
-    "internalName": "sword-deities-mod",
-    "name": "PHIGHTING! SWORD DEITIES",
-    "author": "BlueDoves3821",
-    "lastUpdated": "2026-05-25T17:24:28Z",
-    "stars": 1,
-    "minGameVersion": "136.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod about The Swords from PHIGHTING!\nPossibly unbalanced content."
-  },
-  {
     "repo": "lu69159/morecustomsettings",
     "internalName": "mcs",
     "name": "More Custom Settings",
@@ -9928,6 +9916,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Make the cheetah girls fight fiercely"
+  },
+  {
+    "repo": "bluedoves3821/phighting-sword-deities",
+    "internalName": "sword-deities-mod",
+    "name": "PHIGHTING! SWORD DEITIES",
+    "author": "BlueDoves3821",
+    "lastUpdated": "2026-05-27T08:22:07Z",
+    "stars": 1,
+    "minGameVersion": "136.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod about The Swords from PHIGHTING!\nPossibly unbalanced content."
   },
   {
     "repo": "exxleo/exoterusmod",
@@ -12808,5 +12808,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "мой первий мод"
+  },
+  {
+    "repo": "foxelling/faster-and-smarter-unloader",
+    "internalName": "faster-and-smarter-unloader",
+    "name": "Faster and smarter unloader",
+    "author": "Foxel",
+    "lastUpdated": "2026-05-27T08:51:43Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Makes unloaders faster (180 items/sec) and smarter. They now exclusively push raw materials into factories and pull finished products out, completely preventing infinite transfer loops."
   }
 ]
