@@ -149,7 +149,7 @@
     "name": "Saturation Firepower Mod",
     "author": "RAdea.exe",
     "lastUpdated": "2026-05-24T08:06:05Z",
-    "stars": 132,
+    "stars": 133,
     "minGameVersion": "158",
     "hasScripts": false,
     "hasJava": true,
@@ -685,6 +685,18 @@
     "description": "A mod made by [grey]CD[], [#FC8E6C]meowkitty[] and [#ff0059]7rodo[] that overhauls the campaign, significantly modifying [#7457ce]Serpulo[]'s campaign and adding a new planet, [blue]Fieros[].\n\nAmidst the features in this mod are:\n[grey]-[] [accent]18[] New [accent]Turrets[] to defend with\n[grey]-[] [accent]21[] New [accent]Units[] to attack with\n[grey]-[] [accent]16[] New campaign [accent]Sectors[] to play on, including [accent]2 Remakes[] of vanilla sectors\n[grey]-[] [accent]Post-Surge Alloy-tier[] content for Serpulo\n[grey]-[] [accent]12[] New Miscellaneous blocks to mess around with on Serpulo\n\n[#e38a88]⚠ This mod moves Serpulo sectors around without moving their saves, backup your game data in [ SETTINGS > GAME DATA ] before enabling/disabling this mod to prevent campaign corruption if you have any campaign saves. ⚠[]\n\n[grey]Discord: https://discord.gg/9YHA3q8HHq[]"
   },
   {
+    "repo": "electricgun/cheat-codes-mod",
+    "internalName": "cheat-codes",
+    "name": "Cheat Codes Mod",
+    "author": "electricgun",
+    "lastUpdated": "2026-05-17T17:10:49Z",
+    "stars": 38,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "UPDATE: Fixed crashing on v8+\n\nAdds some rather powerful and fun powerups activated by entering the correct strings.\n\nPowerups include:\n[yellow]-Time stop\n-God mode\n-Konami code\n-Thanos snap\nand more...\n\n[white]Can be used to cheat your way through the game.\n\n[red]READ GITHUB REPO FOR CHEAT LIST"
+  },
+  {
     "repo": "deltanedas/dev-mode",
     "internalName": "dev-mode",
     "name": "Developer Mode",
@@ -695,18 +707,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Lets you type into the console.\nPress F8 to open."
-  },
-  {
-    "repo": "electricgun/cheat-codes-mod",
-    "internalName": "cheat-codes",
-    "name": "Cheat Codes Mod",
-    "author": "electricgun",
-    "lastUpdated": "2026-05-17T17:10:49Z",
-    "stars": 37,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "UPDATE: Fixed crashing on v8+\n\nAdds some rather powerful and fun powerups activated by entering the correct strings.\n\nPowerups include:\n[yellow]-Time stop\n-God mode\n-Konami code\n-Thanos snap\nand more...\n\n[white]Can be used to cheat your way through the game.\n\n[red]READ GITHUB REPO FOR CHEAT LIST"
   },
   {
     "repo": "nullotte/carpe-diem",
@@ -962,6 +962,18 @@
     "description": "Mindustry mod library which provides support for non-square blocks implementation for json mod."
   },
   {
+    "repo": "apszoldat/mindustrymappingutilities",
+    "internalName": "mapping-utilities",
+    "name": "Mapping Utilities",
+    "author": "ApsZoldat",
+    "lastUpdated": "2026-05-29T10:44:02Z",
+    "stars": 24,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Small Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\n\nImprovements:\n\n- Complete Rework of The Editor\n- More Rules Available\n- Better Map Editor Dialogs\n- Planet Background Editing\n- Map Size Bypass\n\n\nCheck README.md in GitHub repo for more detailed information about these features\n\n! Work In Progress !\nMore map making tools will be added in future"
+  },
+  {
     "repo": "mindustrydagger/vanillaplus",
     "internalName": "vanillaplus",
     "name": "VanillaPlus",
@@ -984,18 +996,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds a few distribution blocks... very few distribution blocks"
-  },
-  {
-    "repo": "apszoldat/mindustrymappingutilities",
-    "internalName": "mapping-utilities",
-    "name": "Mapping Utilities",
-    "author": "ApsZoldat",
-    "lastUpdated": "2026-05-29T08:38:26Z",
-    "stars": 23,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Small Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\n\nImprovements:\n\n- Complete Rework of The Editor\n- More Rules Available\n- Better Map Editor Dialogs\n- Planet Background Editing\n- Map Size Bypass\n\n\nCheck README.md in GitHub repo for more detailed information about these features\n\n! Work In Progress !\nMore map making tools will be added in future"
   },
   {
     "repo": "realshizi/oxynoe",
@@ -1686,7 +1686,7 @@
     "internalName": "epsilon",
     "name": "Epsilon",
     "author": "ItzJustaTeam\n\n[accent]Coders:[gray]\n• ItzCraft\n• AnDashik\n• Alnyle\n• Weersix\n\n[accent]Sprites:[gray]\n• Nahan\n\n[accent]Music Composer:[gray]\n• Ace\n\n[accent]Translators:[gray]\n• Kevin Vilyan\n• ItzCraft",
-    "lastUpdated": "2026-05-29T07:40:54Z",
+    "lastUpdated": "2026-05-29T11:47:58Z",
     "stars": 14,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -2619,18 +2619,6 @@
     "description": "Adds New sector, units and buildings to the game, all zerg flavored.\nWhat does this mod offer?\n - Hardmode and normal mode \n - Campain map for serpulo\n - Possibly a new planet?\n - A bunch of zerggy unit and structure\n - Lore\nRemember to star the mod on github if you enjoy it!"
   },
   {
-    "repo": "laomoze/warhammer",
-    "internalName": "wh",
-    "name": "WarHammer",
-    "author": "[yellow]Lao[gold]Mo[goldenrod]ze",
-    "lastUpdated": "2026-05-27T16:15:19Z",
-    "stars": 9,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": " [accent]以战锤40k为原型的MOD[],设定与qq群链接可以到 [accent]模组简介[]里面找\n[sky]QQ群316481519[]\n[unlaunched]贡献者:DOC-A-7244(bundles和翻译),Eipusino(java技术指导)[]\n [accent]The MOD based on Warhammer 40k[], with its settings and links to the QQ group, can be found in the  [accent]mod introduction[]\n[sky]QQ group 316481519[]\nDiscord will consider adding features in its subsequent improvements\n[unlaunched]Contributors: DOC-A-7244 (bundles and translation), Eipusino (Java technical guidance)[]"
-  },
-  {
     "repo": "slashkig/astranium-mod",
     "internalName": "astramod",
     "name": "Operation: Aziris",
@@ -2653,6 +2641,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "OBJECTIVE: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with realistic and hardcore production.\n- Peaceful sectors focused on mass production.\n- A separate and complex tech tree.\n- Tons of multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\nThis mod is part of Lovecraftian series, which requires Lovecraftian Library and Lovecraftian Laboratory.\n\nWARNING: RECIPE HELL AHEAD!"
+  },
+  {
+    "repo": "laomoze/warhammer",
+    "internalName": "wh",
+    "name": "WarHammer",
+    "author": "[yellow]Lao[gold]Mo[goldenrod]ze",
+    "lastUpdated": "2026-05-29T11:30:21Z",
+    "stars": 9,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": " [accent]以战锤40k为原型的MOD[],设定与qq群链接可以到 [accent]模组简介[]里面找\n[sky]QQ群316481519[]\n[unlaunched]贡献者:DOC-A-7244(bundles和翻译),Eipusino(java技术指导)[]\n [accent]The MOD based on Warhammer 40k[], with its settings and links to the QQ group, can be found in the  [accent]mod introduction[]\n[sky]QQ group 316481519[]\nDiscord will consider adding features in its subsequent improvements\n[unlaunched]Contributors: DOC-A-7244 (bundles and translation), Eipusino (Java technical guidance)[]"
   },
   {
     "repo": "toriwake/kannadustry",
@@ -7565,18 +7565,6 @@
     "description": "Reworks Serpulo's sectors and mechanics (not all of Serpulos mechanics), including extra sectors, remade sectors, and difficulty changes.\n\n[#808080]More About Authors:\n[white]Concept: nclr\n\nTranslator: Dovintc, nclr\n\nArtist: Anuken (Base Assets)\n\nAssets: Dovintc\n\nMap: nclr"
   },
   {
-    "repo": "aevorlum/liminal-protocol",
-    "internalName": "lp",
-    "name": "Liminal Protocol",
-    "author": "[red]AEvoRIum",
-    "lastUpdated": "2026-05-28T23:23:53Z",
-    "stars": 2,
-    "minGameVersion": "157",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "[red]俺寻思之力"
-  },
-  {
     "repo": "leinadhq/voltaprotocolmod",
     "internalName": "volta-protocol",
     "name": "Volta Protocol",
@@ -7599,6 +7587,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Этот мод добавляет ни шиша,ни гроша, ни бомжа, так как находится в тестировании"
+  },
+  {
+    "repo": "aevorlum/liminal-protocol",
+    "internalName": "lp",
+    "name": "Liminal Protocol",
+    "author": "[red]AEvoRIum",
+    "lastUpdated": "2026-05-29T11:40:13Z",
+    "stars": 2,
+    "minGameVersion": "157",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "[red]俺寻思之力"
   },
   {
     "repo": "no9527dada/skin",
@@ -9952,6 +9952,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod about The Swords from PHIGHTING!\nPossibly unbalanced content."
+  },
+  {
+    "repo": "wantechfan/mindustry-overpowered-scathe",
+    "internalName": "overpowered-scathe",
+    "name": "Overpowered Scathe",
+    "author": "WantechFan",
+    "lastUpdated": "2026-05-28T11:38:17Z",
+    "stars": 1,
+    "minGameVersion": "155.2",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Buffs Scathe."
   },
   {
     "repo": "lu69159/morecustomsettings",
@@ -12856,18 +12868,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds an improved junction with increased throughput (20 items/sec)"
-  },
-  {
-    "repo": "wantechfan/mindustry-overpowered-scathe",
-    "internalName": "overpowered-scathe",
-    "name": "Overpowered Scathe",
-    "author": "WantechFan",
-    "lastUpdated": "2026-05-28T11:38:17Z",
-    "stars": 0,
-    "minGameVersion": "155.2",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Buffs Scathe."
   },
   {
     "repo": "determination-wind/tripwire",
