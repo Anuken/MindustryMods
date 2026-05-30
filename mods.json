@@ -208,7 +208,7 @@
     "internalName": "aquarion",
     "name": "Aquarion",
     "author": "twcash",
-    "lastUpdated": "2026-05-30T01:00:30Z",
+    "lastUpdated": "2026-05-30T03:18:25Z",
     "stars": 102,
     "minGameVersion": "158.1",
     "hasScripts": false,
@@ -340,7 +340,7 @@
     "internalName": "tmi",
     "name": "Too Many Items",
     "author": "EBwilson",
-    "lastUpdated": "2026-05-29T04:17:10Z",
+    "lastUpdated": "2026-05-30T03:20:23Z",
     "stars": 66,
     "minGameVersion": "157.1",
     "hasScripts": false,
@@ -425,7 +425,7 @@
     "internalName": "exoprosopa",
     "name": "Exoprosopa",
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-05-30T01:33:32Z",
+    "lastUpdated": "2026-05-30T05:24:53Z",
     "stars": 55,
     "minGameVersion": "158",
     "hasScripts": true,
@@ -701,7 +701,7 @@
     "internalName": "carpe-diem",
     "name": "Carpe Diem",
     "author": "Nullotte",
-    "lastUpdated": "2026-05-28T15:20:44Z",
+    "lastUpdated": "2026-05-30T05:02:16Z",
     "stars": 36,
     "minGameVersion": "158",
     "hasScripts": false,
@@ -1478,18 +1478,6 @@
     "description": "1.从蓝图详情页直接复制逻辑和信息板。2.蓝图消耗计算套件。\nCopy processor/message in schematic info without placing it. Schematic consumption computing tool. \nGithub: BlackDeluxeCat/SchematicParse"
   },
   {
-    "repo": "arktcode/dynamic-shadows",
-    "internalName": "dynamic-shadows",
-    "name": "Dynamic Shadows",
-    "author": "Arksource",
-    "lastUpdated": "2026-04-26T14:31:31Z",
-    "stars": 16,
-    "minGameVersion": "157.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Standalone high-fidelity dynamic shadow system with cinematic day/night cycles and dual-pass rendering."
-  },
-  {
     "repo": "sputnuc/upgrated-tiers",
     "internalName": "tiered",
     "name": "Upgraded Tiers",
@@ -1560,6 +1548,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A massive personalized content expansion for Serpulo.\nMost of the content in this mod is my vision for what I wanted to be in the game, yet isn't.\n\nContent included:\n- 2 more tiers for every vanilla crafter\n- The Alloy Trio, composed of Neoplastic, Cryogenic and Ultimatter alloys, each having its own large set of blocks made out of them\n- Four new fluids: Lubricant, Steam, Lava, and Quantofluid, plus a new ingredient called Magmatite\n- Liquid capsules, which allow for the transportation of liquids in the form of items, for things like cross-sector transportation via export, or long range transportation over terrain via mass driver.\n\nCredits:\n- Myself obviously, for implementing all the content in the mod.\n- red.id9990 for spriting the vanilla crafter upgrades\n- tinnphat_ for spriting almost every remaining block\n- giga_chad96 for the sprite of Voltage, and Tesla"
+  },
+  {
+    "repo": "arktcode/dynamic-shadows",
+    "internalName": "dynamic-shadows",
+    "name": "Dynamic Shadows",
+    "author": "Arksource",
+    "lastUpdated": "2026-05-30T05:10:46Z",
+    "stars": 15,
+    "minGameVersion": "157.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Standalone high-fidelity dynamic shadow system with cinematic day/night cycles and dual-pass rendering."
   },
   {
     "repo": "yal-game-things/mindustry-tiny-things",
@@ -3304,30 +3304,6 @@
     "description": "cook MOD is FUN"
   },
   {
-    "repo": "huanxefh/lovecraftian-laboratory",
-    "internalName": "loveclab",
-    "name": "Lovecraftian Laboratory",
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-05-29T04:55:27Z",
-    "stars": 7,
-    "minGameVersion": "158",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "The base mod for Lovecraftian series that adds essential resource, chemicals, environmental blocks and planets."
-  },
-  {
-    "repo": "huanxefh/lovecraftian-library-java",
-    "internalName": "lovec",
-    "name": "Lovecraftian Library",
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-05-29T13:45:06Z",
-    "stars": 7,
-    "minGameVersion": "158",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "A JavaScript library for my other mods, with codes for multi-crafters, recipe dictionary, damage display, etc.\nWell, not 100% JavaScript."
-  },
-  {
     "repo": "koctz34/browser-windows",
     "internalName": "browser-windows",
     "name": "Browser Windows (MinduCEF)",
@@ -3338,6 +3314,30 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\n  A mod that allows you to create browser windows directly in the game.\nYou can interact with them, they process clicks, and you can watch videos, read articles, or just play games.\n[red]Warning! Be prepared for the fact that some sites may not be supported, and some games may not work due to capture features.\n[scarlet]Although the mod supports Android devices, there is no guarantee that they will work stably. A different API is used to support Android, as they do not support JCEF.\n[stat]The mod can support servers, but a plugin is required for this. Request it from Ion - 7274 (Discord: koctz34). (I will probably release the plugin file along with updates soon).\n[scarlet]This mod does not working on Linux and MacOS.[]\n  "
+  },
+  {
+    "repo": "huanxefh/lovecraftian-library-java",
+    "internalName": "lovec",
+    "name": "Lovecraftian Library",
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-05-30T05:35:18Z",
+    "stars": 7,
+    "minGameVersion": "158",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "A JavaScript library for my other mods, with codes for multi-crafters, recipe dictionary, damage display, etc.\nWell, not 100% JavaScript."
+  },
+  {
+    "repo": "huanxefh/lovecraftian-laboratory",
+    "internalName": "loveclab",
+    "name": "Lovecraftian Laboratory",
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-05-30T05:35:50Z",
+    "stars": 7,
+    "minGameVersion": "158",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "The base mod for Lovecraftian series that adds essential resource, chemicals, environmental blocks and planets."
   },
   {
     "repo": "zerattel/mindustry-red-alert-3-soundtrack-pack",
@@ -4268,7 +4268,7 @@
     "internalName": "multicrafter",
     "name": "MultiCrafter",
     "author": "Jojo",
-    "lastUpdated": "2026-05-30T01:45:28Z",
+    "lastUpdated": "2026-05-30T02:00:33Z",
     "stars": 5,
     "minGameVersion": "158",
     "hasScripts": false,
@@ -5006,6 +5006,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "My planet mod for Mindustry. Heavily unfinished.\nMindustry V8 is required for the mod to work.\nMeowkitty contributed with sprites and maps for this mod.\n\nCredits go the the rest of the MoreDefences team for their code, LixieWulf for Allure's planet code (which I modified to make the planet) and Catana791 for some bits of code from Asthosus used in my crafting blocks."
+  },
+  {
+    "repo": "aevorlum/liminal-protocol",
+    "internalName": "lp",
+    "name": "Liminal Protocol",
+    "author": "[red]AEvoRIum",
+    "lastUpdated": "2026-05-29T15:43:57Z",
+    "stars": 4,
+    "minGameVersion": "157",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "[red]俺寻思之力"
   },
   {
     "repo": "kyokonagaro/viridium",
@@ -6039,18 +6051,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Brings back old SFX. \n[red]Still indev so don't expect much.\n[yellow]Support this mod by contributing to it via pull request in this mod's repository."
-  },
-  {
-    "repo": "aevorlum/liminal-protocol",
-    "internalName": "lp",
-    "name": "Liminal Protocol",
-    "author": "[red]AEvoRIum",
-    "lastUpdated": "2026-05-29T15:43:57Z",
-    "stars": 3,
-    "minGameVersion": "157",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "[red]俺寻思之力"
   },
   {
     "repo": "tirpis/uranium",
