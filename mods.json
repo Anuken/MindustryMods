@@ -353,7 +353,7 @@
     "name": "Fictional Octo System",
     "author": "Team Oct",
     "lastUpdated": "2026-05-31T11:12:13Z",
-    "stars": 63,
+    "stars": 64,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": true,
@@ -702,7 +702,7 @@
     "name": "Carpe Diem",
     "author": "Nullotte",
     "lastUpdated": "2026-05-31T12:57:18Z",
-    "stars": 36,
+    "stars": 37,
     "minGameVersion": "158",
     "hasScripts": false,
     "hasJava": true,
@@ -2655,6 +2655,18 @@
     "description": " [accent]以战锤40k为原型的MOD[],设定与qq群链接可以到 [accent]模组简介[]里面找\n[sky]QQ群316481519[]\n[unlaunched]贡献者:DOC-A-7244(bundles和翻译),Eipusino(java技术指导)[]\n [accent]The MOD based on Warhammer 40k[], with its settings and links to the QQ group, can be found in the  [accent]mod introduction[]\n[sky]QQ group 316481519[]\nDiscord will consider adding features in its subsequent improvements\n[unlaunched]Contributors: DOC-A-7244 (bundles and translation), Eipusino (Java technical guidance)[]"
   },
   {
+    "repo": "fghjk455rg/rebelion",
+    "internalName": "ens-mod",
+    "name": "Rebelion",
+    "author": "Enless",
+    "lastUpdated": "2026-05-31T20:58:08Z",
+    "stars": 9,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Add new campaign on 3 planets (still WIP:)\n\nThe mod is focused on a difficulty slightly higher than the main game and follows the game design principles of the original Mindustry\n\nCurrently, the mod contains 6 sectors of the first of three planets. The development is delayed, but it has not been abandoned. I hope to complete the first sector of the second planet by 2027, which is planned to follow the 10 sector of the first planet.\n\nPlease rate me on github!"
+  },
+  {
     "repo": "toriwake/kannadustry",
     "internalName": "kannadustry",
     "name": "Kannadustry",
@@ -2869,18 +2881,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The watcher mod for Mlog (Mindustry Logic) programming. Provides a WebSockets API for compilers to write or read mlog code stored in processors and schematics in the schematic library. Supports updating selected processor and schematic library when a file in a local directory changes."
-  },
-  {
-    "repo": "fghjk455rg/rebelion",
-    "internalName": "ens-mod",
-    "name": "Rebelion",
-    "author": "Enless and many people in my lfe",
-    "lastUpdated": "2026-05-31T19:09:09Z",
-    "stars": 8,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Add new campaign on 3 planets (still WIP:)\n\nThe mod is focused on a difficulty slightly higher than the main game and follows the game design principles of the original Mindustry\n\nCurrently, the mod contains 4 sectors of the first of three planets. The development is delayed, but it has not been abandoned. I hope to complete the first sector of the second planet by 2027, which is planned to follow the seventh sector of the first planet.\n\nPlease rate me on github!"
   },
   {
     "repo": "eb-wilson/modpacker",
@@ -3952,18 +3952,6 @@
     "description": "Adds serpulo cargo drone that functions exactly like erekir cargo drone. No more complicated logic!"
   },
   {
-    "repo": "fghjk455rg/items-reforged-by-captain-doshik",
-    "internalName": "kap-dosh-ir",
-    "name": "Items Reforged",
-    "author": "Captain Doshik",
-    "lastUpdated": "2024-10-09T13:32:00Z",
-    "stars": 5,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod replaces vanilla sprites with modified versions."
-  },
-  {
     "repo": "leyn-pl/showallsecrets",
     "internalName": "showsecrets",
     "name": "Show All Secrets",
@@ -4286,6 +4274,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A library mod that allows you to have multiple recipes in one block.\n\nPort & rewrite of the original mod, MutliCrafterLib, by Liplum."
+  },
+  {
+    "repo": "fghjk455rg/items-reforged-by-captain-doshik",
+    "internalName": "kap-dosh-ir",
+    "name": "Items Reforged",
+    "author": "Captain Doshik",
+    "lastUpdated": "2026-05-31T21:16:46Z",
+    "stars": 5,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "This mod replaces vanilla sprites with modified versions."
   },
   {
     "repo": "mythril382/goldensilicon",
@@ -6089,6 +6089,18 @@
     "description": "101% radioactive!"
   },
   {
+    "repo": "oscillatorium/alef-null",
+    "internalName": "alef-null",
+    "name": "Alef-Null",
+    "author": "Кселирит",
+    "lastUpdated": "2026-05-31T22:21:22Z",
+    "stars": 3,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "тапок не тот, кто тапок, а тот, кто достоин быть тапком"
+  },
+  {
     "repo": "rintadev5792/arcane-mindustry",
     "internalName": "arcane",
     "name": "ARCANE",
@@ -7623,18 +7635,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod which allows players to custom campaign difficulty, custom music and so on.\n一个允许玩家自定义战役难度，音乐等选项的模组。"
-  },
-  {
-    "repo": "oscillatorium/alef-null",
-    "internalName": "alef-null",
-    "name": "Alef-Null",
-    "author": "Кселирит",
-    "lastUpdated": "2026-05-31T20:29:42Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "тапок не тот, кто тапок, а тот, кто достоин быть тапком"
   },
   {
     "repo": "no9527dada/skin",
@@ -10048,6 +10048,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Addon son ton everon worn"
+  },
+  {
+    "repo": "oscillatorium/martin",
+    "internalName": "martin",
+    "name": "Martin's mod",
+    "author": "мартин",
+    "lastUpdated": "2026-05-31T21:33:41Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "мод моего младшего брата, в котором концентрат его шизы. мод не предназначен для нормальной игры."
   },
   {
     "repo": "exxleo/exoterusmod",
@@ -12976,17 +12988,5 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod improving the UI."
-  },
-  {
-    "repo": "oscillatorium/martin",
-    "internalName": "martin",
-    "name": "Martin's mod",
-    "author": "мартин",
-    "lastUpdated": "2026-05-31T20:01:29Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "мод моего младшего брата, в котором концентрат его шизы. мод не предназначен для нормальной игры."
   }
 ]
