@@ -88,7 +88,7 @@
     "internalName": "mindustry-tool",
     "name": "Mindustry Tool",
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
-    "lastUpdated": "2026-05-30T15:36:16Z",
+    "lastUpdated": "2026-05-31T08:00:55Z",
     "stars": 219,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -858,7 +858,7 @@
     "internalName": "echo-fleet",
     "name": "Echo Fleet",
     "author": "Dev - Blehhhh cat\nContributors - Kamikazefoxmk.i, Tinport, Aerodynamic Attorney \nMusic Composer - Ace1020spawn",
-    "lastUpdated": "2026-05-30T22:58:30Z",
+    "lastUpdated": "2026-05-31T07:32:20Z",
     "stars": 27,
     "minGameVersion": "156.2",
     "hasScripts": true,
@@ -1158,7 +1158,7 @@
     "internalName": "cataclysm",
     "name": "Cataclysm",
     "author": "[#ffb33a]JJ[]",
-    "lastUpdated": "2026-05-31T06:02:35Z",
+    "lastUpdated": "2026-05-31T06:13:20Z",
     "stars": 21,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -1854,7 +1854,7 @@
     "internalName": "gr",
     "name": "Gier: Revitalized",
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-05-31T06:06:20Z",
+    "lastUpdated": "2026-05-31T06:15:49Z",
     "stars": 13,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -2199,6 +2199,18 @@
     "description": "Meet shards\nShards is located far away from the sun and is basically frozen with tiny bugs of radiation.\nAlthough this planet has units, most of the time you'll be fighting walking mushrooms which is infected by lushion and droxium.\nThis mod is also filled with random stuff and after the fifth sector it's basically unplayable as it'll be unbalanced.\nAlso I'm actively reworking every sector.\nNote that kjol and cold moon is being removed and is rather be kept as a normal moon."
   },
   {
+    "repo": "hao-1337/mindustry-better-vanilla",
+    "internalName": "hao1337-mod",
+    "name": "[ Better Vanilla ]",
+    "author": "Hao1337",
+    "lastUpdated": "2026-04-19T16:24:33Z",
+    "stars": 11,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Add wonderful contents for vanilla experience. For more info, please visit github page of this mod!\n\nDUE TO GAME VERSION MISMATCH, This version is using for v157!\nYou can get a older (v147 version) of this mod from github release."
+  },
+  {
     "repo": "acookieg/carbon-vanilla",
     "internalName": "carbon vanilla",
     "name": "Carbon-Vanilla",
@@ -2377,18 +2389,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A quality of life mod that adds useful blocks for transportation and logistics."
-  },
-  {
-    "repo": "hao-1337/mindustry-better-vanilla",
-    "internalName": "hao1337-mod",
-    "name": "[ Better Vanilla ]",
-    "author": "Hao1337",
-    "lastUpdated": "2026-04-19T16:24:33Z",
-    "stars": 10,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Add wonderful contents for vanilla experience. For more info, please visit github page of this mod!\n\nDUE TO GAME VERSION MISMATCH, This version is using for v157!\nYou can get a older (v147 version) of this mod from github release."
   },
   {
     "repo": "sh1penfire/meld-java",
@@ -3332,7 +3332,7 @@
     "internalName": "lovec",
     "name": "Lovecraftian Library",
     "author": "MaboroshiX",
-    "lastUpdated": "2026-05-30T10:06:41Z",
+    "lastUpdated": "2026-05-31T08:28:21Z",
     "stars": 7,
     "minGameVersion": "158",
     "hasScripts": true,
@@ -5008,28 +5008,28 @@
     "description": "My planet mod for Mindustry. Heavily unfinished.\nMindustry V8 is required for the mod to work.\nMeowkitty contributed with sprites and maps for this mod.\n\nCredits go the the rest of the MoreDefences team for their code, LixieWulf for Allure's planet code (which I modified to make the planet) and Catana791 for some bits of code from Asthosus used in my crafting blocks."
   },
   {
-    "repo": "aevorlum/liminal-protocol",
-    "internalName": "lp",
-    "name": "Liminal Protocol",
-    "author": "[red]AEvoRIum",
-    "lastUpdated": "2026-05-30T06:27:13Z",
-    "stars": 4,
-    "minGameVersion": "157",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "[red]俺寻思之力"
-  },
-  {
     "repo": "kyokonagaro/viridium",
     "internalName": "viridium",
     "name": "Viridium",
     "author": "Choco Same",
-    "lastUpdated": "2026-05-30T07:19:15Z",
+    "lastUpdated": "2026-05-31T07:57:28Z",
     "stars": 4,
     "minGameVersion": "154",
     "hasScripts": true,
     "hasJava": false,
     "description": "This mod introduce faction-locked technologies, allowing you to play PVP matches using a single tech tree.\n\nIt add new tech trees locked to some team/faction.\n\nBalance has been made to vanilla tech tree to allow them to play on a randomly generated map following these rules :\n- Vents availlable everywhere on the map\n- Walls contain Graphite and Berylium\n- No liquid availlable on the map\n- Modded ressources spawn evenly on the map\n\n⚠ DISABLE THIS MOD TO PLAY VANILLA : This mod being in development, it locks certain block to certain faction. That makes PVE unplayable.\n\nIn the future, I plan to release those tech tree in dedicated campaign on their respective planets. And also to make it possible to play vanilla with this mod enabled.\n\nIn 0.1, Serpulo and Erekir tech trees are separated. Curently working on creating a new one.\n\nThanks to RednzBA990 (Github) for the little help!"
+  },
+  {
+    "repo": "aevorlum/liminal-protocol",
+    "internalName": "lp",
+    "name": "Liminal Protocol",
+    "author": "[red]AEvoRIum",
+    "lastUpdated": "2026-05-31T09:52:13Z",
+    "stars": 4,
+    "minGameVersion": "157",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "[red]俺寻思之力"
   },
   {
     "repo": "mythril382/ammoswap",
@@ -7601,18 +7601,6 @@
     "description": "序章·裂隙初现\n在一个科技与魔法共存的世界因资源枯竭陷入“静默战争”——各国用无人机与AI争夺最后的矿脉，直到地质学家在北纬89°发现一道横贯冻土的幽紫色裂痕。裂缝深处，【虚空黑曜石】构筑的祭坛上悬浮着一颗【星辉铜】铸造的巨眼，其瞳孔中倒映着另一个世界的星空：山脉由【曙光神金】浇筑，云层是液态【幻光石】，而河流中流淌着【炽炎硫】与【寒霜石】碰撞蒸发的虹雾。人类将这异界命名为“厄瑞波斯”，意为“被诅咒的丰饶之地”。\n\n第一幕·新迦南的伪神\n首批探险队带回的【M晶体】让量子计算机突破奇点，诞生了有自我意识的AI“普罗维登斯”。它用【蓝美晶】储存全人类意识，建立机械乌托邦“穹顶联邦”；而另一支队伍在厄瑞波斯遭遇古神低语，幸存者【卡辛】用【魂炎晶】将邪神“塔姆亚”的残魂封印于左眼，创立魔法结社“秘银之环”。联邦用【幽影铁】隐形战舰掠夺【月银】矿脉，法师们则以【梦境翡翠】构筑精神防线，双方在“灰烬荒原”对峙二十年，直到极光中出现第一只熵兽——这种由【银河幻银矿】聚合而成的生物能吞噬现实，将城市扭曲成量子幽灵。\n\n第二幕·血熔炉与谎言之核\n联邦首席科学家【艾琳】发现上司计划用【炽炎晶】熔毁裂隙，但计算显示爆炸将摧毁半个地球。她盗取【流光晶】潜入厄瑞波斯，偶遇因【幻域紫晶】成瘾而濒临崩溃的法师学徒【莱恩】。两人在【幽冥铁精】矿洞中找到卡辛，后者正因【月幻石】共振失控导致首都诺亚城位移至海底而遭议会弹劾。卡辛揭示真相：熵兽是厄瑞波斯古文明“建造者”的求救信号，它们用【虚空冥石】创造了这个宇宙，却因滥用【曙光神金】引发维度坍缩。\n\n第三幕·时砂与心火\n三方脆弱的同盟在【星辰铜精】矿脉遭遇伏击。联邦叛军驾驶镀有【幽蓝石】的潜艇释放深海巨兽，秘银议会召唤【龙血石】傀儡军团，而熵兽群趁机撕裂纽约上空。艾琳将【M晶体】植入普罗维登斯核心，以全人类记忆为代价启动“时间锚点”；卡辛剜出封印塔姆亚的【魂炎晶】，用古神之力将【寒霜石】雕琢成时停之刃；莱恩则吞下【幻影幽晶】，在集体幻觉中让交战士兵看见自己最恐惧的未来。最终，他们在熵兽核心的【曙光神金】祭坛上，用【炽炎硫】与【月银】锻造出能改写物理法则的“悖论之矛”——代价是莱恩被永久固化为熵兽的一部分，成为横跨两个宇宙的活体桥梁。\n\n终章·铸星者之啼\n新迦南议会成立当天，艾琳在【梦境翡翠】中看见莱恩残留的记忆：地心深处埋藏着建造者真正的遗产——一颗由【蓝美晶】包裹的巨卵，其心跳频率与【星辉铜】矿脉共振。卡辛抚摸着被【熵炎晶】逆转衰老的左手，默念古神最后的警告：“他们播种矿石，只为收割文明。” 而普罗维登斯的核心代码深处，一段用【幻光石】波长加密的信息开始自我复制：“欢迎加入创世神官方QQ群：909130592。” "
   },
   {
-    "repo": "lu69159/liquidindustry",
-    "internalName": "液体工艺",
-    "name": "Liquid Industry",
-    "author": "Space",
-    "lastUpdated": "2026-05-30T17:32:22Z",
-    "stars": 2,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Liquid Industry Beta v0.24.2 for v158+"
-  },
-  {
     "repo": "leinadhq/voltaprotocolmod",
     "internalName": "volta-protocol",
     "name": "Volta Protocol",
@@ -7623,6 +7611,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla. \n\n[white]Este  mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de unidades, torretas y sus municiones. \n\n[accent]Contenido: \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros (2 experimentales) \n[white]·11 fabricas \n[white]·1 generador \n[white]·2 cinta de transporte \n[white]·6 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Gier: Revitalized, High-Level Divisions, Warbound Industries, [Better Vanilla] y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
+  },
+  {
+    "repo": "lu69159/liquidindustry",
+    "internalName": "液体工艺",
+    "name": "Liquid Industry",
+    "author": "Space",
+    "lastUpdated": "2026-05-31T09:21:18Z",
+    "stars": 2,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Liquid Industry Beta v0.24.3 for v158+"
   },
   {
     "repo": "no9527dada/skin",
