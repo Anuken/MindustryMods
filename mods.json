@@ -388,7 +388,7 @@
     "internalName": "ice",
     "name": "DeepSpace",
     "author": "Alon",
-    "lastUpdated": "2026-05-31T05:35:11Z",
+    "lastUpdated": "2026-05-31T13:15:28Z",
     "stars": 58,
     "minGameVersion": "158.1",
     "hasScripts": false,
@@ -858,7 +858,7 @@
     "internalName": "echo-fleet",
     "name": "Echo Fleet",
     "author": "Dev - Blehhhh cat\nContributors - Kamikazefoxmk.i, Tinport, Aerodynamic Attorney \nMusic Composer - Ace1020spawn",
-    "lastUpdated": "2026-05-31T12:59:15Z",
+    "lastUpdated": "2026-05-31T14:28:57Z",
     "stars": 27,
     "minGameVersion": "156.2",
     "hasScripts": true,
@@ -2415,6 +2415,18 @@
     "description": "Ru: Данная модификация изменяет внешний вид Серпуло. Респрайт некоторой части Эрекира.\r\n\r\nEng: This modification changes the appearance of the Serpulo. Resprite of some part of the Erekir.\r\n\r\nThx to retodera, Sputnuc and mellory for the help with the scripts."
   },
   {
+    "repo": "huanxefh/project-reindustrialization",
+    "internalName": "projreind",
+    "name": "Project Reindustrialization",
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-05-29T04:56:44Z",
+    "stars": 10,
+    "minGameVersion": "158",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "OBJECTIVE: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with realistic and hardcore production.\n- Peaceful sectors focused on mass production.\n- A separate and complex tech tree.\n- Tons of multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\nThis mod is part of Lovecraftian series, which requires Lovecraftian Library and Lovecraftian Laboratory.\n\nWARNING: RECIPE HELL AHEAD!"
+  },
+  {
     "repo": "martian238/vanilla-expansion-mod",
     "internalName": "ve",
     "name": "Vanilla Expansion",
@@ -2617,18 +2629,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
-  },
-  {
-    "repo": "huanxefh/project-reindustrialization",
-    "internalName": "projreind",
-    "name": "Project Reindustrialization",
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-05-29T04:56:44Z",
-    "stars": 9,
-    "minGameVersion": "158",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "OBJECTIVE: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with realistic and hardcore production.\n- Peaceful sectors focused on mass production.\n- A separate and complex tech tree.\n- Tons of multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\nThis mod is part of Lovecraftian series, which requires Lovecraftian Library and Lovecraftian Laboratory.\n\nWARNING: RECIPE HELL AHEAD!"
   },
   {
     "repo": "nikonf20/oil-extended",
@@ -4204,18 +4204,6 @@
     "description": "Monitor your resource rate changes in real time.\n\nFeatures:\n- Color-coded rate display: gaining, losing, stable\n- (!) Low-stock warning when a resource is under 10 seconds from depletion\n- Flicker detection for resources being consumed as fast as they arrive (~00)\n- Click the resource table to cycle column count (4-8)\n- Compact number formatting (1.5k, 2.3M, etc.)"
   },
   {
-    "repo": "redloong9527/logic-chinese-localization",
-    "internalName": "logicchineselocalization",
-    "name": "逻辑汉化补丁v1.3.2",
-    "author": "redloong9527",
-    "lastUpdated": "2026-04-25T19:05:02Z",
-    "stars": 5,
-    "minGameVersion": "147",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "给逻辑处理器界面里的大部分词条都添加了中文悬停提示框，就像原版那样"
-  },
-  {
     "repo": "dimon112/sand-storm-mindustry",
     "internalName": "sand stormv2",
     "name": "sand-storm-mindustry",
@@ -4286,6 +4274,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A library mod that allows you to have multiple recipes in one block.\n\nPort & rewrite of the original mod, MutliCrafterLib, by Liplum."
+  },
+  {
+    "repo": "redloong9527/logic-chinese-localization",
+    "internalName": "logicchineselocalization",
+    "name": "逻辑汉化补丁v1.3.2",
+    "author": "redloong9527",
+    "lastUpdated": "2026-05-31T13:05:55Z",
+    "stars": 5,
+    "minGameVersion": "147",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "给逻辑处理器界面里的大部分词条都添加了中文悬停提示框，就像原版那样"
   },
   {
     "repo": "mythril382/goldensilicon",
@@ -5012,7 +5012,7 @@
     "internalName": "lp",
     "name": "Liminal Protocol",
     "author": "[red]AEvoRIum",
-    "lastUpdated": "2026-05-31T10:52:25Z",
+    "lastUpdated": "2026-05-31T13:17:43Z",
     "stars": 4,
     "minGameVersion": "157",
     "hasScripts": false,
@@ -5024,7 +5024,7 @@
     "internalName": "viridium",
     "name": "Viridium",
     "author": "Choco Same",
-    "lastUpdated": "2026-05-31T12:01:31Z",
+    "lastUpdated": "2026-05-31T14:32:12Z",
     "stars": 4,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -7623,6 +7623,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Liquid Industry Beta v0.24.3 for v158+"
+  },
+  {
+    "repo": "oscillatorium/alef-null",
+    "internalName": "alef-null",
+    "name": "Alef-Null",
+    "author": "Кселирит",
+    "lastUpdated": "2026-05-31T13:31:49Z",
+    "stars": 2,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "тапок не тот, кто тапок, а тот, кто достоин быть тапком"
   },
   {
     "repo": "no9527dada/skin",
