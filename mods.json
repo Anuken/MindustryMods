@@ -184,7 +184,7 @@
     "internalName": "mi2-utilities-java",
     "name": "MI2-Utilities Java",
     "author": "BlackDeluxeCat",
-    "lastUpdated": "2026-06-01T11:11:34Z",
+    "lastUpdated": "2026-06-02T17:05:44Z",
     "stars": 120,
     "minGameVersion": "158.1",
     "hasScripts": false,
@@ -389,7 +389,7 @@
     "name": "DeepSpace",
     "author": "Alon",
     "lastUpdated": "2026-06-02T06:11:00Z",
-    "stars": 58,
+    "stars": 59,
     "minGameVersion": "158.1",
     "hasScripts": false,
     "hasJava": true,
@@ -533,7 +533,7 @@
     "internalName": "azimut",
     "name": "Azimuth",
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-06-02T09:08:22Z",
+    "lastUpdated": "2026-06-02T16:00:02Z",
     "stars": 42,
     "minGameVersion": "158",
     "hasScripts": true,
@@ -858,7 +858,7 @@
     "internalName": "echo-fleet",
     "name": "Echo Fleet",
     "author": "Dev - Blehhhh cat\nContributors - Kamikazefoxmk.i, Tinport, Aerodynamic Attorney \nMusic Composer - Ace1020spawn",
-    "lastUpdated": "2026-06-02T08:14:57Z",
+    "lastUpdated": "2026-06-02T16:48:51Z",
     "stars": 27,
     "minGameVersion": "156.2",
     "hasScripts": true,
@@ -966,7 +966,7 @@
     "internalName": "mapping-utilities",
     "name": "Mapping Utilities",
     "author": "ApsZoldat",
-    "lastUpdated": "2026-06-01T17:47:17Z",
+    "lastUpdated": "2026-06-02T16:17:50Z",
     "stars": 24,
     "minGameVersion": "158",
     "hasScripts": false,
@@ -1166,18 +1166,6 @@
     "description": "Provide an in-game GUI for DataPatcher."
   },
   {
-    "repo": "itzcraft/hjsonpp",
-    "internalName": "hjsonpp",
-    "name": "hjson++",
-    "author": "ItzCraft & Sputnuc\nContributors: Photon_gravity",
-    "lastUpdated": "2026-06-01T09:19:55Z",
-    "stars": 21,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds some new additional classes to help hjson modders. \nNote: this a library. Not playable mod."
-  },
-  {
     "repo": "jjthecold/cataclysm-mod",
     "internalName": "cataclysm",
     "name": "Cataclysm",
@@ -1188,6 +1176,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds Tronoe, a cave planet set after a war that drove it's faction's off the surface.\n\nDrop a star in the project's repo."
+  },
+  {
+    "repo": "itzcraft/hjsonpp",
+    "internalName": "hjsonpp",
+    "name": "hjson++",
+    "author": "ItzCraft & Sputnuc\nContributors: Photon_gravity",
+    "lastUpdated": "2026-06-02T16:56:08Z",
+    "stars": 21,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds some new additional classes to help hjson modders. \nNote: this a library. Not playable mod."
   },
   {
     "repo": "sk7725/testers",
@@ -1574,6 +1574,19 @@
     "description": "Standalone high-fidelity dynamic shadow system with cinematic day/night cycles and dual-pass rendering."
   },
   {
+    "repo": "fat-bird-owner/gier-revitalized",
+    "internalName": "gr",
+    "name": "Gier: Revitalized",
+    "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
+    "lastUpdated": "2026-06-02T13:54:34Z",
+    "stars": 15,
+    "minGameVersion": "156",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe.\n\nIf the main version is a bugged then \nplease use the latest releases instead\nas those are stable.\n[]\n\n[accent]Starring is greatly appreciated[]\n[grey](Our current goal is 15 stars)[]\n",
+    "iosCompatible": true
+  },
+  {
     "repo": "yal-game-things/mindustry-tiny-things",
     "internalName": "tiny-things",
     "name": "Tiny Things",
@@ -1692,19 +1705,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod which introduces actually unique [accent]Story Based Campaign[].\nMain goal of this mod is to show that lore based mods can be good too.\n\nWith story gameplay it introduces to you some new mechanics."
-  },
-  {
-    "repo": "fat-bird-owner/gier-revitalized",
-    "internalName": "gr",
-    "name": "Gier: Revitalized",
-    "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-06-02T12:40:52Z",
-    "stars": 14,
-    "minGameVersion": "156",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe.\n\nIf the main version is a bugged then \nplease use the latest releases instead\nas those are stable.\n[]\n\n[accent]Starring is greatly appreciated[]\n[grey](Our current goal is 15 stars)[]\n",
-    "iosCompatible": true
   },
   {
     "repo": "shadowpazzo99/shadowdustry",
@@ -4240,18 +4240,6 @@
     "description": "A plethora of sandbox-only blocks dedicated for both fun and testing purposes."
   },
   {
-    "repo": "namds666/item-liquid-teleport",
-    "internalName": "item-liquid-teleport",
-    "name": "Item Liquid Teleport",
-    "author": "namds666 & Claude Code & Codex",
-    "lastUpdated": "2026-05-30T07:29:20Z",
-    "stars": 5,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Adds cheat-grade Chrono blocks for global item and liquid transport, terrain conversion, item conversion, repair, construction, overdrive, unit buffs, unit debuffs, and core placement.\n  Update: expanded documentation and metadata for the full Chrono block set."
-  },
-  {
     "repo": "redloong9527/logic-chinese-localization",
     "internalName": "logicchineselocalization",
     "name": "逻辑汉化补丁v1.3.2",
@@ -4286,6 +4274,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A library mod that allows you to have multiple recipes in one block.\n\nPort & rewrite of the original mod, MutliCrafterLib, by Liplum."
+  },
+  {
+    "repo": "namds666/item-liquid-teleport",
+    "internalName": "item-liquid-teleport",
+    "name": "Item Liquid Teleport",
+    "author": "namds666 & Claude Code & Codex",
+    "lastUpdated": "2026-06-02T16:27:24Z",
+    "stars": 5,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Adds cheat-grade Chrono blocks for global item and liquid transport, terrain conversion, item conversion, repair, construction, overdrive, unit buffs, unit debuffs, and core placement.\n  Update: expanded documentation and metadata for the full Chrono block set."
   },
   {
     "repo": "mythril382/goldensilicon",
@@ -5042,6 +5042,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Similar to NeonNights"
+  },
+  {
+    "repo": "oscillatorium/alef-null",
+    "internalName": "alef-null",
+    "name": "Alef-Null",
+    "author": "Кселирит",
+    "lastUpdated": "2026-06-02T14:38:33Z",
+    "stars": 4,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "тапок не тот, кто тапок, а тот, кто достоин быть тапком"
   },
   {
     "repo": "mythril382/ammoswap",
@@ -6111,18 +6123,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Brings back old SFX."
-  },
-  {
-    "repo": "oscillatorium/alef-null",
-    "internalName": "alef-null",
-    "name": "Alef-Null",
-    "author": "Кселирит",
-    "lastUpdated": "2026-06-02T13:23:30Z",
-    "stars": 3,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "тапок не тот, кто тапок, а тот, кто достоин быть тапком"
   },
   {
     "repo": "rintadev5792/arcane-mindustry",
@@ -9173,18 +9173,6 @@
     "description": "Новая планета Ноктис: ночной пепел, два базовых рудных ресурса и стартовая ветка развития. '\n' Интересно, полный перевод мода new-horizon будет?"
   },
   {
-    "repo": "eipusino/lotterymodmirror",
-    "internalName": "lottery",
-    "name": "lottery mod（抽卡模拟）",
-    "author": "?",
-    "lastUpdated": "2026-01-11T13:30:24Z",
-    "stars": 1,
-    "minGameVersion": "154.0",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Come and try your luck! 来试试运气吧！\n\n\n- [!] This mod is currently in the testing phase and may update other prize pools in the future\n\n\nSupport for multiplayer online!\n\n\n封面是我老婆，她叫阿尔图罗"
-  },
-  {
     "repo": "krita-burstflakes/mindustry-strike",
     "internalName": "ms",
     "name": "Mindustry Strike",
@@ -10062,16 +10050,40 @@
     "description": "A mod about The Swords from PHIGHTING!\nPossibly unbalanced content."
   },
   {
+    "repo": "eipusino/lotterymodmirror",
+    "internalName": "lottery",
+    "name": "lottery mod（抽卡模拟）",
+    "author": "guiymour",
+    "lastUpdated": "2026-06-02T16:09:32Z",
+    "stars": 1,
+    "minGameVersion": "158.0",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Come and try your luck! 来试试运气吧！\n\n\n- [!] This mod is currently in the testing phase and may update other prize pools in the future\n\n\nSupport for multiplayer online!\n\n\n封面是我老婆，她叫阿尔图罗"
+  },
+  {
     "repo": "wantechfan/mindustry-son-mod",
     "internalName": "sondustry",
     "name": "Sondustry",
     "author": "Wantechfan",
-    "lastUpdated": "2026-06-02T08:19:11Z",
+    "lastUpdated": "2026-06-02T16:21:05Z",
     "stars": 1,
     "minGameVersion": "146",
     "hasScripts": true,
     "hasJava": false,
     "description": "Addon son ton everon worn"
+  },
+  {
+    "repo": "wantechfan/mindustry-wind3-shenanigans",
+    "internalName": "wind3-shenanigans",
+    "name": "Wind3 Shenanigans",
+    "author": "WantechFan",
+    "lastUpdated": "2026-06-02T17:28:45Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Replaces all sounds with wind3."
   },
   {
     "repo": "exxleo/exoterusmod",
@@ -13014,15 +13026,15 @@
     "description": "Starting from version 154, most in-game sounds have been completely replaced. This mod replaces sounds with their old equivalent (if any) or removes them completely. If you're not a fan of the new sounds, this mod is for you."
   },
   {
-    "repo": "wantechfan/mindustry-wind3-shenanigans",
-    "internalName": "wind3-shenanigans",
-    "name": "Wind3 Shenanigans",
-    "author": "WantechFan",
-    "lastUpdated": "2026-06-02T08:56:59Z",
+    "repo": "momiji142857/multicrafterlib_momiji",
+    "internalName": "multi-crafter-momiji",
+    "name": "MultiCrafterLib_Momiji",
+    "author": "[sky]Momiji142857[white] (with DeepSeek)",
+    "lastUpdated": "2026-06-02T16:10:53Z",
     "stars": 0,
-    "minGameVersion": "146",
+    "minGameVersion": "154",
     "hasScripts": false,
-    "hasJava": false,
-    "description": "Replaces all sounds with wind3."
+    "hasJava": true,
+    "description": "An example mod that demonstrates how to use the MultiCrafterLib library.\n一个多配方库的使用示例模组"
   }
 ]
