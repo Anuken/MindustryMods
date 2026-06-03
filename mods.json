@@ -388,7 +388,7 @@
     "internalName": "ice",
     "name": "DeepSpace",
     "author": "Alon",
-    "lastUpdated": "2026-06-02T06:11:00Z",
+    "lastUpdated": "2026-06-03T03:02:09Z",
     "stars": 59,
     "minGameVersion": "158.1",
     "hasScripts": false,
@@ -1178,18 +1178,6 @@
     "description": "Provide an in-game GUI for DataPatcher."
   },
   {
-    "repo": "jjthecold/cataclysm-mod",
-    "internalName": "cataclysm",
-    "name": "Cataclysm",
-    "author": "[#ffb33a]JJ[]",
-    "lastUpdated": "2026-06-02T12:44:51Z",
-    "stars": 21,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds Tronoe, a cave planet set after a war that drove it's faction's off the surface.\n\nDrop a star in the project's repo."
-  },
-  {
     "repo": "itzcraft/hjsonpp",
     "internalName": "hjsonpp",
     "name": "hjson++",
@@ -1200,6 +1188,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds some new additional classes to help hjson modders. \nNote: this a library. Not playable mod."
+  },
+  {
+    "repo": "jjthecold/cataclysm-mod",
+    "internalName": "cataclysm",
+    "name": "Cataclysm",
+    "author": "[#ffb33a]JJ[]",
+    "lastUpdated": "2026-06-03T04:56:31Z",
+    "stars": 21,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds Tronoe, a cave planet set after a war that drove it's faction's off the surface.\n\nDrop a star in the project's repo."
   },
   {
     "repo": "sk7725/testers",
@@ -1578,7 +1578,7 @@
     "internalName": "gr",
     "name": "Gier: Revitalized",
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-06-02T13:54:34Z",
+    "lastUpdated": "2026-06-03T05:51:25Z",
     "stars": 15,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -4288,6 +4288,18 @@
     "description": "A Mod about Terraplasm.\n\n[gray]This a preview version of KRATHA, meaning it is a very early version and might not reflect final version."
   },
   {
+    "repo": "jababadev/jababarium",
+    "internalName": "jababarium",
+    "name": "Jababarium",
+    "author": "Mr_Rovenclonchik",
+    "lastUpdated": "2026-06-02T11:29:47Z",
+    "stars": 5,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry greatest mod ever made!"
+  },
+  {
     "repo": "oscillatorium/alef-null",
     "internalName": "alef-null",
     "name": "Alef-Null",
@@ -5020,18 +5032,6 @@
     "description": "My planet mod for Mindustry. Heavily unfinished.\nMindustry V8 is required for the mod to work.\nMeowkitty contributed with sprites and maps for this mod.\n\nCredits go the the rest of the MoreDefences team for their code, LixieWulf for Allure's planet code (which I modified to make the planet) and Catana791 for some bits of code from Asthosus used in my crafting blocks."
   },
   {
-    "repo": "lu69159/morecustomsettings",
-    "internalName": "mcs",
-    "name": "More Custom Settings",
-    "author": "Space",
-    "lastUpdated": "2026-06-02T01:58:08Z",
-    "stars": 4,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod which allows players to custom campaign difficulty, custom music and so on.\n一个允许玩家自定义战役难度，音乐等选项的模组。"
-  },
-  {
     "repo": "kyokonagaro/viridium",
     "internalName": "viridium",
     "name": "Viridium",
@@ -5044,30 +5044,6 @@
     "description": "This mod introduce faction-locked technologies, allowing you to play PVP matches using a single tech tree.\n\nIt add new tech trees locked to some team/faction.\n\nBalance has been made to vanilla tech tree to allow them to play on a randomly generated map following these rules :\n- Vents availlable everywhere on the map\n- Walls contain Graphite and Berylium\n- No liquid availlable on the map\n- Modded ressources spawn evenly on the map\n\n⚠ DISABLE THIS MOD TO PLAY VANILLA : This mod being in development, it locks certain block to certain faction. That makes PVE unplayable.\n\nIn the future, I plan to release those tech tree in dedicated campaign on their respective planets. And also to make it possible to play vanilla with this mod enabled.\n\nIn 0.1, Serpulo and Erekir tech trees are separated. Curently working on creating a new one.\n\nThanks to RednzBA990 (Github) for the little help!"
   },
   {
-    "repo": "jababadev/jababarium",
-    "internalName": "jababarium",
-    "name": "Jababarium",
-    "author": "Mr_Rovenclonchik",
-    "lastUpdated": "2026-06-02T11:29:47Z",
-    "stars": 4,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry greatest mod ever made!"
-  },
-  {
-    "repo": "aevorlum/liminal-protocol",
-    "internalName": "lp",
-    "name": "Liminal Protocol",
-    "author": "[red]AEvoRIum",
-    "lastUpdated": "2026-06-02T11:33:55Z",
-    "stars": 4,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[red]俺寻思之力"
-  },
-  {
     "repo": "wmf-industries/terios",
     "internalName": "terios",
     "name": "Terios",
@@ -5078,6 +5054,30 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Similar to NeonNights"
+  },
+  {
+    "repo": "aevorlum/liminal-protocol",
+    "internalName": "lp",
+    "name": "Liminal Protocol",
+    "author": "[red]AEvoRIum",
+    "lastUpdated": "2026-06-03T04:40:37Z",
+    "stars": 4,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[red]俺寻思之力"
+  },
+  {
+    "repo": "lu69159/morecustomsettings",
+    "internalName": "mcs",
+    "name": "More Custom Settings",
+    "author": "Space",
+    "lastUpdated": "2026-06-03T07:41:03Z",
+    "stars": 4,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod which allows players to custom campaign difficulty, custom music and so on.\n一个允许玩家自定义战役难度，音乐等选项的模组。"
   },
   {
     "repo": "mythril382/ammoswap",
@@ -5258,18 +5258,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds flarogus to Mindustry."
-  },
-  {
-    "repo": "kubikaugustyn/mindustrytoolkit",
-    "internalName": "mindustry-toolkit-kubikaugustyn",
-    "name": "Mindustry Toolkit",
-    "author": "Jakub Augustýn",
-    "lastUpdated": "2024-02-25T08:45:22Z",
-    "stars": 3,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry toolkit mod by GitHub - kubikaugustyn / Discord - HackerKuba2009#9722"
   },
   {
     "repo": "haznobrain/elemendustry",
@@ -6533,18 +6521,6 @@
     "description": "A mod that adds a menu which easily allows you to reuse commands"
   },
   {
-    "repo": "illa4257/mindustrysyncproject",
-    "internalName": "mindustry-sync-project",
-    "name": "Mindustry Sync Project",
-    "author": "illa4257",
-    "lastUpdated": "2024-04-23T04:54:34Z",
-    "stars": 2,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Java Mod for synchronization (for now only schematics)."
-  },
-  {
     "repo": "stacktrace-error/serpulo-resprites",
     "internalName": "serp-resp",
     "name": "Serpulo Resprites",
@@ -7673,18 +7649,6 @@
     "description": "\n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla. \n\n[white]Este  mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de unidades, torretas y sus municiones. \n\n[accent]Contenido: \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros (2 experimentales) \n[white]·11 fabricas \n[white]·1 generador \n[white]·2 cinta de transporte \n[white]·6 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Gier: Revitalized, High-Level Divisions, Warbound Industries, [Better Vanilla] y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
   },
   {
-    "repo": "lu69159/liquidindustry",
-    "internalName": "液体工艺",
-    "name": "Liquid Industry",
-    "author": "Space",
-    "lastUpdated": "2026-06-02T09:36:37Z",
-    "stars": 2,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Liquid Industry Beta v0.24.5 for v158+"
-  },
-  {
     "repo": "eipusino/lotterymodmirror",
     "internalName": "lottery",
     "name": "lottery mod（抽卡模拟）",
@@ -7695,6 +7659,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Come and try your luck! 来试试运气吧！\n\n\n- [!] This mod is currently in the testing phase and may update other prize pools in the future\n\n\nSupport for multiplayer online!\n\n\n封面是我老婆，她叫阿尔图罗"
+  },
+  {
+    "repo": "lu69159/liquidindustry",
+    "internalName": "液体工艺",
+    "name": "Liquid Industry",
+    "author": "Space",
+    "lastUpdated": "2026-06-03T08:29:18Z",
+    "stars": 2,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Liquid Industry Beta v0.24.6 for v158+"
   },
   {
     "repo": "no9527dada/skin",
@@ -7863,18 +7839,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "You're now always can build core shard and you can plan building water pumps on deep water for skyblock servers"
-  },
-  {
-    "repo": "992040/mindustry_build_core_units",
-    "internalName": "buid core units",
-    "name": "mindustry_build_core_units",
-    "author": "992040",
-    "lastUpdated": "2023-07-21T10:02:53Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Allows to build Serpulo core units in air factory"
   },
   {
     "repo": "xenoforce/opore-mod-v7",
@@ -9329,30 +9293,6 @@
     "description": "Unfog your fog of war, might be a little bit unfair.\nYes, This works on multiplayer."
   },
   {
-    "repo": "liudai2011/sequence",
-    "internalName": "seq",
-    "name": "sequence",
-    "author": "Ned-Kelly & LiuDai",
-    "lastUpdated": "2026-02-23T16:26:19Z",
-    "stars": 1,
-    "minGameVersion": "149",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "pls turn on the mod to know more about it"
-  },
-  {
-    "repo": "frilofril/omega",
-    "internalName": "omega",
-    "name": "Omega",
-    "author": "Frilofril",
-    "lastUpdated": "2026-02-24T12:09:28Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A new planet, a new gaming experience and a great storyline are waiting for you in this mod\r\nExplore the planet Omega and finally get your paycheck, explore the history and secrets of what happened here, along with a difficult but balanced gameplay\r\n\r\nAvailable languages:\r\n--English\r\n--Українська\r\n--Руский\r\n--Español\r\n\r\nThe mod is still in development, so everything can still change\r\n\r\nDuring testing on version 155.3, an issue occurred with the planet’s broken atmosphere color. Please ignore it or disable the atmosphere rendering. This is a bug in the game version itself and is almost impossible to fix"
-  },
-  {
     "repo": "unknownobjectv2/mindustek",
     "internalName": "mindustry-camellia-pack",
     "name": "Mindustek",
@@ -10074,18 +10014,6 @@
     "description": "A mod about The Swords from PHIGHTING!\nPossibly unbalanced content."
   },
   {
-    "repo": "wantechfan/mindustry-son-mod",
-    "internalName": "sondustry",
-    "name": "Sondustry",
-    "author": "Wantechfan",
-    "lastUpdated": "2026-06-02T16:21:05Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Addon son ton everon worn"
-  },
-  {
     "repo": "wantechfan/mindustry-wind3-shenanigans",
     "internalName": "wind3-shenanigans",
     "name": "Wind3 Shenanigans",
@@ -10096,6 +10024,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Replaces all sounds with wind3."
+  },
+  {
+    "repo": "wantechfan/mindustry-son-mod",
+    "internalName": "sondustry",
+    "name": "Sondustry",
+    "author": "Wantechfan",
+    "lastUpdated": "2026-06-03T06:18:04Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Addon son ton everon worn"
   },
   {
     "repo": "exxleo/exoterusmod",
@@ -10840,18 +10780,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Sets the menu music in Mindustry to the editor music (the way it was in the early v4 beta)."
-  },
-  {
-    "repo": "wancor1/oilgen-mindustrymod",
-    "internalName": "wangen",
-    "name": "new generators",
-    "author": "wancoro",
-    "lastUpdated": "2024-07-06T06:19:53Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Add items like oil generators."
   },
   {
     "repo": "cyerce/lumirix",
@@ -11788,18 +11716,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "adds new processors for eriker.\n\n\n\ncoming soon: dismantling tower(logic controlable turret that also dammages blocks on it's team), \nshield tower(projects an arc shaped shield in an arbitrary direction)"
-  },
-  {
-    "repo": "50275/mindustry-landingpad-always-configurable",
-    "internalName": "landingpad-always-configurable",
-    "name": "Configurable Landing Pads",
-    "author": "50275",
-    "lastUpdated": "2025-09-25T02:44:35Z",
-    "stars": 0,
-    "minGameVersion": "147",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Mindustry mod. Makes launch pads always configurable. Note that this is a client-side mod. Code provided by Anuke, the developer of Mindustry."
   },
   {
     "repo": "dominusquadra/dont-rotate-my-turrets",
@@ -12798,18 +12714,6 @@
     "description": "Addon to Rodrigonia. Adds a funny crystal made of sulfur, astatine, bromine, hydrogen, neptunium, copernicium and oxygen, which was inspired by a r/cursedchemistry post."
   },
   {
-    "repo": "highspeed85/mindustry-mallpark",
-    "internalName": "mallpark",
-    "name": "Malldustry",
-    "author": "HighSpeed85",
-    "lastUpdated": "2026-05-19T23:00:22Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Mallpark Research & Development presents various interplanetary products, as requested by various customers, or as experiments designed to test the market.\n\n[red]This is a pretty small, crappy and unbalanced mod. Anyway-"
-  },
-  {
     "repo": "claytoniant/better-serpulo---claytoniaw",
     "internalName": "bs",
     "name": "Complemented Serpulo",
@@ -13048,5 +12952,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "An example mod that demonstrates how to use the MultiCrafterLib library.\n一个多配方库的使用示例模组"
+  },
+  {
+    "repo": "highspeed85/mindustry-mallpark",
+    "internalName": "mallpark",
+    "name": "Malldustry",
+    "author": "HighSpeed85",
+    "lastUpdated": "2026-06-03T08:08:48Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mallpark Research & Development presents various interplanetary products, as requested by various customers, or as experiments designed to test the market.\n\n[red]This is a pretty small, crappy and unbalanced mod. Anyway-"
   }
 ]
