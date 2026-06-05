@@ -413,7 +413,7 @@
     "internalName": "exoprosopa",
     "name": "Exoprosopa",
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-06-04T09:09:36Z",
+    "lastUpdated": "2026-06-05T04:01:59Z",
     "stars": 56,
     "minGameVersion": "158",
     "hasScripts": true,
@@ -533,7 +533,7 @@
     "internalName": "azimut",
     "name": "Azimuth",
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-06-04T10:12:07Z",
+    "lastUpdated": "2026-06-05T03:59:05Z",
     "stars": 42,
     "minGameVersion": "158",
     "hasScripts": true,
@@ -1050,7 +1050,7 @@
     "internalName": "cataclysm",
     "name": "Cataclysm",
     "author": "[#ffb33a]JJ[]",
-    "lastUpdated": "2026-06-05T01:45:09Z",
+    "lastUpdated": "2026-06-05T04:34:29Z",
     "stars": 22,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -1590,7 +1590,7 @@
     "internalName": "gr",
     "name": "Gier: Revitalized",
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-06-04T23:38:51Z",
+    "lastUpdated": "2026-06-05T04:00:38Z",
     "stars": 15,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -3356,7 +3356,7 @@
     "internalName": "kratha",
     "name": "KRATHA Preview",
     "author": "namaka",
-    "lastUpdated": "2026-06-04T14:20:39Z",
+    "lastUpdated": "2026-06-05T05:36:46Z",
     "stars": 7,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -3724,18 +3724,6 @@
     "description": "Boatload ton of Erekir content that fill gaps in progression. Avoid if you don't like unoriginal stuff."
   },
   {
-    "repo": "fallingdice/mechanical-factions",
-    "internalName": "mechanical-factions",
-    "name": "JunkTech Industry(WIP)",
-    "author": "FallingDice",
-    "lastUpdated": "2026-05-15T13:44:35Z",
-    "stars": 6,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Unleash the power of salvaged technology!\n JunkTech Industry adds a complete mechanical faction with 10+ new units and specialized turrets.\n Build, recycle, and conquer with the ultimate scrap-metal army."
-  },
-  {
     "repo": "determination-wind/power-grid-minimap-",
     "internalName": "powergrid-minimap",
     "name": "电网小地图 / Power Grid Minimap",
@@ -3770,6 +3758,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Этот мод должен добавлять планету с математикой в качестве блоков, но мод пока в тестировании\n[accent]special thanks to: chmonya (за пример мода и советы)[]"
+  },
+  {
+    "repo": "fallingdice/mechanical-factions",
+    "internalName": "mechanical-factions",
+    "name": "JunkTech Industry(WIP)",
+    "author": "FallingDice",
+    "lastUpdated": "2026-06-05T06:06:22Z",
+    "stars": 6,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Unleash the power of salvaged technology!\n JunkTech Industry adds a complete mechanical faction with 10+ new units and specialized turrets.\n Build, recycle, and conquer with the ultimate scrap-metal army."
   },
   {
     "repo": "mythril382/mobilemapshot",
@@ -6137,18 +6137,6 @@
     "description": "Brings back old SFX."
   },
   {
-    "repo": "lu69159/liquidindustry",
-    "internalName": "液体工艺",
-    "name": "Liquid Industry",
-    "author": "Space",
-    "lastUpdated": "2026-06-03T08:56:13Z",
-    "stars": 3,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Liquid Industry Beta v0.24.6 for v158+"
-  },
-  {
     "repo": "xpdustry/kotlin-runtime",
     "internalName": "kotlin-runtime",
     "name": "KotlinRuntime",
@@ -6171,6 +6159,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "101% radioactive!"
+  },
+  {
+    "repo": "lu69159/liquidindustry",
+    "internalName": "液体工艺",
+    "name": "Liquid Industry",
+    "author": "Space",
+    "lastUpdated": "2026-06-05T05:45:11Z",
+    "stars": 3,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Liquid Industry Beta v0.24.6 for v158+"
   },
   {
     "repo": "rintadev5792/arcane-mindustry",
@@ -12834,18 +12834,6 @@
     "description": "DP storage (serpulo)\nall \"datapatcheable\" mature balance proposals/ideas from the channel will (most likely) be here in the form of datapatches.\n\n### Current Balance datapatches;\n- Jehosulas's Rebalance\n- Efsfse's dp testing ground\n- Blackberry's Rebalance\n\n\n(to add new balance proposals, simply do a PR with the .msav file on github)"
   },
   {
-    "repo": "bluedoves3821/phighthouse-branch",
-    "internalName": "phighthouse",
-    "name": "PHIGHTHOUSE! BRANCH EDITION.",
-    "author": "PHIGHTHOUSE!",
-    "lastUpdated": "2026-05-23T19:00:36Z",
-    "stars": 0,
-    "minGameVersion": "136.1",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "[#D75a58]Disclaimer: this mod shares the same mod name with the base mod, make sure either one of the mods are disabled first.\n\n[#ffffff]PHIGHTHOUSE! is a style i made up which is basically a combination of phighting, a 5v5 fighting game by boggio, and whitehouse, a british extreme music band started by w. bennett.\nthis mod is a \"branch\" version of the base mod, meaning it has it's own tech tree, it also comes with a lot of changes from the original mod,\nmainly, the coilium & whitehouseium production buildings are totally free, and all buildings from this mod only uses materials from this mod.\n(note: this mod was partally inspired by another mod, some buildings from that mod were flipped to fit the phighthouse image, credits to them.)"
-  },
-  {
     "repo": "no9527dada/creatortd",
     "internalName": "cttd",
     "name": "创世神3-DLC.塔防",
@@ -13038,18 +13026,6 @@
     "description": "强制显示游戏内置的核心资源显示表"
   },
   {
-    "repo": "momiji142857/multicrafterlib_momiji",
-    "internalName": "multi-crafter-momiji",
-    "name": "MultiCrafterLib_Momiji",
-    "author": "[sky]Momiji142857[white] (with DeepSeek)",
-    "lastUpdated": "2026-06-04T14:03:33Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "An example mod that demonstrates how to use the MultiCrafterLib library.\n一个多配方库的使用示例模组"
-  },
-  {
     "repo": "raviraviravi98989-byte/compactmachine",
     "internalName": "compactmachine",
     "name": "CompactMachine",
@@ -13062,11 +13038,35 @@
     "description": "Content-only Mindustry mod (v158.1) providing a 1x1 Compact Machine block and JS scripts to create a 10x10 reinforced room around it."
   },
   {
+    "repo": "momiji142857/momijicrafterlib",
+    "internalName": "multi-crafter-momiji",
+    "name": "MultiCrafterLib_Momiji",
+    "author": "[sky]Momiji142857[white] (with DeepSeek)",
+    "lastUpdated": "2026-06-05T02:06:24Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "An example mod that demonstrates how to use the MultiCrafterLib library.\n一个多配方库的使用示例模组"
+  },
+  {
+    "repo": "bluedoves3821/phighthouse-branch",
+    "internalName": "phighthouse",
+    "name": "PHIGHTHOUSE! BRANCH EDITION.",
+    "author": "PHIGHTHOUSE!",
+    "lastUpdated": "2026-06-05T03:47:30Z",
+    "stars": 0,
+    "minGameVersion": "136.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "[#D75a58]Disclaimer: this mod shares the same mod name with the base mod, make sure either one of the mods are disabled first.\n\n[#ffffff]PHIGHTHOUSE! is a style i made up which is basically a combination of phighting, a 5v5 fighting game by boggio, and whitehouse, a british extreme music band started by w. bennett.\nthis mod is a \"branch\" version of the base mod, meaning it has it's own tech tree, it also comes with a lot of changes from the original mod,\nmainly, the coilium & whitehouseium production buildings are totally free, and all buildings from this mod only uses materials from this mod.\n(note: this mod was partally inspired by another mod, some buildings from that mod were flipped to fit the phighthouse image, credits to them.)"
+  },
+  {
     "repo": "october-maker/tri-mod",
     "internalName": "triangle",
     "name": "triangle-mod",
     "author": "一瓶圣水",
-    "lastUpdated": "2026-06-04T23:37:33Z",
+    "lastUpdated": "2026-06-05T04:12:35Z",
     "stars": 0,
     "minGameVersion": "154",
     "hasScripts": false,
