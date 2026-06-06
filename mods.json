@@ -1034,6 +1034,18 @@
     "description": "hehe angish go nrrrt\n\n\ntargets:\n\n- vanilla\n\n- foo's client (builtin)\n\n- SMOLKEYS/yellow-java (extension)"
   },
   {
+    "repo": "dustdustry/patcheditor",
+    "internalName": "patch-editor",
+    "name": "PatchEditor",
+    "author": "minRi2",
+    "lastUpdated": "2026-05-31T02:06:13Z",
+    "stars": 22,
+    "minGameVersion": "156",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Provide an in-game GUI for DataPatcher."
+  },
+  {
     "repo": "jirocab/nyfalis",
     "internalName": "olupis",
     "name": "Nyfalis (Olupis)",
@@ -1164,18 +1176,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "​操作中にSDキャラを表示する機能を追加、Added a function to display chibi during operation (and router) a lot of updates coming"
-  },
-  {
-    "repo": "dustdustry/patcheditor",
-    "internalName": "patch-editor",
-    "name": "PatchEditor",
-    "author": "minRi2",
-    "lastUpdated": "2026-05-31T02:06:13Z",
-    "stars": 21,
-    "minGameVersion": "156",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Provide an in-game GUI for DataPatcher."
   },
   {
     "repo": "sunkenmelody/rospule",
@@ -2919,6 +2919,18 @@
     "description": "Beyond Serpulo expands the Mindustry universe with new planets — Xorinal (organic spore world), Tetra (frost moon), and Vantres (blackened volcanic moon of Erekir). Currently v1.6. Firmly Beta. Try it and if you like it please star on github! Contact me at oscaremoran20@gmail.com. \nUPDATES:\nLICHEN UPDATE (v1.2)\nFLAMEWAR UPDATE (v1.3)\nTETRA UPDATE (v1.4)\nQOL UPDATE (v1.5)\nPILOTS UPDATE (v1.6) \n\nPlease star if you like the mod! Our goal right now is 10 stars. If we get there, I'll add more campaign features!"
   },
   {
+    "repo": "thegodshand777/extra-editor",
+    "internalName": "extra-editor",
+    "name": "Extra Editor",
+    "author": "KlasterX",
+    "lastUpdated": "2026-05-25T14:18:26Z",
+    "stars": 8,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds extra utilities to map editor."
+  },
+  {
     "repo": "eb-wilson/modpacker",
     "internalName": "mod-packer",
     "name": "Mod Packer",
@@ -3280,18 +3292,6 @@
     "description": "It's Mars mod."
   },
   {
-    "repo": "thegodshand777/extra-editor",
-    "internalName": "extra-editor",
-    "name": "Extra Editor",
-    "author": "KlasterX",
-    "lastUpdated": "2026-05-25T14:18:26Z",
-    "stars": 7,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds extra utilities to map editor."
-  },
-  {
     "repo": "arc0480/cookmod",
     "internalName": "cookmod",
     "name": "cookmod",
@@ -3344,7 +3344,7 @@
     "internalName": "lovec",
     "name": "Lovecraftian Library",
     "author": "MaboroshiX",
-    "lastUpdated": "2026-06-05T14:15:02Z",
+    "lastUpdated": "2026-06-06T09:54:20Z",
     "stars": 7,
     "minGameVersion": "158",
     "hasScripts": true,
@@ -3356,7 +3356,7 @@
     "internalName": "kratha",
     "name": "KRATHA Preview",
     "author": "namaka",
-    "lastUpdated": "2026-06-06T07:37:29Z",
+    "lastUpdated": "2026-06-06T11:11:50Z",
     "stars": 7,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -3724,18 +3724,6 @@
     "description": "Boatload ton of Erekir content that fill gaps in progression. Avoid if you don't like unoriginal stuff."
   },
   {
-    "repo": "determination-wind/power-grid-minimap-",
-    "internalName": "powergrid-minimap",
-    "name": "电网小地图 / Power Grid Minimap",
-    "author": "DeterMination",
-    "lastUpdated": "2026-05-23T04:44:08Z",
-    "stars": 6,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Color each independent power grid on minimap/full map, show live power balance, detect split outages, and suggest reconnect links. / 在小地图与全图按电网分色显示，实时展示电力盈亏，检测断网并给出快速重连建议。"
-  },
-  {
     "repo": "redloong9527/logic-chinese-localization",
     "internalName": "logicchineselocalization",
     "name": "逻辑汉化补丁v1.3.2",
@@ -3776,12 +3764,24 @@
     "internalName": "alef-null",
     "name": "Alef-Null",
     "author": "Кселирит",
-    "lastUpdated": "2026-06-06T05:18:55Z",
+    "lastUpdated": "2026-06-06T09:51:05Z",
     "stars": 6,
     "minGameVersion": "146",
     "hasScripts": true,
     "hasJava": false,
     "description": "Этот мод должен добавлять планету с математикой в качестве блоков, но мод пока в тестировании\n[accent]special thanks to: chmonya (за пример мода и советы)[]"
+  },
+  {
+    "repo": "determination-wind/power-grid-minimap-",
+    "internalName": "powergrid-minimap",
+    "name": "电网小地图 / Power Grid Minimap",
+    "author": "DeterMination",
+    "lastUpdated": "2026-06-06T10:09:18Z",
+    "stars": 6,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Color each independent power grid on minimap/full map, show live power balance, detect split outages, and suggest reconnect links. / 在小地图与全图按电网分色显示，实时展示电力盈亏，检测断网并给出快速重连建议。"
   },
   {
     "repo": "mythril382/mobilemapshot",
@@ -5032,6 +5032,18 @@
     "description": "A mindustry mod that adds a new planet with its own campaign, still WIP. Thanks to amogus2824 on discord for fixing the icy sprite and resprite Benite"
   },
   {
+    "repo": "unquis/fading-revelations-remake",
+    "internalName": "fading-revelations-remake",
+    "name": "Fading Revelations Remake",
+    "author": "\nDevelopers\n- Java : UnQuis\n- Json/Hjson : Catser\n- Balancing : Catser / .Frankie\n- Bug Fixes : Catser\n\nTranslators\n- English : Catser\n- German : Catser\n- Spanish : Catser / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Catser / Froomeeth\n- Lore: iori / Catser\n- Cryogenic Gel, Igneous Alloy,\n  Multiblock-Crafter base model:\n  Null (Nullevoy)\n\nAnd more people!\nCheck the Discord!",
+    "lastUpdated": "2026-05-23T10:10:38Z",
+    "stars": 4,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\nA huge, fun & balanced content extension mod.\nContinuing the legacy of Fading Revelations with new content, fixes, and improvements.\n\nPlease note that the Serpulo research tree has\nbeen moved into it's own tree because it was\ntoo large.\nTo get to the Fading Revelations Serpulo \nresearch tree, please switch to it the same way\nyou would switch between the Erekir and Serpulo\nresearch trees.\nOn that menu, a new button will be available \nthat takes you to the Fading Revelations \nSerpulo research tree. \n\nFeatures\nTwo new planets and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish (WIP)\n- Ukrainian (WIP)\n- Russian\n\n\nCheck Discord / GitHub \nfor more information!"
+  },
+  {
     "repo": "wmf-industries/terios",
     "internalName": "terios",
     "name": "Terios",
@@ -5084,7 +5096,7 @@
     "internalName": "viridium",
     "name": "Viridium",
     "author": "Choco Same",
-    "lastUpdated": "2026-06-05T15:47:25Z",
+    "lastUpdated": "2026-06-06T10:13:06Z",
     "stars": 4,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -6041,18 +6053,6 @@
     "description": "A mod that colors the bridges"
   },
   {
-    "repo": "unquis/fading-revelations-remake",
-    "internalName": "fading-revelations-remake",
-    "name": "Fading Revelations Remake",
-    "author": "\nDevelopers\n- Java : UnQuis\n- Json/Hjson : Catser\n- Balancing : Catser / .Frankie\n- Bug Fixes : Catser\n\nTranslators\n- English : Catser\n- German : Catser\n- Spanish : Catser / HairyNugget\n- Ukrainian: Prosta4ok_ua\n- Russian: Timofejamda\n\nContributors\n- Schematics: Dragonboi / Zombee\n- Sprites : Catser / Froomeeth\n- Lore: iori / Catser\n- Cryogenic Gel, Igneous Alloy,\n  Multiblock-Crafter base model:\n  Null (Nullevoy)\n\nAnd more people!\nCheck the Discord!",
-    "lastUpdated": "2026-05-23T10:10:38Z",
-    "stars": 3,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\nA huge, fun & balanced content extension mod.\nContinuing the legacy of Fading Revelations with new content, fixes, and improvements.\n\nPlease note that the Serpulo research tree has\nbeen moved into it's own tree because it was\ntoo large.\nTo get to the Fading Revelations Serpulo \nresearch tree, please switch to it the same way\nyou would switch between the Erekir and Serpulo\nresearch trees.\nOn that menu, a new button will be available \nthat takes you to the Fading Revelations \nSerpulo research tree. \n\nFeatures\nTwo new planets and many blocks, \nunits, items, liquids, schematics\n& ammo types.\n\n\nLanguages\n- English\n- German\n- Spanish (WIP)\n- Ukrainian (WIP)\n- Russian\n\n\nCheck Discord / GitHub \nfor more information!"
-  },
-  {
     "repo": "zenthxsin/voidshield",
     "internalName": "voidshield",
     "name": "Void Shield",
@@ -6113,30 +6113,6 @@
     "description": "Mod add tanks, aircraft, artillery, diesel generators"
   },
   {
-    "repo": "wantechfan/mindustry-legacy-sounds",
-    "internalName": "legacy-sounds",
-    "name": "Legacy Sounds",
-    "author": "WantechFan",
-    "lastUpdated": "2026-06-02T07:17:03Z",
-    "stars": 3,
-    "minGameVersion": "154",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Brings back old SFX."
-  },
-  {
-    "repo": "tirpis/uranium",
-    "internalName": "uranium",
-    "name": "Uranium",
-    "author": "THT 2",
-    "lastUpdated": "2026-06-04T19:21:03Z",
-    "stars": 3,
-    "minGameVersion": "158.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "101% radioactive!"
-  },
-  {
     "repo": "lu69159/liquidindustry",
     "internalName": "液体工艺",
     "name": "Liquid Industry",
@@ -6149,18 +6125,6 @@
     "description": "Liquid Industry Beta v0.24.6 for v158+"
   },
   {
-    "repo": "penguip/a-mindustry-mod",
-    "internalName": "beepdustry",
-    "name": "BEEPDUSTRY",
-    "author": "DNAlly/penguip",
-    "lastUpdated": "2026-06-05T07:47:37Z",
-    "stars": 3,
-    "minGameVersion": "149",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Very DaF! based mod. Don't ask what that is.\n!BIG WEEB LORE WARNING!"
-  },
-  {
     "repo": "xpdustry/kotlin-runtime",
     "internalName": "kotlin-runtime",
     "name": "KotlinRuntime",
@@ -6171,6 +6135,42 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A companion mod for Kotlin based mods and plugins."
+  },
+  {
+    "repo": "wantechfan/mindustry-legacy-sounds",
+    "internalName": "legacy-sounds",
+    "name": "Legacy Sounds",
+    "author": "WantechFan",
+    "lastUpdated": "2026-06-06T08:41:39Z",
+    "stars": 3,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Brings back old SFX."
+  },
+  {
+    "repo": "penguip/a-mindustry-mod",
+    "internalName": "beepdustry",
+    "name": "BEEPDUSTRY",
+    "author": "DNAlly/penguip",
+    "lastUpdated": "2026-06-06T10:16:31Z",
+    "stars": 3,
+    "minGameVersion": "149",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Very DaF! based mod. Don't ask what that is.\n!BIG WEEB LORE WARNING!"
+  },
+  {
+    "repo": "tirpis/uranium",
+    "internalName": "uranium",
+    "name": "Uranium",
+    "author": "THT 2",
+    "lastUpdated": "2026-06-06T10:53:21Z",
+    "stars": 3,
+    "minGameVersion": "158.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "101% radioactive!"
   },
   {
     "repo": "rintadev5792/arcane-mindustry",
@@ -9221,18 +9221,6 @@
     "description": "Content patcher for PiggyChu620 mods"
   },
   {
-    "repo": "mindustrynew/mindustry-randomideas",
-    "internalName": "xevanon-mod",
-    "name": "Xevanon Mod",
-    "author": "--- <> ---",
-    "lastUpdated": "2026-02-08T10:20:07Z",
-    "stars": 1,
-    "minGameVersion": "154.3",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Lade diese Mod nur über den neuesten Release auf GitHub herunter! - - - Download this mod on GitHub only via the latest release! "
-  },
-  {
     "repo": "urbokie/tankdustry",
     "internalName": "tankdustry",
     "name": "TankDustry",
@@ -9762,18 +9750,6 @@
     "description": "A java remake of my json unfinished mod."
   },
   {
-    "repo": "wantechfan/mindustry-reversed-musics",
-    "internalName": "reversed-musics",
-    "name": "Reversed Musics",
-    "author": "WantechFan",
-    "lastUpdated": "2026-05-10T05:42:18Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Reverses all Mindustry musics."
-  },
-  {
     "repo": "0razec/erekir-mods",
     "internalName": "erekir-mods",
     "name": "{ Erekir MODS }",
@@ -10096,6 +10072,30 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Changes your Mindustry sound effects into some cursed sounds."
+  },
+  {
+    "repo": "wantechfan/mindustry-reversed-musics",
+    "internalName": "reversed-musics",
+    "name": "Reversed Musics",
+    "author": "WantechFan",
+    "lastUpdated": "2026-06-06T08:37:16Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Reverses all Mindustry musics."
+  },
+  {
+    "repo": "mindustrynew/mindustry-randomideas",
+    "internalName": "xevanon-mod",
+    "name": "Xevanon Mod",
+    "author": "--- <> ---",
+    "lastUpdated": "2026-06-06T11:02:53Z",
+    "stars": 1,
+    "minGameVersion": "154.3",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Lade diese Mod nur über den neuesten Release auf GitHub herunter! - - - Download this mod on GitHub only via the latest release! "
   },
   {
     "repo": "exxleo/exoterusmod",
