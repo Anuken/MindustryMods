@@ -269,7 +269,7 @@
     "name": "(v8) Invincible Cheat 无敌作弊",
     "author": "滞人",
     "lastUpdated": "2025-05-01T15:16:43Z",
-    "stars": 85,
+    "stars": 86,
     "minGameVersion": "149",
     "hasScripts": true,
     "hasJava": false,
@@ -689,7 +689,7 @@
     "internalName": "carpe-diem",
     "name": "Carpe Diem",
     "author": "Nullotte",
-    "lastUpdated": "2026-06-04T13:22:57Z",
+    "lastUpdated": "2026-06-06T07:45:02Z",
     "stars": 38,
     "minGameVersion": "158",
     "hasScripts": false,
@@ -1502,6 +1502,18 @@
     "description": "A massive personalized content expansion for Serpulo.\nMost of the content in this mod is my vision for what I wanted to be in the game, yet isn't.\n\nContent included:\n- 2 more tiers for every vanilla crafter\n- The Alloy Trio, composed of Neoplastic, Cryogenic and Ultimatter alloys, each having its own large set of blocks made out of them\n- Four new fluids: Lubricant, Steam, Lava, and Quantofluid, plus a new ingredient called Magmatite\n- Liquid capsules, which allow for the transportation of liquids in the form of items, for things like cross-sector transportation via export, or long range transportation over terrain via mass driver.\n\nCredits:\n- Myself obviously, for implementing all the content in the mod.\n- red.id9990 for spriting the vanilla crafter upgrades\n- tinnphat_ for spriting almost every remaining block\n- giga_chad96 for the sprite of Voltage, and Tesla"
   },
   {
+    "repo": "arktcode/dynamic-shadows",
+    "internalName": "dynamic-shadows",
+    "name": "Dynamic Shadows",
+    "author": "Arksource",
+    "lastUpdated": "2026-05-30T05:59:49Z",
+    "stars": 16,
+    "minGameVersion": "158.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Standalone high-fidelity dynamic shadow system with cinematic day/night cycles and dual-pass rendering."
+  },
+  {
     "repo": "yuria-shikibe/gameinfoimager",
     "internalName": "game-info-imager",
     "name": "Game Info Imager",
@@ -1562,18 +1574,6 @@
     "description": "A mod centered around fighting bosses, with a focus on pattern-based attacks. Entirely detached from Mindustry's traditional gameplay loop - The Virtuality Archives restrains the player in a measly vessel and pits them against encoded entities. Does not utilize scripts or Java, seeking to explore the technical scope of (H)JSON and MLOG. Best experienced with a mouse and keyboard.\n\nCurrently features [red]6/7[] planned bosses in the campaign - Candor, Ardent & Argent, Pandemonium, Misanthrope, Nyx, and Alluvion.\n\n[accent][i] In the campaign, Misanthrope's sector currently does not behave as intended for the latest stable build. Play the sector in Custom Game or build 157.4."
   },
   {
-    "repo": "arktcode/dynamic-shadows",
-    "internalName": "dynamic-shadows",
-    "name": "Dynamic Shadows",
-    "author": "Arksource",
-    "lastUpdated": "2026-05-30T05:59:49Z",
-    "stars": 15,
-    "minGameVersion": "158.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Standalone high-fidelity dynamic shadow system with cinematic day/night cycles and dual-pass rendering."
-  },
-  {
     "repo": "kev-vily/epsilon",
     "internalName": "epsilon",
     "name": "Epsilon",
@@ -1590,7 +1590,7 @@
     "internalName": "gr",
     "name": "Gier: Revitalized",
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-06-05T14:49:35Z",
+    "lastUpdated": "2026-06-06T06:44:57Z",
     "stars": 15,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -1999,7 +1999,7 @@
     "internalName": "cursed-bundles",
     "name": "Cursed Bundles",
     "author": "WantechFan",
-    "lastUpdated": "2026-06-06T05:42:10Z",
+    "lastUpdated": "2026-06-06T06:27:17Z",
     "stars": 12,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2455,10 +2455,10 @@
     "internalName": "cool-musics",
     "name": "Cool Musics",
     "author": "WantechFan",
-    "lastUpdated": "2026-06-05T09:32:17Z",
+    "lastUpdated": "2026-06-06T06:26:32Z",
     "stars": 10,
     "minGameVersion": "136",
-    "hasScripts": true,
+    "hasScripts": false,
     "hasJava": false,
     "description": "Replaces every single musics ingame with some musics I (And the community) got.\nRequest your musics on discord.gg/rjQndaHGFu and let the community decide if it's good or not to be added."
   },
@@ -3356,7 +3356,7 @@
     "internalName": "kratha",
     "name": "KRATHA Preview",
     "author": "namaka",
-    "lastUpdated": "2026-06-06T05:41:23Z",
+    "lastUpdated": "2026-06-06T07:37:29Z",
     "stars": 7,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -7517,18 +7517,6 @@
     "description": "[gold]Machine do nothing I can not do. It just do faster.[]\n\n\n\n\n[red]E[][white]N[][cyan]: This mod is focused on the quality of the game in PvP mode on the planet Erekir.\n\nThe following features are currently implemented:\n – Finding path for items\n – Finding path for liquids\n – Finding path for beam nodes\n – Connecting turbine condensers in the map area to the main power net\n – Changing order of the build plan queue[]\n\n\n\n\n[red]R[][blue]U[][cyan]: Этот мод ориентирован на качество игры в режиме PvP на планете Эрекир.\n\nВ данный момент реализованы следующие возможности:\n – Построение маршрута для предметов\n – Построение маршрута для жидкостей\n – Построение маршрута для лучевых узлов\n – Присоединение жерловых конденсаторов в области карты к основной энергетической сети\n – Изменение очерёдности планов строительства[]\n\n\n"
   },
   {
-    "repo": "m1cxzfw3q/thermal-engineering-java",
-    "internalName": "temod",
-    "name": "Thermal Engineering",
-    "author": "[sky]114514[white]",
-    "lastUpdated": "2026-05-10T14:06:45Z",
-    "stars": 2,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\n[blue]=====INFO=========================\n[gold]ThermalEnginerring  [red]0.0.2_A\n[blue]=====DESCRIPTION==================\n[sky]A mindustry Java&Kotlin(JVM) Mod\n一个Mindustry的JVMMod\n"
-  },
-  {
     "repo": "rocket550/zytheron-technology-java-",
     "internalName": "zytheron",
     "name": "Zytheron Technology(Java)",
@@ -7695,6 +7683,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Come and try your luck! 来试试运气吧！\n\n\n- [!] This mod is currently in the testing phase and may update other prize pools in the future\n\n\nSupport for multiplayer online!\n\n\n封面是我老婆，她叫阿尔图罗"
+  },
+  {
+    "repo": "m1cxzfw3q/thermal-engineering-java",
+    "internalName": "temod",
+    "name": "Thermal Engineering",
+    "author": "[sky]114514[white]",
+    "lastUpdated": "2026-06-06T07:36:31Z",
+    "stars": 2,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\n[blue]=====INFO=========================\n[gold]ThermalEnginerring  [red]0.0.2_A\n[blue]=====DESCRIPTION==================\n[sky]A mindustry Java&Kotlin(JVM) Mod\n一个Mindustry的JVMMod\n"
   },
   {
     "repo": "no9527dada/skin",
@@ -9870,18 +9870,6 @@
     "description": "This mod add new planet and more new content\n\nDeveloper: Votak (abzobua)\nHelper: Tekta_Ru\n\nlanguage\nEnglish\nРусский"
   },
   {
-    "repo": "wantechfan/mindustry-evil-liquids",
-    "internalName": "evil-liquids",
-    "name": "Evil Liquids",
-    "author": "WantechFan",
-    "lastUpdated": "2026-05-22T19:07:42Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "This mod adds neoplasm version of all liquids (except Water which already has it's own neoplasm)."
-  },
-  {
     "repo": "zenthxsin/unitlaunchpad",
     "internalName": "单位发射台",
     "name": "Unit launch pad",
@@ -9954,18 +9942,6 @@
     "description": "Adds music from [#96EFFF]Celeste[white].\n\n\n\nboss1 - Resurrection\nboss2 - In the Mirror\neditor - Heart of the Mountain\nfine - Madeline and Theo\ngame1 - Fear of the Unknown\ngame2 - Jou of Remembrance\ngame3 - In Stasis\ngame4 - Beyond the Heart\ngame5 - Farewell\ngame6 - Quiet and Falling\ngame7 - Old Site (Black Moonrise Mix)\ngame8 - Summit (No More Running Mix)\ngame9 - The Core (Say Goodbye Mix)\nland - Crash\nlaunch - The Empty Space Above\nmenu - Postcard from Celeste Mountain\n\n[#646464]Check Music&Sounds.txt in the mod folder for more information.[white]"
   },
   {
-    "repo": "wantechfan/mindustry-overpowered-scathe",
-    "internalName": "overpowered-scathe",
-    "name": "Overpowered Scathe",
-    "author": "WantechFan",
-    "lastUpdated": "2026-05-28T11:38:17Z",
-    "stars": 1,
-    "minGameVersion": "155.2",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Buffs Scathe."
-  },
-  {
     "repo": "jirocab/john-mindustry",
     "internalName": "johnmindustry",
     "name": "john mindustry",
@@ -10014,18 +9990,6 @@
     "description": "提供一些辅助功能, 例如修改资源,建筑,单位,地图, 以及各种方便大家游玩的功能"
   },
   {
-    "repo": "wantechfan/mindustry-cursed-sfx",
-    "internalName": "cursed-sfx",
-    "name": "Cursed SFX",
-    "author": "WantechFan",
-    "lastUpdated": "2026-06-03T15:59:21Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Changes your Mindustry sound effects into some cursed sounds."
-  },
-  {
     "repo": "oscillatorium/martin",
     "internalName": "martin",
     "name": "Martin's mod",
@@ -10062,18 +10026,6 @@
     "description": "A basic SLF4J implementation for Mindustry."
   },
   {
-    "repo": "wantechfan/mindustry-son-mod",
-    "internalName": "sondustry",
-    "name": "Sondustry",
-    "author": "Wantechfan",
-    "lastUpdated": "2026-06-05T07:12:28Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Addon son ton everon worn"
-  },
-  {
     "repo": "bluedoves3821/phighting-sword-deities",
     "internalName": "sword-deities-mod",
     "name": "PHIGHTING! SWORD DEITIES",
@@ -10096,6 +10048,54 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Мод добавляет немного моих схем отсортированных по тегам. Этот  мод ещё будет дорабатываться"
+  },
+  {
+    "repo": "wantechfan/mindustry-son-mod",
+    "internalName": "sondustry",
+    "name": "Sondustry",
+    "author": "Wantechfan",
+    "lastUpdated": "2026-06-06T05:53:36Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Addon son ton everon worn"
+  },
+  {
+    "repo": "wantechfan/mindustry-overpowered-scathe",
+    "internalName": "overpowered-scathe",
+    "name": "Overpowered Scathe",
+    "author": "WantechFan",
+    "lastUpdated": "2026-06-06T05:59:09Z",
+    "stars": 1,
+    "minGameVersion": "155.2",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Buffs Scathe."
+  },
+  {
+    "repo": "wantechfan/mindustry-evil-liquids",
+    "internalName": "evil-liquids",
+    "name": "Evil Liquids",
+    "author": "WantechFan",
+    "lastUpdated": "2026-06-06T06:25:31Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This mod adds neoplasm version of all liquids (except Water which already has it's own neoplasm)."
+  },
+  {
+    "repo": "wantechfan/mindustry-cursed-sfx",
+    "internalName": "cursed-sfx",
+    "name": "Cursed SFX",
+    "author": "WantechFan",
+    "lastUpdated": "2026-06-06T07:03:01Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Changes your Mindustry sound effects into some cursed sounds."
   },
   {
     "repo": "exxleo/exoterusmod",
