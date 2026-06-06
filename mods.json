@@ -64,7 +64,7 @@
     "internalName": "schema",
     "name": "Schema",
     "author": "xzxADIxzx",
-    "lastUpdated": "2026-06-05T21:24:38Z",
+    "lastUpdated": "2026-06-06T16:05:26Z",
     "stars": 230,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -220,7 +220,7 @@
     "internalName": "aquarion",
     "name": "Aquarion",
     "author": "twcash",
-    "lastUpdated": "2026-06-06T14:09:06Z",
+    "lastUpdated": "2026-06-06T15:57:53Z",
     "stars": 102,
     "minGameVersion": "158.1",
     "hasScripts": false,
@@ -364,7 +364,7 @@
     "internalName": "fos",
     "name": "Fictional Octo System",
     "author": "Team Oct",
-    "lastUpdated": "2026-06-06T14:53:03Z",
+    "lastUpdated": "2026-06-06T15:23:16Z",
     "stars": 65,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -4312,18 +4312,6 @@
     "description": "Adds cheat-grade Chrono blocks for global item and liquid transport, terrain conversion, item conversion, repair, construction, overdrive, unit buffs, unit debuffs, and core placement.\n  Update: expanded documentation and metadata for the full Chrono block set."
   },
   {
-    "repo": "jojofr1/multicrafter",
-    "internalName": "multicrafter",
-    "name": "MultiCrafter",
-    "author": "Jojo\n[gray]Original Author:[]\nLiplum\n[gray]Icon:[]\nPatou",
-    "lastUpdated": "2026-06-06T00:17:11Z",
-    "stars": 5,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A library for mods that allows you to create factories with [yellow]multiple recipes[] in a single block.\n\n[lightgray]Official port and rewrite of the original library [gray]MutliCrafterLib[].[]\n\n[red]⚠[] Does [red]NOT[] add any content on its own, but is [gold]required[] for mods that want to use the library."
-  },
-  {
     "repo": "aevorlum/liminal-protocol",
     "internalName": "lp",
     "name": "Liminal Protocol",
@@ -4334,6 +4322,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[red]俺寻思之力"
+  },
+  {
+    "repo": "jojofr1/multicrafter",
+    "internalName": "multicrafter",
+    "name": "MultiCrafter",
+    "author": "Jojo\n[gray]Original Author:[]\nLiplum\n[gray]Icon:[]\nPatou",
+    "lastUpdated": "2026-06-06T16:41:55Z",
+    "stars": 5,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A library for mods that allows you to create factories with [yellow]multiple recipes[] in a single block.\n\n[lightgray]Official port and rewrite of the original library [gray]MutliCrafterLib[].[]\n\n[red]⚠[] Does [red]NOT[] add any content on its own, but is [gold]required[] for mods that want to use the library."
   },
   {
     "repo": "mythril382/goldensilicon",
@@ -6113,18 +6113,6 @@
     "description": "Mod add tanks, aircraft, artillery, diesel generators"
   },
   {
-    "repo": "lu69159/liquidindustry",
-    "internalName": "液体工艺",
-    "name": "Liquid Industry",
-    "author": "Space",
-    "lastUpdated": "2026-06-05T05:45:11Z",
-    "stars": 3,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Liquid Industry Beta v0.24.6 for v158+"
-  },
-  {
     "repo": "xpdustry/kotlin-runtime",
     "internalName": "kotlin-runtime",
     "name": "KotlinRuntime",
@@ -6135,18 +6123,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A companion mod for Kotlin based mods and plugins."
-  },
-  {
-    "repo": "penguip/a-mindustry-mod",
-    "internalName": "beepdustry",
-    "name": "BEEPDUSTRY",
-    "author": "DNAlly/penguip",
-    "lastUpdated": "2026-06-06T10:16:31Z",
-    "stars": 3,
-    "minGameVersion": "149",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Very DaF! based mod. Don't ask what that is.\n!BIG WEEB LORE WARNING!"
   },
   {
     "repo": "tirpis/uranium",
@@ -6171,6 +6147,30 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Brings back old SFX."
+  },
+  {
+    "repo": "penguip/a-mindustry-mod",
+    "internalName": "beepdustry",
+    "name": "BEEPDUSTRY",
+    "author": "DNAlly/penguip",
+    "lastUpdated": "2026-06-06T15:12:39Z",
+    "stars": 3,
+    "minGameVersion": "149",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Very DaF! based mod. Don't ask what that is.\n!BIG WEEB LORE WARNING!"
+  },
+  {
+    "repo": "lu69159/liquidindustry",
+    "internalName": "液体工艺",
+    "name": "Liquid Industry",
+    "author": "Space",
+    "lastUpdated": "2026-06-06T16:39:25Z",
+    "stars": 3,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Liquid Industry Beta v0.24.6 for v158+"
   },
   {
     "repo": "rintadev5792/arcane-mindustry",
@@ -9930,18 +9930,6 @@
     "description": "survival - 1s waves timer, attackmap - 30s"
   },
   {
-    "repo": "wantechfan/mindustry-no-building-damage-penalty",
-    "internalName": "no-building-damage-penalty",
-    "name": "No Building Damage Penalty",
-    "author": "Wantechfan",
-    "lastUpdated": "2026-05-29T18:10:43Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Removes building damage penalty"
-  },
-  {
     "repo": "ancvike/auxiliarymod",
     "internalName": "auxiliary-mod",
     "name": "辅助mod",
@@ -9988,18 +9976,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A basic SLF4J implementation for Mindustry."
-  },
-  {
-    "repo": "bluedoves3821/phighting-sword-deities",
-    "internalName": "sword-deities-mod",
-    "name": "PHIGHTING! SWORD DEITIES",
-    "author": "BlueDoves3821",
-    "lastUpdated": "2026-06-05T11:40:20Z",
-    "stars": 1,
-    "minGameVersion": "136.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod about The Swords from PHIGHTING!\nPossibly unbalanced content."
   },
   {
     "repo": "kernelitt/kernelit-s-schemepack",
@@ -10096,6 +10072,30 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Replaces all sounds with wind3."
+  },
+  {
+    "repo": "wantechfan/mindustry-no-building-damage-penalty",
+    "internalName": "no-building-damage-penalty",
+    "name": "No Building Damage Penalty",
+    "author": "Wantechfan",
+    "lastUpdated": "2026-06-06T15:25:47Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Removes building damage penalty"
+  },
+  {
+    "repo": "bluedoves3821/phighting-sword-deities",
+    "internalName": "sword-deities-mod",
+    "name": "PHIGHTING! SWORD DEITIES",
+    "author": "BlueDoves3821",
+    "lastUpdated": "2026-06-06T16:02:36Z",
+    "stars": 1,
+    "minGameVersion": "136.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod about The Swords from PHIGHTING!\nPossibly unbalanced content."
   },
   {
     "repo": "exxleo/exoterusmod",
@@ -13086,18 +13086,6 @@
     "description": "三角模组2.x半成品"
   },
   {
-    "repo": "wantechfan/mindustry-ioskatev-language-archive",
-    "internalName": "ioskatev-language",
-    "name": "Mixed 7 ioskaTev languages translation of mindusTry (ve...",
-    "author": "☭Betu☭ & WantechFan",
-    "lastUpdated": "2026-06-06T12:43:34Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "made by @betu.ioskatev from Mindustry discord. Very cursed translátións of the game. Not fully translated yet!"
-  },
-  {
     "repo": "someoneelse42/mindustryscorivon",
     "internalName": "scorivon",
     "name": "Volcanic Wasteland",
@@ -13108,5 +13096,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds a new volcanic planet with a bunch of new content. Can you piece together what caused this once cool planet to become what's left of it today?\n\nColoured names of items might indicate that they might be interesting in some way. I also recommend reading some of the details, I put a lot of thought into the lore :)\n\nThis is my very first mod. It's still not completely functional but I'm working on it. It's mostly just a \"playground\" to try out what modding has to offer. I do intend it to be somewhat playable though.\nThere is no campaign mode yet, however you can try out some of the maps which I am working on and planning to include in the campaign later.\n\nAny feedback is always appreciated. Please create an issue to submit it."
+  },
+  {
+    "repo": "wantechfan/mindustry-ioskatev-language-archive",
+    "internalName": "ioskatev-language",
+    "name": "Mixed 7 ioskaTev languages translation of mindusTry (ve...",
+    "author": "☭Betu☭ & WantechFan",
+    "lastUpdated": "2026-06-06T16:32:24Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "made by @betu.ioskatev from Mindustry discord. Very cursed translátións of the game. Not fully translated yet!"
   }
 ]
