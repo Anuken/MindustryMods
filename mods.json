@@ -1574,19 +1574,6 @@
     "description": "A mod centered around fighting bosses, with a focus on pattern-based attacks. Entirely detached from Mindustry's traditional gameplay loop - The Virtuality Archives restrains the player in a measly vessel and pits them against encoded entities. Does not utilize scripts or Java, seeking to explore the technical scope of (H)JSON and MLOG. Best experienced with a mouse and keyboard.\n\nCurrently features [red]6/7[] planned bosses in the campaign - Candor, Ardent & Argent, Pandemonium, Misanthrope, Nyx, and Alluvion.\n\n[accent][i] In the campaign, Misanthrope's sector currently does not behave as intended for the latest stable build. Play the sector in Custom Game or build 157.4."
   },
   {
-    "repo": "fat-bird-owner/gier-revitalized",
-    "internalName": "gr",
-    "name": "Gier: Revitalized",
-    "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-06-07T06:31:15Z",
-    "stars": 15,
-    "minGameVersion": "156",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe.\n\nIf the main version is a bugged then \nplease use the latest releases instead\nas those are stable.\n[]\n\n[accent]Starring is greatly appreciated[]\n[grey](Our current goal is 15 stars)[]\n",
-    "iosCompatible": true
-  },
-  {
     "repo": "kev-vily/epsilon",
     "internalName": "epsilon",
     "name": "Epsilon",
@@ -1597,6 +1584,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod which introduces actually unique [accent]Story Based Campaign[].\nMain goal of this mod is to show that lore based mods can be good too.\n\nWith story gameplay it introduces to you some new mechanics."
+  },
+  {
+    "repo": "fat-bird-owner/gier-revitalized",
+    "internalName": "gr",
+    "name": "Gier: Revitalized",
+    "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
+    "lastUpdated": "2026-06-07T15:56:42Z",
+    "stars": 15,
+    "minGameVersion": "156",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe.\n\nIf the main version is a bugged then \nplease use the latest releases instead\nas those are stable.\n[]\n\n[accent]Starring is greatly appreciated[]\n[grey](Our current goal is 15 stars)[]\n",
+    "iosCompatible": true
   },
   {
     "repo": "yal-game-things/mindustry-tiny-things",
@@ -3776,7 +3776,7 @@
     "internalName": "alef-null",
     "name": "Alef-Null",
     "author": "Кселирит",
-    "lastUpdated": "2026-06-07T14:29:16Z",
+    "lastUpdated": "2026-06-07T16:46:42Z",
     "stars": 6,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -5120,7 +5120,7 @@
     "internalName": "mcs",
     "name": "More Custom Settings",
     "author": "Space",
-    "lastUpdated": "2026-06-07T14:51:52Z",
+    "lastUpdated": "2026-06-07T15:23:28Z",
     "stars": 4,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -5132,7 +5132,7 @@
     "internalName": "uranium",
     "name": "Uranium",
     "author": "THT 2",
-    "lastUpdated": "2026-06-07T14:53:07Z",
+    "lastUpdated": "2026-06-07T16:06:01Z",
     "stars": 4,
     "minGameVersion": "158.1",
     "hasScripts": false,
@@ -5993,18 +5993,6 @@
     "description": "Your aim is to colonize this teeming life planet"
   },
   {
-    "repo": "sunkymp3g/netroniumtfs",
-    "internalName": "netroniummod",
-    "name": "Netronium: The Final Showdown",
-    "author": "[orange]Sunky.MP3G",
-    "lastUpdated": "2026-04-29T07:33:01Z",
-    "stars": 3,
-    "minGameVersion": "154.3",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Content Update 3 released!\n\nA planet, surrounded by a dome, awaits you...\nIt's a beta version, it doesn't contain much things and has some bad sprites.\nOur Discord server's link is on GitHub page, go check it!"
-  },
-  {
     "repo": "stripey76/moreteamregions",
     "internalName": "more-team-regions",
     "name": "More Team Regions",
@@ -6165,12 +6153,24 @@
     "internalName": "beepdustry",
     "name": "BEEPDUSTRY",
     "author": "DNAlly/penguip",
-    "lastUpdated": "2026-06-07T15:08:59Z",
+    "lastUpdated": "2026-06-07T15:23:52Z",
     "stars": 3,
     "minGameVersion": "149",
     "hasScripts": true,
     "hasJava": false,
     "description": "Very DaF! based mod. Don't ask what that is.\n!BIG WEEB LORE WARNING!"
+  },
+  {
+    "repo": "sunkymp3g/netroniumtfs",
+    "internalName": "netroniummod",
+    "name": "Netronium: The Final Showdown",
+    "author": "[orange]Sunky.MP3G",
+    "lastUpdated": "2026-06-07T16:48:53Z",
+    "stars": 3,
+    "minGameVersion": "154.3",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Content Update 3 released!\n\nA planet, surrounded by a dome, awaits you...\nIt's a beta version, it doesn't contain much things and has some bad sprites.\nOur Discord server's link is on GitHub page, go check it!"
   },
   {
     "repo": "rintadev5792/arcane-mindustry",
@@ -10090,7 +10090,7 @@
     "internalName": "cursed-sfx",
     "name": "Cursed SFX",
     "author": "WantechFan",
-    "lastUpdated": "2026-06-07T15:12:56Z",
+    "lastUpdated": "2026-06-07T15:15:34Z",
     "stars": 1,
     "minGameVersion": "146",
     "hasScripts": false,
