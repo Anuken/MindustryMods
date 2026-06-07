@@ -220,7 +220,7 @@
     "internalName": "aquarion",
     "name": "Aquarion",
     "author": "twcash",
-    "lastUpdated": "2026-06-07T18:59:35Z",
+    "lastUpdated": "2026-06-07T20:31:22Z",
     "stars": 102,
     "minGameVersion": "158.1",
     "hasScripts": false,
@@ -1074,7 +1074,7 @@
     "internalName": "cataclysm",
     "name": "Cataclysm",
     "author": "[#ffb33a]JJ[]",
-    "lastUpdated": "2026-06-07T05:56:21Z",
+    "lastUpdated": "2026-06-07T20:53:34Z",
     "stars": 22,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -1683,6 +1683,18 @@
     "description": "Your schemes and saves are prone to corruption. Export your data before updating.\n\nAn extremely large mod solely dedicated for mindustry roleplaying and builds alike.\n\nQRM V7.1 aims to fix most of the bugs found after v7's release.\nQRM v7 Changelog:\nAdded\n- Beveled sorters, Highlighted sorters, and Unloader Two chiseled sets\n- Way, way more chiseled diagonal variants \n- Chiseled diagonal duct router and bezeled sets\n- Hazel, Tyrian, Royal, Terracotta, Pale, Graphene Walls\n- Ash and Alternate sand and red sand env walls \n- RGBCMY + White, Black Overlay floors\n- CMY, Sorter gray + Source yellow floors\n- Thunder, Windstorm, Thunderstorm, Rain and Ping SFX blocks\n- Void messages\n- Vials readded\n- Message blocks that look like RP books\n- [WIP] Particle gen with changeable colours via ammo\n- Powerline Blockers (invisible plast walls)\n- Arrow block that looks like a logic block (Path Cell)\n- Ritual circles\n\nFixed\n- Large slate message being omega\n- Flat surge router is flat unloader\n- Stone colour walls being named snow\n- Cruiser being implemented\n- Slower emanates\n- All unit building\n- Rocky en stairs being offset\n- Config mender now a unloader\n- Config nodes having glow\n- Unloader two a sorter now\n- Revert noise sorter changes, now unlegacy'd\n\nQRM v7.1 Changelog\nFixed\n- Bezeled chiseled side-line being offset\n- Transperant, white, black item source having the wrong name\n- Liquid router source not having a texture\n- Particle generators not being invisible \n- Normal, inverted, highlight, bezel, spectral, source centered corners, diagonal router corner 3 being offset\n- Config stuff not being flat\n- Sorter gray colour 5 being olive\n- Open Item Vial not being able to rotate\n- Full liquid vials being able to rotate, even they can't visually\n- Books resprite\n\nAdded\n- Borderless item source (for SFX turrets)\n- Flat beveled, highlight sorters\n- More books\n- Duct router catears\n\nRemoved\n- Extra surge router slope corner\n\nVersion v7.1 "
   },
   {
+    "repo": "wytniks/kill-reward-mod-25frame",
+    "internalName": "kill-reward-mod-25frame",
+    "name": "Kill Reward Mod",
+    "author": "25frame aka wytnik",
+    "lastUpdated": "2026-05-22T12:06:29Z",
+    "stars": 14,
+    "minGameVersion": "152",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Grants resources for killing enemies\nWorks in solo / co-op\n\n=== MULTIPLAYER ===\n• Uses host settings\n• Fully synced between players\n\n=== SETTINGS ===\n• Configurable min/max drop values\n• Tier-based multipliers\n• Supports modded resources\n\n=== UNITS ===\n• All Serpulo units\n• All Erekir units\n\nDiscord: 25frame.mp4\n\nOpen to suggestions and ideas"
+  },
+  {
     "repo": "meepoffaith/hallucinogen",
     "internalName": "hallucinogen",
     "name": "Hallucinogen",
@@ -1825,18 +1837,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Astherive: ReGenesis\n\nAn ambitious Mindustry Java mod that add a new campaign that revolves around a neoplasm-inspired substance called the [red]Terraplasm.[]\n\nEarly version, may have issues and things can change in the future.\n\n[gray]version: v0.33category0\nDiscontinued"
-  },
-  {
-    "repo": "wytniks/kill-reward-mod-25frame",
-    "internalName": "kill-reward-mod-25frame",
-    "name": "Kill Reward Mod",
-    "author": "25frame aka wytnik",
-    "lastUpdated": "2026-05-22T12:06:29Z",
-    "stars": 13,
-    "minGameVersion": "152",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Grants resources for killing enemies\nWorks in solo / co-op\n\n=== MULTIPLAYER ===\n• Uses host settings\n• Fully synced between players\n\n=== SETTINGS ===\n• Configurable min/max drop values\n• Tier-based multipliers\n• Supports modded resources\n\n=== UNITS ===\n• All Serpulo units\n• All Erekir units\n\nDiscord: 25frame.mp4\n\nOpen to suggestions and ideas"
   },
   {
     "repo": "no9527dada/ct-origin",
@@ -9738,18 +9738,6 @@
     "description": "Hides your cursor from cheaters, now it will appear to always be on your unit, unless you try to shoot."
   },
   {
-    "repo": "m-e-l-i-s/silviriumjava",
-    "internalName": "sli",
-    "name": "Silvirium",
-    "author": "Melis",
-    "lastUpdated": "2026-05-09T06:07:03Z",
-    "stars": 1,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A java remake of my json unfinished mod."
-  },
-  {
     "repo": "0razec/erekir-mods",
     "internalName": "erekir-mods",
     "name": "{ Erekir MODS }",
@@ -10096,6 +10084,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "warriors cheetahs. Each core you destroy unlocks a new block or unit to play with. Core destruction breaks."
+  },
+  {
+    "repo": "m-e-l-i-s/silviriumjava",
+    "internalName": "sli",
+    "name": "Silvirium",
+    "author": "Melis",
+    "lastUpdated": "2026-06-07T20:49:04Z",
+    "stars": 1,
+    "minGameVersion": "158.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A java remake of my json unfinished mod."
   },
   {
     "repo": "exxleo/exoterusmod",
@@ -13074,18 +13074,6 @@
     "description": "made by @betu.ioskatev from Mindustry discord. Very cursed translátións of the game. Not fully translated yet!"
   },
   {
-    "repo": "someoneelse42/mindustryscorivon",
-    "internalName": "scorivon",
-    "name": "Volcanic Wasteland",
-    "author": "SomeoneElse",
-    "lastUpdated": "2026-06-07T11:15:35Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds a new volcanic planet with a bunch of new content. Can you piece together what caused this once cool planet to become what's left of it today?\n\nColoured names of items might indicate that they might be interesting in some way. I also recommend reading some of the details, I put a lot of thought into the lore :)\n\nThis is my very first mod. It's still not completely functional but I'm working on it. It's mostly just a \"playground\" to try out what modding has to offer. I do intend it to be somewhat playable though.\nThere is no campaign mode yet, however you can try out some of the maps which I am working on and planning to include in the campaign later.\n\nAny feedback is always appreciated. Please create an issue to submit it."
-  },
-  {
     "repo": "128oteml/mindustryoptifine",
     "internalName": "mindustry-optifine",
     "name": "Mindustry OptiFine",
@@ -13120,5 +13108,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "An example mod that demonstrates how to use the MultiCrafterLib library.\n一个多配方库的使用示例模组"
+  },
+  {
+    "repo": "someoneelse42/mindustryscorivon",
+    "internalName": "scorivon",
+    "name": "Volcanic Wasteland",
+    "author": "SomeoneElse",
+    "lastUpdated": "2026-06-07T19:11:32Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds a new volcanic planet with a bunch of new content. Can you piece together what caused this once cool planet to become what's left of it today?\n\nColoured names of items might indicate that they might be interesting in some way. I also recommend reading some of the details, I put a lot of thought into the lore :)\n\nThis is my very first mod. It's still not completely functional but I'm working on it. It's mostly just a \"playground\" to try out what modding has to offer. I do intend it to be somewhat playable though.\nThere is no campaign mode yet, however you can try out some of the maps which I am working on and planning to include in the campaign later.\n\nAny feedback is always appreciated. Please create an issue to submit it."
   }
 ]
