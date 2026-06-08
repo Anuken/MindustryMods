@@ -64,7 +64,7 @@
     "internalName": "schema",
     "name": "Schema",
     "author": "xzxADIxzx",
-    "lastUpdated": "2026-06-06T16:05:26Z",
+    "lastUpdated": "2026-06-08T18:45:42Z",
     "stars": 230,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -124,7 +124,7 @@
     "internalName": "omaloon",
     "name": "Omaloon",
     "author": "stabu, uujuju",
-    "lastUpdated": "2026-06-05T10:31:12Z",
+    "lastUpdated": "2026-06-08T18:33:05Z",
     "stars": 136,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2223,6 +2223,18 @@
     "description": "Resprites a (currently) small amount of serpulo right now.\n\nCurrently Revamped:\n- [#fbe488]Power[]\n- [#e7ecac]Drills[]\n- [#f09267]Item Logistics[]\n- [#95c4f4]Liquid Logistics[]\n\nSpecial Thanks To:\n- [#dd9eb1]Blehhhhh Cat[] (@g_o_r_t_) For giving a decent amount of feedback.\n- [#9b59b6]CY4NIDE[] (@CY4NIDE) For assisting me with making Impact Reactor plasma resprites.\n"
   },
   {
+    "repo": "bloodmoddingocean-coder/visual_plus",
+    "internalName": "vplus",
+    "name": "Visual+",
+    "author": "Bloody-Ocean",
+    "lastUpdated": "2026-05-20T12:30:28Z",
+    "stars": 11,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Ru: Данная модификация изменяет внешний вид Серпуло. Респрайт некоторой части Эрекира.\r\n\r\nEng: This modification changes the appearance of the Serpulo. Resprite of some part of the Erekir.\r\n\r\nThx to retodera, Sputnuc and mellory for the help with the scripts."
+  },
+  {
     "repo": "martian238/vanilla-expansion-mod",
     "internalName": "ve",
     "name": "Vanilla Expansion",
@@ -2401,18 +2413,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A quality of life mod that adds useful blocks for transportation and logistics."
-  },
-  {
-    "repo": "bloodmoddingocean-coder/visual_plus",
-    "internalName": "vplus",
-    "name": "Visual+",
-    "author": "Bloody-Ocean",
-    "lastUpdated": "2026-05-20T12:30:28Z",
-    "stars": 10,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Ru: Данная модификация изменяет внешний вид Серпуло. Респрайт некоторой части Эрекира.\r\n\r\nEng: This modification changes the appearance of the Serpulo. Resprite of some part of the Erekir.\r\n\r\nThx to retodera, Sputnuc and mellory for the help with the scripts."
   },
   {
     "repo": "slashkig/astranium-mod",
@@ -3776,7 +3776,7 @@
     "internalName": "alef-null",
     "name": "Alef-Null",
     "author": "Кселирит",
-    "lastUpdated": "2026-06-08T07:57:26Z",
+    "lastUpdated": "2026-06-08T19:22:43Z",
     "stars": 6,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -5132,7 +5132,7 @@
     "internalName": "uranium",
     "name": "Uranium",
     "author": "THT 2",
-    "lastUpdated": "2026-06-08T13:22:55Z",
+    "lastUpdated": "2026-06-08T19:30:03Z",
     "stars": 4,
     "minGameVersion": "158.1",
     "hasScripts": false,
@@ -10050,18 +10050,6 @@
     "description": "Removes building damage penalty"
   },
   {
-    "repo": "bluedoves3821/phighting-sword-deities",
-    "internalName": "sword-deities-mod",
-    "name": "PHIGHTING! SWORD DEITIES",
-    "author": "BlueDoves3821",
-    "lastUpdated": "2026-06-06T16:02:36Z",
-    "stars": 1,
-    "minGameVersion": "136.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod about The Swords from PHIGHTING!\nPossibly unbalanced content."
-  },
-  {
     "repo": "fhgdhgvhggvfgg/cheetah",
     "internalName": "cheetah 01",
     "name": "cheetah 01",
@@ -10132,6 +10120,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Changes your Mindustry sound effects into some cursed sounds."
+  },
+  {
+    "repo": "bluedoves3821/phighting-sword-deities",
+    "internalName": "sword-deities-mod",
+    "name": "PHIGHTING! SWORD DEITIES",
+    "author": "BlueDoves3821",
+    "lastUpdated": "2026-06-08T17:56:47Z",
+    "stars": 1,
+    "minGameVersion": "136.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod about The Swords from PHIGHTING!\nPossibly unbalanced content."
   },
   {
     "repo": "exxleo/exoterusmod",
@@ -13110,18 +13110,6 @@
     "description": "An example mod that demonstrates how to use the MultiCrafterLib library.\n一个多配方库的使用示例模组"
   },
   {
-    "repo": "someoneelse42/mindustryscorivon",
-    "internalName": "scorivon",
-    "name": "Volcanic Wasteland",
-    "author": "SomeoneElse",
-    "lastUpdated": "2026-06-07T19:11:32Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds a new volcanic planet with a bunch of new content. Can you piece together what caused this once cool planet to become what's left of it today?\n\nColoured names of items might indicate that they might be interesting in some way. I also recommend reading some of the details, I put a lot of thought into the lore :)\n\nThis is my very first mod. It's still not completely functional but I'm working on it. It's mostly just a \"playground\" to try out what modding has to offer. I do intend it to be somewhat playable though.\nThere is no campaign mode yet, however you can try out some of the maps which I am working on and planning to include in the campaign later.\n\nAny feedback is always appreciated. Please create an issue to submit it."
-  },
-  {
     "repo": "october-maker/tri-mod",
     "internalName": "triangle",
     "name": "triangle-mod",
@@ -13144,5 +13132,17 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod about fog, darkness and atmospheric technologies."
+  },
+  {
+    "repo": "someoneelse42/mindustryscorivon",
+    "internalName": "scorivon",
+    "name": "Volcanic Wasteland",
+    "author": "SomeoneElse",
+    "lastUpdated": "2026-06-08T19:44:51Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds a new volcanic planet with a bunch of new content. Can you piece together what caused this once cool planet to become what's left of it today?\n\nColoured names of items might indicate that they might be interesting in some way. I also recommend reading some of the details, I put a lot of thought into the lore :)\n\nThis is my very first mod. It's still not completely functional but I'm working on it. It's mostly just a \"playground\" to try out what modding has to offer. I do intend it to be somewhat playable though.\nThere is no campaign mode yet, however you can try out some of the maps which I am working on and planning to include in the campaign later.\n\nAny feedback is always appreciated. Please create an issue to submit it."
   }
 ]
