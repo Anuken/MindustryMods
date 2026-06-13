@@ -7565,18 +7565,6 @@
     "description": "\n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla. \n\n[white]Este  mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de unidades, torretas y sus municiones. \n\n[accent]Contenido: \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros (2 experimentales) \n[white]·11 fabricas \n[white]·1 generador \n[white]·2 cinta de transporte \n[white]·6 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Gier: Revitalized, High-Level Divisions, Warbound Industries, [Better Vanilla] y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
   },
   {
-    "repo": "oleksiy1409liut/oleksiysstuff",
-    "internalName": "oleksiyresprites",
-    "name": "oleksiy's stuff",
-    "author": "oleskiy",
-    "lastUpdated": "2026-06-10T13:32:32Z",
-    "stars": 2,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS\nneeds hjson++ for more functionality"
-  },
-  {
     "repo": "lynia671/zero-era_genesis",
     "internalName": "zeg",
     "name": "Zero-Era:Genesis",
@@ -7623,6 +7611,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "This is a java edition of my mod that eventually will replace the json one"
+  },
+  {
+    "repo": "oleksiy1409liut/oleksiysstuff",
+    "internalName": "oleksiyresprites",
+    "name": "oleksiy's stuff",
+    "author": "oleskiy",
+    "lastUpdated": "2026-06-13T19:12:00Z",
+    "stars": 2,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS\nneeds hjson++ for more functionality"
   },
   {
     "repo": "no9527dada/skin",
@@ -13002,18 +13002,6 @@
     "description": "Speeds up or slows down Mindustry.\nCredits to sk7725 for making TimeControl-7.\n\nDisclaimer: not intended for multiplayer use!"
   },
   {
-    "repo": "someoneelse42/mindustryscorivon",
-    "internalName": "scorivon",
-    "name": "Volcanic Wasteland",
-    "author": "SomeoneElse",
-    "lastUpdated": "2026-06-09T15:39:41Z",
-    "stars": 0,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds a new volcanic planet with a bunch of new content. Can you piece together what caused this once cool planet to become what's left of it today?\n\nColoured names of items might indicate that they might be interesting in some way. I also recommend reading some of the details, I put a lot of thought into the lore :)\n\nThis is my very first mod. It's still not completely functional but I'm working on it. It's mostly just a \"playground\" to try out what modding has to offer. I do intend it to be somewhat playable though.\nThere is no campaign mode yet, however you can try out some of the maps which I am working on and planning to include in the campaign later.\n\nAny feedback is always appreciated. Please create an issue to submit it."
-  },
-  {
     "repo": "edward-bill/linked-logistics-v2",
     "internalName": "linked-logistics-v2",
     "name": "Linked Logistics V2",
@@ -13072,5 +13060,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "World processors that are accesible from anywhere. Also adds world memory, message and switch (i just copied real world blocks`s properites)"
+  },
+  {
+    "repo": "someoneelse42/mindustryscorivon",
+    "internalName": "scorivon",
+    "name": "Volcanic Wasteland",
+    "author": "SomeoneElse",
+    "lastUpdated": "2026-06-13T20:43:12Z",
+    "stars": 0,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds a new volcanic planet with a bunch of new content. Can you piece together what caused this once cool planet to become what's left of it today?\n\nColoured names of items might indicate that they might be interesting in some way. I also recommend reading some of the details, I put a lot of thought into the lore :)\n\nThis is my very first mod. It's still not completely functional but I'm working on it. It's mostly just a \"playground\" to try out what modding has to offer. I do intend it to be somewhat playable though.\nThere is no campaign mode yet, however you can try out some of the maps which I am working on and planning to include in the campaign later.\n\nAny feedback is always appreciated. Please create an issue to submit it."
   }
 ]
