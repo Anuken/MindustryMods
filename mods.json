@@ -1999,7 +1999,7 @@
     "internalName": "cursed-bundles",
     "name": "Cursed Bundles",
     "author": "WantechFan",
-    "lastUpdated": "2026-06-14T16:52:22Z",
+    "lastUpdated": "2026-06-14T17:04:45Z",
     "stars": 12,
     "minGameVersion": "136",
     "hasScripts": false,
@@ -2919,6 +2919,18 @@
     "description": "Beyond Serpulo expands the Mindustry universe with new planets — Xorinal (organic spore world), Tetra (frost moon), and Vantres (blackened volcanic moon of Erekir). Currently v1.6. Firmly Beta. Try it and if you like it please star on github! Contact me at oscaremoran20@gmail.com. \nUPDATES:\nLICHEN UPDATE (v1.2)\nFLAMEWAR UPDATE (v1.3)\nTETRA UPDATE (v1.4)\nQOL UPDATE (v1.5)\nPILOTS UPDATE (v1.6) \n\nPlease star if you like the mod! Our goal right now is 10 stars. If we get there, I'll add more campaign features!"
   },
   {
+    "repo": "jojofr1/multicrafter",
+    "internalName": "multicrafter",
+    "name": "MultiCrafter",
+    "author": "Jojo\n[gray]Original Author:[]\nLiplum\n[gray]Icon:[]\nPatou",
+    "lastUpdated": "2026-06-07T18:48:03Z",
+    "stars": 8,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A library for mods that allows you to create factories with [yellow]multiple recipes[] in a single block.\n\n[lightgray]Official port and rewrite of the original library [gray]MutliCrafterLib[].[]\n\n[red]⚠[] Does [red]NOT[] add any content on its own, but is [gold]required[] for mods that want to use the library."
+  },
+  {
     "repo": "eb-wilson/modpacker",
     "internalName": "mod-packer",
     "name": "Mod Packer",
@@ -3734,18 +3746,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Color each independent power grid on minimap/full map, show live power balance, detect split outages, and suggest reconnect links. / 在小地图与全图按电网分色显示，实时展示电力盈亏，检测断网并给出快速重连建议。"
-  },
-  {
-    "repo": "jojofr1/multicrafter",
-    "internalName": "multicrafter",
-    "name": "MultiCrafter",
-    "author": "Jojo\n[gray]Original Author:[]\nLiplum\n[gray]Icon:[]\nPatou",
-    "lastUpdated": "2026-06-07T18:48:03Z",
-    "stars": 6,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A library for mods that allows you to create factories with [yellow]multiple recipes[] in a single block.\n\n[lightgray]Official port and rewrite of the original library [gray]MutliCrafterLib[].[]\n\n[red]⚠[] Does [red]NOT[] add any content on its own, but is [gold]required[] for mods that want to use the library."
   },
   {
     "repo": "xavierisdeadasheck15/interstellar-spaceline",
@@ -5716,18 +5716,6 @@
     "description": "Add a lot of content.\n\t\n\t-Over simplified factories. and heaters.\n\t-Super Drill and pump.\n\t-Op conveyer, Overdrive x10 speed.\n\t-OP units and turret.\n\t\n\tYou can watch mod sample on my Youtube. Link in Repo\n\t\n\tThere are both Serpulo and Erekir version of this mod. make sure to download both mods"
   },
   {
-    "repo": "bsp-2/factory-simulator",
-    "internalName": "factory-sim",
-    "name": "The Factory Must Grow",
-    "author": "Blehhhhious Feline",
-    "lastUpdated": "2025-11-12T16:01:02Z",
-    "stars": 3,
-    "minGameVersion": "152.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A recreation of a peak roblox game called \"factory simulator\".\nWill require some sort of multicrafter libs later on. \nCurrently in early dev. Not intended to be played just yet. "
-  },
-  {
     "repo": "mrdoes-nobody/copper-units",
     "internalName": "copperamic",
     "name": "Copper Units",
@@ -6135,6 +6123,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Inline before/after diff viewer for Mindustry datapatches in the database UI. / 在数据库界面中直接显示 Mindustry 数据补丁的前后差异。"
+  },
+  {
+    "repo": "bsp-2/factory-simulator",
+    "internalName": "factory-sim",
+    "name": "The Factory Must Grow",
+    "author": "Thinkerdoodle",
+    "lastUpdated": "2026-06-14T18:40:53Z",
+    "stars": 3,
+    "minGameVersion": "158.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A recreation of a game called Factory Simulator.\nRequires multicrafter lib. \nCurrently in early dev. Not intended to be played just yet. "
   },
   {
     "repo": "rintadev5792/arcane-mindustry",
