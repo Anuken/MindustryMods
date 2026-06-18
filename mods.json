@@ -184,7 +184,7 @@
     "internalName": "mi2-utilities-java",
     "name": "MI2-Utilities Java",
     "author": "BlackDeluxeCat",
-    "lastUpdated": "2026-06-17T15:24:26Z",
+    "lastUpdated": "2026-06-18T09:59:36Z",
     "stars": 123,
     "minGameVersion": "158.1",
     "hasScripts": false,
@@ -377,7 +377,7 @@
     "name": "DeepSpace",
     "author": "Alon",
     "lastUpdated": "2026-06-15T14:06:50Z",
-    "stars": 63,
+    "stars": 64,
     "minGameVersion": "158.1",
     "hasScripts": false,
     "hasJava": true,
@@ -413,7 +413,7 @@
     "internalName": "exoprosopa",
     "name": "Exoprosopa",
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-06-18T08:03:25Z",
+    "lastUpdated": "2026-06-18T09:07:33Z",
     "stars": 57,
     "minGameVersion": "158",
     "hasScripts": true,
@@ -637,18 +637,6 @@
     "description": "Aquatic-stylized mod with new planet and unique mechanics"
   },
   {
-    "repo": "i-hope1/mod-tools",
-    "internalName": "mod-tools",
-    "name": "mod-tools",
-    "author": "I hope...",
-    "lastUpdated": "2026-06-14T11:40:18Z",
-    "stars": 40,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A mod provides various tools for modding.\n\n-----------------\nVersion 1.5.9\n\n## Highlight\n1. 新增Profiler\n2. 构建支持增量编译\n3. 优化界面布局和性能\n4. 禁用JDWP功能（根本无法使用Java启动）\n5. 修复一些bug\n- 修复areaTable的`\\t`显示问题和drawMultiText的bug\n- 修复Tester代码补全快捷键冲突问题\n- 改Trigger.postDraw为Trigger.draw适配Helium\n- 修复ReferringMoveListener的只显示一会的问题\n\n-----------------\nWIKI: https://i-hope1.github.io/mod-tools"
-  },
-  {
     "repo": "itskirby69/minedusty",
     "internalName": "",
     "name": "MineDusty",
@@ -659,6 +647,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[#fadf87]A java mod by [white]ItsKirby69 [gray](thats me!)[#fadf87] which introduces a new [acid]planet[#fadf87], many expansive [acid]biomes[#fadf87], and a wide variety of [acid]plant life!\n\n[#fadf87]Please note that this mod is [red]UNFINISHED[#fadf87]! However, development is active with new updates expanding the mod!"
+  },
+  {
+    "repo": "i-hope1/mod-tools",
+    "internalName": "mod-tools",
+    "name": "mod-tools",
+    "author": "I hope...",
+    "lastUpdated": "2026-06-18T12:07:42Z",
+    "stars": 40,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A mod provides various tools for modding.\n\n-----------------\nVersion 1.5.9\n\n## Highlight\n1. 新增Profiler\n2. 构建支持增量编译\n3. 优化界面布局和性能\n4. 禁用JDWP功能（根本无法使用Java启动）\n5. 修复一些bug\n- 修复areaTable的`\\t`显示问题和drawMultiText的bug\n- 修复Tester代码补全快捷键冲突问题\n- 改Trigger.postDraw为Trigger.draw适配Helium\n- 修复ReferringMoveListener的只显示一会的问题\n\n-----------------\nWIKI: https://i-hope1.github.io/mod-tools"
   },
   {
     "repo": "rogeh4/virtual-scheme-pack-",
@@ -1374,7 +1374,7 @@
     "internalName": "gr",
     "name": "Gier: Revitalized",
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-06-18T04:59:03Z",
+    "lastUpdated": "2026-06-18T09:23:45Z",
     "stars": 18,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -2707,7 +2707,7 @@
     "internalName": "kratha",
     "name": "KRATHA",
     "author": "namaka",
-    "lastUpdated": "2026-06-17T15:16:18Z",
+    "lastUpdated": "2026-06-18T11:40:55Z",
     "stars": 9,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -2719,7 +2719,7 @@
     "internalName": "floodcompat",
     "name": "FloodCompat",
     "author": "io community",
-    "lastUpdated": "2026-06-17T21:49:10Z",
+    "lastUpdated": "2026-06-18T12:26:48Z",
     "stars": 9,
     "minGameVersion": "158.1",
     "hasScripts": false,
@@ -3356,7 +3356,7 @@
     "internalName": "lovec",
     "name": "Lovecraftian Library",
     "author": "MaboroshiX",
-    "lastUpdated": "2026-06-17T12:26:13Z",
+    "lastUpdated": "2026-06-18T09:41:22Z",
     "stars": 7,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -3368,7 +3368,7 @@
     "internalName": "alef-null",
     "name": "Alef-Null",
     "author": "[#80ff80]Кселирит[]",
-    "lastUpdated": "2026-06-17T19:01:05Z",
+    "lastUpdated": "2026-06-18T09:59:20Z",
     "stars": 7,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -3782,6 +3782,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A Cultivation of Mod Project i made, And the Predecessor of Lasertech Mod, this Mod Focus on the Inspiration of TDX, Helldiver 2, and More"
+  },
+  {
+    "repo": "ostost2/snek-mod",
+    "internalName": "snek-mod",
+    "name": "Container Chaining",
+    "author": "estee",
+    "lastUpdated": "2026-06-13T13:30:52Z",
+    "stars": 6,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Brings back the container chaining mechanic from Mindustry v4 beta"
   },
   {
     "repo": "mythril382/mobilemapshot",
@@ -4286,18 +4298,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Adds cheat-grade Chrono blocks for global item and liquid transport, terrain conversion, item conversion, repair, construction, overdrive, unit buffs, unit debuffs, and core placement.\n  Update: expanded documentation and metadata for the full Chrono block set."
-  },
-  {
-    "repo": "ostost2/snek-mod",
-    "internalName": "snek-mod",
-    "name": "Container Chaining",
-    "author": "estee",
-    "lastUpdated": "2026-06-13T13:30:52Z",
-    "stars": 5,
-    "minGameVersion": "154",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Brings back the container chaining mechanic from Mindustry v4 beta"
   },
   {
     "repo": "lu69159/morecustomsettings",
@@ -6129,7 +6129,7 @@
     "internalName": "factory-sim",
     "name": "The Factory Must Grow",
     "author": "Thinkerdoodle",
-    "lastUpdated": "2026-06-18T00:17:50Z",
+    "lastUpdated": "2026-06-18T09:39:39Z",
     "stars": 3,
     "minGameVersion": "158.1",
     "hasScripts": false,
@@ -7641,7 +7641,7 @@
     "internalName": "jsm",
     "name": "JS Mod",
     "author": "bebebe",
-    "lastUpdated": "2026-06-18T06:01:26Z",
+    "lastUpdated": "2026-06-18T08:51:55Z",
     "stars": 2,
     "minGameVersion": "157.4",
     "hasScripts": true,
@@ -10012,6 +10012,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A basic SLF4J implementation for Mindustry."
+  },
+  {
+    "repo": "arctichor1zon/techtreeunlockerv8",
+    "internalName": "unlock-tech-tree-mod",
+    "name": "UnlockTechTreeMod",
+    "author": "ArcticHor1zon",
+    "lastUpdated": "2026-06-16T21:26:39Z",
+    "stars": 1,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Instantly unlock all research on the tech-tree for Serpulo and Erekir. Features: per-planet unlock/reset, auto-unlock on campaign load. Used raffel080108's Tech Tree Unlocker"
   },
   {
     "repo": "xerxes-anominus/randustry",
@@ -13084,18 +13096,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds a new volcanic planet with a bunch of new content. Can you piece together what caused this once cool planet to become what's left of it today?\n\nColoured names of items might indicate that they might be interesting in some way. I also recommend reading some of the details, I put a lot of thought into the lore :)\n\nThis is my very first mod. It's still not completely functional but I'm working on it. It's mostly just a \"playground\" to try out what modding has to offer. I do intend it to be somewhat playable though.\nThere is no campaign mode yet, however you can try out some of the maps which I am working on and planning to include in the campaign later.\n\nAny feedback is always appreciated. Please create an issue to submit it."
-  },
-  {
-    "repo": "arctichor1zon/techtreeunlockerv8",
-    "internalName": "unlock-tech-tree-mod",
-    "name": "UnlockTechTreeMod",
-    "author": "ArcticHor1zon",
-    "lastUpdated": "2026-06-16T21:26:39Z",
-    "stars": 0,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Instantly unlock all research on the tech-tree for Serpulo and Erekir. Features: per-planet unlock/reset, auto-unlock on campaign load. Used raffel080108's Tech Tree Unlocker"
   },
   {
     "repo": "d2rkknes/expander",
