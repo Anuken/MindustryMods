@@ -120,6 +120,18 @@
     "description": "Install for fresh and revised mindustry experience"
   },
   {
+    "repo": "ra2exe/saturation-firepower",
+    "internalName": "sfire-mod",
+    "name": "Saturation Firepower Mod",
+    "author": "RAdea.exe",
+    "lastUpdated": "2026-05-24T08:06:05Z",
+    "stars": 137,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Hell time, once for all\n\nThis mod adds new items, buildings, units, and turrets, and has a planet for you to explore.\nMore campaign maps WIP.\nWarning: This mod makes certain modifications to the original game content to accommodate the mod's operation."
+  },
+  {
     "repo": "stabu-dev/omaloon",
     "internalName": "omaloon",
     "name": "Omaloon",
@@ -130,18 +142,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "An ambitious modification aimed at expanding the game's standard campaign by adding a new star system."
-  },
-  {
-    "repo": "ra2exe/saturation-firepower",
-    "internalName": "sfire-mod",
-    "name": "Saturation Firepower Mod",
-    "author": "RAdea.exe",
-    "lastUpdated": "2026-05-24T08:06:05Z",
-    "stars": 136,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Hell time, once for all\n\nThis mod adds new items, buildings, units, and turrets, and has a planet for you to explore.\nMore campaign maps WIP.\nWarning: This mod makes certain modifications to the original game content to accommodate the mod's operation."
   },
   {
     "repo": "3snake3/sapphirium",
@@ -413,7 +413,7 @@
     "internalName": "exoprosopa",
     "name": "Exoprosopa",
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-06-17T08:59:32Z",
+    "lastUpdated": "2026-06-18T08:03:25Z",
     "stars": 57,
     "minGameVersion": "158",
     "hasScripts": true,
@@ -589,6 +589,18 @@
     "description": "Extend your ui with some useful things.\n\nYou can easily disable any of the mod features in the settings -> extended UI.\n\nIf u have any bugs create an issue on github or contact me in discord: wizer1233\n\nTranslators:\n1stvaliduser - UA\nCoCo Snow - DE\n\nContributors:\nRushieWashie, Garen7, 7003Mars (Mars)"
   },
   {
+    "repo": "nullotte/carpe-diem",
+    "internalName": "carpe-diem",
+    "name": "Carpe Diem",
+    "author": "Nullotte",
+    "lastUpdated": "2026-06-16T18:27:44Z",
+    "stars": 41,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThis mod is mostly complete in terms of implemented content, but its campaign is still unfinished. Either way, I hope you'll enjoy what the mod has to offer."
+  },
+  {
     "repo": "eb-wilson/universecore",
     "internalName": "universe-core",
     "name": "Universe Core",
@@ -635,18 +647,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod provides various tools for modding.\n\n-----------------\nVersion 1.5.9\n\n## Highlight\n1. 新增Profiler\n2. 构建支持增量编译\n3. 优化界面布局和性能\n4. 禁用JDWP功能（根本无法使用Java启动）\n5. 修复一些bug\n- 修复areaTable的`\\t`显示问题和drawMultiText的bug\n- 修复Tester代码补全快捷键冲突问题\n- 改Trigger.postDraw为Trigger.draw适配Helium\n- 修复ReferringMoveListener的只显示一会的问题\n\n-----------------\nWIKI: https://i-hope1.github.io/mod-tools"
-  },
-  {
-    "repo": "nullotte/carpe-diem",
-    "internalName": "carpe-diem",
-    "name": "Carpe Diem",
-    "author": "Nullotte",
-    "lastUpdated": "2026-06-16T18:27:44Z",
-    "stars": 40,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A peaceful campaign mod which focuses on factory building.\n\nBuild production lines, decode archives, and launch landing pods across the sectors of Asphodel, a cold planet ravaged by the forces of war. Salvage what remains of the Coalition, and restore their industry to its former glory.\n\nThis mod is mostly complete in terms of implemented content, but its campaign is still unfinished. Either way, I hope you'll enjoy what the mod has to offer."
   },
   {
     "repo": "itskirby69/minedusty",
@@ -782,6 +782,18 @@
     "description": "<RU>[]\n\n[#00fff2]Technologium[] будет очередным большим модом для Mindustry. Уже многое запланировано, хотя практически ничто из этого не сделано.\n\n\n\nМод будет содержать в себе 2 солнечные системы, может даже больше; множество новых механик, много кампаний, ещё больше блоков, особенно предметов, жидкостей, юнитов и не только.\n\nПрошёл год, сформировалось что-то наподобии команды. Если вы хороший спрайтер/маппер/кодер, вы можете помочь нам с всем этим. \nЕсли это не так, вы всё ещё можете мотивировать нас, поставив звёздочку на гитхабе.\n\nВы также можете присоединиться к нашему Дискорд серверу, ссылка в репозитории.\n\n[#7f7f7f]Мод должен расти.[]\n\n\n\n\n<EN>[]\n\n[#00fff2]Technologium[] will be another big mod for Mindustry. There's already so much planned, though practically none of it is finished.\n\n\n\nThe mod will contain a whole 2 solar systems, or maybe even more; lots of new mechanics, many campaigns, even more blocks, especially items, liquids, units and not only.\n\nA year has passed, and some kind of team has formed. If you're a good spriter/mapper/coder, you could help us with all of this. \nIf not, you could still motivate us by giving a star on GitHub.\n\nAlso, you could join our Discord server, the link is in the repo.\n\n[#7f7f7f]The mod must grow.[]"
   },
   {
+    "repo": "eyeofdarkness/advance-lighting",
+    "internalName": "advance-lighting",
+    "name": "Advance lighting",
+    "author": "EoD",
+    "lastUpdated": "2024-05-18T05:50:46Z",
+    "stars": 31,
+    "minGameVersion": "145",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Not recommended for weak devices. Only supports Vanilla/Supported-Json content. This mod replaces/add some effects, and may cause issues with mods that actively check on those effects. May conflict with vanilla bloom."
+  },
+  {
     "repo": "way-zer/contentstweaker",
     "internalName": "contentstweaker",
     "name": "ContentsTweaker-内容包修改器",
@@ -792,18 +804,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Dynamic load custom contents patch account to server"
-  },
-  {
-    "repo": "eyeofdarkness/advance-lighting",
-    "internalName": "advance-lighting",
-    "name": "Advance lighting",
-    "author": "EoD",
-    "lastUpdated": "2024-05-18T05:50:46Z",
-    "stars": 30,
-    "minGameVersion": "145",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Not recommended for weak devices. Only supports Vanilla/Supported-Json content. This mod replaces/add some effects, and may cause issues with mods that actively check on those effects. May conflict with vanilla bloom."
   },
   {
     "repo": "typicaldeveloper123/biotic-zlo",
@@ -1374,7 +1374,7 @@
     "internalName": "gr",
     "name": "Gier: Revitalized",
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-06-17T15:35:48Z",
+    "lastUpdated": "2026-06-18T04:59:03Z",
     "stars": 18,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -7625,28 +7625,28 @@
     "description": "No description provided."
   },
   {
-    "repo": "7bebebe7/javascript-mod",
-    "internalName": "jsm",
-    "name": "JS Mod",
-    "author": "bebebe",
-    "lastUpdated": "2026-06-16T11:50:49Z",
-    "stars": 2,
-    "minGameVersion": "157.4",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "written entirely in JavaScript"
-  },
-  {
     "repo": "leinadhq/voltaprotocolmod",
     "internalName": "volta-protocol",
     "name": "Volta Protocol",
     "author": "Leinad (discord: danizzq)",
-    "lastUpdated": "2026-06-18T00:18:55Z",
+    "lastUpdated": "2026-06-18T03:12:51Z",
     "stars": 2,
     "minGameVersion": "158",
     "hasScripts": false,
     "hasJava": true,
     "description": "\n[accent]Languages/Idiomas: EN / ES \n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla y mi nuevo planeta (el planeta aun esta en desarrollo). \n\n[white]Este  mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de unidades, torretas y sus municiones. \n\n[accent]Contenido: \n[white]·1 nuevo planeta y 1 sector de prueba \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros (2 experimentales) \n[white]·4 taladros. \n[white]·11 fabricas \n[white]·1 generador \n[white]·2 cinta de transporte \n[white]·6 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Fading Revelations Remake, Gier: Revitalized, Warbound Industries, [Better Vanilla], Liminal Protocol y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
+  },
+  {
+    "repo": "7bebebe7/javascript-mod",
+    "internalName": "jsm",
+    "name": "JS Mod",
+    "author": "bebebe",
+    "lastUpdated": "2026-06-18T06:01:26Z",
+    "stars": 2,
+    "minGameVersion": "157.4",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "written entirely in JavaScript"
   },
   {
     "repo": "no9527dada/skin",
@@ -9846,18 +9846,6 @@
     "description": "warriors cheetahs. Each core you destroy unlocks a new block or unit to play with. Core destruction breaks."
   },
   {
-    "repo": "bluedoves3821/phighting-sword-deities",
-    "internalName": "sword-deities-mod",
-    "name": "PHIGHTING! SWORD DEITIES",
-    "author": "BlueDoves3821",
-    "lastUpdated": "2026-06-12T09:04:14Z",
-    "stars": 1,
-    "minGameVersion": "136.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod about The Swords from PHIGHTING!\nPossibly unbalanced content."
-  },
-  {
     "repo": "kernelitt/kernelit-s-schemepack",
     "internalName": "kernelit-schemepack",
     "name": "Kernelit's SchemePack",
@@ -9916,18 +9904,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A java remake of my json unfinished mod."
-  },
-  {
-    "repo": "tirpis/exoprosopa-on-russian",
-    "internalName": "exoprosopa на русском",
-    "name": "EXOPROSOPA НА РУССКОМ",
-    "author": "THT 2",
-    "lastUpdated": "2026-06-14T19:40:39Z",
-    "stars": 1,
-    "minGameVersion": "158.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "100% фаргус перевод!"
   },
   {
     "repo": "chaoticans-modding-team/new-content-music",
@@ -10096,6 +10072,30 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "一个添加了个人想法的模组"
+  },
+  {
+    "repo": "tirpis/exoprosopa-on-russian",
+    "internalName": "exoprosopa на русском",
+    "name": "EXOPROSOPA НА РУССКОМ",
+    "author": "THT 2",
+    "lastUpdated": "2026-06-18T04:58:52Z",
+    "stars": 1,
+    "minGameVersion": "158.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "100% фаргус перевод!"
+  },
+  {
+    "repo": "bluedoves3821/phighting-sword-deities",
+    "internalName": "sword-deities-mod",
+    "name": "PHIGHTING! SWORD DEITIES",
+    "author": "BlueDoves3821",
+    "lastUpdated": "2026-06-18T05:55:55Z",
+    "stars": 1,
+    "minGameVersion": "136.1",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod about The Swords from PHIGHTING!\nPossibly unbalanced content."
   },
   {
     "repo": "exxleo/exoterusmod",
