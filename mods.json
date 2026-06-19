@@ -76,7 +76,7 @@
     "internalName": "schema",
     "name": "Schema",
     "author": "xzxADIxzx",
-    "lastUpdated": "2026-06-17T22:19:04Z",
+    "lastUpdated": "2026-06-19T00:40:16Z",
     "stars": 230,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -485,7 +485,7 @@
     "internalName": "sw",
     "name": "Steam Works",
     "author": "Liz Aurora",
-    "lastUpdated": "2026-06-18T01:55:39Z",
+    "lastUpdated": "2026-06-18T23:43:03Z",
     "stars": 47,
     "minGameVersion": "156.2",
     "hasScripts": false,
@@ -653,7 +653,7 @@
     "internalName": "mod-tools",
     "name": "mod-tools",
     "author": "I hope...",
-    "lastUpdated": "2026-06-18T12:07:42Z",
+    "lastUpdated": "2026-06-19T00:22:06Z",
     "stars": 40,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -1086,7 +1086,7 @@
     "internalName": "cataclysm",
     "name": "Cataclysm",
     "author": "[#ffb33a]JJ[]",
-    "lastUpdated": "2026-06-15T13:54:40Z",
+    "lastUpdated": "2026-06-19T00:31:55Z",
     "stars": 22,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -1206,7 +1206,7 @@
     "internalName": "vne",
     "name": "原版瘤液拓展",
     "author": "pardon",
-    "lastUpdated": "2026-06-14T04:18:14Z",
+    "lastUpdated": "2026-06-18T23:36:53Z",
     "stars": 21,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -3368,7 +3368,7 @@
     "internalName": "alef-null",
     "name": "Alef-Null",
     "author": "[#80ff80]Кселирит[]",
-    "lastUpdated": "2026-06-18T23:24:55Z",
+    "lastUpdated": "2026-06-18T23:26:06Z",
     "stars": 7,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -5008,18 +5008,6 @@
     "description": "Have you ever wondered what it would be like if Mindustry sounded like an open-world RPG? Well, now you can, with these collection of music and SFX replacements from FFXIV, Library of Ruina, Arknights, Terraria, and more."
   },
   {
-    "repo": "titanite-1574/napelus",
-    "internalName": "nap",
-    "name": " Napelus.",
-    "author": "Titan",
-    "lastUpdated": "2026-05-23T00:20:36Z",
-    "stars": 4,
-    "minGameVersion": "152.2",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mindustry mod that adds a new planet with its own campaign, still WIP. Thanks to amogus2824 on discord for fixing the icy sprite and resprite Benite"
-  },
-  {
     "repo": "wmf-industries/terios",
     "internalName": "terios",
     "name": "Terios",
@@ -5114,6 +5102,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Liquid Industry Beta v0.24.7 for v158+"
+  },
+  {
+    "repo": "titanite-1574/napelus",
+    "internalName": "nap",
+    "name": " Napelus.",
+    "author": "Titan",
+    "lastUpdated": "2026-06-19T01:40:56Z",
+    "stars": 4,
+    "minGameVersion": "152.2",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mindustry mod that adds a new planet with its own campaign, still WIP. Thanks to amogus2824 on discord for fixing the icy sprite and resprite Benite"
   },
   {
     "repo": "mythril382/ammoswap",
@@ -7625,18 +7625,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "leinadhq/voltaprotocolmod",
-    "internalName": "volta-protocol",
-    "name": "Volta Protocol",
-    "author": "Leinad (discord: danizzq)",
-    "lastUpdated": "2026-06-18T03:12:51Z",
-    "stars": 2,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\n[accent]Languages/Idiomas: EN / ES \n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla y mi nuevo planeta (el planeta aun esta en desarrollo). \n\n[white]Este  mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de unidades, torretas y sus municiones. \n\n[accent]Contenido: \n[white]·1 nuevo planeta y 1 sector de prueba \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros (2 experimentales) \n[white]·4 taladros. \n[white]·11 fabricas \n[white]·1 generador \n[white]·2 cinta de transporte \n[white]·6 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Fading Revelations Remake, Gier: Revitalized, Warbound Industries, [Better Vanilla], Liminal Protocol y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
-  },
-  {
     "repo": "7bebebe7/javascript-mod",
     "internalName": "jsm",
     "name": "JS Mod",
@@ -7647,6 +7635,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "written entirely in JavaScript"
+  },
+  {
+    "repo": "leinadhq/voltaprotocolmod",
+    "internalName": "volta-protocol",
+    "name": "Volta Protocol",
+    "author": "Leinad (discord: danizzq)",
+    "lastUpdated": "2026-06-19T02:08:36Z",
+    "stars": 2,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\n[accent]Languages/Idiomas: EN / ES \n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla y mi nuevo planeta (el planeta aun esta en desarrollo). \n\n[white]Este  mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de unidades, torretas y sus municiones. \n\n[accent]Contenido: \n[white]·1 nuevo planeta y 1 sector de prueba \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros (2 experimentales) \n[white]·4 taladros. \n[white]·11 fabricas \n[white]·1 generador \n[white]·2 cinta de transporte \n[white]·6 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Fading Revelations Remake, Gier: Revitalized, Warbound Industries, [Better Vanilla], Liminal Protocol y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
   },
   {
     "repo": "no9527dada/skin",
