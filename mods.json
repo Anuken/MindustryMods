@@ -184,7 +184,7 @@
     "internalName": "mi2-utilities-java",
     "name": "MI2-Utilities Java",
     "author": "BlackDeluxeCat",
-    "lastUpdated": "2026-06-20T09:11:21Z",
+    "lastUpdated": "2026-06-21T09:59:46Z",
     "stars": 125,
     "minGameVersion": "158.1",
     "hasScripts": false,
@@ -208,7 +208,7 @@
     "internalName": "aquarion",
     "name": "Aquarion",
     "author": "twcash",
-    "lastUpdated": "2026-06-20T23:11:18Z",
+    "lastUpdated": "2026-06-21T10:30:39Z",
     "stars": 107,
     "minGameVersion": "158.1",
     "hasScripts": false,
@@ -413,7 +413,7 @@
     "internalName": "exoprosopa",
     "name": "Exoprosopa",
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-06-21T08:05:01Z",
+    "lastUpdated": "2026-06-21T08:31:21Z",
     "stars": 57,
     "minGameVersion": "158",
     "hasScripts": true,
@@ -918,12 +918,12 @@
     "internalName": "mapping-utilities",
     "name": "Mapping Utilities",
     "author": "ApsZoldat",
-    "lastUpdated": "2026-06-21T07:01:13Z",
+    "lastUpdated": "2026-06-21T09:03:50Z",
     "stars": 26,
     "minGameVersion": "158",
     "hasScripts": false,
     "hasJava": true,
-    "description": "Mindustry mod improving map editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla\n\n\nImprovements:\n\n- Complete Rework of The Editor\n- More Rules Available\n- Better Map Editor Dialogs\n- Planet Background Editing\n- Map Size Bypass\n\n\nCheck README.md in GitHub repo for more detailed information about these features\n\n! Work In Progress !\nMore map making tools will be added in future"
+    "description": " The Map Editor mod \n\n Improves Editor convenience and possibilities\nMaps created with this mod are fully compatible with vanilla \n\n\n Features:\n\n- Complete Rework of The Editor  - Full Customization of UI And Behavior\n- Revealed Hidden Features  - Cliffs, Numbered Teams, Hidden Rules, Planet Background\n- Improved Dialogs  - Better Banned Content Dialogs\n- Map Size Bypass  - Map Size Up To 2147483647\n\n\n Check README.md in  GitHub repo for more detailed information about these features\n\n⚠ In case of some other mods incompatibilities, feel free to open an issue on GitHub "
   },
   {
     "repo": "laohuajiofficial/multiblocklib",
@@ -962,6 +962,18 @@
     "description": "Project viscott is a mindustry mod that adds a \nnew Planet to the campaign, Vercilus, and gives the player a new and unique gameplay experience \n\nThis mod is still in development. \n Expect it to have some slight balancing issues"
   },
   {
+    "repo": "dustdustry/patcheditor",
+    "internalName": "patch-editor",
+    "name": "PatchEditor",
+    "author": "minRi2",
+    "lastUpdated": "2026-06-18T16:18:47Z",
+    "stars": 25,
+    "minGameVersion": "156",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Provide an in-game GUI for DataPatcher."
+  },
+  {
     "repo": "emanuelg-gaming/erekir-expansion",
     "internalName": "erekir-expansion",
     "name": "Erekir Expansion",
@@ -984,18 +996,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "[#00FFFF](RU)[#FFFFFF] Модификация добавляет полезные блоки.\n[#00FFFF](EN)[#FFFFFF] Modification adds useful blocks.\nMod is now probably in release. \nv1.1."
-  },
-  {
-    "repo": "dustdustry/patcheditor",
-    "internalName": "patch-editor",
-    "name": "PatchEditor",
-    "author": "minRi2",
-    "lastUpdated": "2026-06-18T16:18:47Z",
-    "stars": 24,
-    "minGameVersion": "156",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Provide an in-game GUI for DataPatcher."
   },
   {
     "repo": "melomelodeon/mindy-conveyor",
@@ -1206,7 +1206,7 @@
     "internalName": "vne",
     "name": "原版瘤液拓展",
     "author": "pardon",
-    "lastUpdated": "2026-06-21T02:22:06Z",
+    "lastUpdated": "2026-06-21T08:52:10Z",
     "stars": 21,
     "minGameVersion": "154",
     "hasScripts": true,
@@ -1374,7 +1374,7 @@
     "internalName": "gr",
     "name": "Gier: Revitalized",
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-06-21T08:13:30Z",
+    "lastUpdated": "2026-06-21T11:07:47Z",
     "stars": 18,
     "minGameVersion": "156",
     "hasScripts": true,
@@ -2703,18 +2703,6 @@
     "description": "Adds New sector, units and buildings to the game, all zerg flavored.\nWhat does this mod offer?\n - Hardmode and normal mode \n - Campain map for serpulo\n - Possibly a new planet?\n - A bunch of zerggy unit and structure\n - Lore\nRemember to star the mod on github if you enjoy it!"
   },
   {
-    "repo": "yroo1/kratha",
-    "internalName": "kratha",
-    "name": "KRATHA",
-    "author": "namaka",
-    "lastUpdated": "2026-06-20T13:01:40Z",
-    "stars": 9,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mod that adds a new campaign about Terraplasm.\n\nThe Terraplasm is my very own version of Anuke's unfinished Neoplasm, a rapidly growing plant faction that you will fight.\n\n(Lower end device might encounter lag)\n\n[gray]This an early version of KRATHA which is under heavy development, it may not display the final version. There are currently 3 playable sectors."
-  },
-  {
     "repo": "laomoze/warhammer",
     "internalName": "wh",
     "name": "WarHammer",
@@ -2725,6 +2713,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": " [accent]以战锤40k为原型的MOD[]，拥有自设模组背景和战锤或许关系不大,设定与qq群链接可以到 [accent]模组简介[]里面找\n[sky]QQ群316481519[]\n[unlaunched]贡献者:DOC-A-7244(bundles和翻译),Eipusino(java技术指导)[]\n [accent]The MOD based on Warhammer 40k[],Having a custom mod background may not necessarily relate to Warhammer， with its settings and links to the QQ group, can be found in the  [accent]mod introduction[]\n[sky]QQ group 316481519[]\nDiscord will consider adding features in its subsequent improvements\n[unlaunched]Contributors: DOC-A-7244 (bundles and translation), Eipusino (Java technical guidance)[]"
+  },
+  {
+    "repo": "yroo1/kratha",
+    "internalName": "kratha",
+    "name": "KRATHA",
+    "author": "namaka",
+    "lastUpdated": "2026-06-21T11:57:18Z",
+    "stars": 9,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mod that adds a new campaign about Terraplasm.\n\nThe Terraplasm is my very own version of Anuke's unfinished Neoplasm, a rapidly growing plant faction that you will fight.\n\n(Lower end device might encounter lag)\n\n[gray]This an early version of KRATHA which is under heavy development, it may not display the final version. There are currently 3 playable sectors."
   },
   {
     "repo": "toriwake/kannadustry",
@@ -2935,9 +2935,9 @@
     "internalName": "lp",
     "name": "Liminal Protocol",
     "author": "[red]AEvoRIum",
-    "lastUpdated": "2026-06-21T07:09:15Z",
+    "lastUpdated": "2026-06-21T10:49:10Z",
     "stars": 8,
-    "minGameVersion": "157",
+    "minGameVersion": "158.1",
     "hasScripts": false,
     "hasJava": true,
     "description": "[red]俺寻思之力"
@@ -3352,18 +3352,6 @@
     "description": "The base mod for Lovecraftian series that adds essential resource, chemicals, environmental blocks and planets."
   },
   {
-    "repo": "oscillatorium/alef-null",
-    "internalName": "alef-null",
-    "name": "Alef-Null",
-    "author": "[#80ff80]Кселирит[]",
-    "lastUpdated": "2026-06-20T22:27:20Z",
-    "stars": 7,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Ru\nЭтот мод должен добавлять планету с математикой в качестве блоков, но пока только 1 сектор\n[accent]Крутые вывы: chmonya (java script)[]\n\nEn\nThis mod is supposed to add a planet with mathematics as blocks, but so far only 1 sector\n[accent]Cool thanks: chmonya (java script)[]"
-  },
-  {
     "repo": "huanxefh/lovecraftian-library-java",
     "internalName": "lovec",
     "name": "Lovecraftian Library",
@@ -3374,6 +3362,18 @@
     "hasScripts": true,
     "hasJava": true,
     "description": "A JavaScript library for my other mods, with codes for class structure, multi-crafters, recipe dictionary, damage display, etc.\nWell, not 100% JavaScript."
+  },
+  {
+    "repo": "oscillatorium/alef-null",
+    "internalName": "alef-null",
+    "name": "Alef-Null",
+    "author": "[#80ff80]Кселирит[]",
+    "lastUpdated": "2026-06-21T09:53:18Z",
+    "stars": 7,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Ru\nЭтот мод должен добавлять планету с математикой в качестве блоков, но пока только 1 сектор\n[accent]Крутые вывы: chmonya (java script)[]\n\nEn\nThis mod is supposed to add a planet with mathematics as blocks, but so far only 1 sector\n[accent]Cool thanks: chmonya (java script)[]"
   },
   {
     "repo": "zerattel/mindustry-red-alert-3-soundtrack-pack",
@@ -5108,7 +5108,7 @@
     "internalName": "液体工艺",
     "name": "Liquid Industry",
     "author": "Space",
-    "lastUpdated": "2026-06-20T17:23:09Z",
+    "lastUpdated": "2026-06-21T09:55:31Z",
     "stars": 4,
     "minGameVersion": "158",
     "hasScripts": false,
@@ -5895,6 +5895,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Tiny mod that makes gases have unique sprites"
+  },
+  {
+    "repo": "50275/safetimecontrol",
+    "internalName": "safe-time-control",
+    "name": "Safe Time Control",
+    "author": "1000Mistakes",
+    "lastUpdated": "2026-04-10T18:08:55Z",
+    "stars": 3,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Safely speed up and slow down Mindustry without glitching your units in singleplayer, and banning/rubberbanding yourself in multiplayer. Original by sk7725."
   },
   {
     "repo": "shatteredskies/mindustry-mass-driver-logic",
@@ -7337,18 +7349,6 @@
     "description": "[#d2b1ed]< < BETA > >\nDedicated mod to add nearly all descriptions, names and such with colors, unique names and more.\nThis mod will also overwrite properties of items and liquids into their respective form in real life.\n[accent]Note: Some may be fictional according to how they are made in Mindustry ONLY.\n\n[cyan]Features > > >\n\n[accent]Contents-\n\n[#ab7ae2]Serpulo > >\n[#96aceb]Color for Early-game Content.\n[#f7dd8e]Color for Mid-game Content.\n[#b273ff]Color for Late-game Content.\n\n\n[#fa9979]Erekir > >\n\n[#ff6d57]Color for Early-game Content.\n[#fff5bf]Color for Mid-game Content.\n[#c77ac8]Color for Late-game Content.\n"
   },
   {
-    "repo": "50275/safetimecontrol",
-    "internalName": "safe-time-control",
-    "name": "Safe Time Control",
-    "author": "1000Mistakes",
-    "lastUpdated": "2026-04-10T18:08:55Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Safely speed up and slow down Mindustry without glitching your units in singleplayer, and banning/rubberbanding yourself in multiplayer. Original by sk7725."
-  },
-  {
     "repo": "axilians/arx-alpha-mod-mindustry",
     "internalName": "arx-khimeris",
     "name": "⚠ Test Mod",
@@ -7653,7 +7653,7 @@
     "internalName": "oleksiyresprites",
     "name": "oleksiy's stuff",
     "author": "oleskiy",
-    "lastUpdated": "2026-06-20T20:01:52Z",
+    "lastUpdated": "2026-06-21T09:31:27Z",
     "stars": 2,
     "minGameVersion": "154",
     "hasScripts": false,
