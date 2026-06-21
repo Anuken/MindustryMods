@@ -1383,6 +1383,18 @@
     "iosCompatible": true
   },
   {
+    "repo": "traincrisis/serpuloplus",
+    "internalName": "serpuloplus",
+    "name": "Serpulo+",
+    "author": "[#984cd7]ThePul[#833edd]lerCell",
+    "lastUpdated": "2026-05-28T16:31:25Z",
+    "stars": 17,
+    "minGameVersion": "157",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A massive personalized content expansion for Serpulo.\nMost of the content in this mod is my vision for what I wanted to be in the game, yet isn't.\n\nContent included:\n- 2 more tiers for every vanilla crafter\n- The Alloy Trio, composed of Neoplastic, Cryogenic and Ultimatter alloys, each having its own large set of blocks made out of them\n- Four new fluids: Lubricant, Steam, Lava, and Quantofluid, plus a new ingredient called Magmatite\n- Liquid capsules, which allow for the transportation of liquids in the form of items, for things like cross-sector transportation via export, or long range transportation over terrain via mass driver.\n\nCredits:\n- Myself obviously, for implementing all the content in the mod.\n- red.id9990 for spriting the vanilla crafter upgrades\n- tinnphat_ for spriting almost every remaining block\n- giga_chad96 for the sprite of Voltage, and Tesla"
+  },
+  {
     "repo": "otamamori917/axthrix-modded-java",
     "internalName": "aj",
     "name": "Axthrix",
@@ -1489,18 +1501,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod centered around fighting bosses, with a focus on pattern-based attacks. Entirely detached from Mindustry's traditional gameplay loop - The Virtuality Archives restrains the player in a measly vessel and pits them against encoded entities. Does not utilize scripts or Java, seeking to explore the technical scope of (H)JSON and MLOG. Best experienced with a mouse and keyboard.\n\nCurrently features [red]6/7[] planned bosses in the campaign - Candor, Ardent & Argent, Pandemonium, Misanthrope, Nyx, and Alluvion.\n\n[accent][i] In the campaign, Misanthrope's sector currently does not behave as intended for the latest stable build. Play the sector in Custom Game or build 157.4."
-  },
-  {
-    "repo": "traincrisis/serpuloplus",
-    "internalName": "serpuloplus",
-    "name": "Serpulo+",
-    "author": "[#984cd7]ThePul[#833edd]lerCell",
-    "lastUpdated": "2026-05-28T16:31:25Z",
-    "stars": 16,
-    "minGameVersion": "157",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A massive personalized content expansion for Serpulo.\nMost of the content in this mod is my vision for what I wanted to be in the game, yet isn't.\n\nContent included:\n- 2 more tiers for every vanilla crafter\n- The Alloy Trio, composed of Neoplastic, Cryogenic and Ultimatter alloys, each having its own large set of blocks made out of them\n- Four new fluids: Lubricant, Steam, Lava, and Quantofluid, plus a new ingredient called Magmatite\n- Liquid capsules, which allow for the transportation of liquids in the form of items, for things like cross-sector transportation via export, or long range transportation over terrain via mass driver.\n\nCredits:\n- Myself obviously, for implementing all the content in the mod.\n- red.id9990 for spriting the vanilla crafter upgrades\n- tinnphat_ for spriting almost every remaining block\n- giga_chad96 for the sprite of Voltage, and Tesla"
   },
   {
     "repo": "arktcode/dynamic-shadows",
@@ -3368,7 +3368,7 @@
     "internalName": "alef-null",
     "name": "Alef-Null",
     "author": "[#80ff80]Кселирит[]",
-    "lastUpdated": "2026-06-21T15:35:06Z",
+    "lastUpdated": "2026-06-21T20:48:16Z",
     "stars": 7,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -12870,18 +12870,6 @@
     "description": "Tripwire geofence alerts for Mindustry. Mindustry 地理围栏报警模组。"
   },
   {
-    "repo": "eshkereshek/newturretage",
-    "internalName": "newturretage",
-    "name": "NewTurretAge",
-    "author": "kiirr12il",
-    "lastUpdated": "2026-05-28T16:40:29Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Mod For Mindustry that adds upgraded ripples"
-  },
-  {
     "repo": "larinartom1-tech/care",
     "internalName": "care",
     "name": "care",
@@ -13180,5 +13168,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "not yet."
+  },
+  {
+    "repo": "eshkereshek/newturretage",
+    "internalName": "newturretage",
+    "name": "NewTurretAge",
+    "author": "kiirr12il",
+    "lastUpdated": "2026-06-21T20:31:58Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Mod For Mindustry that adds upgraded ripples"
   }
 ]
