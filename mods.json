@@ -353,7 +353,7 @@
     "name": "AutoDrill",
     "author": "Pointifix",
     "lastUpdated": "2026-05-30T09:43:24Z",
-    "stars": 66,
+    "stars": 67,
     "minGameVersion": "158",
     "hasScripts": false,
     "hasJava": true,
@@ -545,7 +545,7 @@
     "internalName": "carpe-diem",
     "name": "Carpe Diem",
     "author": "Nullotte",
-    "lastUpdated": "2026-06-22T12:22:51Z",
+    "lastUpdated": "2026-06-22T16:57:16Z",
     "stars": 43,
     "minGameVersion": "158",
     "hasScripts": false,
@@ -569,7 +569,7 @@
     "internalName": "fire",
     "name": "Fire",
     "author": "飞雨a_sszylfyzgmz\nKochiyaUeneh油苗子",
-    "lastUpdated": "2026-06-19T11:49:49Z",
+    "lastUpdated": "2026-06-22T16:47:30Z",
     "stars": 42,
     "minGameVersion": "157.4",
     "hasScripts": false,
@@ -1519,7 +1519,7 @@
     "internalName": "epsilon",
     "name": "Epsilon",
     "author": "ItzJustaTeam\n\n[accent]Coders:[gray]\n• ItzCraft\n• AnDashik\n• Alnyle\n• Weersix\n\n[accent]Sprites:[gray]\n• Nahan, ItzCraft\n\n[accent]Music Composer:[gray]\n• Ace\n\n[accent]Translators:[gray]\n• Kevin Vilyan\n• ItzCraft",
-    "lastUpdated": "2026-06-16T18:14:51Z",
+    "lastUpdated": "2026-06-22T17:39:44Z",
     "stars": 16,
     "minGameVersion": "158",
     "hasScripts": false,
@@ -3328,18 +3328,6 @@
     "description": "Makes Mindustry Dark Themed!\n\nCredits:\n• !ereHyddeS, for making this out of boredom\n• WMF, for annoying everyone long enough to rework it\n• Antlrr, for contributing lots\n• Woop, for contributing few\n• Binonib, for contributing few\n• Alstocras, for contributing few\n• Blop, for ideas and for meme dump\n\nChangelogs:\n• Included campaign-only blocks\n• NeonNights2: Erekir-ified coming maybe soon idk"
   },
   {
-    "repo": "determination-wind/neon",
-    "internalName": "bek-tools",
-    "name": "Neon / 氖",
-    "author": "DeterMination (BEK)",
-    "lastUpdated": "2026-06-19T04:29:57Z",
-    "stars": 7,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A bundled toolkit with 14 client modules, now including WhoUsesThisBuilding and PatchViewer in Neon unified settings. / 辅助模组十四合一，现并入 WhoUsesThisBuilding 与 PatchViewer 并统一到 Neon 设置入口。"
-  },
-  {
     "repo": "huanxefh/lovecraftian-laboratory",
     "internalName": "loveclab",
     "name": "Lovecraftian Laboratory",
@@ -3374,6 +3362,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Ru\nЭтот мод должен добавлять планету с математикой в качестве блоков, но пока только 1 сектор\n[accent]Крутые вывы: chmonya (java script)[]\n\nEn\nThis mod is supposed to add a planet with mathematics as blocks, but so far only 1 sector\n[accent]Cool thanks: chmonya (java script)[]"
+  },
+  {
+    "repo": "determination-wind/neon",
+    "internalName": "neon-dev",
+    "name": "Neon / 氖",
+    "author": "DeterMination (BEK)",
+    "lastUpdated": "2026-06-22T15:47:11Z",
+    "stars": 7,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A bundled toolkit with 15 client modules, now including WhoUsesThisBuilding, PatchViewer, and PinyinSearchSupport in Neon unified settings. / 辅助模组十五合一，现并入 WhoUsesThisBuilding、PatchViewer 与 PinyinSearchSupport 并统一到 Neon 设置入口。"
   },
   {
     "repo": "zerattel/mindustry-red-alert-3-soundtrack-pack",
@@ -3784,18 +3784,6 @@
     "description": "Color each independent power grid on minimap/full map, show live power balance, detect split outages, and suggest reconnect links. / 在小地图与全图按电网分色显示，实时展示电力盈亏，检测断网并给出快速重连建议。"
   },
   {
-    "repo": "xavierisdeadasheck15/interstellar-spaceline",
-    "internalName": "interstellar-spaceline",
-    "name": "Interstellar Spaceline",
-    "author": "Creator: Xavierlazymahn8",
-    "lastUpdated": "2026-06-10T10:31:33Z",
-    "stars": 6,
-    "minGameVersion": "137",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A Cultivation of Mod Project i made, And the Predecessor of Lasertech Mod, this Mod Focus on the Inspiration of TDX, Helldiver 2, and More"
-  },
-  {
     "repo": "ostost2/snek-mod",
     "internalName": "snek-mod",
     "name": "Container Chaining",
@@ -3808,11 +3796,23 @@
     "description": "Brings back the container chaining mechanic from Mindustry v4 beta"
   },
   {
+    "repo": "xavierisdeadasheck15/interstellar-spaceline",
+    "internalName": "interstellar-spaceline",
+    "name": "Interstellar Spaceline",
+    "author": "Creator: Xavierlazymahn8",
+    "lastUpdated": "2026-06-22T16:28:36Z",
+    "stars": 6,
+    "minGameVersion": "137",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A Cultivation of Mod Project i made, And the Predecessor of Lasertech Mod, this Mod Focus on the Inspiration of TDX, Helldiver 2, and More"
+  },
+  {
     "repo": "bsp-2/factory-simulator",
     "internalName": "factory-sim",
     "name": "The Factory Must Grow",
     "author": "Thinkerdoodle",
-    "lastUpdated": "2026-06-22T14:46:02Z",
+    "lastUpdated": "2026-06-22T18:35:46Z",
     "stars": 6,
     "minGameVersion": "158.1",
     "hasScripts": false,
@@ -5104,18 +5104,6 @@
     "description": "A mindustry mod that adds a new planet with its own campaign, still WIP. Thanks to amogus2824 on discord for fixing the icy sprite and resprite Benite"
   },
   {
-    "repo": "determination-wind/patchviewer",
-    "internalName": "patchviewer",
-    "name": "PatchViewer / 补丁查看器",
-    "author": "DeterMination",
-    "lastUpdated": "2026-06-19T09:24:17Z",
-    "stars": 4,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Inline and quick before/after diff viewer for Mindustry datapatches. / Mindustry 数据补丁的数据库与快捷差异查看器。"
-  },
-  {
     "repo": "lu69159/liquidindustry",
     "internalName": "液体工艺",
     "name": "Liquid Industry",
@@ -5138,6 +5126,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry lib mod that adds support for starmap, more sector logistics and planetary logistics."
+  },
+  {
+    "repo": "determination-wind/patchviewer",
+    "internalName": "patchviewer",
+    "name": "PatchViewer / 补丁查看器",
+    "author": "DeterMination",
+    "lastUpdated": "2026-06-22T15:42:58Z",
+    "stars": 4,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Inline and quick before/after diff viewer for Mindustry datapatches. / Mindustry 数据补丁的数据库与快捷差异查看器。"
   },
   {
     "repo": "mythril382/ammoswap",
@@ -7677,7 +7677,7 @@
     "internalName": "oleksiyresprites",
     "name": "oleksiy's stuff",
     "author": "oleskiy",
-    "lastUpdated": "2026-06-22T11:15:26Z",
+    "lastUpdated": "2026-06-22T15:51:04Z",
     "stars": 2,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -10138,7 +10138,7 @@
     "internalName": "arcdustry",
     "name": "Arcdustry",
     "author": "[#0000ff]Xe[#0066ff]rx[#00ccff]es[]",
-    "lastUpdated": "2026-06-22T14:20:56Z",
+    "lastUpdated": "2026-06-22T17:00:26Z",
     "stars": 1,
     "minGameVersion": "158.1",
     "hasScripts": false,
@@ -10150,7 +10150,7 @@
     "internalName": "sword-deities-mod",
     "name": "PHIGHTING! SWORD DEITIES",
     "author": "BlueDoves3821",
-    "lastUpdated": "2026-06-22T14:32:36Z",
+    "lastUpdated": "2026-06-22T17:52:48Z",
     "stars": 1,
     "minGameVersion": "136.1",
     "hasScripts": true,
@@ -13186,7 +13186,7 @@
     "internalName": "uranium-nuke-mod",
     "name": "Uranium Mod",
     "author": "Star-Pulsar",
-    "lastUpdated": "2026-06-22T13:51:09Z",
+    "lastUpdated": "2026-06-22T15:27:27Z",
     "stars": 0,
     "minGameVersion": "146",
     "hasScripts": false,
