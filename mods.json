@@ -53,7 +53,7 @@
     "name": "Asthosus",
     "author": "Catser",
     "lastUpdated": "2026-06-02T09:14:25Z",
-    "stars": 240,
+    "stars": 241,
     "minGameVersion": "156.2",
     "hasScripts": false,
     "hasJava": false,
@@ -64,7 +64,7 @@
     "internalName": "schema",
     "name": "Schema",
     "author": "xzxADIxzx",
-    "lastUpdated": "2026-06-20T17:10:26Z",
+    "lastUpdated": "2026-06-23T11:29:16Z",
     "stars": 231,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -509,7 +509,7 @@
     "internalName": "azimut",
     "name": "Azimuth",
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-06-19T09:03:10Z",
+    "lastUpdated": "2026-06-23T10:05:55Z",
     "stars": 45,
     "minGameVersion": "158",
     "hasScripts": true,
@@ -545,7 +545,7 @@
     "internalName": "carpe-diem",
     "name": "Carpe Diem",
     "author": "Nullotte",
-    "lastUpdated": "2026-06-22T16:57:16Z",
+    "lastUpdated": "2026-06-23T10:20:54Z",
     "stars": 44,
     "minGameVersion": "158",
     "hasScripts": false,
@@ -2719,19 +2719,19 @@
     "internalName": "kratha",
     "name": "KRATHA",
     "author": "namaka",
-    "lastUpdated": "2026-06-23T05:23:04Z",
+    "lastUpdated": "2026-06-23T10:11:18Z",
     "stars": 9,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
-    "description": "A Mod that adds a new campaign about Terraplasm.\n\nThe Terraplasm is my very own version of Anuke's unfinished Neoplasm, a rapidly growing plant faction that you will fight.\n\n(Lower end device might encounter lag)\n\nThere are currently 4 playable sectors, however, the entire campaign will get a complete reworked in the next update.\n\n[gray]This an early version of KRATHA which is under heavy development, it may not display the final version.\n\nCurrent version : 0.1"
+    "description": "[accent]A Mod that adds a new campaign about Terraplasm.\n\n[white]The Terraplasm is my very own version of Anuke's unfinished Neoplasm, a rapidly growing plant faction that you will fight.\n\n[gray]Lower end device might encounter lag\n\n[accent]There are currently 4 playable sectors, [white]however, the entire campaign will get a complete rework in the next update.\n\n[gray]This an early version of KRATHA which is under heavy development, it may not display the final version.\n\nCurrent version : 0.1"
   },
   {
     "repo": "aevorlum/liminal-protocol",
     "internalName": "lp",
     "name": "Liminal Protocol",
     "author": "[red]AEvoRIum",
-    "lastUpdated": "2026-06-23T08:49:23Z",
+    "lastUpdated": "2026-06-23T11:48:29Z",
     "stars": 9,
     "minGameVersion": "158.1",
     "hasScripts": false,
@@ -3352,18 +3352,6 @@
     "description": "A JavaScript library for my other mods, with codes for class structure, multi-crafters, recipe dictionary, damage display, etc.\nWell, not 100% JavaScript."
   },
   {
-    "repo": "oscillatorium/alef-null",
-    "internalName": "alef-null",
-    "name": "Alef-Null",
-    "author": "[#80ff80]Кселирит[]",
-    "lastUpdated": "2026-06-22T12:25:50Z",
-    "stars": 7,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Ru\nЭтот мод должен добавлять планету с математикой в качестве блоков, но пока только 1 сектор\n[accent]Крутые вывы: chmonya (java script)[]\n\nEn\nThis mod is supposed to add a planet with mathematics as blocks, but so far only 1 sector\n[accent]Cool thanks: chmonya (java script)[]"
-  },
-  {
     "repo": "determination-wind/neon",
     "internalName": "neon-dev",
     "name": "Neon / 氖",
@@ -3374,6 +3362,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A bundled toolkit with 15 client modules, now including WhoUsesThisBuilding, PatchViewer, and PinyinSearchSupport in Neon unified settings. / 辅助模组十五合一，现并入 WhoUsesThisBuilding、PatchViewer 与 PinyinSearchSupport 并统一到 Neon 设置入口。"
+  },
+  {
+    "repo": "oscillatorium/alef-null",
+    "internalName": "alef-null",
+    "name": "Alef-Null",
+    "author": "[#80ff80]Кселирит[]",
+    "lastUpdated": "2026-06-23T12:22:43Z",
+    "stars": 7,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Ru\nЭтот мод должен добавлять планету с математикой в качестве блоков, но пока только 1 сектор\n[accent]Крутые вывы: chmonya (java script)[]\n\nEn\nThis mod is supposed to add a planet with mathematics as blocks, but so far only 1 sector\n[accent]Cool thanks: chmonya (java script)[]"
   },
   {
     "repo": "zerattel/mindustry-red-alert-3-soundtrack-pack",
@@ -3812,7 +3812,7 @@
     "internalName": "factory-sim",
     "name": "The Factory Must Grow",
     "author": "Thinkerdoodle",
-    "lastUpdated": "2026-06-23T08:36:12Z",
+    "lastUpdated": "2026-06-23T11:04:03Z",
     "stars": 6,
     "minGameVersion": "158.1",
     "hasScripts": false,
@@ -8417,6 +8417,18 @@
     "description": "make the logic look better"
   },
   {
+    "repo": "bluetechnocat/convenience-mod",
+    "internalName": "convenience-mod",
+    "name": "Convenience Mod",
+    "author": "[#0088ff]Blue[]Techno",
+    "lastUpdated": "2024-11-01T16:54:36Z",
+    "stars": 1,
+    "minGameVersion": "144",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Because you can't have too much convenience"
+  },
+  {
     "repo": "haznobrain/stupiditydustry",
     "internalName": "stupidustry",
     "name": "Stupiditydustry",
@@ -11164,18 +11176,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\n[#00382b]I[#013a33]n[#1f4037]f[#2f4538]in[#1f4037]i[#013a33]t[#00382b]y 0.2Z\n[white]Mindustry Modification 10.10.2024\n"
-  },
-  {
-    "repo": "bluetechnocat/convenience-mod",
-    "internalName": "convenience-mod",
-    "name": "Convenience Mod",
-    "author": "[#0088ff]Blue[]Techno",
-    "lastUpdated": "2024-11-01T16:54:36Z",
-    "stars": 0,
-    "minGameVersion": "144",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Because you can't have too much convenience"
   },
   {
     "repo": "mindustrylogic/le-java-mod",
