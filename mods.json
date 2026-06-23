@@ -661,6 +661,18 @@
     "description": "A mod provides various tools for modding.\n\n-----------------\nVersion 1.5.9\n\n## Highlight\n1. 新增Profiler\n2. 构建支持增量编译\n3. 优化界面布局和性能\n4. 禁用JDWP功能（根本无法使用Java启动）\n5. 修复一些bug\n- 修复areaTable的`\\t`显示问题和drawMultiText的bug\n- 修复Tester代码补全快捷键冲突问题\n- 改Trigger.postDraw为Trigger.draw适配Helium\n- 修复ReferringMoveListener的只显示一会的问题\n\n-----------------\nWIKI: https://i-hope1.github.io/mod-tools"
   },
   {
+    "repo": "electricgun/cheat-codes-mod",
+    "internalName": "cheat-codes",
+    "name": "Cheat Codes Mod",
+    "author": "electricgun",
+    "lastUpdated": "2026-05-17T17:10:49Z",
+    "stars": 39,
+    "minGameVersion": "136",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "UPDATE: Fixed crashing on v8+\n\nAdds some rather powerful and fun powerups activated by entering the correct strings.\n\nPowerups include:\n[yellow]-Time stop\n-God mode\n-Konami code\n-Thanos snap\nand more...\n\n[white]Can be used to cheat your way through the game.\n\n[red]READ GITHUB REPO FOR CHEAT LIST"
+  },
+  {
     "repo": "rogeh4/virtual-scheme-pack-",
     "internalName": "v-scheme-pack",
     "name": "Virtual Scheme Pack",
@@ -671,18 +683,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\nRU\nМод добавляет огромное количество схем для разных направлений и времени игры.\n\nENG\nMod adds a lot of schemes for different directions and time.\n\nUA\nМод додає велику кількість схем для різноманітних напрямків та часу гри.\n"
-  },
-  {
-    "repo": "electricgun/cheat-codes-mod",
-    "internalName": "cheat-codes",
-    "name": "Cheat Codes Mod",
-    "author": "electricgun",
-    "lastUpdated": "2026-05-17T17:10:49Z",
-    "stars": 38,
-    "minGameVersion": "136",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "UPDATE: Fixed crashing on v8+\n\nAdds some rather powerful and fun powerups activated by entering the correct strings.\n\nPowerups include:\n[yellow]-Time stop\n-God mode\n-Konami code\n-Thanos snap\nand more...\n\n[white]Can be used to cheat your way through the game.\n\n[red]READ GITHUB REPO FOR CHEAT LIST"
   },
   {
     "repo": "coaldeficit/moredefences",
@@ -709,6 +709,19 @@
     "description": "RU: Очень опасный мод, который влияет на баланс и механику игры, добавляет новый контент в виде статус эффектов и оборонительных сооружений (башен, мин и т.д.).\n\nРекомендуется перед установкой сделать сохранение (чтобы откатиться назад), если в случае вам не понравится то, что может сделать данный мод. И лучше в самом деле не рискуйте лишний раз и поверьте на слово: МОД. МЕНЯЕТ. МНОГОЕ.\n\n\n\nENG: A very dangerous mod that affects the balance and mechanics of the game, adds new content in the form of status effects and defensive structures (towers, mines, etc.).\n\n\nPreferably before installing make a save (to roll back), if in case you do not like what this mod can do. And it is better to really do not take unnecessary risks and take my word for it: MOD. CHANGES. EVERYTHING.\n\nAuthor of betterdustry D&X"
   },
   {
+    "repo": "xpdustry/claj",
+    "internalName": "claj",
+    "name": "CLaJ",
+    "author": "ZetaMap, xzxADIxzx",
+    "lastUpdated": "2026-06-19T20:51:58Z",
+    "stars": 38,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allows you to play with your friends, just by creating a room, copying the link and sending it to your friends.\n",
+    "legacyCompatible": true
+  },
+  {
     "repo": "deltanedas/dev-mode",
     "internalName": "dev-mode",
     "name": "Developer Mode",
@@ -719,19 +732,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Lets you type into the console.\nPress F8 to open."
-  },
-  {
-    "repo": "xpdustry/claj",
-    "internalName": "claj",
-    "name": "CLaJ",
-    "author": "ZetaMap, xzxADIxzx",
-    "lastUpdated": "2026-06-19T20:51:58Z",
-    "stars": 37,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allows you to play with your friends, just by creating a room, copying the link and sending it to your friends.\n",
-    "legacyCompatible": true
   },
   {
     "repo": "retodera/technologium",
@@ -2715,18 +2715,6 @@
     "description": " [accent]以战锤40k为原型的MOD[]，拥有自设模组背景和战锤或许关系不大,设定与qq群链接可以到 [accent]模组简介[]里面找\n[sky]QQ群316481519[]\n[unlaunched]贡献者:DOC-A-7244(bundles和翻译),Eipusino(java技术指导)[]\n [accent]The MOD based on Warhammer 40k[],Having a custom mod background may not necessarily relate to Warhammer， with its settings and links to the QQ group, can be found in the  [accent]mod introduction[]\n[sky]QQ group 316481519[]\nDiscord will consider adding features in its subsequent improvements\n[unlaunched]Contributors: DOC-A-7244 (bundles and translation), Eipusino (Java technical guidance)[]"
   },
   {
-    "repo": "aevorlum/liminal-protocol",
-    "internalName": "lp",
-    "name": "Liminal Protocol",
-    "author": "[red]AEvoRIum",
-    "lastUpdated": "2026-06-22T13:33:51Z",
-    "stars": 9,
-    "minGameVersion": "158.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[red]俺寻思之力"
-  },
-  {
     "repo": "yroo1/kratha",
     "internalName": "kratha",
     "name": "KRATHA",
@@ -2737,6 +2725,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mod that adds a new campaign about Terraplasm.\n\nThe Terraplasm is my very own version of Anuke's unfinished Neoplasm, a rapidly growing plant faction that you will fight.\n\n(Lower end device might encounter lag)\n\nThere are currently 4 playable sectors, however, the entire campaign will get a complete reworked in the next update.\n\n[gray]This an early version of KRATHA which is under heavy development, it may not display the final version.\n\nCurrent version : 0.1"
+  },
+  {
+    "repo": "aevorlum/liminal-protocol",
+    "internalName": "lp",
+    "name": "Liminal Protocol",
+    "author": "[red]AEvoRIum",
+    "lastUpdated": "2026-06-23T08:49:23Z",
+    "stars": 9,
+    "minGameVersion": "158.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[red]俺寻思之力"
   },
   {
     "repo": "toriwake/kannadustry",
@@ -3812,7 +3812,7 @@
     "internalName": "factory-sim",
     "name": "The Factory Must Grow",
     "author": "Thinkerdoodle",
-    "lastUpdated": "2026-06-22T18:35:46Z",
+    "lastUpdated": "2026-06-23T08:36:12Z",
     "stars": 6,
     "minGameVersion": "158.1",
     "hasScripts": false,
