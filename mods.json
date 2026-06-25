@@ -1026,7 +1026,7 @@
     "internalName": "cataclysm",
     "name": "Cataclysm",
     "author": "[#ffb33a]JJ[]",
-    "lastUpdated": "2026-06-25T00:41:43Z",
+    "lastUpdated": "2026-06-25T21:49:13Z",
     "stars": 23,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -2427,18 +2427,6 @@
     "description": "[#ff0000]Aziris[] is a planet of breathtaking beauty and immense value, coveted by many factions for its rare and powerful [#bf2851]Erythronite Crystals[]. It has remained in the hands of the [blue]Sentinels[] for centuries. It is up to you to conquer this planet and seize its resources for yourself.\n\n-------\n\nThis is a WIP mod that adds a new planet, Aziris, with plenty of new content to explore. There isn't a campaign yet, but all mod content can be checked out in sandbox, and you can join the discord for custom maps (and more!):\n[purple]https://discord.gg/2qc4WaCreP []\n"
   },
   {
-    "repo": "jojofr1/multicrafter",
-    "internalName": "multicrafter",
-    "name": "MultiCrafter",
-    "author": "Jojo\n[gray]Original Author:[]\nLiplum\n[gray]Icon:[]\nPatou",
-    "lastUpdated": "2026-06-25T00:02:18Z",
-    "stars": 10,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A library for mods that allows you to create factories with [yellow]multiple recipes[] in a single block.\n\n[lightgray]Official port and rewrite of the original library [gray]MutliCrafterLib[].[]\n\n[red]⚠[] Does [red]NOT[] add any content on its own, but is [gold]required[] for mods that want to use the library."
-  },
-  {
     "repo": "acookieg/carbon-vanilla",
     "internalName": "carbon vanilla",
     "name": "Carbon-Vanilla",
@@ -2449,6 +2437,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds multiple new factories, turrets and items to enhance vanilla content and add more things post-late game.\nIMPORTANT: Credit for sprites cuz stealing bad: \n- Eschatologue/Unlimited-Armament-Works\n- AureusStratus/ExoGenesis \n- Eschatologue/Heavy-Armaments-Industries\n- uujuju1/project-oblivion\n- Twcash/Aquarion\n- thomas_has_things(discord) Thomas's Things \n- and a huge shoutout to y'all on the Mindustry Discord\nMod was originally a personal project, sorry if I used your sprites without consent."
+  },
+  {
+    "repo": "jojofr1/multicrafter",
+    "internalName": "multicrafter",
+    "name": "MultiCrafter",
+    "author": "Jojo\n[gray]Original Author:[]\nLiplum\n[gray]Icon:[]\nPatou",
+    "lastUpdated": "2026-06-25T22:47:03Z",
+    "stars": 10,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A library for mods that allows you to create factories with [yellow]multiple recipes[] in a single block.\n\n[lightgray]Official port and rewrite of the original library [gray]MutliCrafterLib[].[]\n\n[red]⚠[] Does [red]NOT[] add any content on its own, but is [gold]required[] for mods that want to use the library."
   },
   {
     "repo": "thcworkshopcn/thc-industry",
@@ -6485,18 +6485,6 @@
     "description": "Java Mod for synchronization (for now only schematics)."
   },
   {
-    "repo": "stacktrace-error/serpulo-resprites",
-    "internalName": "serp-resp",
-    "name": "Serpulo Resprites",
-    "author": "nullevoy",
-    "lastUpdated": "2024-04-27T19:19:56Z",
-    "stars": 2,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Contains minor resprites for some Serpulo content. Wow."
-  },
-  {
     "repo": "obitel30/atnmod",
     "internalName": "atn",
     "name": "A-T-N Mod",
@@ -10098,6 +10086,18 @@
     "description": "Addon son ton everon worn"
   },
   {
+    "repo": "equalzzz/mindustry-modlib",
+    "internalName": "!mod-library",
+    "name": "Mod Library (NOT OFFICIAL)",
+    "author": "Equalzzz",
+    "lastUpdated": "2026-06-25T07:24:08Z",
+    "stars": 1,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Mindustry modding utilities to make mod development easier. NOT AN OFFICIAL VERSION"
+  },
+  {
     "repo": "xenonixq/blerror",
     "internalName": "blerror",
     "name": "Blerror",
@@ -11862,18 +11862,6 @@
     "description": "adds new processors for eriker.\n\n\n\ncoming soon: dismantling tower(logic controlable turret that also dammages blocks on it's team), \nshield tower(projects an arc shaped shield in an arbitrary direction)"
   },
   {
-    "repo": "50275/mindustry-landingpad-always-configurable",
-    "internalName": "landingpad-always-configurable",
-    "name": "Configurable Landing Pads",
-    "author": "50275",
-    "lastUpdated": "2025-09-25T02:44:35Z",
-    "stars": 0,
-    "minGameVersion": "147",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Mindustry mod. Makes launch pads always configurable. Note that this is a client-side mod. Code provided by Anuke, the developer of Mindustry."
-  },
-  {
     "repo": "dominusquadra/dont-rotate-my-turrets",
     "internalName": "dont-rotate-my-turrets",
     "name": "Don't Rotate My Turrets",
@@ -13038,18 +13026,6 @@
     "description": "Shared/Linked network to store/transport items and liquids."
   },
   {
-    "repo": "october-maker/tri-mod",
-    "internalName": "triangle",
-    "name": "triangle-mod",
-    "author": "一瓶圣水",
-    "lastUpdated": "2026-06-11T04:08:49Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "三角模组2.x半成品"
-  },
-  {
     "repo": "576576/mdtc",
     "internalName": "mdtc-mod",
     "name": "MdtC Coder",
@@ -13288,5 +13264,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "a mod that adds a small and simple expansion to the vanilla campaign."
+  },
+  {
+    "repo": "october-maker/tri-mod",
+    "internalName": "triangle",
+    "name": "triangle-mod",
+    "author": "一瓶圣水",
+    "lastUpdated": "2026-06-25T21:32:21Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "三角模组2.x半成品"
   }
 ]
