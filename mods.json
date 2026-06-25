@@ -208,7 +208,7 @@
     "internalName": "aquarion",
     "name": "Aquarion",
     "author": "twcash",
-    "lastUpdated": "2026-06-25T14:46:10Z",
+    "lastUpdated": "2026-06-25T18:17:18Z",
     "stars": 108,
     "minGameVersion": "158.1",
     "hasScripts": false,
@@ -485,7 +485,7 @@
     "internalName": "sw",
     "name": "Steam Works",
     "author": "Liz Aurora",
-    "lastUpdated": "2026-06-22T00:25:36Z",
+    "lastUpdated": "2026-06-25T17:36:49Z",
     "stars": 48,
     "minGameVersion": "156.2",
     "hasScripts": false,
@@ -2935,7 +2935,7 @@
     "internalName": "alef-null",
     "name": "Alef-Null",
     "author": "[#80ff80]Кселирит[]",
-    "lastUpdated": "2026-06-25T16:06:42Z",
+    "lastUpdated": "2026-06-25T18:18:58Z",
     "stars": 8,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -3812,7 +3812,7 @@
     "internalName": "factory-sim",
     "name": "The Factory Must Grow",
     "author": "Thinkerdoodle",
-    "lastUpdated": "2026-06-25T15:34:21Z",
+    "lastUpdated": "2026-06-25T19:40:24Z",
     "stars": 6,
     "minGameVersion": "158.1",
     "hasScripts": false,
@@ -6141,7 +6141,7 @@
     "internalName": "beepdustry",
     "name": "BEEPDUSTRY",
     "author": "DNAlly/penguip",
-    "lastUpdated": "2026-06-25T15:16:14Z",
+    "lastUpdated": "2026-06-25T17:18:27Z",
     "stars": 3,
     "minGameVersion": "149",
     "hasScripts": true,
@@ -7637,18 +7637,6 @@
     "description": "REQUIRES MULTICRAFTER LIBRARY.\nAn Upcoming mod that adds units, blocks, and a new, rusted planet.\nContributors: Sh1p for minor bases and Roj for ideas.\nWarning, mod is extremely rough, unpolished, and NOT COMPLETED.\nAny suggestions, feedback, changes, or ideas you have for the mod,\nplease send it in our official discord server! \nhttps://discord.gg/N6Ux5K9fR2\nAlso be sure to check out our (unfinished) EXTIRPATION music mod.\n\nWe encourage you to test out the mod in sandbox first. Thank you, and have fun!"
   },
   {
-    "repo": "7bebebe7/javascript-mod",
-    "internalName": "jsm",
-    "name": "JS Mod",
-    "author": "bebebe",
-    "lastUpdated": "2026-06-23T15:40:17Z",
-    "stars": 2,
-    "minGameVersion": "157.4",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "written entirely in JavaScript"
-  },
-  {
     "repo": "m1cxzfw3q/thermal-engineering-java",
     "internalName": "temod",
     "name": "Thermal Engineering",
@@ -7695,6 +7683,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "This is a java edition of my mod that eventually will replace the json one"
+  },
+  {
+    "repo": "7bebebe7/javascript-mod",
+    "internalName": "jsm",
+    "name": "JS Mod",
+    "author": "bebebe",
+    "lastUpdated": "2026-06-25T17:30:24Z",
+    "stars": 2,
+    "minGameVersion": "157.4",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "written entirely in JavaScript"
   },
   {
     "repo": "no9527dada/skin",
@@ -9978,18 +9978,6 @@
     "description": "100% фаргус перевод!"
   },
   {
-    "repo": "xpdustry/slf4md",
-    "internalName": "slf4md",
-    "name": "SLF4MD",
-    "author": "xpdustry",
-    "lastUpdated": "2026-06-19T18:47:04Z",
-    "stars": 1,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A basic SLF4J implementation for Mindustry."
-  },
-  {
     "repo": "onex01/mindustry-cloud-save",
     "internalName": "cloud-save",
     "name": "Cloud Save Sync",
@@ -10098,18 +10086,6 @@
     "description": "Provides tools for easier debugging in Mindustry Logic."
   },
   {
-    "repo": "waaaa-nya/extra-technologies",
-    "internalName": "extra-technologies",
-    "name": "Extra Technologies",
-    "author": "[purple]waaaa",
-    "lastUpdated": "2026-06-25T04:48:59Z",
-    "stars": 1,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "adds a lot, oh no, a little bit of content to Serpulo: new turrets, factories, reactors... [#303030]give it a star on github pls"
-  },
-  {
     "repo": "wantechfan/mindustry-son-mod",
     "internalName": "sondustry",
     "name": "Sondustry",
@@ -10204,6 +10180,42 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "An example mod that demonstrates how to use the MultiCrafterLib library.\n展示一下我拼的工厂uwu"
+  },
+  {
+    "repo": "waaaa-nya/extra-technologies",
+    "internalName": "extra-technologies",
+    "name": "Extra Technologies",
+    "author": "[purple]waaaa",
+    "lastUpdated": "2026-06-25T17:42:09Z",
+    "stars": 1,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "adds a lot, oh no, a little bit of content to Serpulo: new turrets, factories, reactors... [#303030]give it a star on github pls"
+  },
+  {
+    "repo": "zion8992/zion-music",
+    "internalName": "zion-music",
+    "name": "Zion's Music",
+    "author": "zion8992",
+    "lastUpdated": "2026-06-25T17:48:32Z",
+    "stars": 1,
+    "minGameVersion": "158.0",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "[#ffdc7d]A revamp of the Mindustry Soundtrack[clear]\n\n[#ff9655]>> DOWNLOAD TODAY! <<[clear]\n[white]This mod fully revamps the Mindustry soundtrack with custom-made sounds for every Game and UI. Every song is made by zion8992 using FL Studio. Enjoy!\n\n[#ffd971]★ Star[clear] [white]at [#849aff]github.com/zion8992/zion-music"
+  },
+  {
+    "repo": "xpdustry/slf4md",
+    "internalName": "slf4md",
+    "name": "SLF4MD",
+    "author": "xpdustry",
+    "lastUpdated": "2026-06-25T19:07:05Z",
+    "stars": 1,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A basic SLF4J implementation for Mindustry."
   },
   {
     "repo": "exxleo/exoterusmod",
@@ -13242,18 +13254,6 @@
     "description": "The World shall burn.\nThe Skies shall shatter.\nThe Heavens shall pierce.\nThe Hells shall cower.\n\nThe APEX are Awaiting for you.\n\n...On a Serious Note its unfinished yet released, but more content soon baby!"
   },
   {
-    "repo": "zion8992/zion-music",
-    "internalName": "zion-music",
-    "name": "Zion's Music",
-    "author": "zion8992",
-    "lastUpdated": "2026-06-24T13:17:49Z",
-    "stars": 0,
-    "minGameVersion": "158.0",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Zion's Music By zion8992 \nA Mindustry Mod that revamps the soundtrack with some new songs.\nNo Lyrics.\nStar at github.com/zion8992/zion-music"
-  },
-  {
     "repo": "roxxedo/modustrybridge",
     "internalName": "modustrybridge",
     "name": "Modustry Bridge",
@@ -13282,7 +13282,7 @@
     "internalName": "simple-expansion",
     "name": "Simple Expansion",
     "author": "Antlrr",
-    "lastUpdated": "2026-06-25T08:14:08Z",
+    "lastUpdated": "2026-06-25T17:05:57Z",
     "stars": 0,
     "minGameVersion": "154",
     "hasScripts": false,
