@@ -4,7 +4,7 @@
     "internalName": "new-horizon",
     "name": "New Horizon",
     "author": "Yuria & Lao",
-    "lastUpdated": "2026-06-29T04:36:18Z",
+    "lastUpdated": "2026-06-30T17:05:31Z",
     "stars": 593,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -2275,7 +2275,7 @@
     "internalName": "projreind",
     "name": "Project Reindustrialization",
     "author": "MaboroshiX",
-    "lastUpdated": "2026-06-29T21:35:41Z",
+    "lastUpdated": "2026-06-30T17:29:02Z",
     "stars": 11,
     "minGameVersion": "159",
     "hasScripts": true,
@@ -2959,7 +2959,7 @@
     "internalName": "alef-null",
     "name": "Alef-Null",
     "author": "[#80ff80]Кселирит[]",
-    "lastUpdated": "2026-06-30T16:10:56Z",
+    "lastUpdated": "2026-06-30T17:11:51Z",
     "stars": 8,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -3352,28 +3352,28 @@
     "description": "Hold a hotkey to open a radial build HUD around the cursor with configurable 16-slot layouts, profile switching, and rule-based auto slot sets. / 按住热键在鼠标周围打开圆盘建造 HUD，支持 16 槽位配置、配置组切换与规则自动切盘。"
   },
   {
-    "repo": "huanxefh/lovecraftian-library-java",
-    "internalName": "lovec",
-    "name": "Lovecraftian Library",
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-06-29T21:33:58Z",
-    "stars": 7,
-    "minGameVersion": "159",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "A JavaScript library for my other mods, with codes for class structure, multi-crafters, recipe dictionary, damage display, etc.\nWell, not 100% JavaScript."
-  },
-  {
     "repo": "huanxefh/lovecraftian-laboratory",
     "internalName": "loveclab",
     "name": "Lovecraftian Laboratory",
     "author": "MaboroshiX",
-    "lastUpdated": "2026-06-29T21:34:35Z",
+    "lastUpdated": "2026-06-30T17:27:35Z",
     "stars": 7,
     "minGameVersion": "159",
     "hasScripts": true,
     "hasJava": false,
     "description": "The base mod for Lovecraftian series that adds essential resource, chemicals, environmental blocks and planets."
+  },
+  {
+    "repo": "huanxefh/lovecraftian-library-java",
+    "internalName": "lovec",
+    "name": "Lovecraftian Library",
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-06-30T17:45:39Z",
+    "stars": 7,
+    "minGameVersion": "159",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "A JavaScript library for my other mods, with codes for class structure, multi-crafters, recipe dictionary, damage display, etc.\nWell, not 100% JavaScript."
   },
   {
     "repo": "zerattel/mindustry-red-alert-3-soundtrack-pack",
@@ -3812,7 +3812,7 @@
     "internalName": "factory-sim",
     "name": "The Factory Must Grow",
     "author": "Thinkerdoodle",
-    "lastUpdated": "2026-06-30T16:06:55Z",
+    "lastUpdated": "2026-06-30T17:28:44Z",
     "stars": 6,
     "minGameVersion": "158.1",
     "hasScripts": false,
@@ -6141,7 +6141,7 @@
     "internalName": "beepdustry",
     "name": "BEEPDUSTRY",
     "author": "DNAlly/penguip",
-    "lastUpdated": "2026-06-30T15:43:47Z",
+    "lastUpdated": "2026-06-30T17:48:12Z",
     "stars": 3,
     "minGameVersion": "149",
     "hasScripts": true,
@@ -7697,18 +7697,6 @@
     "description": "This mod add new planet and also adds new evolution and infection mechanics \n\nDeveloper: Votak (abzobua)\nHelper: Tekta_Ru\n\nlanguage\nEnglish\nРусский"
   },
   {
-    "repo": "7bebebe7/javascript-mod",
-    "internalName": "jsm",
-    "name": "JS Mod",
-    "author": "bebebe",
-    "lastUpdated": "2026-06-30T11:19:21Z",
-    "stars": 2,
-    "minGameVersion": "157.4",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "written entirely in JavaScript"
-  },
-  {
     "repo": "rocket550/zytheron-technology-java-",
     "internalName": "zytheron",
     "name": "Zytheron Technology(Java)",
@@ -7731,6 +7719,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\n[blue]=====INFO=========================\n[gold]ThermalEnginerring  [red]0.0.2_A\n[blue]=====DESCRIPTION==================\n[sky]A mindustry Java&Kotlin(JVM) Mod\n一个Mindustry的JVMMod\n"
+  },
+  {
+    "repo": "7bebebe7/javascript-mod",
+    "internalName": "jsm",
+    "name": "JS Mod",
+    "author": "bebebe",
+    "lastUpdated": "2026-06-30T18:55:39Z",
+    "stars": 2,
+    "minGameVersion": "157.4",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "written entirely in JavaScript"
   },
   {
     "repo": "no9527dada/skin",
@@ -10218,18 +10218,6 @@
     "description": "пока ни шиша, так как [accent]жернова[]\n[accent]Special thanks to: деградация[]"
   },
   {
-    "repo": "someoneelse42/mindustryhemera",
-    "internalName": "hemera",
-    "name": "Hemera",
-    "author": "SomeoneElse",
-    "lastUpdated": "2026-06-29T22:14:01Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds a new rusty red planet (inspired by Mars) with semi-realistic tech trees."
-  },
-  {
     "repo": "xpdustry/slf4md",
     "internalName": "slf4md",
     "name": "SLF4MD",
@@ -10242,35 +10230,23 @@
     "description": "A basic SLF4J implementation for Mindustry."
   },
   {
-    "repo": "nitison/gravillasoanew",
-    "internalName": "gr-anew",
-    "name": "Gravillaso Anew",
-    "author": "NiTiSon",
-    "lastUpdated": "2026-06-29T23:55:55Z",
+    "repo": "xakyw54/newex",
+    "internalName": "newex",
+    "name": "New Ex Ver 0.4.0 Energy",
+    "author": "XakyW56",
+    "lastUpdated": "2026-06-30T16:25:19Z",
     "stars": 1,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Anew version of Gravillaso mod.\n\n[red]ALPHA VERSION.\nNOT INTENDED TO ACTUAL GAMEPLAY.[]"
-  },
-  {
-    "repo": "w-a-a-a-a/extra-technologies",
-    "internalName": "extra-technologies",
-    "name": "Extra Technologies",
-    "author": "[purple]waaaa",
-    "lastUpdated": "2026-06-30T00:13:18Z",
-    "stars": 1,
-    "minGameVersion": "158",
-    "hasScripts": false,
+    "minGameVersion": "157",
+    "hasScripts": true,
     "hasJava": false,
-    "description": "adds a lot, oh no, a little bit of content to Serpulo: new turrets, factories, reactors... [#303030]give it a star on github pls"
+    "description": "...>>Ý tưởng xây dựng 1 thế lực nhỏ ngoài không gian vũ trụ xa xôi.<< Các thành viên đội viễn chinh vô tình trôi dạt tới vũ trụ Mindustry này :o..."
   },
   {
     "repo": "bluedoves3821/phighting-sword-deities",
     "internalName": "sword-deities-mod",
     "name": "PHIGHTING! SWORD DEITIES",
     "author": "BlueDoves3821",
-    "lastUpdated": "2026-06-30T11:21:29Z",
+    "lastUpdated": "2026-06-30T16:38:08Z",
     "stars": 1,
     "minGameVersion": "136.1",
     "hasScripts": true,
@@ -10278,16 +10254,40 @@
     "description": "[#ff5959]PREPARE YOURSELF!\n\n[#ffffff]A mod about [#ff5959]sword [#ffffff]& the 7 sword deities from PHIGHTING!\n\nCreate [#ff5959]swordium [#ffffff]& convert it into either [#70AC30]darkheartium, [#861C00]firebrandium, [#C2C2C2]ghostwalkerium, [#97CCE1]icedaggerium, [#E2BAF5]illuminaium, [#A4C360]venomshankium [#ffffff]or [#929EAE]windforceium!\n\n[#ffffff]There's multiple types of turrets, production buildings, units & even a mobile core that you can place down anywhere!\n\nWhat's special about this mod is that it can be utilized in either erekir, serpulo or any planet mod.\n[grey]provided said planet mod doesn't have set blocks.\n\n[red]note: this mod can be considered as unfair to some, but then again, play it your own way!"
   },
   {
-    "repo": "xakyw54/newex",
-    "internalName": "newex",
-    "name": "New Ex Ver 0.4.0 Energy",
-    "author": "XakyW56",
-    "lastUpdated": "2026-06-30T16:11:05Z",
+    "repo": "w-a-a-a-a/extra-technologies",
+    "internalName": "extra-technologies",
+    "name": "Extra Technologies",
+    "author": "[purple]waaaa",
+    "lastUpdated": "2026-06-30T18:06:09Z",
     "stars": 1,
-    "minGameVersion": "157",
-    "hasScripts": true,
+    "minGameVersion": "158",
+    "hasScripts": false,
     "hasJava": false,
-    "description": "...>>Ý tưởng xây dựng 1 thế lực nhỏ ngoài không gian vũ trụ xa xôi.<< Các thành viên đội viễn chinh vô tình trôi dạt tới vũ trụ Mindustry này :o..."
+    "description": "adds a lot, oh no, a little bit of content to Serpulo: new turrets, factories, reactors... [#303030]give it a star on github pls"
+  },
+  {
+    "repo": "someoneelse42/mindustryhemera",
+    "internalName": "hemera",
+    "name": "Hemera",
+    "author": "SomeoneElse",
+    "lastUpdated": "2026-06-30T18:40:03Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds a new rusty red planet (inspired by Mars) with semi-realistic tech trees."
+  },
+  {
+    "repo": "nitison/gravillasoanew",
+    "internalName": "gr-anew",
+    "name": "Gravillaso Anew",
+    "author": "NiTiSon",
+    "lastUpdated": "2026-06-30T19:05:50Z",
+    "stars": 1,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Anew version of Gravillaso mod.\n\n[red]ALPHA VERSION.\nNOT INTENDED TO ACTUAL GAMEPLAY.[]"
   },
   {
     "repo": "exxleo/exoterusmod",
@@ -12234,18 +12234,6 @@
     "description": "Interface improvements and almost useless quality of life features."
   },
   {
-    "repo": "poiu-y/vern-mod",
-    "internalName": "vern",
-    "name": "Vern",
-    "author": "poiu-y",
-    "lastUpdated": "2026-01-16T17:23:42Z",
-    "stars": 0,
-    "minGameVersion": "152",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "adds a new planet (wip)"
-  },
-  {
     "repo": "swiftcris/mindustry",
     "internalName": "test-mindustry-java-nod",
     "name": "My great mod",
@@ -13336,5 +13324,17 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "English:\n\nExplores the materialistic chaos that once plagued the surface of Fenadi. (In progress, everything is temporary).\n\nA new planet that brings with it exclusively *156 blocks, 23 sectors with a difficulty that increases as you advance in the hostile world and as a personal addiction the story of the tragedy that happened to the celestial body Fenadi and how it came to such a state today.\n\nEspañol:\n\nExplora el caos materialista que una vez asoló la superficie de Fenadi. (En desarrollo, todo es temporal).\n\nUn nuevo planeta que trae consigo exclusivamente *156 bloques, *23 sectores con una dificultad que aumenta a medida que avanzas en el mundo hostil y como adicción personal la historia de la tragedia que le ocurrió al cuerpo celeste Fenadi y cómo llegó a tal estado hoy.\n\nmy Discord: akilidez_81x"
+  },
+  {
+    "repo": "poiu-y/vern-mod",
+    "internalName": "vern",
+    "name": "Vern",
+    "author": "poiu-y",
+    "lastUpdated": "2026-06-30T18:20:58Z",
+    "stars": 0,
+    "minGameVersion": "152",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "adds a new planet (wip)"
   }
 ]
