@@ -5,7 +5,7 @@
     "name": "New Horizon",
     "author": "Yuria & Lao",
     "lastUpdated": "2026-06-29T04:36:18Z",
-    "stars": 592,
+    "stars": 593,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": true,
@@ -17,7 +17,7 @@
     "name": "Exogenesis Old",
     "author": "AureusStratus",
     "lastUpdated": "2026-06-22T01:55:22Z",
-    "stars": 447,
+    "stars": 448,
     "minGameVersion": "158",
     "hasScripts": false,
     "hasJava": false,
@@ -29,7 +29,7 @@
     "name": "BetaMindy",
     "author": "sk7725",
     "lastUpdated": "2026-06-04T01:57:43Z",
-    "stars": 365,
+    "stars": 366,
     "minGameVersion": "155.4",
     "hasScripts": false,
     "hasJava": true,
@@ -810,7 +810,7 @@
     "internalName": "corpuscles",
     "name": "Corpuscles",
     "author": "SezoVK",
-    "lastUpdated": "2026-06-28T08:00:59Z",
+    "lastUpdated": "2026-06-30T01:51:35Z",
     "stars": 29,
     "minGameVersion": "157.4",
     "hasScripts": true,
@@ -1971,6 +1971,18 @@
     "description": "Welcome to Wastebound, a mod developed mostly alone that throws you into an irradiated named Vastis.\nTry and survive as you research new tech and destroy enemy bases.\nTHIS MOD IS STILL HEAVILY WORK IN PROGRESS"
   },
   {
+    "repo": "sh1penfire/meld-java",
+    "internalName": "meld2",
+    "name": "Meld: Sand and Sunder",
+    "author": "Sh1p",
+    "lastUpdated": "2026-06-07T18:38:07Z",
+    "stars": 12,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[gray]Under scattered gloomy sunlight in the shimmering seas, within the shifting sanctuary, Strata awoke.\n\nNo mouth to scream with, no skin to feel with, yet one sense remained.\n\nA great longing of meaning.\n\n[accent]Only has custom game content! (play the info map to understand)[]"
+  },
+  {
     "repo": "jennii94900-tech/mod",
     "internalName": "ochpoch-mob",
     "name": "Hooligan",
@@ -2209,18 +2221,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Resprites a (currently) small amount of serpulo right now.\n\nCurrently Revamped:\n- [#fbe488]Power[]\n- [#e7ecac]Drills[]\n- [#f09267]Item Logistics[]\n- [#95c4f4]Liquid Logistics[]\n\nSpecial Thanks To:\n- [#dd9eb1]Blehhhhh Cat[] (@g_o_r_t_) For giving a decent amount of feedback.\n- [#9b59b6]CY4NIDE[] (@CY4NIDE) For assisting me with making Impact Reactor plasma resprites.\n"
-  },
-  {
-    "repo": "sh1penfire/meld-java",
-    "internalName": "meld2",
-    "name": "Meld: Sand and Sunder",
-    "author": "Sh1p",
-    "lastUpdated": "2026-06-07T18:38:07Z",
-    "stars": 11,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[gray]Under scattered gloomy sunlight in the shimmering seas, within the shifting sanctuary, Strata awoke.\n\nNo mouth to scream with, no skin to feel with, yet one sense remained.\n\nA great longing of meaning.\n\n[accent]Only has custom game content! (play the info map to understand)[]"
   },
   {
     "repo": "tyt-xexebe/qol-control",
@@ -2755,7 +2755,7 @@
     "internalName": "kratha",
     "name": "KRATHA",
     "author": "namaka",
-    "lastUpdated": "2026-06-29T15:05:13Z",
+    "lastUpdated": "2026-06-30T01:51:14Z",
     "stars": 9,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -6141,7 +6141,7 @@
     "internalName": "beepdustry",
     "name": "BEEPDUSTRY",
     "author": "DNAlly/penguip",
-    "lastUpdated": "2026-06-29T20:58:26Z",
+    "lastUpdated": "2026-06-29T23:56:50Z",
     "stars": 3,
     "minGameVersion": "149",
     "hasScripts": true,
@@ -9990,18 +9990,6 @@
     "description": "An example mod that demonstrates how to use the MultiCrafterLib library.\n展示一下我拼的工厂uwu"
   },
   {
-    "repo": "w-a-a-a-a/extra-technologies",
-    "internalName": "extra-technologies",
-    "name": "Extra Technologies",
-    "author": "[purple]waaaa",
-    "lastUpdated": "2026-06-25T17:42:09Z",
-    "stars": 1,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "adds a lot, oh no, a little bit of content to Serpulo: new turrets, factories, reactors... [#303030]give it a star on github pls"
-  },
-  {
     "repo": "chaoticans-modding-team/new-content-music",
     "internalName": "newunitsmusic",
     "name": "New Content Music Pack",
@@ -10120,18 +10108,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Provides tools for easier debugging in Mindustry Logic."
-  },
-  {
-    "repo": "xpdustry/slf4md",
-    "internalName": "slf4md",
-    "name": "SLF4MD",
-    "author": "xpdustry",
-    "lastUpdated": "2026-06-26T17:06:46Z",
-    "stars": 1,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A basic SLF4J implementation for Mindustry."
   },
   {
     "repo": "wantechfan/mindustry-son-mod",
@@ -10266,16 +10242,40 @@
     "description": "Adds a new rusty red planet (inspired by Mars) with semi-realistic tech trees."
   },
   {
+    "repo": "xpdustry/slf4md",
+    "internalName": "slf4md",
+    "name": "SLF4MD",
+    "author": "xpdustry",
+    "lastUpdated": "2026-06-29T23:29:25Z",
+    "stars": 1,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A basic SLF4J implementation for Mindustry."
+  },
+  {
     "repo": "nitison/gravillasoanew",
     "internalName": "gr-anew",
     "name": "Gravillaso Anew",
     "author": "NiTiSon",
-    "lastUpdated": "2026-06-29T22:39:41Z",
+    "lastUpdated": "2026-06-29T23:55:55Z",
     "stars": 1,
     "minGameVersion": "158",
     "hasScripts": false,
     "hasJava": true,
     "description": "Anew version of Gravillaso mod.\n\n[red]ALPHA VERSION.\nNOT INTENDED TO ACTUAL GAMEPLAY.[]"
+  },
+  {
+    "repo": "w-a-a-a-a/extra-technologies",
+    "internalName": "extra-technologies",
+    "name": "Extra Technologies",
+    "author": "[purple]waaaa",
+    "lastUpdated": "2026-06-30T00:13:18Z",
+    "stars": 1,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "adds a lot, oh no, a little bit of content to Serpulo: new turrets, factories, reactors... [#303030]give it a star on github pls"
   },
   {
     "repo": "exxleo/exoterusmod",
