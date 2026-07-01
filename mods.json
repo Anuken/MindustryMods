@@ -425,7 +425,7 @@
     "internalName": "exoprosopa",
     "name": "Exoprosopa",
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-07-01T14:47:23Z",
+    "lastUpdated": "2026-07-01T21:54:10Z",
     "stars": 58,
     "minGameVersion": "158",
     "hasScripts": true,
@@ -1431,6 +1431,18 @@
     "description": "A massive personalized content expansion for Serpulo.\nMost of the content in this mod is my vision for what I wanted to be in the game, yet isn't.\n\nContent included:\n- 2 more tiers for every vanilla crafter\n- The Alloy Trio, composed of Neoplastic, Cryogenic and Ultimatter alloys, each having its own large set of blocks made out of them\n- Four new fluids: Lubricant, Steam, Lava, and Quantofluid, plus a new ingredient called Magmatite\n- Liquid capsules, which allow for the transportation of liquids in the form of items, for things like cross-sector transportation via export, or long range transportation over terrain via mass driver.\n\nCredits:\n- Myself obviously, for implementing all the content in the mod.\n- red.id9990 for spriting the vanilla crafter upgrades\n- tinnphat_ for spriting almost every remaining block\n- giga_chad96 for the sprite of Voltage, and Tesla"
   },
   {
+    "repo": "arktcode/dynamic-shadows",
+    "internalName": "dynamic-shadows",
+    "name": "Dynamic Shadows",
+    "author": "Arksource",
+    "lastUpdated": "2026-05-30T05:59:49Z",
+    "stars": 17,
+    "minGameVersion": "158.1",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Standalone high-fidelity dynamic shadow system with cinematic day/night cycles and dual-pass rendering."
+  },
+  {
     "repo": "otamamori917/axthrix-modded-java",
     "internalName": "aj",
     "name": "Axthrix",
@@ -1525,18 +1537,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod centered around fighting bosses, with a focus on pattern-based attacks. Entirely detached from Mindustry's traditional gameplay loop - The Virtuality Archives restrains the player in a measly vessel and pits them against encoded entities. Does not utilize scripts or Java, seeking to explore the technical scope of (H)JSON and MLOG. Best experienced with a mouse and keyboard.\n\nCurrently features [red]6/7[] planned bosses in the campaign - Candor, Ardent & Argent, Pandemonium, Misanthrope, Nyx, and Alluvion.\n\n[accent][i] In the campaign, Misanthrope's sector currently does not behave as intended for the latest stable build. Play the sector in Custom Game or build 157.4."
-  },
-  {
-    "repo": "arktcode/dynamic-shadows",
-    "internalName": "dynamic-shadows",
-    "name": "Dynamic Shadows",
-    "author": "Arksource",
-    "lastUpdated": "2026-05-30T05:59:49Z",
-    "stars": 16,
-    "minGameVersion": "158.1",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Standalone high-fidelity dynamic shadow system with cinematic day/night cycles and dual-pass rendering."
   },
   {
     "repo": "kev-vily/epsilon",
@@ -3007,7 +3007,7 @@
     "internalName": "alef-null",
     "name": "Alef-Null",
     "author": "[#80ff80]Кселирит[]",
-    "lastUpdated": "2026-07-01T21:06:52Z",
+    "lastUpdated": "2026-07-01T21:58:01Z",
     "stars": 8,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -3860,7 +3860,7 @@
     "internalName": "factory-sim",
     "name": "The Factory Must Grow",
     "author": "Thinkerdoodle",
-    "lastUpdated": "2026-06-30T17:28:44Z",
+    "lastUpdated": "2026-07-01T21:32:39Z",
     "stars": 6,
     "minGameVersion": "158.1",
     "hasScripts": false,
@@ -6189,7 +6189,7 @@
     "internalName": "beepdustry",
     "name": "BEEPDUSTRY",
     "author": "DNAlly/penguip",
-    "lastUpdated": "2026-07-01T20:57:54Z",
+    "lastUpdated": "2026-07-01T21:54:21Z",
     "stars": 3,
     "minGameVersion": "149",
     "hasScripts": true,
@@ -7709,18 +7709,6 @@
     "description": "Sync Mindustry schematics with GitHub, with auto push, pull/merge, and local-only filtering."
   },
   {
-    "repo": "leinadhq/voltaprotocolmod",
-    "internalName": "volta-protocol",
-    "name": "Volta Protocol",
-    "author": "Leinad (discord: danizzq)",
-    "lastUpdated": "2026-06-29T18:09:22Z",
-    "stars": 2,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\n[accent]Languages/Idiomas: EN / ES \n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla y mi nuevo planeta (el planeta aun esta en desarrollo). \n\n[white]Este mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de unidades, torretas y sus municiones. \n\n[accent]Changelog / Novedades v0.5:\n[lightgray]• New sprites for some blocks.\n• New design for the planet (The front brightness issue has finally been fixed).\n• The first sector finally works properly.\n• Planet sector generation finally works, but it needs quite a few improvements.\n• New ring generation for the planet (the New Horizons Dyson Sphere/Ring generator was used as a reference).\n\n[accent]Contenido: \n[white]·1 nuevo planeta y 1 sector de prueba \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros \n[white]·4 taladros. \n[white]·11 fabricas \n[white]·1 generador \n[white]·2 cinta de transporte \n[white]·6 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Fading Revelations Remake, Gier: Revitalized, Warbound Industries, [Better Vanilla], simple additions y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
-  },
-  {
     "repo": "p-enya/celeste-music-pack",
     "internalName": "celeste-music-pack",
     "name": "Celeste music pack",
@@ -7779,6 +7767,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "This is a java edition of my mod that eventually will replace the json one"
+  },
+  {
+    "repo": "leinadhq/voltaprotocolmod",
+    "internalName": "volta-protocol",
+    "name": "Volta Protocol",
+    "author": "Leinad (discord: danizzq)",
+    "lastUpdated": "2026-07-01T21:36:05Z",
+    "stars": 2,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\n[accent]Languages/Idiomas: EN / ES \n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla y mi nuevo planeta (el planeta aun esta en desarrollo). \n\n[white]Este mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de unidades, torretas y sus municiones. \n\n[accent]Changelog / Novedades v0.5:\n[lightgray]• New sprites for some blocks.\n• New design for the planet (The front brightness issue has finally been fixed).\n• The first sector finally works properly.\n• Planet sector generation finally works, but it needs quite a few improvements.\n• New ring generation for the planet (the New Horizons Dyson Sphere/Ring generator was used as a reference).\n\n[accent]Contenido: \n[white]·1 nuevo planeta y 1 sector de prueba \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros \n[white]·4 taladros. \n[white]·11 fabricas \n[white]·1 generador \n[white]·2 cinta de transporte \n[white]·6 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Fading Revelations Remake, Gier: Revitalized, Warbound Industries, [Better Vanilla], simple additions y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
   },
   {
     "repo": "no9527dada/skin",
@@ -9390,6 +9390,18 @@
     "description": "\nrefactor v1.1\n"
   },
   {
+    "repo": "meiiory/flooder",
+    "internalName": "flooder",
+    "name": "Flooder",
+    "author": "https://t.me/schizo_mell",
+    "lastUpdated": "2026-03-21T04:22:15Z",
+    "stars": 1,
+    "minGameVersion": "155",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Allows you to send any length message to the chat by splitting it."
+  },
+  {
     "repo": "zeefoe/simple-chat-translator",
     "internalName": "simple-chat-translator",
     "name": "Simple Chat Translator",
@@ -9580,6 +9592,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A Dune-themed Mindustry mod. Adds Arrakis."
+  },
+  {
+    "repo": "meiiory/alernus-schematic-pack",
+    "internalName": "alernus-schematic-pack",
+    "name": "Alernus Schematic Pack",
+    "author": "Mellory",
+    "lastUpdated": "2026-04-21T07:41:20Z",
+    "stars": 1,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "No description provided."
   },
   {
     "repo": "determination-wind/mobilejoystickcontrol",
@@ -12570,18 +12594,6 @@
     "description": "A large content mod. Development might be slow as I am solo and learning. Enjoy :P"
   },
   {
-    "repo": "meiiory/flooder",
-    "internalName": "flooder",
-    "name": "Flooder",
-    "author": "https://t.me/schizo_mell",
-    "lastUpdated": "2026-03-21T04:22:15Z",
-    "stars": 0,
-    "minGameVersion": "155",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Allows you to send any length message to the chat by splitting it."
-  },
-  {
     "repo": "darkdustry-coders/mindurkacompatv7",
     "internalName": "mindurkacompat",
     "name": "MindurkaCompat",
@@ -12724,18 +12736,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "This mod shows hp bars for allied and enemy units at the cursor position."
-  },
-  {
-    "repo": "meiiory/alernus-schematic-pack",
-    "internalName": "alernus-schematic-pack",
-    "name": "Alernus Schematic Pack",
-    "author": "Mellory",
-    "lastUpdated": "2026-04-21T07:41:20Z",
-    "stars": 0,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "No description provided."
   },
   {
     "repo": "capotishe/memdustry-mod-for-mindustry",
