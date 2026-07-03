@@ -7745,18 +7745,6 @@
     "description": "\n[accent]Languages/Idiomas: EN / ES \n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla y mi nuevo planeta (el planeta aun esta en desarrollo). \n\n[white]Este mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de unidades, torretas y sus municiones. \n\n[accent]Changelog / Novedades v0.5:\n[lightgray]• New sprites for some blocks.\n• New design for the planet (The front brightness issue has finally been fixed).\n• The first sector finally works properly.\n• Planet sector generation finally works, but it needs quite a few improvements.\n• New ring generation for the planet (the New Horizons Dyson Sphere/Ring generator was used as a reference).\n\n[accent]Contenido: \n[white]·1 nuevo planeta y 1 sector de prueba \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros \n[white]·4 taladros. \n[white]·11 fabricas \n[white]·1 generador \n[white]·2 cinta de transporte \n[white]·6 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Fading Revelations Remake, Gier: Revitalized, Warbound Industries, [Better Vanilla], simple additions y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
   },
   {
-    "repo": "rocket550/zytheron-technology-java-",
-    "internalName": "zytheron",
-    "name": "Zytheron Technology(Java)",
-    "author": "Trocket",
-    "lastUpdated": "2026-07-03T03:56:58Z",
-    "stars": 2,
-    "minGameVersion": "157.4",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "This is a java edition of my mod that eventually will replace the json one"
-  },
-  {
     "repo": "7bebebe7/javascript-mod",
     "internalName": "jsm",
     "name": "JS Mod",
@@ -7773,12 +7761,24 @@
     "internalName": "number",
     "name": "World of Dights",
     "author": "[red]a[blue]l[white]ex[]",
-    "lastUpdated": "2026-07-03T18:37:56Z",
+    "lastUpdated": "2026-07-03T19:35:38Z",
     "stars": 2,
     "minGameVersion": "146",
     "hasScripts": false,
     "hasJava": false,
     "description": "01010100 01001000 01001001 01010011 00100000 01001101 01001111 01000100 00100000 01011001 01010011 00100000 01001101 01001111 01000100 00100000 01000011 01010111 01000100 01000101 01000100 00100000 01000010 01011001 00100000 01100001 01101100 01100101 01111000 00100000 01000001 01001110 01000100 00100000 01101111 01110011 01100011 01101001 01101100 01101100 01100001 01110100 01101111 01110010 01101001 01110101 01101101"
+  },
+  {
+    "repo": "rocket550/zytheron-technology-java-",
+    "internalName": "zytheron",
+    "name": "Zytheron Technology(Java)",
+    "author": "Trocket",
+    "lastUpdated": "2026-07-03T19:51:49Z",
+    "stars": 2,
+    "minGameVersion": "157.4",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "This is a java edition of my mod that eventually will replace the json one"
   },
   {
     "repo": "no9527dada/skin",
@@ -13420,5 +13420,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry Java mod that adds new units, items, and content to the game."
+  },
+  {
+    "repo": "vini230909/vinicator",
+    "internalName": "hideyourunit",
+    "name": "Hide Units",
+    "author": "Vini230909",
+    "lastUpdated": "2026-07-03T19:59:41Z",
+    "stars": 0,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Hides or fades units near your player, cursor, or camera so you can see what's underneath. Configure range, opacity and affected unit types in Settings > Vinicator."
   }
 ]
