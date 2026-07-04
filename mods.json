@@ -148,7 +148,7 @@
     "internalName": "omaloon",
     "name": "Omaloon",
     "author": "stabu, uujuju",
-    "lastUpdated": "2026-07-04T19:25:02Z",
+    "lastUpdated": "2026-07-04T21:15:02Z",
     "stars": 137,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2311,12 +2311,12 @@
     "internalName": "projreind",
     "name": "Project Reindustrialization",
     "author": "MaboroshiX",
-    "lastUpdated": "2026-07-04T18:49:28Z",
+    "lastUpdated": "2026-07-04T20:47:39Z",
     "stars": 11,
     "minGameVersion": "159",
     "hasScripts": true,
     "hasJava": false,
-    "description": "OBJECTIVE: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with realistic and hardcore production.\n- Peaceful sectors focused on mass production.\n- A separate and complex tech tree.\n- Tons of multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\nThis mod is part of Lovecraftian series, which requires Lovecraftian Library and Lovecraftian Laboratory.\n\nWARNING: RECIPE HELL AHEAD!\n\nDo not download the mod and its dependencies directly in mod browser, download the latest releases instead!"
+    "description": "OBJECTIVE: Retrieve the forgotten technology.\n\nA mod inspired by Greg's Tech and Factorio that makes manufacturing realistic and even harder.\nRemade and improved version of Reindustrialization.\n\nMod features:\n- Distinct style of gameplay with realistic and hardcore production.\n- Peaceful sectors focused on mass production.\n- A separate and complex tech tree.\n- Tons of multi-crafters and intermediates.\n- Pipe corrosion and more mechanics stolen from Greg's Tech.\n\n\n\nRequired mods:\n- Lovecraftian Library\n- Lovecraftian Laboratory\n\nOptional mods:\n- TooManyItems\n\n\n\nWARNING: RECIPE HELL AHEAD!\n\n\n\nDo not download the mod and its dependencies directly in mod browser, download the latest releases instead!\n\nDo not download this mod only, the game will try downloading denpendencies which may be test versions and cause crash!"
   },
   {
     "repo": "sk7725/betamindymusic",
@@ -3007,7 +3007,7 @@
     "internalName": "alef-null",
     "name": "Alef-Null",
     "author": "[#80ff80]Кселирит[]",
-    "lastUpdated": "2026-07-04T18:28:51Z",
+    "lastUpdated": "2026-07-04T22:41:03Z",
     "stars": 8,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -3400,18 +3400,6 @@
     "description": "Первый мой мод в котором вы с помощю межпланетного ускорителя попадаете на планету Селестис.Вы должным отомстить красным и захватить их планету.Вас будут ждать новые руды,враги,механики и ЛОООООР.Сложность мода высокая так что запасайтесь нервами"
   },
   {
-    "repo": "huanxefh/lovecraftian-library-java",
-    "internalName": "lovec",
-    "name": "Lovecraftian Library",
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-07-04T18:46:49Z",
-    "stars": 7,
-    "minGameVersion": "159",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "A JavaScript library for my other mods, with codes for class structure, multi-crafters, recipe dictionary, damage display, etc.\nWell, not 100% JavaScript."
-  },
-  {
     "repo": "huanxefh/lovecraftian-laboratory",
     "internalName": "loveclab",
     "name": "Lovecraftian Laboratory",
@@ -3434,6 +3422,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\nRU\nМод добавляет Схемы для модификации New Horizon. Тег: NH\n\nENG\nThe mod adds Schematics for the New Horizon modification. Tag: NH\nMy Discord: silinveredno_edmstep\n"
+  },
+  {
+    "repo": "huanxefh/lovecraftian-library-java",
+    "internalName": "lovec",
+    "name": "Lovecraftian Library",
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-07-04T20:46:17Z",
+    "stars": 7,
+    "minGameVersion": "159",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "A JavaScript-based library for my other mods.\n\nMain features:\n- JS approach to class and interface.\n- Content template for method inheritance and mixing, along with more powerful `extend` methods.\n- Multi-crafters.\n- QOL functionalities like recipe dictionary, health bar and damage splash text."
   },
   {
     "repo": "zerattel/mindustry-red-alert-3-soundtrack-pack",
@@ -6213,7 +6213,7 @@
     "internalName": "beepdustry",
     "name": "BEEPDUSTRY",
     "author": "DNAlly/penguip",
-    "lastUpdated": "2026-07-04T20:35:14Z",
+    "lastUpdated": "2026-07-04T21:44:14Z",
     "stars": 3,
     "minGameVersion": "149",
     "hasScripts": true,
@@ -10338,18 +10338,6 @@
     "description": "A modern shaders mod for Mindustry."
   },
   {
-    "repo": "someoneelse42/mindustryhemera",
-    "internalName": "hemera",
-    "name": "Hemera",
-    "author": "SomeoneElse",
-    "lastUpdated": "2026-07-03T16:45:53Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds a new rusty red planet (inspired by Mars) with semi-realistic tech trees."
-  },
-  {
     "repo": "vini230909/turretautofill",
     "internalName": "turret-auto-fill",
     "name": "Turret Auto Fill",
@@ -10372,18 +10360,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Hides or fades units near your player, cursor, or camera so you can see what's underneath. Configure range, opacity and affected unit types in Settings > Vinicator."
-  },
-  {
-    "repo": "hiboy15/industries",
-    "internalName": "better industries",
-    "name": "industries",
-    "author": "24lowie",
-    "lastUpdated": "2026-07-04T12:14:58Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "has some amazing industries"
   },
   {
     "repo": "xakyw54/newex",
@@ -10432,6 +10408,30 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds many things for Serpulo like for example aircraft or nuclear technology! Highly ambitious project."
+  },
+  {
+    "repo": "someoneelse42/mindustryhemera",
+    "internalName": "hemera",
+    "name": "Hemera",
+    "author": "SomeoneElse",
+    "lastUpdated": "2026-07-04T21:22:27Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds a new rusty red planet (inspired by Mars) with semi-realistic tech trees."
+  },
+  {
+    "repo": "hiboy15/industries",
+    "internalName": "better industries",
+    "name": "industries",
+    "author": "24lowie",
+    "lastUpdated": "2026-07-04T22:34:57Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "has some amazing industries"
   },
   {
     "repo": "exxleo/exoterusmod",
