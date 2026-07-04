@@ -709,18 +709,6 @@
     "description": "\nRU\nМод добавляет огромное количество схем для разных направлений и времени игры.\n\nENG\nMod adds a lot of schemes for different directions and time.\n\nUA\nМод додає велику кількість схем для різноманітних напрямків та часу гри.\n"
   },
   {
-    "repo": "coaldeficit/moredefences",
-    "internalName": "md3",
-    "name": "MoreDefences",
-    "author": "[grey]CD[], [#FC8E6C]meowkitty[] and [#ff0059]7rodo[]",
-    "lastUpdated": "2026-06-10T16:22:02Z",
-    "stars": 38,
-    "minGameVersion": "157.4",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A mod made by [grey]CD[], [#FC8E6C]meowkitty[] and [#ff0059]7rodo[] that overhauls the campaign, significantly modifying [#7457ce]Serpulo[]'s campaign and adding a new planet, [blue]Fieros[].\n\nAmidst the features in this mod are:\n[grey]-[] [accent]18[] New [accent]Turrets[] to defend with\n[grey]-[] [accent]21[] New [accent]Units[] to attack with\n[grey]-[] [accent]16[] New campaign [accent]Sectors[] to play on, including [accent]2 Remakes[] of vanilla sectors\n[grey]-[] [accent]Post-Surge Alloy-tier[] content for Serpulo\n[grey]-[] [accent]12[] New Miscellaneous blocks to mess around with on Serpulo\n\n[#e38a88]⚠ This mod moves Serpulo sectors around without moving their saves, backup your game data in [ SETTINGS > GAME DATA ] before enabling/disabling this mod to prevent campaign corruption if you have any campaign saves. ⚠[]\n\n[grey]Discord: https://discord.gg/9YHA3q8HHq[]"
-  },
-  {
     "repo": "koctolom/mindustry-overhaul",
     "internalName": "mov",
     "name": "Mindustry Overhaul",
@@ -744,6 +732,18 @@
     "hasJava": true,
     "description": "Reworked CLaJ protocol of the xzxADIxzx's Scheme Size mod.\n\nCLaJ (Copy Link and Join) allows you to play with your friends, just by creating a room, copying the link and sending it to your friends.\n",
     "legacyCompatible": true
+  },
+  {
+    "repo": "coaldeficit/moredefences",
+    "internalName": "md3",
+    "name": "MoreDefences",
+    "author": "[grey]CD[], [#FC8E6C]meowkitty[] and [#ff0059]7rodo[]",
+    "lastUpdated": "2026-07-04T12:07:23Z",
+    "stars": 38,
+    "minGameVersion": "157.4",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod made by [grey]CD[], [#FC8E6C]meowkitty[] and [#ff0059]7rodo[] that overhauls the campaign, significantly modifying [#7457ce]Serpulo[]'s campaign and adding a new planet, [blue]Fieros[].\n\nAmidst the features in this mod are:\n[grey]-[] [accent]18[] New [accent]Turrets[] to defend with\n[grey]-[] [accent]21[] New [accent]Units[] to attack with\n[grey]-[] [accent]16[] New campaign [accent]Sectors[] to play on, including [accent]2 Remakes[] of vanilla sectors\n[grey]-[] [accent]Post-Surge Alloy-tier[] content for Serpulo\n[grey]-[] [accent]12[] New Miscellaneous blocks to mess around with on Serpulo\n\n[#e38a88]⚠ This mod moves Serpulo sectors around without moving their saves, backup your game data in [ SETTINGS > GAME DATA ] before enabling/disabling this mod to prevent campaign corruption if you have any campaign saves. ⚠[]\n\n[grey]Discord: https://discord.gg/9YHA3q8HHq[]"
   },
   {
     "repo": "retodera/technologium",
@@ -2527,7 +2527,7 @@
     "internalName": "kratha",
     "name": "KRATHA",
     "author": "namaka",
-    "lastUpdated": "2026-07-04T10:57:44Z",
+    "lastUpdated": "2026-07-04T12:49:16Z",
     "stars": 10,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -3376,6 +3376,18 @@
     "description": "Hold a hotkey to open a radial build HUD around the cursor with configurable 16-slot layouts, profile switching, and rule-based auto slot sets. / 按住热键在鼠标周围打开圆盘建造 HUD，支持 16 槽位配置、配置组切换与规则自动切盘。"
   },
   {
+    "repo": "bsp-2/factory-simulator",
+    "internalName": "factory-sim",
+    "name": "The Factory Must Grow",
+    "author": "Thinkerdoodle",
+    "lastUpdated": "2026-07-01T21:32:39Z",
+    "stars": 7,
+    "minGameVersion": "158.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A recreation of a game called Factory Simulator.\nRequires multicrafter lib. "
+  },
+  {
     "repo": "huanxefh/lovecraftian-laboratory",
     "internalName": "loveclab",
     "name": "Lovecraftian Laboratory",
@@ -3818,18 +3830,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod which allows Erekir blocks to be used on Serpulo using Serpulo resources"
-  },
-  {
-    "repo": "bsp-2/factory-simulator",
-    "internalName": "factory-sim",
-    "name": "The Factory Must Grow",
-    "author": "Thinkerdoodle",
-    "lastUpdated": "2026-07-01T21:32:39Z",
-    "stars": 6,
-    "minGameVersion": "158.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A recreation of a game called Factory Simulator.\nRequires multicrafter lib. "
   },
   {
     "repo": "xavierisdeadasheck15/interstellar-spaceline",
@@ -5993,6 +5993,18 @@
     "description": "Safely speed up and slow down Mindustry without glitching your units in singleplayer, and banning/rubberbanding yourself in multiplayer. Original by sk7725."
   },
   {
+    "repo": "axilians/arx-alpha-mod-mindustry",
+    "internalName": "arx-khimeris",
+    "name": "⚠ Test Mod",
+    "author": "Axilians",
+    "lastUpdated": "2026-04-14T08:58:15Z",
+    "stars": 3,
+    "minGameVersion": "155",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[red]Do not[] install this mod \n"
+  },
+  {
     "repo": "shatteredskies/mindustry-mass-driver-logic",
     "internalName": "mass-driver-logic",
     "name": "Mass-Driver Logic",
@@ -6173,18 +6185,6 @@
     "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
-    "repo": "penguip/a-mindustry-mod",
-    "internalName": "beepdustry",
-    "name": "BEEPDUSTRY",
-    "author": "DNAlly/penguip",
-    "lastUpdated": "2026-07-04T03:25:58Z",
-    "stars": 3,
-    "minGameVersion": "149",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Very DaF! based mod. Don't ask what that is.\nIn terms of content, the mod adds a new planet, Keisuris.\nA madman's creation, born of the fusion of many worlds.\nThe mod aims to strive for a unique experience compared to other mods.\nIt is in heavy beta as of current, and starring is greatly appreciated.\nContent is now being prioritized over the campaign.\n!BIG WEEB LORE WARNING!"
-  },
-  {
     "repo": "m1cxzfw3q/logicextend",
     "internalName": "logic-extend",
     "name": "Logic Extend",
@@ -6195,6 +6195,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "让逻辑再次伟大！\nMake Logic Great Again!"
+  },
+  {
+    "repo": "penguip/a-mindustry-mod",
+    "internalName": "beepdustry",
+    "name": "BEEPDUSTRY",
+    "author": "DNAlly/penguip",
+    "lastUpdated": "2026-07-04T12:05:24Z",
+    "stars": 3,
+    "minGameVersion": "149",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Very DaF! based mod. Don't ask what that is.\nIn terms of content, the mod adds a new planet, Keisuris.\nA madman's creation, born of the fusion of many worlds.\nThe mod aims to strive for a unique experience compared to other mods.\nIt is in heavy beta as of current, and starring is greatly appreciated.\nContent is now being prioritized over the campaign.\n!BIG WEEB LORE WARNING!"
   },
   {
     "repo": "rintadev5792/arcane-mindustry",
@@ -7421,18 +7433,6 @@
     "description": " A single JS script that makes game a lot harder. \n \n Thx Sputnic for optimization and the idea of changing statistics using js script \n \n This mod: \n 1. Makes all blocks cost 10 times more \n 2. Makes hp of blocks 10 times less \n 3. Makes itemCapacity in all Cores 10 times more (so you could place some blocks) \n 4. Makes buildCostMultiplier = 10 (so you can place blocks and not wait for eternity) \n 5. Idk makes early game a lil bit harder (drillTime of mechanicalDrill is *= 1.25)"
   },
   {
-    "repo": "axilians/arx-alpha-mod-mindustry",
-    "internalName": "arx-khimeris",
-    "name": "⚠ Test Mod",
-    "author": "Axilians",
-    "lastUpdated": "2026-04-14T08:58:15Z",
-    "stars": 2,
-    "minGameVersion": "155",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[red]Do not[] install this mod \n"
-  },
-  {
     "repo": "hungrycloud4913/nunnimbus-item-resprites",
     "internalName": "hunnimbus item resprites",
     "name": "HunNimbus Item Resprites",
@@ -7773,7 +7773,7 @@
     "internalName": "number",
     "name": "World of Dights",
     "author": "[red]a[blue]l[white]ex[]",
-    "lastUpdated": "2026-07-04T10:51:55Z",
+    "lastUpdated": "2026-07-04T12:46:54Z",
     "stars": 2,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -10326,18 +10326,6 @@
     "description": "[#ff5959]PREPARE YOURSELF!\n\n[#ffffff]A mod about [#ff5959]sword [#ffffff]& the 7 sword deities from PHIGHTING!\n\nCreate [#ff5959]swordium [#ffffff]& convert it into either [#70AC30]darkheartium, [#861C00]firebrandium, [#C2C2C2]ghostwalkerium, [#97CCE1]icedaggerium, [#E2BAF5]illuminaium, [#A4C360]venomshankium [#ffffff]or [#929EAE]windforceium!\n\n[#ffffff]There's multiple types of turrets, production buildings, units & even a mobile core that you can place down anywhere!\n\nWhat's special about this mod is that it can be utilized in either erekir, serpulo or any planet mod.\n[grey]provided said planet mod doesn't have set blocks.\n\n[red]note: this mod can be considered as unfair to some, but then again, play it your own way!"
   },
   {
-    "repo": "vkazee/mindustry-force-landscape",
-    "internalName": "force-landscape-toggle",
-    "name": "Force Landscape Toggle",
-    "author": "Vkazee",
-    "lastUpdated": "2026-07-03T06:50:20Z",
-    "stars": 1,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Added a manual option in Settings to force landscape mode on Android/iOS, without having to change the phone's rotation settings."
-  },
-  {
     "repo": "deercarbonate/carbounits",
     "internalName": "carbounits",
     "name": "Carbo Units",
@@ -10374,18 +10362,6 @@
     "description": "Adds a new rusty red planet (inspired by Mars) with semi-realistic tech trees."
   },
   {
-    "repo": "hiboy15/industries",
-    "internalName": "better industries",
-    "name": "industries",
-    "author": "24lowie",
-    "lastUpdated": "2026-07-04T02:37:48Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "has some amazing industries"
-  },
-  {
     "repo": "vini230909/turretautofill",
     "internalName": "turret-auto-fill",
     "name": "Turret Auto Fill",
@@ -10410,11 +10386,35 @@
     "description": "Hides or fades units near your player, cursor, or camera so you can see what's underneath. Configure range, opacity and affected unit types in Settings > Vinicator."
   },
   {
+    "repo": "hiboy15/industries",
+    "internalName": "better industries",
+    "name": "industries",
+    "author": "24lowie",
+    "lastUpdated": "2026-07-04T12:14:58Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "has some amazing industries"
+  },
+  {
+    "repo": "vkazee/mindustry-force-landscape",
+    "internalName": "force-landscape-toggle",
+    "name": "Force Landscape Toggle",
+    "author": "Vkazee",
+    "lastUpdated": "2026-07-04T12:33:52Z",
+    "stars": 1,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Added a manual option in Settings to force landscape mode on Android/iOS, without having to change the phone's rotation settings."
+  },
+  {
     "repo": "sporbelamogus/sporbels-inventions",
     "internalName": "sporbel's inventions",
     "name": "SporBel's Inventions",
     "author": "SporBel",
-    "lastUpdated": "2026-07-04T10:24:09Z",
+    "lastUpdated": "2026-07-04T12:48:32Z",
     "stars": 1,
     "minGameVersion": "152",
     "hasScripts": false,
