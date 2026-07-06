@@ -148,7 +148,7 @@
     "internalName": "omaloon",
     "name": "Omaloon",
     "author": "stabu, uujuju",
-    "lastUpdated": "2026-07-04T21:15:02Z",
+    "lastUpdated": "2026-07-06T19:09:59Z",
     "stars": 137,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -220,7 +220,7 @@
     "internalName": "aquarion",
     "name": "Aquarion",
     "author": "twcash",
-    "lastUpdated": "2026-07-06T01:28:10Z",
+    "lastUpdated": "2026-07-06T19:33:18Z",
     "stars": 109,
     "minGameVersion": "158.1",
     "hasScripts": false,
@@ -557,7 +557,7 @@
     "internalName": "psammos",
     "name": "Psammos Mod",
     "author": "AndromedaGalaxy29",
-    "lastUpdated": "2026-07-06T15:11:51Z",
+    "lastUpdated": "2026-07-06T20:55:00Z",
     "stars": 44,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -737,7 +737,7 @@
     "internalName": "claj",
     "name": "CLaJ",
     "author": "ZetaMap, xzxADIxzx",
-    "lastUpdated": "2026-07-05T19:50:06Z",
+    "lastUpdated": "2026-07-06T18:23:57Z",
     "stars": 38,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -2043,18 +2043,6 @@
     "description": "A bundled toolkit with 19 client modules, now including ForeignServerTranslator, Tripwire, BetterPolyAi, and AdvancedReplace in Neon unified settings. / 辅助模组十九合一，现并入 ForeignServerTranslator、Tripwire、BetterPolyAi 与 AdvancedReplace 并统一到 Neon 设置入口。"
   },
   {
-    "repo": "novanox4/astralis",
-    "internalName": "astralis",
-    "name": "Astralis",
-    "author": "NV-NX (FULL CREDITS IN DESC.)",
-    "lastUpdated": "2026-07-02T15:34:36Z",
-    "stars": 12,
-    "minGameVersion": "158.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "\nCurrently sandbox only!\n\nA reboot of an old mod.\n\nExplore a rocky, dark world filled with many things that shouldn't exist.\n\nBreak inferno. Escape the cage.\n\nCREDITS:\n\nNV-NX - Main dev and spriter\nHaznobrain - Occasional sprite and code help. Making music.\nMegacheb - Allowing me to use some of their music for (upcoming) bosses."
-  },
-  {
     "repo": "chaoticans-modding-team/new-content",
     "internalName": "newunits",
     "name": "New Content",
@@ -2077,6 +2065,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod is also modifiy ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request[]."
+  },
+  {
+    "repo": "novanox4/astralis",
+    "internalName": "astralis",
+    "name": "Astralis",
+    "author": "NV-NX (FULL CREDITS IN DESC.)",
+    "lastUpdated": "2026-07-06T18:41:08Z",
+    "stars": 12,
+    "minGameVersion": "158.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "\nCurrently sandbox only!\n\nA reboot of an old mod.\n\nExplore a rocky, dark world filled with many things that shouldn't exist.\n\nBreak inferno. Escape the cage.\n\nCREDITS:\n\nNV-NX - Main dev and spriter\nHaznobrain - Occasional sprite and code help. Making music.\nMegacheb - Allowing me to use some of their music for (upcoming) bosses."
   },
   {
     "repo": "def-try/parkour-mod",
@@ -3019,7 +3019,7 @@
     "internalName": "alef-null",
     "name": "Alef-Null",
     "author": "[#80ff80]Кселирит[]",
-    "lastUpdated": "2026-07-06T15:05:43Z",
+    "lastUpdated": "2026-07-06T21:14:39Z",
     "stars": 8,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -3364,18 +3364,6 @@
     "description": "Hold a hotkey to open a radial build HUD around the cursor with configurable 16-slot layouts, profile switching, and rule-based auto slot sets. / 按住热键在鼠标周围打开圆盘建造 HUD，支持 16 槽位配置、配置组切换与规则自动切盘。"
   },
   {
-    "repo": "bsp-2/factory-simulator",
-    "internalName": "factory-sim",
-    "name": "The Factory Must Grow",
-    "author": "Thinkerdoodle",
-    "lastUpdated": "2026-07-01T21:32:39Z",
-    "stars": 7,
-    "minGameVersion": "158.1",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A recreation of a game called Factory Simulator.\nRequires multicrafter lib. "
-  },
-  {
     "repo": "frizermoon/revengeance-mod",
     "internalName": "revengeance",
     "name": "Revengeance",
@@ -3428,12 +3416,24 @@
     "internalName": "lovec",
     "name": "Lovecraftian Library",
     "author": "MaboroshiX",
-    "lastUpdated": "2026-07-06T16:14:21Z",
+    "lastUpdated": "2026-07-06T18:54:46Z",
     "stars": 7,
     "minGameVersion": "159",
     "hasScripts": true,
     "hasJava": true,
     "description": "A JavaScript-based library for my other mods.\n\nMain features:\n- JS approach to class and interface.\n- Content template for method inheritance and mixing, along with more powerful `extend` methods.\n- Multi-crafters.\n- QOL functionalities like recipe dictionary, health bar and damage splash text."
+  },
+  {
+    "repo": "bsp-2/factory-simulator",
+    "internalName": "factory-sim",
+    "name": "The Factory Must Grow",
+    "author": "Thinkerdoodle",
+    "lastUpdated": "2026-07-06T21:04:18Z",
+    "stars": 7,
+    "minGameVersion": "158.1",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A recreation of a game called Factory Simulator.\nRequires multicrafter lib. "
   },
   {
     "repo": "zerattel/mindustry-red-alert-3-soundtrack-pack",
@@ -6197,18 +6197,6 @@
     "description": "让逻辑再次伟大！\nMake Logic Great Again!"
   },
   {
-    "repo": "xpdustry/kotlin-runtime",
-    "internalName": "kotlin-runtime",
-    "name": "KotlinRuntime",
-    "author": "Xpdustry",
-    "lastUpdated": "2026-07-06T08:50:37Z",
-    "stars": 3,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A companion mod for Kotlin based mods and plugins."
-  },
-  {
     "repo": "penguip/a-mindustry-mod",
     "internalName": "beepdustry",
     "name": "BEEPDUSTRY",
@@ -6219,6 +6207,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Very DaF! based mod. Don't ask what that is.\nIn terms of content, the mod adds a new planet, Keisuris.\nA madman's creation, born of the fusion of many worlds.\nThe mod aims to strive for a unique experience compared to other mods.\nIt is in heavy beta as of current, and starring is greatly appreciated.\nContent is now being prioritized over the campaign.\n!BIG WEEB LORE WARNING!"
+  },
+  {
+    "repo": "xpdustry/kotlin-runtime",
+    "internalName": "kotlin-runtime",
+    "name": "KotlinRuntime",
+    "author": "Xpdustry",
+    "lastUpdated": "2026-07-06T18:45:14Z",
+    "stars": 3,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
     "repo": "rintadev5792/arcane-mindustry",
@@ -7809,7 +7809,7 @@
     "internalName": "volta-protocol",
     "name": "Volta Protocol",
     "author": "Leinad (discord: danizzq)",
-    "lastUpdated": "2026-07-06T17:34:21Z",
+    "lastUpdated": "2026-07-06T19:51:29Z",
     "stars": 2,
     "minGameVersion": "158",
     "hasScripts": false,
@@ -13470,18 +13470,6 @@
     "description": "Eine Mod, die extrophaxenolithische Technologien hinzufügt. BITTE DEN NEUSTEN RELEASE HERUNTERLADEN!"
   },
   {
-    "repo": "nonefromnome/t5-tier",
-    "internalName": "superunitsnames",
-    "name": "SuperUnitsNames",
-    "author": "Mr Paladin",
-    "lastUpdated": "2026-07-06T17:06:42Z",
-    "stars": 0,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Changes all names T5 tiers units to MORE EPIC."
-  },
-  {
     "repo": "antlrr/serekir",
     "internalName": "serekir",
     "name": "Serekir - Texture Pack",
@@ -13504,5 +13492,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A context-aware AI assistant powered by Gemini that provides real-time strategic advice based on your current game state."
+  },
+  {
+    "repo": "nonefromnome/t5-tier",
+    "internalName": "superunitsnames",
+    "name": "SuperUnitsNames",
+    "author": "Mr Paladin",
+    "lastUpdated": "2026-07-06T21:02:36Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Changes all names T5 tiers units to MORE EPIC."
   }
 ]
