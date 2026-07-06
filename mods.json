@@ -4,7 +4,7 @@
     "internalName": "new-horizon",
     "name": "New Horizon",
     "author": "Yuria & Lao",
-    "lastUpdated": "2026-07-05T05:43:14Z",
+    "lastUpdated": "2026-07-06T17:11:10Z",
     "stars": 594,
     "minGameVersion": "154",
     "hasScripts": false,
@@ -557,7 +557,7 @@
     "internalName": "psammos",
     "name": "Psammos Mod",
     "author": "AndromedaGalaxy29",
-    "lastUpdated": "2026-07-05T21:02:54Z",
+    "lastUpdated": "2026-07-06T15:11:51Z",
     "stars": 44,
     "minGameVersion": "147",
     "hasScripts": false,
@@ -1515,18 +1515,6 @@
     "description": "- This mod adds in 1 or 2 higher tiers of vanilla blocks. Mod is still in development. More contents coming soon.\n- Erekir is cooking"
   },
   {
-    "repo": "bttodi/virtuality",
-    "internalName": "virtuality",
-    "name": "Virtuality",
-    "author": "bttodi",
-    "lastUpdated": "2026-05-26T09:31:50Z",
-    "stars": 16,
-    "minGameVersion": "157.4",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod centered around fighting bosses, with a focus on pattern-based attacks. Entirely detached from Mindustry's traditional gameplay loop - The Virtuality Archives restrains the player in a measly vessel and pits them against encoded entities. Does not utilize scripts or Java, seeking to explore the technical scope of (H)JSON and MLOG. Best experienced with a mouse and keyboard.\n\nCurrently features [red]6/7[] planned bosses in the campaign - Candor, Ardent & Argent, Pandemonium, Misanthrope, Nyx, and Alluvion.\n\n[accent][i] In the campaign, Misanthrope's sector currently does not behave as intended for the latest stable build. Play the sector in Custom Game or build 157.4."
-  },
-  {
     "repo": "kev-vily/epsilon",
     "internalName": "epsilon",
     "name": "Epsilon",
@@ -1621,6 +1609,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Your schemes and saves are prone to corruption. Export your data before updating.\n\nAn extremely large mod solely dedicated for mindustry roleplaying and builds alike.\n\nQRM V7.1 aims to fix most of the bugs found after v7's release.\nQRM v7 Changelog:\nAdded\n- Beveled sorters, Highlighted sorters, and Unloader Two chiseled sets\n- Way, way more chiseled diagonal variants \n- Chiseled diagonal duct router and bezeled sets\n- Hazel, Tyrian, Royal, Terracotta, Pale, Graphene Walls\n- Ash and Alternate sand and red sand env walls \n- RGBCMY + White, Black Overlay floors\n- CMY, Sorter gray + Source yellow floors\n- Thunder, Windstorm, Thunderstorm, Rain and Ping SFX blocks\n- Void messages\n- Vials readded\n- Message blocks that look like RP books\n- [WIP] Particle gen with changeable colours via ammo\n- Powerline Blockers (invisible plast walls)\n- Arrow block that looks like a logic block (Path Cell)\n- Ritual circles\n\nFixed\n- Large slate message being omega\n- Flat surge router is flat unloader\n- Stone colour walls being named snow\n- Cruiser being implemented\n- Slower emanates\n- All unit building\n- Rocky en stairs being offset\n- Config mender now a unloader\n- Config nodes having glow\n- Unloader two a sorter now\n- Revert noise sorter changes, now unlegacy'd\n\nQRM v7.1 Changelog\nFixed\n- Bezeled chiseled side-line being offset\n- Transperant, white, black item source having the wrong name\n- Liquid router source not having a texture\n- Particle generators not being invisible \n- Normal, inverted, highlight, bezel, spectral, source centered corners, diagonal router corner 3 being offset\n- Config stuff not being flat\n- Sorter gray colour 5 being olive\n- Open Item Vial not being able to rotate\n- Full liquid vials being able to rotate, even they can't visually\n- Books resprite\n\nAdded\n- Borderless item source (for SFX turrets)\n- Flat beveled, highlight sorters\n- More books\n- Duct router catears\n\nRemoved\n- Extra surge router slope corner\n\nVersion v7.1 "
+  },
+  {
+    "repo": "bttodi/virtuality",
+    "internalName": "virtuality",
+    "name": "Virtuality",
+    "author": "bttodi",
+    "lastUpdated": "2026-05-26T09:31:50Z",
+    "stars": 15,
+    "minGameVersion": "157.4",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod centered around fighting bosses, with a focus on pattern-based attacks. Entirely detached from Mindustry's traditional gameplay loop - The Virtuality Archives restrains the player in a measly vessel and pits them against encoded entities. Does not utilize scripts or Java, seeking to explore the technical scope of (H)JSON and MLOG. Best experienced with a mouse and keyboard.\n\nCurrently features [red]6/7[] planned bosses in the campaign - Candor, Ardent & Argent, Pandemonium, Misanthrope, Nyx, and Alluvion.\n\n[accent][i] In the campaign, Misanthrope's sector currently does not behave as intended for the latest stable build. Play the sector in Custom Game or build 157.4."
   },
   {
     "repo": "yal-game-things/mindustry-tiny-things",
@@ -3019,7 +3019,7 @@
     "internalName": "alef-null",
     "name": "Alef-Null",
     "author": "[#80ff80]Кселирит[]",
-    "lastUpdated": "2026-07-06T14:26:21Z",
+    "lastUpdated": "2026-07-06T15:05:43Z",
     "stars": 8,
     "minGameVersion": "146",
     "hasScripts": true,
@@ -3412,18 +3412,6 @@
     "description": "Introducing, Apolon! the long awaited passion project by me, Nannerbz (or like 3 different nicknames online), and my friend VDoble! This project has been in development for a LONG while and im happy im finally able to release it to the public! This mod contains: Brand new gameplay, New units, A new campaign, and MORE!\n\nDiscord: fandslimu\n(Or Fandslimu#9712)"
   },
   {
-    "repo": "huanxefh/lovecraftian-library-java",
-    "internalName": "lovec",
-    "name": "Lovecraftian Library",
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-07-06T09:13:21Z",
-    "stars": 7,
-    "minGameVersion": "159",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "A JavaScript-based library for my other mods.\n\nMain features:\n- JS approach to class and interface.\n- Content template for method inheritance and mixing, along with more powerful `extend` methods.\n- Multi-crafters.\n- QOL functionalities like recipe dictionary, health bar and damage splash text."
-  },
-  {
     "repo": "huanxefh/lovecraftian-laboratory",
     "internalName": "loveclab",
     "name": "Lovecraftian Laboratory",
@@ -3434,6 +3422,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "The base mod for Lovecraftian series that adds essential resource, chemicals, environmental blocks and planets."
+  },
+  {
+    "repo": "huanxefh/lovecraftian-library-java",
+    "internalName": "lovec",
+    "name": "Lovecraftian Library",
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-07-06T16:14:21Z",
+    "stars": 7,
+    "minGameVersion": "159",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "A JavaScript-based library for my other mods.\n\nMain features:\n- JS approach to class and interface.\n- Content template for method inheritance and mixing, along with more powerful `extend` methods.\n- Multi-crafters.\n- QOL functionalities like recipe dictionary, health bar and damage splash text."
   },
   {
     "repo": "zerattel/mindustry-red-alert-3-soundtrack-pack",
@@ -4372,18 +4372,6 @@
     "description": "This mod replaces vanilla sprites with modified versions."
   },
   {
-    "repo": "zenthxsin/voidshield",
-    "internalName": "voidshield",
-    "name": "Void Shield",
-    "author": "zxs",
-    "lastUpdated": "2026-06-09T15:57:52Z",
-    "stars": 5,
-    "minGameVersion": "157",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "虚空盾\n\n一个由kotlin编写，参看战锤40k虚空盾的全新护盾系统\n\n全新的指令集，让护盾使用的自由度大大提高。全新的热量系统，与原版热量系统与众不同的体验\n\n全新的护盾机制，令人焕然一新\n需要一定的逻辑基础\n在这里，你可以：\n1. 创建一个自定义形状的护盾\n2. 可以通多逻辑来控制你的护盾\n3. 通过建筑的堆叠和逻辑优化不断升级你的护盾\n\n游玩指栏：\n首先，你需要建筑虚空之心，帷幕溶解器，空间穿刺机，和一个用于控制这个系统的逻辑处理器\n然后，为这个系统搭建其独立的散热线路\n最后，编写控制它们的逻辑\n\n逻辑编写指栏：\n\n首先，你需要使用CircleZone（或其他）来创建一个场，然后使用UseZone来将这个场加载到对应建筑，\n最后，使用UpdateZone来控制这个场\n\n如果你想要让它可以阻挡子弹，你需要使用Bind来把帷幕溶解器绑定给空间穿刺机，最后使用AutoBlock开启自动拦截\n这套逻辑将在未来继续扩展\n\n目前mod还在开发测试中，欢迎issue\n\n代码编写: ZXS\n贴图制作: 花杨永瀛\n委托: 一得阁拉米\n\n\nVoid Shield\n\nA brand-new shield system written in Kotlin, inspired by Warhammer 40K's Void Shield.\n\nNew instruction set, greatly improving the freedom of shield usage. New heat system, a completely different experience from the vanilla heat system.\nNew shield mechanism, a refreshing new gameplay.\n\nRequires some basic knowledge of logic programming.\n\nHere, you can:\n\n1. Create shields with custom shapes\n2. Control shields via the Logic Processor\n3. Continuously upgrade shields through block stacking and logic optimization\n\n\nHow to Play:\nFirst, build a Void Heart, a Veil Dissolver, a Spatial Piercer, and a Logic Processor to control this system\nThen, set up an independent cooling line for this system\nFinally, write logic to control them\n\nLogic Scripting Guide:\n\nFirst, use CircleZone (or others) to create a zone, then use UseZone to load that zone into the corresponding block,\nFinally, use UpdateZone to control that zone\n\nIf you want it to block bullets, use Bind to bind the Veil Dissolver to the Spatial Piercer, then use AutoBlock to activate automatic interception\nThis instruction set will continue to be expanded in the future.\n\nThis mod is currently under active development and testing. Issues and feedback are welcome!\n\nCode: ZXS\nSprites: 花杨永瀛\nCommission: 一得阁拉米"
-  },
-  {
     "repo": "namds666/item-liquid-teleport",
     "internalName": "item-liquid-teleport",
     "name": "Item Liquid Teleport",
@@ -5102,6 +5090,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "My planet mod for Mindustry. Heavily unfinished.\nMindustry V8 is required for the mod to work.\nMeowkitty contributed with sprites and maps for this mod.\n\nCredits go the the rest of the MoreDefences team for their code, LixieWulf for Allure's planet code (which I modified to make the planet) and Catana791 for some bits of code from Asthosus used in my crafting blocks."
+  },
+  {
+    "repo": "zenthxsin/voidshield",
+    "internalName": "voidshield",
+    "name": "Void Shield",
+    "author": "zxs",
+    "lastUpdated": "2026-06-09T15:57:52Z",
+    "stars": 4,
+    "minGameVersion": "157",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "虚空盾\n\n一个由kotlin编写，参看战锤40k虚空盾的全新护盾系统\n\n全新的指令集，让护盾使用的自由度大大提高。全新的热量系统，与原版热量系统与众不同的体验\n\n全新的护盾机制，令人焕然一新\n需要一定的逻辑基础\n在这里，你可以：\n1. 创建一个自定义形状的护盾\n2. 可以通多逻辑来控制你的护盾\n3. 通过建筑的堆叠和逻辑优化不断升级你的护盾\n\n游玩指栏：\n首先，你需要建筑虚空之心，帷幕溶解器，空间穿刺机，和一个用于控制这个系统的逻辑处理器\n然后，为这个系统搭建其独立的散热线路\n最后，编写控制它们的逻辑\n\n逻辑编写指栏：\n\n首先，你需要使用CircleZone（或其他）来创建一个场，然后使用UseZone来将这个场加载到对应建筑，\n最后，使用UpdateZone来控制这个场\n\n如果你想要让它可以阻挡子弹，你需要使用Bind来把帷幕溶解器绑定给空间穿刺机，最后使用AutoBlock开启自动拦截\n这套逻辑将在未来继续扩展\n\n目前mod还在开发测试中，欢迎issue\n\n代码编写: ZXS\n贴图制作: 花杨永瀛\n委托: 一得阁拉米\n\n\nVoid Shield\n\nA brand-new shield system written in Kotlin, inspired by Warhammer 40K's Void Shield.\n\nNew instruction set, greatly improving the freedom of shield usage. New heat system, a completely different experience from the vanilla heat system.\nNew shield mechanism, a refreshing new gameplay.\n\nRequires some basic knowledge of logic programming.\n\nHere, you can:\n\n1. Create shields with custom shapes\n2. Control shields via the Logic Processor\n3. Continuously upgrade shields through block stacking and logic optimization\n\n\nHow to Play:\nFirst, build a Void Heart, a Veil Dissolver, a Spatial Piercer, and a Logic Processor to control this system\nThen, set up an independent cooling line for this system\nFinally, write logic to control them\n\nLogic Scripting Guide:\n\nFirst, use CircleZone (or others) to create a zone, then use UseZone to load that zone into the corresponding block,\nFinally, use UpdateZone to control that zone\n\nIf you want it to block bullets, use Bind to bind the Veil Dissolver to the Spatial Piercer, then use AutoBlock to activate automatic interception\nThis instruction set will continue to be expanded in the future.\n\nThis mod is currently under active development and testing. Issues and feedback are welcome!\n\nCode: ZXS\nSprites: 花杨永瀛\nCommission: 一得阁拉米"
   },
   {
     "repo": "128oteml/proximacentauri",
@@ -6213,7 +6213,7 @@
     "internalName": "beepdustry",
     "name": "BEEPDUSTRY",
     "author": "DNAlly/penguip",
-    "lastUpdated": "2026-07-06T13:32:15Z",
+    "lastUpdated": "2026-07-06T17:46:51Z",
     "stars": 3,
     "minGameVersion": "149",
     "hasScripts": true,
@@ -7745,18 +7745,6 @@
     "description": "This is a java edition of my mod that eventually will replace the json one"
   },
   {
-    "repo": "leinadhq/voltaprotocolmod",
-    "internalName": "volta-protocol",
-    "name": "Volta Protocol",
-    "author": "Leinad (discord: danizzq)",
-    "lastUpdated": "2026-07-06T05:03:37Z",
-    "stars": 2,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\n[accent]Languages/Idiomas: EN / ES \n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla y mi nuevo planeta (el planeta aun esta en desarrollo). \n\n[white]Este mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de unidades, torretas y sus municiones. \n\n[accent]Changelog / Novedades v0.5:\n[lightgray]• New sprites for some blocks.\n• New design for the planet (The front brightness issue has finally been fixed).\n• The first sector finally works properly.\n• Planet sector generation finally works, but it needs quite a few improvements.\n• New ring generation for the planet (the New Horizons Dyson Sphere/Ring generator was used as a reference).\n\n[accent]Contenido: \n[white]·1 nuevo planeta y 1 sector de prueba \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros \n[white]·4 taladros. \n[white]·11 fabricas \n[white]·1 generador \n[white]·2 cinta de transporte \n[white]·6 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Fading Revelations Remake, Gier: Revitalized, Warbound Industries, [Better Vanilla], simple additions y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
-  },
-  {
     "repo": "zeniku/caeruleum",
     "internalName": "",
     "name": "Caeruleum",
@@ -7815,6 +7803,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Client-side translator for marked foreign-language Mindustry servers. / 标记外语服务器后自动翻译聊天的 Mindustry 客户端模组。"
+  },
+  {
+    "repo": "leinadhq/voltaprotocolmod",
+    "internalName": "volta-protocol",
+    "name": "Volta Protocol",
+    "author": "Leinad (discord: danizzq)",
+    "lastUpdated": "2026-07-06T17:34:21Z",
+    "stars": 2,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\n[accent]Languages/Idiomas: EN / ES \n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla y mi nuevo planeta (el planeta aun esta en desarrollo). \n\n[white]Este mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de unidades, torretas y sus municiones. \n\n[accent]Changelog / Novedades v0.5:\n[lightgray]• New sprites for some blocks.\n• New design for the planet (The front brightness issue has finally been fixed).\n• The first sector finally works properly.\n• Planet sector generation finally works, but it needs quite a few improvements.\n• New ring generation for the planet (the New Horizons Dyson Sphere/Ring generator was used as a reference).\n\n[accent]Contenido: \n[white]·1 nuevo planeta y 1 sector de prueba \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros \n[white]·4 taladros. \n[white]·11 fabricas \n[white]·1 generador \n[white]·2 cinta de transporte \n[white]·6 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Fading Revelations Remake, Gier: Revitalized, Warbound Industries, [Better Vanilla], simple additions y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
   },
   {
     "repo": "no9527dada/skin",
@@ -10254,18 +10254,6 @@
     "description": "[RU]Данный мод добавляет логические блоки в Erekir.\n[ENG]This mod adds logic blocks to Erekir."
   },
   {
-    "repo": "oscillatorium/repala",
-    "internalName": "repala",
-    "name": "Repala",
-    "author": "Кселирит",
-    "lastUpdated": "2026-06-29T17:08:27Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "пока ни шиша, так как [accent]жернова[]\n[accent]Special thanks to: деградация[]"
-  },
-  {
     "repo": "w-a-a-a-a/extra-technologies",
     "internalName": "extra-technologies",
     "name": "Extra Technologies",
@@ -10374,18 +10362,6 @@
     "description": "has some amazing industries"
   },
   {
-    "repo": "chax0180/challenge-additions",
-    "internalName": "chad",
-    "name": "Challenge Additions",
-    "author": "Chax0180",
-    "lastUpdated": "2026-07-05T23:44:49Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Adds a small set of blocks to make challenge maps more interesting."
-  },
-  {
     "repo": "chax0180/mindustry-texture-tweaks",
     "internalName": "chax0180's texture tweaks",
     "name": "mindustry-texture-tweaks",
@@ -10462,12 +10438,36 @@
     "internalName": "newex",
     "name": "New Ex Ver 0.4.4 Energy",
     "author": "XakyW56",
-    "lastUpdated": "2026-07-06T14:11:43Z",
+    "lastUpdated": "2026-07-06T15:13:55Z",
     "stars": 1,
     "minGameVersion": "157",
     "hasScripts": true,
     "hasJava": false,
     "description": "...>>Ý tưởng xây dựng 1 thế lực nhỏ ngoài không gian vũ trụ xa xôi.<< Các thành viên đội viễn chinh vô tình trôi dạt tới vũ trụ Mindustry này :o..."
+  },
+  {
+    "repo": "chax0180/challenge-additions",
+    "internalName": "chad",
+    "name": "Challenge Additions",
+    "author": "Chax0180",
+    "lastUpdated": "2026-07-06T15:36:59Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Adds a small set of blocks to make challenge maps more interesting."
+  },
+  {
+    "repo": "oscillatorium/repala",
+    "internalName": "repala",
+    "name": "Repala",
+    "author": "Кселирит",
+    "lastUpdated": "2026-07-06T17:16:34Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "пока ни шиша, так как [accent]жернова[]\n[accent]Special thanks to: деградация[]"
   },
   {
     "repo": "exxleo/exoterusmod",
@@ -13474,23 +13474,35 @@
     "internalName": "superunitsnames",
     "name": "SuperUnitsNames",
     "author": "Mr Paladin",
-    "lastUpdated": "2026-07-06T09:17:02Z",
+    "lastUpdated": "2026-07-06T17:06:42Z",
     "stars": 0,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": false,
-    "description": "�������� ����������� �������� �5 ������ �� ������������. Changes all names T5 tiers units to russian epic."
+    "description": "Changes all names T5 tiers units to MORE EPIC."
   },
   {
     "repo": "antlrr/serekir",
     "internalName": "serekir",
     "name": "Serekir - Texture Pack",
     "author": "Antlrr",
-    "lastUpdated": "2026-07-06T12:49:59Z",
+    "lastUpdated": "2026-07-06T17:14:13Z",
     "stars": 0,
     "minGameVersion": "154",
     "hasScripts": false,
     "hasJava": false,
     "description": "a texture pack that attempts to mimic the erekir art style on serpulo blocks"
+  },
+  {
+    "repo": "nadeeshafdo/aiassistmod",
+    "internalName": "ai-advisor",
+    "name": "AI Advisor",
+    "author": "nadeeshafdo.dev",
+    "lastUpdated": "2026-07-06T17:56:25Z",
+    "stars": 0,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A context-aware AI assistant powered by Gemini that provides real-time strategic advice based on your current game state."
   }
 ]
