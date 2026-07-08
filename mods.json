@@ -148,7 +148,7 @@
     "internalName": "omaloon",
     "name": "Omaloon",
     "author": "stabu, uujuju",
-    "lastUpdated": "2026-07-08T14:39:05Z",
+    "lastUpdated": "2026-07-08T18:55:57Z",
     "stars": 137,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -220,9 +220,9 @@
     "internalName": "aquarion",
     "name": "Aquarion",
     "author": "twcash",
-    "lastUpdated": "2026-07-08T16:01:19Z",
+    "lastUpdated": "2026-07-08T17:26:41Z",
     "stars": 109,
-    "minGameVersion": "158.1",
+    "minGameVersion": "159.1",
     "hasScripts": false,
     "hasJava": true,
     "description": "A complete rewrite of the campaign. Currently in heavy development."
@@ -533,7 +533,7 @@
     "internalName": "psammos",
     "name": "Psammos Mod",
     "author": "AndromedaGalaxy29",
-    "lastUpdated": "2026-07-08T17:04:02Z",
+    "lastUpdated": "2026-07-08T17:38:17Z",
     "stars": 45,
     "minGameVersion": "155.4",
     "hasScripts": false,
@@ -6129,7 +6129,7 @@
     "internalName": "beepdustry",
     "name": "BEEPDUSTRY",
     "author": "DNAlly/penguip",
-    "lastUpdated": "2026-07-08T16:43:13Z",
+    "lastUpdated": "2026-07-08T18:23:51Z",
     "stars": 3,
     "minGameVersion": "149",
     "hasScripts": true,
@@ -7673,18 +7673,6 @@
     "description": "Breathes life into Tantros, the planet Anuke has ceased working on. This mod is meant to faithfully recreate what Tantros could have been, had work not ceased."
   },
   {
-    "repo": "leinadhq/voltaprotocolmod",
-    "internalName": "volta-protocol",
-    "name": "Volta Protocol",
-    "author": "Leinad (discord: danizzq)",
-    "lastUpdated": "2026-07-08T05:34:59Z",
-    "stars": 2,
-    "minGameVersion": "158",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\n[accent]Languages/Idiomas: EN / ES \n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla y mi nuevo planeta (el planeta aun esta en desarrollo). \n\n[white]Este mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de materiales, unidades, sistemas de transporte, torretas y sus municiones. \n\n[accent]Changelog / Novedades v0.6:\n[lightgray]• New sprites (working on the missing sprites).\n• New air-based liquid transport system (V1).\n• New repair and construction blocks.\n• Planet sector generation finally works, but it needs quite a few improvements.\n• New ring generation for the planet (the New Horizons Dyson Sphere/Ring generator was used as a reference).\n\n[accent]Contenido: \n[white]·1 nuevo planeta y 1 sector de prueba \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros \n[white]· 2 bloques para el transporte aereo de liquidos (Cargador, descargador y dron de transporte) \n[white]· 1 torreta de construccion y 1 proyector de reparación \n[white]·4 taladros. \n[white]·11 fabricas \n[white]·2 generadores \n[white]·3 cinta de transporte (familia palladium duct: duct, router, bridge and junction) \n[white]·7 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Gier: Revitalized, Warbound Industries, [Better Vanilla], simple additions y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
-  },
-  {
     "repo": "oleksiy1409liut/oleksiysstuff",
     "internalName": "oleksiyresprites",
     "name": "oleksiy's stuff",
@@ -7697,11 +7685,23 @@
     "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS\ndoes he know"
   },
   {
+    "repo": "leinadhq/voltaprotocolmod",
+    "internalName": "volta-protocol",
+    "name": "Volta Protocol",
+    "author": "Leinad (discord: danizzq)",
+    "lastUpdated": "2026-07-08T18:10:41Z",
+    "stars": 2,
+    "minGameVersion": "158",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\n[accent]Languages/Idiomas: EN / ES \n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla y mi nuevo planeta (el planeta aun esta en desarrollo). \n\n[white]Este mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de materiales, unidades, sistemas de transporte, torretas y sus municiones. \n\n[accent]Changelog / Novedades v0.6:\n[lightgray]• New sprites (working on the missing sprites).\n• New air-based liquid transport system (V1).\n• New repair and construction blocks.\n• Planet sector generation finally works, but it needs quite a few improvements.\n• New ring generation for the planet (the New Horizons Dyson Sphere/Ring generator was used as a reference).\n\n[accent]Contenido: \n[white]·1 nuevo planeta y 1 sector de prueba \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros \n[white]· 2 bloques para el transporte aereo de liquidos (Cargador, descargador y dron de transporte) \n[white]· 1 torreta de construccion y 1 proyector de reparación \n[white]·4 taladros. \n[white]·11 fabricas \n[white]·2 generadores \n[white]·3 cinta de transporte (familia palladium duct: duct, router, bridge and junction) \n[white]·7 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Gier: Revitalized, Warbound Industries, [Better Vanilla], simple additions y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
+  },
+  {
     "repo": "hamsterhat/world-of-dights",
     "internalName": "number",
     "name": "World of Dights",
     "author": "[red]a[blue]l[white]ex[]",
-    "lastUpdated": "2026-07-08T12:14:46Z",
+    "lastUpdated": "2026-07-08T18:52:38Z",
     "stars": 2,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -8499,18 +8499,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "No description."
-  },
-  {
-    "repo": "cameroonets/cameroonets-mod",
-    "internalName": "cameroonets mod",
-    "name": "Cameroonets-Mod",
-    "author": "Cameroonets, leonkiller, KARkar",
-    "lastUpdated": "2024-12-19T15:32:57Z",
-    "stars": 1,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Добавляет множество ресурсов, юнитов, построек для игры в  Tower Defense, PvP, Survival"
   },
   {
     "repo": "ochpochmakso/goraputaro",
@@ -9964,18 +9952,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Music pack for New Content."
-  },
-  {
-    "repo": "wantechfan/mindustry-evil-liquids",
-    "internalName": "evil-liquids",
-    "name": "Evil Liquids",
-    "author": "WantechFan",
-    "lastUpdated": "2026-06-26T03:57:37Z",
-    "stars": 1,
-    "minGameVersion": "146",
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "This mod adds neoplasm version of all liquids (except Water which already has it's own neoplasm)."
   },
   {
     "repo": "wantechfan/mindustry-overpowered-scathe",
