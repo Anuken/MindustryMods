@@ -148,7 +148,7 @@
     "internalName": "omaloon",
     "name": "Omaloon",
     "author": "stabu, uujuju",
-    "lastUpdated": "2026-07-08T18:55:57Z",
+    "lastUpdated": "2026-07-08T20:29:20Z",
     "stars": 137,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -220,9 +220,9 @@
     "internalName": "aquarion",
     "name": "Aquarion",
     "author": "twcash",
-    "lastUpdated": "2026-07-08T17:26:41Z",
+    "lastUpdated": "2026-07-08T20:32:39Z",
     "stars": 109,
-    "minGameVersion": "159.1",
+    "minGameVersion": "159.2",
     "hasScripts": false,
     "hasJava": true,
     "description": "A complete rewrite of the campaign. Currently in heavy development."
@@ -1983,18 +1983,6 @@
     "description": "为模组作者提供一个还原V7星球放置规则的可能，使用方法请参考README.md\n\nProvide a possibility for mod authors to restore the placement rules of V7 planet. Please refer to README.md for instructions on how to use it"
   },
   {
-    "repo": "racti2037/real-military-techic-mod",
-    "internalName": "military-techic-mod",
-    "name": "Military Technic Mod",
-    "author": "Racti",
-    "lastUpdated": "2025-12-25T21:09:59Z",
-    "stars": 12,
-    "minGameVersion": "142",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Mod add tanks, aircraft and naval ships"
-  },
-  {
     "repo": "notquite-mytempo/wastebound",
     "internalName": "wastebound",
     "name": "Wastebound",
@@ -2077,6 +2065,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "\nCurrently sandbox only!\n\nA reboot of an old mod.\n\nExplore a rocky, dark world filled with many things that shouldn't exist.\n\nBrave inferno. Escape the cage.\n\nCREDITS:\n\nNV-NX - Main dev and spriter\nHaznobrain - Occasional sprite and code help. Making music.\nMegacheb - Allowing me to use some of their music for (upcoming) bosses."
+  },
+  {
+    "repo": "racti2037/real-military-techic-mod",
+    "internalName": "military-techic-mod",
+    "name": "Military Technic Mod",
+    "author": "Racti",
+    "lastUpdated": "2026-07-08T20:48:35Z",
+    "stars": 12,
+    "minGameVersion": "142",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Mod add tanks, aircraft and naval ships"
   },
   {
     "repo": "def-try/parkour-mod",
@@ -2451,18 +2451,6 @@
     "description": "If something deforms your body beyond recognition and takes away your mind, will it still be you?... \n \n A fast-paced mod with a variety of enemies, bosses and strange gameplay decisions! Right now there are 4 sectors out of 12! also There are still some unfinished things in here. \n Code - SpaceTwoo. \n Maps - SpaceTwoo SKYPETR, Lewiafan ROVO. \n Sprites - SpaceTwoo, ArtmX, Bloody-Ocean \n Other - Closed_Ink, Gribdius."
   },
   {
-    "repo": "meepoffaith/additional-logistics",
-    "internalName": "tranqol",
-    "name": "Additional Logistics",
-    "author": "MEEPofFaith",
-    "lastUpdated": "2026-01-25T16:29:26Z",
-    "stars": 10,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A quality of life mod that adds useful blocks for transportation and logistics."
-  },
-  {
     "repo": "jojofr1/multicrafter",
     "internalName": "multicrafter",
     "name": "MultiCrafter",
@@ -2533,6 +2521,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[accent]A Mod that adds a new campaign about Terraplasm.\n\n[white]The Terraplasm is my very own version of Anuke's unfinished Neoplasm, a rapidly growing plant faction that you will fight.\n\n[accent]There is currently just 1 playable, polished sector.\n[white]Campaign got a complete rework! If you've played on 0.1 or lower, please restart!\n\n[gray]This an early version of KRATHA which is under heavy development, it may not display the final version.\n\nCurrent version : 0.21"
+  },
+  {
+    "repo": "meepoffaith/additional-logistics",
+    "internalName": "tranqol",
+    "name": "Additional Logistics",
+    "author": "MEEPofFaith",
+    "lastUpdated": "2026-07-08T19:04:45Z",
+    "stars": 10,
+    "minGameVersion": "159",
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A quality of life mod that adds useful blocks for transportation and logistics."
   },
   {
     "repo": "thcworkshopcn/thc-industry",
@@ -3412,18 +3412,6 @@
     "description": "Introducing, Apolon! the long awaited passion project by me, Nannerbz (or like 3 different nicknames online), and my friend VDoble! This project has been in development for a LONG while and im happy im finally able to release it to the public! This mod contains: Brand new gameplay, New units, A new campaign, and MORE!\n\nDiscord: fandslimu\n(Or Fandslimu#9712)"
   },
   {
-    "repo": "huanxefh/lovecraftian-library-java",
-    "internalName": "lovec",
-    "name": "Lovecraftian Library",
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-07-08T13:50:04Z",
-    "stars": 7,
-    "minGameVersion": "159",
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "A JavaScript-based library for my other mods.\n\nMain features:\n- JS approach to class and interface.\n- Content template for method inheritance and mixing, along with more powerful `extend` methods.\n- Multi-crafters.\n- QOL functionalities like recipe dictionary, health bar and damage splash text."
-  },
-  {
     "repo": "bsp-2/factory-simulator",
     "internalName": "factory-sim",
     "name": "The Factory Must Grow",
@@ -3434,6 +3422,18 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A recreation of a game called Factory Simulator.\nRequires multicrafter lib. "
+  },
+  {
+    "repo": "huanxefh/lovecraftian-library-java",
+    "internalName": "lovec",
+    "name": "Lovecraftian Library",
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-07-08T19:04:27Z",
+    "stars": 7,
+    "minGameVersion": "159",
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "A JavaScript-based library for my other mods.\n\nMain features:\n- JS approach to class and interface.\n- Content template for method inheritance and mixing, along with more powerful `extend` methods.\n- Multi-crafters.\n- QOL functionalities like recipe dictionary, health bar and damage splash text."
   },
   {
     "repo": "zerattel/mindustry-red-alert-3-soundtrack-pack",
@@ -4514,18 +4514,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Scrap ores"
-  },
-  {
-    "repo": "pirojok3000/mindustry-classic-music",
-    "internalName": "mindustry classic music with new tracks from v6",
-    "name": "Mindustry Classic Music",
-    "author": "Pirojok3000",
-    "lastUpdated": "2023-10-17T15:05:44Z",
-    "stars": 4,
-    "minGameVersion": "136",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Play mindustry with this awesome chiptune music! Tracks created by Roccow. I took some of Roccow's tracks that weren't in the classic version to replace the new ones added in the V6. HOWEVER, the author of the tracks boss1, boss2 and game6 is unknown."
   },
   {
     "repo": "bin-tenkuu/mindustry-morelogicmod",
@@ -7673,23 +7661,11 @@
     "description": "Breathes life into Tantros, the planet Anuke has ceased working on. This mod is meant to faithfully recreate what Tantros could have been, had work not ceased."
   },
   {
-    "repo": "oleksiy1409liut/oleksiysstuff",
-    "internalName": "oleksiyresprites",
-    "name": "oleksiy's stuff",
-    "author": "oleskiy",
-    "lastUpdated": "2026-07-08T10:36:10Z",
-    "stars": 2,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS\ndoes he know"
-  },
-  {
     "repo": "leinadhq/voltaprotocolmod",
     "internalName": "volta-protocol",
     "name": "Volta Protocol",
     "author": "Leinad (discord: danizzq)",
-    "lastUpdated": "2026-07-08T18:10:41Z",
+    "lastUpdated": "2026-07-08T19:26:24Z",
     "stars": 2,
     "minGameVersion": "158",
     "hasScripts": false,
@@ -7697,11 +7673,23 @@
     "description": "\n[accent]Languages/Idiomas: EN / ES \n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla y mi nuevo planeta (el planeta aun esta en desarrollo). \n\n[white]Este mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de materiales, unidades, sistemas de transporte, torretas y sus municiones. \n\n[accent]Changelog / Novedades v0.6:\n[lightgray]• New sprites (working on the missing sprites).\n• New air-based liquid transport system (V1).\n• New repair and construction blocks.\n• Planet sector generation finally works, but it needs quite a few improvements.\n• New ring generation for the planet (the New Horizons Dyson Sphere/Ring generator was used as a reference).\n\n[accent]Contenido: \n[white]·1 nuevo planeta y 1 sector de prueba \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros \n[white]· 2 bloques para el transporte aereo de liquidos (Cargador, descargador y dron de transporte) \n[white]· 1 torreta de construccion y 1 proyector de reparación \n[white]·4 taladros. \n[white]·11 fabricas \n[white]·2 generadores \n[white]·3 cinta de transporte (familia palladium duct: duct, router, bridge and junction) \n[white]·7 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Gier: Revitalized, Warbound Industries, [Better Vanilla], simple additions y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
   },
   {
+    "repo": "oleksiy1409liut/oleksiysstuff",
+    "internalName": "oleksiyresprites",
+    "name": "oleksiy's stuff",
+    "author": "oleskiy",
+    "lastUpdated": "2026-07-08T19:27:32Z",
+    "stars": 2,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS\ndoes he know"
+  },
+  {
     "repo": "hamsterhat/world-of-dights",
     "internalName": "number",
     "name": "World of Dights",
     "author": "[red]a[blue]l[white]ex[]",
-    "lastUpdated": "2026-07-08T18:52:38Z",
+    "lastUpdated": "2026-07-08T20:11:27Z",
     "stars": 2,
     "minGameVersion": "146",
     "hasScripts": false,
@@ -8499,6 +8487,18 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "No description."
+  },
+  {
+    "repo": "cameroonets/cameroonets-mod",
+    "internalName": "cameroonets mod",
+    "name": "Cameroonets-Mod",
+    "author": "Cameroonets, leonkiller, KARkar",
+    "lastUpdated": "2024-12-19T15:32:57Z",
+    "stars": 1,
+    "minGameVersion": "136",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Добавляет множество ресурсов, юнитов, построек для игры в  Tower Defense, PvP, Survival"
   },
   {
     "repo": "ochpochmakso/goraputaro",
@@ -9954,6 +9954,18 @@
     "description": "Music pack for New Content."
   },
   {
+    "repo": "wantechfan/mindustry-evil-liquids",
+    "internalName": "evil-liquids",
+    "name": "Evil Liquids",
+    "author": "WantechFan",
+    "lastUpdated": "2026-06-26T03:57:37Z",
+    "stars": 1,
+    "minGameVersion": "146",
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "This mod adds neoplasm version of all liquids (except Water which already has it's own neoplasm)."
+  },
+  {
     "repo": "wantechfan/mindustry-overpowered-scathe",
     "internalName": "overpowered-scathe",
     "name": "Overpowered Scathe",
@@ -10230,18 +10242,6 @@
     "description": "...>>Ý tưởng xây dựng 1 thế lực nhỏ ngoài không gian vũ trụ xa xôi.<< Các thành viên đội viễn chinh vô tình trôi dạt tới vũ trụ Mindustry này :o..."
   },
   {
-    "repo": "oscillatorium/repala",
-    "internalName": "repala",
-    "name": "Repala",
-    "author": "Кселирит",
-    "lastUpdated": "2026-07-06T17:16:34Z",
-    "stars": 1,
-    "minGameVersion": "154",
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "пока ни шиша, так как [accent]жернова[]\n[accent]Special thanks to: деградация[]"
-  },
-  {
     "repo": "darkv-p3nt4/apex-arbitery",
     "internalName": "custom-apex",
     "name": "APEX Arbitery",
@@ -10348,6 +10348,18 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A context-aware AI assistant powered by Gemini that provides real-time strategic advice based on your current game state."
+  },
+  {
+    "repo": "oscillatorium/repala",
+    "internalName": "repala",
+    "name": "Repala",
+    "author": "Кселирит",
+    "lastUpdated": "2026-07-08T20:01:47Z",
+    "stars": 1,
+    "minGameVersion": "154",
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "пока ни шиша, так как [accent]жернова[]\n[accent]Special thanks to: деградация[]"
   },
   {
     "repo": "exxleo/exoterusmod",
