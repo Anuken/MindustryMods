@@ -209,6 +209,7 @@ public class ModUpdater{
                 obj.add("lastUpdated", gm.get("pushed_at"));
                 obj.add("stars", gm.get("stargazers_count"));
                 obj.add("minGameVersion", version);
+                obj.add("hasIcon", Jval.valueOf(icons.child(name.replace("/", "_")).exists()));
                 obj.add("hasScripts", Jval.valueOf(lang.equals("JavaScript")));
                 obj.add("hasJava", Jval.valueOf(modj.getBool("java", false) || javaLangs.contains(lang)));
                 obj.add("description", Strings.stripColors(modj.getString("description", "No description provided.")));
