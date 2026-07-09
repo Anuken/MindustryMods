@@ -2,6 +2,8 @@
 
 Automatically compiles a list of Mindustry mods for the mod browser. Refreshes every few hours automatically.
 
+**Do not make PRs adding your mod to this list** - instead, make sure it fits the criteria below.
+
 ## Criteria
 
 - Must have a valid `mod.json` / `mod.hjson` file in the root or `assets/` directory.
