@@ -494,7 +494,7 @@
     "internalName": "scheme-size",
     "name": "Scheme Size Port",
     "author": "xzxADIxzx\nPort: 00SunRay00 & RE2b2m22",
-    "lastUpdated": "2026-07-09T19:46:19Z",
+    "lastUpdated": "2026-07-09T22:18:52Z",
     "stars": 44,
     "version": "2.1.4",
     "minGameVersion": "159",
@@ -1457,20 +1457,6 @@
     "description": "Total conversion PVP mod set in fantasy medieval times"
   },
   {
-    "repo": "abe-ischarlie/op-mod",
-    "internalName": "op-things",
-    "name": "OP Things",
-    "author": "[green]ABÊ#8931",
-    "lastUpdated": "2025-10-23T15:27:54Z",
-    "stars": 14,
-    "version": "1.2.7",
-    "minGameVersion": "146",
-    "hasIcon": true,
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "OP Things is a mod that makes the game easier, but isn't a hack.\n\n[#FF0000]WARNING: A lot of the mod things are just some shit. See more on readme.md on github"
-  },
-  {
     "repo": "reversteams/etigei-exile",
     "internalName": "etigeox",
     "name": "Etigei Exile",
@@ -1553,6 +1539,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[accent]Astherive: ReGenesis is discontinued - Try KRATHA instead!"
+  },
+  {
+    "repo": "abe-ischarlie/op-mod",
+    "internalName": "op-things",
+    "name": "OP Things",
+    "author": "[green]ABÊ#8931",
+    "lastUpdated": "2026-07-09T22:42:45Z",
+    "stars": 14,
+    "version": "1.2.8",
+    "minGameVersion": "146",
+    "hasIcon": true,
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "OP Things is a mod that makes the game easier, but isn't a hack.\n\n[#FF0000]WARNING: A lot of the mod things are just some shit. See more on readme.md on github"
   },
   {
     "repo": "shadowpazzo99/shadowdustry",
@@ -5393,25 +5393,11 @@
     "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
-    "repo": "leinadhq/voltaprotocolmod",
-    "internalName": "volta-protocol",
-    "name": "Volta Protocol",
-    "author": "Leinad (discord: danizzq)",
-    "lastUpdated": "2026-07-09T21:03:26Z",
-    "stars": 3,
-    "version": "0.6",
-    "minGameVersion": "158",
-    "hasIcon": true,
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\n[accent]Languages/Idiomas: EN / ES \n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla y mi nuevo planeta (el planeta aun esta en desarrollo). \n\n[white]Este mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de materiales, unidades, sistemas de transporte, torretas y sus municiones. \n\n[accent]Changelog / Novedades v0.6:\n[lightgray]• New sprites (working on the missing sprites).\n• New air-based liquid transport system (V1).\n• New repair and construction blocks.\n• Planet sector generation finally works, but it needs quite a few improvements.\n• New ring generation for the planet (the New Horizons Dyson Sphere/Ring generator was used as a reference).\n\n[accent]Contenido: \n[white]·1 nuevo planeta y 1 sector de prueba \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros \n[white]· 2 bloques para el transporte aereo de liquidos (Cargador, descargador y dron de transporte) \n[white]· 1 torreta de construccion y 1 proyector de reparación \n[white]·4 taladros. \n[white]·11 fabricas \n[white]·2 generadores \n[white]·3 cinta de transporte (familia palladium duct: duct, router, bridge and junction) \n[white]·7 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Gier: Revitalized, Warbound Industries, [Better Vanilla], simple additions y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
-  },
-  {
     "repo": "penguip/a-mindustry-mod",
     "internalName": "beepdustry",
     "name": "BEEPDUSTRY",
     "author": "DNAlly/penguip",
-    "lastUpdated": "2026-07-09T21:07:15Z",
+    "lastUpdated": "2026-07-09T21:19:39Z",
     "stars": 3,
     "version": "1.0.0",
     "minGameVersion": "149",
@@ -5419,6 +5405,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Very DaF! based mod. Don't ask what that is.\nIn terms of content, the mod adds a new planet, Keisuris.\nA madman's creation, born of the fusion of many worlds.\nThe mod aims to strive for a unique experience compared to other mods.\nIt is in heavy beta as of current, and starring is greatly appreciated.\nContent is now being prioritized over the campaign.\n!BIG WEEB LORE WARNING!"
+  },
+  {
+    "repo": "leinadhq/voltaprotocolmod",
+    "internalName": "volta-protocol",
+    "name": "Volta Protocol",
+    "author": "Leinad (discord: danizzq)",
+    "lastUpdated": "2026-07-09T22:20:10Z",
+    "stars": 3,
+    "version": "0.6",
+    "minGameVersion": "158",
+    "hasIcon": true,
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\n[accent]Languages/Idiomas: EN / ES \n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla y mi nuevo planeta (el planeta aun esta en desarrollo). \n\n[white]Este mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de materiales, unidades, sistemas de transporte, torretas y sus municiones. \n\n[accent]Changelog / Novedades v0.6:\n[lightgray]• New sprites (working on the missing sprites).\n• New air-based liquid transport system (V1).\n• New repair and construction blocks.\n• Planet sector generation finally works, but it needs quite a few improvements.\n• New ring generation for the planet (the New Horizons Dyson Sphere/Ring generator was used as a reference).\n\n[accent]Contenido: \n[white]·1 nuevo planeta y 1 sector de prueba \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros \n[white]· 2 bloques para el transporte aereo de liquidos (Cargador, descargador y dron de transporte) \n[white]· 1 torreta de construccion y 1 proyector de reparación \n[white]·4 taladros. \n[white]·11 fabricas \n[white]·2 generadores \n[white]·3 cinta de transporte (familia palladium duct: duct, router, bridge and junction) \n[white]·7 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Gier: Revitalized, Warbound Industries, [Better Vanilla], simple additions y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
   },
   {
     "repo": "rintadev5792/arcane-mindustry",
@@ -6693,6 +6693,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "random additional stuff in the game, beta versions only, credit to photon_gravity for the galvanized subunit sprite that i used for GSS\ndoes he know"
+  },
+  {
+    "repo": "roman859/mindustry-better-vanilla",
+    "internalName": "bettervanilla",
+    "name": "Better Vanilla+",
+    "author": "Roman",
+    "lastUpdated": "2026-07-09T19:55:00Z",
+    "stars": 2,
+    "version": "0.4.3",
+    "minGameVersion": "159",
+    "hasIcon": true,
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Better Vanilla New content.\nLanguages:\n        - English\n        - Ukrainian coming soon!"
   },
   {
     "repo": "hamsterhat/world-of-dights",
@@ -9116,20 +9130,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds many things for Serpulo like for example aircraft or nuclear technology! Highly ambitious project."
-  },
-  {
-    "repo": "roman859/mindustry-better-vanilla",
-    "internalName": "bettervanilla",
-    "name": "Better Vanilla+",
-    "author": "Roman",
-    "lastUpdated": "2026-07-09T19:55:00Z",
-    "stars": 1,
-    "version": "0.4.3",
-    "minGameVersion": "159",
-    "hasIcon": false,
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Better Vanilla New content.\nLanguages:\n        - English\n        - Ukrainian coming soon!"
   },
   {
     "repo": "pasu4/ridiculously-oversized",
