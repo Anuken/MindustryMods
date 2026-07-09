@@ -180,15 +180,15 @@ public class ModUpdater{
                 if(displayName.isEmpty()) displayName = gm.getString("name");
 
                 String internalName = Strings.stripColors(modj.getString("name").toLowerCase());
+                String lang = gm.getString("language", "");
+                boolean isJava = modj.getBool("java", false) || javaLangs.contains(lang);
 
                 //skip outdated mods
                 String version = modj.getString("minGameVersion", "104");
                 int minBuild = Strings.parseInt(version.contains(".") ? version.split("\\.")[0] : version, 0);
-                if(minBuild < 136){
+                if(minBuild < 136 || (isJava && minBuild < 154)){
                     continue;
                 }
-
-                String lang = gm.getString("language", "");
 
                 String metaName = Strings.stripColors(displayName).replace("\n", "");
                 if(metaName.length() > maxLength) metaName = metaName.substring(0, maxLength) + "...";
@@ -211,7 +211,7 @@ public class ModUpdater{
                 obj.add("minGameVersion", version);
                 obj.add("hasIcon", Jval.valueOf(icons.child(name.toLowerCase(Locale.ROOT).replace("/", "_")).exists()));
                 obj.add("hasScripts", Jval.valueOf(lang.equals("JavaScript")));
-                obj.add("hasJava", Jval.valueOf(modj.getBool("java", false) || javaLangs.contains(lang)));
+                obj.add("hasJava", Jval.valueOf(isJava));
                 obj.add("description", Strings.stripColors(modj.getString("description", "No description provided.")));
                 if(modj.getBool("iosCompatible", false)) obj.put("iosCompatible", true);
                 if(modj.getBool("legacyCompatible", false)) obj.put("legacyCompatible", true);
