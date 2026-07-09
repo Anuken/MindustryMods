@@ -208,6 +208,7 @@ public class ModUpdater{
                 obj.add("author", Strings.stripColors(modj.getString("author", gm.get("owner").get("login").toString())));
                 obj.add("lastUpdated", gm.get("pushed_at"));
                 obj.add("stars", gm.get("stargazers_count"));
+                obj.add("version", modj.getString("version", "1.0.0"));
                 obj.add("minGameVersion", version);
                 obj.add("hasIcon", Jval.valueOf(icons.child(name.toLowerCase(Locale.ROOT).replace("/", "_")).exists()));
                 obj.add("hasScripts", Jval.valueOf(lang.equals("JavaScript")));
