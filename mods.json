@@ -103,7 +103,7 @@
     "name": "Mindustry Tool",
     "author": "[#FF0018]S[#FFA52C]h[#FFFF41]a[#008018]r[#0000F9]l[#86007D]o[#FF0018]t[#FFA52C]t[#FFFF41]e[]",
     "lastUpdated": "2026-07-09T14:47:12Z",
-    "stars": 225,
+    "stars": 226,
     "version": "v4.57.5-v8",
     "minGameVersion": "154",
     "hasIcon": true,
@@ -159,7 +159,7 @@
     "name": "Sapphirium",
     "author": "Snake",
     "lastUpdated": "2026-07-09T16:29:33Z",
-    "stars": 136,
+    "stars": 137,
     "version": "18",
     "minGameVersion": "159.2",
     "hasIcon": true,
@@ -172,9 +172,9 @@
     "internalName": "mi2-utilities-java",
     "name": "MI2-Utilities Java",
     "author": "BlackDeluxeCat",
-    "lastUpdated": "2026-07-09T03:02:53Z",
+    "lastUpdated": "2026-07-10T06:17:33Z",
     "stars": 128,
-    "version": "1.14.0",
+    "version": "1.14.1",
     "minGameVersion": "159.2",
     "hasIcon": true,
     "hasScripts": false,
@@ -424,7 +424,7 @@
     "internalName": "azimut",
     "name": "Azimuth",
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-07-10T05:06:33Z",
+    "lastUpdated": "2026-07-10T08:47:36Z",
     "stars": 47,
     "version": "0.43",
     "minGameVersion": "158",
@@ -1289,20 +1289,6 @@
     "description": "- This mod adds in 1 or 2 higher tiers of vanilla blocks. Mod is still in development. More contents coming soon.\n- Erekir is cooking"
   },
   {
-    "repo": "determination-wind/neon",
-    "internalName": "neon",
-    "name": "Neon / 氖",
-    "author": "DeterMination (BEK)",
-    "lastUpdated": "2026-07-09T09:12:09Z",
-    "stars": 16,
-    "version": "10.1.0",
-    "minGameVersion": "159",
-    "hasIcon": true,
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "All-in-one QoL toolkit: map, minimap, radial build, pinyin search, hotkey, tripwire alert, screenshot, projector overlay, logistics monitor, player database, patch viewer, custom marker, server translator, poly AI, advanced replace, mod updater. / 全能辅助模组集：地图编辑、小地图、圆盘菜单、拼音搜索、快捷键、地理围栏、截图、投影覆盖、物流监控、玩家数据库、补丁查看器、自定义标记、服务器翻译、Poly AI、高级替换、模组更新。"
-  },
-  {
     "repo": "itzcraft/epsilon",
     "internalName": "epsilon",
     "name": "Epsilon",
@@ -1315,6 +1301,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mod which introduces actually unique [accent]Story Based Campaign[].\nMain goal of this mod is to show that lore based mods can be good too.\n\nWith story gameplay it introduces to you some new mechanics."
+  },
+  {
+    "repo": "determination-wind/neon",
+    "internalName": "neon",
+    "name": "Neon / 氖",
+    "author": "DeterMination (BEK)",
+    "lastUpdated": "2026-07-10T07:13:09Z",
+    "stars": 16,
+    "version": "10.1.1",
+    "minGameVersion": "159",
+    "hasIcon": true,
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "All-in-one QoL toolkit: map, minimap, radial build, pinyin search, hotkey, tripwire alert, screenshot, projector overlay, logistics monitor, player database, patch viewer, custom marker, server translator, poly AI, advanced replace, mod updater. / 全能辅助模组集：地图编辑、小地图、圆盘菜单、拼音搜索、快捷键、地理围栏、截图、投影覆盖、物流监控、玩家数据库、补丁查看器、自定义标记、服务器翻译、Poly AI、高级替换、模组更新。"
   },
   {
     "repo": "seuearth/factroundustry",
@@ -2031,13 +2031,27 @@
     "description": "Add wonderful contents for vanilla experience. For more info, please visit github page of this mod!\n\nDUE TO GAME VERSION MISMATCH, This version is using for v157!\nYou can get a older (v147 version) of this mod from github release."
   },
   {
+    "repo": "aevorlum/liminal-protocol",
+    "internalName": "lp",
+    "name": "Liminal Protocol",
+    "author": "[red]AEvoRIum",
+    "lastUpdated": "2026-07-10T07:07:35Z",
+    "stars": 11,
+    "version": "V.test.0.0.38.326.07.09",
+    "minGameVersion": "159",
+    "hasIcon": true,
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[red]俺寻思之力"
+  },
+  {
     "repo": "huanxefh/project-reindustrialization",
     "internalName": "projreind",
     "name": "Project Reindustrialization",
     "author": "MaboroshiX",
-    "lastUpdated": "2026-07-06T09:20:40Z",
+    "lastUpdated": "2026-07-10T08:18:43Z",
     "stars": 11,
-    "version": "101.3.26070601",
+    "version": "101.4",
     "minGameVersion": "159",
     "hasIcon": true,
     "hasScripts": true,
@@ -2049,7 +2063,7 @@
     "internalName": "jababarium",
     "name": "Jababarium",
     "author": "Jababa",
-    "lastUpdated": "2026-07-07T16:56:38Z",
+    "lastUpdated": "2026-07-10T08:30:00Z",
     "stars": 11,
     "version": "1.0",
     "minGameVersion": "158",
@@ -2057,20 +2071,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A Mindustry greatest mod ever made!"
-  },
-  {
-    "repo": "aevorlum/liminal-protocol",
-    "internalName": "lp",
-    "name": "Liminal Protocol",
-    "author": "[red]AEvoRIum",
-    "lastUpdated": "2026-07-09T09:30:43Z",
-    "stars": 11,
-    "version": "V.test.0.0.38.326.07.09",
-    "minGameVersion": "159",
-    "hasIcon": true,
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[red]俺寻思之力"
   },
   {
     "repo": "aerodynamic-lawyer/ceruisairm",
@@ -2633,25 +2633,11 @@
     "description": "Hold a hotkey to open a radial build HUD around the cursor with configurable 16-slot layouts, profile switching, and rule-based auto slot sets. / 按住热键在鼠标周围打开圆盘建造 HUD，支持 16 槽位配置、配置组切换与规则自动切盘。"
   },
   {
-    "repo": "huanxefh/lovecraftian-laboratory",
-    "internalName": "loveclab",
-    "name": "Lovecraftian Laboratory",
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-07-06T09:21:16Z",
-    "stars": 8,
-    "version": "101.3.26070601",
-    "minGameVersion": "159",
-    "hasIcon": true,
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "The base mod for Lovecraftian series that adds essential resource, chemicals, environmental blocks and planets."
-  },
-  {
     "repo": "oscillatorium/alef-null",
     "internalName": "alef-null",
     "name": "Alef-Null",
     "author": "[#80ff80]Кселирит[]",
-    "lastUpdated": "2026-07-10T05:44:21Z",
+    "lastUpdated": "2026-07-10T06:56:17Z",
     "stars": 8,
     "version": "1.04",
     "minGameVersion": "146",
@@ -2659,6 +2645,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Ru\nЭтот мод должен добавлять планету с математикой в качестве блоков, но пока только 2 сектора\n[accent]Особое спасибо: чмоня, пунь. \nтакже спасибо: Георг Кантор, Леонард Эйлер[]\n\nEn\nThis mod is supposed to add a planet with mathematics as blocks, but so far only 2 sectors\n[accent] Special thanks: chmonya, alex (pun). \nAlso thanks: Georg Cantor, Leonard Euler[]"
+  },
+  {
+    "repo": "huanxefh/lovecraftian-laboratory",
+    "internalName": "loveclab",
+    "name": "Lovecraftian Laboratory",
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-07-10T08:18:37Z",
+    "stars": 8,
+    "version": "101.4",
+    "minGameVersion": "159",
+    "hasIcon": true,
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "The base mod for Lovecraftian series that adds essential resource, chemicals, environmental blocks and planets."
   },
   {
     "repo": "ocalhoun6/resource-supply-mod",
@@ -2998,20 +2998,6 @@
     "description": "\nRU\nМод добавляет Схемы для модификации New Horizon. Тег: NH\n\nENG\nThe mod adds Schematics for the New Horizon modification. Tag: NH\nMy Discord: silinveredno_edmstep\n"
   },
   {
-    "repo": "nannerbz/apolon",
-    "internalName": "apolon",
-    "name": "apolon",
-    "author": "Nannerbz & VDoble",
-    "lastUpdated": "2026-07-06T02:09:12Z",
-    "stars": 7,
-    "version": "1.0",
-    "minGameVersion": "150",
-    "hasIcon": true,
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Introducing, Apolon! the long awaited passion project by me, Nannerbz (or like 3 different nicknames online), and my friend VDoble! This project has been in development for a LONG while and im happy im finally able to release it to the public! This mod contains: Brand new gameplay, New units, A new campaign, and MORE!\n\nDiscord: fandslimu\n(Or Fandslimu#9712)"
-  },
-  {
     "repo": "bsp-2/factory-simulator",
     "internalName": "factory-sim",
     "name": "The Factory Must Grow",
@@ -3040,13 +3026,27 @@
     "description": "A java mod Designed to be used by Json mods to add more depth to the game, adding new types of various things to make Json modding more diverse. \n\nCurrently in the early stages of development, not much added but more will be soon."
   },
   {
+    "repo": "nannerbz/apolon",
+    "internalName": "apolon",
+    "name": "apolon",
+    "author": "Nannerbz & VDoble",
+    "lastUpdated": "2026-07-10T06:44:37Z",
+    "stars": 7,
+    "version": "1.1",
+    "minGameVersion": "150",
+    "hasIcon": true,
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Introducing, Apolon! the long awaited passion project by me, Nannerbz (or like 3 different nicknames online), and my friend VDoble! This project has been in development for a LONG while and im happy im finally able to release it to the public! This mod contains: Brand new gameplay, New units, A new campaign, and MORE!\n\nDiscord: fandslimu\n(Or Fandslimu#9712)"
+  },
+  {
     "repo": "huanxefh/lovecraftian-library-java",
     "internalName": "lovec",
     "name": "Lovecraftian Library",
     "author": "MaboroshiX",
-    "lastUpdated": "2026-07-10T04:30:49Z",
+    "lastUpdated": "2026-07-10T08:18:31Z",
     "stars": 7,
-    "version": "101.3.26070802",
+    "version": "101.4",
     "minGameVersion": "159",
     "hasIcon": true,
     "hasScripts": true,
@@ -3856,14 +3856,14 @@
     "internalName": "液体工艺",
     "name": "Liquid Industry",
     "author": "Space",
-    "lastUpdated": "2026-07-08T09:50:26Z",
+    "lastUpdated": "2026-07-10T08:45:01Z",
     "stars": 5,
-    "version": "0.24.9",
-    "minGameVersion": "158",
+    "version": "0.25",
+    "minGameVersion": "159",
     "hasIcon": true,
     "hasScripts": false,
     "hasJava": true,
-    "description": "Liquid Industry Beta v0.24.9 for v158+"
+    "description": "Liquid Industry Beta v0.25 for v159+"
   },
   {
     "repo": "mythril382/loudustry",
@@ -5365,20 +5365,6 @@
     "description": "让逻辑再次伟大！\nMake Logic Great Again!"
   },
   {
-    "repo": "128oteml/mindustryoptifine",
-    "internalName": "mindustry-optifine",
-    "name": "Mindustry OptiFine",
-    "author": "128_OTEML",
-    "lastUpdated": "2026-07-07T09:35:32Z",
-    "stars": 3,
-    "version": "1.0",
-    "minGameVersion": "157",
-    "hasIcon": false,
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A modern shaders mod for Mindustry."
-  },
-  {
     "repo": "alecthe2nd/tantros",
     "internalName": "tantros",
     "name": "Tantros",
@@ -5433,6 +5419,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\n[accent]Languages/Idiomas: EN / ES \n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla y mi nuevo planeta (el planeta aun esta en desarrollo). \n\n[white]Este mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de materiales, unidades, sistemas de transporte, torretas y sus municiones. \n\n[accent]Changelog / Novedades v0.6:\n[lightgray]• New sprites (working on the missing sprites).\n• New air-based liquid transport system (V1).\n• New repair and construction blocks.\n• Planet sector generation finally works, but it needs quite a few improvements.\n• New ring generation for the planet (the New Horizons Dyson Sphere/Ring generator was used as a reference).\n\n[accent]Contenido: \n[white]·1 nuevo planeta y 1 sector de prueba \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros \n[white]· 2 bloques para el transporte aereo de liquidos (Cargador, descargador y dron de transporte) \n[white]· 1 torreta de construccion y 1 proyector de reparación \n[white]·4 taladros. \n[white]·11 fabricas \n[white]·2 generadores \n[white]·3 cinta de transporte (familia palladium duct: duct, router, bridge and junction) \n[white]·7 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Gier: Revitalized, Warbound Industries, [Better Vanilla], simple additions y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
+  },
+  {
+    "repo": "128oteml/mindustryoptifine",
+    "internalName": "mindustry-optifine",
+    "name": "Mindustry OptiFine",
+    "author": "128_OTEML",
+    "lastUpdated": "2026-07-10T07:27:23Z",
+    "stars": 3,
+    "version": "1.0",
+    "minGameVersion": "157",
+    "hasIcon": false,
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A modern shaders mod for Mindustry."
   },
   {
     "repo": "rintadev5792/arcane-mindustry",
@@ -6723,20 +6723,6 @@
     "description": "Better Vanilla New content.\nLanguages:\n        - English\n        - Ukrainian coming soon!"
   },
   {
-    "repo": "hamsterhat/world-of-dights",
-    "internalName": "number",
-    "name": "World of Dights",
-    "author": "[red]a[blue]l[white]ex[]",
-    "lastUpdated": "2026-07-09T20:36:29Z",
-    "stars": 2,
-    "version": "version.bin",
-    "minGameVersion": "146",
-    "hasIcon": false,
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "01010100 01001000 01001001 01010011 00100000 01001101 01001111 01000100 00100000 01011001 01010011 00100000 01001101 01001111 01000100 00100000 01000011 01010111 01000100 01000101 01000100 00100000 01000010 01011001 00100000 01100001 01101100 01100101 01111000 00100000 01000001 01001110 01000100 00100000 01101111 01110011 01100011 01101001 01101100 01101100 01100001 01110100 01101111 01110010 01101001 01110101 01101101"
-  },
-  {
     "repo": "bluedoves3821/phighting-sword-deities",
     "internalName": "sword-deities-mod",
     "name": "PHIGHTING! SWORD DEITIES",
@@ -6749,6 +6735,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "[#ff5959]PREPARE YOURSELF!\n\n[#ffffff]A mod about [#ff5959]sword [#ffffff]& the 7 sword deities from PHIGHTING!\n\nCreate [#ff5959]swordium [#ffffff]& convert it into either [#70AC30]darkheartium, [#861C00]firebrandium, [#C2C2C2]ghostwalkerium, [#97CCE1]icedaggerium, [#E2BAF5]illuminaium, [#A4C360]venomshankium [#ffffff]or [#929EAE]windforceium!\n\n[#ffffff]There's multiple types of turrets, production buildings, units & even a mobile core that you can place down anywhere!\n\nWhat's special about this mod is that it can be utilized in either erekir, serpulo or any planet mod.\n[grey]provided said planet mod doesn't have set blocks.\n\n[red]note: this mod can be considered as unfair to some, but then again, play it your own way!"
+  },
+  {
+    "repo": "hamsterhat/world-of-dights",
+    "internalName": "number",
+    "name": "World of Dights",
+    "author": "[red]a[blue]l[white]ex[]",
+    "lastUpdated": "2026-07-10T07:50:06Z",
+    "stars": 2,
+    "version": "version.bin",
+    "minGameVersion": "146",
+    "hasIcon": false,
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "01010100 01001000 01001001 01010011 00100000 01001101 01001111 01000100 00100000 01011001 01010011 00100000 01001101 01001111 01000100 00100000 01000011 01010111 01000100 01000101 01000100 00100000 01000010 01011001 00100000 01100001 01101100 01100101 01111000 00100000 01000001 01001110 01000100 00100000 01101111 01110011 01100011 01101001 01101100 01101100 01100001 01110100 01101111 01110010 01101001 01110101 01101101"
   },
   {
     "repo": "manuwar73/remodeled-industry-expansion",
@@ -11736,20 +11736,6 @@
     "description": "Eine Mod, die extrophaxenolithische Technologien hinzufügt. BITTE DEN NEUSTEN RELEASE HERUNTERLADEN!"
   },
   {
-    "repo": "lys121005/terraria_for_mindusty",
-    "internalName": "泰拉世纪工厂",
-    "name": "泰拉世纪工厂",
-    "author": "万象终极无尽星空",
-    "lastUpdated": "2026-07-09T08:14:25Z",
-    "stars": 0,
-    "version": "0.0.0.2",
-    "minGameVersion": "157",
-    "hasIcon": false,
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "更新日志:本次更新了熔炉的界面."
-  },
-  {
     "repo": "xvddd8670/mindustry_transparent_green_units",
     "internalName": "transparent-units-toggle",
     "name": "Transparent Units (Toggle)",
@@ -11762,5 +11748,19 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "F9 - переключить прозрачность юнитов зелёной ветки (mono/poly/mega/quad/oct), включая ячейку, оружие и сопла"
+  },
+  {
+    "repo": "lys121005/terraria_for_mindusty",
+    "internalName": "泰拉世纪工厂",
+    "name": "泰拉世纪工厂",
+    "author": "万象终极无尽星空",
+    "lastUpdated": "2026-07-10T06:23:36Z",
+    "stars": 0,
+    "version": "0.0.0.2",
+    "minGameVersion": "157",
+    "hasIcon": false,
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "更新日志:本次更新了熔炉的界面."
   }
 ]
