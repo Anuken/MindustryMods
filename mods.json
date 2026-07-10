@@ -2395,20 +2395,6 @@
     "description": "Add new campaign on 3 planets (still WIP:)\n\nThe mod is focused on a difficulty slightly higher than the main game and follows the game design principles of the original Mindustry\n\nCurrently, the mod contains 6 sectors of the first of three planets. The development is delayed, but it has not been abandoned. I hope to complete the first sector of the second planet by 2027, which is planned to follow the 10 sector of the first planet.\n\nPlease rate me on github!"
   },
   {
-    "repo": "mindustry-antigrief/floodcompat",
-    "internalName": "floodcompat",
-    "name": "FloodCompat",
-    "author": "io community",
-    "lastUpdated": "2026-06-18T13:40:21Z",
-    "stars": 9,
-    "version": "2.7.2",
-    "minGameVersion": "158.1",
-    "hasIcon": true,
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Improves your experience on the official io  Flood server."
-  },
-  {
     "repo": "unionofsovietsocialistrepublics/sporebiomethane",
     "internalName": "jp",
     "name": "Spore biomethane",
@@ -2435,6 +2421,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Displays all bridge links. Helps with bridge weaving"
+  },
+  {
+    "repo": "mindustry-antigrief/floodcompat",
+    "internalName": "floodcompat",
+    "name": "FloodCompat",
+    "author": "io community",
+    "lastUpdated": "2026-07-10T21:58:55Z",
+    "stars": 9,
+    "version": "2.8",
+    "minGameVersion": "159.2",
+    "hasIcon": true,
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Improves your experience on the official io  Flood server."
   },
   {
     "repo": "willoizcitron/siuuu",
@@ -2633,20 +2633,6 @@
     "description": "Hold a hotkey to open a radial build HUD around the cursor with configurable 16-slot layouts, profile switching, and rule-based auto slot sets. / 按住热键在鼠标周围打开圆盘建造 HUD，支持 16 槽位配置、配置组切换与规则自动切盘。"
   },
   {
-    "repo": "huanxefh/lovecraftian-library-java",
-    "internalName": "lovec",
-    "name": "Lovecraftian Library",
-    "author": "MaboroshiX",
-    "lastUpdated": "2026-07-10T08:18:31Z",
-    "stars": 8,
-    "version": "101.4",
-    "minGameVersion": "159",
-    "hasIcon": true,
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "A JavaScript-based library for my other mods.\n\nMain features:\n- JS approach to class and interface.\n- Content template for method inheritance and mixing, along with more powerful `extend` methods.\n- Multi-crafters.\n- QOL functionalities like recipe dictionary, health bar and damage splash text."
-  },
-  {
     "repo": "huanxefh/lovecraftian-laboratory",
     "internalName": "loveclab",
     "name": "Lovecraftian Laboratory",
@@ -2673,6 +2659,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Ru\nЭтот мод должен добавлять планету с математикой в качестве блоков, но пока только 2 сектора\n[accent]Особое спасибо: чмоня, пунь. \nтакже спасибо: Георг Кантор, Леонард Эйлер[]\n\nEn\nThis mod is supposed to add a planet with mathematics as blocks, but so far only 2 sectors\n[accent] Special thanks: chmonya, alex (pun). \nAlso thanks: Georg Cantor, Leonard Euler[]"
+  },
+  {
+    "repo": "huanxefh/lovecraftian-library-java",
+    "internalName": "lovec",
+    "name": "Lovecraftian Library",
+    "author": "MaboroshiX",
+    "lastUpdated": "2026-07-10T21:21:51Z",
+    "stars": 8,
+    "version": "101.4.26071001",
+    "minGameVersion": "159",
+    "hasIcon": true,
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "A JavaScript-based library for my other mods.\n\nMain features:\n- JS approach to class and interface.\n- Content template for method inheritance and mixing, along with more powerful `extend` methods.\n- Multi-crafters.\n- QOL functionalities like recipe dictionary, health bar and damage splash text."
   },
   {
     "repo": "ocalhoun6/resource-supply-mod",
@@ -6755,7 +6755,7 @@
     "internalName": "ai-advisor",
     "name": "AI Advisor",
     "author": "nadeeshafdo.dev",
-    "lastUpdated": "2026-07-10T20:15:07Z",
+    "lastUpdated": "2026-07-10T21:07:13Z",
     "stars": 2,
     "version": "__VERSION__",
     "minGameVersion": "154",
