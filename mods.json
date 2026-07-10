@@ -158,7 +158,7 @@
     "internalName": "sapphirium",
     "name": "Sapphirium",
     "author": "Snake",
-    "lastUpdated": "2026-07-10T15:44:37Z",
+    "lastUpdated": "2026-07-10T17:53:03Z",
     "stars": 137,
     "version": "18",
     "minGameVersion": "159.2",
@@ -732,7 +732,7 @@
     "internalName": "ei",
     "name": "Expanded Industries",
     "author": "WMF Industries",
-    "lastUpdated": "2026-07-10T05:06:48Z",
+    "lastUpdated": "2026-07-10T18:43:06Z",
     "stars": 29,
     "version": "1.8.7",
     "minGameVersion": "159.1",
@@ -2269,20 +2269,6 @@
     "description": "Для работы на сервере нужен плагин: https://github.com/MindustryInside/JSEval\nи админ"
   },
   {
-    "repo": "7003mars/bridges",
-    "internalName": "bridging",
-    "name": "Bridging assistant",
-    "author": "Mars",
-    "lastUpdated": "2026-01-03T04:20:43Z",
-    "stars": 9,
-    "version": "REPLACEME",
-    "minGameVersion": "154.3",
-    "hasIcon": false,
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Displays all bridge links. Helps with bridge weaving"
-  },
-  {
     "repo": "7003mars/pic2tri",
     "internalName": "triangles",
     "name": "PicToTri",
@@ -2435,6 +2421,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds New sector, units and buildings to the game, all zerg flavored.\nWhat does this mod offer?\n - Hardmode and normal mode \n - Campain map for serpulo\n - Possibly a new planet?\n - A bunch of zerggy unit and structure\n - Lore\nRemember to star the mod on github if you enjoy it!"
+  },
+  {
+    "repo": "7003mars/bridges",
+    "internalName": "bridging",
+    "name": "Bridging assistant",
+    "author": "Mars",
+    "lastUpdated": "2026-07-10T17:34:03Z",
+    "stars": 9,
+    "version": "REPLACEME",
+    "minGameVersion": "154.3",
+    "hasIcon": false,
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Displays all bridge links. Helps with bridge weaving"
   },
   {
     "repo": "willoizcitron/siuuu",
@@ -3626,6 +3626,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "The mod of fight 4 colors"
+  },
+  {
+    "repo": "dsfdsfwxp/savemaster",
+    "internalName": "savemaster",
+    "name": "saveMaster",
+    "author": "dsfwxp",
+    "lastUpdated": "2025-04-25T13:54:31Z",
+    "stars": 5,
+    "version": "1.5.2",
+    "minGameVersion": "136",
+    "hasIcon": false,
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod that provide you with some ways to manage your saves. More details see our github repo."
   },
   {
     "repo": "cyberneticsquid/self-destruct",
@@ -6723,11 +6737,25 @@
     "description": "[#ff5959]PREPARE YOURSELF!\n\n[#ffffff]A mod about [#ff5959]sword [#ffffff]& the 7 sword deities from PHIGHTING!\n\nCreate [#ff5959]swordium [#ffffff]& convert it into either [#70AC30]darkheartium, [#861C00]firebrandium, [#C2C2C2]ghostwalkerium, [#97CCE1]icedaggerium, [#E2BAF5]illuminaium, [#A4C360]venomshankium [#ffffff]or [#929EAE]windforceium!\n\n[#ffffff]There's multiple types of turrets, production buildings, units & even a mobile core that you can place down anywhere!\n\nWhat's special about this mod is that it can be utilized in either erekir, serpulo or any planet mod.\n[grey]provided said planet mod doesn't have set blocks.\n\n[red]note: this mod can be considered as unfair to some, but then again, play it your own way!"
   },
   {
+    "repo": "zaxerf1234/mindustry-id-manager",
+    "internalName": "id-manager",
+    "name": "USID manager",
+    "author": "Zaxerf1234",
+    "lastUpdated": "2026-07-10T15:51:23Z",
+    "stars": 2,
+    "version": "2.0.0",
+    "minGameVersion": "154",
+    "hasIcon": true,
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A simple mod that allows server plugin developers to manage USIDs. After installation, a new button will appear in settings.\n\n This mod should not be used to bypass any kind of server restriction!"
+  },
+  {
     "repo": "hamsterhat/world-of-dights",
     "internalName": "number",
     "name": "World of Dights",
     "author": "[red]a[blue]l[white]ex[]",
-    "lastUpdated": "2026-07-10T16:02:00Z",
+    "lastUpdated": "2026-07-10T16:57:22Z",
     "stars": 2,
     "version": "version.bin",
     "minGameVersion": "146",
@@ -9158,20 +9186,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Makes unloaders faster (180 items/sec) and smarter. They now exclusively push raw materials into factories and pull finished products out, completely preventing infinite transfer loops."
-  },
-  {
-    "repo": "zaxerf1234/mindustry-id-manager",
-    "internalName": "id-manager",
-    "name": "USID manager",
-    "author": "Zaxerf1234",
-    "lastUpdated": "2026-07-10T15:51:23Z",
-    "stars": 1,
-    "version": "2.0.0",
-    "minGameVersion": "154",
-    "hasIcon": false,
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "A simple mod that allows server plugin developers to manage USIDs. After installation, a new button will appear in settings.\n\n This mod should not be used to bypass any kind of server restriction!"
   },
   {
     "repo": "pasu4/ridiculously-oversized",
@@ -11762,5 +11776,19 @@
     "hasScripts": true,
     "hasJava": true,
     "description": "更新日志:本次更新了熔炉的界面."
+  },
+  {
+    "repo": "c9cps/cdxlib",
+    "internalName": "library",
+    "name": "CDXLIB",
+    "author": "Codex_IX",
+    "lastUpdated": "2026-07-10T18:49:07Z",
+    "stars": 0,
+    "version": "1.0",
+    "minGameVersion": "154",
+    "hasIcon": false,
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A small library for json-mods."
   }
 ]
