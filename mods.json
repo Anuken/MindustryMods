@@ -28,6 +28,20 @@
     "description": "A mod that adds in a butt load of content"
   },
   {
+    "repo": "sk7725/betamindy",
+    "internalName": "betamindy",
+    "name": "BetaMindy",
+    "author": "sk7725",
+    "lastUpdated": "2026-06-04T01:57:43Z",
+    "stars": 364,
+    "version": "2.0",
+    "minGameVersion": "155.4",
+    "hasIcon": true,
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "My first Java mod, has the same amount of chaotic energy of sk7725/Commandblocks."
+  },
+  {
     "repo": "xeloboyo/factoriodustry",
     "internalName": "xelos-pixel-texturepack",
     "name": "FactoryDustry - TexturePack",
@@ -551,14 +565,14 @@
     "internalName": "mod-tools",
     "name": "mod-tools",
     "author": "I hope...",
-    "lastUpdated": "2026-07-11T03:16:58Z",
+    "lastUpdated": "2026-07-11T05:13:32Z",
     "stars": 41,
-    "version": "1.5.9",
-    "minGameVersion": "154",
+    "version": "1.6.0",
+    "minGameVersion": "159.2",
     "hasIcon": true,
     "hasScripts": false,
     "hasJava": true,
-    "description": "A mod provides various tools for modding.\n\n-----------------\nVersion 1.5.9\n\n## Highlight\n1. 新增Profiler\n2. 构建支持增量编译\n3. 优化界面布局和性能\n4. 禁用JDWP功能（根本无法使用Java启动）\n5. 修复一些bug\n- 修复areaTable的`\\t`显示问题和drawMultiText的bug\n- 修复Tester代码补全快捷键冲突问题\n- 改Trigger.postDraw为Trigger.draw适配Helium\n- 修复ReferringMoveListener的只显示一会的问题\n\n-----------------\nWIKI: https://i-hope1.github.io/mod-tools"
+    "description": "A mod provides various tools for modding.\n\n-----------------\nVersion 1.6.0\n\n## Highlight\n1. Support Mindustry 159.2\n2. feat(capture_exceptions): Hook exceptions and print (Desktop Only)\n3. Optimize flame graph performance.\n4. Fix some bugs:\n- Improve the security check logic for application class loader settings in Tester.\n- Add text boundary safety checks to TextAreaTab to prevent array out-of-bounds errors.\n\n-----------------\nWIKI: https://i-hope1.github.io/mod-tools"
   },
   {
     "repo": "oleglysukhin/cheat",
@@ -696,7 +710,7 @@
     "stars": 33,
     "version": "0.2",
     "minGameVersion": "155",
-    "hasIcon": false,
+    "hasIcon": true,
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod that was originally meant to add liquid related stuff to erekir but i ended up having too many ideas.\n  helpers: GameStuffOfficial, @mr_shapka228, @smolkeys_\n  special thanks to u/WishboneOk8660 on reddit, who made amazing fanart of the mod and the og idea for the support boat line.\n\n  Mod kind of abandoned, will just move it up to newer versions anytime one comes out"
@@ -714,6 +728,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "I'm too lazy to work on this mod 24/7, so don't expect frequent updates. The reason is simple: no spriters, no testers, no moral support... in short, we endure and we carry on\n\n= = = = = О моде / About mod = = = = =\n\nRU: Очень опасный мод, который влияет на баланс и механику игры, добавляет новый контент в виде статус эффектов и оборонительных сооружений (башен, мин и т.д.).\n\nРекомендуется перед установкой сделать сохранение (чтобы откатиться назад), если в случае вам не понравится то, что может сделать данный мод. И лучше в самом деле не рискуйте лишний раз и поверьте на слово: МОД. МЕНЯЕТ. МНОГОЕ.\n\nВажно: Описание некоторых юнитов не корректно, либо и вовсе неправильное.\n\n\n\nENG: A highly dangerous mod that affects game balance and mechanics, adding new content in the form of status effects and defensive structures (towers, mines, etc.).\n\n\nIt is highly recommended to create a backup save before installation (so you can revert), in case you don't like what this mod might do. And really, it's better not to take unnecessary risks and just take our word for it: THIS MOD. CHANGES. MANY THINGS.\n\nImportant: The descriptions for some units are incorrect or entirely wrong.\n\nОсобая благодарность для людей / A Special Thank You to people:\n- inflarespirit (eve_light)\n- ARmOrDer\n\nСтатисты / Playtesters: kakoy-to Nekit, a takze nytiki i haters\n\n(Nekit, don't be offended, it's a joke. You are also worthy of special thanks on the same level as ARmOrDer)"
+  },
+  {
+    "repo": "typicaldeveloper123/biotic-zlo",
+    "internalName": "corpuscles",
+    "name": "Corpuscles",
+    "author": "SezoVK",
+    "lastUpdated": "2026-07-11T03:29:56Z",
+    "stars": 30,
+    "version": "v1.4",
+    "minGameVersion": "157.4",
+    "hasIcon": true,
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\nNOT RECOMMENDED TO BE PLAYED YET!\nWIP - Work In Progress\n\nSPOILER:\n- MIGHT CONTAIN GORE\n- HAS TRYPOPHOBIA WHICH IS THE FEAR OF ALOT OF HOLES\n- SOME UNITS MIGHT BE UNCOMFORTABLE TO SOME PEOPLE\n\nThis mod features a planet called Morive, a once normal rocky planet with plant life.\nBut it got hit by an asteroid carrying something.\nFind what lurks out there.\n\nIf you wanna see whats the latest news with the mod, since modding kinda takes really long.\nJoin our Discord Server!\ndiscord server for Corpuscles: https://discord.gg/SkvZaCwvXR\n\nThanks to HunNimbus, and VdobleMSG for some of the sprites!\n\nThanks to Dr Adler also for the lore!\nAvailable in these languages:\n- English\n- Indonesia\n- Russian\n  "
   },
   {
     "repo": "asterion-team/asterion",
@@ -742,20 +770,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Some content for people to enjoy :>"
-  },
-  {
-    "repo": "typicaldeveloper123/biotic-zlo",
-    "internalName": "corpuscles",
-    "name": "Corpuscles",
-    "author": "SezoVK",
-    "lastUpdated": "2026-07-11T03:29:56Z",
-    "stars": 29,
-    "version": "v1.4",
-    "minGameVersion": "157.4",
-    "hasIcon": true,
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "\nNOT RECOMMENDED TO BE PLAYED YET!\nWIP - Work In Progress\n\nSPOILER:\n- MIGHT CONTAIN GORE\n- HAS TRYPOPHOBIA WHICH IS THE FEAR OF ALOT OF HOLES\n- SOME UNITS MIGHT BE UNCOMFORTABLE TO SOME PEOPLE\n\nThis mod features a planet called Morive, a once normal rocky planet with plant life.\nBut it got hit by an asteroid carrying something.\nFind what lurks out there.\n\nIf you wanna see whats the latest news with the mod, since modding kinda takes really long.\nJoin our Discord Server!\ndiscord server for Corpuscles: https://discord.gg/SkvZaCwvXR\n\nThanks to HunNimbus, and VdobleMSG for some of the sprites!\n\nThanks to Dr Adler also for the lore!\nAvailable in these languages:\n- English\n- Indonesia\n- Russian\n  "
   },
   {
     "repo": "routerxdd/erekir-extended",
@@ -884,6 +898,21 @@
     "description": "Adding new Assault unit, Support unit, and Industries!\nTHIS MOD IS SERPULO ONLY\n\nThis mod supports English, Bahasa Indonesia, and Russian.\n\n[#FFB600]BUILD[#AEAEAE] - [#FF4C00]EXTRACT[#AEAEAE] - [#FF00F6]CONQUER[#AEAEAE].\n\nSupport me by starring my Mod Repo!!\nTHIS MOD IS STILL DEVELOPMENT\n\nDM me or Chat me in Mindustry Official Server if you find bug!\nAll name and content in this Mod its just Fiction."
   },
   {
+    "repo": "fat-bird-owner/gier-revitalized",
+    "internalName": "gr",
+    "name": "Gier: Revitalized",
+    "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
+    "lastUpdated": "2026-07-11T04:51:04Z",
+    "stars": 24,
+    "version": "v3.1 - Gier",
+    "minGameVersion": "156",
+    "hasIcon": true,
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe.\n\nIf the main version isnt available or is\nbugged then please use download from the \nlatest releases instead.\n[]\n\n[accent]Starring is greatly appreciated[]\n[grey](Our current goal is 25 stars)[]\n",
+    "iosCompatible": true
+  },
+  {
     "repo": "melomelodeon/mindy-conveyor",
     "internalName": "fstrcnvyrs",
     "name": "Definitely Balanced Conveyors",
@@ -924,21 +953,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "​操作中にSDキャラを表示する機能を追加、Added a function to display chibi during operation (and router) a lot of updates coming"
-  },
-  {
-    "repo": "fat-bird-owner/gier-revitalized",
-    "internalName": "gr",
-    "name": "Gier: Revitalized",
-    "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-07-11T04:47:34Z",
-    "stars": 23,
-    "version": "v3.1 - Gier",
-    "minGameVersion": "156",
-    "hasIcon": true,
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "\nMakes gier a playable planet.\n\n[accent]IOS Compatible\n\n[grey]More info in the repository's ReadMe.\n\nIf the main version isnt available or is\nbugged then please use download from the \nlatest releases instead.\n[]\n\n[accent]Starring is greatly appreciated[]\n[grey](Our current goal is 25 stars)[]\n",
-    "iosCompatible": true
   },
   {
     "repo": "realshizi/oxynoe",
@@ -1683,6 +1697,20 @@
     "description": " [accent]以战锤40k为原型的MOD[]，拥有自设模组背景和战锤或许关系不大,设定与qq群链接可以到 [accent]模组简介[]里面找\n[sky]QQ群316481519[]\n[unlaunched]贡献者:DOC-A-7244(bundles和翻译),Eipusino(java技术指导)[]\n [accent]The MOD based on Warhammer 40k[],Having a custom mod background may not necessarily relate to Warhammer， with its settings and links to the QQ group, can be found in the  [accent]mod introduction[]\n[sky]QQ group 316481519[]\nDiscord will consider adding features in its subsequent improvements\n[unlaunched]Contributors: DOC-A-7244 (bundles and translation), Eipusino (Java technical guidance)[]"
   },
   {
+    "repo": "chaoticans-modding-team/new-content",
+    "internalName": "newunits",
+    "name": "New Content",
+    "author": "Rylid Umil & Aegires",
+    "lastUpdated": "2026-07-05T09:23:43Z",
+    "stars": 13,
+    "version": "8x1x13",
+    "minGameVersion": "154",
+    "hasIcon": false,
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "My first mod! It adds in a lot of new vanilla branches, but I'll leave you to finding out what those are.\nThanks to my spriter Aegires for making some of theese awesome sprites!\n\nThis mod is very ambitious. And unfinished. I'm probably going to add new planets. One is already in the works.\n\nAs of Version 7x1x, the mod's custom and new music has been moved to Chaoticans-mindustry-modding-team/New-Content-Music."
+  },
+  {
     "repo": "no9527dada/ct-origin",
     "internalName": "creators",
     "name": "创世神2-起源独立版",
@@ -1767,20 +1795,6 @@
     "description": "This planet is cold and therefore you will have to use aluminum and crystals to keep your buildings from freezing.."
   },
   {
-    "repo": "chaoticans-modding-team/new-content",
-    "internalName": "newunits",
-    "name": "New Content",
-    "author": "Rylid Umil & Aegires",
-    "lastUpdated": "2026-07-05T09:23:43Z",
-    "stars": 12,
-    "version": "8x1x13",
-    "minGameVersion": "154",
-    "hasIcon": false,
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "My first mod! It adds in a lot of new vanilla branches, but I'll leave you to finding out what those are.\nThanks to my spriter Aegires for making some of theese awesome sprites!\n\nThis mod is very ambitious. And unfinished. I'm probably going to add new planets. One is already in the works.\n\nAs of Version 7x1x, the mod's custom and new music has been moved to Chaoticans-mindustry-modding-team/New-Content-Music."
-  },
-  {
     "repo": "tinport/tinport-serpulo-resprites",
     "internalName": "tinport-fancy-resprites",
     "name": "Tinport Serpulo Resprites",
@@ -1809,20 +1823,6 @@
     "description": "\nCurrently sandbox only!\n\nA reboot of an old mod.\n\nExplore a rocky, dark world filled with many things that shouldn't exist.\n\nBrave inferno. Escape the cage.\n\nCREDITS:\n\nNV-NX - Main dev and spriter\nHaznobrain - Occasional sprite and code help. Making music.\nMegacheb - Allowing me to use some of their music for (upcoming) bosses."
   },
   {
-    "repo": "wantechfan/mindustry-cursed-bundles",
-    "internalName": "cursed-bundles",
-    "name": "Cursed Bundles",
-    "author": "WantechFan",
-    "lastUpdated": "2026-07-09T06:45:20Z",
-    "stars": 12,
-    "version": "1.13",
-    "minGameVersion": "136",
-    "hasIcon": true,
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod also modifies ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request\n\nNote: If you're using iPhone or smth like that, download the mod from https://github.com/Wantechfan/mindustry-cursed-bundles/tree/usable-for-apple as the main mod uses scripts to modify other mod's texts.[]."
-  },
-  {
     "repo": "huanxefh/project-reindustrialization",
     "internalName": "projreind",
     "name": "Project Reindustrialization",
@@ -1849,6 +1849,34 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Mod add tanks, aircraft and naval ships"
+  },
+  {
+    "repo": "jababadev/jababarium",
+    "internalName": "jababarium",
+    "name": "Jababarium",
+    "author": "Jababa",
+    "lastUpdated": "2026-07-10T15:38:44Z",
+    "stars": 12,
+    "version": "1.0",
+    "minGameVersion": "158",
+    "hasIcon": true,
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A Mindustry greatest mod ever made!"
+  },
+  {
+    "repo": "wantechfan/mindustry-cursed-bundles",
+    "internalName": "cursed-bundles",
+    "name": "Cursed Bundles",
+    "author": "WantechFan",
+    "lastUpdated": "2026-07-11T06:25:46Z",
+    "stars": 12,
+    "version": "1.13",
+    "minGameVersion": "136",
+    "hasIcon": true,
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Changes every text ingame with cursed ones. Hand made by me. Please leave a star in my repository (by clicking the repo button) if you like the mod.\n\nThis mod also modifies ID bundle. If you want to make a cursed bundles on your language, [accent]click repo and start a pull request\n\nNote: If you're using iPhone or smth like that, download the mod from https://github.com/Wantechfan/mindustry-cursed-bundles/tree/usable-for-apple as the main mod uses scripts to modify other mod's texts.[]."
   },
   {
     "repo": "mythril382/colorednames",
@@ -2073,20 +2101,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "[red]俺寻思之力"
-  },
-  {
-    "repo": "jababadev/jababarium",
-    "internalName": "jababarium",
-    "name": "Jababarium",
-    "author": "Jababa",
-    "lastUpdated": "2026-07-10T15:38:44Z",
-    "stars": 11,
-    "version": "1.0",
-    "minGameVersion": "158",
-    "hasIcon": true,
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A Mindustry greatest mod ever made!"
   },
   {
     "repo": "aerodynamic-lawyer/ceruisairm",
@@ -2681,9 +2695,9 @@
     "internalName": "lovec",
     "name": "Lovecraftian Library",
     "author": "MaboroshiX",
-    "lastUpdated": "2026-07-10T21:21:51Z",
+    "lastUpdated": "2026-07-11T06:27:19Z",
     "stars": 8,
-    "version": "101.4.26071001",
+    "version": "101.4.26071101",
     "minGameVersion": "159",
     "hasIcon": true,
     "hasScripts": true,
@@ -3218,7 +3232,7 @@
     "stars": 6,
     "version": "official 1.0",
     "minGameVersion": "147",
-    "hasIcon": false,
+    "hasIcon": true,
     "hasScripts": false,
     "hasJava": false,
     "description": "A project of a mod that will include three planets but so far only two is playable.\n\nThis mod has to be played on 147+\n\nRusted dunes is a type of mod that's not hard or easy and your goals are to make technology in use of eroded materials or rusted materials and produce rusted units and soon upgrade them to there potential.\n\nDunes is a wasted planet near serpulo but far from the sun, take control and provide chaos to this dead planet.\n\nQuick notes: [\nLushion is currently in WIP.\nBe sure to have weather graphics for weather's if your on a low end device turn it off.\nMake sure to reinstall regular.\nGive a star if you enjoy Thanks!!!.\nThe sound is being worked on so don't worry to much\nmany sectors are kinda unbalanced so be warned iam balancing it \n}"
@@ -4106,6 +4120,20 @@
     "description": "Turns most projectiles into stingrays."
   },
   {
+    "repo": "reversteams/sefirah",
+    "internalName": "sefirah",
+    "name": "Sefirah",
+    "author": "[cyan]Tikup [lightgray]& [lime]Mitemi",
+    "lastUpdated": "2025-06-10T20:50:15Z",
+    "stars": 4,
+    "version": "1.0.0",
+    "minGameVersion": "147",
+    "hasIcon": true,
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "[sky]Sefirah Castle\n\n[white]Testing tools mod for better mod playtesting and debugging. Made in response to some utility mods being no longer updated for Mindustry v8.\n\nCurrent Features:\n-Unlocking Tech Trees (Vanilla and Modded)\n-Teleporation\n\nUnlocking a tech tree works for all mods, with the \"unlock all tech\" option."
+  },
+  {
     "repo": "fallingdice/super-spores",
     "internalName": "super-spores",
     "name": "Super Spores",
@@ -4526,6 +4554,20 @@
     "description": "Creators Core System"
   },
   {
+    "repo": "alecthe2nd/tantros",
+    "internalName": "tantros",
+    "name": "Tantros",
+    "author": "Alecthe2nd, bob26786",
+    "lastUpdated": "2026-07-07T16:23:23Z",
+    "stars": 4,
+    "version": "1.0",
+    "minGameVersion": "158.1",
+    "hasIcon": true,
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Breathes life into Tantros, the planet Anuke has ceased working on. This mod is meant to faithfully recreate what Tantros could have been, had work not ceased."
+  },
+  {
     "repo": "determination-wind/patchviewer",
     "internalName": "patchviewer",
     "name": "PatchViewer / 补丁查看器",
@@ -4720,6 +4762,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Этот мод добавляет артиллерию в Mindustry! Несколько новых, уникальных артиллерийских турелей."
+  },
+  {
+    "repo": "savin1play140/neoplasm-units",
+    "internalName": "neoplasm units",
+    "name": "Neoplasm units",
+    "author": "Raidyriwe",
+    "lastUpdated": "2024-07-22T18:52:35Z",
+    "stars": 3,
+    "version": "1.112",
+    "minGameVersion": "136",
+    "hasIcon": false,
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "My mod!"
   },
   {
     "repo": "haznobrain/stupid-eclipses",
@@ -5207,7 +5263,7 @@
     "stars": 3,
     "version": "made for 157 (v8)",
     "minGameVersion": "157",
-    "hasIcon": false,
+    "hasIcon": true,
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds more team regions to most Serpulo and Erekir blocks, to make teams in pvp and attack look more appealing."
@@ -5365,20 +5421,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "让逻辑再次伟大！\nMake Logic Great Again!"
-  },
-  {
-    "repo": "alecthe2nd/tantros",
-    "internalName": "tantros",
-    "name": "Tantros",
-    "author": "Alecthe2nd, bob26786",
-    "lastUpdated": "2026-07-07T16:23:23Z",
-    "stars": 3,
-    "version": "1.0",
-    "minGameVersion": "158.1",
-    "hasIcon": true,
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Breathes life into Tantros, the planet Anuke has ceased working on. This mod is meant to faithfully recreate what Tantros could have been, had work not ceased."
   },
   {
     "repo": "xpdustry/kotlin-runtime",
@@ -5589,6 +5631,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Contains minor resprites for some Serpulo content. Wow."
+  },
+  {
+    "repo": "obitel30/atnmod",
+    "internalName": "atn",
+    "name": "A-T-N Mod",
+    "author": "monokol(monokoluar)",
+    "lastUpdated": "2024-05-26T20:47:00Z",
+    "stars": 2,
+    "version": "0.1",
+    "minGameVersion": "136",
+    "hasIcon": false,
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "new campaign lol"
   },
   {
     "repo": "leyn-pl/iconpicker",
@@ -6729,7 +6785,7 @@
     "internalName": "ai-advisor",
     "name": "AI Advisor",
     "author": "nadeeshafdo.dev",
-    "lastUpdated": "2026-07-11T03:49:11Z",
+    "lastUpdated": "2026-07-11T06:44:44Z",
     "stars": 2,
     "version": "__VERSION__",
     "minGameVersion": "154",
@@ -7045,6 +7101,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Changes I made to make it easier for me to see items on conveyors."
+  },
+  {
+    "repo": "xblade720/better-logic-blocks",
+    "internalName": "realistic-processors",
+    "name": "better-logic-blocks",
+    "author": "xblade720",
+    "lastUpdated": "2024-10-20T17:42:31Z",
+    "stars": 1,
+    "version": "1",
+    "minGameVersion": "136",
+    "hasIcon": false,
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "make the logic look better"
   },
   {
     "repo": "bluetechnocat/convenience-mod",
@@ -8672,6 +8742,20 @@
     "description": "Replaces all sounds with wind3."
   },
   {
+    "repo": "wantechfan/mindustry-no-building-damage-penalty",
+    "internalName": "no-building-damage-penalty",
+    "name": "No Building Damage Penalty",
+    "author": "Wantechfan",
+    "lastUpdated": "2026-06-26T04:02:22Z",
+    "stars": 1,
+    "version": "1.0",
+    "minGameVersion": "146",
+    "hasIcon": false,
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Removes building damage penalty"
+  },
+  {
     "repo": "wantechfan/mindustry-cursed-sfx",
     "internalName": "cursed-sfx",
     "name": "Cursed SFX",
@@ -9022,20 +9106,6 @@
     "description": "Type pinyin in search fields to match Chinese names. / 在搜索框输入拼音匹配中文项。"
   },
   {
-    "repo": "wantechfan/mindustry-sondustry",
-    "internalName": "sondustry",
-    "name": "Sondustry",
-    "author": "Wantechfan",
-    "lastUpdated": "2026-07-08T15:27:38Z",
-    "stars": 1,
-    "version": "0.1",
-    "minGameVersion": "146",
-    "hasIcon": false,
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Addon son ton everon worn"
-  },
-  {
     "repo": "chax0180/challenge-additions",
     "internalName": "chad",
     "name": "Challenge Additions",
@@ -9146,6 +9216,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds a new rusty red planet (inspired by Mars) with semi-realistic tech trees."
+  },
+  {
+    "repo": "wantechfan/mindustry-sondustry",
+    "internalName": "sondustry",
+    "name": "Sondustry",
+    "author": "Wantechfan",
+    "lastUpdated": "2026-07-11T06:19:16Z",
+    "stars": 1,
+    "version": "0.1",
+    "minGameVersion": "146",
+    "hasIcon": false,
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Addon son ton everon worn"
   },
   {
     "repo": "pasu4/ridiculously-oversized",
@@ -10100,6 +10184,20 @@
     "description": "An incmplete mod that represents failed solar system far far away from the sun."
   },
   {
+    "repo": "tafgo7162/aerion",
+    "internalName": "aerion",
+    "name": "Aerion",
+    "author": "Tafgo7162",
+    "lastUpdated": "2025-07-06T10:42:19Z",
+    "stars": 0,
+    "version": "1.0",
+    "minGameVersion": "149",
+    "hasIcon": false,
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Aerion mod was actually made before, but got abandoned, so that's just new version"
+  },
+  {
     "repo": "jirocab/tilte-changer",
     "internalName": "title-changer",
     "name": "title Changer",
@@ -10784,20 +10882,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Mindustry: Evil Edition"
-  },
-  {
-    "repo": "chi-re/dissipationlimit",
-    "internalName": "dissipation-limit",
-    "name": "DissipationLimit",
-    "author": "炽热S",
-    "lastUpdated": "2026-03-13T04:13:52Z",
-    "stars": 0,
-    "version": "0.0.1",
-    "minGameVersion": "154",
-    "hasIcon": false,
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "更多的游戏内容"
   },
   {
     "repo": "tortik0/texture-pack",
@@ -11722,5 +11806,19 @@
     "hasScripts": true,
     "hasJava": true,
     "description": "更新日志:本次重置了铂重兵"
+  },
+  {
+    "repo": "chi-re/dissipationlimit",
+    "internalName": "dissipation-limit",
+    "name": "DissipationLimit",
+    "author": "炽热S",
+    "lastUpdated": "2026-07-11T05:33:50Z",
+    "stars": 0,
+    "version": "0.0.1",
+    "minGameVersion": "154",
+    "hasIcon": false,
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "更多的游戏内容"
   }
 ]
