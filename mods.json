@@ -634,7 +634,7 @@
     "internalName": "md3",
     "name": "MoreDefences",
     "author": "[grey]CD[], [#FC8E6C]meowkitty[] and [#ff0059]7rodo[]",
-    "lastUpdated": "2026-07-10T13:28:04Z",
+    "lastUpdated": "2026-07-11T00:12:47Z",
     "stars": 38,
     "version": "3.2.0",
     "minGameVersion": "157.4",
@@ -5407,20 +5407,6 @@
     "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
-    "repo": "penguip/a-mindustry-mod",
-    "internalName": "beepdustry",
-    "name": "BEEPDUSTRY",
-    "author": "DNAlly/penguip",
-    "lastUpdated": "2026-07-10T00:14:17Z",
-    "stars": 3,
-    "version": "1.0.0",
-    "minGameVersion": "149",
-    "hasIcon": true,
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Very DaF! based mod. Don't ask what that is.\nIn terms of content, the mod adds a new planet, Keisuris.\nA madman's creation, born of the fusion of many worlds.\nThe mod aims to strive for a unique experience compared to other mods.\nIt is in heavy beta as of current, and starring is greatly appreciated.\nContent is now being prioritized over the campaign.\n!BIG WEEB LORE WARNING!"
-  },
-  {
     "repo": "leinadhq/voltaprotocolmod",
     "internalName": "volta-protocol",
     "name": "Volta Protocol",
@@ -5433,6 +5419,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\n[accent]Languages/Idiomas: EN / ES \n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla y mi nuevo planeta (el planeta aun esta en desarrollo). \n\n[white]Este mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de materiales, unidades, sistemas de transporte, torretas y sus municiones. \n\n[accent]Changelog / Novedades v0.6:\n[lightgray]• New sprites (working on the missing sprites).\n• New air-based liquid transport system (V1).\n• New repair and construction blocks.\n• Planet sector generation finally works, but it needs quite a few improvements.\n• New ring generation for the planet (the New Horizons Dyson Sphere/Ring generator was used as a reference).\n\n[accent]Contenido: \n[white]·1 nuevo planeta y 1 sector de prueba \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros \n[white]· 2 bloques para el transporte aereo de liquidos (Cargador, descargador y dron de transporte) \n[white]· 1 torreta de construccion y 1 proyector de reparación \n[white]·4 taladros. \n[white]·11 fabricas \n[white]·2 generadores \n[white]·3 cinta de transporte (familia palladium duct: duct, router, bridge and junction) \n[white]·7 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Gier: Revitalized, Warbound Industries, [Better Vanilla], simple additions y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
+  },
+  {
+    "repo": "penguip/a-mindustry-mod",
+    "internalName": "beepdustry",
+    "name": "BEEPDUSTRY",
+    "author": "DNAlly/penguip",
+    "lastUpdated": "2026-07-10T22:47:10Z",
+    "stars": 3,
+    "version": "0.6ish?",
+    "minGameVersion": "159",
+    "hasIcon": true,
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Very DaF! based mod. Don't ask what that is.\nIn terms of content, the mod adds a new planet, Keisuris.\nA madman's creation, born of the fusion of many worlds.\nThe mod aims to strive for a unique experience compared to other mods.\nIt is in heavy beta as of current, and starring is greatly appreciated.\nContent is now being prioritized over the campaign.\n!BIG WEEB LORE WARNING!"
   },
   {
     "repo": "rintadev5792/arcane-mindustry",
@@ -11764,20 +11764,6 @@
     "description": "A mod that adds more logic instructions.\n一个添加了更多逻辑指令的模组"
   },
   {
-    "repo": "lys121005/terraria_for_mindusty",
-    "internalName": "泰拉世纪工厂",
-    "name": "泰拉世纪工厂",
-    "author": "万象终极无尽星空",
-    "lastUpdated": "2026-07-10T15:36:22Z",
-    "stars": 0,
-    "version": "v0.0.0.0.1",
-    "minGameVersion": "159.2",
-    "hasIcon": false,
-    "hasScripts": true,
-    "hasJava": true,
-    "description": "更新日志:本次更新了熔炉的界面."
-  },
-  {
     "repo": "c9cps/cdxlib",
     "internalName": "library",
     "name": "CDXLIB",
@@ -11790,5 +11776,19 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A small library for json-mods."
+  },
+  {
+    "repo": "lys121005/terraria_for_mindusty",
+    "internalName": "泰拉世纪工厂",
+    "name": "泰拉世纪工厂",
+    "author": "万象终极无尽星空(B站)",
+    "lastUpdated": "2026-07-11T01:01:52Z",
+    "stars": 0,
+    "version": "v0.0.0.0.1",
+    "minGameVersion": "159.2",
+    "hasIcon": false,
+    "hasScripts": true,
+    "hasJava": true,
+    "description": "更新日志:本次重置了铂重兵"
   }
 ]
