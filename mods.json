@@ -453,8 +453,8 @@
     "internalName": "carpe-diem",
     "name": "Carpe Diem",
     "author": "Nullotte",
-    "lastUpdated": "2026-06-23T10:20:54Z",
-    "stars": 46,
+    "lastUpdated": "2026-07-11T12:48:36Z",
+    "stars": 47,
     "version": "(Beta) Build 11",
     "minGameVersion": "158",
     "hasIcon": true,
@@ -649,10 +649,10 @@
     "internalName": "claj",
     "name": "CLaJ",
     "author": "ZetaMap, xzxADIxzx",
-    "lastUpdated": "2026-07-06T18:23:57Z",
+    "lastUpdated": "2026-07-11T13:19:07Z",
     "stars": 38,
     "version": "2.4.1",
-    "minGameVersion": "146",
+    "minGameVersion": "159",
     "hasIcon": true,
     "hasScripts": false,
     "hasJava": true,
@@ -664,7 +664,7 @@
     "internalName": "md3",
     "name": "MoreDefences",
     "author": "[grey]CD[], [#FC8E6C]meowkitty[] and [#ff0059]7rodo[]",
-    "lastUpdated": "2026-07-11T01:29:54Z",
+    "lastUpdated": "2026-07-11T14:25:00Z",
     "stars": 38,
     "version": "3.2.1",
     "minGameVersion": "157.4",
@@ -1169,7 +1169,7 @@
     "internalName": "esocatalyst",
     "name": "Esocatalyst",
     "author": "HunNimbus",
-    "lastUpdated": "2026-04-19T20:41:35Z",
+    "lastUpdated": "2026-07-11T14:38:46Z",
     "stars": 20,
     "version": "Lost Track?",
     "minGameVersion": "157",
@@ -1337,7 +1337,7 @@
     "internalName": "neon",
     "name": "Neon / 氖",
     "author": "DeterMination (BEK)",
-    "lastUpdated": "2026-07-10T07:13:09Z",
+    "lastUpdated": "2026-07-11T13:40:10Z",
     "stars": 16,
     "version": "10.1.1",
     "minGameVersion": "159",
@@ -2649,20 +2649,6 @@
     "description": "Makes Mindustry Dark Themed!\n\nCredits:\n• !ereHyddeS, for making this out of boredom\n• WMF, for annoying everyone long enough to rework it\n• Antlrr, for contributing lots\n• Woop, for contributing few\n• Binonib, for contributing few\n• Alstocras, for contributing few\n• Blop, for ideas and for meme dump\n\nChangelogs:\n• Included campaign-only blocks\n• NeonNights2: Erekir-ified coming maybe soon idk"
   },
   {
-    "repo": "determination-wind/radial-build-menu-hud-",
-    "internalName": "radial-build-menu",
-    "name": "圆盘快捷建造 / Radial Build Menu",
-    "author": "DeterMination",
-    "lastUpdated": "2026-06-28T10:05:36Z",
-    "stars": 8,
-    "version": "5.7.0",
-    "minGameVersion": "154",
-    "hasIcon": false,
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Hold a hotkey to open a radial build HUD around the cursor with configurable 16-slot layouts, profile switching, and rule-based auto slot sets. / 按住热键在鼠标周围打开圆盘建造 HUD，支持 16 槽位配置、配置组切换与规则自动切盘。"
-  },
-  {
     "repo": "huanxefh/lovecraftian-laboratory",
     "internalName": "loveclab",
     "name": "Lovecraftian Laboratory",
@@ -2703,6 +2689,20 @@
     "hasScripts": true,
     "hasJava": true,
     "description": "A JavaScript-based library for my other mods.\n\nMain features:\n- JS approach to class and interface.\n- Content template for method inheritance and mixing, along with more powerful `extend` methods.\n- Multi-crafters.\n- QOL functionalities like recipe dictionary, health bar and damage splash text."
+  },
+  {
+    "repo": "determination-wind/radial-build-menu-hud-",
+    "internalName": "radial-build-menu",
+    "name": "圆盘快捷建造 / Radial Build Menu",
+    "author": "DeterMination",
+    "lastUpdated": "2026-07-11T13:40:39Z",
+    "stars": 8,
+    "version": "5.7.0",
+    "minGameVersion": "154",
+    "hasIcon": false,
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Hold a hotkey to open a radial build HUD around the cursor with configurable 16-slot layouts, profile switching, and rule-based auto slot sets. / 按住热键在鼠标周围打开圆盘建造 HUD，支持 16 槽位配置、配置组切换与规则自动切盘。"
   },
   {
     "repo": "ocalhoun6/resource-supply-mod",
@@ -2902,20 +2902,6 @@
     "iosCompatible": true
   },
   {
-    "repo": "determination-wind/stealthpath",
-    "internalName": "stealth-path",
-    "name": "Stealth Path / 偷袭小道",
-    "author": "DeterMination",
-    "lastUpdated": "2026-02-20T10:18:44Z",
-    "stars": 7,
-    "version": "5.3.2",
-    "minGameVersion": "154",
-    "hasIcon": false,
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Plan safer assault routes by simulating turret/unit threat fields, then draw low-damage or nearest paths with auto-move support. / 基于炮塔与单位威胁场规划低伤或最近路线，支持自动移动与实时路径叠加。"
-  },
-  {
     "repo": "momiji142857/ve-addon-schematics",
     "internalName": "ve-addon-schematics",
     "name": "VE Addon: Schematics",
@@ -2984,20 +2970,6 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A mindustry mod which allow customize player's unit via using existing contents."
-  },
-  {
-    "repo": "determination-wind/power-grid-minimap-",
-    "internalName": "powergrid-minimap",
-    "name": "电网小地图 / Power Grid Minimap",
-    "author": "DeterMination",
-    "lastUpdated": "2026-06-06T10:09:18Z",
-    "stars": 7,
-    "version": "1.18.1",
-    "minGameVersion": "154",
-    "hasIcon": false,
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Color each independent power grid on minimap/full map, show live power balance, detect split outages, and suggest reconnect links. / 在小地图与全图按电网分色显示，实时展示电力盈亏，检测断网并给出快速重连建议。"
   },
   {
     "repo": "lefalcon352/frozen-farlands-resprite",
@@ -3082,6 +3054,34 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Introducing, Apolon! the long awaited passion project by me, Nannerbz (or like 3 different nicknames online), and my friend VDoble! This project has been in development for a LONG while and im happy im finally able to release it to the public! This mod contains: Brand new gameplay, New units, A new campaign, and MORE!\n\nDiscord: fandslimu\n(Or Fandslimu#9712)"
+  },
+  {
+    "repo": "determination-wind/power-grid-minimap-",
+    "internalName": "powergrid-minimap",
+    "name": "电网小地图 / Power Grid Minimap",
+    "author": "DeterMination",
+    "lastUpdated": "2026-07-11T13:40:54Z",
+    "stars": 7,
+    "version": "1.18.1",
+    "minGameVersion": "154",
+    "hasIcon": false,
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Color each independent power grid on minimap/full map, show live power balance, detect split outages, and suggest reconnect links. / 在小地图与全图按电网分色显示，实时展示电力盈亏，检测断网并给出快速重连建议。"
+  },
+  {
+    "repo": "determination-wind/stealthpath",
+    "internalName": "stealth-path",
+    "name": "Stealth Path / 偷袭小道",
+    "author": "DeterMination",
+    "lastUpdated": "2026-07-11T13:41:50Z",
+    "stars": 7,
+    "version": "5.3.2",
+    "minGameVersion": "154",
+    "hasIcon": false,
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Plan safer assault routes by simulating turret/unit threat fields, then draw low-damage or nearest paths with auto-move support. / 基于炮塔与单位威胁场规划低伤或最近路线，支持自动移动与实时路径叠加。"
   },
   {
     "repo": "64-tesseract/erekir-logic-improved",
@@ -3728,20 +3728,6 @@
     "description": "一个新视界材质包使用了新的艺术风格\nA mod that makes the texture style of NewHorizon Mod. If Lao uses these textures in NewHorizon, this Mod will not update."
   },
   {
-    "repo": "determination-wind/more-details",
-    "internalName": "[more-details]更多描述",
-    "name": "More-details更多描述",
-    "author": "Determination",
-    "lastUpdated": "2025-10-24T13:10:50Z",
-    "stars": 5,
-    "version": "1.0",
-    "minGameVersion": "151",
-    "hasIcon": false,
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "模仿了学术端cyan字的效果，增加了几乎所有物品的下方灰字补充说明"
-  },
-  {
     "repo": "samielxd/unitnamermod",
     "internalName": "unit-namer",
     "name": "Unit Namer",
@@ -3894,6 +3880,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Liquid Industry Beta v0.25 for v159+"
+  },
+  {
+    "repo": "determination-wind/more-details",
+    "internalName": "[more-details]更多描述",
+    "name": "More-details更多描述",
+    "author": "Determination",
+    "lastUpdated": "2026-07-11T13:43:47Z",
+    "stars": 5,
+    "version": "1.0",
+    "minGameVersion": "151",
+    "hasIcon": false,
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "模仿了学术端cyan字的效果，增加了几乎所有物品的下方灰字补充说明"
   },
   {
     "repo": "mythril382/loudustry",
@@ -4568,20 +4568,6 @@
     "description": "Breathes life into Tantros, the planet Anuke has ceased working on. This mod is meant to faithfully recreate what Tantros could have been, had work not ceased."
   },
   {
-    "repo": "determination-wind/patchviewer",
-    "internalName": "patchviewer",
-    "name": "PatchViewer / 补丁查看器",
-    "author": "DeterMination",
-    "lastUpdated": "2026-07-08T12:13:29Z",
-    "stars": 4,
-    "version": "2.2.0",
-    "minGameVersion": "154",
-    "hasIcon": false,
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Inline and quick before/after diff viewer for Mindustry datapatches. / Mindustry 数据补丁的数据库与快捷差异查看器。"
-  },
-  {
     "repo": "rodrigoasfr24022003/rodrigonia-mod",
     "internalName": "rodrigonia",
     "name": "Rodrigonia",
@@ -4608,6 +4594,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A modern shaders mod for Mindustry."
+  },
+  {
+    "repo": "determination-wind/patchviewer",
+    "internalName": "patchviewer",
+    "name": "PatchViewer / 补丁查看器",
+    "author": "DeterMination",
+    "lastUpdated": "2026-07-11T13:40:22Z",
+    "stars": 4,
+    "version": "2.2.0",
+    "minGameVersion": "154",
+    "hasIcon": false,
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Inline and quick before/after diff viewer for Mindustry datapatches. / Mindustry 数据补丁的数据库与快捷差异查看器。"
   },
   {
     "repo": "mythril382/ammoswap",
@@ -6277,20 +6277,6 @@
     "description": "Some Superized Items! With Fun Stuffs!"
   },
   {
-    "repo": "determination-wind/color-the-duct",
-    "internalName": "color-the-ducts",
-    "name": "Color-the-ducts",
-    "author": "DeterMination",
-    "lastUpdated": "2026-02-20T10:18:37Z",
-    "stars": 2,
-    "version": "1.2.2",
-    "minGameVersion": "154",
-    "hasIcon": false,
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "纯客户端导管染色模组：为地图上液体导管在中心绘制液体颜色方块，便于快速识别运输中的液体。\\nClient-side liquid duct coloring: draws a centered liquid-colored square on each liquid duct to show what it currently transports."
-  },
-  {
     "repo": "salivion/nmod",
     "internalName": "nmod",
     "name": "nMod",
@@ -6359,6 +6345,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Far, far away from serpulo's sun, we have located a severe anomaly.\n\n    In the absence of a divine body to regulate our world, a thermal anomaly has popped up. \n    A single planet in the outskirts of its system. Initial scans expected a total of 1 joule of thermal energy in the entire object.\n\n    Later scans revealed that while the surface was still below what should be absolute 0, it possesses a warm and ressource rich core.\n\n    Land on it.\n    Survive the frost.\n    Exploit the core."
+  },
+  {
+    "repo": "nickseal80/mindustry-time-factor-2",
+    "internalName": "time-factor 2",
+    "name": "Time Factor 2",
+    "author": "Seal",
+    "lastUpdated": "2026-03-22T19:24:35Z",
+    "stars": 2,
+    "version": "2.2",
+    "minGameVersion": "154",
+    "hasIcon": false,
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Real-time speed control for Mindustry. Customize speed limits and reset instantly with a clean UI."
   },
   {
     "repo": "seraphalim4404/elemental-languages",
@@ -6669,20 +6669,6 @@
     "description": "Sync Mindustry schematics with GitHub, with auto push, pull/merge, and local-only filtering."
   },
   {
-    "repo": "determination-wind/foreignservertranslator",
-    "internalName": "foreign-server-translator",
-    "name": "Foreign Server Translator / 外语服务器翻译",
-    "author": "DeterMination (BEK)",
-    "lastUpdated": "2026-07-06T10:50:37Z",
-    "stars": 2,
-    "version": "1.2.0",
-    "minGameVersion": "157",
-    "hasIcon": false,
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Client-side translator for marked foreign-language Mindustry servers. / 标记外语服务器后自动翻译聊天的 Mindustry 客户端模组。"
-  },
-  {
     "repo": "muniine/scheme_plus",
     "internalName": "scheme_plus",
     "name": "Scheme+",
@@ -6739,20 +6725,6 @@
     "description": "A simple mod that allows server plugin developers to manage USIDs. After installation, a new button will appear in settings.\n\n This mod should not be used to bypass any kind of server restriction!"
   },
   {
-    "repo": "hamsterhat/world-of-dights",
-    "internalName": "number",
-    "name": "World of Dights",
-    "author": "[red]a[blue]l[white]ex[]",
-    "lastUpdated": "2026-07-10T16:57:22Z",
-    "stars": 2,
-    "version": "version.bin",
-    "minGameVersion": "146",
-    "hasIcon": false,
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "01010100 01001000 01001001 01010011 00100000 01001101 01001111 01000100 00100000 01011001 01010011 00100000 01001101 01001111 01000100 00100000 01000011 01010111 01000100 01000101 01000100 00100000 01000010 01011001 00100000 01100001 01101100 01100101 01111000 00100000 01000001 01001110 01000100 00100000 01101111 01110011 01100011 01101001 01101100 01101100 01100001 01110100 01101111 01110010 01101001 01110101 01101101"
-  },
-  {
     "repo": "m1cxzfw3q/thermal-engineering",
     "internalName": "temod",
     "name": "Thermal Engineering",
@@ -6793,6 +6765,48 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "[#ff5959]PREPARE YOURSELF!\n\n[#ffffff]A mod about [#ff5959]sword [#ffffff]& the 7 sword deities from PHIGHTING!\n\nCreate [#ff5959]swordium [#ffffff]& convert it into either [#70AC30]darkheartium, [#861C00]firebrandium, [#C2C2C2]ghostwalkerium, [#97CCE1]icedaggerium, [#E2BAF5]illuminaium, [#A4C360]venomshankium [#ffffff]or [#929EAE]windforceium!\n\n[#ffffff]There's multiple types of turrets, production buildings, units & even a mobile core that you can place down anywhere!\n\nWhat's special about this mod is that it can be utilized in either erekir, serpulo or any planet mod.\n[grey]provided said planet mod doesn't have set blocks.\n\n[red]note: this mod can be considered as unfair to some, but then again, play it your own way!"
+  },
+  {
+    "repo": "determination-wind/foreignservertranslator",
+    "internalName": "foreign-server-translator",
+    "name": "Foreign Server Translator / 外语服务器翻译",
+    "author": "DeterMination (BEK)",
+    "lastUpdated": "2026-07-11T13:40:25Z",
+    "stars": 2,
+    "version": "1.2.0",
+    "minGameVersion": "157",
+    "hasIcon": false,
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Client-side translator for marked foreign-language Mindustry servers. / 标记外语服务器后自动翻译聊天的 Mindustry 客户端模组。"
+  },
+  {
+    "repo": "determination-wind/color-the-duct",
+    "internalName": "color-the-ducts",
+    "name": "Color-the-ducts",
+    "author": "DeterMination",
+    "lastUpdated": "2026-07-11T13:42:05Z",
+    "stars": 2,
+    "version": "1.2.2",
+    "minGameVersion": "154",
+    "hasIcon": false,
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "纯客户端导管染色模组：为地图上液体导管在中心绘制液体颜色方块，便于快速识别运输中的液体。\\nClient-side liquid duct coloring: draws a centered liquid-colored square on each liquid duct to show what it currently transports."
+  },
+  {
+    "repo": "hamsterhat/world-of-dights",
+    "internalName": "number",
+    "name": "World of Dights",
+    "author": "[red]a[blue]l[white]ex[]",
+    "lastUpdated": "2026-07-11T14:16:43Z",
+    "stars": 2,
+    "version": "version.bin",
+    "minGameVersion": "146",
+    "hasIcon": false,
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "01010100 01001000 01001001 01010011 00100000 01001101 01001111 01000100 00100000 01011001 01010011 00100000 01001101 01001111 01000100 00100000 01000011 01010111 01000100 01000101 01000100 00100000 01000010 01011001 00100000 01100001 01101100 01100101 01111000 00100000 01000001 01001110 01000100 00100000 01101111 01110011 01100011 01101001 01101100 01101100 01100001 01110100 01101111 01110010 01101001 01110101 01101101"
   },
   {
     "repo": "manuwar73/remodeled-industry-expansion",
@@ -7845,6 +7859,20 @@
     "description": "Content patcher for PiggyChu620 mods"
   },
   {
+    "repo": "zinwire/mine-dust",
+    "internalName": "md",
+    "name": "Mine Dust",
+    "author": "mamasha",
+    "lastUpdated": "2026-02-10T19:51:43Z",
+    "stars": 1,
+    "version": "alpha",
+    "minGameVersion": "146",
+    "hasIcon": false,
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Vanila+ type mod\nHis telegram: https://t.me/MineDustMod"
+  },
+  {
     "repo": "urbokie/tankdustry",
     "internalName": "tankdustry",
     "name": "TankDustry",
@@ -7857,62 +7885,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Real tank in Mindustry???"
-  },
-  {
-    "repo": "determination-wind/betterminimap",
-    "internalName": "betterminimap",
-    "name": "betterMiniMap",
-    "author": "DeterMination",
-    "lastUpdated": "2026-02-20T10:18:38Z",
-    "stars": 1,
-    "version": "1.1.2",
-    "minGameVersion": "154",
-    "hasIcon": false,
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Enhanced minimap overlay with directional unit icons, smart unit clustering, and optional building markers with team-aware filters. / 提供带朝向的单位图标、智能单位聚合与可筛选建筑标记的小地图增强层。"
-  },
-  {
-    "repo": "determination-wind/bettermapeditor",
-    "internalName": "bettermapeditor",
-    "name": "BetterMapEditor",
-    "author": "DeterMination",
-    "lastUpdated": "2026-02-20T10:18:40Z",
-    "stars": 1,
-    "version": "1.1.2",
-    "minGameVersion": "154",
-    "hasIcon": false,
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Map generator mirror-axis enhancement: drag mirror pivots directly in preview and update symmetry in real time. / 增强地图生成器镜像轴：可在预览中直接拖拽轴心并实时更新对称效果。"
-  },
-  {
-    "repo": "determination-wind/betterprojectoroverlay",
-    "internalName": "betterprojectoroverlay",
-    "name": "BetterProjectorOverlay",
-    "author": "DeterMination",
-    "lastUpdated": "2026-02-20T10:18:43Z",
-    "stars": 1,
-    "version": "1.2.2",
-    "minGameVersion": "154",
-    "hasIcon": false,
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Predict overdrive placement impact on power balance, scan and mark conflicting projectors, and provide optional chat/map warnings. / 预判超速投影放置后的电网盈亏，扫描并标记冲突投影，支持聊天与地图提示。"
-  },
-  {
-    "repo": "determination-wind/areacleaner",
-    "internalName": "areacleaner",
-    "name": "AreaCleaner",
-    "author": "DeterMination",
-    "lastUpdated": "2026-02-20T12:51:58Z",
-    "stars": 1,
-    "version": "1.0.0",
-    "minGameVersion": "154",
-    "hasIcon": false,
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Hold a hotkey to drag a rectangle, then queue RTS commands for selected units to clear enemy buildings inside that area."
   },
   {
     "repo": "unionofsovietsocialistrepublics/unfog",
@@ -8012,20 +7984,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Extends your UI with useful features."
-  },
-  {
-    "repo": "nickseal80/mindustry-time-factor-2",
-    "internalName": "time-factor 2",
-    "name": "Time Factor 2",
-    "author": "Seal",
-    "lastUpdated": "2026-03-22T19:24:35Z",
-    "stars": 1,
-    "version": "2.2",
-    "minGameVersion": "154",
-    "hasIcon": false,
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Real-time speed control for Mindustry. Customize speed limits and reset instantly with a clean UI."
   },
   {
     "repo": "ovulam5480/media2logic",
@@ -8770,20 +8728,6 @@
     "description": "Provides tools for easier debugging in Mindustry Logic."
   },
   {
-    "repo": "determination-wind/tripwire",
-    "internalName": "tripwire",
-    "name": "Tripwire",
-    "author": "DeterMination",
-    "lastUpdated": "2026-06-28T10:04:19Z",
-    "stars": 1,
-    "version": "1.1.0",
-    "minGameVersion": "154",
-    "hasIcon": false,
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Tripwire geofence alerts for Mindustry. Mindustry 地理围栏报警模组。"
-  },
-  {
     "repo": "zion8992/zion-music",
     "internalName": "zion-music",
     "name": "Zion's Music",
@@ -9078,20 +9022,6 @@
     "description": "[kk]Mindustry ойынының толық қазақ тіліндегі аудармасы. Барлық мәтіндер, блоктар, юниттер, интерфейс және логикалық нұсқаулар аударылған.\nОрнатқаннан кейін Settings → Language → Қазақша таңдаңыз.\r\n[RU]Полный казахский перевод игры Mindustry. Переведены все тексты, блоки, юниты, интерфейс и логические инструкции.\nПосле установки выберите Settings → Language → Қазақша.\r\n[ENG]Full Kazakh translation of Mindustry. All texts, blocks, units, interface and logic instructions are translated.\nAfter installation, select Settings → Language → Қазақша."
   },
   {
-    "repo": "determination-wind/pinyinsearchsupport",
-    "internalName": "pinyin-search-support",
-    "name": "PinyinSearchSupport / 拼音搜索支持",
-    "author": "DeterMination",
-    "lastUpdated": "2026-07-08T12:19:34Z",
-    "stars": 1,
-    "version": "2.3.0",
-    "minGameVersion": "154",
-    "hasIcon": false,
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Type pinyin in search fields to match Chinese names. / 在搜索框输入拼音匹配中文项。"
-  },
-  {
     "repo": "chax0180/challenge-additions",
     "internalName": "chad",
     "name": "Challenge Additions",
@@ -9118,20 +9048,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "пока ни шиша, так как [accent]жернова[]\n[accent]Special thanks to: деградация[]"
-  },
-  {
-    "repo": "determination-wind/betterlogisticsspeed",
-    "internalName": "betterlogisticsspeed",
-    "name": "betterLogisticsSpeed",
-    "author": "DeterMination",
-    "lastUpdated": "2026-07-09T03:46:33Z",
-    "stars": 1,
-    "version": "2.0.0",
-    "minGameVersion": "154",
-    "hasIcon": false,
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Add long-window moving-average logistics speed rows under vanilla item speed display. / 在原版物流速度显示下方追加长窗口滑动平均行。"
   },
   {
     "repo": "foxelling/unit-loader",
@@ -9218,11 +9134,25 @@
     "description": "Adds many things for Serpulo like for example aircraft or nuclear technology! Highly ambitious project."
   },
   {
+    "repo": "determination-wind/betterterraingen-v2",
+    "internalName": "betterterraingen-v2",
+    "name": "Better Terrain Gen V2 / 更自然的地形生成 V2",
+    "author": "DeterMination-Wind",
+    "lastUpdated": "2026-07-11T13:39:44Z",
+    "stars": 1,
+    "version": "1.0.0",
+    "minGameVersion": "159",
+    "hasIcon": false,
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a Natural Water filter to the map editor terrain generator. / 在地图编辑器地形生成器中添加自然水体滤镜。"
+  },
+  {
     "repo": "determination-wind/mobilejoystickcontrol",
     "internalName": "mobilejoystickcontrol",
     "name": "Mobile Joystick Control 移动摇杆操控",
     "author": "DeterMination",
-    "lastUpdated": "2026-07-11T12:33:20Z",
+    "lastUpdated": "2026-07-11T13:40:05Z",
     "stars": 1,
     "version": "1.1.0",
     "minGameVersion": "154",
@@ -9230,6 +9160,104 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Minecraft PE style mobile joystick control for player units with movement scaling, boost toggle, and dual/single-stick shooting modes. / 提供类似 Minecraft 手机端的摇杆操控：按幅度移动、Boost 切换、双摇杆或单摇杆开火。"
+  },
+  {
+    "repo": "determination-wind/betterlogisticsspeed",
+    "internalName": "betterlogisticsspeed",
+    "name": "betterLogisticsSpeed",
+    "author": "DeterMination",
+    "lastUpdated": "2026-07-11T13:40:17Z",
+    "stars": 1,
+    "version": "2.0.0",
+    "minGameVersion": "154",
+    "hasIcon": false,
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Add long-window moving-average logistics speed rows under vanilla item speed display. / 在原版物流速度显示下方追加长窗口滑动平均行。"
+  },
+  {
+    "repo": "determination-wind/pinyinsearchsupport",
+    "internalName": "pinyin-search-support",
+    "name": "PinyinSearchSupport / 拼音搜索支持",
+    "author": "DeterMination",
+    "lastUpdated": "2026-07-11T13:40:20Z",
+    "stars": 1,
+    "version": "2.3.0",
+    "minGameVersion": "154",
+    "hasIcon": false,
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Type pinyin in search fields to match Chinese names. / 在搜索框输入拼音匹配中文项。"
+  },
+  {
+    "repo": "determination-wind/tripwire",
+    "internalName": "tripwire",
+    "name": "Tripwire",
+    "author": "DeterMination",
+    "lastUpdated": "2026-07-11T13:40:44Z",
+    "stars": 1,
+    "version": "1.1.0",
+    "minGameVersion": "154",
+    "hasIcon": false,
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Tripwire geofence alerts for Mindustry. Mindustry 地理围栏报警模组。"
+  },
+  {
+    "repo": "determination-wind/areacleaner",
+    "internalName": "areacleaner",
+    "name": "AreaCleaner",
+    "author": "DeterMination",
+    "lastUpdated": "2026-07-11T13:41:43Z",
+    "stars": 1,
+    "version": "1.0.0",
+    "minGameVersion": "154",
+    "hasIcon": false,
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Hold a hotkey to drag a rectangle, then queue RTS commands for selected units to clear enemy buildings inside that area."
+  },
+  {
+    "repo": "determination-wind/betterprojectoroverlay",
+    "internalName": "betterprojectoroverlay",
+    "name": "BetterProjectorOverlay",
+    "author": "DeterMination",
+    "lastUpdated": "2026-07-11T13:41:53Z",
+    "stars": 1,
+    "version": "1.2.2",
+    "minGameVersion": "154",
+    "hasIcon": false,
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Predict overdrive placement impact on power balance, scan and mark conflicting projectors, and provide optional chat/map warnings. / 预判超速投影放置后的电网盈亏，扫描并标记冲突投影，支持聊天与地图提示。"
+  },
+  {
+    "repo": "determination-wind/bettermapeditor",
+    "internalName": "bettermapeditor",
+    "name": "BetterMapEditor",
+    "author": "DeterMination",
+    "lastUpdated": "2026-07-11T13:41:56Z",
+    "stars": 1,
+    "version": "1.1.2",
+    "minGameVersion": "154",
+    "hasIcon": false,
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Map generator mirror-axis enhancement: drag mirror pivots directly in preview and update symmetry in real time. / 增强地图生成器镜像轴：可在预览中直接拖拽轴心并实时更新对称效果。"
+  },
+  {
+    "repo": "determination-wind/betterminimap",
+    "internalName": "betterminimap",
+    "name": "betterMiniMap",
+    "author": "DeterMination",
+    "lastUpdated": "2026-07-11T13:42:00Z",
+    "stars": 1,
+    "version": "1.1.2",
+    "minGameVersion": "154",
+    "hasIcon": false,
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Enhanced minimap overlay with directional unit icons, smart unit clustering, and optional building markers with team-aware filters. / 提供带朝向的单位图标、智能单位聚合与可筛选建筑标记的小地图增强层。"
   },
   {
     "repo": "pasu4/ridiculously-oversized",
@@ -10756,20 +10784,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "this mode is created by my sick mind [#a2a3a4] ([red]WARNING![#a2a3a4] This mod is not intended for the game as it is still in development) <current version 0.1>"
-  },
-  {
-    "repo": "zinwire/mine-dust",
-    "internalName": "md",
-    "name": "Mine Dust",
-    "author": "mamasha",
-    "lastUpdated": "2026-02-10T19:51:43Z",
-    "stars": 0,
-    "version": "alpha",
-    "minGameVersion": "146",
-    "hasIcon": false,
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Vanila+ type mod\nHis telegram: https://t.me/MineDustMod"
   },
   {
     "repo": "wabbitking1234/cwalr",
