@@ -330,7 +330,7 @@
     "stars": 69,
     "version": "3.2",
     "minGameVersion": "157.1",
-    "hasIcon": false,
+    "hasIcon": true,
     "hasScripts": false,
     "hasJava": true,
     "description": "An auxiliary mod that provides you with quick retrieval of production and collection guidance information for materials, units, buildings, minerals, etc., so that you are no longer overwhelmed by installing too many mods.\n\n---\n\n一个辅助mod，为您提供快速检索材料，单位，建筑和矿物等的生产与采集引导信息，让您不再因为安装了太多mod而不知所措"
@@ -505,20 +505,6 @@
     "description": "[accent]An experimental RTS mod. Features a rich environment and a unique cast of enemies to fight.[]\n\nTrudge through Ikaru, home to [#ea9ad6]Meld[]. Salvage the remains of previous incursions. Fend off the wildlife.\n\nPlay as a field commander. Rally tierless specialists to push back the flood of constructs.\n\n[red]DEFEND, TAKE GROUND, HARVEST, REPEAT[]\n\n[accent]Campaign is a demo for what's to come. Refer to the custom game maps once you've finished.\n\nThis type of project takes lots of time to develop so if you wana know what's happening with the mod, join the Mindustry discord server and look for Meld in the fourm thread :D\n\nAlternatively, join the Meld discord server!\nhttps://discord.gg/eNynvuJXud[]\n\nTranslated to Russian by: Dovintc\nCompletion: ~6%\n"
   },
   {
-    "repo": "itskirby69/minedusty",
-    "internalName": "",
-    "name": "MineDusty",
-    "author": "[acid]It[#EAF43C]sK[#B3F490]ir[cyan]by",
-    "lastUpdated": "2026-06-28T18:22:19Z",
-    "stars": 44,
-    "version": "1.2.0",
-    "minGameVersion": "158.1",
-    "hasIcon": true,
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "[#fadf87]A java mod by [white]ItsKirby69 [gray](thats me!)[#fadf87] which introduces a new [acid]planet[#fadf87], many expansive [acid]biomes[#fadf87], and a wide variety of [acid]plant life!\n\n[#fadf87]Please note that this mod is [red]UNFINISHED[#fadf87]! However, development is active with new updates expanding the mod!"
-  },
-  {
     "repo": "00sunray00/scheme-size-port",
     "internalName": "scheme-size",
     "name": "Scheme Size Port",
@@ -531,6 +517,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "\nA mod that increases the schematic size limit to 512 blocks! Adds admins, renderer and building tools. Has an updater, keybinds and AI support.\nThis mod is not the original port of Scheme Size — it is a custom port. The developer of the original mod is not involved in this in any way.\n!!!ATTENTION: VERSIONS BELOW v156 ARE NOT SUPPORTED!!!\nVanilla Only!\n\n   - Release!\n   - Settings\n   - Java 8\n   - Controls\n   - Updater\n   - Mobile Support\n   - Admins Tools\n   - CLaJ v2\n\n   - Building Tools\n   - AI Power\n   - Renderer Tools\n   - Deep Cleaning\n   - Schematic Shortcuts\n   - Cursed Schematics\n   - Advanced Dev Console\n   - Rule setter\n"
+  },
+  {
+    "repo": "itskirby69/minedusty",
+    "internalName": "",
+    "name": "MineDusty",
+    "author": "[acid]It[#EAF43C]sK[#B3F490]ir[cyan]by",
+    "lastUpdated": "2026-07-11T20:20:22Z",
+    "stars": 44,
+    "version": "1.2.2",
+    "minGameVersion": "158.1",
+    "hasIcon": true,
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "[#fadf87]A java mod by [white]ItsKirby69 [gray](thats me!)[#fadf87] which introduces a new [acid]planet[#fadf87], many expansive [acid]biomes[#fadf87], and a wide variety of [acid]plant life!\n\n[#fadf87]Please note that this mod is [red]UNFINISHED[#fadf87]! However, development is active with new updates expanding the mod!"
   },
   {
     "repo": "ferlern/extended-ui-v7",
@@ -3014,20 +3014,6 @@
     "description": "\nRU\nМод добавляет Схемы для модификации New Horizon. Тег: NH\n\nENG\nThe mod adds Schematics for the New Horizon modification. Tag: NH\nMy Discord: silinveredno_edmstep\n"
   },
   {
-    "repo": "bsp-2/factory-simulator",
-    "internalName": "factory-sim",
-    "name": "The Factory Must Grow",
-    "author": "Thinkerdoodle",
-    "lastUpdated": "2026-07-08T14:39:25Z",
-    "stars": 7,
-    "version": "v4.0",
-    "minGameVersion": "158.1",
-    "hasIcon": true,
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A recreation of a game called Factory Simulator.\nRequires multicrafter lib. "
-  },
-  {
     "repo": "nannerbz/frires-json-library",
     "internalName": "frires-json-lib",
     "name": "FrireDragon's Json Lib",
@@ -3084,6 +3070,20 @@
     "description": "Plan safer assault routes by simulating turret/unit threat fields, then draw low-damage or nearest paths with auto-move support. / 基于炮塔与单位威胁场规划低伤或最近路线，支持自动移动与实时路径叠加。"
   },
   {
+    "repo": "bsp-2/factory-simulator",
+    "internalName": "factory-sim",
+    "name": "The Factory Must Grow",
+    "author": "Thinkerdoodle",
+    "lastUpdated": "2026-07-11T18:53:05Z",
+    "stars": 7,
+    "version": "v4.0",
+    "minGameVersion": "158.1",
+    "hasIcon": true,
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A recreation of a game called Factory Simulator.\nRequires multicrafter lib. "
+  },
+  {
     "repo": "64-tesseract/erekir-logic-improved",
     "internalName": "erekir-logic-improved",
     "name": "Erekir Logic Improved",
@@ -3138,6 +3138,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Compress all the things! new conveyors, walls, crafters and more! \n\nCheck out the discord if you have any ideas or issues --> [#2469D6]https://discord.gg/Rfr2s8bQd9\n[#FFFFFF]\n(Please be patient with updates, as I have no f@*#ing clue what im doing!)\n\nEnjoy :)\n\nAnd thanks to [#ffae00]Alex[#ffffff] for encouraging me with making this mod, and supporting my ideas!"
+  },
+  {
+    "repo": "stonesteel27/mobile-controls",
+    "internalName": "mobile_controls",
+    "name": "Mobile-Controls",
+    "author": "StoneSteel/MoltenSteel",
+    "lastUpdated": "2024-05-17T08:26:19Z",
+    "stars": 6,
+    "version": "2.0.0",
+    "minGameVersion": "136",
+    "hasIcon": false,
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Mindustry mod that gives mobile users to opportunity use desktop controls.\nAuthor Discord: moltensteel"
   },
   {
     "repo": "rodriguelemaire/black-hole-sun",
@@ -3544,20 +3558,6 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "!Warning!\nUses dependencies \"multi-crafter\"\n\nAnother planet mod.\nAdding Venus to the solar system.  \nThis is another project for no reason.\n\nI'm developing this project as a excercise for my knowledge and know more.\n\nMOD STILL IN DEMO"
-  },
-  {
-    "repo": "stonesteel27/mobile-controls",
-    "internalName": "mobile_controls",
-    "name": "Mobile-Controls",
-    "author": "StoneSteel/MoltenSteel",
-    "lastUpdated": "2024-05-17T08:26:19Z",
-    "stars": 5,
-    "version": "2.0.0",
-    "minGameVersion": "136",
-    "hasIcon": false,
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Mindustry mod that gives mobile users to opportunity use desktop controls.\nAuthor Discord: moltensteel"
   },
   {
     "repo": "ilya246/mindustry10x",
@@ -5441,7 +5441,7 @@
     "internalName": "beepdustry",
     "name": "BEEPDUSTRY",
     "author": "DNAlly/penguip",
-    "lastUpdated": "2026-07-10T22:47:10Z",
+    "lastUpdated": "2026-07-11T18:54:10Z",
     "stars": 3,
     "version": "0.6ish?",
     "minGameVersion": "159",
@@ -5455,7 +5455,7 @@
     "internalName": "sword-deities-mod",
     "name": "PHIGHTING! SWORD DEITIES",
     "author": "BlueDoves3821",
-    "lastUpdated": "2026-07-11T15:52:58Z",
+    "lastUpdated": "2026-07-11T19:23:44Z",
     "stars": 3,
     "version": "1.6",
     "minGameVersion": "136.1",
@@ -5469,7 +5469,7 @@
     "internalName": "volta-protocol",
     "name": "Volta Protocol",
     "author": "Leinad (discord: danizzq)",
-    "lastUpdated": "2026-07-11T17:27:07Z",
+    "lastUpdated": "2026-07-11T20:28:49Z",
     "stars": 3,
     "version": "0.6",
     "minGameVersion": "158",
@@ -6813,7 +6813,7 @@
     "internalName": "number",
     "name": "World of Dights",
     "author": "[red]a[blue]l[white]ex[]",
-    "lastUpdated": "2026-07-11T15:11:57Z",
+    "lastUpdated": "2026-07-11T20:01:42Z",
     "stars": 2,
     "version": "version.bin",
     "minGameVersion": "146",
@@ -8896,20 +8896,6 @@
     "description": "Automatically fills nearby item turrets with the best ammo from your carried items or the closest core. Toggle with F4; configure ammo priorities in Settings > Turret Auto Fill."
   },
   {
-    "repo": "vini230909/vinicator",
-    "internalName": "hideyourunit",
-    "name": "Hide Units",
-    "author": "Vini230909",
-    "lastUpdated": "2026-07-04T07:08:42Z",
-    "stars": 1,
-    "version": "1.0",
-    "minGameVersion": "158",
-    "hasIcon": false,
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Hides or fades units near your player, cursor, or camera so you can see what's underneath. Configure range, opacity and affected unit types in Settings > Vinicator."
-  },
-  {
     "repo": "vkazee/force-landscape",
     "internalName": "force-landscape-toggle",
     "name": "Force Landscape Toggle",
@@ -9258,6 +9244,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds many things for Serpulo like for example aircraft or nuclear technology! Highly ambitious project."
+  },
+  {
+    "repo": "vini230909/hide-units",
+    "internalName": "hide-units",
+    "name": "Hide-Units",
+    "author": "Vini230909",
+    "lastUpdated": "2026-07-11T19:51:27Z",
+    "stars": 1,
+    "version": "1.1",
+    "minGameVersion": "158",
+    "hasIcon": false,
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Hides or fades units near your player, cursor, or camera so you can see the blocks underneath. Configure range, opacity and affected unit types in Settings > Hide-Units."
   },
   {
     "repo": "pasu4/ridiculously-oversized",
