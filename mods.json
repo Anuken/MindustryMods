@@ -368,7 +368,7 @@
     "internalName": "exoprosopa",
     "name": "Exoprosopa",
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-07-09T01:47:44Z",
+    "lastUpdated": "2026-07-12T00:50:36Z",
     "stars": 61,
     "version": "0.91",
     "minGameVersion": "159",
@@ -425,7 +425,7 @@
     "internalName": "sw",
     "name": "Steam Works",
     "author": "Liz Aurora",
-    "lastUpdated": "2026-07-11T15:29:36Z",
+    "lastUpdated": "2026-07-12T01:01:39Z",
     "stars": 48,
     "version": "2",
     "minGameVersion": "159",
@@ -523,7 +523,7 @@
     "internalName": "",
     "name": "MineDusty",
     "author": "[acid]It[#EAF43C]sK[#B3F490]ir[cyan]by",
-    "lastUpdated": "2026-07-11T20:20:22Z",
+    "lastUpdated": "2026-07-11T23:21:45Z",
     "stars": 44,
     "version": "1.2.2",
     "minGameVersion": "158.1",
@@ -856,20 +856,6 @@
     "description": "Mod that added things that should be in the original game and some are just added for convenience sake\n\nFrench translation by Noxenemerus Lunacor"
   },
   {
-    "repo": "itzcraft/hjsonpp",
-    "internalName": "hjsonpp",
-    "name": "hjson++",
-    "author": "ItzCraft & Sputnuc\nContributors: Photon_gravity",
-    "lastUpdated": "2026-07-07T20:55:20Z",
-    "stars": 25,
-    "version": "1.21",
-    "minGameVersion": "157",
-    "hasIcon": true,
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Adds some new additional classes to help hjson modders. \nNote: this a library. Not playable mod."
-  },
-  {
     "repo": "dustdustry/patcheditor",
     "internalName": "patch-editor",
     "name": "PatchEditor",
@@ -882,6 +868,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Provide an in-game GUI for DataPatcher."
+  },
+  {
+    "repo": "itzcraft/hjsonpp",
+    "internalName": "hjsonpp",
+    "name": "hjson++",
+    "author": "ItzCraft & Sputnuc\nContributors: Photon_gravity",
+    "lastUpdated": "2026-07-12T00:43:22Z",
+    "stars": 25,
+    "version": "1.21",
+    "minGameVersion": "157",
+    "hasIcon": true,
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds some new additional classes to help hjson modders. \nNote: this a library. Not playable mod."
   },
   {
     "repo": "rednzba990/warboundindustriesmod",
@@ -1403,20 +1403,6 @@
     "description": "Your schemes and saves are prone to corruption. Export your data before updating.\n\nAn extremely large mod solely dedicated for mindustry roleplaying and builds alike.\n\nQRM V7.1 aims to fix most of the bugs found after v7's release.\nQRM v7 Changelog:\nAdded\n- Beveled sorters, Highlighted sorters, and Unloader Two chiseled sets\n- Way, way more chiseled diagonal variants \n- Chiseled diagonal duct router and bezeled sets\n- Hazel, Tyrian, Royal, Terracotta, Pale, Graphene Walls\n- Ash and Alternate sand and red sand env walls \n- RGBCMY + White, Black Overlay floors\n- CMY, Sorter gray + Source yellow floors\n- Thunder, Windstorm, Thunderstorm, Rain and Ping SFX blocks\n- Void messages\n- Vials readded\n- Message blocks that look like RP books\n- [WIP] Particle gen with changeable colours via ammo\n- Powerline Blockers (invisible plast walls)\n- Arrow block that looks like a logic block (Path Cell)\n- Ritual circles\n\nFixed\n- Large slate message being omega\n- Flat surge router is flat unloader\n- Stone colour walls being named snow\n- Cruiser being implemented\n- Slower emanates\n- All unit building\n- Rocky en stairs being offset\n- Config mender now a unloader\n- Config nodes having glow\n- Unloader two a sorter now\n- Revert noise sorter changes, now unlegacy'd\n\nQRM v7.1 Changelog\nFixed\n- Bezeled chiseled side-line being offset\n- Transperant, white, black item source having the wrong name\n- Liquid router source not having a texture\n- Particle generators not being invisible \n- Normal, inverted, highlight, bezel, spectral, source centered corners, diagonal router corner 3 being offset\n- Config stuff not being flat\n- Sorter gray colour 5 being olive\n- Open Item Vial not being able to rotate\n- Full liquid vials being able to rotate, even they can't visually\n- Books resprite\n\nAdded\n- Borderless item source (for SFX turrets)\n- Flat beveled, highlight sorters\n- More books\n- Duct router catears\n\nRemoved\n- Extra surge router slope corner\n\nVersion v7.1 "
   },
   {
-    "repo": "bttodi/virtuality",
-    "internalName": "virtuality",
-    "name": "Virtuality",
-    "author": "bttodi",
-    "lastUpdated": "2026-05-26T09:31:50Z",
-    "stars": 15,
-    "version": "v8-misanthrope",
-    "minGameVersion": "157.4",
-    "hasIcon": true,
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "A mod centered around fighting bosses, with a focus on pattern-based attacks. Entirely detached from Mindustry's traditional gameplay loop - The Virtuality Archives restrains the player in a measly vessel and pits them against encoded entities. Does not utilize scripts or Java, seeking to explore the technical scope of (H)JSON and MLOG. Best experienced with a mouse and keyboard.\n\nCurrently features [red]6/7[] planned bosses in the campaign - Candor, Ardent & Argent, Pandemonium, Misanthrope, Nyx, and Alluvion.\n\n[accent][i] In the campaign, Misanthrope's sector currently does not behave as intended for the latest stable build. Play the sector in Custom Game or build 157.4."
-  },
-  {
     "repo": "martian238/vanilla-expansion-mod",
     "internalName": "ve",
     "name": "Vanilla Expansion",
@@ -1443,6 +1429,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "OP Things is a mod that makes the game easier, but isn't a hack.\n\n[#FF0000]WARNING: A lot of the mod things are just some shit. See more on readme.md on github"
+  },
+  {
+    "repo": "bttodi/virtuality",
+    "internalName": "virtuality",
+    "name": "Virtuality",
+    "author": "bttodi",
+    "lastUpdated": "2026-07-12T00:26:18Z",
+    "stars": 15,
+    "version": "v8-misanthrope-fix",
+    "minGameVersion": "159",
+    "hasIcon": true,
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A mod centered around fighting bosses, with a focus on pattern-based attacks. Entirely detached from Mindustry's traditional gameplay loop - The Virtuality Archives restrains the player in a measly vessel and pits them against encoded entities. Does not utilize scripts or Java, seeking to explore the technical scope of (H)JSON and MLOG. Best experienced with a mouse and keyboard.\n\nCurrently features [red]6/7[] planned bosses in the campaign - Candor, Ardent & Argent, Pandemonium, Misanthrope, Nyx, and Alluvion."
   },
   {
     "repo": "yal-game-things/mindustry-tiny-things",
@@ -1793,6 +1793,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "This planet is cold and therefore you will have to use aluminum and crystals to keep your buildings from freezing.."
+  },
+  {
+    "repo": "jojofr1/multicrafter",
+    "internalName": "multicrafter",
+    "name": "MultiCrafter",
+    "author": "Jojo\n[gray]Original Author:[]\nLiplum\n[gray]Icon:[]\nPatou",
+    "lastUpdated": "2026-06-27T03:19:28Z",
+    "stars": 12,
+    "version": "1.3.0",
+    "minGameVersion": "158",
+    "hasIcon": true,
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A library for mods that allows you to create factories with [yellow]multiple recipes[] in a single block.\n\n[lightgray]Official port and rewrite of the original library [gray]MutliCrafterLib[].[]\n\n[red]⚠[] Does [red]NOT[] add any content on its own, but is [gold]required[] for mods that want to use the library."
   },
   {
     "repo": "tinport/tinport-serpulo-resprites",
@@ -2171,20 +2185,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "If something deforms your body beyond recognition and takes away your mind, will it still be you?... \n \n A fast-paced mod with a variety of enemies, bosses and strange gameplay decisions! Right now there are 4 sectors out of 12! also There are still some unfinished things in here. \n Code - SpaceTwoo. \n Maps - SpaceTwoo SKYPETR, Lewiafan ROVO. \n Sprites - SpaceTwoo, ArtmX, Bloody-Ocean \n Other - Closed_Ink, Gribdius."
-  },
-  {
-    "repo": "jojofr1/multicrafter",
-    "internalName": "multicrafter",
-    "name": "MultiCrafter",
-    "author": "Jojo\n[gray]Original Author:[]\nLiplum\n[gray]Icon:[]\nPatou",
-    "lastUpdated": "2026-06-27T03:19:28Z",
-    "stars": 10,
-    "version": "1.3.0",
-    "minGameVersion": "158",
-    "hasIcon": true,
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "A library for mods that allows you to create factories with [yellow]multiple recipes[] in a single block.\n\n[lightgray]Official port and rewrite of the original library [gray]MutliCrafterLib[].[]\n\n[red]⚠[] Does [red]NOT[] add any content on its own, but is [gold]required[] for mods that want to use the library."
   },
   {
     "repo": "wantechfan/mindustry-cool-musics",
@@ -5437,20 +5437,6 @@
     "description": "A companion mod for Kotlin based mods and plugins."
   },
   {
-    "repo": "leinadhq/voltaprotocolmod",
-    "internalName": "volta-protocol",
-    "name": "Volta Protocol",
-    "author": "Leinad (discord: danizzq)",
-    "lastUpdated": "2026-07-11T20:28:49Z",
-    "stars": 3,
-    "version": "0.6",
-    "minGameVersion": "158",
-    "hasIcon": true,
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "\n[accent]Languages/Idiomas: EN / ES \n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla y mi nuevo planeta (el planeta aun esta en desarrollo). \n\n[white]Este mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de materiales, unidades, sistemas de transporte, torretas y sus municiones. \n\n[accent]Changelog / Novedades v0.6:\n[lightgray]• New sprites (working on the missing sprites).\n• New air-based liquid transport system (V1).\n• New repair and construction blocks.\n• Planet sector generation finally works, but it needs quite a few improvements.\n• New ring generation for the planet (the New Horizons Dyson Sphere/Ring generator was used as a reference).\n\n[accent]Contenido: \n[white]·1 nuevo planeta y 1 sector de prueba \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros \n[white]· 2 bloques para el transporte aereo de liquidos (Cargador, descargador y dron de transporte) \n[white]· 1 torreta de construccion y 1 proyector de reparación \n[white]·4 taladros. \n[white]·11 fabricas \n[white]·2 generadores \n[white]·3 cinta de transporte (familia palladium duct: duct, router, bridge and junction) \n[white]·7 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Gier: Revitalized, Warbound Industries, [Better Vanilla], simple additions y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
-  },
-  {
     "repo": "penguip/a-mindustry-mod",
     "internalName": "beepdustry",
     "name": "BEEPDUSTRY",
@@ -5477,6 +5463,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "[#ff5959]PREPARE YOURSELF!\n\n[#ffffff]A mod about [#ff5959]sword [#ffffff]& the 7 sword deities from PHIGHTING!\n\nCreate [#ff5959]swordium [#ffffff]& convert it into either [#70AC30]darkheartium, [#861C00]firebrandium, [#C2C2C2]ghostwalkerium, [#97CCE1]icedaggerium, [#E2BAF5]illuminaium, [#A4C360]venomshankium [#ffffff]or [#929EAE]windforceium!\n\n[#ffffff]There's multiple types of turrets, production buildings, units & even a mobile core that you can place down anywhere!\n\nWhat's special about this mod is that it can be utilized in either erekir, serpulo or any planet mod.\n[grey]provided said planet mod doesn't have set blocks.\n\n[red]note: this mod can be considered as unfair to some, but then again, play it your own way!"
+  },
+  {
+    "repo": "leinadhq/voltaprotocolmod",
+    "internalName": "volta-protocol",
+    "name": "Volta Protocol",
+    "author": "Leinad (discord: danizzq)",
+    "lastUpdated": "2026-07-12T00:56:21Z",
+    "stars": 3,
+    "version": "0.6",
+    "minGameVersion": "158",
+    "hasIcon": true,
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "\n[accent]Languages/Idiomas: EN / ES \n[white]Un mod creado por mí con el propósito de lograr agregar contenido que podrian ser útil en el modo vanilla y mi nuevo planeta (el planeta aun esta en desarrollo). \n\n[white]Este mod se centra principalmente en la creacion de tecnología en base a la energía y materiales conductores, y la utilizacion de estos recursos para la creacion de materiales, unidades, sistemas de transporte, torretas y sus municiones. \n\n[accent]Changelog / Novedades v0.6:\n[lightgray]• New sprites (working on the missing sprites).\n• New air-based liquid transport system (V1).\n• New repair and construction blocks.\n• Planet sector generation finally works, but it needs quite a few improvements.\n• New ring generation for the planet (the New Horizons Dyson Sphere/Ring generator was used as a reference).\n\n[accent]Contenido: \n[white]·1 nuevo planeta y 1 sector de prueba \n[white]·5 materiales \n[white]·3 liquidos \n[white]·6 muros \n[white]· 2 bloques para el transporte aereo de liquidos (Cargador, descargador y dron de transporte) \n[white]· 1 torreta de construccion y 1 proyector de reparación \n[white]·4 taladros. \n[white]·11 fabricas \n[white]·2 generadores \n[white]·3 cinta de transporte (familia palladium duct: duct, router, bridge and junction) \n[white]·7 torretas \n[white]·6 fabricas de unidades \n[white]·8 unidades. \n\n[grey]Por ahora el mod fue probado mientras se utilizaban mods como Gier: Revitalized, Warbound Industries, [Better Vanilla], simple additions y Mindustry Tool. \n\n[lightgray] [accent]Nota de Compatibilidad: [lightgray]Si usas Mods grandes (como New Horizon) y sus bloques desaparecen del menú, ve a la lista de mods, desactiva Volta Protocol, reactívalo (esto lo moverá al final del orden de carga) y reinicia el juego."
   },
   {
     "repo": "rintadev5792/arcane-mindustry",
