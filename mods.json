@@ -144,9 +144,9 @@
     "internalName": "sfire-mod",
     "name": "Saturation Firepower Mod",
     "author": "RAdea.exe",
-    "lastUpdated": "2026-07-09T03:17:13Z",
+    "lastUpdated": "2026-07-12T02:16:30Z",
     "stars": 140,
-    "version": "4.0.4.2",
+    "version": "4.0.4.3",
     "minGameVersion": "159",
     "hasIcon": true,
     "hasScripts": false,
@@ -158,7 +158,7 @@
     "internalName": "sapphirium",
     "name": "Sapphirium",
     "author": "Snake",
-    "lastUpdated": "2026-07-11T16:52:47Z",
+    "lastUpdated": "2026-07-12T03:27:22Z",
     "stars": 137,
     "version": "18.1",
     "minGameVersion": "159.2",
@@ -327,7 +327,7 @@
     "name": "Too Many Items",
     "author": "EBwilson",
     "lastUpdated": "2026-05-30T03:20:23Z",
-    "stars": 69,
+    "stars": 70,
     "version": "3.2",
     "minGameVersion": "157.1",
     "hasIcon": true,
@@ -368,7 +368,7 @@
     "internalName": "exoprosopa",
     "name": "Exoprosopa",
     "author": "TnmSpiroct",
-    "lastUpdated": "2026-07-12T00:50:36Z",
+    "lastUpdated": "2026-07-12T03:32:06Z",
     "stars": 61,
     "version": "0.91",
     "minGameVersion": "159",
@@ -523,7 +523,7 @@
     "internalName": "",
     "name": "MineDusty",
     "author": "[acid]It[#EAF43C]sK[#B3F490]ir[cyan]by",
-    "lastUpdated": "2026-07-11T23:21:45Z",
+    "lastUpdated": "2026-07-12T02:55:52Z",
     "stars": 44,
     "version": "1.2.2",
     "minGameVersion": "158.1",
@@ -902,7 +902,7 @@
     "internalName": "gr",
     "name": "Gier: Revitalized",
     "author": "Fat Bird's Owner - Dev\n\n[grey]Other contributors: []\n- Lu69159 (Space)\n- Watodoto (wato)\n",
-    "lastUpdated": "2026-07-11T11:56:25Z",
+    "lastUpdated": "2026-07-12T02:24:48Z",
     "stars": 24,
     "version": "v3.1 - Gier",
     "minGameVersion": "156",
@@ -1337,9 +1337,9 @@
     "internalName": "neon",
     "name": "Neon / 氖",
     "author": "DeterMination (BEK)",
-    "lastUpdated": "2026-07-11T13:40:10Z",
+    "lastUpdated": "2026-07-12T03:39:17Z",
     "stars": 16,
-    "version": "10.1.1",
+    "version": "10.1.2",
     "minGameVersion": "159",
     "hasIcon": true,
     "hasScripts": false,
@@ -2439,20 +2439,6 @@
     "description": "Adds New sector, units and buildings to the game, all zerg flavored.\nWhat does this mod offer?\n - Hardmode and normal mode \n - Campain map for serpulo\n - Possibly a new planet?\n - A bunch of zerggy unit and structure\n - Lore\nRemember to star the mod on github if you enjoy it!"
   },
   {
-    "repo": "7003mars/bridges",
-    "internalName": "bridging",
-    "name": "Bridging assistant",
-    "author": "Mars",
-    "lastUpdated": "2026-07-10T17:34:03Z",
-    "stars": 9,
-    "version": "REPLACEME",
-    "minGameVersion": "154.3",
-    "hasIcon": false,
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Displays all bridge links. Helps with bridge weaving"
-  },
-  {
     "repo": "mindustry-antigrief/floodcompat",
     "internalName": "floodcompat",
     "name": "FloodCompat",
@@ -2465,6 +2451,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Improves your experience on the official io  Flood server."
+  },
+  {
+    "repo": "7003mars/bridges",
+    "internalName": "bridging",
+    "name": "Bridging assistant",
+    "author": "Mars",
+    "lastUpdated": "2026-07-12T03:21:33Z",
+    "stars": 9,
+    "version": "REPLACEME",
+    "minGameVersion": "156",
+    "hasIcon": false,
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Displays all bridge links. Helps with bridge weaving"
   },
   {
     "repo": "willoizcitron/siuuu",
@@ -3042,20 +3042,6 @@
     "description": "Introducing, Apolon! the long awaited passion project by me, Nannerbz (or like 3 different nicknames online), and my friend VDoble! This project has been in development for a LONG while and im happy im finally able to release it to the public! This mod contains: Brand new gameplay, New units, A new campaign, and MORE!\n\nDiscord: fandslimu\n(Or Fandslimu#9712)"
   },
   {
-    "repo": "determination-wind/power-grid-minimap-",
-    "internalName": "powergrid-minimap",
-    "name": "电网小地图 / Power Grid Minimap",
-    "author": "DeterMination",
-    "lastUpdated": "2026-07-11T13:40:54Z",
-    "stars": 7,
-    "version": "1.18.1",
-    "minGameVersion": "154",
-    "hasIcon": false,
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Color each independent power grid on minimap/full map, show live power balance, detect split outages, and suggest reconnect links. / 在小地图与全图按电网分色显示，实时展示电力盈亏，检测断网并给出快速重连建议。"
-  },
-  {
     "repo": "determination-wind/stealthpath",
     "internalName": "stealth-path",
     "name": "Stealth Path / 偷袭小道",
@@ -3082,6 +3068,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A recreation of a game called Factory Simulator.\nRequires multicrafter lib. "
+  },
+  {
+    "repo": "determination-wind/power-grid-minimap-",
+    "internalName": "powergrid-minimap",
+    "name": "电网小地图 / Power Grid Minimap",
+    "author": "DeterMination",
+    "lastUpdated": "2026-07-12T03:35:59Z",
+    "stars": 7,
+    "version": "1.18.2",
+    "minGameVersion": "154",
+    "hasIcon": false,
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Color each independent power grid on minimap/full map, show live power balance, detect split outages, and suggest reconnect links. / 在小地图与全图按电网分色显示，实时展示电力盈亏，检测断网并给出快速重连建议。"
   },
   {
     "repo": "64-tesseract/erekir-logic-improved",
@@ -4414,20 +4414,6 @@
     "description": "New armored variants of vanilla distribution blocks.\n\nNew armored variants of vanilla liquid distribution blocks.\n\n1 new drill.\n\n1 new slag extractor\n\n5 new faster conveyor types.\n\n1 new liquid conduits type.\n\n3 new faster unloaders.\n\n2 new larger storage containers.\n\n3 new pumps.\n\n2 new larger liquid tanks.\n\n2 new batteries.\n\n1 new reactor\n\nNew ammo for foreshadow.\n\n1 new wall that combines the abilities of the Surge Wall, Plastanium Wall and Phase Wall."
   },
   {
-    "repo": "thechronodonut1337/silent-orchestra",
-    "internalName": "silent-orchestra",
-    "name": "Sounds like Argus",
-    "author": "Aurora",
-    "lastUpdated": "2026-05-22T12:51:22Z",
-    "stars": 4,
-    "version": "T.01.31",
-    "minGameVersion": "154.3",
-    "hasIcon": true,
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "Have you ever wondered what it would be like if Mindustry sounded like an open-world RPG? Well, now you can, with these collection of music and SFX replacements from FFXIV, Library of Ruina, Arknights, Terraria, and more."
-  },
-  {
     "repo": "wmf-industries/terios",
     "internalName": "terios",
     "name": "Terios",
@@ -4554,20 +4540,6 @@
     "description": "Creators Core System"
   },
   {
-    "repo": "alecthe2nd/tantros",
-    "internalName": "tantros",
-    "name": "Tantros",
-    "author": "Alecthe2nd, bob26786",
-    "lastUpdated": "2026-07-07T16:23:23Z",
-    "stars": 4,
-    "version": "1.0",
-    "minGameVersion": "158.1",
-    "hasIcon": true,
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Breathes life into Tantros, the planet Anuke has ceased working on. This mod is meant to faithfully recreate what Tantros could have been, had work not ceased."
-  },
-  {
     "repo": "rodrigoasfr24022003/rodrigonia-mod",
     "internalName": "rodrigonia",
     "name": "Rodrigonia",
@@ -4608,6 +4580,34 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Inline and quick before/after diff viewer for Mindustry datapatches. / Mindustry 数据补丁的数据库与快捷差异查看器。"
+  },
+  {
+    "repo": "alecthe2nd/tantros",
+    "internalName": "tantros",
+    "name": "Tantros",
+    "author": "Alecthe2nd, bob26786",
+    "lastUpdated": "2026-07-12T03:13:48Z",
+    "stars": 4,
+    "version": "1.0.2",
+    "minGameVersion": "159.3",
+    "hasIcon": true,
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Breathes life into Tantros, the planet Anuke has ceased working on. This mod is meant to faithfully recreate what Tantros could have been, had work not ceased."
+  },
+  {
+    "repo": "thechronodonut1337/silent-orchestra",
+    "internalName": "silent-orchestra",
+    "name": "Sounds like Argus",
+    "author": "Aurora",
+    "lastUpdated": "2026-07-12T04:26:59Z",
+    "stars": 4,
+    "version": "T.01.31",
+    "minGameVersion": "154.3",
+    "hasIcon": true,
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Have you ever wondered what it would be like if Mindustry sounded like an open-world RPG? Well, now you can, with these collection of music and SFX replacements from FFXIV, Library of Ruina, Arknights, Terraria, and more."
   },
   {
     "repo": "mythril382/ammoswap",
@@ -6669,20 +6669,6 @@
     "description": "This is a java edition of my mod that eventually will replace the json one"
   },
   {
-    "repo": "darkjeanne/schempack-manager",
-    "internalName": "schempack-manager",
-    "name": "SchemPack Manager",
-    "author": "darkjeanne",
-    "lastUpdated": "2026-07-06T10:00:55Z",
-    "stars": 2,
-    "version": "1.0.0",
-    "minGameVersion": "154",
-    "hasIcon": true,
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Sync Mindustry schematics with GitHub, with auto push, pull/merge, and local-only filtering."
-  },
-  {
     "repo": "muniine/scheme_plus",
     "internalName": "scheme_plus",
     "name": "Scheme+",
@@ -6821,6 +6807,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "01010100 01001000 01001001 01010011 00100000 01001101 01001111 01000100 00100000 01011001 01010011 00100000 01001101 01001111 01000100 00100000 01000011 01010111 01000100 01000101 01000100 00100000 01000010 01011001 00100000 01100001 01101100 01100101 01111000 00100000 01000001 01001110 01000100 00100000 01101111 01110011 01100011 01101001 01101100 01101100 01100001 01110100 01101111 01110010 01101001 01110101 01101101"
+  },
+  {
+    "repo": "darkjeanne/schempack-manager",
+    "internalName": "",
+    "name": "SchemPack Manager",
+    "author": "darkjeanne",
+    "lastUpdated": "2026-07-12T04:54:02Z",
+    "stars": 2,
+    "version": "1.0.0",
+    "minGameVersion": "154",
+    "hasIcon": true,
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Sync Mindustry schematics with GitHub, with auto push, pull/merge, and local-only filtering."
   },
   {
     "repo": "manuwar73/remodeled-industry-expansion",
