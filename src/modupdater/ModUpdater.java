@@ -165,7 +165,7 @@ public class ModUpdater{
 
         Log.info("&lcFound @ potential mods.", output.size);
         Seq<String> outnames = output.keys().toSeq();
-        outnames.sort(Structs.comps(Comparator.comparingInt(s -> -ghmeta.get(s).getInt("stargazers_count", 0)), Structs.comparing(s -> ghmeta.get(s).getString("pushed_at"))));
+        outnames.sort(); //sort by name only, the client sorts by stars/update date on its end anyway
 
         Log.info("&lcCreating mods.json file...");
         Jval array = Jval.read("[]");
