@@ -1311,7 +1311,7 @@
     "stars": 16,
     "version": "4.6.0",
     "minGameVersion": "154.2",
-    "hasIcon": false,
+    "hasIcon": true,
     "hasScripts": false,
     "hasJava": true,
     "description": "1.从蓝图详情页直接复制逻辑和信息板。2.蓝图消耗计算套件。\nCopy processor/message in schematic info without placing it. Schematic consumption computing tool. \nGithub: BlackDeluxeCat/SchematicParse"
@@ -3123,6 +3123,20 @@
     "description": "Shared/Linked network to store/transport items and liquids."
   },
   {
+    "repo": "ehub-gpp/terraria-sand-gun",
+    "internalName": "terraria-sand-gun",
+    "name": "Sand Gun",
+    "author": "SakuraLin",
+    "lastUpdated": "2025-01-01T03:21:52Z",
+    "stars": 0,
+    "version": "1.0",
+    "minGameVersion": "146",
+    "hasIcon": false,
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "The sandgun in <Terraria>"
+  },
+  {
     "repo": "eight-squared/iron-clouds",
     "internalName": "iron-clouds",
     "name": "Iron clouds",
@@ -4585,7 +4599,7 @@
     "internalName": "",
     "name": "MineDusty",
     "author": "[acid]It[#EAF43C]sK[#B3F490]ir[cyan]by",
-    "lastUpdated": "2026-07-12T02:55:52Z",
+    "lastUpdated": "2026-07-14T16:48:53Z",
     "stars": 47,
     "version": "1.2.2",
     "minGameVersion": "158.1",
@@ -5139,6 +5153,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Complete tasks, fight, control ships, in space"
+  },
+  {
+    "repo": "kokimada/simple-duo-json",
+    "internalName": "kokimada",
+    "name": "Simple JSON Turrets",
+    "author": "Kokimada",
+    "lastUpdated": "2025-06-01T11:41:58Z",
+    "stars": 1,
+    "version": "0.1",
+    "minGameVersion": "148",
+    "hasIcon": false,
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "JSON Template for turrets in mindustry."
   },
   {
     "repo": "kosmofrog/planet-vulcanum",
@@ -6378,7 +6406,7 @@
     "internalName": "momiji_crafter_lib",
     "name": "MomijiCrafterLib",
     "author": "[sky]Momiji142857[white] (with DeepSeek)",
-    "lastUpdated": "2026-06-25T16:03:25Z",
+    "lastUpdated": "2026-07-14T16:11:45Z",
     "stars": 1,
     "version": "1.3",
     "minGameVersion": "154",
@@ -6540,6 +6568,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Makes blocks display way too accurately which resources they have been built with. Warning: Ugly."
+  },
+  {
+    "repo": "mythril382/ahh",
+    "internalName": "ahh",
+    "name": "ahh",
+    "author": "Mythrilahh",
+    "lastUpdated": "2026-05-16T04:36:21Z",
+    "stars": 2,
+    "version": "ahh",
+    "minGameVersion": "157",
+    "hasIcon": false,
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "ahh"
   },
   {
     "repo": "mythril382/ammoswap",
@@ -7078,7 +7120,7 @@
     "internalName": "astralis",
     "name": "Astralis",
     "author": "NV-NX (FULL CREDITS IN DESC.)",
-    "lastUpdated": "2026-07-08T15:41:11Z",
+    "lastUpdated": "2026-07-14T16:47:17Z",
     "stars": 12,
     "version": "0.1",
     "minGameVersion": "158.1",
@@ -7465,6 +7507,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "пока ни шиша, так как [accent]жернова[]\n[accent]Special thanks to: деградация[]"
+  },
+  {
+    "repo": "oscillatorium/world-of-dights-add-on",
+    "internalName": "number-add-on",
+    "name": "World of Dights add-on",
+    "author": "[red]Ксе[blue]ли[white]рит[]",
+    "lastUpdated": "2026-07-14T16:30:54Z",
+    "stars": 1,
+    "version": "D. S. S. P.",
+    "minGameVersion": "157",
+    "hasIcon": false,
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "021201 012100  021201 020200  021201 020200  021201 021001  021201 021000  001012  021201 021000  021201 020112  021201 021002  021201 020211  021202 011210  021201 020112  021201 021000  001012  021201 012201  021202 011210  021201 020201  021201 020221  021201 020211  021202 011202  021201 020211  021202 011211  021201 021001  021201 020222  001012  021201 020200  021201 020221  021202 012022  001012  021201 020222  021201 021001  021201 020200  021201 020112  001012  021201 012100  021201 020221  021201 020201  021201 020220  021202 011210  021201 020112"
   },
   {
     "repo": "osp54/shared-campaign-research",
@@ -9365,7 +9421,7 @@
     "stars": 13,
     "version": "1.0.0",
     "minGameVersion": "146",
-    "hasIcon": false,
+    "hasIcon": true,
     "hasScripts": false,
     "hasJava": false,
     "description": "This planet has (almost) every single field you can declare in JSON planets. Press the \"Repo\" button below to see the source code.\n\nThis is NOT meant to be played."
@@ -9719,6 +9775,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "Adds more team regions to most Serpulo and Erekir blocks, to make teams in pvp and attack look more appealing."
+  },
+  {
+    "repo": "sublemon-team/fonticonslib",
+    "internalName": "font-icon-lib",
+    "name": "FICO Lib (Font Icons)",
+    "author": "Sublemon Team",
+    "lastUpdated": "2026-02-07T07:11:24Z",
+    "stars": 7,
+    "version": "1.5",
+    "minGameVersion": "154",
+    "hasIcon": true,
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "A library for adding icons to game font."
   },
   {
     "repo": "sunkenmelody/rospule",
@@ -10085,6 +10155,20 @@
     "description": "Changes I made to make it easier for me to see items on conveyors."
   },
   {
+    "repo": "topyrit/capital_progress",
+    "internalName": "capital progress",
+    "name": "CAPITAL PROGRESS",
+    "author": "Topyrit\nZZZ NNN",
+    "lastUpdated": "2024-08-23T11:33:16Z",
+    "stars": 15,
+    "version": "0.1",
+    "minGameVersion": "136",
+    "hasIcon": true,
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "the mod was developed for 2 months, please put an asterisk in the github(generally without spoilers)"
+  },
+  {
     "repo": "tortik0/texture-pack",
     "internalName": "texture pack",
     "name": "BlackCoreTexture",
@@ -10135,7 +10219,7 @@
     "stars": 2,
     "version": "1.4.6",
     "minGameVersion": "136",
-    "hasIcon": false,
+    "hasIcon": true,
     "hasScripts": true,
     "hasJava": false,
     "description": "Some Superized Items! With Fun Stuffs!"
@@ -10209,6 +10293,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "\nМод добавляет множество нового контента\nмножество буров по типу Гранитного\nновые турели!\nв игре есть баги сообщите о них мне в ЛС ТГК\n\n Приватное сообщение  @MrHumanU\nTelegram TGH → t.me/LogicDustryJS \nYoutube YTC → youtube.com/@LogicDustryJS\n15/11/25 22:29 → Обновление 1.9\n\n\n[Orange]Полностью совместим с Mindustry v146-153. "
+  },
+  {
+    "repo": "u7019134065-png/fogdustry-full-edition",
+    "internalName": "fogdustry",
+    "name": "FogDustry",
+    "author": "ЕЕее1406",
+    "lastUpdated": "2026-06-08T15:33:53Z",
+    "stars": 0,
+    "version": "V alpha 1.0",
+    "minGameVersion": "153",
+    "hasIcon": false,
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "A mod about fog, darkness and atmospheric technologies."
   },
   {
     "repo": "uenhe/fire",
@@ -10293,6 +10391,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "A mod inspired by Starcraft 2, add zerg to the game and a bunch of spore related thing.\nCredit:\nHydro for creating the sprites\nDryehm for existing\nHave a great day :D\nhHhhhHH"
+  },
+  {
+    "repo": "unionofsovietsocialistrepublics/sporebiomethane",
+    "internalName": "jp",
+    "name": "Spore biomethane",
+    "author": "Watermolecules and Hydroabyss",
+    "lastUpdated": "2026-07-13T07:56:49Z",
+    "stars": 9,
+    "version": "0.62",
+    "minGameVersion": "156",
+    "hasIcon": true,
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds New sector, units and buildings to the game, all zerg flavored.\nWhat does this mod offer?\n - Hardmode and normal mode \n - Campain map for serpulo\n - Possibly a new planet?\n - A bunch of zerggy unit and structure\n - Lore\nRemember to star the mod on github if you enjoy it!"
   },
   {
     "repo": "unionofsovietsocialistrepublics/testmod",
@@ -10597,7 +10709,7 @@
     "stars": 4,
     "version": "1.0",
     "minGameVersion": "139",
-    "hasIcon": false,
+    "hasIcon": true,
     "hasScripts": true,
     "hasJava": false,
     "description": "this mod add 2 new planets and more new content \nlanguage: Russian\nэтот мод добавит 2 новые планеты и много нового контента"
