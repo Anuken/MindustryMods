@@ -85,6 +85,11 @@ public class ModUpdater{
             names.remove(name.toLowerCase(Locale.ROOT));
         }
 
+        if(prevSize == 0){
+            System.exit(1);
+            Log.err("Github is probably down, exiting.");
+        }
+
         Log.info("&lyOld repos not found by the API: &lr@", names.size - prevSize);
 
         Fi icons = Fi.get("icons");
