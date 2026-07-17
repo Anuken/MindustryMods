@@ -86,8 +86,8 @@ public class ModUpdater{
         }
 
         if(prevSize == 0){
-            System.exit(1);
             Log.err("Github is probably down, exiting.");
+            System.exit(1);
         }
 
         Log.info("&lyOld repos not found by the API: &lr@", names.size - prevSize);
