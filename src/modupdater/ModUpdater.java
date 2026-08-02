@@ -161,6 +161,7 @@ public class ModUpdater{
                     output.put(name, modjson);
                 }catch(Throwable t){
                     print(buffer, "&lc| &lySkipping. [@]", Strings.getSimpleMessage(t));
+                    Log.err(t);
                 }finally{
                     Log.info(buffer.substring(0, buffer.length() - 1));
                 }
