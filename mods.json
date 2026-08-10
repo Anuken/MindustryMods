@@ -2563,6 +2563,20 @@
     "description": "Client-side translator for marked foreign-language Mindustry servers. / 标记外语服务器后自动翻译聊天的 Mindustry 客户端模组。"
   },
   {
+    "repo": "determination-wind/lockattack",
+    "internalName": "lockattack",
+    "name": "LockAttack / 锁定攻击",
+    "author": "DeterMination-Wind",
+    "lastUpdated": "2026-08-10T06:27:57Z",
+    "stars": 0,
+    "version": "1.0.0",
+    "minGameVersion": "154",
+    "hasIcon": false,
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Tap the lock key (default L) to lock on to an enemy unit or building and focus fire. Commands selected units via the vanilla network command path. / 按锁定键（默认 L）锁定敌方单位或建筑并集火，选中的指挥单位通过原版网络命令路径集火。"
+  },
+  {
     "repo": "determination-wind/logicsugar",
     "internalName": "logicsugar",
     "name": "Logic Sugar",
@@ -2637,14 +2651,14 @@
     "internalName": "neon",
     "name": "Neon / 氖",
     "author": "DeterMination (BEK)",
-    "lastUpdated": "2026-08-09T16:22:00Z",
+    "lastUpdated": "2026-08-10T05:59:10Z",
     "stars": 25,
-    "version": "110005",
+    "version": "110006",
     "minGameVersion": "159",
     "hasIcon": true,
     "hasScripts": false,
     "hasJava": true,
-    "description": "All-in-one QoL toolkit: map, minimap, radial build, RTS formation, pinyin search, hotkey, terrain generation, auto pruning, duct coloring, logic sugar, tripwire alert, screenshot, projector overlay, logistics monitor, player database, patch viewer, custom marker, server translator, poly AI, advanced replace, mod updater, and Random. / 全能辅助模组集：地图编辑、小地图、圆盘菜单、RTS 编队、拼音搜索、快捷键、地形生成、智能拆除、导管染色、LogicSugar、地理围栏、截图、投影覆盖、物流监控、玩家数据库、补丁查看器、自定义标记、服务器翻译、Poly AI、高级替换、模组更新和随机化。"
+    "description": "All-in-one QoL toolkit: map, minimap, radial build, RTS formation, pinyin search, hotkey, terrain generation, auto pruning, duct coloring, logic sugar, tripwire alert, screenshot, projector overlay, logistics monitor, player database, patch viewer, custom marker, server translator, poly AI, advanced replace, mod updater, Random, and lock-on focus fire. / 全能辅助模组集：地图编辑、小地图、圆盘菜单、RTS 编队、拼音搜索、快捷键、地形生成、智能拆除、导管染色、LogicSugar、地理围栏、截图、投影覆盖、物流监控、玩家数据库、补丁查看器、自定义标记、服务器翻译、Poly AI、高级替换、模组更新、随机化和锁定攻击。"
   },
   {
     "repo": "determination-wind/patchviewer",
@@ -6153,8 +6167,8 @@
     "internalName": "mindtech",
     "name": "MINDTECH",
     "author": "MINDTECH Team",
-    "lastUpdated": "2026-08-09T15:55:58Z",
-    "stars": 8,
+    "lastUpdated": "2026-08-10T06:49:50Z",
+    "stars": 16,
     "version": "100.0001",
     "minGameVersion": "159",
     "hasIcon": true,
@@ -9138,7 +9152,7 @@
     "name": "Meld",
     "author": "Sh1penfire",
     "lastUpdated": "2026-05-15T07:21:04Z",
-    "stars": 45,
+    "stars": 46,
     "version": "hjson (finalised)",
     "minGameVersion": "151.1",
     "hasIcon": true,
