@@ -25,8 +25,28 @@ public class ModUpdater{
     static final int maxLength = 55;
     static final ObjectSet<String> javaLangs = ObjectSet.with("Java", "Kotlin", "Groovy", "Scala"); //obviously not a comprehensive list
 
-    static final Seq<String> nameBlacklist = Seq.with("TheEE145", "o7", "pixaxeofpixie", "Iron-Miner", "EasyPlaySu", "guiYMOUR", "mishakorzik", "N3M1X10", "EvilMan12317", "guiYMOU").map(s -> s.toLowerCase(Locale.ROOT));
-    static final ObjectSet<String> blacklist = ObjectSet.with("Snow-of-Spirit-Fox-Mori/old-mod", "fox1va-the-fox/schems", "TheSaus/Cumdustry", "Anuken/ExampleMod", "Anuken/ExampleJavaMod", "Anuken/ExampleKotlinMod", "Mesokrix/Vanilla-Upgraded", "RebornTrack970/Multiplayernt", "RebornTrack970/Multiplayerntnt", "EsqueletoBrOficial/meu-mod", "RebornTrack970/Destroyer", "RebornTrack970/Mindustrynt", "NemesisTheory/killer", "TheDogOfChaos/reset-UUID-mindustry", "OBSIDAN55/UUID_replacer", "timofeyfilkin/uuid-changer", "Zaxerf1234/mindustry-id-manager", "AnthropicCom/Lithium4Mindustry", "chuvaak410-cmd/GriefersToolsMod");
+    static final Seq<String> nameBlacklist = Seq.with("TheEE145", "o7", "pixaxeofpixie", "Iron-Miner", "EasyPlaySu", "guiYMOUR", "mishakorzik", "N3M1X10", "EvilMan12317", "guiYMOU", "TheSaus").map(s -> s.toLowerCase(Locale.ROOT));
+    static final ObjectSet<String> blacklist = ObjectSet.with(
+        "Snow-of-Spirit-Fox-Mori/old-mod", 
+        "fox1va-the-fox/schems", 
+        "Anuken/ExampleMod", 
+        "Anuken/ExampleJavaMod", 
+        "Anuken/ExampleKotlinMod", 
+        "Mesokrix/Vanilla-Upgraded", 
+        "RebornTrack970/Multiplayernt", 
+        "RebornTrack970/Multiplayerntnt", 
+        "EsqueletoBrOficial/meu-mod", 
+        "RebornTrack970/Destroyer",
+        "RebornTrack970/Mindustrynt", 
+        "NemesisTheory/killer", 
+        "TheDogOfChaos/reset-UUID-mindustry", 
+        "OBSIDAN55/UUID_replacer", 
+        "timofeyfilkin/uuid-changer", 
+        "Zaxerf1234/mindustry-id-manager",
+        "AnthropicCom/Lithium4Mindustry", 
+        "chuvaak410-cmd/GriefersToolsMod",
+        "MINDTECH-Industries/MINDTECH" //obviously botted stars + very suspicious behavior via stolen sprites
+    );
     static final Pattern globalBlacklist = Pattern.compile(Base64Coder.decodeString("Z2F5fHJhY2lzdHx1dWlk"), Pattern.CASE_INSENSITIVE);
     static final String topic = "mindustry-mod";
     static final String lastPushDate = "2022-05-01";
