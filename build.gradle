@@ -3,19 +3,29 @@ apply plugin: "java"
 sourceCompatibility = 17
 sourceSets.main.java.srcDirs = ["src/"]
 
+ext{
+    mindustryVersion = "v160"
+}
+
 repositories{
     mavenCentral()
     maven{ url "https://raw.githubusercontent.com/Anuken/MindustryMaven/master/repository" }
-    maven{ url 'https://jitpack.io' }
-}
 
-ext{
-    arcVersion = "v146"
+    //Downloads the dependencies JAR file from Mindustry releases; does not use any real repository. Surprisingly, this is the most reliable option.
+    ivy{
+        url = 'https://github.com/'
+        patternLayout{ artifact('/[organisation]/[module]/releases/download/[revision]/dependencies.jar')
+        }
+        metadataSources{ artifact() }
+
+        content{
+            includeVersion("Anuken", "Mindustry", mindustryVersion)
+        }
+    }
 }
 
 dependencies{
-    implementation "com.github.Anuken.Arc:arc-core:$arcVersion"
-    implementation "com.github.Anuken.Arc:natives-desktop:$arcVersion"
+    implementation "Anuken:Mindustry:$mindustryVersion"
 }
 
 task run(dependsOn: classes, type: JavaExec){

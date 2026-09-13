@@ -209,6 +209,8 @@ public class ModUpdater{
                     continue;
                 }
 
+                Fi iconFile = icons.child(name.toLowerCase(Locale.ROOT).replace("/", "_"));
+
                 obj.add("repo", name);
                 obj.add("internalName", internalName);
                 obj.add("name", metaName);
@@ -217,12 +219,13 @@ public class ModUpdater{
                 obj.add("stars", gm.get("stargazers_count"));
                 obj.add("version", modj.getString("version", "1.0.0"));
                 obj.add("minGameVersion", version);
-                obj.add("hasIcon", Jval.valueOf(icons.child(name.toLowerCase(Locale.ROOT).replace("/", "_")).exists()));
+                obj.add("hasIcon", Jval.valueOf(iconFile.exists()));
                 obj.add("hasScripts", Jval.valueOf(lang.equals("JavaScript")));
                 obj.add("hasJava", Jval.valueOf(isJava));
                 obj.add("description", Strings.stripColors(modj.getString("description", "No description provided.")));
                 if(modj.getBool("iosCompatible", false)) obj.put("iosCompatible", true);
                 if(modj.getBool("legacyCompatible", false)) obj.put("legacyCompatible", true);
+                if(iconFile.exists()) obj.put("iconHash", Strings.bytesToHex(iconFile.sha256()));
                 array.asArray().add(obj);
             }catch(Exception e){
                 //ignore horribly malformed json
