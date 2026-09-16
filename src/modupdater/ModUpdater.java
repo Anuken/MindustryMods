@@ -27,27 +27,28 @@ public class ModUpdater{
 
     static final Seq<String> nameBlacklist = Seq.with("TheEE145", "o7", "pixaxeofpixie", "Iron-Miner", "EasyPlaySu", "guiYMOUR", "mishakorzik", "N3M1X10", "EvilMan12317", "guiYMOU", "TheSaus").map(s -> s.toLowerCase(Locale.ROOT));
     static final ObjectSet<String> blacklist = ObjectSet.with(
-        "Snow-of-Spirit-Fox-Mori/old-mod", 
-        "fox1va-the-fox/schems", 
-        "Anuken/ExampleMod", 
-        "Anuken/ExampleJavaMod", 
-        "Anuken/ExampleKotlinMod", 
-        "Mesokrix/Vanilla-Upgraded", 
-        "RebornTrack970/Multiplayernt", 
-        "RebornTrack970/Multiplayerntnt", 
-        "EsqueletoBrOficial/meu-mod", 
+        "Snow-of-Spirit-Fox-Mori/old-mod",
+        "fox1va-the-fox/schems",
+        "Anuken/ExampleMod",
+        "Anuken/ExampleJavaMod",
+        "Anuken/ExampleKotlinMod",
+        "Mesokrix/Vanilla-Upgraded",
+        "RebornTrack970/Multiplayernt",
+        "RebornTrack970/Multiplayerntnt",
+        "EsqueletoBrOficial/meu-mod",
         "RebornTrack970/Destroyer",
-        "RebornTrack970/Mindustrynt", 
-        "NemesisTheory/killer", 
-        "TheDogOfChaos/reset-UUID-mindustry", 
-        "OBSIDAN55/UUID_replacer", 
-        "timofeyfilkin/uuid-changer", 
+        "RebornTrack970/Mindustrynt",
+        "NemesisTheory/killer",
+        "TheDogOfChaos/reset-UUID-mindustry",
+        "OBSIDAN55/UUID_replacer",
+        "timofeyfilkin/uuid-changer",
         "Zaxerf1234/mindustry-id-manager",
-        "AnthropicCom/Lithium4Mindustry", 
+        "AnthropicCom/Lithium4Mindustry",
         "chuvaak410-cmd/GriefersToolsMod",
         "MINDTECH-Industries/MINDTECH" //obviously botted stars + very suspicious behavior via stolen sprites
     );
     static final Pattern globalBlacklist = Pattern.compile(Base64Coder.decodeString("Z2F5fHJhY2lzdHx1dWlk"), Pattern.CASE_INSENSITIVE);
+    static final Pattern modVersionPattern = Pattern.compile("\\[v(\\d+)(?:\\.(\\d+))?\\]");
     static final String topic = "mindustry-mod";
     static final String lastPushDate = "2022-05-01";
     static final int iconSize = 64;
@@ -85,6 +86,7 @@ public class ModUpdater{
 
         ObjectMap<String, Jval> output = new ObjectMap<>();
         ObjectMap<String, Jval> ghmeta = new ObjectMap<>();
+        ObjectMap<String, Jval> releasesOutput = new ObjectMap<>();
         Seq<String> names = dest.map(val -> {
             ghmeta.put(val.get("full_name").toString().toLowerCase(Locale.ROOT), val);
             return val.get("full_name").toString().toLowerCase(Locale.ROOT);
@@ -154,7 +156,7 @@ public class ModUpdater{
                         return;
                     }
 
-                    Jval modjson = tryList(name + "/" + branch + "/mod.json", name + "/" + branch + "/mod.hjson", name + "/" + branch + "/assets/mod.json", name + "/" + branch + "/assets/mod.hjson");
+                    Jval modjson = fetchModJson(name, branch);
 
                     if(modjson == null){
                         print(buffer, "&lc| &lySkipping, no meta found.");
@@ -164,6 +166,21 @@ public class ModUpdater{
                     if(modjson.getBool("hideBrowser", false)){
                         print(buffer, "&lc| &lySkipping, explicitly hidden in browser.");
                         return;
+                    }
+
+                    //Java mods can publish per-revision releases; grab the latest release targeting each revision
+                    boolean isJavaMod = modjson.getBool("java", false) || javaLangs.contains(meta.getString("language", ""));
+                    if(isJavaMod){
+                        try{
+                            Jval releases = queryReleases(name);
+                            Jval releaseMap = buildReleaseMap(name, releases);
+                            if(releaseMap != null && releaseMap.asObject().size > 0){
+                                releasesOutput.put(name, releaseMap);
+                                print(buffer, "&lc| &lmFound @ release(s) with revision tags.", releaseMap.asObject().size);
+                            }
+                        }catch(Throwable t){
+                            print(buffer, "&lc| &lyFailed to fetch releases. [@]", Strings.getSimpleMessage(t));
+                        }
                     }
 
                     //filter icons based on stars to prevent potential abuse
@@ -246,6 +263,12 @@ public class ModUpdater{
                 if(modj.getBool("iosCompatible", false)) obj.put("iosCompatible", true);
                 if(modj.getBool("legacyCompatible", false)) obj.put("legacyCompatible", true);
                 if(iconFile.exists()) obj.put("iconHash", Strings.bytesToHex(iconFile.sha256()));
+
+                Jval releases = releasesOutput.get(name);
+                if(releases != null && releases.isObject() && releases.asObject().size > 0){
+                    obj.add("releases", releases);
+                }
+
                 array.asArray().add(obj);
             }catch(Exception e){
                 //ignore horribly malformed json
@@ -260,6 +283,85 @@ public class ModUpdater{
 
     void print(StringBuilder buffer, String text, Object... args){
         buffer.append(Strings.format(text, args)).append("\n");
+    }
+
+    /** Fetches mod.json/mod.hjson (root or assets/) for a given repo at a given ref (branch, tag, or commit). */
+    Jval fetchModJson(String name, String ref){
+        return tryList(name + "/" + ref + "/mod.json", name + "/" + ref + "/mod.hjson", name + "/" + ref + "/assets/mod.json", name + "/" + ref + "/assets/mod.hjson");
+    }
+
+    /** Fetches all releases (all pages) for a repo. */
+    Jval queryReleases(String name){
+        Seq<Jval> all = new Seq<>();
+        int page = 1;
+        while(true){
+            Jval[] result = {null};
+            query("/repos/" + name + "/releases", of("per_page", perPage, "page", page), res -> result[0] = res);
+            Jval res = result[0];
+            if(res == null || !res.isArray() || res.asArray().isEmpty()) break;
+            all.addAll(res.asArray());
+            if(res.asArray().size < perPage) break;
+            page++;
+        }
+        Jval arr = Jval.read("[]");
+        for(Jval r : all) arr.asArray().add(r);
+        return arr;
+    }
+
+    /** Builds a map of revision key ("BUILD" or "BUILD.REVISION") -> {id, version} for a repo's releases. */
+    Jval buildReleaseMap(String name, Jval releases){
+        if(releases == null || !releases.isArray()) return null;
+
+        ObjectMap<String, Jval> latest = new ObjectMap<>();
+        for(Jval release : releases.asArray()){
+            if(release.getBool("draft", false)) continue;
+
+            String key = parseVersionKey(release.getString("name", ""));
+            if(key == null) key = parseVersionKey(release.getString("tag_name", ""));
+            if(key == null) continue;
+
+            Jval existing = latest.get(key);
+            if(existing == null || isReleaseNewer(release, existing)){
+                latest.put(key, release);
+            }
+        }
+
+        Jval out = Jval.read("{}");
+        for(var entry : latest){
+            Jval release = entry.value;
+            String tag = release.getString("tag_name");
+
+            Jval modj = fetchModJson(name, tag);
+            String version = (modj != null && modj.isObject()) ? modj.getString("version", "1.0.0") : "1.0.0";
+
+            Jval releaseObj = Jval.read("{}");
+            releaseObj.add("id", release.get("id"));
+            releaseObj.add("version", Jval.valueOf(version));
+            out.add(entry.key, releaseObj);
+        }
+        return out;
+    }
+
+    /** @return true if release {@code a} is more recently published than release {@code b}. */
+    boolean isReleaseNewer(Jval a, Jval b){
+        String da = a.getString("published_at", a.getString("created_at", ""));
+        String db = b.getString("published_at", b.getString("created_at", ""));
+        return da.compareTo(db) > 0;
+    }
+
+    /** Like parseVersionTag in Mindustry, but returns the raw key string ("BUILD" or "BUILD.REVISION") instead of parsed ints. */
+    static @Nullable String parseVersionKey(String str){
+        if(str == null) return null;
+
+        Matcher m = modVersionPattern.matcher(str);
+        while(m.find()){
+            if(m.start() == 0 || m.end() == str.length()){
+                String major = m.group(1);
+                String minor = m.group(2);
+                return minor != null ? major + "." + minor : major;
+            }
+        }
+        return null;
     }
 
     Jval tryList(String... queries){
