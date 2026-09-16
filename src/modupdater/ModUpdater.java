@@ -48,7 +48,7 @@ public class ModUpdater{
         "MINDTECH-Industries/MINDTECH" //obviously botted stars + very suspicious behavior via stolen sprites
     );
     static final Pattern globalBlacklist = Pattern.compile(Base64Coder.decodeString("Z2F5fHJhY2lzdHx1dWlk"), Pattern.CASE_INSENSITIVE);
-    static final Pattern modVersionPattern = Pattern.compile("\\[v(\\d+)(?:\\.(\\d+))?\\]");
+    static final Pattern modVersionPattern = Pattern.compile("\\[([vb])(\\d+)(?:\\.(\\d+))?\\]");
     static final String topic = "mindustry-mod";
     static final String lastPushDate = "2022-05-01";
     static final int iconSize = 64;
