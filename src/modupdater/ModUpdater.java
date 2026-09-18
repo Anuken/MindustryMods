@@ -168,19 +168,16 @@ public class ModUpdater{
                         return;
                     }
 
-                    //Java mods can publish per-revision releases; grab the latest release targeting each revision
-                    boolean isJavaMod = modjson.getBool("java", false) || javaLangs.contains(meta.getString("language", ""));
-                    if(isJavaMod){
-                        try{
-                            Jval releases = queryReleases(name);
-                            Jval releaseMap = buildReleaseMap(name, releases);
-                            if(releaseMap != null && releaseMap.asObject().size > 0){
-                                releasesOutput.put(name, releaseMap);
-                                print(buffer, "&lc| &lmFound @ release(s) with revision tags.", releaseMap.asObject().size);
-                            }
-                        }catch(Throwable t){
-                            print(buffer, "&lc| &lyFailed to fetch releases. [@]", Strings.getSimpleMessage(t));
+                    //check for version-specific releases regardless of whether it's a java mod or not (possibly bad idea...?)
+                    try{
+                        Jval releases = queryReleases(name);
+                        Jval releaseMap = buildReleaseMap(name, releases);
+                        if(releaseMap != null && releaseMap.asObject().size > 0){
+                            releasesOutput.put(name, releaseMap);
+                            print(buffer, "&lc| &lmFound @ release(s) with revision tags.", releaseMap.asObject().size);
                         }
+                    }catch(Throwable t){
+                        print(buffer, "&lc| &lyFailed to fetch releases. [@]", Strings.getSimpleMessage(t));
                     }
 
                     //filter icons based on stars to prevent potential abuse
@@ -319,7 +316,7 @@ public class ModUpdater{
 
     /** Builds a map of revision key ("BUILD" or "BUILD.REVISION") -> {id, version} for a repo's releases. */
     Jval buildReleaseMap(String name, Jval releases){
-        if(releases == null || !releases.isArray()) return null;
+        if(releases == null || !releases.isArray() || releases.asArray().size == 0) return null;
 
         ObjectMap<String, Jval> latest = new ObjectMap<>();
         for(Jval release : releases.asArray()){
