@@ -358,6 +358,8 @@ public class ModUpdater{
             if(m.start() == 0 || m.end() == str.length()){
                 String major = m.group(1);
                 String minor = m.group(2);
+                if(major != null && Strings.parseInt(major) < 15) return null;
+                if(minor != null && Strings.parseInt(minor) == Integer.MIN_VALUE) return null;
                 return minor != null ? major + "." + minor : major;
             }
         }
