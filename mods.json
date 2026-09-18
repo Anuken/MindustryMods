@@ -1867,7 +1867,17 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Provides new logic instructions and other tools for easier debugging in Mindustry Logic.",
-    "iconHash": "0CB94CA766E5733449CFCD06AAFBFDB1F4C4C269BBCEC614262F2140D7961935"
+    "iconHash": "0CB94CA766E5733449CFCD06AAFBFDB1F4C4C269BBCEC614262F2140D7961935",
+    "releases":{
+      "154.2":{
+        "id": 389859853,
+        "version": "0.9.0"
+      },
+      "160":{
+        "id": 389860176,
+        "version": "0.9.0"
+      }
+    }
   },
   {
     "repo": "cardillan/sectorlogic",
@@ -3011,7 +3021,13 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "Adds structured for, while, switch, and function blocks to the logic editor while storing vanilla-compatible mlog.",
-    "iconHash": "40B0CC144E8B835774025817897D26D67AA69F4C2B43A8D5AD56AB65FF896AE7"
+    "iconHash": "40B0CC144E8B835774025817897D26D67AA69F4C2B43A8D5AD56AB65FF896AE7",
+    "releases":{
+      "160.1":{
+        "id": 391548219,
+        "version": "5.1.1"
+      }
+    }
   },
   {
     "repo": "determination-wind/mlogcopilot",
@@ -6340,7 +6356,7 @@
     "internalName": "mcs",
     "name": "More Custom Settings",
     "author": "Space",
-    "lastUpdated": "2026-09-18T15:11:50Z",
+    "lastUpdated": "2026-09-18T15:29:35Z",
     "stars": 13,
     "version": "1.8.6",
     "minGameVersion": "159.5",
