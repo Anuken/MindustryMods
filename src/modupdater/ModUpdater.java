@@ -227,11 +227,22 @@ public class ModUpdater{
                 String lang = gm.getString("language", "");
                 boolean isJava = modj.getBool("java", false) || javaLangs.contains(lang);
 
+                Jval releases = releasesOutput.get(name);
+
                 //skip outdated mods
-                String version = modj.getString("minGameVersion", "104");
-                int minBuild = Strings.parseInt(version.contains(".") ? version.split("\\.")[0] : version, 0);
+                String minVersion = modj.getString("minGameVersion", "104");
+                int minBuild = Strings.parseInt(minVersion.contains(".") ? minVersion.split("\\.")[0] : minVersion, 0);
                 if(minBuild < 136 || (isJava && !modj.getBool("legacyCompatible", false) && minBuild < 154)){
                     continue;
+                }
+
+                //there may be version-specific releases that have a lower minGameVersion requirement, so choose the lowest possible minGameVersion
+                if(releases != null){
+                    for(var entry : releases.asObject()){
+                        if(Strings.checkNewerSemver(minVersion, entry.key)){
+                            minVersion = entry.key;
+                        }
+                    }
                 }
 
                 String metaName = Strings.stripColors(displayName).replace("\n", "");
@@ -255,7 +266,7 @@ public class ModUpdater{
                 obj.add("lastUpdated", gm.get("pushed_at"));
                 obj.add("stars", gm.get("stargazers_count"));
                 obj.add("version", modj.getString("version", "1.0.0"));
-                obj.add("minGameVersion", version);
+                obj.add("minGameVersion", minVersion);
                 obj.add("hasIcon", Jval.valueOf(iconFile.exists()));
                 obj.add("hasScripts", Jval.valueOf(lang.equals("JavaScript")));
                 obj.add("hasJava", Jval.valueOf(isJava));
@@ -263,8 +274,6 @@ public class ModUpdater{
                 if(modj.getBool("iosCompatible", false)) obj.put("iosCompatible", true);
                 if(modj.getBool("legacyCompatible", false)) obj.put("legacyCompatible", true);
                 if(iconFile.exists()) obj.put("iconHash", Strings.bytesToHex(iconFile.sha256()));
-
-                Jval releases = releasesOutput.get(name);
                 if(releases != null && releases.isObject() && releases.asObject().size > 0){
                     obj.add("releases", releases);
                 }
