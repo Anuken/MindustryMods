@@ -87,6 +87,7 @@ public class ModUpdater{
         ObjectMap<String, Jval> output = new ObjectMap<>();
         ObjectMap<String, Jval> ghmeta = new ObjectMap<>();
         ObjectMap<String, Jval> releasesOutput = new ObjectMap<>();
+        ObjectMap<String, String> latestReleaseVersions = new ObjectMap<>();
         Seq<String> names = dest.map(val -> {
             ghmeta.put(val.get("full_name").toString().toLowerCase(Locale.ROOT), val);
             return val.get("full_name").toString().toLowerCase(Locale.ROOT);
@@ -176,6 +177,18 @@ public class ModUpdater{
                             releasesOutput.put(name, releaseMap);
                             print(buffer, "&lc| &lmFound @ release(s) with revision tags.", releaseMap.asObject().size);
                         }
+
+                        //java mods are downloaded from the latest release, so use the version at its tag (reuses the release list above)
+                        if(modjson.getBool("java", false) || javaLangs.contains(meta.getString("language", ""))){
+                            Jval latest = findLatestRelease(releases);
+                            if(latest != null){
+                                Jval releaseModj = fetchModJson(name, latest.getString("tag_name"));
+                                if(releaseModj != null && releaseModj.isObject() && releaseModj.has("version")){
+                                    latestReleaseVersions.put(name, releaseModj.getString("version"));
+                                    print(buffer, "&lc| &lmUsing version from latest release: @", latest.getString("tag_name"));
+                                }
+                            }
+                        }
                     }catch(Throwable t){
                         print(buffer, "&lc| &lyFailed to fetch releases. [@]", Strings.getSimpleMessage(t));
                     }
@@ -262,7 +275,8 @@ public class ModUpdater{
                 obj.add("author", Strings.stripColors(modj.getString("author", gm.get("owner").get("login").toString())));
                 obj.add("lastUpdated", gm.get("pushed_at"));
                 obj.add("stars", gm.get("stargazers_count"));
-                obj.add("version", modj.getString("version", "1.0.0"));
+                //java mods use the version at the latest release, falling back to the latest commit
+                obj.add("version", isJava && latestReleaseVersions.containsKey(name) ? latestReleaseVersions.get(name) : modj.getString("version", "1.0.0"));
                 obj.add("minGameVersion", minVersion);
                 obj.add("hasIcon", Jval.valueOf(iconFile.exists()));
                 obj.add("hasScripts", Jval.valueOf(lang.equals("JavaScript")));
@@ -346,6 +360,18 @@ public class ModUpdater{
             out.add(entry.key, releaseObj);
         }
         return out;
+    }
+
+    /** @return the most recently published non-draft release, or null if there are none. */
+    @Nullable Jval findLatestRelease(Jval releases){
+        if(releases == null || !releases.isArray()) return null;
+
+        Jval latest = null;
+        for(Jval release : releases.asArray()){
+            if(release.getBool("draft", false) || release.getString("tag_name", "").isEmpty()) continue;
+            if(latest == null || isReleaseNewer(release, latest)) latest = release;
+        }
+        return latest;
     }
 
     /** @return true if release {@code a} is more recently published than release {@code b}. */

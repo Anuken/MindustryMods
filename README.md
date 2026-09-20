@@ -41,6 +41,6 @@ Practical example: Let's say I want to have a mod that has both v8 and v9 versio
 For updates:
 
 - If you have a release that matches the Mindustry version the game is running, it will check for updates based on the `version` in your `mod.hjson` in the repository at the release tag.
-- Otherwise, if there are no exact matching releases, it checks based on the `version` in the `mod.hjson` *at the latest commit of your repository.*
+- Otherwise, if there are no exact matching releases, it checks based on the `version` in the `mod.hjson` *at the tag of your latest release* for Java mods; for other mods, it takes the one from `mod.hjson` at the latest commit.
 - Version strings should be valid [semver](https://semver.org/). Essentially: three numbers separated by periods, e.g. `1.3.5`. If you write versions in other formats, the update checker might get confused. Whatever you do, do **not** write versions in wacky formats like `build-123-1.5.6 beta-3`.
 - If you don't update your `mod.hjson`'s version string when you make a release, the game won't know that an update is an available.
