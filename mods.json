@@ -2136,9 +2136,9 @@
     "internalName": "deia",
     "name": "Deia",
     "author": "Adam Vlasatý",
-    "lastUpdated": "2026-10-17T19:15:39Z",
+    "lastUpdated": "2026-10-17T20:44:22Z",
     "stars": 0,
-    "version": "1.10",
+    "version": "1.10Neoplasma",
     "minGameVersion": "154",
     "hasIcon": false,
     "hasScripts": true,
@@ -4468,7 +4468,7 @@
     "internalName": "cheetah-x",
     "name": "cheetah x",
     "author": "keven",
-    "lastUpdated": "2026-10-17T14:03:41Z",
+    "lastUpdated": "2026-10-17T19:55:44Z",
     "stars": 4,
     "version": "1.0",
     "minGameVersion": "145",
@@ -6024,7 +6024,7 @@
     "internalName": "factory-scope",
     "name": "FactoryScope",
     "author": "Jovinull",
-    "lastUpdated": "2026-10-17T15:13:21Z",
+    "lastUpdated": "2026-10-17T21:23:12Z",
     "stars": 5,
     "version": "1.1.0",
     "minGameVersion": "160",
@@ -6119,14 +6119,15 @@
     "internalName": "kernelit-advanced-schemepack",
     "name": "Kernelit's Advanced SchemePack",
     "author": "Kernelit",
-    "lastUpdated": "2026-10-17T16:33:56Z",
+    "lastUpdated": "2026-10-17T20:58:44Z",
     "stars": 2,
     "version": "1.0",
     "minGameVersion": "158",
-    "hasIcon": false,
+    "hasIcon": true,
     "hasScripts": false,
     "hasJava": true,
-    "description": "Динамический схемпак для кампании и пвп. Тестовая версия. Много схем взяты с сервера, и ещё не под всё они найдутся. 216 схем на текущий момент"
+    "description": "Динамический схемпак для кампании и пвп. Тестовая версия. Много схем взяты с сервера, и ещё не под всё они найдутся. 216 схем на текущий момент",
+    "iconHash": "B1D0C06112923C3DA99CADFF9864ED056BF114A470C4DA88C26B0F5941DEFAD9"
   },
   {
     "repo": "kernelitt/kernelit-s-schemepack",
@@ -10302,6 +10303,26 @@
     "iconHash": "42645D6D181082B3C20725DDF344FB20368DE7AB34E34F10DFF430AC0CCBECAB"
   },
   {
+    "repo": "rostisllave/mindustry3d",
+    "internalName": "mindustry-fpv",
+    "name": "Mindustry³ / FPV",
+    "author": "RostiSllAVE",
+    "lastUpdated": "2026-10-17T20:35:53Z",
+    "stars": 2,
+    "version": "0.18.31",
+    "minGameVersion": "160.7",
+    "hasIcon": false,
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Experimental fan-made 3D/FPV conversion. Tested release target: Windows 64-bit, Mindustry 160.7. One Linux laptop launch reported by owner; broader Linux compatibility is not certified. Android is not supported. F5: view; Tab: Build; F7: camera. Multiplayer requires matching code/resources.",
+    "releases":{
+      "160.7":{
+        "id": 416042801,
+        "version": "0.18.31"
+      }
+    }
+  },
+  {
     "repo": "routerxdd/cringe-mod",
     "internalName": "cringe",
     "name": "Total cringe",
@@ -12095,7 +12116,7 @@
     "internalName": "aquarion",
     "name": "Aquarion",
     "author": "twcash",
-    "lastUpdated": "2026-10-17T07:42:17Z",
+    "lastUpdated": "2026-10-17T21:19:00Z",
     "stars": 128,
     "version": "4.2.9",
     "minGameVersion": "160.6",
