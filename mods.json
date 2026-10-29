@@ -367,7 +367,7 @@
     "name": "anime units display",
     "author": "あざみ",
     "lastUpdated": "2026-07-10T14:33:08Z",
-    "stars": 32,
+    "stars": 33,
     "version": "1.2",
     "minGameVersion": "159",
     "hasIcon": true,
@@ -1519,20 +1519,6 @@
     "description": "No description provided."
   },
   {
-    "repo": "azuredx/linesorter",
-    "internalName": "line-sorter-helper",
-    "name": "Line Sorter Helper",
-    "author": "azure",
-    "lastUpdated": "2026-10-22T12:01:58Z",
-    "stars": 0,
-    "version": "0.4.3",
-    "minGameVersion": "160",
-    "hasIcon": false,
-    "hasScripts": true,
-    "hasJava": false,
-    "description": "Conveyor and inverted-sorter line pattern with regular sorters at turns. Configurable key and HUD button."
-  },
-  {
     "repo": "b-919/water-reflections",
     "internalName": "b919-waterreflection",
     "name": "Water Reflections Mod",
@@ -2111,13 +2097,14 @@
     "name": "Float damage text",
     "author": "Rain",
     "lastUpdated": "2026-10-28T19:02:10Z",
-    "stars": 1,
+    "stars": 2,
     "version": "1.0.6",
     "minGameVersion": "160.5",
-    "hasIcon": false,
+    "hasIcon": true,
     "hasScripts": false,
     "hasJava": true,
-    "description": "FLOATING DAMAGE\nTEXT BROOO!!!!!!"
+    "description": "FLOATING DAMAGE\nTEXT BROOO!!!!!!",
+    "iconHash": "5F0E49FABFD179A4C7BC6E43248DD568DEEF616395BC7731A3622AD294E0D914"
   },
   {
     "repo": "cardillan/mlogassertions",
@@ -2168,7 +2155,7 @@
     "name": "Asthosus",
     "author": "Catser",
     "lastUpdated": "2026-10-07T14:20:49Z",
-    "stars": 274,
+    "stars": 275,
     "version": "1.7.5",
     "minGameVersion": "156.2",
     "hasIcon": true,
@@ -4613,7 +4600,7 @@
     "internalName": "cheetah 01",
     "name": "cheetah 01",
     "author": "keven",
-    "lastUpdated": "2026-09-23T05:52:09Z",
+    "lastUpdated": "2026-10-28T22:31:53Z",
     "stars": 2,
     "version": "1.0",
     "minGameVersion": "145",
@@ -4658,7 +4645,7 @@
     "internalName": "cheetah 01",
     "name": "cheetah online",
     "author": "keven",
-    "lastUpdated": "2026-09-24T10:06:11Z",
+    "lastUpdated": "2026-10-28T22:27:02Z",
     "stars": 2,
     "version": "1.0",
     "minGameVersion": "145",
@@ -5196,9 +5183,9 @@
     "internalName": "auto-drill-ios",
     "name": "AutoDrill (iOS)",
     "author": "Pointifix (original mod), HamaFx (iOS port)",
-    "lastUpdated": "2026-10-28T17:08:31Z",
+    "lastUpdated": "2026-10-29T01:11:54Z",
     "stars": 0,
-    "version": "1.3.0",
+    "version": "1.7.1",
     "minGameVersion": "160",
     "hasIcon": false,
     "hasScripts": true,
@@ -5207,8 +5194,8 @@
     "iosCompatible": true,
     "releases":{
       "160":{
-        "id": 426958813,
-        "version": "1.3.0"
+        "id": 427358866,
+        "version": "1.7.1"
       }
     }
   },
@@ -11640,7 +11627,7 @@
     "internalName": "hemera",
     "name": "Hemera",
     "author": "SomeoneElse",
-    "lastUpdated": "2026-10-28T20:18:37Z",
+    "lastUpdated": "2026-10-28T23:18:59Z",
     "stars": 6,
     "version": "0.22",
     "minGameVersion": "146",
@@ -13907,6 +13894,20 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "A chat translator that just works.\nTranslates the chat using google translate without any setup and configuration.\n\nThe target language should be automatically set by what language you have your game in."
+  },
+  {
+    "repo": "zeniku/heavymachineryjava",
+    "internalName": "line-sorter-helper",
+    "name": "Line Sorter Helper",
+    "author": "azure",
+    "lastUpdated": "2025-06-09T00:44:20Z",
+    "stars": 13,
+    "version": "0.4.3",
+    "minGameVersion": "160",
+    "hasIcon": false,
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Conveyor and inverted-sorter line pattern with regular sorters at turns. Configurable key and HUD button."
   },
   {
     "repo": "zeniku/parallaxmod",
