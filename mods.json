@@ -3876,6 +3876,26 @@
     "description": "Look at how they massacred my boy...\n\n[grey](renames Frozen Forest to Frauden Forest, cause the v8 rework sucks.)"
   },
   {
+    "repo": "donatodiaz/mindustry-ai-player",
+    "internalName": "ai-player",
+    "name": "AI Player",
+    "author": "donatodiaz",
+    "lastUpdated": "2026-11-09T09:29:32Z",
+    "stars": 0,
+    "version": "0.9.6",
+    "minGameVersion": "160",
+    "hasIcon": false,
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Adds a second AI-piloted player (AI-1) and a fair autonomous co-pilot for Mindustry v8.\n\nFeatures:\n- AI-1 is a real Player entity with a name, unit and respawn, controlled by AI.\n- Miners, builders and army are spawned with real resource costs (no cheats).\n- Dynamic support for Exogenesis and New Horizon content.\n- Smart construction roles: economy, defense, power and attack.\n- Generated power, defense and powered-turret schematics; your own .msch schematics are supported through role folders.\n- Sustainable-resource checks: skips content requiring absent ore or production.\n- Optional PC-only local LLM through Ollama with RAG strategy files.\n- Natural-language orders: order построй больше турелей, order атакуй врага.\n- Compact collapsible HUD, in-game AI command console, self-learning and cleanup.\n- Outpost expansion and optional campaign sector auto-launch.\n\nCommands: /ai, /ai status, /ai calc, /ai order <текст>, /ai ask <вопрос>, /ai demolish here, /ai llm on|off, /ai setup.\n\nMIT licensed. Source: https://github.com/DonatoDiaz/mindustry-ai-player",
+    "releases":{
+      "160":{
+        "id": 438939025,
+        "version": "0.9.6"
+      }
+    }
+  },
+  {
     "repo": "dong-wo-long/betterdustrymod",
     "internalName": "bsm",
     "name": "Betterustry Mod",
@@ -4619,7 +4639,7 @@
     "internalName": "gier-java",
     "name": "Gier: Java Side",
     "author": "Fat Bird's Owner\n[accent]Contributors:[] lu69159 [lightgrey](Space)[]",
-    "lastUpdated": "2026-11-09T07:56:52Z",
+    "lastUpdated": "2026-11-09T09:37:42Z",
     "stars": 1,
     "version": "v1",
     "minGameVersion": "160",
@@ -9067,7 +9087,7 @@
     "internalName": "signaturew",
     "name": "Signature W",
     "author": "Creen & -Arlekino-",
-    "lastUpdated": "2026-11-03T16:29:09Z",
+    "lastUpdated": "2026-11-09T10:00:15Z",
     "stars": 2,
     "version": "X.1.1",
     "minGameVersion": "157.4",
@@ -10513,7 +10533,7 @@
     "internalName": "alterra",
     "name": "Alterra",
     "author": "Ranii",
-    "lastUpdated": "2026-11-09T04:26:12Z",
+    "lastUpdated": "2026-11-09T09:22:02Z",
     "stars": 1,
     "version": "1.0",
     "minGameVersion": "160.7",
