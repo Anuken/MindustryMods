@@ -845,28 +845,40 @@
     "internalName": "logic-speed-five",
     "name": "Fast Logic: логика, процессоры, ускорение",
     "author": "TTERARUAA",
-    "lastUpdated": "2026-11-14T07:57:50Z",
+    "lastUpdated": "2026-11-14T08:10:12Z",
     "stars": 0,
     "version": "1.3.1",
     "minGameVersion": "160",
     "hasIcon": false,
     "hasScripts": false,
     "hasJava": true,
-    "description": "Speeds up vanilla Micro, Logic, and Hyper Processors with independent saved 1×–15× multipliers."
+    "description": "Speeds up vanilla Micro, Logic, and Hyper Processors with independent saved 1×–15× multipliers.",
+    "releases":{
+      "160":{
+        "id": 445132825,
+        "version": "1.3.1"
+      }
+    }
   },
   {
-    "repo": "andrewmaiorov2010-source/mindustry-sectorsupplyredirect",
+    "repo": "andrewmaiorov2010-source/sector-redirect",
     "internalName": "sector-supply-redirect",
     "name": "Sector Redirect: перенаправление, посадочные площадки",
     "author": "TTERARUAA",
-    "lastUpdated": "2026-11-14T07:57:55Z",
+    "lastUpdated": "2026-11-14T08:04:52Z",
     "stars": 0,
     "version": "1.0.2",
     "minGameVersion": "160",
     "hasIcon": false,
     "hasScripts": false,
     "hasJava": true,
-    "description": "Redirects known active same-planet sector exports to the current campaign sector."
+    "description": "Redirects known active same-planet sector exports to the current campaign sector.",
+    "releases":{
+      "160":{
+        "id": 445133049,
+        "version": "1.0.2"
+      }
+    }
   },
   {
     "repo": "andromeda-galaxy29/psammos-mod",
@@ -7663,7 +7675,7 @@
     "internalName": "ve",
     "name": "Vanilla Expansion",
     "author": "火星人076 & 128_OTEML",
-    "lastUpdated": "2026-11-10T05:15:33Z",
+    "lastUpdated": "2026-11-14T08:36:05Z",
     "stars": 50,
     "version": "2.1.3.0",
     "minGameVersion": "160",
@@ -9432,7 +9444,7 @@
     "internalName": "triangle",
     "name": "triangle-mod",
     "author": "October",
-    "lastUpdated": "2026-11-14T01:22:15Z",
+    "lastUpdated": "2026-11-14T09:26:48Z",
     "stars": 1,
     "version": "0.2.2.6",
     "minGameVersion": "160",
@@ -10524,6 +10536,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Machines close to each other work together as one; drills, pumps, factories, generators, reactors. A single input or output serves the whole line.\n\nv1.11.7\nDrills now accept raw items only, so crafted items like silicon can't enter them. This makes the drills uncloggable when placed alongside factories\nThis makes for neat base designs because I have ocd and I cant take it when I see them all wonky ahh\n\nv1.11.3\nFixed the drills that \"were\" letting items pass through them... but it was inconsistent.. this problem also broke my intention of being able to chain them with factories that require their inputs but they were also exporting their produced materials to the drills instead xd\n\nv1.11.1\nTurrets: chaining turrets of the same type share coolant, so one conduit cools a whole arsenal of turrets, except ammo. They still need seperate ammo inputs tho\nConveyors can now pass items through any drill in a chain, and those items flow to the chain's exit\n\nv1.10.0 - Balance update\nDrill and pump capacities lowered from 50 to their vanilla values (e.g. pneumatic drill = 10 item capacity) to keep them balanced\n\nv1.9.1 - Hotfix\nFixed long chains of factories (more than 5) not fully emptying through a single output. Products now drain toward the factory touching an output, so the far end empties too. If the output is removed or blocked for a while, the chain spreads evenly again and recovers when another output line is connected. One output line can only carry so much, so use a faster or higher storage belt if a chain holds up\n\nv1.9\nReactors: touching reactors balance their coolant, so one conduit feeds the whole row. However, fuel is never moved\nFactories: touching factories of the same type share inputs and outputs, so one pipe, conveyor and output line serve a whole row (except unit factories)\nDrills: boost liquids like water is now shared along the chain"
+  },
+  {
+    "repo": "ranii-reprograms/project-synthesis",
+    "internalName": "project-synthesis",
+    "name": "Project Synthesis",
+    "author": "Ranii-Reprograms",
+    "lastUpdated": "2026-11-14T08:58:35Z",
+    "stars": 1,
+    "version": "0.1.0",
+    "minGameVersion": "160",
+    "hasIcon": false,
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "w.i.p mod, do not install yet."
   },
   {
     "repo": "raviraviravi98989-byte/compactmachine",
@@ -11963,7 +11989,7 @@
     "internalName": "mass driver tiers",
     "name": "Mass Driver Tiers",
     "author": "Skhall",
-    "lastUpdated": "2026-11-14T06:17:48Z",
+    "lastUpdated": "2026-11-14T09:50:18Z",
     "stars": 1,
     "version": "1.1.00.0",
     "minGameVersion": "160",
@@ -14323,7 +14349,7 @@
     "internalName": "kotlin-runtime",
     "name": "KotlinRuntime",
     "author": "Xpdustry",
-    "lastUpdated": "2026-11-14T04:31:28Z",
+    "lastUpdated": "2026-11-14T09:52:10Z",
     "stars": 3,
     "version": "4.3.9",
     "minGameVersion": "157",
