@@ -12,6 +12,7 @@ import arc.util.serialization.Jval.*;
 
 import javax.imageio.*;
 import java.awt.image.*;
+import java.text.*;
 import java.util.*;
 import java.util.concurrent.*;
 import java.util.concurrent.atomic.*;
@@ -49,13 +50,23 @@ public class ModUpdater{
         "raviraviravi98989-byte/Project",
         "MINDTECH-Industries/MINDTECH" //obviously botted stars + very suspicious behavior via stolen sprites
     );
-    static final Pattern globalBlacklist = Pattern.compile(Base64Coder.decodeString("Z2F5fHJhY2lzdHx1dWlk"), Pattern.CASE_INSENSITIVE);
     static final Pattern modVersionPattern = Pattern.compile("\\[[vb](\\d+)(?:\\.(\\d+))?\\]");
     static final String topic = "mindustry-mod";
     static final String lastPushDate = "2022-05-01";
     static final int iconSize = 64;
 
     static final String githubToken = OS.prop("githubtoken");
+
+
+    /** Characters that are commonly used in place of a letter; leetspeak and Cyrillic/Greek lookalikes. */
+    static final ObjectMap<Character, String> lookalikes = ObjectMap.of(
+    'a', "4@аα", 'b', "8в", 'c', "(с¢", 'e', "3€еε", 'g', "9", 'h', "#нһ",
+    'i', "1!|іı", 'k', "кκ", 'l', "1|", 'm', "м", 'n', "пη", 'o', "0оο", 'p', "рρ",
+    's', "5$ѕ", 't', "7+т", 'u', "υ", 'x', "х×", 'y', "у"
+    );
+
+    /** Words that may not appear in any public-facing field. Base64, comma-separated. Look at your own risk. This is not comprehensive. */
+    static final Seq<Pattern> wordBlacklist = loadWordBlacklist(new Fi("blacklist.txt"));
 
     public static void main(String[] args){
         new ModUpdater();
@@ -265,10 +276,6 @@ public class ModUpdater{
                     continue;
                 }
 
-                if(globalBlacklist.matcher(metaName).find() || globalBlacklist.matcher(modj.getString("description", "No description provided.")).find()){
-                    continue;
-                }
-
                 Fi iconFile = icons.child(name.toLowerCase(Locale.ROOT).replace("/", "_"));
 
                 obj.add("repo", name);
@@ -291,6 +298,12 @@ public class ModUpdater{
                     obj.add("releases", releases);
                 }
 
+                //check every public-facing string value (name, author, description, version, releases...) against the word blacklist
+                if(containsBlacklisted(obj)){
+                    Log.info("&lc| &ly[@] Skipping, contains a blacklisted word.", name);
+                    continue;
+                }
+
                 array.asArray().add(obj);
             }catch(Exception e){
                 //ignore horribly malformed json
@@ -301,6 +314,81 @@ public class ModUpdater{
         new Fi("mods.json").writeString(array.toString(Jformat.formatted));
 
         Log.info("&lcDone. Found @ valid mods.", array.asArray().size);
+    }
+
+    /**
+     * Loads the word blacklist. The file is base64; decoded, it's a comma-separated list of words.
+     * A word prefixed with '=' only matches as a whole word (plus common suffixes), others match anywhere, even inside other words.
+     */
+    static Seq<Pattern> loadWordBlacklist(Fi file){
+        if(!file.exists()){
+            Log.warn("@ not found, word blacklist is disabled.", file.name());
+            return new Seq<>();
+        }
+
+        Seq<Pattern> patterns = new Seq<>();
+        for(String entry : Base64Coder.decodeString(file.readString().replaceAll("\\s", "")).split(",")){
+            String word = entry.trim().toLowerCase(Locale.ROOT);
+            boolean wholeWord = word.startsWith("=");
+            if(wholeWord) word = word.substring(1).trim();
+            word = normalizeText(word).replaceAll("[^\\p{L}\\p{N}]", "");
+            if(!word.isEmpty()) patterns.add(buildWordPattern(word, wholeWord));
+        }
+
+        Log.info("&lcLoaded @ blacklisted words.", patterns.size);
+        return patterns;
+    }
+
+    /**
+     * Builds a pattern that matches a word with lookalike characters, stretched letters ("woooord")
+     * and a consistent separator between letters ("w o r d", "w.o.r.d", "w_o_r_d").
+     */
+    static Pattern buildWordPattern(String word, boolean wholeWord){
+        StringBuilder out = new StringBuilder();
+        if(wholeWord) out.append("(?<![\\p{L}\\p{N}])");
+
+        for(int i = 0; i < word.length(); i++){
+            char c = word.charAt(i);
+            if(i == 1) out.append("([^\\p{L}\\p{N}]{0,3}?)");
+            else if(i > 1) out.append("\\1");
+
+            out.append("[").append(c);
+            for(char alt : lookalikes.get(c, "").toCharArray()){
+                if(!Character.isLetterOrDigit(alt)) out.append('\\');
+                out.append(alt);
+            }
+            out.append("]+");
+        }
+
+        if(wholeWord) out.append("(?:e?s|ed|er|ers|ing|y)?(?![\\p{L}\\p{N}])");
+        return Pattern.compile(out.toString(), Pattern.CASE_INSENSITIVE | Pattern.UNICODE_CASE);
+    }
+
+    /** Folds fullwidth/stylized/accented characters to their base form and removes invisible characters. */
+    static String normalizeText(String text){
+        return Normalizer.normalize(text, Normalizer.Form.NFKD).replaceAll("[\\p{M}\\p{Cf}]", "").toLowerCase(Locale.ROOT);
+    }
+
+    /** @return whether any string value in this Jval (recursively) contains a blacklisted word. */
+    static boolean containsBlacklisted(Jval val){
+        if(val == null) return false;
+
+        if(val.isString()){
+            String text = normalizeText(val.asString());
+            return wordBlacklist.contains(p -> p.matcher(text).find());
+        }
+        if(val.isObject()){
+            for(var entry : val.asObject()){
+                //generated values that are not authored by the mod creator; hashes could produce false positives
+                if(entry.key.equals("iconHash") || entry.key.equals("lastUpdated")) continue;
+                if(containsBlacklisted(entry.value)) return true;
+            }
+        }else if(val.isArray()){
+            for(Jval child : val.asArray()){
+                if(containsBlacklisted(child)) return true;
+            }
+        }
+        return false;
     }
 
     void print(StringBuilder buffer, String text, Object... args){
