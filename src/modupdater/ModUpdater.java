@@ -45,6 +45,8 @@ public class ModUpdater{
         "Zaxerf1234/mindustry-id-manager",
         "AnthropicCom/Lithium4Mindustry",
         "chuvaak410-cmd/GriefersToolsMod",
+        "raviraviravi98989-byte/Frostnova",
+        "raviraviravi98989-byte/Project",
         "MINDTECH-Industries/MINDTECH" //obviously botted stars + very suspicious behavior via stolen sprites
     );
     static final Pattern globalBlacklist = Pattern.compile(Base64Coder.decodeString("Z2F5fHJhY2lzdHx1dWlk"), Pattern.CASE_INSENSITIVE);
