@@ -1390,21 +1390,6 @@
     "iconHash": "E3621D2F499B25A004B31FB389D40F5A35933E9952A8790D78D55661B6F30EAE"
   },
   {
-    "repo": "atoposatrax/super-spores",
-    "internalName": "super-spores",
-    "name": "Super Spores",
-    "author": "FallingDice",
-    "lastUpdated": "2025-06-15T11:25:40Z",
-    "stars": 4,
-    "version": "0.467",
-    "minGameVersion": "146",
-    "hasIcon": true,
-    "hasScripts": false,
-    "hasJava": false,
-    "description": "add overpower units&novel units",
-    "iconHash": "85288B8E413434FFD83CE3DE4CBCF7A85F249F9D188244933251AD39E3CE9F91"
-  },
-  {
     "repo": "atoposatrax/vanilla-extra",
     "internalName": "vanilla-extra",
     "name": "Vanilla Extra",
@@ -1452,7 +1437,7 @@
     "name": "Exogenesis Old",
     "author": "AureusStratus",
     "lastUpdated": "2026-06-22T01:55:22Z",
-    "stars": 468,
+    "stars": 469,
     "version": "[blue]1.9.1",
     "minGameVersion": "158",
     "hasIcon": true,
@@ -2152,14 +2137,14 @@
     "internalName": "asthosus",
     "name": "Asthosus",
     "author": "Catser",
-    "lastUpdated": "2026-11-12T03:45:26Z",
+    "lastUpdated": "2026-11-16T13:40:29Z",
     "stars": 276,
     "version": "1.7.5",
     "minGameVersion": "156.2",
     "hasIcon": true,
     "hasScripts": false,
     "hasJava": false,
-    "description": "A mod that adds a new planet, Asthosus, into the game.\n  \nAsthosus is a deserted planet. A wasteland filled with danger.\nIt has a fully playable campaign with 11 campaign and 21 optional maps. \n\nAside from these 32 maps, Asthosus contains over 180 pieces of unique content,\nincluding blocks, liquids, items, units and status effects.\nThis number is not counting any internal units or environment blocks/tiles.\n\nI aimed to re-use nearly no vanilla content and instead fill the mod \nwith new and (hopefully) exciting things.\n\nThe mod comes with it's own custom music, made by ThePythonGuy3!\n\nIf you find any issues or want to tell me anything else,\nfeel free to join the Asthosus Discord server. \nThe same thing goes for when you need help with this mod.\n\nAsthosus is available in the following languages:\n- English\n- German\n- Spanish\n- Indonesian\n- Russian\n- Ukrainian\n- Traditional Chinese\n- Simplified Chinese\n\nEnjoy!",
+    "description": "A mod that adds a new planet, Asthosus, into the game.\n  \nAsthosus is a deserted planet. A wasteland filled with danger.\nIt has a fully playable campaign with 11 campaign and 21 optional maps. \n\nAside from these 32 maps, Asthosus contains over 180 pieces of unique content,\nincluding blocks, liquids, items, units and status effects.\nThis number is not counting any internal units or environment blocks/tiles.\n\nI aimed to re-use nearly no vanilla content and instead fill the mod \nwith new and (hopefully) exciting things.\n\nThe mod comes with it's own custom music, made by ThePythonGuy3!\n\nIf you find any issues or want to tell me anything else,\nfeel free to join the Asthosus Discord server. \nThe same thing goes for when you need help with this mod.\n\nAsthosus is available in the following languages:\n- English\n- German\n- Spanish\n- Indonesian\n- Russian\n- Ukrainian\n- Japanese\n- Traditional Chinese\n- Simplified Chinese\n\nEnjoy!",
     "iconHash": "0CDBC211C2D702587DEDE0EC953870599492B1C659F43EBFE389907A70E5F987"
   },
   {
@@ -2898,7 +2883,7 @@
     "internalName": "mobile-tools",
     "name": "Mobile Tools",
     "author": "Dark_Matter",
-    "lastUpdated": "2026-11-12T05:32:38Z",
+    "lastUpdated": "2026-11-16T12:33:13Z",
     "stars": 3,
     "version": "3.2.2",
     "minGameVersion": "146",
@@ -3128,7 +3113,7 @@
     "internalName": "azimut",
     "name": "Azimuth",
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-11-16T10:03:01Z",
+    "lastUpdated": "2026-11-16T14:03:48Z",
     "stars": 54,
     "version": "0.52",
     "minGameVersion": "160",
@@ -8809,11 +8794,11 @@
   {
     "repo": "newxaky/neowex",
     "internalName": "newex",
-    "name": "newex 1.0.1 J",
+    "name": "NeoWex 1.0.2 J",
     "author": "XakyW56",
-    "lastUpdated": "2026-11-16T11:58:30Z",
+    "lastUpdated": "2026-11-16T12:25:49Z",
     "stars": 2,
-    "version": "1.0",
+    "version": "1.0.2",
     "minGameVersion": "157",
     "hasIcon": true,
     "hasScripts": false,
@@ -9280,6 +9265,20 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "Native Linux controller support via /dev/input/js*.\nWorks out of the box with DualSense, DualShock 4, and Xbox controllers without external native libraries.\n\nFeatures:\n• 3 Gameplay Modes: Normal (L2), Build (R1), and Command (L1)\n• Smart Building: Line placement, area deconstruct, block pipette, and area copy/paste\n• Inventory Inspector: Deposit items (hold X) or inspect & take resources from buildings (hold O)\n• Full RTS Control: Box unit selection, target assignment, and command/stance cycling\n• UI & Menu Navigation: Virtual cursor with click & drag support"
+  },
+  {
+    "repo": "ntt335/gamepad-support-mindustry-mod",
+    "internalName": "gamepad-support-mindustry-mod",
+    "name": "Gamepad Support mod",
+    "author": "NTT & wareal-nah",
+    "lastUpdated": "2026-11-16T12:59:12Z",
+    "stars": 0,
+    "version": "v1.1.0",
+    "minGameVersion": "154",
+    "hasIcon": false,
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Full Cross-Platform Controller Support for Mindustry v154+ (Java 17).\nNative support for Linux, Windows 10/11, macOS, and Android (including legacy versions).\nWorks out of the box with DualSense, DualShock 4, Xbox One/Series, and standard USB/Bluetooth gamepads.\n\nFeatures:\n• 3 Gameplay Modes: Normal (L2), Build (R1), and Command (L1)\n• Free Camera & Detachment: Scout anywhere on map with D-Pad; L2/L3 to snap back\n• Smart Building & Derelict Repair: Empty-cursor R2 repairs abandoned derelicts & broken plans; line build, area deconstruct, pipette, schematics\n• Full RTS Control: Box unit selection, target assignment, and command/stance cycling\n• Per-Category Stick Inversion: Separate OX/OY stick inversion for all 6 categories\n• UI & Menu Navigation: Virtual cursor with click, drag & scroll support\n• Full In-Game Settings: Rebindable buttons, sensitivity sliders, deadzone & axis tuning"
   },
   {
     "repo": "null-ification/null-personal-mindustry-bundle",
@@ -10424,20 +10423,6 @@
     "iconHash": "CFB648DC397288E4C83CD6168A248EB80BE7D99F951B55A32CACF2DFE4069C4C"
   },
   {
-    "repo": "ranii-reprograms/alterra",
-    "internalName": "alterra",
-    "name": "Alterra",
-    "author": "Ranii",
-    "lastUpdated": "2026-11-09T12:52:03Z",
-    "stars": 1,
-    "version": "1.0",
-    "minGameVersion": "160.7",
-    "hasIcon": false,
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "Configurable editing tool for the Map Editor."
-  },
-  {
     "repo": "ranii-reprograms/fluxweave",
     "internalName": "fluxweave",
     "name": "Fluxweave",
@@ -10722,14 +10707,20 @@
     "internalName": "mshaders",
     "name": "Mindustry Shaders",
     "author": "REDEagle0705, Claude",
-    "lastUpdated": "2026-11-16T11:56:59Z",
+    "lastUpdated": "2026-11-16T12:37:38Z",
     "stars": 0,
-    "version": "0.1.0",
+    "version": "0.1.1",
     "minGameVersion": "160",
     "hasIcon": false,
     "hasScripts": false,
     "hasJava": true,
-    "description": "Visual effects only: water with reflections, ice and ground effects, directional block shadows, lights that blocks stop, metal glint, hand-drawn normal maps that light blocks by calculation, and a colour pass. Every effect can be switched off in Settings > Shaders. Client-side, adds no content. Tested on v160.7."
+    "description": "Visual effects only: water with reflections, ice and ground effects, directional block shadows, lights that blocks stop, metal glint, hand-drawn normal maps that light blocks by calculation, and a colour pass. Every effect can be switched off in Settings > Shaders. Client-side, adds no content. Desktop and Android. Tested on v160.7.",
+    "releases":{
+      "160":{
+        "id": 447020680,
+        "version": "0.1.1"
+      }
+    }
   },
   {
     "repo": "redeagle0705/titanium-is-not-lead",
@@ -13127,7 +13118,7 @@
     "internalName": "mdimension",
     "name": "Multi Dimensional",
     "author": "Bilibili:arknights player / Github:undefined-1026",
-    "lastUpdated": "2026-11-15T04:34:22Z",
+    "lastUpdated": "2026-11-16T12:43:41Z",
     "stars": 9,
     "version": "0.2.1",
     "minGameVersion": "160.3",
@@ -14421,7 +14412,7 @@
     "internalName": "new-horizon",
     "name": "New Horizon",
     "author": "Yuria & Lao",
-    "lastUpdated": "2026-11-16T05:29:47Z",
+    "lastUpdated": "2026-11-16T12:43:18Z",
     "stars": 650,
     "version": "2.3.0",
     "minGameVersion": "160",
