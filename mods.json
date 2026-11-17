@@ -696,6 +696,20 @@
     "iconHash": "C8537C304BB163A5192891FC627A2D6E65FA8E0DB0609D3843B7585BBF67085B"
   },
   {
+    "repo": "alexeysinelnik2000-code/mindustry-mod-flying-bases",
+    "internalName": "flying-bases",
+    "name": "Flying Bases",
+    "author": "ТТЯЭС",
+    "lastUpdated": "2026-11-17T10:09:15Z",
+    "stars": 1,
+    "version": "7.40",
+    "minGameVersion": "160",
+    "hasIcon": false,
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "(Known multiplayer issues.) This mod lets you build flying bases and control them. Attach any blocks to a core or storage, add rocket, energy or fuel engines for thrust, and take off. The mod includes logistics for hauling cargo and liquids. It is compatible with other mods, so you can build bases using turrets and other blocks from other mods.\n\n(Есть проблемы с мультиплеером.) Этот мод позволяет строить летающие базы и управлять ими. Присоединяйте любые блоки к ядру или хранилищу, добавляйте ракетные, энергетические или топливные двигатели для тяги и взлетайте. В моде присутствует логистика позволяющая возить грузы и жидкости. Мод совместим с другими модами что позволяет строить базы используя турели и другие постройки из других модификаций."
+  },
+  {
     "repo": "alexssad27/thorium-reactor-detector",
     "internalName": "reactor-detector",
     "name": "Thorium Reactor Detector",
@@ -1739,7 +1753,7 @@
     "internalName": "sword-deities-mod",
     "name": "PHIGHTING! SWORD DEITIES 2.15",
     "author": "BlueDoves3821",
-    "lastUpdated": "2026-11-17T07:04:24Z",
+    "lastUpdated": "2026-11-17T11:23:34Z",
     "stars": 5,
     "version": "2.15",
     "minGameVersion": "136.1",
@@ -1762,6 +1776,26 @@
     "hasScripts": true,
     "hasJava": false,
     "description": "[#ffffff]Note: this mod won't be worked on as much, updates will be slow, sorry about that!\n\n[#FF0066]Technology is the future!\n\n[#ffffff]The KORBLOX Administration has given you a task:\nyou're given a blackrock token factory to produce blackrock tokens, and there's only one goal: capture the sector by any means.\n\nExchange the tokens, construct structures & units, take down the enemy, at the end of the day...\n\n[grey]Blackrock Shall Prevail."
+  },
+  {
+    "repo": "bluer255/nexus-advanced-arsenal",
+    "internalName": "nexus-arsenal",
+    "name": "NEXUS: Advanced Arsenal",
+    "author": "Bluer255",
+    "lastUpdated": "2026-11-17T11:28:41Z",
+    "stars": 0,
+    "version": "0.3.0",
+    "minGameVersion": "160",
+    "hasIcon": false,
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "A collection of original turrets with custom mechanics, effects and pixel art: Volt (chain lightning), Frostbite (freezing, extinguishes fires), Titan (heavy armor-piercing cannon). More turrets coming.",
+    "releases":{
+      "160":{
+        "id": 448537103,
+        "version": "0.3.0"
+      }
+    }
   },
   {
     "repo": "bluetechnocat/convenience-mod",
@@ -4497,7 +4531,7 @@
     "internalName": "gier-java",
     "name": "Gier: Java Side",
     "author": "Fat Bird's Owner\n[accent]Contributors:[] lu69159 [lightgrey](Space)[]",
-    "lastUpdated": "2026-11-15T09:51:24Z",
+    "lastUpdated": "2026-11-17T11:49:09Z",
     "stars": 1,
     "version": "v1",
     "minGameVersion": "160",
@@ -5780,14 +5814,14 @@
     "internalName": "mod-tools",
     "name": "mod-tools",
     "author": "I hope...",
-    "lastUpdated": "2026-11-17T02:50:58Z",
+    "lastUpdated": "2026-11-17T10:25:13Z",
     "stars": 43,
     "version": "1.7.0",
     "minGameVersion": "159.2",
     "hasIcon": true,
     "hasScripts": false,
     "hasJava": true,
-    "description": "A mod provides various tools for modding.\n\n-----------------\nVersion 1.7.0\n\n## Highlight\n\n## New\n1. Deadlock detection watchdog: divergence heuristics for platform and virtual threads, JSON thread dumps, and a directed-graph cycle analysis that names the lock ring. Runs separately from the 5 ms CPU sampler so it cannot skew it.\n2. Review element editor: edit Element fields live to see the effect, no recompile needed.\n3. Layout check: LayoutIssues collects layout problems and LayoutReportWindow renders the report; cells also get a details window.\n4. Tester completion rewritten: member completion, array and object destructuring bindings, arrow parameter types from generic arguments; covered by JUnit 5.\n5. JS syntax highlighting for the Rhino editor, resolving members and generic types for accurate colouring.\n6. Zero-allocation float formatting: Schubfach shortest round-trip conversion, DoubleConversion and FastFormat, replacing Double.toString in Vec2/Vec3/Rect/Color formatting.\n\n## Hot swap\n7. Hot swap runs on a self-contained Remold agent, attached before settings load; a -javaagent setup that lacks plugin-arc now degrades with one warning instead of failing.\n8. UI hot swap: Table creator and Cell property chains are tracked, so a redefined builder rebuilds only the affected cells.\n9. Lambda and anonymous class alignment: LambdaAligner, AnonClassAligner and content-hash fingerprints keep anonymous classes paired across redefinition.\n10. Redefinition is gated on instance field-layout compatibility, and slot numbers held by pending aligned classes are not reused.\n11. The hotswap_plus switch is split into init_fix and force_static_lambda.\n\n## Performance\n12. ValueLabel, FieldValueLabel and InlineLabel format without boxing; PairProv shares one buffer and compares content before rebuilding.\n13. Flame graph: canvas clipping and culling, zero-allocation map lookups, spatial depth bucketing.\n14. Fewer per-frame allocations in LimitTable, SearchedLabel and completion prefix matching.\n15. Selection panel: dynamic region scanning is throttled to every 10 frames instead of running on a background executor; unit and bullet sets are cached between scans; tile and building icons are cached per block size.\n\n## Fixes\n- Completion popup not showing, and candidates beyond the first page being unreachable.\n- Completion popup covering the line being typed on.\n- changedFx flash overflowing the scroll pane viewport.\n- Viewers: Mat and Affine2 support, opening brace alignment in pretty print, and label markup state preserved across appends.\n- Android: HiddenApi trimmed in favour of the bundled bypass.\n\n## Dependencies\n- ASM 9.11 (security advisories), Remold 0.1.2.\n\n-----------------\nWIKI: https://i-hope1.github.io/mod-tools",
+    "description": "A mod provides various tools for modding.\n\n-----------------\nVersion 1.7.0\n\n## Highlight\n\n## New\n1. Deadlock detection watchdog: divergence heuristics for platform and virtual threads, JSON thread dumps, and a directed-graph cycle analysis that names the lock ring. Runs separately from the 5 ms CPU sampler so it cannot skew it.\n2. Review element editor: edit Element fields live to see the effect, no recompile needed.\n3. Layout check: LayoutIssues collects layout problems and LayoutReportWindow renders the report; cells also get a details window.\n4. Tester completion rewritten: member completion, array and object destructuring bindings, arrow parameter types from generic arguments; covered by JUnit 5.\n5. JS syntax highlighting for the Rhino editor, resolving members and generic types for accurate colouring.\n6. Zero-allocation float formatting: Schubfach shortest round-trip conversion, DoubleConversion and FastFormat, replacing Double.toString in Vec2/Vec3/Rect/Color formatting.\n\n## Hot swap\n7. Hot swap runs on a self-contained Remold agent, attached before settings load; a -javaagent setup that lacks plugin-arc now degrades with one warning instead of failing.\n8. UI hot swap: Table creator and Cell property chains are tracked, so a redefined builder rebuilds only the affected cells.\n9. Lambda and anonymous class alignment: LambdaAligner, AnonClassAligner and content-hash fingerprints keep anonymous classes paired across redefinition.\n10. Redefinition is gated on instance field-layout compatibility, and slot numbers held by pending aligned classes are not reused.\n11. The hotswap_plus switch is split into init_fix and force_static_lambda.\n\n## Performance\n12. ValueLabel, FieldValueLabel and InlineLabel format without boxing; PairProv shares one buffer and compares content before rebuilding.\n13. Flame graph: canvas clipping and culling, zero-allocation map lookups, spatial depth bucketing.\n14. Fewer per-frame allocations in LimitTable, SearchedLabel and completion prefix matching.\n15. Selection panel: dynamic region scanning is throttled to every 10 frames instead of running on a background executor; unit and bullet sets are cached between scans; tile and building icons are cached per block size.\n\n## Fixes\n- Completion popup not showing, and candidates beyond the first page being unreachable.\n- Completion popup covering the line being typed on.\n- changedFx flash overflowing the scroll pane viewport.\n- Viewers: Mat and Affine2 support, opening brace alignment in pretty print, and label markup state preserved across appends.\n- Android: HiddenApi trimmed in favour of the bundled bypass.\n\n## Dependencies\n- ASM 9.11 (security advisories), Remold 0.2.8.\n\n-----------------\nWIKI: https://i-hope1.github.io/mod-tools",
     "iconHash": "3A0AD1D2055277BCEB7C1A59E0590663D9A04518B2ABF5538D9327E24BF1A735"
   },
   {
@@ -8794,9 +8828,9 @@
     "internalName": "newex",
     "name": "NeoWex 1.0.4 J",
     "author": "XakyW56",
-    "lastUpdated": "2026-11-17T09:11:10Z",
+    "lastUpdated": "2026-11-17T11:50:04Z",
     "stars": 3,
-    "version": "1.0.2",
+    "version": "1.0.4",
     "minGameVersion": "157",
     "hasIcon": true,
     "hasScripts": false,
@@ -10719,18 +10753,18 @@
     "internalName": "mshaders",
     "name": "Mindustry Shaders",
     "author": "REDEagle0705, Claude",
-    "lastUpdated": "2026-11-16T22:24:12Z",
+    "lastUpdated": "2026-11-17T11:44:36Z",
     "stars": 0,
-    "version": "0.1.4",
+    "version": "0.1.5",
     "minGameVersion": "160",
     "hasIcon": false,
     "hasScripts": false,
     "hasJava": true,
-    "description": "Visual effects only: water with reflections, ice and ground effects, directional block shadows, lights that blocks and units stop, metal glint, hand-drawn normal maps that light blocks by calculation, and a colour pass. Every effect can be switched off in Settings > Shaders. Client-side, adds no content. Desktop and Android. Tested on v160.7.",
+    "description": "Visual effects only: water with reflections, ice and ground effects, directional block shadows, lights that blocks and units stop, metal glint, hand-drawn normal maps that light blocks and units by calculation, and a colour pass. Every effect can be switched off in Settings > Shaders. Client-side, adds no content. Desktop and Android. Tested on v160.7.",
     "releases":{
       "160":{
-        "id": 447687837,
-        "version": "0.1.4"
+        "id": 448552018,
+        "version": "0.1.5"
       }
     }
   },
@@ -11003,14 +11037,14 @@
     "internalName": "f-disbalans",
     "name": "F Disbalans",
     "author": "лошка",
-    "lastUpdated": "2026-11-12T15:25:34Z",
+    "lastUpdated": "2026-11-17T10:24:18Z",
     "stars": 0,
-    "version": "0.9",
+    "version": "1.0",
     "minGameVersion": "146",
     "hasIcon": false,
     "hasScripts": false,
     "hasJava": false,
-    "description": "This is death on scrap andPre-release v0.9. Known issue: some unit weapon sounds are currently missing (will be fixed in v1.0). imbalance "
+    "description": "This is death on scrap р release of mod sounds taken from mod ExoGenesis"
   },
   {
     "repo": "rostisllave/mindustry3d",
@@ -12956,7 +12990,7 @@
     "internalName": "aquarion",
     "name": "Aquarion",
     "author": "twcash",
-    "lastUpdated": "2026-11-15T16:20:14Z",
+    "lastUpdated": "2026-11-17T11:14:08Z",
     "stars": 135,
     "version": "4.4.4",
     "minGameVersion": "160.7",
@@ -13844,7 +13878,7 @@
     "internalName": "anomalies",
     "name": "Anomalies",
     "author": "WeT & Claude",
-    "lastUpdated": "2026-11-16T15:52:52Z",
+    "lastUpdated": "2026-11-17T11:41:36Z",
     "stars": 5,
     "version": "1.3.0",
     "minGameVersion": "154",
@@ -14238,7 +14272,7 @@
     "internalName": "slf4md",
     "name": "SLF4MD",
     "author": "xpdustry",
-    "lastUpdated": "2026-11-17T02:42:41Z",
+    "lastUpdated": "2026-11-17T11:42:50Z",
     "stars": 1,
     "version": "1.3.0",
     "minGameVersion": "157",
