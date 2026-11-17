@@ -26,7 +26,7 @@ public class ModUpdater{
     static final int maxLength = 55;
     static final ObjectSet<String> javaLangs = ObjectSet.with("Java", "Kotlin", "Groovy", "Scala"); //obviously not a comprehensive list
 
-    static final Seq<String> nameBlacklist = Seq.with("TheEE145", "o7", "pixaxeofpixie", "Iron-Miner", "EasyPlaySu", "guiYMOUR", "mishakorzik", "N3M1X10", "EvilMan12317", "guiYMOU", "TheSaus").map(s -> s.toLowerCase(Locale.ROOT));
+    static final Seq<String> nameBlacklist = Seq.with("TheEE145", "o7", "pixaxeofpixie", "Iron-Miner", "EasyPlaySu", "guiYMOUR", "mishakorzik", "N3M1X10", "EvilMan12317", "guiYMOU", "TheSaus", "raviraviravi98989-byte", "MINDUSTRY-NO-TEXTURE-MODS-TECHOOGLY").map(s -> s.toLowerCase(Locale.ROOT));
     static final ObjectSet<String> blacklist = ObjectSet.with(
         "Snow-of-Spirit-Fox-Mori/old-mod",
         "fox1va-the-fox/schems",
