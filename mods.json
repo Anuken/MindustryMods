@@ -9313,13 +9313,14 @@
     "name": "Gamepad Support mod",
     "author": "NTT & wareal-nah",
     "lastUpdated": "2026-11-18T19:26:00Z",
-    "stars": 1,
+    "stars": 2,
     "version": "v1.0.0",
     "minGameVersion": "154",
-    "hasIcon": false,
+    "hasIcon": true,
     "hasScripts": false,
     "hasJava": true,
-    "description": "Full Cross-Platform Controller Support for Mindustry v154+ (Java 17).\nNative support for Linux, Windows 10/11, macOS, and Android (including legacy versions).\nWorks out of the box with DualSense, DualShock 4, Xbox One/Series, and standard USB/Bluetooth gamepads.\n\nFeatures:\n• 3 Gameplay Modes: Normal (L2), Build (R1), and Command (L1)\n• Free Camera & Detachment: Scout anywhere on map with D-Pad; L2/L3 to snap back\n• Smart Building & Derelict Repair: Empty-cursor R2 repairs abandoned derelicts & broken plans; line build, area deconstruct, pipette, schematics\n• Full RTS Control: Box unit selection, target assignment, and command/stance cycling\n• Per-Category Stick Inversion: Separate OX/OY stick inversion for all 6 categories\n• UI & Menu Navigation: Virtual cursor with click, drag & scroll support\n• Full In-Game Settings: Rebindable buttons, sensitivity sliders, deadzone & axis tuning"
+    "description": "Full Cross-Platform Controller Support for Mindustry v154+ (Java 17).\nNative support for Linux, Windows 10/11, macOS, and Android (including legacy versions).\nWorks out of the box with DualSense, DualShock 4, Xbox One/Series, and standard USB/Bluetooth gamepads.\n\nFeatures:\n• 3 Gameplay Modes: Normal (L2), Build (R1), and Command (L1)\n• Free Camera & Detachment: Scout anywhere on map with D-Pad; L2/L3 to snap back\n• Smart Building & Derelict Repair: Empty-cursor R2 repairs abandoned derelicts & broken plans; line build, area deconstruct, pipette, schematics\n• Full RTS Control: Box unit selection, target assignment, and command/stance cycling\n• Per-Category Stick Inversion: Separate OX/OY stick inversion for all 6 categories\n• UI & Menu Navigation: Virtual cursor with click, drag & scroll support\n• Full In-Game Settings: Rebindable buttons, sensitivity sliders, deadzone & axis tuning",
+    "iconHash": "88AD7EDAFA41534F2415B3DE9E102A7AD0F2C4B8C0136734ECD8C8E39036EC6C"
   },
   {
     "repo": "null-ification/null-personal-mindustry-bundle",
@@ -13667,18 +13668,18 @@
     "internalName": "raen",
     "name": " 随机强化  Random Enhancement",
     "author": "WaNg-0-1",
-    "lastUpdated": "2026-10-23T11:13:25Z",
+    "lastUpdated": "2026-11-18T21:16:34Z",
     "stars": 1,
-    "version": "160.3.5",
+    "version": "160.3.92",
     "minGameVersion": "160",
     "hasIcon": false,
     "hasScripts": false,
     "hasJava": true,
-    "description": "一个给敌军提供随机强化的Java模组\n A Java mod that gives random buffs to the enemy army",
+    "description": "一个给单位或子弹提供随机强化的Java模组\n A Java mod that gives random buffs to units or bullets",
     "releases":{
       "160":{
-        "id": 421750911,
-        "version": "160.3.5"
+        "id": 450563255,
+        "version": "160.3.92"
       }
     }
   },
