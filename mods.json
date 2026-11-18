@@ -1366,13 +1366,14 @@
     "name": "Inferno Advanced",
     "author": "AtomicPickle",
     "lastUpdated": "2026-11-18T11:46:50Z",
-    "stars": 1,
+    "stars": 2,
     "version": "5.4.2-alpha",
     "minGameVersion": "154",
-    "hasIcon": false,
+    "hasIcon": true,
     "hasScripts": false,
     "hasJava": true,
-    "description": "A Mindustry Java mod.\n ectgore thx for sounds"
+    "description": "A Mindustry Java mod.\n ectgore thx for sounds",
+    "iconHash": "06DD1EE7B54209ABB7A8B7BC726AF6D17ECDF765569661756E9B23AD4121948B"
   },
   {
     "repo": "atoposatrax/flesh-mod",
@@ -4522,31 +4523,11 @@
     "iconHash": "5EF310FF93D0DF6108475D2750D6CBE7B952B94C1DA6997527CC30364E4DBC31"
   },
   {
-    "repo": "fallavalon/scheme-size-god",
-    "internalName": "scheme-size-god",
-    "name": "Size God (SG)",
-    "author": "FallAvalon",
-    "lastUpdated": "2026-11-04T21:15:24Z",
-    "stars": 0,
-    "version": "0.5.4",
-    "minGameVersion": "160.7",
-    "hasIcon": false,
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "All Plus tools, host controls, arena editing, events and Boss-player mode. Vanilla guests supported for tested host actions. Desktop Mindustry 160.7. Testing release; full parity is not yet verified.",
-    "releases":{
-      "160.7":{
-        "id": 434462612,
-        "version": "0.5.4"
-      }
-    }
-  },
-  {
     "repo": "fat-bird-owner/gier-java-side",
     "internalName": "gier-java",
     "name": "Gier: Java Side",
     "author": "Fat Bird's Owner\n[accent]Contributors:[] lu69159 [lightgrey](Space)[]",
-    "lastUpdated": "2026-11-18T12:54:23Z",
+    "lastUpdated": "2026-11-18T15:09:14Z",
     "stars": 1,
     "version": "v1",
     "minGameVersion": "160",
@@ -6377,6 +6358,26 @@
     "hasJava": false,
     "description": "Allow to land the sector of erekir---允许着落埃里克尔的卫星",
     "iconHash": "268F2842919051CED520CF5044E7B936339513F07F0B2B864F7A0136821FC4ED"
+  },
+  {
+    "repo": "karg-nacht/scheme-size-god",
+    "internalName": "scheme-size-god",
+    "name": "Size God (SG)",
+    "author": "FallAvalon",
+    "lastUpdated": "2026-11-04T21:15:24Z",
+    "stars": 0,
+    "version": "0.5.4",
+    "minGameVersion": "160.7",
+    "hasIcon": false,
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "All Plus tools, host controls, arena editing, events and Boss-player mode. Vanilla guests supported for tested host actions. Desktop Mindustry 160.7. Testing release; full parity is not yet verified.",
+    "releases":{
+      "160.7":{
+        "id": 434462612,
+        "version": "0.5.4"
+      }
+    }
   },
   {
     "repo": "kargfirtan/scheme-size-plus",
