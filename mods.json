@@ -2945,6 +2945,20 @@
     "description": "A Mindustry auto translate mod (fork, AI-enhanced)."
   },
   {
+    "repo": "d2709b/ycb-your-custom-battleship",
+    "internalName": "your custom battleship",
+    "name": "Your custom battleship",
+    "author": "2709",
+    "lastUpdated": "2026-11-23T13:55:04Z",
+    "stars": 0,
+    "version": "8.4",
+    "minGameVersion": "160",
+    "hasIcon": false,
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Build flying ships out of ordinary blocks. A ship is a core or storage hull plus any blocks attached to it. In flight every block keeps working (conveyors, drills, pumps, factories, turrets), and turrets fire together.\n\nPress G to enter build mode, Y to move blocks between the ground and the ship, WASD to fly. The YCB guide button in the build menu explains every block, key and mechanic.\n\nNeeded on the server and on every client in multiplayer."
+  },
+  {
     "repo": "d2rkknes/expander",
     "internalName": "exp",
     "name": "Expander",
@@ -4268,7 +4282,7 @@
     "name": "Too Many Items",
     "author": "EBwilson",
     "lastUpdated": "2026-09-21T17:06:22Z",
-    "stars": 78,
+    "stars": 79,
     "version": "3.3",
     "minGameVersion": "159",
     "hasIcon": true,
@@ -4620,7 +4634,7 @@
     "internalName": "gier-java",
     "name": "Gier: Java Side",
     "author": "Fat Bird's Owner\n[accent]Contributors:[] lu69159 [lightgrey](Space)[]",
-    "lastUpdated": "2026-11-23T06:17:15Z",
+    "lastUpdated": "2026-11-23T13:48:49Z",
     "stars": 1,
     "version": "v1",
     "minGameVersion": "160",
@@ -4754,7 +4768,7 @@
     "internalName": "cheetah-x",
     "name": "cheetah x",
     "author": "keven",
-    "lastUpdated": "2026-11-23T11:36:34Z",
+    "lastUpdated": "2026-11-23T12:26:03Z",
     "stars": 4,
     "version": "1.12",
     "minGameVersion": "145",
@@ -5379,7 +5393,7 @@
     "internalName": "metrum",
     "name": "Metrum Industry Drones",
     "author": "AkinoxPl (Steam) / halk6000 (Discord)",
-    "lastUpdated": "2026-11-23T11:00:44Z",
+    "lastUpdated": "2026-11-23T12:49:00Z",
     "stars": 0,
     "version": "2.5.8",
     "minGameVersion": "160",
@@ -5917,21 +5931,6 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "A mod planning to bring one of the largest campaign experiences to mindustry. Probably will take ages to make as a solo dev :/"
-  },
-  {
-    "repo": "i-drink-gasoline/admin-button-2",
-    "internalName": "admin-button-2",
-    "name": "Admin Button 2",
-    "author": "I drink gasoline",
-    "lastUpdated": "2026-09-06T10:35:36Z",
-    "stars": 7,
-    "version": "34",
-    "minGameVersion": "159",
-    "hasIcon": true,
-    "hasScripts": false,
-    "hasJava": true,
-    "description": " [accent]Admin Button 2[]  - A mod with lots of features for multiplayer and singleplayer games\n\n [accent]Control panel[]: Control panel with customizable buttons\n\n [accent]Chat enhancements[]: You can customize how your chat messages look so that you can stand out\n\n [accent]Wave viewer[]: Waves can be viewed while playing\n\n [accent]Image generator[]: Generating schematics with images has never been easier\n\n [accent]AutoFill[]: A very customizable way to automatically fill buildings with items\n\n [accent]Player controller[]: Automatically control your unit\n\n [accent]Turret range[]: Range of turrets can be viewed\n\n [accent]And more[]: Lots of other features",
-    "iconHash": "0D31720B9948F4D40CAF01D18AD7F7742116ED397BEE9FA553479EA32154E519"
   },
   {
     "repo": "i-hope1/mod-tools",
@@ -7636,6 +7635,20 @@
     "description": "The pipette (Pick key, middle mouse) on empty ground picks the block that works there: a plasma bore for ore in a wall, a cliff crusher for a wall, a condenser for a steam vent, a drill for ore, a pump for liquid, a core for a core zone. Click again for the next one."
   },
   {
+    "repo": "m3rcur1e/undo",
+    "internalName": "undo",
+    "name": "Undo",
+    "author": "m3rcur1e",
+    "lastUpdated": "2026-10-18T03:17:07Z",
+    "stars": 1,
+    "version": "1.1.0",
+    "minGameVersion": "160",
+    "hasIcon": false,
+    "hasScripts": true,
+    "hasJava": false,
+    "description": "Ctrl+Z undoes your last build actions, Ctrl+Shift+Z redoes them: placed blocks are removed, deconstructed ones come back with their rotation and settings, cancelled plans return. Keys in Controls, history depth in Settings."
+  },
+  {
     "repo": "m3rcur1e/vent-snap",
     "internalName": "vent-snap",
     "name": "Vent Snap",
@@ -8934,7 +8947,7 @@
     "internalName": "newex",
     "name": "NeoWex 1.0.10 J",
     "author": "XakyW56",
-    "lastUpdated": "2026-11-23T10:31:48Z",
+    "lastUpdated": "2026-11-23T12:40:36Z",
     "stars": 2,
     "version": "1.0.10",
     "minGameVersion": "157",
@@ -10880,7 +10893,7 @@
     "internalName": "mshaders",
     "name": "Mindustry Shaders",
     "author": "REDEagle0705, Claude",
-    "lastUpdated": "2026-11-23T02:34:04Z",
+    "lastUpdated": "2026-11-23T13:12:22Z",
     "stars": 2,
     "version": "0.2.1",
     "minGameVersion": "160",
@@ -13815,9 +13828,9 @@
     "internalName": "raen",
     "name": " 随机强化  Random Enhancement",
     "author": "WaNg-0-1",
-    "lastUpdated": "2026-11-23T08:27:34Z",
+    "lastUpdated": "2026-11-23T12:43:55Z",
     "stars": 1,
-    "version": "160.4.03",
+    "version": "160.4.10",
     "minGameVersion": "160",
     "hasIcon": false,
     "hasScripts": false,
@@ -13825,8 +13838,8 @@
     "description": "一个给单位或子弹提供随机强化的Java模组\n A Java mod that gives random buffs to units or bullets",
     "releases":{
       "160":{
-        "id": 455152820,
-        "version": "160.4.03"
+        "id": 455414150,
+        "version": "160.4.10"
       }
     }
   },
@@ -14367,6 +14380,20 @@
     "description": "The Ring of Hell — a pack of 7 sectors maps"
   },
   {
+    "repo": "xerxes-anominus/jpro",
+    "internalName": "java-processor",
+    "name": "JProcessor",
+    "author": "Xean",
+    "lastUpdated": "2026-11-23T13:43:51Z",
+    "stars": 0,
+    "version": "1",
+    "minGameVersion": "160",
+    "hasIcon": false,
+    "hasScripts": false,
+    "hasJava": true,
+    "description": ""
+  },
+  {
     "repo": "xerxes-anominus/nevix",
     "internalName": "nevix",
     "name": "Nevix",
@@ -14615,7 +14642,7 @@
     "internalName": "magic",
     "name": "幻境/magical",
     "author": "幻境模组制作团队",
-    "lastUpdated": "2026-11-22T05:39:11Z",
+    "lastUpdated": "2026-11-23T13:20:02Z",
     "stars": 5,
     "version": "0.21",
     "minGameVersion": "160",
