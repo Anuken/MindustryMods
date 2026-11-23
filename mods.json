@@ -1813,7 +1813,7 @@
     "internalName": "sword-deities-mod",
     "name": "PHIGHTING! SWORD DEITIES",
     "author": "BlueDoves3821",
-    "lastUpdated": "2026-11-23T15:32:32Z",
+    "lastUpdated": "2026-11-23T16:32:27Z",
     "stars": 5,
     "version": "2.16",
     "minGameVersion": "136.1",
@@ -2001,17 +2001,17 @@
   },
   {
     "repo": "bsp-2/factory-simulator",
-    "internalName": "patchviewer",
-    "name": "PatchViewer / 补丁查看器",
-    "author": "DeterMination",
+    "internalName": "factory-sim",
+    "name": "The Factory Must Grow",
+    "author": "Thinkerdoodle",
     "lastUpdated": "2026-08-14T15:47:07Z",
     "stars": 7,
-    "version": "2.5.0",
-    "minGameVersion": "154",
+    "version": "v4.0",
+    "minGameVersion": "158.1",
     "hasIcon": true,
     "hasScripts": false,
-    "hasJava": true,
-    "description": "Native database and quick before/after diff viewer for Mindustry datapatches. / 保持原版数据库显示的数据补丁与快捷差异查看器。",
+    "hasJava": false,
+    "description": "A recreation of a game called Factory Simulator.\nRequires multicrafter lib. ",
     "iconHash": "547ECBD7D7E63FE2CBD66F8862DA04F6C76470AA685DB9F874E4EF2F7F76A9C7"
   },
   {
@@ -3236,7 +3236,7 @@
     "internalName": "azimut",
     "name": "Azimuth",
     "author": "DeerCarbonate",
-    "lastUpdated": "2026-11-22T10:36:38Z",
+    "lastUpdated": "2026-11-23T16:38:24Z",
     "stars": 54,
     "version": "0.52",
     "minGameVersion": "160",
@@ -3648,6 +3648,20 @@
     "hasJava": true,
     "description": "All-in-one QoL toolkit: map, minimap, radial build, RTS formation, pinyin search, hotkey, terrain generation, auto pruning, duct coloring, logic sugar, tripwire alert, screenshot, projector overlay, logistics monitor, player database, patch viewer, custom marker, server translator, poly AI, advanced replace, mod updater, Random, and lock-on focus fire. / 全能辅助模组集：地图编辑、小地图、圆盘菜单、RTS 编队、拼音搜索、快捷键、地形生成、智能拆除、导管染色、LogicSugar、地理围栏、截图、投影覆盖、物流监控、玩家数据库、补丁查看器、自定义标记、服务器翻译、Poly AI、高级替换、模组更新、随机化和锁定攻击。",
     "iconHash": "D5D1415A0199C6070B0AE9EC2349E5109D88C68851261E2F107362EDFF2144D8"
+  },
+  {
+    "repo": "determination-wind/patchviewer",
+    "internalName": "patchviewer",
+    "name": "PatchViewer / 补丁查看器",
+    "author": "DeterMination",
+    "lastUpdated": "2026-11-21T11:45:34Z",
+    "stars": 4,
+    "version": "2.5.0",
+    "minGameVersion": "154",
+    "hasIcon": false,
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "Native database and quick before/after diff viewer for Mindustry datapatches. / 保持原版数据库显示的数据补丁与快捷差异查看器。"
   },
   {
     "repo": "determination-wind/pinyinsearchsupport",
@@ -7502,10 +7516,11 @@
     "stars": 12,
     "version": "0.1",
     "minGameVersion": "155",
-    "hasIcon": false,
+    "hasIcon": true,
     "hasScripts": false,
     "hasJava": true,
-    "description": "\n神秘mod\n贴图抠得依托势，但胜在能看（）\n"
+    "description": "\n神秘mod\n贴图抠得依托势，但胜在能看（）\n",
+    "iconHash": "97546F28C8E8A11AA45952F67B1AE0732F4DD564FE56B121B6587A1BFA4A0FE9"
   },
   {
     "repo": "m1cxzfw3q/logicextend",
@@ -8947,7 +8962,7 @@
     "internalName": "newex",
     "name": "NeoWex 1.0.10 J",
     "author": "XakyW56",
-    "lastUpdated": "2026-11-23T12:40:36Z",
+    "lastUpdated": "2026-11-23T17:40:58Z",
     "stars": 2,
     "version": "1.0.10",
     "minGameVersion": "157",
@@ -9641,7 +9656,7 @@
     "internalName": "periodic",
     "name": "periodic overhaul",
     "author": "oleksiy",
-    "lastUpdated": "2026-11-22T11:57:19Z",
+    "lastUpdated": "2026-11-23T17:59:53Z",
     "stars": 4,
     "version": "0.11",
     "minGameVersion": "146",
@@ -10505,7 +10520,7 @@
     "internalName": "sfire-mod",
     "name": "Saturation Firepower Mod",
     "author": "RAdea.exe",
-    "lastUpdated": "2026-11-23T15:46:40Z",
+    "lastUpdated": "2026-11-23T16:08:09Z",
     "stars": 164,
     "version": "4.0.6.3",
     "minGameVersion": "160",
@@ -10514,6 +10529,21 @@
     "hasJava": true,
     "description": "Hell time, once for all\n\nThis mod adds new items, buildings, units, and turrets, and has a planet for you to explore.\nMore campaign maps WIP.\nWarning: This mod makes certain modifications to the original game content to accommodate the mod's operation.\n国内玩家可前往QQ群181108928获取第一动向",
     "iconHash": "29FD5BABB5CB502D3A886EB6D000BC034A22FA0F078599190E039227BAAB5D13"
+  },
+  {
+    "repo": "racti2037/real-military-techic-mod",
+    "internalName": "military-techic-mod",
+    "name": "Military Technic Mod",
+    "author": "Racti",
+    "lastUpdated": "2026-07-11T08:20:53Z",
+    "stars": 12,
+    "version": "0.3.1",
+    "minGameVersion": "142",
+    "hasIcon": true,
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Mod add tanks, aircraft and naval ships",
+    "iconHash": "ACD7F22DBE14CFEA33CF9DA441981A06AB57EECD6A43E92D2F28B2DFE2C487ED"
   },
   {
     "repo": "racti2037/starry-test-mod",
@@ -12374,7 +12404,7 @@
     "internalName": "deepsea",
     "name": "Project: Deep Sea",
     "author": "[#ffd469]Sputnuc",
-    "lastUpdated": "2026-11-23T09:51:18Z",
+    "lastUpdated": "2026-11-23T16:35:20Z",
     "stars": 12,
     "version": "0.4 (indev)",
     "minGameVersion": "159",
@@ -12382,7 +12412,7 @@
     "hasScripts": false,
     "hasJava": true,
     "description": "The mod is about underwater campaign and more. \n[#4b457a]You're going TOO DEEP to come back[white] \n\nSpecial thanks to: \n [#ef75ff]Cirrusisakey (c4anide) - for many things[white] \n [#ffb969]AnDashik - some help[white] \n [#ff3d61]Skifor - some sounds[white] \n [#d488db]Scp Solverion - music[white]",
-    "iconHash": "ECE74D8D6686B76A6E981556710D9313C50546263DC6A9D5B51AD3BD4BBB0A9E"
+    "iconHash": "7D6317E2B599E2F4DDEC7F653A1C9649D3FFC942B23CD4943B708F8ADD7976D2"
   },
   {
     "repo": "sputnuc/expansion-java",
@@ -12660,6 +12690,20 @@
     "hasScripts": false,
     "hasJava": false,
     "description": "All the music belongs to Toby Fox."
+  },
+  {
+    "repo": "the-frozen-core-studio/caelum-ardens",
+    "internalName": "caelum-ardens",
+    "name": "Blazing skies",
+    "author": "creogen_52, санечка",
+    "lastUpdated": "2026-11-05T07:26:30Z",
+    "stars": 2,
+    "version": "0.1.1 alpha",
+    "minGameVersion": "145",
+    "hasIcon": false,
+    "hasScripts": false,
+    "hasJava": false,
+    "description": "Quamvis flammis haec tellus ceu ligna cremetur,\nvita tamen latitat, Fronteloni occulta.\nQuae vocatur bestiolis piscibusque,\netsi nil animi rationisque tenet."
   },
   {
     "repo": "thechronodonut1337/silent-orchestra",
