@@ -699,7 +699,7 @@
     "internalName": "ironworld",
     "name": "IronWorld",
     "author": "Alexandre Monoyioudis",
-    "lastUpdated": "2026-11-24T12:34:22Z",
+    "lastUpdated": "2026-11-24T18:49:15Z",
     "stars": 3,
     "version": "0.1",
     "minGameVersion": "147",
@@ -911,26 +911,6 @@
     "hasJava": false,
     "description": "A new planet marked by is ancient civilizations and wars during is history, named [accent]Clasmodila[].\nThe [accent]Sharded[] team has sent you here to retrieve information about this planet, yet you know theres more than just information.\n\nAdds a new storyline to the game where you are selected as the leader of an operation to retake control on [accent]Clasmodila[] after a new enemy, [accent]Anthalos[], decided to show up and settle their own regiment.\n[red]NOTE: THIS IS A HARD MOD[]\n[red]IMPORTANT NOTE: BETTER TO BE PLAYED ON A NEW SAVE FILE DUE TO FILE CORRUPTION IN THE FULL RELEASE (AKA COMPLETE RESPRITE AND PROPER UNIT DESING)[]",
     "iconHash": "2E0A2CC9FD73B8CB73C16DB2A079D34C1DAC25EBF3BFF72E38886D7C1ADE5BD8"
-  },
-  {
-    "repo": "andrewmaiorov2010-source/fast-logic",
-    "internalName": "logic-speed-five",
-    "name": "Fast Logic — Processor Speed",
-    "author": "TTERARUAA",
-    "lastUpdated": "2026-11-14T13:07:01Z",
-    "stars": 0,
-    "version": "1.3.2",
-    "minGameVersion": "160",
-    "hasIcon": false,
-    "hasScripts": false,
-    "hasJava": true,
-    "description": "English\n\nSpeeds up vanilla Micro, Logic, and Hyper Processors with independently configurable speed multipliers from 1× to 15×.\n\nEnable or disable acceleration for each processor type, adjust speeds in the mod settings, and keep your preferences saved between sessions.\n\nThe wait instruction and game time are not accelerated.\n\nРусский\n\nУскоряет стандартные микро-, логические и гиперпроцессоры в 1–15 раз.\n\nМожно отдельно включать и отключать ускорение каждого типа процессоров, настраивать множители скорости и сохранять выбранные параметры между запусками игры.\n\nКоманда wait и игровое время не ускоряются.",
-    "releases":{
-      "160":{
-        "id": 445294683,
-        "version": "1.3.2"
-      }
-    }
   },
   {
     "repo": "andrewmaiorov2010-source/sector-redirect",
@@ -12668,8 +12648,8 @@
     "internalName": "fos",
     "name": "Fictional Octo System",
     "author": "Team Oct",
-    "lastUpdated": "2026-11-24T15:15:33Z",
-    "stars": 67,
+    "lastUpdated": "2026-11-24T18:52:07Z",
+    "stars": 68,
     "version": "1.1 beta build-2.2",
     "minGameVersion": "160",
     "hasIcon": true,
@@ -13186,6 +13166,26 @@
     "hasJava": false,
     "description": "Some Superized Items! With Fun Stuffs!",
     "iconHash": "894DA0780F53281A3BE17D5253C576D3455FC215EE4BDC68518564659D20AA1C"
+  },
+  {
+    "repo": "tteraruaa/fast-logic",
+    "internalName": "logic-speed-five",
+    "name": "Fast Logic — Processor Speed",
+    "author": "TTERARUAA",
+    "lastUpdated": "2026-11-14T13:07:01Z",
+    "stars": 0,
+    "version": "1.3.2",
+    "minGameVersion": "160",
+    "hasIcon": false,
+    "hasScripts": false,
+    "hasJava": true,
+    "description": "English\n\nSpeeds up vanilla Micro, Logic, and Hyper Processors with independently configurable speed multipliers from 1× to 15×.\n\nEnable or disable acceleration for each processor type, adjust speeds in the mod settings, and keep your preferences saved between sessions.\n\nThe wait instruction and game time are not accelerated.\n\nРусский\n\nУскоряет стандартные микро-, логические и гиперпроцессоры в 1–15 раз.\n\nМожно отдельно включать и отключать ускорение каждого типа процессоров, настраивать множители скорости и сохранять выбранные параметры между запусками игры.\n\nКоманда wait и игровое время не ускоряются.",
+    "releases":{
+      "160":{
+        "id": 445294683,
+        "version": "1.3.2"
+      }
+    }
   },
   {
     "repo": "twcash/aquarion",
