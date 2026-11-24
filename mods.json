@@ -2964,13 +2964,14 @@
     "name": "Your custom battleship",
     "author": "2709",
     "lastUpdated": "2026-11-23T13:55:04Z",
-    "stars": 1,
+    "stars": 2,
     "version": "8.4",
     "minGameVersion": "160",
-    "hasIcon": false,
+    "hasIcon": true,
     "hasScripts": true,
     "hasJava": false,
-    "description": "Build flying ships out of ordinary blocks. A ship is a core or storage hull plus any blocks attached to it. In flight every block keeps working (conveyors, drills, pumps, factories, turrets), and turrets fire together.\n\nPress G to enter build mode, Y to move blocks between the ground and the ship, WASD to fly. The YCB guide button in the build menu explains every block, key and mechanic.\n\nNeeded on the server and on every client in multiplayer."
+    "description": "Build flying ships out of ordinary blocks. A ship is a core or storage hull plus any blocks attached to it. In flight every block keeps working (conveyors, drills, pumps, factories, turrets), and turrets fire together.\n\nPress G to enter build mode, Y to move blocks between the ground and the ship, WASD to fly. The YCB guide button in the build menu explains every block, key and mechanic.\n\nNeeded on the server and on every client in multiplayer.",
+    "iconHash": "30C7FA8EA9A359F4BDE92D5A6DE1C524438A175A1B147560DA90B4C0C829BEE7"
   },
   {
     "repo": "d2rkknes/expander",
@@ -3137,7 +3138,7 @@
     "name": "Chremistica",
     "author": "Dark V",
     "lastUpdated": "2026-11-23T07:19:17Z",
-    "stars": 0,
+    "stars": 1,
     "version": "0.1 W.I.P",
     "minGameVersion": "156",
     "hasIcon": false,
@@ -4648,7 +4649,7 @@
     "internalName": "gier-java",
     "name": "Gier: Java Side",
     "author": "Fat Bird's Owner\n[accent]Contributors:[] lu69159 [lightgrey](Space)[]",
-    "lastUpdated": "2026-11-23T14:01:13Z",
+    "lastUpdated": "2026-11-24T05:55:59Z",
     "stars": 1,
     "version": "v1",
     "minGameVersion": "160",
@@ -14456,14 +14457,14 @@
     "internalName": "xn-qol-enhancements",
     "name": "Smol QoL Enhancements",
     "author": "Xnuui",
-    "lastUpdated": "2026-11-22T00:45:10Z",
+    "lastUpdated": "2026-11-24T05:51:59Z",
     "stars": 0,
-    "version": "1.3",
+    "version": "1.4",
     "minGameVersion": "160",
     "hasIcon": false,
     "hasScripts": true,
     "hasJava": false,
-    "description": "Features in this mod were listed as PRs a while ago. But Anuke, to this day, has not decided to merge them in, so i made a mod about it.\n\nFeatures included:\n1. Phase Bridge Auto-link; Basically how you can do it with normal bridges, but with phase bridges supported too.\n\n2. Junction Fix;\nLets players move a conduit line over a junction, without modifying it back into a normal conduit.\n\n3. Total Schematic fix;\nDisplays the total schematic size when opening a schematic."
+    "description": "[#FFB7C5]Features in this mod were listed as [#EF4444]PRs[#FFB7C5] a while ago. But [#EF4444]Anuke[#FFB7C5], to this day, has not decided to merge them in, so i made a mod about it.\n\n[#EF4444]Features included:\n\n[#FFF000]1. Phase Bridge Auto-link [#EF4444](DRAGGING)\n[#88C6ED]Works like normal bridges when you drag, but with phase bridges supported too.\n\n[#FFF000]2. Junction Fix\n[#88C6ED]Lets players move a conduit line over a junction without turning it back into a normal conduit.\n\n[#82C341]3. Total Schematic Fix\n[#88C6ED]Displays the total schematic size when opening a schematic.\n\n[#FAA31B]4. Heat Decimal Display\n[#88C6ED]Displays heat as a decimal only when there is one"
   },
   {
     "repo": "xpdustry/claj",
