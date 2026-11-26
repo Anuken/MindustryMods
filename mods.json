@@ -5403,9 +5403,9 @@
     "internalName": "metrum",
     "name": "Metrum Industry Drones",
     "author": "AkinoxPl (Steam) / halk6000 (Discord)",
-    "lastUpdated": "2026-11-25T17:34:41Z",
-    "stars": 0,
-    "version": "2.6.0",
+    "lastUpdated": "2026-11-26T07:44:55Z",
+    "stars": 1,
+    "version": "2.6.1",
     "minGameVersion": "160",
     "hasIcon": false,
     "hasScripts": false,
@@ -5413,8 +5413,8 @@
     "description": "Industry, drones, fuel logistics and particle physics for a new planet.",
     "releases":{
       "160":{
-        "id": 456443631,
-        "version": "2.6.0"
+        "id": 459094511,
+        "version": "2.6.1"
       }
     }
   },
@@ -8461,12 +8461,12 @@
     "internalName": "brilliance",
     "name": "光辉",
     "author": "末狐是个鸽子",
-    "lastUpdated": "2026-11-23T09:51:43Z",
+    "lastUpdated": "2026-11-26T06:58:59Z",
     "stars": 10,
-    "version": "1.0.1-D9",
+    "version": "1.0.2-D1",
     "minGameVersion": "154",
     "hasIcon": true,
-    "hasScripts": false,
+    "hasScripts": true,
     "hasJava": false,
     "description": "\nQ群：575994735\n使用这个MOD来体验在mindustry中极不平衡（甚至有点离谱）的战役进度！\nPS:光辉mod的音乐已经独立为一个MOD啦",
     "iconHash": "4B3D71307E36EB1BF90B0E979B863ED43F5C5F3A4AC712081FDF322876D3CB62"
@@ -11660,14 +11660,14 @@
     "internalName": "anser hard serpulo",
     "name": "Anser Custom Difficulty",
     "author": "SarakaUnciv",
-    "lastUpdated": "2026-11-25T21:08:01Z",
+    "lastUpdated": "2026-11-26T07:26:59Z",
     "stars": 0,
-    "version": "3.0",
+    "version": "3.1",
     "minGameVersion": "147",
     "hasIcon": false,
     "hasScripts": true,
     "hasJava": false,
-    "description": "V.2.7 fix bug that ProductionMult not active Automatically\n\t\n\t0. This mod [#00ff00]merge[] enemy unit into next tier unit [#ffff00]To prevent lag of 2000+ unit[]\n\t\n\t1. This mod let you [#ffff00]customize[] [#ffff00]Casual[] Difficulty in [#00ffff]game setting[] also make other Difficulty [#ff0000]harder[]\n\t\n\t2.1 [#00ffff]configurable[] enemy [#ffff00]production[] speed up to [#ff0000]6400%[]\n\tEnemy production in most map [#ffff00]will begin after a while[] which [#ff0000]does not effect by this setting[]\n\t[#ff0000]Turn This setting on will override corresponding rules in custom game[]\n\t\n\t2.2 [#00ffff]configurable[] enemy [#ffff00]attack[] damage up to [#ff0000]6400%[]\n\t[#ff0000]Turn this setting on will override corresponding rules in custom game[]\n\t\n\t3. Make all serpulo sector [#ff0000]enemy base[] and can be [#00ffff]turn off[] and [#ff8000]require restart[]\n\tMake all Serpulo numbered sector [#ff0000]enemy base[]\n\tVanilla enemy base sector now have [#ff8000]Extreme[] threat while other sector now have [#ff0000]Eradication[] threat\n\t[#a0ffa0]Vanilla enemy base sector map does not effect by threat level meaning they still have the same building and wave as in vanilla[]\n\tNumbered sector that does not have enemy base in vanilla this mod will make them generate base\n\t\n\t4. Mark all serpulo vanilla [#ff0000]enemy base[] sector with icon\n\t[#ff0000]Eradication[] threat is marked with melting other threat is marked with shocked\n\t[#ff0080]WARNING this mod will overwrite icon on all serpulo vanilla enemy base sector and can't be turn off[]\n\t\n\t[#ff0000]Check out my other Anser mod name[]\n\t[#ffff00]Comment on my Youtube if you wanna talk to me Link in repo[]\n\t[#ffc0c0]I post update of all of my mod on Mindustry Discord modding-forum search Anser you will find[]\n\t\n\tThis mod was made in build 160.7"
+    "description": "V.2.7 fix bug that ProductionMult not active Automatically\n\t\n\t-1. This mod [#00ff00]merge[] enemy unit into next tier unit [#ffff00]To prevent lag of 2000+ unit[] and can be [#00ffff]turn off[]\n\t\n\t0. This mod have setting that make all vanilla unit hitbox small to prevent big unit from get stuck can be [#00ffff]turn on[] [#ff8000]require restart[]\n\t[#80ff80]This also make unit take knockback base on thier 'size'[]\n\t\n\t1. This mod let you [#ffff00]customize[] [#ffff00]Casual[] Difficulty in [#00ffff]game setting[] also make other Difficulty [#ff0000]harder[]\n\t\n\t2.1 [#00ffff]configurable[] enemy [#ffff00]production[] speed up to [#ff0000]6400%[]\n\tEnemy production in most map [#ffff00]will begin after a while[] which [#ff0000]does not effect by this setting[]\n\t[#ff0000]Turn This setting on will override corresponding rules in custom game[]\n\t\n\t2.2 [#00ffff]configurable[] enemy [#ffff00]attack[] damage up to [#ff0000]6400%[]\n\t[#ff0000]Turn this setting on will override corresponding rules in custom game[]\n\t\n\t3. Make all serpulo sector [#ff0000]enemy base[] and can be [#00ffff]turn off[] and [#ff8000]require restart[]\n\tMake all Serpulo numbered sector [#ff0000]enemy base[]\n\tVanilla enemy base sector now have [#ff8000]Extreme[] threat while other sector now have [#ff0000]Eradication[] threat\n\t[#a0ffa0]Vanilla enemy base sector map does not effect by threat level meaning they still have the same building and wave as in vanilla[]\n\tNumbered sector that does not have enemy base in vanilla this mod will make them generate base\n\t\n\t4. Mark all serpulo vanilla [#ff0000]enemy base[] sector with icon\n\t[#ff0000]Eradication[] threat is marked with melting other threat is marked with shocked\n\t[#ff0080]WARNING this mod will overwrite icon on all serpulo vanilla enemy base sector and can't be turn off[]\n\t\n\t[#ff0000]Check out my other Anser mod name[]\n\t[#ffff00]Comment on my Youtube if you wanna talk to me Link in repo[]\n\t[#ffc0c0]I post update of all of my mod on Mindustry Discord modding-forum search Anser you will find[]\n\t\n\tThis mod was made in build 160.7"
   },
   {
     "repo": "sarakaunciv/anserlaunchanywhere",
